@@ -1,0 +1,4 @@
+# Placeholder site — keep out of the index until the real site ships.
+# DELETE these two lines (or set `Disallow:`) at launch.
+User-agent: *
+Disallow: /

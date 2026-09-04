@@ -1,0 +1,22 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Dependencies / build output
+node_modules/
+dist/
+build/
+.next/
+.cache/
+
+# Netlify
+.netlify/
+
+# Env
+.env
+.env.*
+!.env.example
