@@ -30,7 +30,7 @@ gsap.matchMedia().add('(prefers-reduced-motion: no-preference)', () => {
   const intro = gsap.timeline({ defaults: { ease: EASE }, onComplete: () => { introDone = true; } });
   intro
     .to('.hero__eyebrow', { y: 0, opacity: 1, duration: .7 })
-    .to('.hero h1 .line > span', { yPercent: 0, duration: 1.05, stagger: .11 }, '-=.4')
+    .to('.hero h1 .line > span', { y: 0, duration: 1.05, stagger: .11 }, '-=.4') // y not yPercent: GSAP parses the CSS % start as px
     .to('.hero__deck, .hero__qual, .hero__cta', { y: 0, opacity: 1, duration: .8, stagger: .1 }, '-=.55')
     .to('.hero__badge', { scale: 1, opacity: 1, duration: .8 }, '-=.6')
     .to('.hero__steps > *', { y: 0, opacity: 1, duration: .6, stagger: .08 }, '-=.5');
@@ -58,7 +58,7 @@ gsap.matchMedia().add('(prefers-reduced-motion: no-preference)', () => {
       trigger: el, start: 'top 85%', once: true,
       onEnter: () => gsap.to(o, {
         v: end, duration: 1.4, ease: EASE,
-        onUpdate: () => { el.textContent = Math.round(o.v).toLocaleString() + suffix; },
+        onUpdate: () => { el.textContent = String(Math.round(o.v)) + suffix; },
       }),
     });
   });
@@ -66,7 +66,7 @@ gsap.matchMedia().add('(prefers-reduced-motion: no-preference)', () => {
   /* ---- 4. gallery drift: the strip slides as you pass it (not pinned — mobile safe) */
   const strip = document.querySelector<HTMLElement>('.strip__track');
   if (strip) {
-    const overflow = () => Math.max(0, strip.scrollWidth - strip.clientWidth);
+    const overflow = () => Math.max(0, strip.scrollWidth - (strip.parentElement?.clientWidth ?? 0));
     gsap.to(strip, {
       x: () => -overflow(), ease: 'none',
       scrollTrigger: { trigger: '.strip', start: 'top bottom', end: 'bottom top', scrub: 1.2, invalidateOnRefresh: true },
