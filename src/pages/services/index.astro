@@ -12,7 +12,7 @@ const crumbs = [
   description={`Putting greens, residential and pet turf, commercial, sports fields, indoor facilities, removal and HOA submittals. Three markets. Call ${phone}.`}
   crumbs={crumbs}
 >
-  <section class="hero hero--sub mown-stripe">
+  <section class="hero hero--sub mown-stripe--dark">
     <div class="wrap">
       <nav class="crumbs" aria-label="Breadcrumb">
         <a href="/">Home</a> <span aria-hidden="true">/</span> <span>Services</span>
@@ -25,7 +25,7 @@ const crumbs = [
 
   <section class="sec">
     <div class="wrap">
-      <ul class="idx">
+      <ul class="idx" data-reveal>
         {SERVICES.map((s) => (
           <li><a href={`/services/${s.slug}/`} data-cta={`svc-${s.slug}`}>
             <span class="idx__n">{s.name}</span>
@@ -37,7 +37,7 @@ const crumbs = [
   </section>
 
   <section class="sec sec--dark on-dark close">
-    <div class="wrap">
+    <div class="wrap" data-reveal>
       <h2>Not sure which one you need?</h2>
       <p class="close__p">Describe the space and we will tell you. If turf is wrong for it, we will say that too.</p>
       {phoneHref && <a class="btn btn--primary btn--lg" href={phoneHref} data-cta="call-services-index">Call {phone}</a>}

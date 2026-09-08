@@ -2,13 +2,15 @@
 import Base from '../../layouts/Base.astro';
 import Figure from '../../components/Figure.astro';
 import { MARKETS } from '../../data/markets';
-import { shotsBy } from '../../data/shotlist';
-import { businessName, phone, phoneHref, services } from '../../data/brief';
+import { shotsBy, heroSrc } from '../../data/shotlist';
+import { SERVICES } from '../../data/services';
+import { businessName, phone, phoneHref } from '../../data/brief';
 
 export function getStaticPaths() {
   return MARKETS.map((m) => ({ params: { market: m.slug }, props: { m } }));
 }
 const { m } = Astro.props;
+const hero = heroSrc(); // TODO per-market hero once the client's photos land; all stock for now
 
 const ANSWER = {
   question: `Who installs artificial turf and putting greens in ${m.short}?`,
@@ -26,7 +28,8 @@ const crumbs = [
   answer={ANSWER}
   crumbs={crumbs}
 >
-  <section class="hero hero--sub mown-stripe">
+  <section class="hero hero--sub mown-stripe--dark">
+    {hero && <img class="hero__img" src={hero} alt="" fetchpriority="high" decoding="async" />}
     <div class="wrap">
       <nav class="crumbs" aria-label="Breadcrumb">
         <a href="/">Home</a> <span aria-hidden="true">/</span> <span>{m.name}</span>
@@ -43,7 +46,7 @@ const crumbs = [
 
   <!-- the regulatory fact no competitor in this market has written up -->
   <section class="sec sec--green on-dark mown-stripe mown-stripe--dark">
-    <div class="wrap band">
+    <div class="wrap band" data-reveal>
       <p class="micro">What changes here</p>
       <h2>{m.law.headline}</h2>
       <p class="band__p">{m.law.detail}</p>
@@ -53,19 +56,21 @@ const crumbs = [
 
   <section class="sec">
     <div class="wrap">
-      <p class="micro">What we install in {m.short}</p>
+      <p class="micro" data-reveal>What we install in {m.short}</p>
       <h2>Anything that&rsquo;s turf.</h2>
       <ul class="svcs">
-        {services.map((s) => <li class="svc"><span class="svc__n">{s}</span></li>)}
+        {SERVICES.slice(0, 6).map((s) => (
+          <li class="svc" data-reveal><a href={`/services/${s.slug}/`} data-cta={`svc-${s.slug}`}><span class="svc__n">{s.name}</span><span class="idx__d">{s.lede}</span></a></li>
+        ))}
       </ul>
     </div>
   </section>
 
   <section class="sec sec--band">
     <div class="wrap">
-      <p class="micro">Where we work</p>
+      <p class="micro" data-reveal>Where we work</p>
       <h2>{m.anchors.length} anchors, and everything between them.</h2>
-      <ul class="towns">
+      <ul class="towns" data-reveal>
         {m.anchors.map((t) => <li>{t}</li>)}
       </ul>
       <p class="proof__note">Town pages follow. Each one carries something true about that town, or it does not get built.</p>
@@ -74,7 +79,7 @@ const crumbs = [
 
   <section class="sec">
     <div class="wrap">
-      <p class="micro">The work</p>
+      <p class="micro" data-reveal>The work</p>
       <h2>Jobs in {m.short}.</h2>
       <div class="proof__grid">
         {shotsBy('finished').slice(0, 3).map((shot) => <Figure shot={shot} />)}
@@ -83,7 +88,7 @@ const crumbs = [
   </section>
 
   <section class="sec sec--band answer-box">
-    <div class="wrap">
+    <div class="wrap" data-reveal>
       <p class="micro">The short version</p>
       <h2 class="answer-box__q">{ANSWER.question}</h2>
       <p class="answer-box__a">{ANSWER.answer}</p>
@@ -91,7 +96,7 @@ const crumbs = [
   </section>
 
   <section class="sec sec--dark on-dark close">
-    <div class="wrap">
+    <div class="wrap" data-reveal>
       <p class="micro">What happens next</p>
       <h2>You call, we measure, you get a number.</h2>
       {phoneHref && <a class="btn btn--primary btn--lg" href={phoneHref} data-cta={`call-close-${m.slug}`}>Call {phone}</a>}

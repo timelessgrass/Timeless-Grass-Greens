@@ -98,8 +98,10 @@
 .card p, .idx__d, .mkts__s { color: var(--ink-dim); font-size: .95rem; margin: 0; line-height: 1.5; }
 .on-dark .card p { color: var(--ink-on-dark-dim); }
 .idx__m { display: block; font-size: .64rem; letter-spacing: var(--track-micro); text-transform: uppercase; font-weight: 600; color: var(--accent); margin-bottom: .2rem; }
-.card a, .idx a, .mkts a { text-decoration: none; color: inherit; }
-.idx a, .mkts a { display: flex; flex-direction: column; gap: .5rem; min-height: 44px; }
+.card a, .idx a, .mkts a, .svc a { text-decoration: none; color: inherit; }
+.idx a, .mkts a, .svc a { display: flex; flex-direction: column; gap: .5rem; min-height: 44px; }
+.formband .mkts { grid-template-columns: 1fr; }
+.strip .kick h2 { color: var(--ink-on-dark); }
 .card > a { margin-top: auto; display: inline-flex; align-items: center; min-height: 44px; padding-top: .6rem; font-size: .84rem; font-weight: 600; color: var(--accent); }
 
 /* --- true-number tiles ---------------------------------------------------------- */

@@ -111,5 +111,7 @@ Proof floor (turf): 4 finished · 4 before/after pairs · 2 crew · 1 detail · 
 
 ## Gates
 
-`seo`, `entity`, `build` must pass. `craft` fails on photographs until the client's land —
+`python3 scripts/check-consistency.py dist` must pass — it enforces the rules above
+(pill buttons, dark heroes, no light stripe on dark, styled CTAs, no inline colour, one
+curve) and warns on adjacent sections sharing a ground. `seo`, `entity`, `build` must pass. `craft` fails on photographs until the client's land —
 stock is deliberately not allowed to satisfy it. Known tooling limits: `docs/GATE-NOTES.md`.

@@ -14,7 +14,7 @@ const label = (m: string) => MARKETS.find((x) => x.slug === m)?.name ?? 'All mar
   description={`What the law actually says about artificial turf in Colorado, the Carolinas and Florida. Statutes cited, dates checked. Call ${phone}.`}
   crumbs={crumbs}
 >
-  <section class="hero hero--sub mown-stripe">
+  <section class="hero hero--sub mown-stripe--dark">
     <div class="wrap">
       <nav class="crumbs" aria-label="Breadcrumb">
         <a href="/">Home</a> <span aria-hidden="true">/</span> <span>Guides</span>
@@ -32,7 +32,7 @@ const label = (m: string) => MARKETS.find((x) => x.slug === m)?.name ?? 'All mar
   <section class="sec">
     <div class="wrap">
       {GUIDES.length > 0 ? (
-        <ul class="idx">
+        <ul class="idx" data-reveal>
           {GUIDES.map((g) => (
             <li><a href={`/guides/${g.slug}/`} data-cta={`guide-${g.slug}`}>
               <span class="idx__m">{label(g.market)}</span>
@@ -48,7 +48,7 @@ const label = (m: string) => MARKETS.find((x) => x.slug === m)?.name ?? 'All mar
   </section>
 
   <section class="sec sec--dark on-dark close">
-    <div class="wrap">
+    <div class="wrap" data-reveal>
       <h2>Rules differ by address.</h2>
       <p class="close__p">Water district, county and state all matter. We will tell you which applies to yours.</p>
       {phoneHref && <a class="btn btn--primary btn--lg" href={phoneHref} data-cta="call-guides-index">Call {phone}</a>}

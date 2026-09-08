@@ -17,7 +17,7 @@ const crumbs = [
 ];
 ---
 <Base title={s.title} description={s.description} answer={s.answer} crumbs={crumbs}>
-  <section class="hero hero--sub mown-stripe">
+  <section class="hero hero--sub mown-stripe--dark">
     <div class="wrap">
       <nav class="crumbs" aria-label="Breadcrumb">
         <a href="/">Home</a> <span aria-hidden="true">/</span>
@@ -33,7 +33,7 @@ const crumbs = [
     </div>
   </section>
 
-  <div class="sec answer-box">
+  <div class="sec sec--band answer-box">
     <div class="wrap">
       <p class="micro">The short version</p>
       <h2 class="answer-box__q">{s.answer.question}</h2>
@@ -44,7 +44,7 @@ const crumbs = [
   <div class="sec doc__body">
     <div class="wrap">
       {s.sections.map((sec) => (
-        <section class="doc__sec">
+        <section class="doc__sec" data-reveal>
           <h2>{sec.h2}</h2>
           {sec.body.map((p) => <p set:html={p} />)}
         </section>
@@ -53,7 +53,7 @@ const crumbs = [
   </div>
 
   <section class="sec sec--band">
-    <div class="wrap">
+    <div class="wrap" data-reveal>
       <p class="micro">The work</p>
       <h2>{s.name} we&rsquo;ve installed.</h2>
       <div class="proof__grid">
@@ -63,7 +63,7 @@ const crumbs = [
   </section>
 
   <section class="sec">
-    <div class="wrap">
+    <div class="wrap" data-reveal>
       <p class="micro">Where</p>
       <h2>{s.name} in three markets.</h2>
       <ul class="mkts">
@@ -78,7 +78,7 @@ const crumbs = [
   </section>
 
   <section class="sec sec--dark on-dark close">
-    <div class="wrap">
+    <div class="wrap" data-reveal>
       <p class="micro">What happens next</p>
       <h2>You call, we measure, you get a number.</h2>
       {phoneHref && <a class="btn btn--primary btn--lg" href={phoneHref} data-cta={`call-close-${s.slug}`}>Call {phone}</a>}

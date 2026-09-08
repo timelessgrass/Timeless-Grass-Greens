@@ -17,7 +17,7 @@ const crumbs = [
 ---
 <Base title={g.title} description={g.description} answer={g.answer} crumbs={crumbs}>
   <article class="doc">
-    <header class="sec doc__head mown-stripe">
+    <header class="sec doc__head mown-stripe--dark">
       <div class="wrap">
         <nav class="crumbs" aria-label="Breadcrumb">
           <a href="/">Home</a> <span aria-hidden="true">/</span>
@@ -31,7 +31,7 @@ const crumbs = [
       </div>
     </header>
 
-    <div class="sec answer-box">
+    <div class="sec sec--band answer-box">
       <div class="wrap">
         <p class="micro">The short version</p>
         <h2 class="answer-box__q">{g.answer.question}</h2>
@@ -42,14 +42,14 @@ const crumbs = [
     <div class="sec doc__body">
       <div class="wrap">
         {g.sections.map((s) => (
-          <section class="doc__sec">
+          <section class="doc__sec" data-reveal>
             <h2>{s.h2}</h2>
             {s.body.map((p) => <p set:html={p} />)}
           </section>
         ))}
 
         {g.faq && g.faq.length > 0 && (
-          <section class="doc__sec">
+          <section class="doc__sec" data-reveal>
             <h2>Questions this raises</h2>
             <div class="faq">
               {g.faq.map((qa) => (
@@ -71,7 +71,7 @@ const crumbs = [
           </p>
         </aside>
 
-        <section class="doc__sec doc__sources">
+        <section class="doc__sec doc__sources" data-reveal>
           <h2>Sources</h2>
           <ol class="srcs">
             {g.sources.map((s) => (
@@ -88,7 +88,7 @@ const crumbs = [
     </div>
 
     <section class="sec sec--dark on-dark close">
-      <div class="wrap">
+      <div class="wrap" data-reveal>
         <p class="micro">If this affects your job</p>
         <h2>Ask us before you assume.</h2>
         <p class="close__p">
