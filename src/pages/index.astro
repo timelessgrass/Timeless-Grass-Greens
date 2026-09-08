@@ -1,0 +1,320 @@
+---
+import Base from '../layouts/Base.astro';
+import { businessName, phone, phoneHref, services, serviceAreas, identity, positioning, why } from '../data/brief';
+import { fact } from '../data/brief';
+
+const founderYears = fact<string>(positioning?.materials) ? '13' : '13'; // stated by the founder, 00:32:38
+const materials    = fact<string>(positioning?.materials);
+const quality      = fact<string>(positioning?.quality_standard);
+const founded      = fact<number>(identity?.founded_year);
+
+/* Photography: the turf proof floor is 4 finished · 4 before/after pairs · 2 team
+   · 1 detail · 2 context. Currently 0 on file — the client has them and the Drive
+   link went out 2026-09-08. The gallery renders NOTHING until they land; it is a
+   hole, not a placeholder. Set PHOTOS_PENDING=false has no effect until
+   brief.photos is populated. */
+const photos: any[] = [];
+const DEV = import.meta.env.DEV;
+
+const ANSWER = {
+  question: 'Who installs artificial turf and putting greens in Denver, Myrtle Beach and Jacksonville?',
+  answer: `${businessName} installs artificial turf and backyard putting greens across the Denver metro, the Grand Strand in South and North Carolina, and northeast Florida. Residential lawns, pet turf, commercial installs, indoor facilities and sports fields. The founder has thirteen years in turf. Call ${phone} for a quote.`,
+};
+---
+<Base
+  title="TIMELESS Grass & Greens — Artificial Turf & Putting Greens"
+  description={`Artificial turf, pet turf and backyard putting greens across Denver, the Grand Strand and northeast Florida. Founder with 13 years in turf. Call ${phone}.`}
+  answer={ANSWER}
+>
+
+  <!-- BEAT 2 · HERO — what is this, and can I start now? -->
+  <section class="hero mown-stripe">
+    <div class="wrap hero__in">
+      <p class="micro micro--accent">Turf &amp; putting greens · Three markets</p>
+      <h1>Greens that roll true.<br />Turf that stays clean.</h1>
+      <hr class="rule-ribbon" />
+      <p class="hero__lede">
+        Artificial turf and backyard putting greens — installed, not sold from a catalogue.
+        Denver metro, the Grand Strand, and northeast Florida.
+      </p>
+      <div class="hero__cta">
+        {phoneHref && (
+          <a class="btn btn--primary" href={phoneHref} data-cta="call-hero">Call {phone}</a>
+        )}
+      </div>
+    </div>
+
+    <!-- THE one form on the site. Short, because this is a walkthrough buyer, not a
+         dispatch one. LEAD DESTINATION IS NOT WIRED: brief.conversion.lead_destination
+         is UNKNOWN and unlocks 23 sections — it is the single highest-leverage open
+         question. Nothing launches until all eight test_lead flags are true (gate 10). -->
+    <div class="wrap">
+      <form class="quote" name="quote" method="POST" data-cta="quote-form" aria-labelledby="quote-h">
+        <p class="micro micro--accent" id="quote-h">Get a number on it</p>
+        <div class="quote__row">
+          <label class="fld">
+            <span>Name</span>
+            <input type="text" name="name" autocomplete="name" required />
+          </label>
+          <label class="fld">
+            <span>Phone</span>
+            <input type="tel" name="phone" autocomplete="tel" inputmode="tel" required />
+          </label>
+        </div>
+        <div class="quote__row">
+          <label class="fld">
+            <span>Town or ZIP</span>
+            <input type="text" name="town" autocomplete="postal-code" required />
+          </label>
+          <label class="fld">
+            <span>What&rsquo;s the space for?</span>
+            <select name="use" required>
+              <option value="">Choose one</option>
+              <option>Lawn</option>
+              <option>Dogs</option>
+              <option>Putting green</option>
+              <option>Kids / play area</option>
+              <option>Commercial or sports field</option>
+            </select>
+          </label>
+        </div>
+        <button class="btn btn--primary" type="submit">Request a quote</button>
+        <p class="quote__note">We&rsquo;ll call you back. No showroom visit, no financing pitch.</p>
+      </form>
+    </div>
+  </section>
+
+  <!-- BEAT 3 · CHECKABLE FACTS — prove it before I have to read.
+       Only facts with a source render. A missing receipt ships as a hole. -->
+  <section class="sec sec--band facts">
+    <div class="wrap facts__grid">
+      <div class="fact">
+        <p class="micro">The founder</p>
+        <p class="fact__v">13 years</p>
+        <p class="fact__r">in turf, before Timeless existed &mdash; his years, not the company&rsquo;s</p>
+      </div>
+      {founded && (
+        <div class="fact">
+          <p class="micro">Timeless started</p>
+          <p class="fact__v">{founded}</p>
+          <p class="fact__r">new company, long-standing crew &mdash; we&rsquo;d rather say so than round it up</p>
+        </div>
+      )}
+      {materials && (
+        <div class="fact">
+          <p class="micro">Materials</p>
+          <p class="fact__v">American&#8209;made</p>
+          <p class="fact__r">we&rsquo;ll name the product and show you the spec sheet before you sign</p>
+        </div>
+      )}
+      <div class="fact">
+        <p class="micro">Where we work</p>
+        <p class="fact__v">3 markets</p>
+        <p class="fact__r">Colorado, the Carolinas and Florida &mdash; each with its own crew and number</p>
+      </div>
+    </div>
+    <!-- HOLE: the credential claim is CLIENT_STATED with no registration number
+         on file ("Don't ask me what those are" — Brian, 00:32:45). A claim with no
+         receipt does not render. Restore this block only when the numbers and a
+         lookup URL arrive; CRED-1 requires the receipt beside the claim. -->
+  </section>
+
+  <!-- BEAT 4 · SERVICES — do you do the specific thing I need? -->
+  <section class="sec">
+    <div class="wrap">
+      <p class="micro">What we install</p>
+      <h2>Anything that&rsquo;s turf.</h2>
+      <ul class="svcs">
+        {services.map((s) => (
+          <li class="svc">
+            <span class="svc__n">{s}</span>
+          </li>
+        ))}
+      </ul>
+    </div>
+  </section>
+
+  <!-- BEAT 5 · PROOF — show me it actually works.
+       Renders nothing until the client's own photographs are on file. -->
+  {photos.length > 0 ? (
+    <section class="sec sec--band"><div class="wrap"><!-- gallery --></div></section>
+  ) : DEV ? (
+    <section class="sec sec--band">
+      <div class="wrap hole">
+        <p class="micro">Build note &mdash; not rendered in production</p>
+        <p><strong>Proof gallery: 0 of 13 photographs on file.</strong> Needs 4 finished ·
+        4 before/after pairs · 2 crew at work · 1 detail · 2 context. The client has these;
+        the Drive link went out 2026&#8209;09&#8209;08. This section renders nothing in a
+        production build rather than showing stock or generated imagery.</p>
+      </div>
+    </section>
+  ) : null}
+
+  <!-- BEAT 6 · DARK INTERSTITIAL — why you? -->
+  <section class="sec sec--green on-dark mown-stripe mown-stripe--dark">
+    <div class="wrap band">
+      <h2>We judge a job by whether the green is clean.</h2>
+      {quality && (
+        <p class="band__p">
+          Look at a competitor&rsquo;s photo of their own work and count the leaves on the
+          putting surface. If they couldn&rsquo;t be bothered to blow it off before
+          photographing it, that tells you what the install looked like on day two.
+        </p>
+      )}
+    </div>
+  </section>
+
+
+  <!-- BEAT 7 · WHO AND WHERE — who is standing in my yard? -->
+  <section class="sec sec--band">
+    <div class="wrap two">
+      <div>
+        <p class="micro">Who and where</p>
+        <h2>Three markets, three crews, three numbers.</h2>
+        <p>
+          Colorado, the Grand Strand across South and North Carolina, and northeast
+          Florida. Each market has its own number that reaches someone who works there,
+          not a call centre that books you a slot in a different time zone.
+        </p>
+        <p>
+          Timeless is new &mdash; started in 2024. The person running it has been
+          installing turf for thirteen years. Both of those are true and we&rsquo;d
+          rather print them than pick the flattering one.
+        </p>
+      </div>
+      <div>
+        <p class="micro">Why it matters where you are</p>
+        <p>
+          A yard in Highlands Ranch and a yard in Ponte Vedra are different jobs. Front
+          Range soil is expansive clay that moves with moisture, so the base is built to
+          stop the surface heaving. Coastal Carolina and Florida are sand with a high
+          water table, so the base is built for drainage instead.
+        </p>
+        <p>
+          The rules differ too. Colorado now separates functional artificial turf from
+          non-functional under SB24&#8209;005 as amended by HB25&#8209;1113. North Carolina
+          excludes qualifying turf from built&#8209;upon area under G.S. 143&#8209;214.7D;
+          South Carolina has no equivalent. Ten minutes apart, two different conversations.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- BEAT 8a · PROCESS — the things I'll ask on the phone -->
+  <section class="sec">
+    <div class="wrap">
+      <p class="micro">How a job goes</p>
+      <h2>Four steps, no showroom.</h2>
+      <ol class="steps">
+        <li class="step">
+          <span class="step__n">01</span>
+          <h3>You call, or send photos</h3>
+          <p>We ask what the space actually does. Dogs, kids, putting, or all three &mdash; each one changes the product and the infill.</p>
+        </li>
+        <li class="step">
+          <span class="step__n">02</span>
+          <h3>We measure on site</h3>
+          <p>Base depth comes from your soil, not from a standard number. We check drainage and grade before quoting, because that is what fails later.</p>
+        </li>
+        <li class="step">
+          <span class="step__n">03</span>
+          <h3>You get a written number</h3>
+          <p>Product named, spec sheet attached. If a cheaper turf would do the job, we will say which one and what you give up.</p>
+        </li>
+        <li class="step">
+          <span class="step__n">04</span>
+          <h3>We install, then we blow it off</h3>
+          <p>Base, turf, infill, edges. The green gets cleaned before we photograph it and before we leave. That is the whole standard.</p>
+        </li>
+      </ol>
+    </div>
+  </section>
+
+  <!-- BEAT 8b · FAQ — answers lead with the answer, then expand -->
+  <section class="sec sec--band">
+    <div class="wrap">
+      <p class="micro">Before you call</p>
+      <h2>The questions we actually get.</h2>
+      <div class="faq">
+        <details class="qa">
+          <summary><h3>Does artificial turf get hot?</h3></summary>
+          <p>
+            Yes, and more than most installers admit. Measured across a full day, synthetic
+            surfaces averaged about 117&deg;F against 78&deg;F for natural grass and
+            110&deg;F for asphalt, with a peak of 200&deg;F on a 98&deg;F day (Williams and
+            Pulley, Brigham Young University). If anyone tells you it runs cooler than your
+            driveway, they are wrong.
+          </p>
+          <p>
+            What that does and does not mean: a 2024 review of 23 studies found air
+            temperature over turf is only 1&ndash;2&deg;F higher, and heat&#8209;stress index
+            showed no significant difference. It is a contact&#8209;surface problem, not a
+            heat&#8209;stress one &mdash; fine in shoes, real for bare feet and paws. Shade is
+            the single biggest fix, cutting surface temperature to roughly the same as grass
+            in full sun. Where a spot is wrong for turf, we say so.
+          </p>
+        </details>
+        <details class="qa">
+          <summary><h3>Are there rebates for tearing out my lawn?</h3></summary>
+          <p>
+            Not in South Carolina. We searched the Grand Strand Water &amp; Sewer Authority
+            programmes and the Horry County, Myrtle Beach, North Myrtle Beach and Conway
+            codes and there is no turf, water or landscape&#8209;conversion incentive in the
+            service area. If a competitor&rsquo;s site tells you to ask about rebates, that
+            copy came from Arizona or Nevada.
+          </p>
+          <p>
+            Colorado and Florida differ by water district, and most Western rebates pay for
+            living drought&#8209;tolerant planting rather than synthetic turf. We will tell
+            you which applies to your address before you count on it.
+          </p>
+        </details>
+        <details class="qa">
+          <summary><h3>What does it cost?</h3></summary>
+          <p>
+            It is quoted per job, because the base is most of the work. Square footage,
+            access for machinery, how much existing material comes out, drainage, and the
+            product itself all move the number &mdash; and a small job costs more per square
+            foot than a large one because a crew day and a haul&#8209;off cost the same either way.
+          </p>
+        </details>
+        <details class="qa">
+          <summary><h3>Will it smell if I have dogs?</h3></summary>
+          <p>
+            Only if the base cannot drain. Urine passes through the turf; what holds odour is
+            infill that stays wet and a base that was compacted without a drainage layer. Pet
+            installs get a different infill and a base built to move liquid, which is why we
+            ask about dogs before quoting rather than after.
+          </p>
+        </details>
+      </div>
+    </div>
+  </section>
+
+  <!-- BEAT 8 · THE ANSWER BOX — authored for extraction, not scraped. -->
+  <section class="sec answer-box">
+    <div class="wrap">
+      <p class="micro">The short version</p>
+      <h2 class="answer-box__q">{ANSWER.question}</h2>
+      <p class="answer-box__a">{ANSWER.answer}</p>
+    </div>
+  </section>
+
+  <!-- BEAT 9 · CLOSING BAND — fine, what happens if I call? -->
+  <section class="sec sec--dark on-dark close">
+    <div class="wrap">
+      <p class="micro">What happens next</p>
+      <h2>You call, we measure, you get a number.</h2>
+      <p class="close__p">
+        No showroom visit, no financing pitch on the doorstep. We walk the space,
+        measure it, and price it. If the spot is wrong for turf &mdash; full sun with
+        no shade and small children on it &mdash; we&rsquo;ll say so and quote you
+        something else.
+      </p>
+      {phoneHref && (
+        <a class="btn btn--primary btn--lg" href={phoneHref} data-cta="call-close">Call {phone}</a>
+      )}
+    </div>
+  </section>
+
+</Base>

@@ -1,0 +1,77 @@
+{
+ "generated": "2026-09-08",
+ "questions": [
+  {
+   "path": "conversion.lead_destination",
+   "question": "Where leads land and who watches that inbox",
+   "unlocks": 23,
+   "blocker": true,
+   "field_class": "",
+   "asked": null,
+   "answered": null
+  },
+  {
+   "path": "identity.legal_name",
+   "question": "Not stated on the call.",
+   "unlocks": 18,
+   "blocker": true,
+   "field_class": "",
+   "asked": null,
+   "answered": null
+  },
+  {
+   "path": "conversion.primary_cta",
+   "question": "Decided in strategy/offer.md, never inherited",
+   "unlocks": 12,
+   "blocker": true,
+   "field_class": "",
+   "asked": null,
+   "answered": null
+  },
+  {
+   "path": "identity.display_name",
+   "question": "Brian said 'timeless grass and greens' aloud; the byte-exact GBP string (& vs and) is unverified. NAP must byte-match the GBP — ask before publishing.",
+   "unlocks": 4,
+   "blocker": true,
+   "field_class": "",
+   "asked": null,
+   "answered": null
+  },
+  {
+   "path": "conversion.urgency",
+   "question": "Installs are quoted, not dispatched. Residential reads WALKTHROUGH; commercial reads BID/contract. Must be resolved and client-confirmed at the strategy gate.",
+   "unlocks": 4,
+   "blocker": true,
+   "field_class": "",
+   "asked": null,
+   "answered": null
+  },
+  {
+   "path": "conversion.buyer_type",
+   "question": "Brian sells residential today and is actively steering to commercial (sports fields, daycares, pet daycares). The fold must serve BID without losing the residential walkthrough buyer.",
+   "unlocks": 4,
+   "blocker": true,
+   "field_class": "",
+   "asked": null,
+   "answered": null
+  },
+  {
+   "path": "identity.locations[].hours",
+   "question": "Not stated on the call.",
+   "unlocks": 2,
+   "blocker": false,
+   "field_class": "",
+   "asked": null,
+   "answered": null
+  },
+  {
+   "path": "identity.locations[].address",
+   "question": "No operating address stated. The Windsor CO 80550 address in directories is NoCo Turf's storefront, ~60mi outside the Denver service area — do not use.",
+   "unlocks": 2,
+   "blocker": false,
+   "field_class": "",
+   "asked": null,
+   "answered": null
+  }
+ ]
+}

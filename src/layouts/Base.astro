@@ -1,0 +1,105 @@
+---
+import '../styles/tokens.css';
+import '../styles/base.css';
+import '../styles/sections.css';
+import { businessName, phone, phoneHref, email, serviceAreas } from '../data/brief';
+
+interface Props {
+  title: string;
+  description: string;
+  /** The answer-box question + ~60-word answer, for AEO extraction. */
+  answer?: { question: string; answer: string };
+}
+const { title, description, answer } = Astro.props;
+const canonical = new URL(Astro.url.pathname, Astro.site).href;
+
+const graph: any[] = [
+  {
+    '@type': 'Organization',
+    '@id': `${Astro.site}#organization`,
+    name: businessName,
+    url: Astro.site?.href,
+    ...(phone ? { telephone: phone } : {}),
+    ...(email ? { email } : {}),
+  },
+  {
+    '@type': 'WebSite',
+    '@id': `${Astro.site}#website`,
+    url: Astro.site?.href,
+    name: businessName,
+    publisher: { '@id': `${Astro.site}#organization` },
+  },
+  {
+    '@type': 'WebPage',
+    '@id': `${canonical}#webpage`,
+    url: canonical,
+    name: title,
+    description,
+    isPartOf: { '@id': `${Astro.site}#website` },
+    about: { '@id': `${Astro.site}#organization` },
+    ...(answer ? { speakable: { '@type': 'SpeakableSpecification', cssSelector: ['.answer-box__a', '.hero__lede'] } } : {}),
+  },
+];
+/* NO LocalBusiness node here. One is emitted only where a real, staffed, verified
+   address exists behind a live GBP — never per-city, never speculatively.
+   NO aggregateRating and NO Review, ever: Google rules self-serving review markup
+   ineligible, and inventing it is the FTC failure this system exists to prevent. */
+---
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>{title}</title>
+<meta name="description" content={description} />
+<link rel="canonical" href={canonical} />
+<meta property="og:title" content={title} />
+<meta property="og:description" content={description} />
+<meta property="og:type" content="website" />
+<meta property="og:url" content={canonical} />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=Instrument+Sans:wght@400;500;600&display=swap" />
+<script type="application/ld+json" set:html={JSON.stringify({ '@context': 'https://schema.org', '@graph': graph })} />
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+
+  <header class="chrome">
+    <div class="chrome__in">
+      <a class="chrome__mark" href="/">
+        <span class="chrome__name">{businessName}</span>
+      </a>
+      {phoneHref && (
+        <a class="chrome__tel" href={phoneHref} data-cta="call-header">
+          <span class="chrome__tel-lbl">Call</span>
+          <span class="chrome__tel-num">{phone}</span>
+        </a>
+      )}
+    </div>
+  </header>
+
+  <main id="main">
+    <slot />
+  </main>
+
+  <footer class="foot mown-stripe mown-stripe--dark">
+    <div class="foot__in">
+      <p class="foot__name">{businessName}</p>
+      {serviceAreas.length > 0 && (
+        <ul class="foot__areas">
+          {serviceAreas.map((a) => <li>{a}</li>)}
+        </ul>
+      )}
+      {phoneHref && <a class="foot__tel" href={phoneHref} data-cta="call-footer">{phone}</a>}
+      <p class="foot__legal">&copy; {new Date().getFullYear()} {businessName}</p>
+    </div>
+  </footer>
+
+  {phoneHref && (
+    <a class="bar" href={phoneHref} data-cta="call-sticky">
+      <span>Call {phone}</span>
+    </a>
+  )}
+</body>
+</html>

@@ -1,0 +1,143 @@
+/* --- buttons -------------------------------------------------------------- */
+.btn {
+  display: inline-flex; align-items: center; justify-content: center;
+  min-height: 52px; padding: .9rem 1.5rem;
+  font-weight: 600; font-size: 1rem; letter-spacing: .005em;
+  text-decoration: none; border: 1px solid transparent;
+  transition: background-color var(--dur) var(--ease),
+              border-color var(--dur) var(--ease),
+              transform var(--dur) var(--ease);
+}
+.btn--primary { background: var(--accent); color: #fff; }
+.btn--primary:hover { background: var(--accent-lift); }
+.btn--ghost { border-color: var(--rule); color: var(--ink); }
+.btn--ghost:hover { border-color: var(--accent); color: var(--accent); }
+.btn--lg { min-height: 58px; padding: 1.05rem 1.9rem; font-size: 1.06rem; }
+.on-dark .btn--primary { background: var(--accent); color: #fff; }
+
+/* --- hero — beat 2 -------------------------------------------------------- */
+.hero { padding: clamp(3rem, 11vw, 8.5rem) var(--bleed) clamp(2.6rem, 7vw, 5rem); }
+.hero__in { max-width: 1180px; }
+.hero__lede {
+  font-size: clamp(1.05rem, 2.3vw, 1.32rem);
+  line-height: 1.58; color: var(--ink-dim); max-width: 46ch;
+  margin-top: 1.6rem;
+}
+.hero .rule-ribbon { margin: 1.9rem 0 0; }
+.hero__cta { display: flex; flex-wrap: wrap; gap: .8rem; margin-top: 2.1rem; }
+
+/* --- checkable facts — beat 3 -------------------------------------------- */
+.facts__grid {
+  display: grid; gap: clamp(1.6rem, 4vw, 2.6rem);
+  grid-template-columns: 1fr;
+}
+@media (min-width: 620px) { .facts__grid { grid-template-columns: repeat(2, 1fr); } }
+@media (min-width: 980px) { .facts__grid { grid-template-columns: repeat(4, 1fr); } }
+.fact { border-top: 2px solid var(--accent); padding-top: 1rem; }
+.fact .micro { margin-bottom: .55rem; }
+.fact__v {
+  font-family: var(--font-display); font-size: clamp(1.7rem, 4vw, 2.3rem);
+  letter-spacing: var(--track-display); line-height: 1.06; margin: 0 0 .5rem;
+}
+/* the receipt — what makes the claim above checkable, within one element */
+.fact__r { font-size: .87rem; line-height: 1.5; color: var(--ink-faint); margin: 0; max-width: 34ch; }
+
+/* --- services — beat 4 ---------------------------------------------------- */
+.svcs { list-style: none; padding: 0; margin: 2.2rem 0 0; }
+.svc {
+  border-top: 1px solid var(--rule);
+  padding: 1.15rem 0;
+  transition: padding-left var(--dur) var(--ease);
+}
+.svc:last-child { border-bottom: 1px solid var(--rule); }
+.svc:hover { padding-left: .7rem; }
+.svc__n {
+  font-family: var(--font-display);
+  font-size: clamp(1.3rem, 3.4vw, 2.05rem);
+  letter-spacing: -.015em;
+}
+
+/* --- dark interstitial — beat 6 ------------------------------------------ */
+.band h2 { color: var(--ink-on-dark); max-width: 18ch; }
+.band__p { margin-top: 1.5rem; font-size: clamp(1rem, 2vw, 1.15rem); max-width: 54ch; }
+
+/* --- answer box — authored for extraction -------------------------------- */
+.answer-box__q {
+  font-size: clamp(1.25rem, 2.8vw, 1.75rem);
+  letter-spacing: -.014em; max-width: 30ch; margin-bottom: 1.1rem;
+}
+.answer-box__a {
+  font-size: clamp(1rem, 2vw, 1.1rem); line-height: 1.66;
+  color: var(--ink-dim); max-width: 58ch;
+  border-left: 2px solid var(--accent); padding-left: 1.15rem;
+}
+
+/* --- closing band — beat 9 ----------------------------------------------- */
+.close h2 { color: var(--ink-on-dark); max-width: 16ch; }
+.close__p { margin-top: 1.5rem; max-width: 52ch; font-size: clamp(1rem,2vw,1.1rem); }
+.close .btn { margin-top: 1.4rem; }
+
+/* --- build-note hole (dev only) ------------------------------------------ */
+.hole { border: 1px dashed var(--accent); padding: 1.4rem; }
+.hole p:last-child { margin-bottom: 0; color: var(--ink-dim); }
+
+/* --- two-column prose — beat 7 ------------------------------------------- */
+.two { display: grid; gap: clamp(2rem, 5vw, 4rem); }
+@media (min-width: 900px) { .two { grid-template-columns: 1.05fr 1fr; } }
+.two h2 { margin-bottom: 1.4rem; max-width: 16ch; }
+
+/* --- process steps — beat 8a --------------------------------------------- */
+.steps { list-style: none; padding: 0; margin: 2.4rem 0 0; display: grid; gap: 0; }
+@media (min-width: 760px) { .steps { grid-template-columns: repeat(2, 1fr); gap: 0 clamp(2rem,4vw,3.5rem); } }
+.step { border-top: 2px solid var(--accent); padding: 1.15rem 0 1.9rem; }
+.step__n {
+  display: block; font-size: .69rem; letter-spacing: var(--track-micro);
+  font-weight: 600; color: var(--accent); margin-bottom: .5rem;
+}
+.step h3 { margin-bottom: .55rem; }
+.step p { color: var(--ink-dim); font-size: .95rem; margin: 0; max-width: 42ch; }
+
+/* --- faq — beat 8b -------------------------------------------------------- */
+.faq { margin-top: 2.2rem; }
+.qa { border-top: 1px solid var(--rule); padding: 0; }
+.qa:last-child { border-bottom: 1px solid var(--rule); }
+.qa summary {
+  list-style: none; cursor: pointer;
+  padding: 1.25rem 2.2rem 1.25rem 0; position: relative; min-height: 44px;
+}
+.qa summary::-webkit-details-marker { display: none; }
+.qa summary h3 { display: inline; font-size: clamp(1.08rem, 2.2vw, 1.32rem); }
+.qa summary::after {
+  content: ""; position: absolute; right: .35rem; top: 1.75rem;
+  width: 11px; height: 11px;
+  border-right: 2px solid var(--accent); border-bottom: 2px solid var(--accent);
+  transform: rotate(45deg); transform-origin: center;
+  transition: transform var(--dur) var(--ease);
+}
+.qa[open] summary::after { transform: rotate(-135deg); }
+.qa > p { color: var(--ink-dim); max-width: 62ch; font-size: .97rem; }
+.qa > p:last-child { padding-bottom: 1.4rem; }
+
+/* --- the one form ---------------------------------------------------------- */
+.quote {
+  margin-top: clamp(2.2rem, 5vw, 3.2rem);
+  border-top: 2px solid var(--accent);
+  padding-top: 1.5rem; max-width: 720px;
+}
+.quote__row { display: grid; gap: 1rem; margin-bottom: 1rem; }
+@media (min-width: 620px) { .quote__row { grid-template-columns: 1fr 1fr; } }
+.fld { display: block; }
+.fld > span {
+  display: block; font-size: .69rem; letter-spacing: var(--track-micro);
+  text-transform: uppercase; font-weight: 600; color: var(--ink-faint); margin-bottom: .4rem;
+}
+.fld input, .fld select {
+  width: 100%; min-height: 48px; padding: .7rem .8rem;
+  font: inherit; font-size: 16px;          /* never below 16 — iOS zooms under it */
+  color: var(--ink); background: var(--ground);
+  border: 1px solid var(--rule); border-radius: var(--radius);
+  transition: border-color var(--dur) var(--ease);
+}
+.fld input:focus, .fld select:focus { border-color: var(--accent); }
+.quote button { margin-top: .4rem; }
+.quote__note { font-size: .85rem; color: var(--ink-faint); margin: .9rem 0 0; }

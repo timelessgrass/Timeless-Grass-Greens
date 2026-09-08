@@ -20,3 +20,10 @@ build/
 .env
 .env.*
 !.env.example
+
+# Pulled client assets — unvetted, never commit
+archive/
+.site/truth/transcripts/
+
+# Astro
+.astro/

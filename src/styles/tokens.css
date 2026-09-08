@@ -1,0 +1,113 @@
+/* =============================================================================
+   TIMELESS GRASS & GREENS — design tokens
+
+   THE OBJECT: the cup and flagstick on a mown green.
+
+   Brian designed the mark himself around a putting green with two flags, and his
+   own test of a competitor's work is whether the green is blown clean:
+     "it has a bunch of leaves and shit on the putting green. Like that's trash.
+      You can't even blow off your green."   — Brian, 00:43:47
+
+   Every value below is measured from logo-2048.jpg (see archive/brand/tokens.md),
+   not chosen. Black is 38.4% of the mark, which is why the dark ground is his and
+   not a designer's preference. The green is a GRADIENT, which is what separates it
+   from Murphy's Turf's single flat sage — the differentiation is in how colour is
+   used, not only which hue.
+   ========================================================================== */
+
+:root {
+  /* --- ground -------------------------------------------------------------- */
+  --ground:        #EFEDE7;  /* chalk — the cup liner and the ball. never #fff */
+  --ground-band:   #E7E4DC;  /* tonal band for alternating sections */
+  --ground-dark:   #0E0E0C;  /* from the mark's 38.4% black */
+  --ground-green:  #16330C;  /* deep green — the green in shadow, for interstitials */
+
+  /* --- accent — exactly one ------------------------------------------------ */
+  --accent:        #3F8C0A;  /* the ribbon's DEEP stop, held away from sage #7CB342 */
+  --accent-lift:   #5FA81A;  /* hover only */
+  --accent-on-dark:#8ACF35;  /* the ribbon's light stop, legible on dark ground only */
+
+  /* the signature primitive: the ribbon, drawn from the mark's own gradient */
+  --ribbon: linear-gradient(100deg, #48A008 0%, #80D028 48%, #409800 100%);
+
+  /* the wordmark gold lives in the logo and nowhere else. NOT a system colour. */
+  --wordmark-gold: #DEBA1F;
+
+  /* --- ink — one colour, four opacities. no second grey. ------------------- */
+  --ink:        #15150F;
+  --ink-dim:    rgba(21, 21, 15, .68);
+  --ink-faint:  rgba(21, 21, 15, .42);
+  --rule:       rgba(21, 21, 15, .14);
+
+  --ink-on-dark:       #F2F0E8;
+  --ink-on-dark-dim:   rgba(242, 240, 232, .70);
+  --ink-on-dark-faint: rgba(242, 240, 232, .44);
+  --rule-on-dark:      rgba(242, 240, 232, .16);
+
+  /* --- type ---------------------------------------------------------------- */
+  --font-display: "Newsreader", Georgia, "Iowan Old Style", "Times New Roman", serif;
+  --font-body: "Instrument Sans", ui-sans-serif, -apple-system, BlinkMacSystemFont,
+               "Segoe UI", Helvetica, Arial, sans-serif;
+
+  /* BIMODAL TRACKING — display negative, micro positive, nothing between. */
+  --track-display: -.022em;
+  --track-micro:    .24em;
+
+  /* --- motion — ONE curve. grep for a second cubic-bezier before shipping. -- */
+  --ease: cubic-bezier(.16, 1, .3, 1);
+  --dur:  .62s;
+
+  /* --- geometry ------------------------------------------------------------ */
+  --radius: 0;               /* fixed at the token level, never swept later */
+  --measure: 62ch;
+  --gut: clamp(1.15rem, 4vw, 2.5rem);
+  --bleed: clamp(1.15rem, 5vw, 5.5rem);
+}
+
+/* =============================================================================
+   .mown-stripe — THE SIGNATURE PRIMITIVE
+
+   A putting green is cut in alternating directions, so light falls differently on
+   each pass. That becomes the section rhythm instead of generic alternating bands.
+   Krystal Clear has .reflection-copy; AZ Elevated has the brass sheen gradient.
+   This is the equivalent, and only a company that mows greens can use it.
+   ========================================================================== */
+.mown-stripe {
+  position: relative;
+  isolation: isolate;
+}
+.mown-stripe::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  background-image: repeating-linear-gradient(
+    97deg,
+    rgba(63, 140, 10, .018) 0 62px,
+    rgba(63, 140, 10, 0) 62px 124px
+  );
+  pointer-events: none;
+}
+.mown-stripe--dark::before {
+  background-image: repeating-linear-gradient(
+    97deg,
+    rgba(138, 207, 53, .028) 0 62px,
+    rgba(138, 207, 53, 0) 62px 124px
+  );
+}
+
+/* the ribbon as a hairline — the mark's gradient, doing structural work */
+.rule-ribbon {
+  height: 2px;
+  border: 0;
+  width: 84px;
+  background: var(--ribbon);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: .01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: .01ms !important;
+  }
+}
