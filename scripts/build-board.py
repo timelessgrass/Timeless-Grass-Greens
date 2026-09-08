@@ -178,7 +178,8 @@ small = ''.join([
     comp(guide, G, 'disclaim', 'Legal disclaimer', '', wide=True),
     comp(hub, U, 'law', 'Law band content', '', dark=True, wide=True),
     comp(home, H, 'wipe', 'Before / after', 'mid-wipe shown', wide=True),
-    comp(home, H, 'proc__step', 'Process step', '', dark=True),
+    comp(home, H, 'proc__step', 'Process step', 'dimmed until scrolled to', dark=True),
+    comp(home, H, 'diff', 'Differentiator', 'ruled list, not a card', dark=True),
     comp(home, H, 'hero__steps', 'Hero steps', '', dark=True, wide=True),
     comp(home, H, 'mkts', 'Market cards', '', wrap='<div class="bd-one">%s</div>', wide=True),
 ])
