@@ -101,7 +101,6 @@ if (crumbs?.length) {
     <div class="chrome__in">
       <a class="chrome__mark" href="/" aria-label={`${businessName} — home`}>
         <Image src={logo} alt="" width={140} densities={[1, 2]} class="chrome__logo" loading="eager" />
-        <span class="chrome__name" aria-hidden="true"><b>TIMELESS</b><small>Grass &amp; Greens</small></span>
       </a>
       <nav class="nav" aria-label="Primary">
         <ul class="nav__list">
@@ -114,7 +113,6 @@ if (crumbs?.length) {
             <ul class="nav__sub">{MARKETS.map((m) => <li><a href={`/${m.slug}/`}>{m.name}</a></li>)}</ul>
           </li>
           <li class="nav__item"><a href="/guides/">Turf rules</a></li>
-          <li class="nav__item nav__item--cta"><a class="btn btn--ghost" href="/#quote" data-cta="quote-nav">Get a written number</a></li>
         </ul>
       </nav>
       {phoneHref && (
