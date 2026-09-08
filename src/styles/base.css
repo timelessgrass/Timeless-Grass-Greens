@@ -85,7 +85,8 @@ p  { margin: 0 0 1.05em; max-width: var(--measure); text-wrap: pretty; }
 .chrome.is-scrolled .chrome__logo { height: 38px; }
 .chrome.is-scrolled .chrome__in { padding-block: .35rem; }
 .chrome__in { transition: padding var(--dur) var(--ease); }
-@media (max-width: 379px) { .chrome__name { display: none; } }
+@media (max-width: 519px) { .chrome__name { display: none; } } /* phones: the mark alone is the identity; the wordmark would crowd Call + Menu */
+.chrome__mark { flex-shrink: 0; }
 
 /* --- primary nav: real links in the HTML, dropdowns on hover/focus ------------ */
 .nav { display: none; }
@@ -142,7 +143,7 @@ html { scroll-padding-top: 5.5rem; }
   text-transform: uppercase; font-weight: 600; color: var(--ink-faint);
 }
 .chrome__tel-num { font-weight: 600; font-size: .95rem; white-space: nowrap; }
-@media (max-width: 559px) { .chrome__tel-num { display: none; } }
+@media (max-width: 419px) { .chrome__tel-num { display: none; } } /* ≥420px the number fits beside the mark and the Menu button */
 
 /* --- sticky call bar — every scroll position, on a phone ------------------ */
 .bar {
