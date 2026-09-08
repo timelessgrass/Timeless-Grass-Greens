@@ -94,7 +94,7 @@ if (crumbs?.length) {
   <div class="util"><div class="util__in">
     <span>Denver · Grand Strand · Northeast Florida</span>
     <span>Founder with 13 years in turf</span>
-    {phone && <span>{phone}</span>}
+    {phoneHref && <span><a class="util__tel" href={phoneHref} data-cta="call-util">{phone}</a></span>}
   </div></div>
 
   <header class="chrome">
@@ -102,25 +102,6 @@ if (crumbs?.length) {
       <a class="chrome__mark" href="/" aria-label={`${businessName} — home`}>
         <Image src={logo} alt="" width={140} densities={[1, 2]} class="chrome__logo" loading="eager" />
       </a>
-      <nav class="nav" aria-label="Primary">
-        <ul class="nav__list">
-          <li class="nav__item nav__item--has-sub">
-            <a href="/services/">What we install</a>
-            <ul class="nav__sub">{SERVICES.map((sv) => <li><a href={`/services/${sv.slug}/`}>{sv.name}</a></li>)}</ul>
-          </li>
-          <li class="nav__item nav__item--has-sub">
-            <a href="/#markets">Where we work</a>
-            <ul class="nav__sub">{MARKETS.map((m) => <li><a href={`/${m.slug}/`}>{m.name}</a></li>)}</ul>
-          </li>
-          <li class="nav__item"><a href="/guides/">Turf rules</a></li>
-        </ul>
-      </nav>
-      {phoneHref && (
-        <a class="chrome__tel" href={phoneHref} data-cta="call-header">
-          <span class="chrome__tel-lbl">Call</span>
-          <span class="chrome__tel-num">{phone}</span>
-        </a>
-      )}
       <button class="chrome__menu" type="button" aria-expanded="false" aria-controls="menu" data-menu-toggle>
         <span class="chrome__menu-ico" aria-hidden="true"></span><span class="chrome__menu-lbl">Menu</span>
       </button>
@@ -149,7 +130,6 @@ if (crumbs?.length) {
       </nav>
       <div class="menu__cta">
         {phoneHref && <a class="btn btn--primary btn--lg" href={phoneHref} data-cta="call-menu">Call {phone}</a>}
-        <a class="btn btn--ghost btn--lg" href="/#quote" data-cta="quote-menu">Get a written number</a>
       </div>
       <p class="menu__foot">Denver Metro · The Grand Strand · Northeast Florida</p>
     </div>

@@ -39,7 +39,7 @@ for html in sorted(root.rglob('index.html')):
         cta = re.search(r'data-cta="([^"]*)"', tag); cls = re.search(r'class="([^"]*)"', tag)
         if not cta: continue
         c = cls.group(1).split() if cls else []
-        ok = any(x in c for x in ('btn', 'bar', 'chrome__tel', 'foot__tel')) or re.match(r'(svc|market|guide)-', cta.group(1))
+        ok = any(x in c for x in ('btn', 'bar', 'chrome__tel', 'foot__tel', 'util__tel')) or re.match(r'(svc|market|guide)-', cta.group(1))
         if not ok: fails.append(f'CTA-1 {rel}: data-cta="{cta.group(1)}" is not a styled control')
     for st in re.findall(r'style="([^"]*)"', h):
         if re.search(r'#[0-9a-fA-F]{3,6}\b|border-radius', st) and 'var(' not in st and '--ratio' not in st:
