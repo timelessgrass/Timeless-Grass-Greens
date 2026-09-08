@@ -1,0 +1,37 @@
+---
+/**
+ * A photograph, or an honest hole where one goes.
+ *
+ * Real file  → renders the <img> with its caption.
+ * No file, dev → renders a LABELLED placeholder stating which shot belongs here.
+ *                It cannot be mistaken for a photograph: no image, stated as
+ *                missing, carrying the brief for whoever shoots it.
+ * No file, prod → renders NOTHING. A placeholder can never reach a live page.
+ *
+ * This is the line the method draws: ship the hole, never a placeholder that
+ * reads as real. The old site failed exactly here — 27 AI-generated images
+ * presented as the client's own work.
+ */
+import type { Shot } from '../data/shotlist';
+interface Props { shot: Shot; }
+const { shot } = Astro.props;
+const DEV = import.meta.env.DEV;
+const KIND: Record<string, string> = {
+  finished: 'Finished work', before: 'Before', after: 'After',
+  team: 'Crew at work', detail: 'Detail', context: 'Context',
+};
+---
+{shot.file ? (
+  <figure class="fig" style={`--ratio:${shot.ratio}`}>
+    <img src={shot.file} alt={shot.caption ?? ''} loading="lazy" decoding="async" />
+    {shot.caption && <figcaption>{shot.caption}</figcaption>}
+  </figure>
+) : DEV ? (
+  <figure class="fig fig--pending" style={`--ratio:${shot.ratio}`} data-shot={shot.id}>
+    <div class="fig__slot">
+      <p class="fig__kind">{KIND[shot.kind] ?? shot.kind}{shot.pairId ? ` · pair ${shot.pairId}` : ''}</p>
+      <p class="fig__brief">{shot.brief}</p>
+      <p class="fig__id">{shot.id} · {shot.ratio}</p>
+    </div>
+  </figure>
+) : null}

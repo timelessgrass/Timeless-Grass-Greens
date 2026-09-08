@@ -2,6 +2,8 @@
 import Base from '../layouts/Base.astro';
 import { businessName, phone, phoneHref, services, serviceAreas, identity, positioning, why } from '../data/brief';
 import { fact } from '../data/brief';
+import Figure from '../components/Figure.astro';
+import { SHOTS, shotsBy, haveCount, floorCount } from '../data/shotlist';
 
 const founderYears = fact<string>(positioning?.materials) ? '13' : '13'; // stated by the founder, 00:32:38
 const materials    = fact<string>(positioning?.materials);
@@ -13,8 +15,6 @@ const founded      = fact<number>(identity?.founded_year);
    link went out 2026-09-08. The gallery renders NOTHING until they land; it is a
    hole, not a placeholder. Set PHOTOS_PENDING=false has no effect until
    brief.photos is populated. */
-const photos: any[] = [];
-const DEV = import.meta.env.DEV;
 
 const ANSWER = {
   question: 'Who installs artificial turf and putting greens in Denver, Myrtle Beach and Jacksonville?',
@@ -135,20 +135,40 @@ const ANSWER = {
   </section>
 
   <!-- BEAT 5 · PROOF — show me it actually works.
-       Renders nothing until the client's own photographs are on file. -->
-  {photos.length > 0 ? (
-    <section class="sec sec--band"><div class="wrap"><!-- gallery --></div></section>
-  ) : DEV ? (
-    <section class="sec sec--band">
-      <div class="wrap hole">
-        <p class="micro">Build note &mdash; not rendered in production</p>
-        <p><strong>Proof gallery: 0 of 13 photographs on file.</strong> Needs 4 finished ·
-        4 before/after pairs · 2 crew at work · 1 detail · 2 context. The client has these;
-        the Drive link went out 2026&#8209;09&#8209;08. This section renders nothing in a
-        production build rather than showing stock or generated imagery.</p>
+       Frames with no file render a labelled placeholder in dev and NOTHING in a
+       production build. See src/components/Figure.astro. -->
+  <section class="sec sec--band">
+    <div class="wrap">
+      <p class="micro">The work</p>
+      <h2>Finished jobs, and the same spot before we started.</h2>
+
+      <div class="proof__grid">
+        {shotsBy('finished').map((shot) => <Figure shot={shot} />)}
       </div>
-    </section>
-  ) : null}
+
+      <div class="proof__grid">
+        {['ba-1','ba-2','ba-3','ba-4'].map((pid) => (
+          <div class="proof__pair">
+            {SHOTS.filter((s) => s.pairId === pid).map((shot) => <Figure shot={shot} />)}
+          </div>
+        ))}
+      </div>
+
+      <div class="proof__grid">
+        {[...shotsBy('team'), ...shotsBy('detail'), ...shotsBy('context')].map((shot) => (
+          <Figure shot={shot} />
+        ))}
+      </div>
+
+      {import.meta.env.DEV && haveCount() < floorCount && (
+        <p class="proof__note">
+          Build note, development only: {haveCount()} of {floorCount} photographs on file.
+          Frames above state the shot they need. Nothing here is stock or generated, and
+          an empty frame is never emitted by a production build.
+        </p>
+      )}
+    </div>
+  </section>
 
   <!-- BEAT 6 · DARK INTERSTITIAL — why you? -->
   <section class="sec sec--green on-dark mown-stripe mown-stripe--dark">

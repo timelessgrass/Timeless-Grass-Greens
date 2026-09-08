@@ -141,3 +141,40 @@
 .fld input:focus, .fld select:focus { border-color: var(--accent); }
 .quote button { margin-top: .4rem; }
 .quote__note { font-size: .85rem; color: var(--ink-faint); margin: .9rem 0 0; }
+
+/* --- figures and the honest hole ------------------------------------------ */
+.fig { margin: 0; }
+.fig img { width: 100%; aspect-ratio: var(--ratio); object-fit: cover; }
+.fig figcaption {
+  font-size: .84rem; color: var(--ink-faint); margin-top: .6rem; line-height: 1.45; max-width: 40ch;
+}
+
+/* a pending frame states what belongs there. it is not a picture and does not
+   pretend to be one. dev only — never emitted by a production build. */
+.fig--pending .fig__slot {
+  aspect-ratio: var(--ratio);
+  border: 1px dashed var(--accent);
+  background-image: repeating-linear-gradient(
+    45deg, rgba(63,140,10,.05) 0 10px, transparent 10px 20px
+  );
+  padding: 1.1rem; display: flex; flex-direction: column; justify-content: flex-end; gap: .45rem;
+}
+.fig__kind {
+  font-size: .64rem; letter-spacing: var(--track-micro); text-transform: uppercase;
+  font-weight: 600; color: var(--accent); margin: 0;
+}
+.fig__brief { font-size: .84rem; line-height: 1.45; color: var(--ink-dim); margin: 0; max-width: 38ch; }
+.fig__id {
+  font-size: .62rem; letter-spacing: .1em; text-transform: uppercase;
+  color: var(--ink-faint); margin: 0;
+}
+
+/* --- proof gallery -------------------------------------------------------- */
+.proof__grid { display: grid; gap: clamp(1rem, 2.4vw, 1.6rem); margin-top: 2.2rem; }
+@media (min-width: 640px) { .proof__grid { grid-template-columns: repeat(2, 1fr); } }
+@media (min-width: 1000px) { .proof__grid { grid-template-columns: repeat(3, 1fr); } }
+.proof__pair { display: grid; grid-template-columns: 1fr 1fr; gap: .5rem; }
+.proof__note {
+  margin-top: 1.8rem; font-size: .88rem; color: var(--ink-faint);
+  border-left: 2px solid var(--accent); padding-left: .9rem; max-width: 56ch;
+}
