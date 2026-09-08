@@ -1,9 +1,27 @@
-# Netlify configuration — static site, no build step.
-# When a framework is added later, set `command` and point `publish` at its output dir.
+# Astro static build. Content must ship in the raw HTML response — retrieval
+# agents (GPTBot, ClaudeBot, PerplexityBot, Google-Extended) cannot read a
+# hydration-only page, and robots.txt allows them in.
 
 [build]
-  publish = "."
-  command = ""
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "24"
+
+# The apex currently 301-redirects to itself in an infinite loop, so anyone
+# typing the domain without "www" reaches nothing. One hop, no loop.
+[[redirects]]
+  from = "https://timelessgrass.com/*"
+  to = "https://www.timelessgrass.com/:splat"
+  status = 301
+  force = true
+
+# The previous build shipped /areas/{city}. Those paths keep their equity.
+[[redirects]]
+  from = "/areas/*"
+  to = "/"
+  status = 301
 
 [[headers]]
   for = "/*"
