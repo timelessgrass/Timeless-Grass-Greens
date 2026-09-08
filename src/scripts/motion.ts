@@ -80,16 +80,20 @@ gsap.matchMedia().add('(prefers-reduced-motion: no-preference)', () => {
 
   /* ---- 5. process: pinned, scroll advances the four steps -------------------- */
   const proc = document.querySelector<HTMLElement>('.proc');
-  if (proc && window.matchMedia('(min-width: 900px)').matches) {
+  /* Pin only where the whole panel fits: a short laptop viewport would clip step four. */
+  if (proc && window.matchMedia('(min-width: 900px)').matches && window.innerHeight >= 720) {
     const steps = gsap.utils.toArray<HTMLElement>('.proc__step');
-    gsap.set('.proc__fill', { scaleX: 1 / steps.length }); // step one is lit the moment the section pins — it never arrives empty
-    const tl = gsap.timeline({
-      scrollTrigger: { trigger: proc, start: 'top top', end: () => `+=${(steps.length - 1) * 70}%`, pin: true, scrub: .6 },
-    });
-    steps.slice(1).forEach((s, j) => {
-      tl.to(steps[j], { opacity: .22, y: -18, duration: 1, ease: 'none' })
-        .from(s, { opacity: 0, y: 38, duration: 1, ease: 'none' }, '<')
-        .to('.proc__fill', { scaleX: (j + 2) / steps.length, duration: 1, ease: 'none' }, '<');
+    /* All four steps are readable at rest; scrolling lights the current one and fills the
+       bar. Nothing is hidden, so the pinned panel is never mostly empty. */
+    const fill = proc.querySelector<HTMLElement>('.proc__fill');
+    const light = (i: number) => {
+      steps.forEach((s, k) => s.classList.toggle('is-on', k === i));
+      if (fill) fill.style.transform = `scaleX(${(i + 1) / steps.length})`;
+    };
+    light(0);
+    ScrollTrigger.create({
+      trigger: proc, start: 'top top', end: () => `+=${(steps.length - 1) * 65}%`, pin: true, scrub: .4,
+      onUpdate: (self) => light(Math.min(steps.length - 1, Math.floor(self.progress * steps.length))),
     });
   }
 

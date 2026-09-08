@@ -157,8 +157,8 @@ const pair = (id: string) => ({ b: SHOTS.find((s) => s.pairId === id && s.kind =
         <h2>Not every turf company is the same.</h2>
         <p>Six things that are true. Each one is checkable — ask on the call.</p>
       </div>
-      <div class="cards">
-        {DIFF.map((d) => <div class="card" data-reveal><h3>{d.h}</h3><p>{d.p}</p></div>)}
+      <div class="diffs">
+        {DIFF.map((d) => <div class="diff" data-reveal><h3>{d.h}</h3><p>{d.p}</p></div>)}
       </div>
     </div>
   </section>
