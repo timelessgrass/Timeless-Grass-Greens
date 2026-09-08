@@ -65,7 +65,8 @@ gsap.matchMedia().add('(prefers-reduced-motion: no-preference)', () => {
 
   /* ---- 4. gallery drift: the strip slides as you pass it (not pinned — mobile safe) */
   const strip = document.querySelector<HTMLElement>('.strip__track');
-  if (strip) {
+  const wideAndPointer = window.matchMedia('(min-width: 900px) and (hover: hover)').matches;
+  if (strip && wideAndPointer) { // narrow/touch gets native swipe instead (home.css)
     const overflow = () => Math.max(0, strip.scrollWidth - (strip.parentElement?.clientWidth ?? 0));
     gsap.to(strip, {
       x: () => -overflow(), ease: 'none',
@@ -113,6 +114,8 @@ gsap.matchMedia().add('(prefers-reduced-motion: no-preference)', () => {
   return () => {}; // matchMedia handles revert
 });
 }
+
+if (import.meta.env.DEV) (window as any).__motion = { gsap, ScrollTrigger };
 
 /* fonts and lazy images shift layout; recalc once they settle */
 document.fonts?.ready.then(() => ScrollTrigger.refresh());
