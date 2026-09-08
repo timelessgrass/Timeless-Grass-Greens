@@ -214,3 +214,51 @@
   font-size: clamp(1.15rem, 2.6vw, 1.5rem); letter-spacing: -.014em;
 }
 .mkts__s { display: block; font-size: .8rem; color: var(--ink-faint); margin-top: .2rem; }
+
+/* --- index lists (services, guides) --------------------------------------- */
+.idx { list-style: none; padding: 0; margin: 2rem 0 0; }
+.idx li { border-top: 1px solid var(--rule); }
+.idx li:last-child { border-bottom: 1px solid var(--rule); }
+.idx a {
+  display: block; padding: 1.35rem 0; min-height: 44px; text-decoration: none;
+  transition: padding-left var(--dur) var(--ease);
+}
+.idx a:hover { padding-left: .7rem; }
+.idx__m {
+  display: block; font-size: .64rem; letter-spacing: var(--track-micro);
+  text-transform: uppercase; font-weight: 600; color: var(--accent); margin-bottom: .35rem;
+}
+.idx__n {
+  display: block; font-family: var(--font-display);
+  font-size: clamp(1.2rem, 2.9vw, 1.75rem); letter-spacing: -.016em;
+}
+.idx__d {
+  display: block; font-size: .92rem; color: var(--ink-faint);
+  margin-top: .35rem; max-width: 62ch; line-height: 1.5;
+}
+
+/* --- long-form document pages --------------------------------------------- */
+.doc__head { padding-top: clamp(2rem, 5vw, 3.4rem); }
+.doc__meta { font-size: .8rem; color: var(--ink-faint); margin: 1.2rem 0 0; }
+.doc__body .wrap { max-width: 760px; }
+.doc__sec { margin-bottom: clamp(2.2rem, 5vw, 3.4rem); }
+.doc__sec h2 { font-size: clamp(1.4rem, 3.2vw, 2rem); margin-bottom: 1rem; }
+.doc__sec p { font-size: 1.02rem; line-height: 1.68; }
+.doc__sources { border-top: 1px solid var(--rule); padding-top: 1.8rem; }
+.srcs { margin: 1.4rem 0 0; padding-left: 1.1rem; }
+.srcs li { margin-bottom: 1rem; font-size: .88rem; line-height: 1.5; }
+.srcs__l { display: block; font-weight: 600; }
+.srcs__c { display: block; color: var(--ink-dim); }
+.srcs__u { display: block; color: var(--accent); word-break: break-all; font-size: .82rem; }
+.srcs__d { display: block; color: var(--ink-faint); font-size: .78rem; margin-top: .15rem; }
+
+/* --- footer directory — spine beat 9 is the link backbone ----------------- */
+.foot__nav { display: grid; gap: 2rem; margin-bottom: 2rem; }
+@media (min-width: 700px) { .foot__nav { grid-template-columns: repeat(3, 1fr); } }
+.foot__nav ul { list-style: none; padding: 0; margin: 0; display: grid; gap: .1rem; }
+.foot__nav li a {
+  display: block; padding: .45rem 0; min-height: 44px; line-height: 1.5;
+  color: var(--ink-on-dark-dim); text-decoration: none; font-size: .93rem;
+}
+.foot__nav li a:hover { color: var(--accent-on-dark); }
+.foot__nav .micro { color: var(--ink-on-dark-faint); margin-bottom: .5rem; }

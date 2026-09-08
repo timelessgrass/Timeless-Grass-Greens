@@ -1,0 +1,93 @@
+---
+import Base from '../../layouts/Base.astro';
+import { GUIDES } from '../../data/guides';
+import { marketBySlug } from '../../data/markets';
+import { phone, phoneHref } from '../../data/brief';
+
+export function getStaticPaths() {
+  return GUIDES.map((g) => ({ params: { slug: g.slug }, props: { g } }));
+}
+const { g } = Astro.props;
+const m = g.market === 'all' ? null : marketBySlug(g.market);
+const crumbs = [
+  { name: 'Home', item: `${Astro.site}` },
+  { name: 'Guides', item: `${Astro.site}guides/` },
+  { name: g.h1, item: `${Astro.site}guides/${g.slug}/` },
+];
+---
+<Base title={g.title} description={g.description} answer={g.answer} crumbs={crumbs}>
+  <article class="doc">
+    <header class="sec doc__head mown-stripe">
+      <div class="wrap">
+        <nav class="crumbs" aria-label="Breadcrumb">
+          <a href="/">Home</a> <span aria-hidden="true">/</span>
+          <a href="/guides/">Guides</a> <span aria-hidden="true">/</span>
+          <span>{g.h1}</span>
+        </nav>
+        <p class="micro micro--accent">{m ? m.name : 'All markets'}</p>
+        <h1>{g.h1}</h1>
+        <hr class="rule-ribbon" />
+        <p class="doc__meta">Last checked {g.updated}</p>
+      </div>
+    </header>
+
+    <div class="sec answer-box">
+      <div class="wrap">
+        <p class="micro">The short version</p>
+        <h2 class="answer-box__q">{g.answer.question}</h2>
+        <p class="answer-box__a">{g.answer.answer}</p>
+      </div>
+    </div>
+
+    <div class="sec doc__body">
+      <div class="wrap">
+        {g.sections.map((s) => (
+          <section class="doc__sec">
+            <h2>{s.h2}</h2>
+            {s.body.map((p) => <p set:html={p} />)}
+          </section>
+        ))}
+
+        {g.faq && g.faq.length > 0 && (
+          <section class="doc__sec">
+            <h2>Questions this raises</h2>
+            <div class="faq">
+              {g.faq.map((qa) => (
+                <details class="qa">
+                  <summary><h3>{qa.q}</h3></summary>
+                  <p set:html={qa.a} />
+                </details>
+              ))}
+            </div>
+          </section>
+        )}
+
+        <section class="doc__sec doc__sources">
+          <h2>Sources</h2>
+          <ol class="srcs">
+            {g.sources.map((s) => (
+              <li>
+                <span class="srcs__l">{s.label}</span>
+                <span class="srcs__c">{s.cite}</span>
+                {s.url && <a class="srcs__u" href={s.url} rel="nofollow noopener">{s.url}</a>}
+                <span class="srcs__d">checked {s.checked}</span>
+              </li>
+            ))}
+          </ol>
+        </section>
+      </div>
+    </div>
+
+    <section class="sec sec--dark on-dark close">
+      <div class="wrap">
+        <p class="micro">If this affects your job</p>
+        <h2>Ask us before you assume.</h2>
+        <p class="close__p">
+          Rules differ by state, county and sometimes by water district. We will tell you
+          which applies to your address before you count on it.
+        </p>
+        {phoneHref && <a class="btn btn--primary btn--lg" href={phoneHref} data-cta={`call-guide-${g.slug}`}>Call {phone}</a>}
+      </div>
+    </section>
+  </article>
+</Base>

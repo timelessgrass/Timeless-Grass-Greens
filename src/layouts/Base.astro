@@ -3,6 +3,8 @@ import '../styles/tokens.css';
 import '../styles/base.css';
 import '../styles/sections.css';
 import { businessName, phone, phoneHref, email, serviceAreas } from '../data/brief';
+import { MARKETS } from '../data/markets';
+import { SERVICES } from '../data/services';
 
 interface Props {
   title: string;
@@ -98,11 +100,20 @@ if (crumbs?.length) {
   <footer class="foot mown-stripe mown-stripe--dark">
     <div class="foot__in">
       <p class="foot__name">{businessName}</p>
-      {serviceAreas.length > 0 && (
-        <ul class="foot__areas">
-          {serviceAreas.map((a) => <li>{a}</li>)}
-        </ul>
-      )}
+      <nav class="foot__nav" aria-label="Footer">
+        <div>
+          <p class="micro">Where we work</p>
+          <ul>{MARKETS.map((m) => <li><a href={`/${m.slug}/`}>{m.name}</a></li>)}</ul>
+        </div>
+        <div>
+          <p class="micro">What we install</p>
+          <ul>{SERVICES.map((s) => <li><a href={`/services/${s.slug}/`}>{s.name}</a></li>)}</ul>
+        </div>
+        <div>
+          <p class="micro">The rules</p>
+          <ul><li><a href="/guides/">Turf rules by state</a></li></ul>
+        </div>
+      </nav>
       {phoneHref && <a class="foot__tel" href={phoneHref} data-cta="call-footer">{phone}</a>}
       <p class="foot__legal">&copy; {new Date().getFullYear()} {businessName}</p>
     </div>

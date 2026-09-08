@@ -1,17 +1,26 @@
 /**
  * One sitemap.xml listing exactly the indexable routes.
  *
- * Built from the same data the pages are built from, so a new market or service
+ * Built from the same data the pages are, so a new market, service or guide
  * cannot ship absent from the sitemap. Globbing the source tree missed dynamic
- * routes ([market]/) entirely and quietly orphaned three pages.
+ * routes entirely and silently orphaned three pages.
  */
 import type { APIRoute } from 'astro';
 import { MARKETS } from '../data/markets';
+import { SERVICES } from '../data/services';
+import { GUIDES } from '../data/guides';
 
 const SITE = 'https://www.timelessgrass.com';
 
 export function routes(): string[] {
-  return ['/', ...MARKETS.map((m) => `/${m.slug}/`)];
+  return [
+    '/',
+    '/services/',
+    '/guides/',
+    ...MARKETS.map((m) => `/${m.slug}/`),
+    ...SERVICES.map((s) => `/services/${s.slug}/`),
+    ...GUIDES.map((g) => `/guides/${g.slug}/`),
+  ];
 }
 
 export const GET: APIRoute = async () => {

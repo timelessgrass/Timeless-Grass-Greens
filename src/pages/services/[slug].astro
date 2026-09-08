@@ -1,0 +1,87 @@
+---
+import Base from '../../layouts/Base.astro';
+import Figure from '../../components/Figure.astro';
+import { SERVICES } from '../../data/services';
+import { MARKETS } from '../../data/markets';
+import { shotsBy } from '../../data/shotlist';
+import { phone, phoneHref } from '../../data/brief';
+
+export function getStaticPaths() {
+  return SERVICES.map((s) => ({ params: { slug: s.slug }, props: { s } }));
+}
+const { s } = Astro.props;
+const crumbs = [
+  { name: 'Home', item: `${Astro.site}` },
+  { name: 'Services', item: `${Astro.site}services/` },
+  { name: s.name, item: `${Astro.site}services/${s.slug}/` },
+];
+---
+<Base title={s.title} description={s.description} answer={s.answer} crumbs={crumbs}>
+  <section class="hero hero--sub mown-stripe">
+    <div class="wrap">
+      <nav class="crumbs" aria-label="Breadcrumb">
+        <a href="/">Home</a> <span aria-hidden="true">/</span>
+        <a href="/services/">Services</a> <span aria-hidden="true">/</span>
+        <span>{s.name}</span>
+      </nav>
+      <h1>{s.h1}</h1>
+      <hr class="rule-ribbon" />
+      <p class="hero__lede">{s.lede}</p>
+      <div class="hero__cta">
+        {phoneHref && <a class="btn btn--primary" href={phoneHref} data-cta={`call-hero-${s.slug}`}>Call {phone}</a>}
+      </div>
+    </div>
+  </section>
+
+  <div class="sec answer-box">
+    <div class="wrap">
+      <p class="micro">The short version</p>
+      <h2 class="answer-box__q">{s.answer.question}</h2>
+      <p class="answer-box__a">{s.answer.answer}</p>
+    </div>
+  </div>
+
+  <div class="sec doc__body">
+    <div class="wrap">
+      {s.sections.map((sec) => (
+        <section class="doc__sec">
+          <h2>{sec.h2}</h2>
+          {sec.body.map((p) => <p set:html={p} />)}
+        </section>
+      ))}
+    </div>
+  </div>
+
+  <section class="sec sec--band">
+    <div class="wrap">
+      <p class="micro">The work</p>
+      <h2>{s.name} we&rsquo;ve installed.</h2>
+      <div class="proof__grid">
+        {shotsBy('finished').slice(0, 3).map((shot) => <Figure shot={shot} />)}
+      </div>
+    </div>
+  </section>
+
+  <section class="sec">
+    <div class="wrap">
+      <p class="micro">Where</p>
+      <h2>{s.name} in three markets.</h2>
+      <ul class="mkts">
+        {MARKETS.map((m) => (
+          <li><a href={`/${m.slug}/`} data-cta={`market-${m.slug}`}>
+            <span class="mkts__n">{m.name}</span>
+            <span class="mkts__s">{m.counties.join(' · ')}</span>
+          </a></li>
+        ))}
+      </ul>
+    </div>
+  </section>
+
+  <section class="sec sec--dark on-dark close">
+    <div class="wrap">
+      <p class="micro">What happens next</p>
+      <h2>You call, we measure, you get a number.</h2>
+      {phoneHref && <a class="btn btn--primary btn--lg" href={phoneHref} data-cta={`call-close-${s.slug}`}>Call {phone}</a>}
+    </div>
+  </section>
+</Base>
