@@ -65,8 +65,8 @@ const pair = (id: string) => ({ b: SHOTS.find((s) => s.pairId === id && s.kind =
         {materials && <><b>American-made turf</b> · </>}<b>Founder with 13 years</b> · <b>Written number before you sign</b>
       </p>
       <div class="hero__cta">
-        {phoneHref && <a class="btn btn--primary btn--pill" href={phoneHref} data-cta="call-hero">Call {phone}</a>}
-        <a class="btn btn--ghost-dark btn--pill" href="#quote" data-cta="quote-hero">Get a written number</a>
+        {phoneHref && <a class="btn btn--primary" href={phoneHref} data-cta="call-hero">Call {phone}</a>}
+        <a class="btn btn--ghost-dark" href="#quote" data-cta="quote-hero">Get a written number</a>
       </div>
     </div>
     {quality && <div class="hero__badge"><b>Blown clean first.</b>Every green gets cleaned before we photograph it and before we leave.</div>}
@@ -253,7 +253,7 @@ const pair = (id: string) => ({ b: SHOTS.find((s) => s.pairId === id && s.kind =
             <select name="use" required><option value="">Choose one</option><option>Lawn</option><option>Dogs</option><option>Putting green</option><option>Kids / play area</option><option>Commercial or sports field</option></select>
           </label>
         </div>
-        <button class="btn btn--primary btn--pill" type="submit">Request a quote</button>
+        <button class="btn btn--primary" type="submit">Request a quote</button>
         <p class="quote__note">No showroom visit, no financing pitch. We call you back.</p>
       </form>
     </div>
@@ -271,9 +271,8 @@ const pair = (id: string) => ({ b: SHOTS.find((s) => s.pairId === id && s.kind =
     <div class="wrap" data-reveal>
       <h2>The green gets cleaned before we leave.</h2>
       <p class="close__p">That is the standard, and it is the same one we hold competitors to. Call, we measure, you get a written number.</p>
-      {phoneHref && <a class="btn btn--primary btn--pill btn--lg" href={phoneHref} data-cta="call-close">Call {phone}</a>}
+      {phoneHref && <a class="btn btn--primary btn--lg" href={phoneHref} data-cta="call-close">Call {phone}</a>}
     </div>
   </section>
 
-  <script>import '../scripts/home-scroll';</script>
 </Base>

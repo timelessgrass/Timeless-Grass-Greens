@@ -1,8 +1,7 @@
 ---
 import '../styles/tokens.css';
 import '../styles/base.css';
-import '../styles/sections.css';
-import '../styles/home.css';
+import '../styles/components.css';
 import { businessName, phone, phoneHref, email, serviceAreas } from '../data/brief';
 import { MARKETS } from '../data/markets';
 import { SERVICES } from '../data/services';
@@ -132,5 +131,6 @@ if (crumbs?.length) {
       <span>Call {phone}</span>
     </a>
   )}
+  <script>import '../scripts/motion';</script>
 </body>
 </html>

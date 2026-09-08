@@ -1,5 +1,6 @@
 /**
- * Homepage motion. One curve, one library, every effect degrades to static.
+ * Site-wide motion. Every block guards on its hook, so a page without a gallery or
+ * a process section simply skips those. One curve, one library, every effect degrades to static.
  *
  * Content is complete in the HTML before any of this runs — retrieval agents and
  * no-JS visitors get the whole page. Motion is added on top, never relied on.
@@ -26,9 +27,9 @@ requestAnimationFrame(() => requestAnimationFrame(() => {
 
 function start() {
 gsap.matchMedia().add('(prefers-reduced-motion: no-preference)', () => {
-  /* ---- 1. hero intro: animate TO rest from the CSS start state ---------------- */
+  /* ---- 1. hero intro (homepage only): animate TO rest from the CSS start state -- */
   const intro = gsap.timeline({ defaults: { ease: EASE }, onComplete: () => { introDone = true; } });
-  intro
+  if (!document.querySelector('.hero--home')) { introDone = true; intro.kill(); } else intro
     .to('.hero__eyebrow', { y: 0, opacity: 1, duration: .7 })
     .to('.hero h1 .line > span', { y: 0, duration: 1.05, stagger: .11 }, '-=.4') // y not yPercent: GSAP parses the CSS % start as px
     .to('.hero__deck, .hero__qual, .hero__cta', { y: 0, opacity: 1, duration: .8, stagger: .1 }, '-=.55')
@@ -36,7 +37,7 @@ gsap.matchMedia().add('(prefers-reduced-motion: no-preference)', () => {
     .to('.hero__steps > *', { y: 0, opacity: 1, duration: .6, stagger: .08 }, '-=.5');
 
   /* hero image: slow ken-burns on scroll, not on a timer — it only moves if you do */
-  gsap.to('.hero__img', {
+  if (document.querySelector('.hero__img')) gsap.to('.hero__img', {
     scale: 1.12, yPercent: 8, ease: 'none',
     scrollTrigger: { trigger: '.hero', start: 'top top', end: 'bottom top', scrub: true },
   });
@@ -49,6 +50,7 @@ gsap.matchMedia().add('(prefers-reduced-motion: no-preference)', () => {
   });
 
   /* ---- 3. count-ups on TRUE numbers only ------------------------------------- */
+  if (document.querySelector('[data-reveal]') === null && document.querySelector('[data-count]') === null) { /* nothing to animate on this page */ }
   document.querySelectorAll<HTMLElement>('[data-count]').forEach((el) => {
     const end = Number(el.dataset.count);
     const suffix = el.dataset.suffix ?? '';

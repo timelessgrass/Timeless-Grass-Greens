@@ -60,7 +60,8 @@
   /* --- geometry ------------------------------------------------------------ */
   --radius: 0;               /* fixed at the token level, never swept later */
   --radius-card: 1.1rem;     /* cards and media only. the reference earns it; buttons stay pills */
-  --radius-pill: 999px;
+  --radius-input: 8px;
+  --radius-pill: 999px;    /* every button. no square buttons anywhere. */
   --measure: 62ch;
   --gut: clamp(1.15rem, 4vw, 2.5rem);
   --bleed: clamp(1.15rem, 5vw, 5.5rem);
