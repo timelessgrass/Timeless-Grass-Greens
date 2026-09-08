@@ -4,6 +4,7 @@ import { businessName, phone, phoneHref, services, serviceAreas, identity, posit
 import { fact } from '../data/brief';
 import Figure from '../components/Figure.astro';
 import { SHOTS, shotsBy, haveCount, floorCount } from '../data/shotlist';
+import { MARKETS } from '../data/markets';
 
 const founderYears = fact<string>(positioning?.materials) ? '13' : '13'; // stated by the founder, 00:32:38
 const materials    = fact<string>(positioning?.materials);
@@ -191,6 +192,14 @@ const ANSWER = {
       <div>
         <p class="micro">Who and where</p>
         <h2>Three markets, three crews, three numbers.</h2>
+        <ul class="mkts">
+          {MARKETS.map((m) => (
+            <li><a href={`/${m.slug}/`} data-cta={`market-${m.slug}`}>
+              <span class="mkts__n">{m.name}</span>
+              <span class="mkts__s">{m.counties.join(' · ')}</span>
+            </a></li>
+          ))}
+        </ul>
         <p>
           Colorado, the Grand Strand across South and North Carolina, and northeast
           Florida. Each market has its own number that reaches someone who works there,

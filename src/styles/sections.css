@@ -178,3 +178,39 @@
   margin-top: 1.8rem; font-size: .88rem; color: var(--ink-faint);
   border-left: 2px solid var(--accent); padding-left: .9rem; max-width: 56ch;
 }
+
+/* --- sub-page hero, breadcrumbs, town lists ------------------------------- */
+.hero--sub { padding-top: clamp(2rem, 5vw, 3.4rem); }
+.crumbs { font-size: .8rem; color: var(--ink-faint); margin-bottom: 1.4rem; }
+.crumbs a { text-decoration: none; border-bottom: 1px solid var(--rule); }
+.crumbs a:hover { border-bottom-color: var(--accent); color: var(--accent); }
+.crumbs span[aria-hidden] { padding: 0 .4rem; }
+
+.towns { list-style: none; padding: 0; margin: 2rem 0 0; display: grid; gap: .1rem; }
+@media (min-width: 620px) { .towns { grid-template-columns: repeat(2, 1fr); } }
+@media (min-width: 980px) { .towns { grid-template-columns: repeat(3, 1fr); } }
+.towns li {
+  border-top: 1px solid var(--rule); padding: .8rem 0;
+  font-family: var(--font-display); font-size: 1.1rem; letter-spacing: -.01em;
+}
+
+/* the receipt line under a sourced claim — within one element of the claim */
+.src {
+  font-size: .78rem; letter-spacing: .04em; color: var(--ink-on-dark-faint);
+  margin: 1.1rem 0 0; font-family: var(--font-body);
+}
+
+/* --- market links — every hub needs a real inbound <a href> --------------- */
+.mkts { list-style: none; padding: 0; margin: 1.6rem 0 1.8rem; }
+.mkts li { border-top: 1px solid var(--rule); }
+.mkts li:last-child { border-bottom: 1px solid var(--rule); }
+.mkts a {
+  display: block; padding: 1rem 0; min-height: 44px; text-decoration: none;
+  transition: padding-left var(--dur) var(--ease);
+}
+.mkts a:hover { padding-left: .6rem; }
+.mkts__n {
+  display: block; font-family: var(--font-display);
+  font-size: clamp(1.15rem, 2.6vw, 1.5rem); letter-spacing: -.014em;
+}
+.mkts__s { display: block; font-size: .8rem; color: var(--ink-faint); margin-top: .2rem; }

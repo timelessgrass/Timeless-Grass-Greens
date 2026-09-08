@@ -9,8 +9,10 @@ interface Props {
   description: string;
   /** The answer-box question + ~60-word answer, for AEO extraction. */
   answer?: { question: string; answer: string };
+  /** Visible breadcrumbs are mirrored into BreadcrumbList on every programmatic tier. */
+  crumbs?: { name: string; item: string }[];
 }
-const { title, description, answer } = Astro.props;
+const { title, description, answer, crumbs } = Astro.props;
 const canonical = new URL(Astro.url.pathname, Astro.site).href;
 
 const graph: any[] = [
@@ -40,6 +42,16 @@ const graph: any[] = [
     ...(answer ? { speakable: { '@type': 'SpeakableSpecification', cssSelector: ['.answer-box__a', '.hero__lede'] } } : {}),
   },
 ];
+
+if (crumbs?.length) {
+  graph.push({
+    '@type': 'BreadcrumbList',
+    '@id': `${canonical}#breadcrumb`,
+    itemListElement: crumbs.map((c, i) => ({
+      '@type': 'ListItem', position: i + 1, name: c.name, item: c.item,
+    })),
+  });
+}
 /* NO LocalBusiness node here. One is emitted only where a real, staffed, verified
    address exists behind a live GBP — never per-city, never speculatively.
    NO aggregateRating and NO Review, ever: Google rules self-serving review markup

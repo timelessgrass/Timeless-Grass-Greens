@@ -1,0 +1,100 @@
+---
+import Base from '../../layouts/Base.astro';
+import Figure from '../../components/Figure.astro';
+import { MARKETS } from '../../data/markets';
+import { shotsBy } from '../../data/shotlist';
+import { businessName, phone, phoneHref, services } from '../../data/brief';
+
+export function getStaticPaths() {
+  return MARKETS.map((m) => ({ params: { market: m.slug }, props: { m } }));
+}
+const { m } = Astro.props;
+
+const ANSWER = {
+  question: `Who installs artificial turf and putting greens in ${m.short}?`,
+  answer: `${businessName} installs artificial turf, pet turf and backyard putting greens across ${m.name} — ${m.anchors.slice(0, 4).join(', ')} and the surrounding area. Residential, commercial, indoor facilities and sports fields. The founder has thirteen years in turf. Call ${phone} for a quote.`,
+};
+
+const crumbs = [
+  { name: 'Home', item: `${Astro.site}` },
+  { name: m.name, item: `${Astro.site}${m.slug}/` },
+];
+---
+<Base
+  title={`Artificial Turf in ${m.short} | TIMELESS Grass & Greens`}
+  description={`Artificial turf, pet turf and backyard putting greens across ${m.name} — ${m.anchors.slice(0,3).join(', ')} and between. Call ${phone}.`}
+  answer={ANSWER}
+  crumbs={crumbs}
+>
+  <section class="hero hero--sub mown-stripe">
+    <div class="wrap">
+      <nav class="crumbs" aria-label="Breadcrumb">
+        <a href="/">Home</a> <span aria-hidden="true">/</span> <span>{m.name}</span>
+      </nav>
+      <p class="micro micro--accent">{m.counties.join(' · ')}</p>
+      <h1>Turf and putting greens across {m.name}.</h1>
+      <hr class="rule-ribbon" />
+      <p class="hero__lede">{m.ground}</p>
+      <div class="hero__cta">
+        {phoneHref && <a class="btn btn--primary" href={phoneHref} data-cta={`call-hero-${m.slug}`}>Call {phone}</a>}
+      </div>
+    </div>
+  </section>
+
+  <!-- the regulatory fact no competitor in this market has written up -->
+  <section class="sec sec--green on-dark mown-stripe mown-stripe--dark">
+    <div class="wrap band">
+      <p class="micro">What changes here</p>
+      <h2>{m.law.headline}</h2>
+      <p class="band__p">{m.law.detail}</p>
+      <p class="src">{m.law.source}</p>
+    </div>
+  </section>
+
+  <section class="sec">
+    <div class="wrap">
+      <p class="micro">What we install in {m.short}</p>
+      <h2>Anything that&rsquo;s turf.</h2>
+      <ul class="svcs">
+        {services.map((s) => <li class="svc"><span class="svc__n">{s}</span></li>)}
+      </ul>
+    </div>
+  </section>
+
+  <section class="sec sec--band">
+    <div class="wrap">
+      <p class="micro">Where we work</p>
+      <h2>{m.anchors.length} anchors, and everything between them.</h2>
+      <ul class="towns">
+        {m.anchors.map((t) => <li>{t}</li>)}
+      </ul>
+      <p class="proof__note">Town pages follow. Each one carries something true about that town, or it does not get built.</p>
+    </div>
+  </section>
+
+  <section class="sec">
+    <div class="wrap">
+      <p class="micro">The work</p>
+      <h2>Jobs in {m.short}.</h2>
+      <div class="proof__grid">
+        {shotsBy('finished').slice(0, 3).map((shot) => <Figure shot={shot} />)}
+      </div>
+    </div>
+  </section>
+
+  <section class="sec sec--band answer-box">
+    <div class="wrap">
+      <p class="micro">The short version</p>
+      <h2 class="answer-box__q">{ANSWER.question}</h2>
+      <p class="answer-box__a">{ANSWER.answer}</p>
+    </div>
+  </section>
+
+  <section class="sec sec--dark on-dark close">
+    <div class="wrap">
+      <p class="micro">What happens next</p>
+      <h2>You call, we measure, you get a number.</h2>
+      {phoneHref && <a class="btn btn--primary btn--lg" href={phoneHref} data-cta={`call-close-${m.slug}`}>Call {phone}</a>}
+    </div>
+  </section>
+</Base>
