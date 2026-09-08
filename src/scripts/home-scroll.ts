@@ -11,16 +11,29 @@ import { ScrollTrigger } from 'gsap/ScrollTrigger';
 gsap.registerPlugin(ScrollTrigger);
 
 const EASE = 'expo.out'; // the single curve. tokens.css: cubic-bezier(.16,1,.3,1) ≈ expo.out
+const html = document.documentElement;
 
+/* Nothing is hidden until the ticker proves it is alive. The hidden start states live in
+   CSS under html.js-motion (home.css); if the intro has not finished within 4s — throttled
+   background tab, blocked chunk, ancient device — the class comes off and the page shows
+   itself. A blank page is the one failure mode we refuse. */
+let introDone = false;
+requestAnimationFrame(() => requestAnimationFrame(() => {
+  html.classList.add('js-motion');
+  start();
+  setTimeout(() => { if (!introDone) html.classList.remove('js-motion'); }, 4000);
+}));
+
+function start() {
 gsap.matchMedia().add('(prefers-reduced-motion: no-preference)', () => {
-  /* ---- 1. hero intro: lines rise, then the rest ------------------------------ */
-  const intro = gsap.timeline({ defaults: { ease: EASE } });
+  /* ---- 1. hero intro: animate TO rest from the CSS start state ---------------- */
+  const intro = gsap.timeline({ defaults: { ease: EASE }, onComplete: () => { introDone = true; } });
   intro
-    .from('.hero__eyebrow', { y: 14, opacity: 0, duration: .7 })
-    .from('.hero h1 .line > span', { yPercent: 110, duration: 1.05, stagger: .11 }, '-=.4')
-    .from('.hero__deck, .hero__qual, .hero__cta', { y: 18, opacity: 0, duration: .8, stagger: .1 }, '-=.55')
-    .from('.hero__badge', { scale: .92, opacity: 0, duration: .8 }, '-=.6')
-    .from('.hero__steps > *', { y: 12, opacity: 0, duration: .6, stagger: .08 }, '-=.5');
+    .to('.hero__eyebrow', { y: 0, opacity: 1, duration: .7 })
+    .to('.hero h1 .line > span', { yPercent: 0, duration: 1.05, stagger: .11 }, '-=.4')
+    .to('.hero__deck, .hero__qual, .hero__cta', { y: 0, opacity: 1, duration: .8, stagger: .1 }, '-=.55')
+    .to('.hero__badge', { scale: 1, opacity: 1, duration: .8 }, '-=.6')
+    .to('.hero__steps > *', { y: 0, opacity: 1, duration: .6, stagger: .08 }, '-=.5');
 
   /* hero image: slow ken-burns on scroll, not on a timer — it only moves if you do */
   gsap.to('.hero__img', {
@@ -28,8 +41,7 @@ gsap.matchMedia().add('(prefers-reduced-motion: no-preference)', () => {
     scrollTrigger: { trigger: '.hero', start: 'top top', end: 'bottom top', scrub: true },
   });
 
-  /* ---- 2. reveals: anything marked data-reveal rises once when it enters ------ */
-  gsap.set('[data-reveal]', { y: 28, opacity: 0 });
+  /* ---- 2. reveals: CSS holds the hidden state; we animate to rest once -------- */
   ScrollTrigger.batch('[data-reveal]', {
     start: 'top 86%',
     once: true,
@@ -100,6 +112,7 @@ gsap.matchMedia().add('(prefers-reduced-motion: no-preference)', () => {
 
   return () => {}; // matchMedia handles revert
 });
+}
 
 /* fonts and lazy images shift layout; recalc once they settle */
 document.fonts?.ready.then(() => ScrollTrigger.refresh());

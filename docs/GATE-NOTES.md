@@ -61,3 +61,16 @@ client's explicit choice.
 `<Figure>` and `heroSrc()` both check `import.meta.env.DEV` before returning a stock
 URL. Verify after every build: `find dist -name '*.html' -exec grep -l 'pexels.com' {} +`
 must return nothing. Caught once already when `heroSrc()` shipped a Pexels URL to prod.
+
+## 8. The in-app Browser pane cannot verify motion
+
+Its document reports `visibilityState: hidden`, so `requestAnimationFrame` never
+fires there. GSAP's ticker is dead, every tween freezes at its start state, and
+below-fold screenshots paint blank. That is the pane, not the site — but it is why
+the motion layer is now hardened (see `src/scripts/home-scroll.ts`): start states
+live in CSS under `html.js-motion`, the class is added only after two rAF ticks prove
+the ticker alive, tweens animate TO rest, and a 4s safety net drops the class if the
+intro never completes. Verified: with rAF dead the page renders fully visible.
+
+Verify motion in a real browser: the Playwright MCP server, or `npx playwright
+install chromium` for the gstack `browse` binary (it is missing its headless shell).

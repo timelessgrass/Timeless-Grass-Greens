@@ -30,3 +30,4 @@ archive/
 
 # design exploration scratch — not part of the site
 public/_design/
+.gstack/
