@@ -965,7 +965,7 @@ export const GUIDES: Guide[] = [
         "checked": "2026-09-07"
       }
     ],
-    "title": "Colorado HOA Turf Rules | TIMELESS Grass &amp; Greens",
+    "title": "Colorado HOA Turf Rules | TIMELESS Grass & Greens",
     "updated": "2026-09-08",
     "faq": [
       {
@@ -1166,7 +1166,7 @@ export const GUIDES: Guide[] = [
         "checked": "2026-09-07"
       }
     ],
-    "title": "Turf Installer Licenses by State | TIMELESS Grass &amp; Greens",
+    "title": "Turf Installer Licenses by State | TIMELESS Grass & Greens",
     "updated": "2026-09-08"
   },
   {

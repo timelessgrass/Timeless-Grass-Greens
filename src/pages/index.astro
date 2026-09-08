@@ -15,7 +15,6 @@ import { MARKETS } from '../data/markets';
 
 const founded  = fact<number>(identity?.founded_year);
 const materials = fact<string>(positioning?.materials);
-const quality  = fact<string>(positioning?.quality_standard);
 const hero = heroSrc();
 const DEV = import.meta.env.DEV;
 
@@ -34,12 +33,12 @@ const SVC = [
 ];
 
 const DIFF = [
-  { h: 'American-made turf',            p: 'We name the product and hand you the spec sheet before you sign. No unbranded imports.' },
+  { h: 'American-made turf',            p: 'The owner’s own words for what goes down: all American-made stuff, premium stuff.' },
   { h: 'Base built to your soil',       p: 'Expansive clay in Denver, sand and a high water table on the coast. The base changes; the quote says how.' },
   { h: 'The founder’s thirteen years', p: 'His years, stated as his. Timeless started in 2024 and we’d rather say so than round it up.' },
-  { h: 'Blown clean before the photo',  p: 'Our test of any install, ours included: count the leaves on the green. If it’s not clean, it’s not finished.' },
-  { h: 'Three markets, three crews',    p: 'A number that reaches someone who works where you live, not a call center in a different time zone.' },
-  { h: 'Honest about heat',             p: 'We publish the measured surface temperatures. Where a spot is wrong for turf, we say so and quote something else.' },
+  { h: 'How he judges a competitor',    p: 'Open their own photo of their own work and count the leaves on the putting green. That is his test.' },
+  { h: 'Safe for kids and pets',        p: 'Non-toxic, lead-free materials, built to take heavy play and pet traffic.' },
+  { h: 'Honest about heat',             p: 'The measured surface temperatures are published on this site — Brigham Young University’s numbers, not ours.' },
 ];
 
 const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'];
@@ -62,17 +61,16 @@ const pair = (id: string) => ({ b: SHOTS.find((s) => s.pairId === id && s.kind =
       </h1>
       <p class="hero__deck">Artificial turf and backyard putting greens — installed, not sold from a catalog. Denver metro, the Grand Strand, northeast Florida.</p>
       <p class="hero__qual">
-        {materials && <><b>American-made turf</b> · </>}<b>Founder with 13 years</b> · <b>Written number before you sign</b>
+        {materials && <><b>American-made turf</b> · </>}<b>Founder with 13 years</b> · <b>Free estimate, no pressure</b>
       </p>
       <div class="hero__cta">
         {phoneHref && <a class="btn btn--primary" href={phoneHref} data-cta="call-hero">Call {phone}</a>}
       </div>
     </div>
-    {quality && <div class="hero__badge"><b>Blown clean first.</b>Every green gets cleaned before we photograph it and before we leave.</div>}
     <div class="hero__steps wrap">
       <div><i>1</i><span>Call, or send photos of the space</span></div>
-      <div><i>2</i><span>We measure on site — base depth comes from your soil</span></div>
-      <div><i>3</i><span>Written number, product named, spec sheet attached</span></div>
+      <div><i>2</i><span>We visit and measure the space on site</span></div>
+      <div><i>3</i><span>A detailed quote with material options and layout</span></div>
     </div>
   </section>
 
@@ -85,8 +83,8 @@ const pair = (id: string) => ({ b: SHOTS.find((s) => s.pairId === id && s.kind =
       </div>
       <div class="nums">
         <div class="num" data-reveal><b data-count="13">13</b><span>years the founder has been installing turf — his, not the company&rsquo;s</span></div>
-        {founded && <div class="num" data-reveal><b data-count={founded}>{founded}</b><span>the year Timeless started. New company, long-standing crew</span></div>}
-        <div class="num" data-reveal><b data-count="3">3</b><span>markets, each with its own crew and number</span></div>
+        {founded && <div class="num" data-reveal><b data-count={founded}>{founded}</b><span>the year Timeless started — the founder’s thirteen years came first</span></div>}
+        <div class="num" data-reveal><b data-count="3">3</b><span>markets: the Denver metro, the Grand Strand, northeast Florida</span></div>
         <div class="num" data-reveal><b data-count="4">4</b><span>states whose turf rules we&rsquo;ve written up, statute by statute</span></div>
       </div>
       <!-- HOLE: no review count, no customer count, no rating. None is sourced.
@@ -112,8 +110,8 @@ const pair = (id: string) => ({ b: SHOTS.find((s) => s.pairId === id && s.kind =
       <div data-reveal>
         <p class="micro">Who shows up</p>
         <h2>Built by one person who&rsquo;s been doing this for thirteen years.</h2>
-        <p>Timeless is new — it started in 2024. The person running it is not. Thirteen years of installing turf came first, and the company was built to do that work the way he thinks it should be done: measured on site, priced in writing, and cleaned before anyone takes a photograph.</p>
-        <p>No franchise, no call center, no financing pitch on the doorstep. Three markets because that is where the work is, and a crew in each one.</p>
+        <p>Timeless is new — it started in 2024. The person running it is not. Thirteen years of installing turf came first, and the company was built to do that work the way he thinks it should be done: measured on site, and priced in writing before anything starts.</p>
+        <p>No middlemen and no handoffs — you deal with the owner. Three markets, because that is where the work is.</p>
       </div>
       <div data-reveal>{shotsBy('team').slice(0, 1).map((shot) => <Figure shot={shot} />)}</div>
     </div>
@@ -176,8 +174,8 @@ const pair = (id: string) => ({ b: SHOTS.find((s) => s.pairId === id && s.kind =
       <div class="proc__steps">
         <div class="proc__step"><i>01</i><h3>You call, or send photos</h3><p>We ask what the space actually does. Dogs, kids, putting, or all three — each one changes the product and the infill.</p></div>
         <div class="proc__step"><i>02</i><h3>We measure on site</h3><p>Base depth comes from your soil, not a standard number. Drainage and grade are checked before quoting, because that is what fails later.</p></div>
-        <div class="proc__step"><i>03</i><h3>You get a written number</h3><p>Product named, spec sheet attached. If a cheaper turf would do the job, we say which one and what you give up.</p></div>
-        <div class="proc__step"><i>04</i><h3>We install, then we blow it off</h3><p>Base, turf, infill, edges. The green is cleaned before we photograph it and before we leave. That is the whole standard.</p></div>
+        <div class="proc__step"><i>03</i><h3>You get a detailed quote</h3><p>Material options, layout and next steps, in writing before any work begins. If a cheaper turf would do the job, we say which one and what you give up.</p></div>
+        <div class="proc__step"><i>04</i><h3>We install, and we clean up</h3><p>Base, turf, infill, edges. Site prep and cleanup are ours from start to finish, and you approve the design before we install.</p></div>
       </div>
     </div>
   </section>
@@ -199,7 +197,7 @@ const pair = (id: string) => ({ b: SHOTS.find((s) => s.pairId === id && s.kind =
               <div class="wipe__after"><Figure shot={p.a} /></div>
               <span class="wipe__line"></span>
             </div>
-            <p class="wipe__cap">{p.a.brief}</p>
+            {p.a.caption && <p class="wipe__cap">{p.a.caption}</p>}
           </div>
         ); })}
       </div>
@@ -222,10 +220,10 @@ const pair = (id: string) => ({ b: SHOTS.find((s) => s.pairId === id && s.kind =
           <p>Not in South Carolina — we searched the Grand Strand Water &amp; Sewer Authority programs and the Horry County, Myrtle Beach, North Myrtle Beach and Conway codes. Colorado and Florida differ by water district, and most Western rebates pay for living plantings rather than synthetic turf. We will tell you which applies to your address before you count on it.</p>
         </details>
         <details class="qa"><summary><h3>What does it cost?</h3></summary>
-          <p>It is quoted per job, because the base is most of the work. Square footage, access, what comes out, drainage and the product all move the number — and a small job costs more per square foot than a large one because a crew day costs the same either way.</p>
+          <p>It is quoted per job, because the base is most of the work. Square footage, access, what comes out, drainage and the product all move the number — and a small job costs more per square foot than a large one because a day on site costs the same either way.</p>
         </details>
         <details class="qa"><summary><h3>Will it smell if I have dogs?</h3></summary>
-          <p>Only if the base cannot drain. Urine passes through the turf; what holds odor is infill that stays wet over a base compacted without a drainage layer. Pet installs get a different infill and a base built to move liquid.</p>
+          <p>Only if the base cannot drain. Urine passes through the turf; what holds odor is infill that stays wet over a base compacted without a drainage layer. A pet area needs infill and a base that move liquid.</p>
         </details>
       </div>
     </div>
@@ -246,7 +244,7 @@ const pair = (id: string) => ({ b: SHOTS.find((s) => s.pairId === id && s.kind =
       <form class="quote" name="quote" method="POST" action="/thanks/" data-netlify="true" netlify-honeypot="company" data-cta="quote-form" aria-labelledby="quote-h" data-reveal>
         <input type="hidden" name="form-name" value="quote" />
         <p class="hp" aria-hidden="true"><label>Company <input type="text" name="company" tabindex="-1" autocomplete="off" /></label></p>
-        <p class="micro micro--accent" id="quote-h">Request a written number</p>
+        <p class="micro micro--accent" id="quote-h">Request a free estimate</p>
         <div class="quote__row">
           <label class="fld"><span>Name</span><input type="text" name="name" autocomplete="name" required /></label>
           <label class="fld"><span>Phone</span><input type="tel" name="phone" autocomplete="tel" inputmode="tel" required /></label>
@@ -258,7 +256,7 @@ const pair = (id: string) => ({ b: SHOTS.find((s) => s.pairId === id && s.kind =
           </label>
         </div>
         <button class="btn btn--primary" type="submit">Request a quote</button>
-        <p class="quote__note">No showroom visit, no financing pitch. We call you back.</p>
+        <p class="quote__note">Free estimate, no pressure. We call you back.</p>
       </form>
     </div>
   </section>
@@ -273,8 +271,8 @@ const pair = (id: string) => ({ b: SHOTS.find((s) => s.pairId === id && s.kind =
   <!-- 12 · CLOSE — no invented scarcity. The reference claims a booking window; we have none stated. -->
   <section class="sec sec--dark on-dark close close--big mown-stripe mown-stripe--dark mown-stripe--drift">
     <div class="wrap" data-reveal>
-      <h2>The green gets cleaned before we leave.</h2>
-      <p class="close__p">That is the standard, and it is the same one we hold competitors to. Call, we measure, you get a written number.</p>
+      <h2>Built for families, built to last.</h2>
+      <p class="close__p">Free estimates and honest answers, with no pressure. You call, we measure on site, you get a quote in writing.</p>
       {phoneHref && <a class="btn btn--primary btn--lg" href={phoneHref} data-cta="call-close">Call {phone}</a>}
     </div>
   </section>

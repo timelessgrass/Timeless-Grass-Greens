@@ -159,7 +159,7 @@ export const SERVICES: Service[] = [
   {
     slug: 'turf-removal-and-replacement',
     name: 'Removal and replacement',
-    title: 'Artificial Turf Removal & Replacement | TIMELESS',
+    title: 'Turf Removal & Replacement | TIMELESS Grass & Greens',
     description: `Failed turf pulled, base assessed, and an honest answer on whether the base can be reused. Three markets. Call ${P}.`,
     h1: 'Removal and replacement.',
     lede: 'Somebody else installed it, it failed, and the question is whether the base underneath is worth keeping.',
@@ -176,28 +176,6 @@ export const SERVICES: Service[] = [
       { h2: 'Where the old turf goes',
         body: [
           'Removal produces a genuinely awkward volume of material. We will tell you where it goes and what the haul-off costs, as a line on the quote rather than a surprise.',
-        ] },
-    ],
-  },
-  {
-    slug: 'hoa-landscape-submittal',
-    name: 'HOA submittal packages',
-    title: 'HOA Turf Approval Packages | TIMELESS Grass & Greens',
-    description: `The drawings, specs and drainage detail an architectural committee actually asks for. Denver, St. Johns County and Grand Strand POAs. Call ${P}.`,
-    h1: 'HOA submittal packages.',
-    lede: 'Most turf rejections are paperwork failures, not design failures.',
-    answer: {
-      question: 'Will my HOA approve artificial turf?',
-      answer: `That depends on your covenants, and on what you submit. Architectural committees reject vague applications far more often than they reject turf. TIMELESS Grass & Greens prepares the drawing, product spec and drainage detail a committee asks for. Denver, Grand Strand and St. Johns County. Call ${P}.`,
-    },
-    sections: [
-      { h2: 'Committees reject applications, not products',
-        body: [
-          'An architectural review committee is usually volunteers with a covenant document. Give them a scaled drawing, the product specification, the infill type and a drainage detail, and most of the objection disappears. Give them a paragraph and a photograph, and it does not.',
-        ] },
-      { h2: 'The rules differ more than people expect',
-        body: [
-          'Colorado restricts what an HOA may prohibit on water-wise landscaping, and separately restricts non-functional turf on HOA-common property — so a board and a homeowner on the same street are under different rules. Florida protects Florida-Friendly Landscaping under statute, and whether that reaches synthetic turf is the question worth answering before you apply. St. Johns County and the Nocatee CDD are stricter than most.',
         ] },
     ],
   },

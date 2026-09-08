@@ -28,7 +28,7 @@ const crumbs = [
   answer={ANSWER}
   crumbs={crumbs}
 >
-  <section class="hero hero--sub mown-stripe--dark">
+  <section class="hero hero--sub mown-stripe mown-stripe--dark">
     {hero && <img class="hero__img" src={hero} alt="" fetchpriority="high" decoding="async" />}
     <div class="wrap">
       <nav class="crumbs" aria-label="Breadcrumb">
@@ -69,11 +69,10 @@ const crumbs = [
   <section class="sec sec--band">
     <div class="wrap">
       <p class="micro" data-reveal>Where we work</p>
-      <h2>{m.anchors.length} anchors, and everything between them.</h2>
+      <h2>Towns we work in across {m.short}.</h2>
       <ul class="towns" data-reveal>
         {m.anchors.map((t) => <li>{t}</li>)}
       </ul>
-      <p class="proof__note">Town pages follow. Each one carries something true about that town, or it does not get built.</p>
     </div>
   </section>
 

@@ -1,317 +1,326 @@
 {
- "_shape": {
-  "value": null,
-  "status": "UNKNOWN",
-  "source": null,
-  "source_detail": null,
-  "date": null
- },
- "intake": {
-  "mode": "discovery_call",
-  "laundering_guard": true
- },
- "identity": {
-  "display_name": {
-   "value": "TIMELESS Grass & Greens",
-   "status": "VERIFIED",
-   "source": "google_business_profile",
-   "source_detail": "Three verified GBPs observed 2026-09-08, all reading 'TIMELESS Grass & Greens' (the SC profile carries a non-compliant ' SC' suffix to be removed)",
-   "date": "2026-09-08",
-   "note": "Byte-exact. TIMELESS in caps, ampersand not 'and'. NAP must match this string everywhere."
+  "_shape": {
+    "value": null,
+    "status": "UNKNOWN",
+    "source": null,
+    "source_detail": null,
+    "date": null
   },
-  "legal_name": {
-   "value": null,
-   "status": "UNKNOWN",
-   "source": null,
-   "source_detail": null,
-   "date": null,
-   "note": "Not stated on the call."
+  "intake": {
+    "mode": "discovery_call",
+    "laundering_guard": true
   },
-  "founded_year": {
-   "value": 2024,
-   "status": "CLIENT_STATED",
-   "source": "discovery_call",
-   "source_detail": "Brian, 00:32:32 (speaker derived \u2014 see transcripts/provenance.md)",
-   "date": "2026-09-04",
-   "transcript": "onboarding-2026-09-04-diarized.txt",
-   "note": "Asked directly by Ty at 00:32:30; answered '2024.'"
-  },
-  "owners": [
-   {
-    "value": "Brian",
-    "status": "CLIENT_STATED",
-    "source": "discovery_call",
-    "source_detail": "Brian, 00:32:38 (speaker derived \u2014 see transcripts/provenance.md)",
-    "date": "2026-09-04",
-    "transcript": "onboarding-2026-09-04-diarized.txt",
-    "note": "Owner. Surname not stated on the call. A spouse is referenced but never named \u2014 do not source a second owner from the old site."
-   }
-  ],
-  "locations": [
-   {
-    "phone": {
-     "value": "303-349-2368",
-     "status": "CLIENT_STATED",
-     "source": "discovery_call",
-     "source_detail": "Brian, 00:05:36 (speaker derived \u2014 see transcripts/provenance.md)",
-     "date": "2026-09-04",
-     "transcript": "onboarding-2026-09-04-diarized.txt",
-     "note": "Brian: 'It's my phone number'. Real number in HTML and JSON-LD \u2014 never a tracking number."
+  "identity": {
+    "display_name": {
+      "value": "TIMELESS Grass & Greens",
+      "status": "VERIFIED",
+      "source": "google_business_profile",
+      "source_detail": "Three verified GBPs observed 2026-09-08, all reading 'TIMELESS Grass & Greens' (the SC profile carries a non-compliant ' SC' suffix to be removed)",
+      "date": "2026-09-08",
+      "note": "Byte-exact. TIMELESS in caps, ampersand not 'and'. NAP must match this string everywhere."
     },
-    "email": {
-     "value": "timelessgrass@gmail.com",
-     "status": "CLIENT_STATED",
-     "source": "discovery_call",
-     "source_detail": "Brian, 00:04:12 (speaker derived \u2014 see transcripts/provenance.md)",
-     "date": "2026-09-04",
-     "transcript": "onboarding-2026-09-04-diarized.txt"
+    "legal_name": {
+      "value": null,
+      "status": "UNKNOWN",
+      "source": null,
+      "source_detail": null,
+      "date": null,
+      "note": "Not stated on the call."
     },
-    "address": {
-     "value": null,
-     "status": "UNKNOWN",
-     "source": null,
-     "source_detail": null,
-     "date": null,
-     "note": "No operating address stated. The Windsor CO 80550 address in directories is NoCo Turf's storefront, ~60mi outside the Denver service area \u2014 do not use."
+    "founded_year": {
+      "value": 2024,
+      "status": "CLIENT_STATED",
+      "source": "discovery_call",
+      "source_detail": "Brian, 00:32:32 (speaker derived — see transcripts/provenance.md)",
+      "date": "2026-09-04",
+      "transcript": "onboarding-2026-09-04-diarized.txt",
+      "note": "Asked directly by Ty at 00:32:30; answered '2024.'"
     },
-    "hours": {
-     "value": null,
-     "status": "UNKNOWN",
-     "source": null,
-     "source_detail": null,
-     "date": null,
-     "note": "Not stated on the call."
+    "owners": [
+      {
+        "value": "Brian",
+        "status": "CLIENT_STATED",
+        "source": "discovery_call",
+        "source_detail": "Brian, 00:32:38 (speaker derived — see transcripts/provenance.md)",
+        "date": "2026-09-04",
+        "transcript": "onboarding-2026-09-04-diarized.txt",
+        "note": "Owner. Surname not stated on the call. A spouse is referenced but never named — do not source a second owner from the old site."
+      }
+    ],
+    "locations": [
+      {
+        "phone": {
+          "value": "303-349-2368",
+          "status": "CLIENT_STATED",
+          "source": "discovery_call",
+          "source_detail": "Brian, 00:05:36 (speaker derived — see transcripts/provenance.md)",
+          "date": "2026-09-04",
+          "transcript": "onboarding-2026-09-04-diarized.txt",
+          "note": "Brian: 'It's my phone number'. Real number in HTML and JSON-LD — never a tracking number."
+        },
+        "email": {
+          "value": "timelessgrass@gmail.com",
+          "status": "CLIENT_STATED",
+          "source": "discovery_call",
+          "source_detail": "Brian, 00:04:12 (speaker derived — see transcripts/provenance.md)",
+          "date": "2026-09-04",
+          "transcript": "onboarding-2026-09-04-diarized.txt"
+        },
+        "address": {
+          "value": null,
+          "status": "UNKNOWN",
+          "source": null,
+          "source_detail": null,
+          "date": null,
+          "note": "No operating address stated. The Windsor CO 80550 address in directories is NoCo Turf's storefront, ~60mi outside the Denver service area — do not use."
+        },
+        "hours": {
+          "value": null,
+          "status": "UNKNOWN",
+          "source": null,
+          "source_detail": null,
+          "date": null,
+          "note": "Not stated on the call."
+        }
+      }
+    ],
+    "credentials": [
+      {
+        "kind": "license",
+        "number": null,
+        "issuer": null,
+        "lookup_url": null,
+        "document_on_file": false,
+        "status": "CLIENT_STATED",
+        "source": "discovery_call",
+        "source_detail": "Brian, 00:32:45 (speaker derived) — 'we were licensed insured everywhere and in all locations'",
+        "date": "2026-09-04",
+        "note": "CLAIMED WITHOUT A NUMBER. Brian: 'Don't ask me what those are because I don't take care of any of that.' check-build.py CRED-1 flags a licensed+insured bundle with no receipt. Ships as a hole until numbers arrive."
+      }
+    ],
+    "founder_experience_years": {
+      "value": 13,
+      "status": "CLIENT_STATED",
+      "source": "discovery_call",
+      "source_detail": "Brian, 00:32:38 — \"I've been doing turf for 13 years\" (transcript line 616)",
+      "date": "2026-09-04",
+      "transcript": "onboarding-2026-09-04-diarized.txt",
+      "note": "The founder's own years, never the company's. Timeless was founded in 2024."
     }
-   }
+  },
+  "services": [
+    {
+      "value": "Putting greens",
+      "status": "CLIENT_STATED",
+      "source": "discovery_call",
+      "source_detail": "Brian, 00:45:51 (speaker derived — see transcripts/provenance.md)",
+      "date": "2026-09-04",
+      "transcript": "onboarding-2026-09-04-diarized.txt",
+      "note": "From: 'putting greens, residential landscape turf, commercial, pet turf, indoor sporting facilities... sports fields'"
+    },
+    {
+      "value": "Residential landscape turf",
+      "status": "CLIENT_STATED",
+      "source": "discovery_call",
+      "source_detail": "Brian, 00:45:51 (speaker derived — see transcripts/provenance.md)",
+      "date": "2026-09-04",
+      "transcript": "onboarding-2026-09-04-diarized.txt",
+      "note": "From: 'putting greens, residential landscape turf, commercial, pet turf, indoor sporting facilities... sports fields'"
+    },
+    {
+      "value": "Commercial turf",
+      "status": "CLIENT_STATED",
+      "source": "discovery_call",
+      "source_detail": "Brian, 00:45:51 (speaker derived — see transcripts/provenance.md)",
+      "date": "2026-09-04",
+      "transcript": "onboarding-2026-09-04-diarized.txt",
+      "note": "From: 'putting greens, residential landscape turf, commercial, pet turf, indoor sporting facilities... sports fields'"
+    },
+    {
+      "value": "Pet turf",
+      "status": "CLIENT_STATED",
+      "source": "discovery_call",
+      "source_detail": "Brian, 00:45:51 (speaker derived — see transcripts/provenance.md)",
+      "date": "2026-09-04",
+      "transcript": "onboarding-2026-09-04-diarized.txt",
+      "note": "From: 'putting greens, residential landscape turf, commercial, pet turf, indoor sporting facilities... sports fields'"
+    },
+    {
+      "value": "Indoor sports facility turf",
+      "status": "CLIENT_STATED",
+      "source": "discovery_call",
+      "source_detail": "Brian, 00:45:51 (speaker derived — see transcripts/provenance.md)",
+      "date": "2026-09-04",
+      "transcript": "onboarding-2026-09-04-diarized.txt",
+      "note": "From: 'putting greens, residential landscape turf, commercial, pet turf, indoor sporting facilities... sports fields'"
+    },
+    {
+      "value": "Sports field turf",
+      "status": "CLIENT_STATED",
+      "source": "discovery_call",
+      "source_detail": "Brian, 00:45:51 (speaker derived — see transcripts/provenance.md)",
+      "date": "2026-09-04",
+      "transcript": "onboarding-2026-09-04-diarized.txt",
+      "note": "From: 'putting greens, residential landscape turf, commercial, pet turf, indoor sporting facilities... sports fields'"
+    }
   ],
-  "credentials": [
-   {
-    "kind": "license",
-    "number": null,
-    "issuer": null,
-    "lookup_url": null,
-    "document_on_file": false,
-    "status": "CLIENT_STATED",
-    "source": "discovery_call",
-    "source_detail": "Brian, 00:32:45 (speaker derived) \u2014 'we were licensed insured everywhere and in all locations'",
-    "date": "2026-09-04",
-    "note": "CLAIMED WITHOUT A NUMBER. Brian: 'Don't ask me what those are because I don't take care of any of that.' check-build.py CRED-1 flags a licensed+insured bundle with no receipt. Ships as a hole until numbers arrive."
-   }
-  ]
- },
- "services": [
-  {
-   "value": "Putting greens",
-   "status": "CLIENT_STATED",
-   "source": "discovery_call",
-   "source_detail": "Brian, 00:45:51 (speaker derived \u2014 see transcripts/provenance.md)",
-   "date": "2026-09-04",
-   "transcript": "onboarding-2026-09-04-diarized.txt",
-   "note": "From: 'putting greens, residential landscape turf, commercial, pet turf, indoor sporting facilities... sports fields'"
+  "do_not_offer": [
+    {
+      "value": "Nothing",
+      "status": "CLIENT_STATED",
+      "source": "discovery_call",
+      "source_detail": "Brian, 00:33:54 (speaker derived — see transcripts/provenance.md)",
+      "date": "2026-09-04",
+      "transcript": "onboarding-2026-09-04-diarized.txt",
+      "note": "Ty asked 'what do people ask for that you don't do?' — Brian: 'Nothing.'"
+    }
+  ],
+  "service_areas": [
+    {
+      "value": "Grand Strand — Horry & Georgetown Counties SC, Brunswick & Columbus Counties NC",
+      "status": "CLIENT_STATED",
+      "source": "discovery_call",
+      "source_detail": "Brian, 00:56:00 (speaker derived — see transcripts/provenance.md)",
+      "date": "2026-09-04",
+      "transcript": "onboarding-2026-09-04-diarized.txt",
+      "note": "Drawn on a map by the client: Shallotte NC → Loris → Conway → Burgess SC, bounded by the coast. 50 places enumerated."
+    },
+    {
+      "value": "Denver Metro — CO",
+      "status": "CLIENT_STATED",
+      "source": "discovery_call",
+      "source_detail": "Brian, 00:57:00 (speaker derived — see transcripts/provenance.md)",
+      "date": "2026-09-04",
+      "transcript": "onboarding-2026-09-04-diarized.txt",
+      "note": "Drawn on a map: Erie/Lafayette/Louisville/Superior/Brighton south to Castle Pines & Castle Rock, west to Golden/Ken Caryl/Boulder. 82 places enumerated."
+    },
+    {
+      "value": "Northeast Florida — Nassau, Duval, Clay, St. Johns Counties",
+      "status": "CLIENT_STATED",
+      "source": "discovery_call",
+      "source_detail": "Brian, 00:58:00 (speaker derived — see transcripts/provenance.md)",
+      "date": "2026-09-04",
+      "transcript": "onboarding-2026-09-04-diarized.txt",
+      "note": "Drawn on a map: Fernandina Beach to St. Augustine Beach, west to Baldwin/Middleburg. 72 places enumerated."
+    }
+  ],
+  "conversion": {
+    "urgency": {
+      "value": "scheduled",
+      "status": "INFERENCE",
+      "source": "derived",
+      "source_detail": "classified from the discovery call, not stated by the client",
+      "date": "2026-09-04",
+      "render": false,
+      "note": "Installs are quoted, not dispatched. Residential reads WALKTHROUGH; commercial reads BID/contract. Must be resolved and client-confirmed at the strategy gate."
+    },
+    "buyer_type": {
+      "value": "both",
+      "status": "INFERENCE",
+      "source": "derived",
+      "source_detail": "classified from the discovery call, not stated by the client",
+      "date": "2026-09-04",
+      "render": false,
+      "note": "Brian sells residential today and is actively steering to commercial (sports fields, daycares, pet daycares). The fold must serve BID without losing the residential walkthrough buyer."
+    },
+    "primary_cta": {
+      "value": null,
+      "status": "UNKNOWN",
+      "source": null,
+      "source_detail": null,
+      "date": null,
+      "note": "Decided in strategy/offer.md, never inherited"
+    },
+    "form_fields": [],
+    "lead_destination": {
+      "value": null,
+      "status": "UNKNOWN",
+      "source": null,
+      "source_detail": null,
+      "date": null,
+      "note": "Where leads land and who watches that inbox",
+      "test_lead_confirmed": false,
+      "test_lead": {
+        "form_submits": false,
+        "confirmation_renders": false,
+        "inbox": false,
+        "crm": false,
+        "notification": false,
+        "routing": false,
+        "autoresponder": false,
+        "client_confirmed": false
+      }
+    }
   },
-  {
-   "value": "Residential landscape turf",
-   "status": "CLIENT_STATED",
-   "source": "discovery_call",
-   "source_detail": "Brian, 00:45:51 (speaker derived \u2014 see transcripts/provenance.md)",
-   "date": "2026-09-04",
-   "transcript": "onboarding-2026-09-04-diarized.txt",
-   "note": "From: 'putting greens, residential landscape turf, commercial, pet turf, indoor sporting facilities... sports fields'"
+  "positioning": {
+    "current_price": {
+      "value": "$7–8 per square foot",
+      "status": "CLIENT_STATED",
+      "source": "discovery_call",
+      "source_detail": "Brian, 00:33:22 (speaker derived — see transcripts/provenance.md)",
+      "date": "2026-09-04",
+      "transcript": "onboarding-2026-09-04-diarized.txt",
+      "note": "'the quality leads we're getting right now is seven, eight bucks a square foot'"
+    },
+    "target_price": {
+      "value": "$10–12 per square foot",
+      "status": "CLIENT_STATED",
+      "source": "discovery_call",
+      "source_detail": "Brian, 00:33:22 (speaker derived — see transcripts/provenance.md)",
+      "date": "2026-09-04",
+      "transcript": "onboarding-2026-09-04-diarized.txt",
+      "note": "'I want to get to that 10 to $12 a square foot'"
+    },
+    "target_buyer": {
+      "value": "Upper-echelon residential; commercial sports fields, daycares and pet daycares",
+      "status": "CLIENT_STATED",
+      "source": "discovery_call",
+      "source_detail": "Brian, 00:33:30 (speaker derived — see transcripts/provenance.md)",
+      "date": "2026-09-04",
+      "transcript": "onboarding-2026-09-04-diarized.txt",
+      "note": "'I need to get to that upper echelon... in Colorado, the Cherry Creek types'"
+    },
+    "materials": {
+      "value": "American-made turf, premium product",
+      "status": "CLIENT_STATED",
+      "source": "discovery_call",
+      "source_detail": "Brian, 00:33:15 (speaker derived — see transcripts/provenance.md)",
+      "date": "2026-09-04",
+      "transcript": "onboarding-2026-09-04-diarized.txt",
+      "note": "'we use all American made stuff... we use premium stuff'"
+    },
+    "quality_standard": {
+      "value": "A green that is blown clean",
+      "status": "CLIENT_STATED",
+      "source": "discovery_call",
+      "source_detail": "Brian, 00:43:47 (speaker derived — see transcripts/provenance.md)",
+      "date": "2026-09-04",
+      "transcript": "onboarding-2026-09-04-diarized.txt",
+      "note": "SCOPE: this is Brian's test of a COMPETITOR's work, not a description of his own process. Verbatim (00:43:39-00:43:47): 'your homepage has a picture on it, it has a bunch of leaves and shit on the putting green. Like that's trash. Like you can't even blow off your green.' It may be rendered as his test of other companies. It may NOT be rendered as a promise that Timeless cleans every green before photographing it or before leaving — he never said that, and that phrasing was removed from the site on 2026-09-08."
+    }
   },
-  {
-   "value": "Commercial turf",
-   "status": "CLIENT_STATED",
-   "source": "discovery_call",
-   "source_detail": "Brian, 00:45:51 (speaker derived \u2014 see transcripts/provenance.md)",
-   "date": "2026-09-04",
-   "transcript": "onboarding-2026-09-04-diarized.txt",
-   "note": "From: 'putting greens, residential landscape turf, commercial, pet turf, indoor sporting facilities... sports fields'"
+  "faq_harvest": [],
+  "photos": [],
+  "compliance": {},
+  "scope_matrix": {},
+  "brand": {
+    "assets": {
+      "logo": "archive/brand/logo-2048.jpg",
+      "tokens": "archive/brand/tokens.md"
+    }
   },
-  {
-   "value": "Pet turf",
-   "status": "CLIENT_STATED",
-   "source": "discovery_call",
-   "source_detail": "Brian, 00:45:51 (speaker derived \u2014 see transcripts/provenance.md)",
-   "date": "2026-09-04",
-   "transcript": "onboarding-2026-09-04-diarized.txt",
-   "note": "From: 'putting greens, residential landscape turf, commercial, pet turf, indoor sporting facilities... sports fields'"
-  },
-  {
-   "value": "Indoor sports facility turf",
-   "status": "CLIENT_STATED",
-   "source": "discovery_call",
-   "source_detail": "Brian, 00:45:51 (speaker derived \u2014 see transcripts/provenance.md)",
-   "date": "2026-09-04",
-   "transcript": "onboarding-2026-09-04-diarized.txt",
-   "note": "From: 'putting greens, residential landscape turf, commercial, pet turf, indoor sporting facilities... sports fields'"
-  },
-  {
-   "value": "Sports field turf",
-   "status": "CLIENT_STATED",
-   "source": "discovery_call",
-   "source_detail": "Brian, 00:45:51 (speaker derived \u2014 see transcripts/provenance.md)",
-   "date": "2026-09-04",
-   "transcript": "onboarding-2026-09-04-diarized.txt",
-   "note": "From: 'putting greens, residential landscape turf, commercial, pet turf, indoor sporting facilities... sports fields'"
+  "launch": {
+    "state": "DRAFT",
+    "approved_by": null,
+    "approved_at": null,
+    "gates": [],
+    "offsite": {
+      "gbp_claimed": true,
+      "gbp_verified": true,
+      "manager_access": false,
+      "nap_byte_match": false,
+      "review_link_handed_over": false,
+      "note": "3 verified profiles: Denver 05426208594558680150 (Arvada/Aurora +10) · NE Florida 1255349 (Nocatee/Jacksonville +9) · Grand Strand 13971044913229673568 (Aynor/Conway +9). SC profile name must drop the ' SC' suffix before nap_byte_match can be true."
+    }
   }
- ],
- "do_not_offer": [
-  {
-   "value": "Nothing",
-   "status": "CLIENT_STATED",
-   "source": "discovery_call",
-   "source_detail": "Brian, 00:33:54 (speaker derived \u2014 see transcripts/provenance.md)",
-   "date": "2026-09-04",
-   "transcript": "onboarding-2026-09-04-diarized.txt",
-   "note": "Ty asked 'what do people ask for that you don't do?' \u2014 Brian: 'Nothing.'"
-  }
- ],
- "service_areas": [
-  {
-   "value": "Grand Strand \u2014 Horry & Georgetown Counties SC, Brunswick & Columbus Counties NC",
-   "status": "CLIENT_STATED",
-   "source": "discovery_call",
-   "source_detail": "Brian, 00:56:00 (speaker derived \u2014 see transcripts/provenance.md)",
-   "date": "2026-09-04",
-   "transcript": "onboarding-2026-09-04-diarized.txt",
-   "note": "Drawn on a map by the client: Shallotte NC \u2192 Loris \u2192 Conway \u2192 Burgess SC, bounded by the coast. 50 places enumerated."
-  },
-  {
-   "value": "Denver Metro \u2014 CO",
-   "status": "CLIENT_STATED",
-   "source": "discovery_call",
-   "source_detail": "Brian, 00:57:00 (speaker derived \u2014 see transcripts/provenance.md)",
-   "date": "2026-09-04",
-   "transcript": "onboarding-2026-09-04-diarized.txt",
-   "note": "Drawn on a map: Erie/Lafayette/Louisville/Superior/Brighton south to Castle Pines & Castle Rock, west to Golden/Ken Caryl/Boulder. 82 places enumerated."
-  },
-  {
-   "value": "Northeast Florida \u2014 Nassau, Duval, Clay, St. Johns Counties",
-   "status": "CLIENT_STATED",
-   "source": "discovery_call",
-   "source_detail": "Brian, 00:58:00 (speaker derived \u2014 see transcripts/provenance.md)",
-   "date": "2026-09-04",
-   "transcript": "onboarding-2026-09-04-diarized.txt",
-   "note": "Drawn on a map: Fernandina Beach to St. Augustine Beach, west to Baldwin/Middleburg. 72 places enumerated."
-  }
- ],
- "conversion": {
-  "urgency": {
-   "value": "scheduled",
-   "status": "INFERENCE",
-   "source": "derived",
-   "source_detail": "classified from the discovery call, not stated by the client",
-   "date": "2026-09-04",
-   "render": false,
-   "note": "Installs are quoted, not dispatched. Residential reads WALKTHROUGH; commercial reads BID/contract. Must be resolved and client-confirmed at the strategy gate."
-  },
-  "buyer_type": {
-   "value": "both",
-   "status": "INFERENCE",
-   "source": "derived",
-   "source_detail": "classified from the discovery call, not stated by the client",
-   "date": "2026-09-04",
-   "render": false,
-   "note": "Brian sells residential today and is actively steering to commercial (sports fields, daycares, pet daycares). The fold must serve BID without losing the residential walkthrough buyer."
-  },
-  "primary_cta": {
-   "value": null,
-   "status": "UNKNOWN",
-   "source": null,
-   "source_detail": null,
-   "date": null,
-   "note": "Decided in strategy/offer.md, never inherited"
-  },
-  "form_fields": [],
-  "lead_destination": {
-   "value": null,
-   "status": "UNKNOWN",
-   "source": null,
-   "source_detail": null,
-   "date": null,
-   "note": "Where leads land and who watches that inbox",
-   "test_lead_confirmed": false,
-   "test_lead": {
-    "form_submits": false,
-    "confirmation_renders": false,
-    "inbox": false,
-    "crm": false,
-    "notification": false,
-    "routing": false,
-    "autoresponder": false,
-    "client_confirmed": false
-   }
-  }
- },
- "positioning": {
-  "current_price": {
-   "value": "$7\u20138 per square foot",
-   "status": "CLIENT_STATED",
-   "source": "discovery_call",
-   "source_detail": "Brian, 00:33:22 (speaker derived \u2014 see transcripts/provenance.md)",
-   "date": "2026-09-04",
-   "transcript": "onboarding-2026-09-04-diarized.txt",
-   "note": "'the quality leads we're getting right now is seven, eight bucks a square foot'"
-  },
-  "target_price": {
-   "value": "$10\u201312 per square foot",
-   "status": "CLIENT_STATED",
-   "source": "discovery_call",
-   "source_detail": "Brian, 00:33:22 (speaker derived \u2014 see transcripts/provenance.md)",
-   "date": "2026-09-04",
-   "transcript": "onboarding-2026-09-04-diarized.txt",
-   "note": "'I want to get to that 10 to $12 a square foot'"
-  },
-  "target_buyer": {
-   "value": "Upper-echelon residential; commercial sports fields, daycares and pet daycares",
-   "status": "CLIENT_STATED",
-   "source": "discovery_call",
-   "source_detail": "Brian, 00:33:30 (speaker derived \u2014 see transcripts/provenance.md)",
-   "date": "2026-09-04",
-   "transcript": "onboarding-2026-09-04-diarized.txt",
-   "note": "'I need to get to that upper echelon... in Colorado, the Cherry Creek types'"
-  },
-  "materials": {
-   "value": "American-made turf, premium product",
-   "status": "CLIENT_STATED",
-   "source": "discovery_call",
-   "source_detail": "Brian, 00:33:15 (speaker derived \u2014 see transcripts/provenance.md)",
-   "date": "2026-09-04",
-   "transcript": "onboarding-2026-09-04-diarized.txt",
-   "note": "'we use all American made stuff... we use premium stuff'"
-  },
-  "quality_standard": {
-   "value": "A green that is blown clean",
-   "status": "CLIENT_STATED",
-   "source": "discovery_call",
-   "source_detail": "Brian, 00:43:47 (speaker derived \u2014 see transcripts/provenance.md)",
-   "date": "2026-09-04",
-   "transcript": "onboarding-2026-09-04-diarized.txt",
-   "note": "Brian's own test of a competitor's work: 'it has a bunch of leaves and shit on the putting green. Like that's trash.'"
-  }
- },
- "faq_harvest": [],
- "photos": [],
- "compliance": {},
- "scope_matrix": {},
- "brand": {
-  "assets": {
-   "logo": "archive/brand/logo-2048.jpg",
-   "tokens": "archive/brand/tokens.md"
-  }
- },
- "launch": {
-  "state": "DRAFT",
-  "approved_by": null,
-  "approved_at": null,
-  "gates": [],
-  "offsite": {
-   "gbp_claimed": true,
-   "gbp_verified": true,
-   "manager_access": false,
-   "nap_byte_match": false,
-   "review_link_handed_over": false,
-   "note": "3 verified profiles: Denver 05426208594558680150 (Arvada/Aurora +10) \u00b7 NE Florida 1255349 (Nocatee/Jacksonville +9) \u00b7 Grand Strand 13971044913229673568 (Aynor/Conway +9). SC profile name must drop the ' SC' suffix before nap_byte_match can be true."
-  }
- }
 }
