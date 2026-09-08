@@ -43,7 +43,7 @@ def clean(s):
     s = re.sub(r'\s+data-astro-source-(?:file|loc)="[^"]*"', '', s)
     s = re.sub(r'\s+data-reveal(?:="[^"]*")?', '', s)
     s = re.sub(r'<p[^>]*>Build note:[^<]*</p>', '', s)
-    s = re.sub(r'<div class="fig__stock">.*?</div>', '', s, flags=re.S)
+    s = re.sub(r'<(div|figcaption|p|span) class="fig__stock"[^>]*>.*?</\1>', '', s, flags=re.S)
     s = re.sub(r'\ssrc="https://images\.pexels\.com[^"]*"', ' src="' + PH + '"', s)
     s = re.sub(r'\sloading="lazy"', '', s)
     return s
@@ -62,6 +62,12 @@ def has_class(attrs, tok):
 
 def outer(raw, e): return clean(raw[e[0]:e[1]])
 
+def child_of(raw, idx, parent_tok, tag):
+    par = first(idx, lambda e: has_class(e[3], parent_tok))
+    if not par: return ''
+    kid = first(idx, lambda e: e[2]==tag and e[0] > par[0] and e[1] < par[1])
+    return outer(raw, kid) if kid else ''
+
 def by_class(raw, idx, tok, tag=None):
     e = first(idx, lambda e: has_class(e[3], tok) and (tag is None or e[2]==tag))
     return outer(raw, e) if e else ''
@@ -77,8 +83,9 @@ def sections(raw, idx):
 def label(cls, name, rule=''):
     return f'<div class="bd-label"><code>{cls}</code><b>{name}</b><span>{rule}</span></div>'
 
-def frame(inner, cls, name, rule='', full=False):
-    return f'<figure class="bd-frame{" bd-frame--full" if full else ""}">{label(cls, name, rule)}<div class="bd-stage">{inner}</div></figure>'
+def frame(inner, cls, name, rule='', full=False, wide=False):
+    k = ' bd-frame--full' if full else (' bd-frame--wide' if wide else '')
+    return f'<figure class="bd-frame{k}">{label(cls, name, rule)}<div class="bd-stage">{inner}</div></figure>'
 
 # ---------- pull pages
 home, hub, svc, guide, sidx = (fetch(p) for p in ['/', '/denver-metro/', '/services/putting-greens/', '/guides/colorado-turf-law/', '/services/'])
@@ -138,11 +145,12 @@ spacing = '''
 </ul>'''
 
 # ---------- components (small)
-def comp(raw, idx, tok, name, rule='', tag=None, dark=False, wrap=None):
+def comp(raw, idx, tok, name, rule='', tag=None, dark=False, wrap=None, wide=False, full=False):
     m = by_class(raw, idx, tok, tag)
     if not m: return ''
     if wrap: m = wrap % m
-    return frame(m, '.'+tok, name, rule) if not dark else frame(f'<div class="bd-dark on-dark">{m}</div>', '.'+tok, name, rule)
+    inner = m if not dark else f'<div class="bd-dark on-dark">{m}</div>'
+    return frame(inner, '.'+tok, name, rule, full=full, wide=wide)
 
 small = ''.join([
     frame('<a class="btn btn--primary" href="#">Call 303-349-2368</a> <a class="btn btn--primary bd-hover" href="#">Call 303-349-2368</a>', '.btn--primary', 'Primary button', 'rest · hover'),
@@ -157,22 +165,22 @@ small = ''.join([
     comp(home, H, 'card', 'Card', 'chalk', wrap='<div class="cards bd-one">%s</div>'),
     frame('<div class="bd-dark on-dark"><div class="cards bd-one">' + by_class(home, H, 'card') + '</div></div>', '.on-dark .card', 'Card on dark', ''),
     comp(hub, U, 'svc', 'Service card', 'links', wrap='<div class="svcs bd-one">%s</div>'),
-    comp(sidx, I, 'idx', 'Index card', '', wrap='<div class="bd-one">%s</div>'),
+    frame('<ul class="idx bd-one">' + child_of(sidx, I, 'idx', 'li') + '</ul>', '.idx > li', 'Index card', ''),
     comp(home, H, 'fig', 'Figure', 'photo slot · 18px', wrap='<div class="bd-fig">%s</div>'),
     frame('<figure class="fig fig--pending" style="--ratio:3/2"><div class="fig__slot"><p class="fig__kind">Finished</p><p class="fig__brief">Finished putting green, wide. Blown clean before the shutter.</p><p class="fig__id">fin-1</p></div></figure>', '.fig--pending', 'Figure, awaiting photo', 'dev only'),
     comp(home, H, 'qa', 'FAQ item', 'native details', wrap='<div class="faq bd-one">%s</div>'),
     comp(home, H, 'fld', 'Form field', '48px · 16px text', wrap='<form class="quote__form bd-one">%s</form>'),
     comp(home, H, 'quote__note', 'Form note', ''),
-    comp(home, H, 'answer-box', 'Answer box', 'AEO · speakable'),
-    comp(hub, U, 'towns', 'Towns list', ''),
+    comp(home, H, 'answer-box', 'Answer box', 'AEO · speakable', wide=True),
+    comp(hub, U, 'towns', 'Towns list', '', wide=True),
     comp(hub, U, 'proof__note', 'Proof note', ''),
-    comp(guide, G, 'srcs', 'Sources list', '44px links'),
-    comp(guide, G, 'disclaim', 'Legal disclaimer', ''),
-    comp(guide, G, 'law', 'Law band content', '', dark=True),
-    comp(home, H, 'wipe', 'Before / after', 'mid-wipe shown'),
+    comp(guide, G, 'srcs', 'Sources list', '44px links', wide=True),
+    comp(guide, G, 'disclaim', 'Legal disclaimer', '', wide=True),
+    comp(hub, U, 'law', 'Law band content', '', dark=True, wide=True),
+    comp(home, H, 'wipe', 'Before / after', 'mid-wipe shown', wide=True),
     comp(home, H, 'proc__step', 'Process step', '', dark=True),
-    comp(home, H, 'hero__steps', 'Hero steps', '', dark=True),
-    comp(home, H, 'mkts', 'Market cards', '', wrap='<div class="bd-one">%s</div>'),
+    comp(home, H, 'hero__steps', 'Hero steps', '', dark=True, wide=True),
+    comp(home, H, 'mkts', 'Market cards', '', wrap='<div class="bd-one">%s</div>', wide=True),
 ])
 
 # ---------- chrome + sections (full width)
@@ -217,7 +225,8 @@ body {{ background: var(--ground); }}
 .bd-h h2 {{ font-size: 1.4rem; margin: 0; }} .bd-h span {{ font-size: .8rem; color: var(--ink-faint); }}
 .bd-grid {{ display: grid; gap: 1.2rem; padding: 1rem var(--bleed) 2rem; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); align-items: start; }}
 .bd-frame {{ margin: 0; border: 1px solid var(--rule); border-radius: 0; background: var(--ground-band); overflow: hidden; }}
-.bd-frame--full {{ grid-column: 1 / -1; }}
+.bd-frame--full {{ grid-column: 1 / -1; }} @media (min-width: 700px) {{ .bd-frame--wide {{ grid-column: span 2; }} }}
+.bd-dark .crumbs, .bd-dark .crumbs a {{ color: var(--ink-on-dark-faint); }}
 .bd-label {{ display: flex; gap: .8rem; align-items: baseline; padding: .5rem .8rem; background: var(--ground-band); border-bottom: 1px solid var(--rule); font-size: .76rem; color: var(--ink-faint); }}
 .bd-label code {{ color: var(--accent); font-size: .74rem; }} .bd-label b {{ color: var(--ink); font-weight: 600; }}
 .bd-stage {{ padding: 1.2rem; background: var(--ground); }}
