@@ -23,6 +23,9 @@ export type Market = {
   law: { headline: string; detail: string; source: string };
   /** Named anchors a local would recognize. */
   anchors: string[];
+  /** The rules that govern THIS market, linked from its body so the guides tier is
+   *  reachable without the footer. Anchor text is the destination's own noun phrase. */
+  guides: { slug: string; anchor: string }[];
   /** Does a verified GBP back this market? Drives whether a LocalBusiness node emits. */
   gbp: { verified: boolean; id: string | null };
 };
@@ -44,6 +47,12 @@ export const MARKETS: Market[] = [
       source: 'N.C.G.S. 143-214.7D, from S.L. 2024-45 s.4.48',
     },
     anchors: ['Myrtle Beach', 'North Myrtle Beach', 'Conway', 'Little River', 'Sunset Beach NC', 'Shallotte NC'],
+    guides: [
+      { slug: 'nc-vs-sc-built-upon-area', anchor: 'Built-upon area: North Carolina against South Carolina' },
+      { slug: 'no-turf-rebates-grand-strand', anchor: 'Why there are no turf rebates in Horry County' },
+      { slug: 'is-artificial-turf-impervious', anchor: 'Is artificial turf impervious?' },
+      { slug: 'turf-installer-licensing-by-state', anchor: 'What license a turf installer needs' },
+    ],
     gbp: { verified: true, id: '13971044913229673568' },
   },
   {
@@ -62,6 +71,12 @@ export const MARKETS: Market[] = [
       source: 'Colorado SB24-005, as amended by HB25-1113',
     },
     anchors: ['Denver', 'Aurora', 'Lakewood', 'Highlands Ranch', 'Castle Rock', 'Boulder', 'Superior'],
+    guides: [
+      { slug: 'colorado-turf-law', anchor: "Colorado's turf law: SB24-005 as amended by HB25-1113" },
+      { slug: 'colorado-water-rebates-and-turf', anchor: 'Denver-metro water rebates and artificial turf' },
+      { slug: 'colorado-hoa-turf-rules', anchor: 'What a Colorado HOA board can and cannot stop' },
+      { slug: 'turf-installer-licensing-by-state', anchor: 'What license a turf installer needs' },
+    ],
     gbp: { verified: true, id: '05426208594558680150' },
   },
   {
@@ -80,6 +95,12 @@ export const MARKETS: Market[] = [
       source: 'Florida DEP residential infill rule',
     },
     anchors: ['Jacksonville', 'Ponte Vedra Beach', 'Nocatee', 'St. Augustine', 'Fernandina Beach', 'Amelia Island'],
+    guides: [
+      { slug: 'florida-turf-infill-rules', anchor: 'Turf infill rules in northeast Florida' },
+      { slug: 'florida-friendly-landscaping-and-hoas', anchor: 'Florida-Friendly Landscaping and your HOA' },
+      { slug: 'is-artificial-turf-impervious', anchor: 'Is artificial turf impervious?' },
+      { slug: 'turf-installer-licensing-by-state', anchor: 'What license a turf installer needs' },
+    ],
     gbp: { verified: true, id: '1255349' },
   },
 ];

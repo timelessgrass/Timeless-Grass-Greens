@@ -51,6 +51,9 @@ const crumbs = [
       <h2>{m.law.headline}</h2>
       <p class="band__p">{m.law.detail}</p>
       <p class="src">{m.law.source}</p>
+      <ul class="lawlinks">
+        {m.guides.map((g) => <li><a href={`/guides/${g.slug}/`} data-cta={`guide-${g.slug}`}>{g.anchor}</a></li>)}
+      </ul>
     </div>
   </section>
 
