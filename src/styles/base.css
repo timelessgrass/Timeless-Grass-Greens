@@ -121,7 +121,7 @@ p  { margin: 0 0 1.05em; max-width: var(--measure); text-wrap: pretty; }
 @media (min-width: 520px) { .menu__cta { grid-template-columns: 1fr 1fr; max-width: 560px; } }
 .menu .btn--ghost { color: var(--ink-on-dark); border-color: var(--rule-on-dark); }
 .menu__foot { color: var(--ink-on-dark-faint); font-size: .8rem; letter-spacing: .04em; }
-@media (min-width: 1000px) { .nav { display: block; } .chrome__tel { display: inline-flex; } .chrome__menu { display: none; } } /* after the .chrome__menu rules so it wins */
+@media (min-width: 1000px) { .nav { display: block; } .chrome__menu { display: none; } } /* after the .chrome__menu rules so it wins */
 html.nav-open { overflow: hidden; }
 html { scroll-padding-top: 5.5rem; }
 .chrome__tel {
@@ -137,7 +137,7 @@ html { scroll-padding-top: 5.5rem; }
   text-transform: uppercase; font-weight: 600; color: var(--ink-faint);
 }
 .chrome__tel-num { font-weight: 600; font-size: .95rem; white-space: nowrap; }
-.chrome__tel { display: none; } /* phones: the green call bar carries the number; the header is logo + Menu */
+@media (max-width: 999px) { .chrome__tel { display: none; } } /* phones and tablets: the green call bar carries the number; the header is logo + Menu */
 
 /* --- sticky call bar — every scroll position, on a phone ------------------ */
 .bar {
