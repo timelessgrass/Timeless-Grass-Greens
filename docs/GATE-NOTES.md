@@ -74,3 +74,15 @@ intro never completes. Verified: with rAF dead the page renders fully visible.
 
 Verify motion in a real browser: the Playwright MCP server, or `npx playwright
 install chromium` for the gstack `browse` binary (it is missing its headless shell).
+
+## 9. Playwright screenshots of the homepage time out at 5s
+
+Four attempts, including with the GSAP ticker asleep and every ScrollTrigger
+disabled — so it is not the animation loop. Console shows "fonts loaded" then the
+capture hangs. Most likely `backdrop-filter: blur()` on `.chrome` (sticky header) and
+`.hero__eyebrow`, a known headless-Chromium capture stall. Not worth fixing for the
+site's sake — it renders fine in a real tab. If a capture is ever needed for tooling,
+temporarily strip those two `backdrop-filter` rules or test with them removed first.
+
+Everything else is verifiable by `browser_evaluate`: reveals, count-ups, pin state,
+wipe clip-path, strip transform/scrollLeft, tap-target heights. Prefer that.
