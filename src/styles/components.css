@@ -19,7 +19,7 @@
 .util { background: var(--ground-dark); color: var(--ink-on-dark-dim); font-size: .74rem; letter-spacing: .04em; }
 .util__in { max-width: 1240px; margin-inline: auto; padding: .45rem var(--bleed); display: flex; justify-content: space-between; gap: 1rem; }
 .util__in span::before { content: ""; display: inline-block; width: 6px; height: 6px; border-radius: 50%; background: var(--accent-on-dark); margin-right: .5rem; vertical-align: 1px; }
-@media (max-width: 640px) { .util__in > span:nth-child(2) { display: none; } }
+@media (max-width: 640px) { .util__in > span:nth-child(2), .util__in > span:nth-child(3) { display: none; } .util__in > span:first-child { white-space: nowrap; } } /* phones: one line of markets; the header Call link and the sticky bar carry the number */
 
 /* --- section chrome ----------------------------------------------------------- */
 .sec { padding: clamp(3.4rem, 9vw, 7rem) var(--bleed); }
@@ -54,8 +54,8 @@
 .hero__eyebrow { display: inline-flex; align-items: center; gap: .5rem; font-size: .7rem; letter-spacing: .18em; text-transform: uppercase; font-weight: 600; color: var(--ink-on-dark); background: rgba(242,240,232,.10); border: 1px solid var(--rule-on-dark); border-radius: var(--radius-pill); padding: .45rem .9rem; margin-bottom: 1.6rem; }
 .hero .micro { color: var(--accent-on-dark); }
 .hero .crumbs, .hero .crumbs a { color: var(--ink-on-dark-faint); }
-.hero .crumbs a { border-bottom-color: var(--rule-on-dark); }
-.hero .crumbs a:hover { color: var(--accent-on-dark); border-bottom-color: var(--accent-on-dark); }
+.hero .crumbs a { text-decoration-color: var(--rule-on-dark); }
+.hero .crumbs a:hover { color: var(--accent-on-dark); text-decoration-color: var(--accent-on-dark); }
 .hero .doc__meta { color: var(--ink-on-dark-faint); }
 /* home variant */
 .hero--home { min-height: 92vh; display: grid; align-items: center; padding-top: clamp(4rem, 9vw, 7rem); }
@@ -82,8 +82,8 @@
 
 /* --- breadcrumbs (light ground default) --------------------------------------- */
 .crumbs { font-size: .8rem; color: var(--ink-faint); margin-bottom: 1.4rem; }
-.crumbs a { text-decoration: none; border-bottom: 1px solid var(--rule); }
-.crumbs a:hover { border-bottom-color: var(--accent); color: var(--accent); }
+.crumbs a { text-decoration: underline; text-decoration-color: var(--rule); text-underline-offset: .2em; display: inline-block; padding-block: .85rem; margin-block: -.85rem; } /* 44px tap height without moving the row: padding is cancelled by the margin */
+.crumbs a:hover { text-decoration-color: var(--accent); color: var(--accent); }
 .crumbs span[aria-hidden] { padding: 0 .4rem; }
 
 /* --- cards — the universal list treatment ------------------------------------- */
@@ -226,6 +226,7 @@
 .srcs { margin: 1.4rem 0 0; padding-left: 1.1rem; }
 .srcs li { margin-bottom: 1rem; font-size: .88rem; line-height: 1.5; }
 .srcs__l { display: block; font-weight: 600; } .srcs__c { display: block; color: var(--ink-dim); }
+.srcs__u { display: inline-block; min-height: 44px; padding-block: .5rem; box-sizing: border-box; overflow-wrap: anywhere; } /* long statute URLs: wrap anywhere, and stay a real thumb target */
 .srcs__u { display: block; color: var(--accent); word-break: break-all; font-size: .82rem; }
 .srcs__d { display: block; color: var(--ink-faint); font-size: .78rem; margin-top: .15rem; }
 .disclaim { border: 1px solid var(--rule); border-radius: var(--radius-card); padding: 1.1rem 1.2rem; margin: 0 0 2.2rem; background: var(--ground-band); }

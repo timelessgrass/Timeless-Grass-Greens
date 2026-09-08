@@ -115,3 +115,18 @@ Proof floor (turf): 4 finished · 4 before/after pairs · 2 crew · 1 detail · 
 (pill buttons, dark heroes, no light stripe on dark, styled CTAs, no inline colour, one
 curve) and warns on adjacent sections sharing a ground. `seo`, `entity`, `build` must pass. `craft` fails on photographs until the client's land —
 stock is deliberately not allowed to satisfy it. Known tooling limits: `docs/GATE-NOTES.md`.
+
+## Decisions from the by-eye pass (2026-09-08)
+
+Screenshots became possible once the harness window was foregrounded (GATE-NOTES §9–10).
+Every rule below was seen, fixed, then re-measured — not inferred.
+
+| Rule | Where it lives |
+|---|---|
+| Hero badge sits bottom-right above the steps strip and only renders ≥1180px — below that the centred h1 shares its x-range | `.hero__badge` |
+| The pinned process section arrives with step 1 lit and the bar at 1/n; the scroll timeline covers steps 2..n | `motion.ts` §5 |
+| Mixed-ratio galleries align to `start` so every caption sits on its own image | `.strip__track`, `.proof__grid` |
+| Proof sections are dark on every page type (home strip, hub "Jobs in…", service "…we've installed") | `sec--dark on-dark` |
+| The standard band carries one photo slot (fin-1); with no photo on file it collapses to one column via `:has(.band__fig:empty)` | `.band`, `index.astro` |
+| Every link is a ≥44px target — breadcrumbs pad without moving the row, source URLs wrap anywhere | `.crumbs a`, `.srcs__u` |
+| On phones the utility bar shows the markets only, one line; the header Call link and sticky bar carry the number | `.util__in` ≤640px |
