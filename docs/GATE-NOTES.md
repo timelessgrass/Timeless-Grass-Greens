@@ -44,3 +44,20 @@ all eight `test_lead` flags are true (gate 10).
 
 `python3 ~/.claude/site-tools/check-craft.py dist` — pointing them at the project
 root returns `error: no index.html under .`
+
+## 6. CRAFT-2 — now a photo blocker, not a layout defect
+
+The reference structure puts the quote form at the bottom (section 11) rather than in
+the hero. A hero form used to satisfy CRAFT-2 ("image or hero form in the first third");
+with the form moved and no client hero photograph on file, production has neither.
+
+**Status:** fails together with CRAFT-1 until the client's photographs land. In dev the
+hero carries a labelled stock stand-in; production deliberately renders no image at all.
+Do not move the form back to fix the gate — the reference's conversion structure is the
+client's explicit choice.
+
+## 7. Stock imagery — dev-only, enforced in two places
+
+`<Figure>` and `heroSrc()` both check `import.meta.env.DEV` before returning a stock
+URL. Verify after every build: `find dist -name '*.html' -exec grep -l 'pexels.com' {} +`
+must return nothing. Caught once already when `heroSrc()` shipped a Pexels URL to prod.

@@ -269,3 +269,14 @@
   margin: 0 0 2.2rem; background: var(--ground-band);
 }
 .disclaim p { font-size: .87rem; line-height: 1.6; color: var(--ink-dim); margin: 0; max-width: none; }
+
+/* stock stand-in — dev only. labelled so it can never be mistaken for our work. */
+.fig--stock { position: relative; }
+.fig--stock img { aspect-ratio: var(--ratio); object-fit: cover; width: 100%; filter: saturate(.92); }
+.fig__stock {
+  position: absolute; inset: auto 0 0 0; padding: .55rem .7rem;
+  background: rgba(14,14,12,.82); color: var(--ink-on-dark); font-size: .68rem; line-height: 1.4;
+  display: flex; flex-direction: column; gap: .15rem;
+}
+.fig__stock > span:first-child { color: var(--accent-on-dark); letter-spacing: .08em; text-transform: uppercase; font-weight: 600; }
+.fig__need { color: var(--ink-on-dark-dim); }

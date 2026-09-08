@@ -59,6 +59,8 @@
 
   /* --- geometry ------------------------------------------------------------ */
   --radius: 0;               /* fixed at the token level, never swept later */
+  --radius-card: 1.1rem;     /* cards and media only. the reference earns it; buttons stay pills */
+  --radius-pill: 999px;
   --measure: 62ch;
   --gut: clamp(1.15rem, 4vw, 2.5rem);
   --bleed: clamp(1.15rem, 5vw, 5.5rem);
@@ -88,6 +90,7 @@
   );
   pointer-events: none;
 }
+.mown-stripe--drift::before { background-position: var(--stripe-x, 0px) 0; }
 .mown-stripe--dark::before {
   background-image: repeating-linear-gradient(
     97deg,

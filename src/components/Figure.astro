@@ -6,7 +6,10 @@
  * No file, dev → renders a LABELLED placeholder stating which shot belongs here.
  *                It cannot be mistaken for a photograph: no image, stated as
  *                missing, carrying the brief for whoever shoots it.
- * No file, prod → renders NOTHING. A placeholder can never reach a live page.
+ * Stock, dev   → renders the licensed stand-in with a visible STOCK label and the
+ *                shot brief it is standing in for. Design review only.
+ * No file, prod → renders NOTHING. Neither a placeholder nor a stock image can
+ *                reach a live page. Only the client's own photograph ships.
  *
  * This is the line the method draws: ship the hole, never a placeholder that
  * reads as real. The old site failed exactly here — 27 AI-generated images
@@ -25,6 +28,14 @@ const KIND: Record<string, string> = {
   <figure class="fig" style={`--ratio:${shot.ratio}`}>
     <img src={shot.file} alt={shot.caption ?? ''} loading="lazy" decoding="async" />
     {shot.caption && <figcaption>{shot.caption}</figcaption>}
+  </figure>
+) : DEV && shot.stock ? (
+  <figure class="fig fig--stock" style={`--ratio:${shot.ratio}`} data-shot={shot.id}>
+    <img src={shot.stock.src} alt="" loading="lazy" decoding="async" />
+    <figcaption class="fig__stock">
+      <span>Stock stand-in · not our work · {shot.stock.credit}</span>
+      <span class="fig__need">{KIND[shot.kind] ?? shot.kind}: {shot.brief}</span>
+    </figcaption>
   </figure>
 ) : DEV ? (
   <figure class="fig fig--pending" style={`--ratio:${shot.ratio}`} data-shot={shot.id}>

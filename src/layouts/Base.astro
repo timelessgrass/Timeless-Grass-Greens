@@ -2,6 +2,7 @@
 import '../styles/tokens.css';
 import '../styles/base.css';
 import '../styles/sections.css';
+import '../styles/home.css';
 import { businessName, phone, phoneHref, email, serviceAreas } from '../data/brief';
 import { MARKETS } from '../data/markets';
 import { SERVICES } from '../data/services';
@@ -78,6 +79,12 @@ if (crumbs?.length) {
 </head>
 <body>
   <a class="skip" href="#main">Skip to content</a>
+
+  <div class="util"><div class="util__in">
+    <span>Denver · Grand Strand · Northeast Florida</span>
+    <span>Founder with 13 years in turf</span>
+    {phone && <span>{phone}</span>}
+  </div></div>
 
   <header class="chrome">
     <div class="chrome__in">
