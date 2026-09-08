@@ -82,13 +82,14 @@ gsap.matchMedia().add('(prefers-reduced-motion: no-preference)', () => {
   const proc = document.querySelector<HTMLElement>('.proc');
   if (proc && window.matchMedia('(min-width: 900px)').matches) {
     const steps = gsap.utils.toArray<HTMLElement>('.proc__step');
+    gsap.set('.proc__fill', { scaleX: 1 / steps.length }); // step one is lit the moment the section pins — it never arrives empty
     const tl = gsap.timeline({
-      scrollTrigger: { trigger: proc, start: 'top top', end: () => `+=${steps.length * 70}%`, pin: true, scrub: .6 },
+      scrollTrigger: { trigger: proc, start: 'top top', end: () => `+=${(steps.length - 1) * 70}%`, pin: true, scrub: .6 },
     });
-    steps.forEach((s, i) => {
-      if (i > 0) tl.to(steps[i - 1], { opacity: .22, y: -18, duration: 1, ease: 'none' });
-      tl.from(s, { opacity: 0, y: 38, duration: 1, ease: 'none' }, i > 0 ? '<' : 0)
-        .to('.proc__fill', { scaleX: (i + 1) / steps.length, duration: 1, ease: 'none' }, '<');
+    steps.slice(1).forEach((s, j) => {
+      tl.to(steps[j], { opacity: .22, y: -18, duration: 1, ease: 'none' })
+        .from(s, { opacity: 0, y: 38, duration: 1, ease: 'none' }, '<')
+        .to('.proc__fill', { scaleX: (j + 2) / steps.length, duration: 1, ease: 'none' }, '<');
     });
   }
 

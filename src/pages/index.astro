@@ -103,7 +103,7 @@ const pair = (id: string) => ({ b: SHOTS.find((s) => s.pairId === id && s.kind =
       {DEV && haveCount() < floorCount && <p>Build note: {haveCount()} of {floorCount} client photographs on file. Every image below is a labelled stock stand-in for layout review, and none of them ships.</p>}
     </div></div>
     <div class="strip__track">
-      {[...shotsBy('finished'), ...shotsBy('context'), ...shotsBy('detail')].map((shot) => <Figure shot={shot} />)}
+      {[...shotsBy('finished').slice(1), ...shotsBy('context'), ...shotsBy('detail')].map((shot) => <Figure shot={shot} />)}
     </div>
   </section>
 
@@ -122,10 +122,13 @@ const pair = (id: string) => ({ b: SHOTS.find((s) => s.pairId === id && s.kind =
 
   <!-- 5 · THE STANDARD — dark band, stripes drift -->
   <section class="sec sec--green on-dark mown-stripe mown-stripe--dark mown-stripe--drift">
-    <div class="wrap band" data-reveal>
-      <p class="micro">This is the whole standard</p>
-      <h2>We judge a job by whether the green is clean.</h2>
-      <p class="band__p">Look at a competitor&rsquo;s photo of their own work and count the leaves on the putting surface. If they couldn&rsquo;t be bothered to blow it off before photographing it, that tells you what the install looked like on day two.</p>
+    <div class="wrap band">
+      <div class="band__copy" data-reveal>
+        <p class="micro">This is the whole standard</p>
+        <h2>We judge a job by whether the green is clean.</h2>
+        <p class="band__p">Look at a competitor&rsquo;s photo of their own work and count the leaves on the putting surface. If they couldn&rsquo;t be bothered to blow it off before photographing it, that tells you what the install looked like on day two.</p>
+      </div>
+      <div class="band__fig" data-reveal>{shotsBy('finished').slice(0, 1).map((shot) => <Figure shot={shot} />)}</div>
     </div>
   </section>
 

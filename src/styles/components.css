@@ -35,6 +35,7 @@
 .kick p { color: var(--ink-dim); margin: 1rem auto 0; font-size: clamp(1rem, 2vw, 1.12rem); }
 .on-dark .kick p { color: var(--ink-on-dark-dim); }
 .on-dark .micro { color: var(--ink-on-dark-faint); }
+.on-dark .fig figcaption, .on-dark .proof__note { color: var(--ink-on-dark-dim); }
 .micro--accent { color: var(--accent); }
 .on-dark .micro--accent { color: var(--accent-on-dark); }
 
@@ -64,9 +65,9 @@
 .hero--home h1 .line > span { display: block; }
 .hero--home .hero__deck { margin-inline: auto; max-width: 52ch; }
 .hero--home .hero__cta { justify-content: center; }
-.hero__badge { position: absolute; right: clamp(1rem, 4vw, 3rem); top: 22%; z-index: 2; background: var(--ground); color: var(--ink); border-radius: var(--radius-card); padding: .9rem 1.1rem; max-width: 220px; font-size: .82rem; line-height: 1.4; box-shadow: 0 18px 40px rgba(0,0,0,.35); }
+.hero__badge { position: absolute; right: clamp(1rem, 4vw, 3rem); top: auto; bottom: 9.5rem; z-index: 2; background: var(--ground); color: var(--ink); border-radius: var(--radius-card); padding: .9rem 1.1rem; max-width: 220px; font-size: .82rem; line-height: 1.4; box-shadow: 0 18px 40px rgba(0,0,0,.35); }
 .hero__badge b { display: block; font-family: var(--font-display); font-size: 1.15rem; letter-spacing: -.012em; margin-bottom: .2rem; }
-@media (max-width: 900px) { .hero__badge { display: none; } }
+@media (max-width: 1179px) { .hero__badge { display: none; } } /* below this the centred h1 and the badge share the same x-range */
 .hero__steps { position: relative; z-index: 1; margin: clamp(2.4rem, 6vw, 4rem) auto 0; max-width: 1000px; display: grid; border-top: 1px solid var(--rule-on-dark); }
 @media (min-width: 720px) { .hero__steps { grid-template-columns: repeat(3, 1fr); } }
 .hero__steps > div { padding: 1rem 0 0; font-size: .86rem; color: var(--ink-on-dark-dim); display: flex; gap: .7rem; align-items: baseline; }
@@ -119,7 +120,7 @@
 
 /* --- gallery strip --------------------------------------------------------------- */
 .strip { overflow: hidden; padding-block: clamp(3.4rem, 8vw, 6rem); }
-.strip__track { display: flex; gap: 1.2rem; width: max-content; padding-inline: var(--bleed); will-change: transform; }
+.strip__track { display: flex; align-items: flex-start; gap: 1.2rem; width: max-content; padding-inline: var(--bleed); will-change: transform; } /* flex-start: mixed ratios keep each caption on its own image, not floating at the tallest card's foot */
 .strip__track .fig { flex: 0 0 clamp(280px, 38vw, 520px); }
 .strip__track .fig img, .strip__track .fig__slot { border-radius: var(--radius-card); }
 @media (max-width: 899px), (hover: none) {
@@ -128,7 +129,7 @@
   .strip__track { will-change: auto; }
   .strip__track > .fig { scroll-snap-align: start; }
 }
-.proof__grid { display: grid; gap: clamp(1rem, 2.4vw, 1.6rem); margin-top: 2.2rem; }
+.proof__grid { display: grid; align-items: start; gap: clamp(1rem, 2.4vw, 1.6rem); margin-top: 2.2rem; } /* start: mixed ratios keep each caption on its own image */
 @media (min-width: 640px) { .proof__grid { grid-template-columns: repeat(2, 1fr); } }
 @media (min-width: 1000px) { .proof__grid { grid-template-columns: repeat(3, 1fr); } }
 .proof__grid .fig img, .proof__grid .fig__slot { border-radius: var(--radius-card); }
@@ -142,6 +143,9 @@
 .story .fig img, .story .fig__slot { border-radius: var(--radius-card); }
 .band h2 { max-width: 18ch; }
 .band__p { margin-top: 1.5rem; font-size: clamp(1rem, 2vw, 1.15rem); max-width: 54ch; }
+.band { display: grid; gap: clamp(2rem, 5vw, 4rem); align-items: center; }
+@media (min-width: 900px) { .band { grid-template-columns: 1.1fr 1fr; } .band:has(.band__fig:empty) { grid-template-columns: 1fr; } } /* no photo yet → the copy takes the full measure instead of leaving half the band empty */
+.band__fig .fig img, .band__fig .fig__slot { border-radius: var(--radius-card); }
 .src { font-size: .78rem; letter-spacing: .04em; color: var(--ink-on-dark-faint); margin: 1.1rem 0 0; }
 
 /* --- process --------------------------------------------------------------------- */
