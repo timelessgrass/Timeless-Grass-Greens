@@ -15,6 +15,8 @@ export type Market = {
   short: string;
   states: string[];
   counties: string[];
+  /** Places named by the client on the call, or on his own old site. Nothing else. */
+  towns: string[];
   /** Why a job here differs from a job in the other two markets. */
   ground: string;
   /** The regulatory fact that no competitor in this market has written up. */
@@ -32,6 +34,7 @@ export const MARKETS: Market[] = [
     short: 'Grand Strand',
     states: ['SC', 'NC'],
     counties: ['Horry SC', 'Georgetown SC', 'Brunswick NC', 'Columbus NC'],
+    towns: ['North Myrtle Beach', 'Carolina Forest', 'Loris', 'Longs'], // Brian, 00:28:22-24
     ground:
       'Sand with a high water table. The base is built to drain, not to resist heave — the opposite problem to Colorado.',
     law: {
@@ -49,6 +52,7 @@ export const MARKETS: Market[] = [
     short: 'Denver',
     states: ['CO'],
     counties: ['Denver', 'Jefferson', 'Adams', 'Arapahoe', 'Douglas', 'Boulder', 'Broomfield'],
+    towns: ['Denver', 'Aurora', 'Westminster', 'Lakewood', 'Broomfield', 'Thornton'], // old site, "Do you serve my area?"
     ground:
       'Expansive clay and claystone. It swells and shrinks with moisture, so the base is built to stop the surface heaving — the single biggest technical difference from a sandy market.',
     law: {
@@ -66,6 +70,7 @@ export const MARKETS: Market[] = [
     short: 'Jacksonville',
     states: ['FL'],
     counties: ['Nassau', 'Duval', 'Clay', 'St. Johns'],
+    towns: ['Jacksonville', 'Jacksonville Beach', 'Ponte Vedra', 'Fernandina Beach'], // Brian, 00:38:41 / 00:39:50
     ground:
       'Sand over a shallow water table, with hardpan in places. Drainage is rarely the problem; heat and shade placement usually are.',
     law: {

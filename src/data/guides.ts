@@ -1412,7 +1412,7 @@ export const GUIDES: Guide[] = [
     "updated": "2026-09-08",
     "answer": {
       "question": "Does artificial turf qualify for a water rebate in Denver?",
-      "answer": "TIMELESS Grass & Greens installs artificial turf across seven Denver-metro counties. In nearly all of them your water provider will not pay you for it: Denver Water, Aurora, Castle Rock, Erie and Highlands Ranch exclude artificial turf in writing. The one exception we found is Thornton, up to $2 per square foot. We will tell you which provider you are in. Call 303-349-2368."
+      "answer": "TIMELESS Grass & Greens installs artificial turf across the Denver metro. In nearly all of them your water provider will not pay you for it: Denver Water, Aurora, Castle Rock, Erie and Highlands Ranch exclude artificial turf in writing. The one exception we found is Thornton, up to $2 per square foot. Ask us which provider your address sits in. Call 303-349-2368."
     },
     "sections": [
       {

@@ -3,7 +3,7 @@ import Base from '../../layouts/Base.astro';
 import Figure from '../../components/Figure.astro';
 import { SERVICES } from '../../data/services';
 import { MARKETS } from '../../data/markets';
-import { shotsBy } from '../../data/shotlist';
+import { shotsBy, haveCount } from '../../data/shotlist';
 import { phone, phoneHref } from '../../data/brief';
 
 export function getStaticPaths() {
@@ -52,6 +52,7 @@ const crumbs = [
     </div>
   </div>
 
+{haveCount() > 0 && (
   <section class="sec sec--dark on-dark">
     <div class="wrap" data-reveal>
       <p class="micro">The work</p>
@@ -61,16 +62,17 @@ const crumbs = [
       </div>
     </div>
   </section>
+)}
 
-  <section class="sec">
+  <section class="sec sec--band">
     <div class="wrap" data-reveal>
       <p class="micro">Where</p>
-      <h2>{s.name} in three markets.</h2>
+      <h2>Where we work.</h2>
       <ul class="mkts">
         {MARKETS.map((m) => (
           <li><a href={`/${m.slug}/`} data-cta={`market-${m.slug}`}>
             <span class="mkts__n">{m.name}</span>
-            <span class="mkts__s">{m.counties.join(' · ')}</span>
+            <span class="mkts__s">{m.towns.join(' · ')}</span>
           </a></li>
         ))}
       </ul>

@@ -23,7 +23,7 @@ const description = 'That address is not on the site. Some links changed when we
     <div class="wrap">
       <div class="kick"><p class="micro">Where we work</p><h2>Three markets.</h2></div>
       <ul class="mkts">
-        {MARKETS.map((m) => <li><a href={`/${m.slug}/`} data-cta={`market-404-${m.slug}`}><span class="mkts__n">{m.name}</span><span class="mkts__s">{m.counties.join(' · ')}</span></a></li>)}
+        {MARKETS.map((m) => <li><a href={`/${m.slug}/`} data-cta={`market-404-${m.slug}`}><span class="mkts__n">{m.name}</span><span class="mkts__s">{m.towns.join(' · ')}</span></a></li>)}
       </ul>
     </div>
   </section>

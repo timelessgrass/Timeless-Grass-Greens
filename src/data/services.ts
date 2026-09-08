@@ -42,7 +42,7 @@ export const SERVICES: Service[] = [
         ] },
       { h2: 'The fringe is where installs come apart',
         body: [
-          'The seam between putting surface and fringe takes traffic from both directions and is the first thing to lift on a rushed job. It gets a proper edge and a proper fastening, and we photograph it, because a company that will not show you its seams is telling you something.',
+          'The seam between putting surface and fringe takes traffic from both directions and is the first thing to lift on a rushed job. It gets a proper edge and a proper fastening.',
         ] },
     ],
   },
@@ -55,7 +55,7 @@ export const SERVICES: Service[] = [
     lede: 'The same product installed three different ways, because the ground is different in each of our markets.',
     answer: {
       question: 'How is an artificial lawn installed?',
-      answer: `Excavate, build and compact a base suited to the local soil, lay and seam the turf, then infill and groom. TIMELESS Grass & Greens builds against Front Range expansive clay in Colorado and against sand with a high water table on the coast. Residential lawns in three markets. Call ${P}.`,
+      answer: `Excavate, build and compact a base suited to the local soil, lay and seam the turf, then infill and groom. TIMELESS Grass & Greens builds against Front Range expansive clay in Colorado and against sand with a high water table on the coast. Residential lawns quoted across all three markets. Call ${P}.`,
     },
     sections: [
       { h2: 'Your soil decides the base',
@@ -78,7 +78,7 @@ export const SERVICES: Service[] = [
     lede: 'Odor is a drainage failure, not a turf failure. It is fixed underneath.',
     answer: {
       question: 'Does pet turf smell?',
-      answer: `Only if the base cannot drain. Urine passes through the turf; what holds odor is infill that stays wet over a base compacted without a drainage layer. TIMELESS Grass & Greens builds pet installs with a different infill and a base designed to move liquid. Pet turf in three markets. Call ${P}.`,
+      answer: `Only if the base cannot drain. Urine passes through the turf; what holds odor is infill that stays wet over a base compacted without a drainage layer. TIMELESS Grass & Greens builds pet installs with a different infill and a base designed to move liquid. Pet turf quoted across all three markets. Call ${P}.`,
     },
     sections: [
       { h2: 'Where the smell actually comes from',
@@ -101,7 +101,7 @@ export const SERVICES: Service[] = [
     lede: 'Common areas, daycares, pet facilities, multifamily. Where the rules are tighter and the scrutiny is real.',
     answer: {
       question: 'Can commercial property install artificial turf?',
-      answer: `It depends on the state and on what the turf is for. In Colorado, SB24-005 as amended by HB25-1113 separates functional turf from non-functional on commercial and HOA-common property. TIMELESS Grass & Greens works to those rules rather than around them. Commercial installs in three markets. Call ${P}.`,
+      answer: `It depends on the state and on what the turf is for. In Colorado, SB24-005 as amended by HB25-1113 separates functional turf from non-functional on commercial and HOA-common property. TIMELESS Grass & Greens works to those rules rather than around them. Commercial work quoted across all three markets. Call ${P}.`,
     },
     sections: [
       { h2: 'Colorado draws a line that most installers have not read',

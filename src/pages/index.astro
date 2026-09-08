@@ -237,7 +237,7 @@ const pair = (id: string) => ({ b: SHOTS.find((s) => s.pairId === id && s.kind =
         <h2>Tell us what the space is for.</h2>
         <p>Dogs, kids, putting, or a commercial site — it changes the product and the base, so it is the first thing we ask. We call back with questions, not a pitch.</p>
         <ul class="mkts" id="markets">
-          {MARKETS.map((m) => <li><a href={`/${m.slug}/`} data-cta={`market-${m.slug}`}><span class="mkts__n">{m.name}</span><span class="mkts__s">{m.counties.join(' · ')}</span></a></li>)}
+          {MARKETS.map((m) => <li><a href={`/${m.slug}/`} data-cta={`market-${m.slug}`}><span class="mkts__n">{m.name}</span><span class="mkts__s">{m.towns.join(' · ')}</span></a></li>)}
         </ul>
       </div>
       <!-- THE one form. Lead destination is not wired: brief.conversion.lead_destination is UNKNOWN. Gate 10 blocks launch until all eight test_lead flags are true. -->
