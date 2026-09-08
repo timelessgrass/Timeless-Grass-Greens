@@ -6,8 +6,8 @@
 
 /* --- buttons: always pills ---------------------------------------------------- */
 .btn { display: inline-flex; align-items: center; justify-content: center; min-height: 52px; padding: .9rem 1.6rem; font-weight: 600; font-size: 1rem; letter-spacing: .005em; text-decoration: none; border: 1px solid transparent; border-radius: var(--radius-pill); transition: background-color var(--dur) var(--ease), border-color var(--dur) var(--ease), transform var(--dur) var(--ease), color var(--dur) var(--ease); }
-.btn--primary { background: var(--accent); color: #fff; }
-.btn--primary:hover { background: var(--accent-lift); }
+.btn--primary { background: var(--accent); color: var(--ink-on-dark); }
+.btn--primary:hover { background: var(--accent-hover); }
 .btn--ghost { border-color: var(--rule); color: var(--ink); }
 .btn--ghost:hover { border-color: var(--accent); color: var(--accent); }
 .btn--ghost-dark, .on-dark .btn--ghost { background: transparent; color: var(--ink-on-dark); border-color: var(--rule-on-dark); }
@@ -65,7 +65,7 @@
 .hero--home h1 .line > span { display: block; }
 .hero--home .hero__deck { margin-inline: auto; max-width: 52ch; }
 .hero--home .hero__cta { justify-content: center; }
-.hero__badge { position: absolute; right: clamp(1rem, 4vw, 3rem); top: auto; bottom: 9.5rem; z-index: 2; background: var(--ground); color: var(--ink); border-radius: var(--radius-card); padding: .9rem 1.1rem; max-width: 220px; font-size: .82rem; line-height: 1.4; box-shadow: 0 18px 40px rgba(0,0,0,.35); }
+.hero__badge { position: absolute; right: clamp(1rem, 4vw, 3rem); top: auto; bottom: 9.5rem; z-index: 2; background: var(--ground); color: var(--ink); border-radius: var(--radius-card); padding: .9rem 1.1rem; max-width: 220px; font-size: .82rem; line-height: 1.4; box-shadow: var(--shadow-float); }
 .hero__badge b { display: block; font-family: var(--font-display); font-size: 1.15rem; letter-spacing: -.012em; margin-bottom: .2rem; }
 @media (max-width: 1179px) { .hero__badge { display: none; } } /* below this the centred h1 and the badge share the same x-range */
 .hero__steps { position: relative; z-index: 1; margin: clamp(2.4rem, 6vw, 4rem) auto 0; max-width: 1000px; display: grid; border-top: 1px solid var(--rule-on-dark); }
@@ -81,7 +81,7 @@
 .doc__head .doc__meta { color: var(--ink-on-dark-faint); }
 
 /* --- breadcrumbs (light ground default) --------------------------------------- */
-.crumbs { font-size: .8rem; color: var(--ink-faint); margin-bottom: 1.4rem; }
+.crumbs { font-size: .8rem; color: var(--ink-dim); margin-bottom: 1.4rem; }
 .crumbs a { text-decoration: underline; text-decoration-color: var(--rule); text-underline-offset: .2em; display: inline-block; padding-block: .85rem; margin-block: -.85rem; } /* 44px tap height without moving the row: padding is cancelled by the margin */
 .crumbs a:hover { text-decoration-color: var(--accent); color: var(--accent); }
 .crumbs span[aria-hidden] { padding: 0 .4rem; }
@@ -133,7 +133,7 @@
 @media (min-width: 640px) { .proof__grid { grid-template-columns: repeat(2, 1fr); } }
 @media (min-width: 1000px) { .proof__grid { grid-template-columns: repeat(3, 1fr); } }
 .proof__grid .fig img, .proof__grid .fig__slot { border-radius: var(--radius-card); }
-.proof__note { margin-top: 1.8rem; font-size: .88rem; color: var(--ink-faint); border-left: 2px solid var(--accent); padding-left: .9rem; max-width: 56ch; }
+.proof__note { margin-top: 1.8rem; font-size: .88rem; color: var(--ink-dim); border-left: 2px solid var(--accent); padding-left: .9rem; max-width: 56ch; }
 
 /* --- story ----------------------------------------------------------------------- */
 .story, .two { display: grid; gap: clamp(2rem, 5vw, 4rem); align-items: center; }
@@ -206,7 +206,7 @@
 .fld input, .fld select { width: 100%; min-height: 48px; padding: .7rem .8rem; font: inherit; font-size: 16px; color: var(--ink); background: var(--ground); border: 1px solid var(--rule); border-radius: var(--radius-input); transition: border-color var(--dur) var(--ease); }
 .fld input:focus, .fld select:focus { border-color: var(--accent); }
 .quote button { margin-top: .4rem; }
-.quote__note { font-size: .85rem; color: var(--ink-faint); margin: .9rem 0 0; }
+.quote__note { font-size: .85rem; color: var(--ink-dim); margin: .9rem 0 0; }
 
 /* --- close -------------------------------------------------------------------------------- */
 .close h2 { max-width: 16ch; }
@@ -239,7 +239,7 @@
 /* --- figures: real · stock (dev) · pending (dev) · nothing (prod) ------------------------------- */
 .fig { margin: 0; }
 .fig img { width: 100%; aspect-ratio: var(--ratio); object-fit: cover; border-radius: var(--radius-card); }
-.fig figcaption { font-size: .84rem; color: var(--ink-faint); margin-top: .6rem; line-height: 1.45; max-width: 40ch; }
+.fig figcaption { font-size: .84rem; color: var(--ink-dim); margin-top: .6rem; line-height: 1.45; max-width: 40ch; }
 .fig--pending .fig__slot { aspect-ratio: var(--ratio); border: 1px dashed var(--accent); border-radius: var(--radius-card); background-image: repeating-linear-gradient(45deg, rgba(63,140,10,.05) 0 10px, transparent 10px 20px); padding: 1.1rem; display: flex; flex-direction: column; justify-content: flex-end; gap: .45rem; }
 .fig__kind { font-size: .64rem; letter-spacing: var(--track-micro); text-transform: uppercase; font-weight: 600; color: var(--accent); margin: 0; }
 .fig__brief { font-size: .84rem; line-height: 1.45; color: var(--ink-dim); margin: 0; max-width: 38ch; }

@@ -102,7 +102,7 @@ p  { margin: 0 0 1.05em; max-width: var(--measure); text-wrap: pretty; }
   position: fixed; left: 0; right: 0; bottom: 0; z-index: 50;
   display: flex; align-items: center; justify-content: center;
   min-height: 60px; padding: 1rem;
-  background: var(--accent); color: #fff;
+  background: var(--accent); color: var(--ink-on-dark);
   font-weight: 600; letter-spacing: .01em; text-decoration: none;
   box-shadow: 0 -1px 0 rgba(0,0,0,.14);
 }

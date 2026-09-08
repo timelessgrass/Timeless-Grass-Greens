@@ -25,10 +25,10 @@ neither is sourced here.
 | Band | `--ground-band` | `#E7E4DC` | tonal alternate |
 | Dark | `--ground-dark` | `#0E0E0C` | 38.4% of the mark is black |
 | Deep green | `--ground-green` | `#16330C` | the green in shadow — interstitials only |
-| **Accent (the only one)** | `--accent` | `#3F8C0A` | ribbon's deep stop, away from Murphy's sage |
+| **Accent (the only one)** | `--accent` | `#307408` | ribbon's deep stop, away from Murphy's sage |
 | Accent on dark | `--accent-on-dark` | `#8ACF35` | ribbon's light stop; dark ground only |
 | Ribbon | `--ribbon` | `#48A008 → #80D028 → #409800` | the mark's own gradient — hairlines and the process bar |
-| Ink | `--ink` | `#15150F` at 1 / .68 / .42 / .14 | one text colour, four opacities, no second grey |
+| Ink | `--ink` | `#15150F` at 1 / .68 / .56 / .14 | one text colour, four opacities, no second grey |
 
 The wordmark gold (`#DEBA1F`) lives in the logo and is **never** a system colour.
 Section rhythm alternates **dark → ground → band → ground → deep green → …** so no two
@@ -130,3 +130,21 @@ Every rule below was seen, fixed, then re-measured — not inferred.
 | The standard band carries one photo slot (fin-1); with no photo on file it collapses to one column via `:has(.band__fig:empty)` | `.band`, `index.astro` |
 | Every link is a ≥44px target — breadcrumbs pad without moving the row, source URLs wrap anywhere | `.crumbs a`, `.srcs__u` |
 | On phones the utility bar shows the markets only, one line; the header Call link and sticky bar carry the number | `.util__in` ≤640px |
+
+## Contrast (final, 2026-09-08)
+
+The accent was deepened from the measured ribbon stop `#3F8C0A` to `#307408` so it passes
+WCAG AA everywhere it is used as text or as a fill under warm-white text. Hover goes
+deeper (`#245A05`), never lighter. Faint ink is 56% (kickers and hairline labels only);
+anything a person reads — captions, breadcrumbs, notes, form hints — uses `--ink-dim`.
+
+| Pair | Ratio |
+|---|---|
+| Brand green text on chalk / band | 4.9 / 4.6 |
+| Primary button: green fill + warm white | 5.1 (hover 6.7) |
+| Faint ink on chalk / band | 3.9 / 3.6 (labels only) |
+| Dim ink on chalk / band | 7.2 / 6.6 |
+| Bright green on dark / deep green | 10.2 / 7.3 |
+| Warm white on dark / deep green | 16.9 / 12.2 |
+
+Gold `#DEBA1F` lives in the logo file only. One accent on the page.
