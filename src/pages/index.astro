@@ -239,12 +239,14 @@ const pair = (id: string) => ({ b: SHOTS.find((s) => s.pairId === id && s.kind =
         <p class="micro">Get a number on it</p>
         <h2>Tell us what the space is for.</h2>
         <p>Dogs, kids, putting, or a commercial site — it changes the product and the base, so it is the first thing we ask. We call back with questions, not a pitch.</p>
-        <ul class="mkts">
+        <ul class="mkts" id="markets">
           {MARKETS.map((m) => <li><a href={`/${m.slug}/`} data-cta={`market-${m.slug}`}><span class="mkts__n">{m.name}</span><span class="mkts__s">{m.counties.join(' · ')}</span></a></li>)}
         </ul>
       </div>
       <!-- THE one form. Lead destination is not wired: brief.conversion.lead_destination is UNKNOWN. Gate 10 blocks launch until all eight test_lead flags are true. -->
-      <form class="quote" name="quote" method="POST" data-cta="quote-form" aria-labelledby="quote-h" data-reveal>
+      <form class="quote" name="quote" method="POST" action="/thanks/" data-netlify="true" netlify-honeypot="company" data-cta="quote-form" aria-labelledby="quote-h" data-reveal>
+        <input type="hidden" name="form-name" value="quote" />
+        <p class="hp" aria-hidden="true"><label>Company <input type="text" name="company" tabindex="-1" autocomplete="off" /></label></p>
         <p class="micro micro--accent" id="quote-h">Request a written number</p>
         <div class="quote__row">
           <label class="fld"><span>Name</span><input type="text" name="name" autocomplete="name" required /></label>

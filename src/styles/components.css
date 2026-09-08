@@ -6,6 +6,7 @@
 
 /* --- buttons: always pills ---------------------------------------------------- */
 .btn { display: inline-flex; align-items: center; justify-content: center; min-height: 52px; padding: .9rem 1.6rem; font-weight: 600; font-size: 1rem; letter-spacing: .005em; text-decoration: none; border: 1px solid transparent; border-radius: var(--radius-pill); transition: background-color var(--dur) var(--ease), border-color var(--dur) var(--ease), transform var(--dur) var(--ease), color var(--dur) var(--ease); }
+.btn:hover { transform: translateY(-1px); } .btn:active { transform: translateY(0); }
 .btn--primary { background: var(--accent); color: var(--ink-on-dark); }
 .btn--primary:hover { background: var(--accent-hover); }
 .btn--ghost { border-color: var(--rule); color: var(--ink); }
@@ -100,6 +101,7 @@
 .on-dark .card p { color: var(--ink-on-dark-dim); }
 .idx__m { display: block; font-size: .64rem; letter-spacing: var(--track-micro); text-transform: uppercase; font-weight: 600; color: var(--accent); margin-bottom: .2rem; }
 .card a, .idx a, .mkts a, .svc a { text-decoration: none; color: inherit; }
+.card { position: relative; } .card > a::after { content: ""; position: absolute; inset: 0; } /* the whole card is the tap target, not the 15px link */
 .idx a, .mkts a, .svc a { display: flex; flex-direction: column; gap: .5rem; min-height: 44px; }
 .formband .mkts { grid-template-columns: 1fr; }
 .strip .kick h2 { color: var(--ink-on-dark); }
@@ -206,6 +208,7 @@
 .fld input, .fld select { width: 100%; min-height: 48px; padding: .7rem .8rem; font: inherit; font-size: 16px; color: var(--ink); background: var(--ground); border: 1px solid var(--rule); border-radius: var(--radius-input); transition: border-color var(--dur) var(--ease); }
 .fld input:focus, .fld select:focus { border-color: var(--accent); }
 .quote button { margin-top: .4rem; }
+.hp { position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden; } /* honeypot: bots fill it, people never see it */
 .quote__note { font-size: .85rem; color: var(--ink-dim); margin: .9rem 0 0; }
 
 /* --- close -------------------------------------------------------------------------------- */

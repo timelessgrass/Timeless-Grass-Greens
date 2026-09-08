@@ -120,6 +120,47 @@ gsap.matchMedia().add('(prefers-reduced-motion: no-preference)', () => {
 });
 }
 
+/* ---- interactions (not motion: they run regardless of reduced-motion) ---------- */
+const menu = document.getElementById('menu');
+const menuBtn = document.querySelector<HTMLButtonElement>('.chrome__menu');
+function setMenu(open: boolean) {
+  if (!menu) return;
+  if (open) {
+    menu.hidden = false;
+    requestAnimationFrame(() => requestAnimationFrame(() => menu.classList.add('is-open')));
+    html.classList.add('nav-open');
+    menuBtn?.setAttribute('aria-expanded', 'true');
+    menu.querySelector<HTMLElement>('.menu__close')?.focus();
+  } else {
+    menu.classList.remove('is-open');
+    html.classList.remove('nav-open');
+    menuBtn?.setAttribute('aria-expanded', 'false');
+    window.setTimeout(() => { menu.hidden = true; }, 340);
+    menuBtn?.focus();
+  }
+}
+document.querySelectorAll('[data-menu-toggle]').forEach((t) => t.addEventListener('click', () => setMenu(!!menu?.hidden)));
+menu?.addEventListener('click', (e) => { if ((e.target as HTMLElement).closest('a')) setMenu(false); });
+document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && menu && !menu.hidden) setMenu(false); });
+
+/* header condenses once the hero is behind you */
+const chrome = document.querySelector('.chrome');
+let scrolled = false;
+const onScroll = () => { const s = window.scrollY > 72; if (s !== scrolled) { scrolled = s; chrome?.classList.toggle('is-scrolled', s); } };
+window.addEventListener('scroll', onScroll, { passive: true }); onScroll();
+
+/* the sticky call bar steps aside while the form or the footer is on screen — it must never cover Submit */
+const bar = document.querySelector('.bar');
+const yieldTo = document.querySelectorAll('.quote, .foot');
+if (bar && yieldTo.length && 'IntersectionObserver' in window) {
+  const seen = new Set<Element>();
+  const io = new IntersectionObserver((entries) => {
+    entries.forEach((en) => (en.isIntersecting ? seen.add(en.target) : seen.delete(en.target)));
+    bar.classList.toggle('is-hidden', seen.size > 0);
+  }, { threshold: 0.12 });
+  yieldTo.forEach((el) => io.observe(el));
+}
+
 if (import.meta.env.DEV) (window as any).__motion = { gsap, ScrollTrigger };
 
 /* fonts and lazy images shift layout; recalc once they settle */

@@ -5,6 +5,9 @@ import '../styles/components.css';
 import { businessName, phone, phoneHref, email, serviceAreas } from '../data/brief';
 import { MARKETS } from '../data/markets';
 import { SERVICES } from '../data/services';
+import { Image } from 'astro:assets';
+import logo from '../assets/brand/logo.png';
+import logoRev from '../assets/brand/logo-reverse.png';
 
 interface Props {
   title: string;
@@ -13,8 +16,10 @@ interface Props {
   answer?: { question: string; answer: string };
   /** Visible breadcrumbs are mirrored into BreadcrumbList on every programmatic tier. */
   crumbs?: { name: string; item: string }[];
+  /** e.g. "noindex" for /thanks/ and 404 — never on a money page. */
+  robots?: string;
 }
-const { title, description, answer, crumbs } = Astro.props;
+const { title, description, answer, crumbs, robots } = Astro.props;
 const canonical = new URL(Astro.url.pathname, Astro.site).href;
 
 const graph: any[] = [
@@ -68,10 +73,16 @@ if (crumbs?.length) {
 <meta name="description" content={description} />
 <link rel="canonical" href={canonical} />
 <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+<meta name="theme-color" content="#0E0E0C" />
+{robots && <meta name="robots" content={robots} />}
 <meta property="og:title" content={title} />
 <meta property="og:description" content={description} />
 <meta property="og:type" content="website" />
 <meta property="og:url" content={canonical} />
+<meta property="og:image" content={new URL('/brand/og.jpg', Astro.site).href} />
+<meta property="og:site_name" content={businessName} />
+<meta name="twitter:card" content="summary_large_image" />
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=Instrument+Sans:wght@400;500;600&display=swap" />
@@ -88,17 +99,63 @@ if (crumbs?.length) {
 
   <header class="chrome">
     <div class="chrome__in">
-      <a class="chrome__mark" href="/">
-        <span class="chrome__name">{businessName}</span>
+      <a class="chrome__mark" href="/" aria-label={`${businessName} — home`}>
+        <Image src={logo} alt="" width={140} densities={[1, 2]} class="chrome__logo" loading="eager" />
+        <span class="chrome__name" aria-hidden="true"><b>TIMELESS</b><small>Grass &amp; Greens</small></span>
       </a>
+      <nav class="nav" aria-label="Primary">
+        <ul class="nav__list">
+          <li class="nav__item nav__item--has-sub">
+            <a href="/services/">What we install</a>
+            <ul class="nav__sub">{SERVICES.map((sv) => <li><a href={`/services/${sv.slug}/`}>{sv.name}</a></li>)}</ul>
+          </li>
+          <li class="nav__item nav__item--has-sub">
+            <a href="/#markets">Where we work</a>
+            <ul class="nav__sub">{MARKETS.map((m) => <li><a href={`/${m.slug}/`}>{m.name}</a></li>)}</ul>
+          </li>
+          <li class="nav__item"><a href="/guides/">Turf rules</a></li>
+          <li class="nav__item nav__item--cta"><a class="btn btn--ghost" href="/#quote" data-cta="quote-nav">Get a written number</a></li>
+        </ul>
+      </nav>
       {phoneHref && (
         <a class="chrome__tel" href={phoneHref} data-cta="call-header">
           <span class="chrome__tel-lbl">Call</span>
           <span class="chrome__tel-num">{phone}</span>
         </a>
       )}
+      <button class="chrome__menu" type="button" aria-expanded="false" aria-controls="menu" data-menu-toggle>
+        <span class="chrome__menu-ico" aria-hidden="true"></span><span class="chrome__menu-lbl">Menu</span>
+      </button>
     </div>
   </header>
+
+  <div class="menu mown-stripe mown-stripe--dark" id="menu" hidden>
+    <div class="menu__in">
+      <div class="menu__head">
+        <Image src={logoRev} alt={businessName} width={160} densities={[1, 2]} class="menu__logo" loading="lazy" />
+        <button class="menu__close" type="button" data-menu-toggle>Close</button>
+      </div>
+      <nav class="menu__nav" aria-label="Menu">
+        <div>
+          <p class="micro">What we install</p>
+          <ul>{SERVICES.map((sv) => <li><a href={`/services/${sv.slug}/`}>{sv.name}</a></li>)}</ul>
+        </div>
+        <div>
+          <p class="micro">Where we work</p>
+          <ul>{MARKETS.map((m) => <li><a href={`/${m.slug}/`}>{m.name}</a></li>)}</ul>
+        </div>
+        <div>
+          <p class="micro">The rules</p>
+          <ul><li><a href="/guides/">Turf rules by state</a></li></ul>
+        </div>
+      </nav>
+      <div class="menu__cta">
+        {phoneHref && <a class="btn btn--primary btn--lg" href={phoneHref} data-cta="call-menu">Call {phone}</a>}
+        <a class="btn btn--ghost btn--lg" href="/#quote" data-cta="quote-menu">Get a written number</a>
+      </div>
+      <p class="menu__foot">Denver Metro · The Grand Strand · Northeast Florida</p>
+    </div>
+  </div>
 
   <main id="main">
     <slot />
@@ -106,6 +163,7 @@ if (crumbs?.length) {
 
   <footer class="foot mown-stripe mown-stripe--dark">
     <div class="foot__in">
+      <Image src={logoRev} alt="" width={220} densities={[1, 2]} class="foot__logo" loading="lazy" />
       <p class="foot__name">{businessName}</p>
       <nav class="foot__nav" aria-label="Footer">
         <div>
