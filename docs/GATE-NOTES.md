@@ -75,15 +75,12 @@ intro never completes. Verified: with rAF dead the page renders fully visible.
 Verify motion in a real browser: the Playwright MCP server, or `npx playwright
 install chromium` for the gstack `browse` binary (it is missing its headless shell).
 
-## 9. Playwright screenshots of the homepage time out at 5s
+## 9. Playwright screenshots hung — resolved: it was window occlusion (see §10)
 
-Five attempts: with the GSAP ticker asleep, with every ScrollTrigger disabled, and
-with both `backdrop-filter` rules stripped at runtime — it still hangs after "fonts
-loaded". Not the animation loop, not backdrop-filter. Cause unknown; the page renders
-fine in a real tab. **Retired.** Do not spend more rounds on it.
-
-Everything else is verifiable by `browser_evaluate`: reveals, count-ups, pin state,
-wipe clip-path, strip transform/scrollLeft, tap-target heights. Prefer that.
+Five attempts hung after "fonts loaded" regardless of GSAP/ScrollTrigger/backdrop-filter.
+Cause: the Playwright window was occluded, so the compositor produced no frame for the
+capture to wait on. After `page.bringToFront()` a viewport screenshot returns in ~130ms
+and full-page captures work. Same fix as §10; measure `rafPerSec` first, then capture.
 
 ## 10. Playwright's Chromium runs rAF at 1Hz when its window is occluded — every GSAP tween crawls
 
