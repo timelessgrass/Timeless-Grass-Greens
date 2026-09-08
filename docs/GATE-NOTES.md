@@ -77,12 +77,32 @@ install chromium` for the gstack `browse` binary (it is missing its headless she
 
 ## 9. Playwright screenshots of the homepage time out at 5s
 
-Four attempts, including with the GSAP ticker asleep and every ScrollTrigger
-disabled — so it is not the animation loop. Console shows "fonts loaded" then the
-capture hangs. Most likely `backdrop-filter: blur()` on `.chrome` (sticky header) and
-`.hero__eyebrow`, a known headless-Chromium capture stall. Not worth fixing for the
-site's sake — it renders fine in a real tab. If a capture is ever needed for tooling,
-temporarily strip those two `backdrop-filter` rules or test with them removed first.
+Five attempts: with the GSAP ticker asleep, with every ScrollTrigger disabled, and
+with both `backdrop-filter` rules stripped at runtime — it still hangs after "fonts
+loaded". Not the animation loop, not backdrop-filter. Cause unknown; the page renders
+fine in a real tab. **Retired.** Do not spend more rounds on it.
 
 Everything else is verifiable by `browser_evaluate`: reveals, count-ups, pin state,
 wipe clip-path, strip transform/scrollLeft, tap-target heights. Prefer that.
+
+## 10. Playwright's Chromium runs rAF at 1Hz when its window is occluded — every GSAP tween crawls
+
+Measured: `visibilityState: "visible"`, `document.hasFocus(): true`, and **1 rAF per
+second**. Playwright launches with `--disable-backgrounding-occluded-windows`, so an
+occluded window keeps reporting visible while Chromium throttles BeginFrames to 1Hz.
+GSAP's default `lagSmoothing(500, 33)` then advances the timeline only 33ms per tick:
+a 1.4s count-up takes ~40s, the hero intro cannot finish inside 4s, and the safety net
+strips `html.js-motion` — the page shows itself, as designed, but every "tween stuck at
+partial opacity" reading is an artefact of the harness, not the site.
+
+That was the real cause behind the sub-page reveal "failure" first pinned on
+`overwrite: true`. The class-based reveal (`[data-reveal]` → `.is-in`, CSS transition)
+stays because it does not depend on the ticker at all — it passed under the same 1Hz
+starvation that froze the tweens.
+
+Rule: **before reading any GSAP end-state, measure `rafPerSec` in the page.** If it is
+not ~60, call `page.bringToFront()` (`browser_run_code_unsafe` passes `page` as the sole
+argument: `async (page) => { await page.bringToFront(); ... }`) and re-measure;
+only then trust intro/count-up/pin readings. CSS-transition effects can be read either way.
+Note 9's screenshot hang is almost certainly the same occlusion — a capture waits on a
+compositor frame that never comes.

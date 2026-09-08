@@ -15,7 +15,7 @@ const EASE = 'expo.out'; // the single curve. tokens.css: cubic-bezier(.16,1,.3,
 const html = document.documentElement;
 
 /* Nothing is hidden until the ticker proves it is alive. The hidden start states live in
-   CSS under html.js-motion (home.css); if the intro has not finished within 4s — throttled
+   CSS under html.js-motion (components.css); if the intro has not finished within 4s — throttled
    background tab, blocked chunk, ancient device — the class comes off and the page shows
    itself. A blank page is the one failure mode we refuse. */
 let introDone = false;
@@ -42,15 +42,17 @@ gsap.matchMedia().add('(prefers-reduced-motion: no-preference)', () => {
     scrollTrigger: { trigger: '.hero', start: 'top top', end: 'bottom top', scrub: true },
   });
 
-  /* ---- 2. reveals: CSS holds the hidden state; we animate to rest once -------- */
+  /* ---- 2. reveals: ScrollTrigger only adds a class; CSS transitions do the rest --
+     A GSAP tween here could be killed mid-flight (seen: staggered batch tweens
+     frozen at partial opacity). A class is idempotent, survives refresh, and the
+     safety net still reveals everything by removing html.js-motion. */
   ScrollTrigger.batch('[data-reveal]', {
     start: 'top 86%',
     once: true,
-    onEnter: (els) => gsap.to(els, { y: 0, opacity: 1, duration: .9, ease: EASE, stagger: .09, overwrite: true }),
+    onEnter: (els) => els.forEach((el, i) => setTimeout(() => el.classList.add('is-in'), i * 90)),
   });
 
   /* ---- 3. count-ups on TRUE numbers only ------------------------------------- */
-  if (document.querySelector('[data-reveal]') === null && document.querySelector('[data-count]') === null) { /* nothing to animate on this page */ }
   document.querySelectorAll<HTMLElement>('[data-count]').forEach((el) => {
     const end = Number(el.dataset.count);
     const suffix = el.dataset.suffix ?? '';

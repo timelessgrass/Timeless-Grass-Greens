@@ -57,7 +57,7 @@ Grep the built CSS for a second `cubic-bezier` before shipping.
 | Effect | Hook | Where |
 |---|---|---|
 | Rise on load | `.hero--home` lines | homepage only |
-| Reveal once on enter | `[data-reveal]` | every page |
+| Reveal once on enter | `[data-reveal]` → `.is-in` | every page — ScrollTrigger adds the class, a CSS transition on `translate` does the motion |
 | Count-up on **true** numbers | `[data-count]` | ships the final number in HTML |
 | Ken-burns on scroll | `.hero__img` | any hero with an image |
 | Gallery drift | `.strip__track` | wide + pointer only; narrow/touch gets native swipe |

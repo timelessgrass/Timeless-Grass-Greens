@@ -1,4 +1,0 @@
-[  768964ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:4321/src/styles/home.css?t=1788898219534:0
-[  768965ms] [ERROR] [vite] Failed to reload /src/styles/home.css. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:4321/@vite/client:1613
-[  768966ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:4321/src/styles/sections.css?t=1788898219534:0
-[  768966ms] [ERROR] [vite] Failed to reload /src/styles/sections.css. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:4321/@vite/client:1613

@@ -31,3 +31,6 @@ archive/
 # design exploration scratch — not part of the site
 public/_design/
 .gstack/
+
+# Playwright MCP page snapshots (test scratch)
+.playwright-mcp/
