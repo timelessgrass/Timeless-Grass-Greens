@@ -38,7 +38,7 @@ export const SERVICES: Service[] = [
         ] },
       { h2: 'Break, if you want it, is designed',
         body: [
-          'A flat green gets boring in a fortnight. Slope that was not planned gets frustrating in a day. We set break where you want to practise it and keep the rest true, then tell you where the ball will do something surprising before you find out yourself.',
+          'A flat green gets boring in a fortnight. Slope that was not planned gets frustrating in a day. We set break where you want to practice it and keep the rest true, then tell you where the ball will do something surprising before you find out yourself.',
         ] },
       { h2: 'The fringe is where installs come apart',
         body: [
@@ -73,12 +73,12 @@ export const SERVICES: Service[] = [
     slug: 'pet-turf',
     name: 'Pet turf',
     title: 'Pet Turf Installation | TIMELESS Grass & Greens',
-    description: `Pet turf that drains instead of holding odour. The infill and the base do that work, not a spray. Three markets. Call ${P}.`,
+    description: `Pet turf that drains instead of holding odor. The infill and the base do that work, not a spray. Three markets. Call ${P}.`,
     h1: 'Pet turf.',
-    lede: 'Odour is a drainage failure, not a turf failure. It is fixed underneath.',
+    lede: 'Odor is a drainage failure, not a turf failure. It is fixed underneath.',
     answer: {
       question: 'Does pet turf smell?',
-      answer: `Only if the base cannot drain. Urine passes through the turf; what holds odour is infill that stays wet over a base compacted without a drainage layer. TIMELESS Grass & Greens builds pet installs with a different infill and a base designed to move liquid. Pet turf in three markets. Call ${P}.`,
+      answer: `Only if the base cannot drain. Urine passes through the turf; what holds odor is infill that stays wet over a base compacted without a drainage layer. TIMELESS Grass & Greens builds pet installs with a different infill and a base designed to move liquid. Pet turf in three markets. Call ${P}.`,
     },
     sections: [
       { h2: 'Where the smell actually comes from',

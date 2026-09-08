@@ -75,7 +75,7 @@ export const GUIDES: Guide[] = [
       {
         "h2": "What we checked, and what we will not claim",
         "body": [
-          "We have not confirmed whether any Denver-metro municipality or district has used that more-stringent power against functional artificial turf as well. It is a code-by-code question, and we ask for the adopted text in writing before we quote a commercial job rather than summarising a document we have not read.",
+          "We have not confirmed whether any Denver-metro municipality or district has used that more-stringent power against functional artificial turf as well. It is a code-by-code question, and we ask for the adopted text in writing before we quote a commercial job rather than summarizing a document we have not read.",
           "State grant money will not pay for artificial turf. C.R.S. 37-60-135, the Turf Replacement Program statute, excludes artificial turf by name from what the money may be spent on; the Colorado Water Conservation Board stopped accepting applications in March 2025; and single-family homeowners and HOAs were never eligible applicants in the first place. Any rebate still running belongs to your water provider, not the state, and providers differ on whether synthetic counts."
         ]
       },
@@ -213,7 +213,7 @@ export const GUIDES: Guide[] = [
       {
         "h2": "Where the North Carolina exemption stops: the 30-foot buffer",
         "body": [
-          "The exemption is not a licence to lay turf anywhere in North Carolina. In September 2021 the Coastal Resources Commission voted 10 to 1 to prohibit artificial turf within the 30-foot coastal shoreline buffer.",
+          "The exemption is not a license to lay turf anywhere in North Carolina. In September 2021 the Coastal Resources Commission voted 10 to 1 to prohibit artificial turf within the 30-foot coastal shoreline buffer.",
           "CAMA jurisdiction turns on location, not activity. Under 15A NCAC 07H .0209(a) the estuarine shorelines AEC runs 75 feet landward of normal high water or normal water level, and 575 feet where immediately contiguous to Outstanding Resource Waters. Inside it, .0209(d)(2) caps impervious surfaces at 30 percent of the AEC area of the lot, unless the applicant can demonstrate through innovative design that the protection provided would equal or exceed the protection by that 30 percent limitation. Excavation, filling, and clearing or alteration of land as an adjunct of construction all fall inside the CAMA definition of development, so in an AEC a CAMA permit comes before the first shovel.",
           "And there is a real open question we will not paper over. G.S. 143-214.7D(b) is written for the purposes of implementing State or local government stormwater programs. The 30 percent AEC cap is a Coastal Resources Commission use standard, not a stormwater program. Nothing in the sources on this page settles whether the turf exemption reaches it, so on an AEC lot we get a written determination before we quote."
         ]
@@ -533,14 +533,14 @@ export const GUIDES: Guide[] = [
         "h2": "The trade you are making with sand",
         "body": [
           "Sand is not a free win. A 2020 laboratory study in Sports Health measured how long MRSA stayed viable in turf systems. Time to 50% loss of viability was 2 hours on EPDM rubber, 12 hours on crumb rubber, 13 hours on TPE and 27 hours on sand. The material Florida requires held the organism longest of everything tested.",
-          "On a family lawn that is a reason to rinse, not to panic. On a pet run, a daycare or an indoor facility it is a reason to write a sanitising schedule into the job. The rule's allowed list ends at \"other natural material\", so organic infill is worth raising with whoever reviews your job — the Jaguars' indoor practice field at the Miller Electric Center uses coconut fibre and cork, reported to cut surface temperature by up to 40°F. That figure is reported rather than independently measured, and an indoor professional facility is not a back yard."
+          "On a family lawn that is a reason to rinse, not to panic. On a pet run, a daycare or an indoor facility it is a reason to write a sanitizing schedule into the job. The rule's allowed list ends at \"other natural material\", so organic infill is worth raising with whoever reviews your job — the Jaguars' indoor practice field at the Miller Electric Center uses coconut fiber and cork, reported to cut surface temperature by up to 40°F. That figure is reported rather than independently measured, and an indoor professional facility is not a back yard."
         ]
       },
       {
         "h2": "What we can confirm, and what needs a phone call",
         "body": [
           "The rule is adopted and in force. The Florida Administrative Code record for 62-308.100 gives an effective date of 5/19/2026 with the history note \"History–New 5-19-26\", and the adopted document carries the infill paragraph quoted above word for word. The Notice of Change during rulemaking recorded \"(2) No change\" against the proposed version, so the material-type and infill paragraphs reached adoption as published.",
-          "What we cannot tell you from a desk: whether your city or county has adopted its own turf ordinance alongside the state minimum, and whether your HOA or CDD documents mention infill at all. Those are phone calls, and we make them per address before quoting. Strike one thing off the list now — nobody can sell you turf as Florida-Friendly Landscaping. The UF/IFAS publication defining that programme says, \"Because synthetic turf is not alive, it does not meet the criteria of a plant choice for an FFL landscape.\" To have your infill specified against the rule instead of a brochure, call 303-349-2368."
+          "What we cannot tell you from a desk: whether your city or county has adopted its own turf ordinance alongside the state minimum, and whether your HOA or CDD documents mention infill at all. Those are phone calls, and we make them per address before quoting. Strike one thing off the list now — nobody can sell you turf as Florida-Friendly Landscaping. The UF/IFAS publication defining that program says, \"Because synthetic turf is not alive, it does not meet the criteria of a plant choice for an FFL landscape.\" To have your infill specified against the rule instead of a brochure, call 303-349-2368."
         ]
       }
     ],
@@ -555,11 +555,11 @@ export const GUIDES: Guide[] = [
       },
       {
         "q": "Is silica sand infill safe for dogs?",
-        "a": "It is what the rule requires, and it puts no rubber in the yard. But it is not sterile: in a 2020 laboratory study MRSA stayed viable in sand infill more than twice as long as in crumb rubber — 27 hours to 50% loss of viability against 12. On a pet run, budget for rinsing and a written sanitising schedule. Hosing also cools the surface sharply for a short while — 174°F to 85°F in the measured run, but 120°F again after five minutes and 164°F after twenty."
+        "a": "It is what the rule requires, and it puts no rubber in the yard. But it is not sterile: in a 2020 laboratory study MRSA stayed viable in sand infill more than twice as long as in crumb rubber — 27 hours to 50% loss of viability against 12. On a pet run, budget for rinsing and a written sanitizing schedule. Hosing also cools the surface sharply for a short while — 174°F to 85°F in the measured run, but 120°F again after five minutes and 164°F after twenty."
       },
       {
         "q": "Does cooling infill actually work?",
-        "a": "It helps a little and solves nothing. Infill swaps measured 3.2°C to 7.9°C in the published comparisons, and Florida's rule takes synthetic infill off residential lawns anyway; coated silica sand is allowed if the coating is non-toxic. Measured against natural grass, one proprietary cooling turf still averaged 33.7°C hotter and a cool-fibre product 12.5°C hotter. Penn State found mixing 20% calcined clay into infill to hold moisture \"did not reduce surface temperature\". Shade was worth about 25°C."
+        "a": "It helps a little and solves nothing. Infill swaps measured 3.2°C to 7.9°C in the published comparisons, and Florida's rule takes synthetic infill off residential lawns anyway; coated silica sand is allowed if the coating is non-toxic. Measured against natural grass, one proprietary cooling turf still averaged 33.7°C hotter and a cool-fiber product 12.5°C hotter. Penn State found mixing 20% calcined clay into infill to hold moisture \"did not reduce surface temperature\". Shade was worth about 25°C."
       }
     ],
     "sources": [
@@ -595,7 +595,7 @@ export const GUIDES: Guide[] = [
       },
       {
         "label": "Singh, Peterson, Jay & Stevens (2024), PRISMA systematic review of 23 studies, International Journal of Biometeorology 68:1235-1252",
-        "cite": "Petrass et al.: SBR crumb rubber infill 53.5°C vs TPE 45.6°C (p<0.001). Villacañas et al.: SBR 61.2°C ± 6.5 vs TPE 58.0°C ± 5.0 (p<0.001). Sand/organic infill plot 48.1°C. Pfautsch et al.: 30 mm fibres 57.5°C in sun vs 32.2°C in shade (maxima 80.1°C and 42.1°C). Albedo 6.9% synthetic vs 12.6% natural grass; latent heat flux 113 W/m² ± 3.0 over natural grass vs 58 W/m² ± 1.2 over synthetic. Air temperature only 0.5-1.2°C higher over synthetic; WBGT differences not significant. HydroChill turf 67.0°C ± 10.7 vs natural grass 33.3°C ± 1.1; \"cool climate\" fibres 40.1°C ± 12.8 vs natural grass 27.6°C ± 7.4.",
+        "cite": "Petrass et al.: SBR crumb rubber infill 53.5°C vs TPE 45.6°C (p<0.001). Villacañas et al.: SBR 61.2°C ± 6.5 vs TPE 58.0°C ± 5.0 (p<0.001). Sand/organic infill plot 48.1°C. Pfautsch et al.: 30 mm fibers 57.5°C in sun vs 32.2°C in shade (maxima 80.1°C and 42.1°C). Albedo 6.9% synthetic vs 12.6% natural grass; latent heat flux 113 W/m² ± 3.0 over natural grass vs 58 W/m² ± 1.2 over synthetic. Air temperature only 0.5-1.2°C higher over synthetic; WBGT differences not significant. HydroChill turf 67.0°C ± 10.7 vs natural grass 33.3°C ± 1.1; \"cool climate\" fibers 40.1°C ± 12.8 vs natural grass 27.6°C ± 7.4.",
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11272752/",
         "checked": "2026-09-07"
       },
@@ -613,7 +613,7 @@ export const GUIDES: Guide[] = [
       },
       {
         "label": "Sports Health (2020) — laboratory study of MRSA survival in synthetic turf systems",
-        "cite": "MRSA recoverable up to 96 hours on infill and 24 hours on fibres (p<0.001). Time to 50% loss of viability by infill: EPDM rubber 2 hours, cork-based 7, polymer-coated 9, crumb rubber 12, TPE rubber 13, sand 27 hours.",
+        "cite": "MRSA recoverable up to 96 hours on infill and 24 hours on fibers (p<0.001). Time to 50% loss of viability by infill: EPDM rubber 2 hours, cork-based 7, polymer-coated 9, crumb rubber 12, TPE rubber 13, sand 27 hours.",
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7222665/",
         "checked": "2026-09-07"
       },
@@ -665,7 +665,7 @@ export const GUIDES: Guide[] = [
         "body": [
           "Fla. Stat. 720.3045 is the one to cite. \"Regardless of any covenants, restrictions, bylaws, rules, or requirements of an association, and unless prohibited by general law or local ordinance, an association may not restrict parcel owners or their tenants from installing, displaying, or storing any items on a parcel which are not visible from the parcel's frontage or an adjacent parcel, an adjacent common area, or a community golf course, including, but not limited to, artificial turf...\"",
           "That is a back-yard right, not a front-yard right. The test is visibility. If your turf can be seen from the street, from next door, from a common area or from a community golf course, s. 720.3045 does not help. On a lot that faces a fairway — Ponte Vedra, Nocatee, World Golf Village — that golf-course clause is usually what decides the job.",
-          "Behind a privacy fence it is strong. A rear-yard putting green or a fenced pet run no neighbour can see sits squarely inside the protection. We tell you which category your yard is in before we quote it."
+          "Behind a privacy fence it is strong. A rear-yard putting green or a fenced pet run no neighbor can see sits squarely inside the protection. We tell you which category your yard is in before we quote it."
         ]
       },
       {
@@ -673,14 +673,14 @@ export const GUIDES: Guide[] = [
         "body": [
           "HB 683 (2025), chapter 2025-140, created Fla. Stat. 125.572. It bars a local government from enforcing any ordinance that prohibits compliant synthetic turf on single-family residential property — but only once the Department of Environmental Protection adopted standards. DEP did: Rule 62-308.100, F.A.C., effective 19 May 2026. Since that date, a city or county ordinance banning compliant turf on a single-family lot of one acre or less runs into that preemption.",
           "Homeowners read that as \"the state overrode my HOA.\" It did not. DEP's own FAQ answers it in a line: \"Does this rule regulate Homeowners' Associations (HOAs) or private deed restrictions? No. This rule does not address HOA requirements, deed restrictions or other private property agreements.\" The same FAQ confirms the rule reaches only single-family property of one acre or less — not condominiums, duplexes, parks, athletic fields or commercial property.",
-          "A second limit matters more here than almost anywhere in Florida. SB 1180 (2026), chapter 2026-164, added s. 125.572(3)(b): the preemption \"does not apply to the adoption or enforcement of any resolution, order, rule, or policy by a community development district to enforce deed restrictions.\" Effective 1 July 2026. Around Nocatee that makes one question the first one, not the last: which community development district governs your neighbourhood, and what does it enforce?"
+          "A second limit matters more here than almost anywhere in Florida. SB 1180 (2026), chapter 2026-164, added s. 125.572(3)(b): the preemption \"does not apply to the adoption or enforcement of any resolution, order, rule, or policy by a community development district to enforce deed restrictions.\" Effective 1 July 2026. Around Nocatee that makes one question the first one, not the last: which community development district governs your neighborhood, and what does it enforce?"
         ]
       },
       {
         "h2": "St. Johns County and Nocatee: where the gate actually is",
         "body": [
           "The county is not the obstacle. A full-text search of the consolidated St. Johns County Land Development Code, edition of 4 March 2025, returns zero occurrences of \"artificial turf,\" \"synthetic turf,\" \"artificial grass\" or \"synthetic grass.\" The county's impervious surface definition covers \"any Building, concrete, pools, wet retention/detention areas, pavement or compacted materials utilized for parking or roadways\" — a lawn is neither.",
-          "Nocatee's standards are private instruments, and there is no single Nocatee-wide architectural board. Nocatee publishes a directory of more than fifty separate neighbourhood associations — Cypress Trails, Del Webb Nocatee, Seabrook Village, The Settlement at Twenty Mile and dozens more — each with its own documents and its own review process. There is no one approval to win.",
+          "Nocatee's standards are private instruments, and there is no single Nocatee-wide architectural board. Nocatee publishes a directory of more than fifty separate neighborhood associations — Cypress Trails, Del Webb Nocatee, Seabrook Village, The Settlement at Twenty Mile and dozens more — each with its own documents and its own review process. There is no one approval to win.",
           "We read one of those manuals end to end: the Cypress Trails at Nocatee Architectural Review Manual, revision 05-06-2020. It contains no reference to artificial turf anywhere. It does require that \"Changes to rear yard and side yard landscaping must be submitted and approved,\" and that \"All landscape beds and sod should be fully irrigated with an automatic irrigation system.\" A blanket irrigation requirement written for beds and sod is worth settling with the board in writing before the turf goes down, not after."
         ]
       },
@@ -696,7 +696,7 @@ export const GUIDES: Guide[] = [
         "h2": "What we could not verify, and will not claim",
         "body": [
           "We could not locate a Florida appellate or trial decision construing s. 373.185 or s. 720.3075(4) as applied to artificial turf. The reading above rests on statutory text and UF/IFAS materials, not on a judicial holding.",
-          "We have not confirmed whether any community development district in the Nocatee area enforces deed restrictions bearing on synthetic turf — the fact that would activate the s. 125.572(3)(b) carve-out. That question goes to the district manager before we quote a Nocatee job. And of the fifty-plus neighbourhood associations in Nocatee's own directory, we have read one architectural manual; we will not guess at the rest.",
+          "We have not confirmed whether any community development district in the Nocatee area enforces deed restrictions bearing on synthetic turf — the fact that would activate the s. 125.572(3)(b) carve-out. That question goes to the district manager before we quote a Nocatee job. And of the fifty-plus neighborhood associations in Nocatee's own directory, we have read one architectural manual; we will not guess at the rest.",
           "The Synthetic Turf Council's own Florida page agrees with this page: state law and the DEP rule \"do NOT directly override private HOA covenants or restrictions.\" Marketing pages telling you s. 373.185 covers artificial turf are wrong on the text, and a homeowner who believes them risks an architectural violation."
         ]
       }
@@ -782,8 +782,8 @@ export const GUIDES: Guide[] = [
         "checked": "2026-09-07"
       },
       {
-        "label": "Nocatee neighbourhood HOA directory",
-        "cite": "Nocatee, Homeowners Association Websites (directory of 50+ neighbourhood associations)",
+        "label": "Nocatee neighborhood HOA directory",
+        "cite": "Nocatee, Homeowners Association Websites (directory of 50+ neighborhood associations)",
         "url": "https://www.nocatee.com/homeowners-association-websites",
         "checked": "2026-09-07"
       },
@@ -809,7 +809,7 @@ export const GUIDES: Guide[] = [
       },
       {
         "q": "Does the new Florida turf law override my HOA in Nocatee?",
-        "a": "No. Fla. Stat. 125.572 and DEP Rule 62-308.100 run against city and county government, not private covenants — DEP's FAQ says the rule \"does not address HOA requirements, deed restrictions or other private property agreements.\" And from 1 July 2026, s. 125.572(3)(b) puts a community development district enforcing deed restrictions outside the preemption altogether. Around Nocatee, find out which district governs your neighbourhood before you count on state law at all."
+        "a": "No. Fla. Stat. 125.572 and DEP Rule 62-308.100 run against city and county government, not private covenants — DEP's FAQ says the rule \"does not address HOA requirements, deed restrictions or other private property agreements.\" And from 1 July 2026, s. 125.572(3)(b) puts a community development district enforcing deed restrictions outside the preemption altogether. Around Nocatee, find out which district governs your neighborhood before you count on state law at all."
       },
       {
         "q": "Is artificial turf Florida-Friendly Landscaping?",
@@ -848,7 +848,7 @@ export const GUIDES: Guide[] = [
       {
         "h2": "Attached or detached changes the answer",
         "body": [
-          "SB23-178, signed 17 May 2023 and effective 7 August 2023, split the protection by housing type, so two neighbours can get different answers. Attached single-family — your home shares a wall — stays under 38-33.3-106.5(1)(i), which that act narrowed to attached homes. Detached single-family got a subsection of its own, 38-33.3-106.5(1)(i.5).",
+          "SB23-178, signed 17 May 2023 and effective 7 August 2023, split the protection by housing type, so two neighbors can get different answers. Attached single-family — your home shares a wall — stays under 38-33.3-106.5(1)(i), which that act narrowed to attached homes. Detached single-family got a subsection of its own, 38-33.3-106.5(1)(i.5).",
           "For detached homes, (1)(i.5) is where the detail lives. Association guidelines must not prohibit nonvegetative turf grass in the backyard; must not unreasonably require hardscape on more than twenty percent of the landscaping area; and must allow an option consisting of at least eighty percent drought-tolerant plantings. Associations must also preapprove at least three preplanned front-yard garden designs — which is a duty about what the board has to offer, not a right you have to lay synthetic grass out front.",
           "The working rule is short. <strong>Back yard, yes. Front yard, ask.</strong> And three carve-outs survive either way: bona fide safety requirements, fire buffers and defensible space, and existing grading and drainage."
         ]
@@ -866,7 +866,7 @@ export const GUIDES: Guide[] = [
           "SB24-005 created Article 99 of Title 37. HB25-1113 — signed 20 May 2025, effective 6 August 2025 — amended 37-99-103(1) to insert NONFUNCTIONAL before \"artificial turf\". What that section bars a local entity from installing, or from allowing anyone else to install, as part of a new development or redevelopment project is nonfunctional artificial turf.",
           "\"Applicable property\" at 37-99-102(1) reaches common interest community property, defined at 37-99-102(5) as property inside a common interest community that the unit owners' association owns and maintains. That is the HOA's land, not your lot. And \"local entity\" at 37-99-102(9) includes metropolitan districts.",
           "Everything then turns on a line Article 99 draws in its definitions: <strong>functional artificial turf</strong> at 37-99-102(6.5), nonfunctional artificial turf at 37-99-102(12.5). Which side of that line a board's project lands on decides whether the section touches it at all, and those two definitions are where it is decided.",
-          "Two limits favour a board: a redevelopment project only counts if it disturbs more than fifty percent of the aggregate landscape area, per 37-99-102(14), and 37-99-103(4)(a) grandfathers what was already installed. One does not: 37-99-103(4)(d) lets a local entity go more stringent than the state floor. Whether any Denver metro town or district has done so, we have not established."
+          "Two limits favor a board: a redevelopment project only counts if it disturbs more than fifty percent of the aggregate landscape area, per 37-99-102(14), and 37-99-103(4)(a) grandfathers what was already installed. One does not: 37-99-103(4)(d) lets a local entity go more stringent than the state floor. Whether any Denver metro town or district has done so, we have not established."
         ]
       },
       {
@@ -874,7 +874,7 @@ export const GUIDES: Guide[] = [
         "body": [
           "On multifamily of more than twelve dwelling units the guidance conflicts, and we are not going to pick a side. The Colorado Division of Real Estate's 2025 HOA Forum summary reads HB25-1113 as biting on 1 January 2026; Western Resource Advocates reads the multifamily obligation as a 1 January 2028 deadline. Ask your municipality which date it has adopted.",
           "Castle Pines Village is the cleanest illustration in the metro: a gated, unincorporated community of 2,850 acres with 4,327 residents at the 2020 census, served by both the Castle Pines Homes Association and the Castle Pines Metropolitan District. Your lot answers to CCIOA and the backyard protection. The district's common landscaping answers to Article 99, because a metropolitan district is a local entity under 37-99-102(9). Same gate, two statutes.",
-          "Even where the covenant clears, the rebate often does not. Of the four Denver metro programmes we checked, three exclude artificial turf outright. Centennial Water and Sanitation District, serving Highlands Ranch, states that \"Artificial turf replacements are no longer eligible for rebate.\" The Town of Erie's 2026 programme opens with \"Artificial Turf is not eligible for this rebate.\" Denver Water lists artificial turf among the designs it will not fund on HOA and commercial projects. The fourth, Thornton Water, does pay — up to $2 per square foot, lifetime maximum $2,000 per residential lot — and its own HOA page still tells you to get association approval."
+          "Even where the covenant clears, the rebate often does not. Of the four Denver metro programs we checked, three exclude artificial turf outright. Centennial Water and Sanitation District, serving Highlands Ranch, states that \"Artificial turf replacements are no longer eligible for rebate.\" The Town of Erie's 2026 program opens with \"Artificial Turf is not eligible for this rebate.\" Denver Water lists artificial turf among the designs it will not fund on HOA and commercial projects. The fourth, Thornton Water, does pay — up to $2 per square foot, lifetime maximum $2,000 per residential lot — and its own HOA page still tells you to get association approval."
         ]
       }
     ],
@@ -948,7 +948,7 @@ export const GUIDES: Guide[] = [
       },
       {
         "label": "Thornton Water, HOA rebates and free services",
-        "cite": "Rebate rules require HOA approval where applicable; summarises HB21-1229 as allowing regulation of non-vegetative turf in backyard areas of units.",
+        "cite": "Rebate rules require HOA approval where applicable; summarizes HB21-1229 as allowing regulation of non-vegetative turf in backyard areas of units.",
         "url": "https://www.thorntonwater.com/hoa-rebates-and-free-services/",
         "checked": "2026-09-07"
       },
@@ -1101,7 +1101,7 @@ export const GUIDES: Guide[] = [
       },
       {
         "label": "N.C. Gen. Stat. Chapter 89G — Irrigation Contractors",
-        "cite": "89G-3(5) exempts irrigation construction or contracting work \"where the price of all contracts for labor, material, and other items for a given jobsite is less than two thousand five hundred dollars ($2,500).\" G.S. 89D-12(b)(4) confirms the landscape contractor chapter does not authorise irrigation contracting.",
+        "cite": "89G-3(5) exempts irrigation construction or contracting work \"where the price of all contracts for labor, material, and other items for a given jobsite is less than two thousand five hundred dollars ($2,500).\" G.S. 89D-12(b)(4) confirms the landscape contractor chapter does not authorize irrigation contracting.",
         "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_89G.html",
         "checked": "2026-09-07"
       },
@@ -1419,7 +1419,7 @@ export const GUIDES: Guide[] = [
         "h2": "The metro's turf rebates almost all exclude artificial turf",
         "body": [
           "Across the Denver metro, turf-removal rebates almost universally exclude artificial turf. Five providers say so in writing on their own pages: Denver Water, Aurora Water, Castle Rock Water, the Town of Erie and Centennial Water in Highlands Ranch. A sixth, Castle Pines North, names artificial turf nowhere at all but requires roughly half the design to be living plant material, so it is excluded there by implication rather than by name. The one provider we found that pays for artificial turf is the City of Thornton.",
-          "That is not a paperwork accident. These are water-conservation programmes with a landscape policy attached. Most of the metro delivers its rebate through Resource Central, the Boulder nonprofit that runs lawn replacement for more than thirty Front Range providers, Denver Water, Aurora, Boulder, Castle Rock, Erie, Highlands Ranch, Parker and Thornton among them. One rule governs all of it: <em>\"Project areas must be at least 200 square feet and replaced with at least 50% waterwise plants.\"</em> Artificial turf is not a waterwise plant. Most of it is also shut for the year: Resource Central closed 2026 applications after converting over 400,000 square feet of lawn, Denver Water's 2026 discounts are fully allocated, and Highlands Ranch reopens on 1 March 2027."
+          "That is not a paperwork accident. These are water-conservation programs with a landscape policy attached. Most of the metro delivers its rebate through Resource Central, the Boulder nonprofit that runs lawn replacement for more than thirty Front Range providers, Denver Water, Aurora, Boulder, Castle Rock, Erie, Highlands Ranch, Parker and Thornton among them. One rule governs all of it: <em>\"Project areas must be at least 200 square feet and replaced with at least 50% waterwise plants.\"</em> Artificial turf is not a waterwise plant. Most of it is also shut for the year: Resource Central closed 2026 applications after converting over 400,000 square feet of lawn, Denver Water's 2026 discounts are fully allocated, and Highlands Ranch reopens on 1 March 2027."
         ]
       },
       {
@@ -1435,20 +1435,20 @@ export const GUIDES: Guide[] = [
         "body": [
           "Denver Water's turfgrass-removal discount of up to $750 puts the exclusion in a parenthesis: applications require removing at least 200 square feet of water-intensive turf plus <em>\"plans for the new water-wise landscape that will be created (artificial turf is not allowed).\"</em> On the HOA and commercial side, the Landscape Transformation Assistance Program funds up to half of project cost but will not fund <em>\"designs that include artificial turf, landscape fabrics/weed barriers or hardscapes.\"</em>",
           "Aurora Water's Grass Replacement Incentive Program pays $3.00 per square foot for a water-wise landscape and $0.50 for low-water grasses; its 2026 residential manual excludes artificial turf twice, in the fifty-percent living coverage rule and again in the prohibited list. Castle Rock Water pays $3.25 per square foot for ColoradoScape and states, for both residential and non-residential, <em>\"Artificial turf does not qualify for any part of the rebate.\"</em> Erie pays $2 per square foot and opens its requirements with <em>\"Artificial Turf is not eligible for this rebate.\"</em>",
-          "Highlands Ranch is the bluntest. Centennial Water's page reads: <em>\"Artificial turf replacements are no longer eligible for rebate. We apologize for any inconvenience.\"</em> Parker Water and Sanitation District publishes no rate of its own, passing customers to the $750 Resource Central discount, so Resource Central's rule governs there. Castle Pines North Metropolitan District pays up to $3.00 per square foot but requires <em>\"a minimum of roughly 50% ColoradoScape plant material\"</em>; nothing on its page or in its programme table names artificial turf, so a turf-only conversion looks excluded by implication rather than by name. Get that one in writing before counting on it."
+          "Highlands Ranch is the bluntest. Centennial Water's page reads: <em>\"Artificial turf replacements are no longer eligible for rebate. We apologize for any inconvenience.\"</em> Parker Water and Sanitation District publishes no rate of its own, passing customers to the $750 Resource Central discount, so Resource Central's rule governs there. Castle Pines North Metropolitan District pays up to $3.00 per square foot but requires <em>\"a minimum of roughly 50% ColoradoScape plant material\"</em>; nothing on its page or in its program table names artificial turf, so a turf-only conversion looks excluded by implication rather than by name. Get that one in writing before counting on it."
         ]
       },
       {
         "h2": "The providers with no turf rate of their own",
         "body": [
-          "Some providers have no artificial-turf argument to have, because they run no turf rebate at all. Superior's Water Efficiency Rebate Program covers fixtures and irrigation hardware only. Broomfield's rebates page lists energy programmes. Boulder publishes no per-square-foot rate of its own and delivers up to $750 through Resource Central, which puts Boulder customers back under the same fifty-percent waterwise plant rule.",
+          "Some providers have no artificial-turf argument to have, because they run no turf rebate at all. Superior's Water Efficiency Rebate Program covers fixtures and irrigation hardware only. Broomfield's rebates page lists energy programs. Boulder publishes no per-square-foot rate of its own and delivers up to $750 through Resource Central, which puts Boulder customers back under the same fifty-percent waterwise plant rule.",
           "The metro runs on dozens of municipal utilities and special districts, and this page does not cover all of them. If your provider is not named here, call it and get the answer in writing before you plan a project around a rebate."
         ]
       },
       {
         "h2": "The state grant is closed, and it never covered plastic",
         "body": [
-          "The statewide programme people ask about is closed, and it never covered plastic anyway. Colorado's Turf Replacement Program was created by HB22-1151 and codified at C.R.S. 37-60-135. The statute tells applicants they <em>\"shall not use the money to replace turf with any of the following: (a) impermeable concrete; (b) artificial turf\"</em> and three other categories: water features, invasive plant species and turf itself.",
+          "The statewide program people ask about is closed, and it never covered plastic anyway. Colorado's Turf Replacement Program was created by HB22-1151 and codified at C.R.S. 37-60-135. The statute tells applicants they <em>\"shall not use the money to replace turf with any of the following: (a) impermeable concrete; (b) artificial turf\"</em> and three other categories: water features, invasive plant species and turf itself.",
           "The Colorado Water Conservation Board says <em>\"As of March 2025, CWCB is no longer accepting applications for the Turf Replacement Grant Program.\"</em> Homeowners could never apply directly in any case: CWCB lists single-family homeowners and HOAs among ineligible entities."
         ]
       },
@@ -1457,14 +1457,14 @@ export const GUIDES: Guide[] = [
         "body": [
           "Here is the part that actually decides whether turf is worth it. Denver Water's annual watering rules are enforced 1 May to 1 October every year regardless of conditions. On top sits a declared Stage 1 drought requiring a 20% cut in total use, with outdoor watering limited to two assigned days a week, only before 10 a.m. or after 6 p.m. Enforcement runs warning, $250, $500, then $1,000.",
           "Then it stopped altogether. A notice dated 26 August 2026 records that the Denver Board of Water Commissioners <em>\"declares an end to lawn watering season, prohibiting lawn watering and all spray irrigation after Sept. 30.\"</em> Aurora, with reservoirs about half full, has gone further at the other end and banned installing new cool-weather turf at all.",
-          "The saving is smaller than people hope, but it recurs. Resource Central publishes 10 gallons saved per square foot of lawn converted per year. Denver Water's 2026 inside-city Tier 3 rate is $7.25 per 1,000 gallons plus a $2.20 drought charge, so $9.45. A 1,000 square foot conversion is about 10,000 gallons, roughly $94.50 a year. That is the honest case for turf here: not a rebate cheque, but a lawn that still looks like one in the third week of a two-day-a-week August, and stays green after 30 September when the sprinklers go off by order."
+          "The saving is smaller than people hope, but it recurs. Resource Central publishes 10 gallons saved per square foot of lawn converted per year. Denver Water's 2026 inside-city Tier 3 rate is $7.25 per 1,000 gallons plus a $2.20 drought charge, so $9.45. A 1,000 square foot conversion is about 10,000 gallons, roughly $94.50 a year. That is the honest case for turf here: not a rebate check, but a lawn that still looks like one in the third week of a two-day-a-week August, and stays green after 30 September when the sprinklers go off by order."
         ]
       }
     ],
     "faq": [
       {
         "q": "Will my Denver Water rebate cover artificial turf?",
-        "a": "No. Denver Water's turfgrass-removal discount requires plans for a water-wise landscape and adds, in the same sentence, \"(artificial turf is not allowed).\" Its HOA and commercial programme, LTAP, separately declines to fund \"designs that include artificial turf, landscape fabrics/weed barriers or hardscapes.\" The 2026 discounts are fully allocated in any case."
+        "a": "No. Denver Water's turfgrass-removal discount requires plans for a water-wise landscape and adds, in the same sentence, \"(artificial turf is not allowed).\" Its HOA and commercial program, LTAP, separately declines to fund \"designs that include artificial turf, landscape fabrics/weed barriers or hardscapes.\" The 2026 discounts are fully allocated in any case."
       },
       {
         "q": "Which Denver-area water provider actually pays for artificial turf?",
@@ -1494,7 +1494,7 @@ export const GUIDES: Guide[] = [
       },
       {
         "label": "Denver Water — Landscape Transformation Assistance Program, HOA and commercial eligibility",
-        "cite": "Under \"What Denver Water will NOT fund for HOAs/Commercial Projects\": \"Designs that include artificial turf, landscape fabrics/weed barriers or hardscapes. These do not benefit the environment.\" Programme funds up to 50% of project cost; 2027 funding cycle opened 1 September 2026.",
+        "cite": "Under \"What Denver Water will NOT fund for HOAs/Commercial Projects\": \"Designs that include artificial turf, landscape fabrics/weed barriers or hardscapes. These do not benefit the environment.\" Program funds up to 50% of project cost; 2027 funding cycle opened 1 September 2026.",
         "url": "https://www.denverwater.org/business/rebates-and-conservation-tips/landscape-transformation-assistance-program/hoa-commercial",
         "checked": "2026-09-07"
       },
@@ -1524,7 +1524,7 @@ export const GUIDES: Guide[] = [
       },
       {
         "label": "Castle Rock Water — ColoradoScape Renovation Rebate",
-        "cite": "\"Artificial turf does not qualify for any part of the rebate\" — stated for both the residential and non-residential programmes. Rates: $3.25 per square foot for low-water ColoradoScape, $1.00 per square foot for concrete/wood-composite decks or other non-permeable surfaces. Residential minimum 400 sq ft or the entire front yard, maximum 1,500 sq ft per account.",
+        "cite": "\"Artificial turf does not qualify for any part of the rebate\" — stated for both the residential and non-residential programs. Rates: $3.25 per square foot for low-water ColoradoScape, $1.00 per square foot for concrete/wood-composite decks or other non-permeable surfaces. Residential minimum 400 sq ft or the entire front yard, maximum 1,500 sq ft per account.",
         "url": "https://crconserve.com/153/Rebates",
         "checked": "2026-09-07"
       },
@@ -1542,7 +1542,7 @@ export const GUIDES: Guide[] = [
       },
       {
         "label": "Castle Pines North Metropolitan District — Conservation Rebates & Discounts",
-        "cite": "Sod Replacement Rebate up to $3.00 per square foot for residential ColoradoScape and $1.50 for low-water turf; \"Designs must contain a minimum of roughly 50% ColoradoScape plant material\" and projects must \"contain at least 50% healthy plant material.\" NOT FOUND: no sentence naming artificial turf on the page or in the programme table PDF — the exclusion is by implication only. Confirm with CPNMD before relying on it.",
+        "cite": "Sod Replacement Rebate up to $3.00 per square foot for residential ColoradoScape and $1.50 for low-water turf; \"Designs must contain a minimum of roughly 50% ColoradoScape plant material\" and projects must \"contain at least 50% healthy plant material.\" NOT FOUND: no sentence naming artificial turf on the page or in the program table PDF — the exclusion is by implication only. Confirm with CPNMD before relying on it.",
         "url": "https://www.cpnmd.org/conservation-rebates-discounts",
         "checked": "2026-09-07"
       },
@@ -1566,7 +1566,7 @@ export const GUIDES: Guide[] = [
       },
       {
         "label": "City & County of Broomfield — Rebates and Incentives",
-        "cite": "NOT FOUND for a water or turf rebate. The page lists energy programmes only (heat pumps, heat pump water heaters, insulation and air sealing, whole-home efficiency). Broomfield participates in Resource Central's lawn replacement programme but publishes no municipal per-square-foot turf rate.",
+        "cite": "NOT FOUND for a water or turf rebate. The page lists energy programs only (heat pumps, heat pump water heaters, insulation and air sealing, whole-home efficiency). Broomfield participates in Resource Central's lawn replacement program but publishes no municipal per-square-foot turf rate.",
         "url": "https://www.broomfield.org/4430/Rebates-and-Incentives",
         "checked": "2026-09-07"
       },

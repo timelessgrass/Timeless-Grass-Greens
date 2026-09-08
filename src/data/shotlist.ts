@@ -4,7 +4,7 @@
  * turf floor (truth.py:464): finished 4 · pair 4 · team 2 · detail 1 · context 2
  *
  * Each entry is the shot we need, not a picture we have. Until `file` is set,
- * <Figure> renders a labelled placeholder in dev and NOTHING in production, so a
+ * <Figure> renders a labeled placeholder in dev and NOTHING in production, so a
  * placeholder cannot reach a live page. These specs are also the shot list the
  * client shoots against — one source, two jobs.
  */

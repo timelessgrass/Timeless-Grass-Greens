@@ -27,7 +27,7 @@ const ANSWER = {
 const SVC = [
   { slug: 'putting-greens',       name: 'Putting greens',        line: 'Roll is built underneath, not bought off a roll. Base, fringe, cup, break — designed, not accidental.' },
   { slug: 'residential-turf',     name: 'Residential lawns',     line: 'Same product, three different installs — because Front Range clay and coastal sand are different jobs.' },
-  { slug: 'pet-turf',             name: 'Pet turf',              line: 'Odour is a drainage failure, not a turf failure. It gets fixed six inches down, not with a spray.' },
+  { slug: 'pet-turf',             name: 'Pet turf',              line: 'Odor is a drainage failure, not a turf failure. It gets fixed six inches down, not with a spray.' },
   { slug: 'commercial-turf',      name: 'Commercial',            line: 'Colorado now separates functional turf from non-functional. Which side your project sits on decides everything.' },
   { slug: 'sports-field-turf',    name: 'Sports fields',         line: 'The category Colorado explicitly protects, and the work parks departments are actually buying.' },
   { slug: 'indoor-turf',          name: 'Indoor facilities',     line: 'No UV, no drainage. Traffic, pad and how it fixes to a hard floor decide the spec instead.' },
@@ -38,7 +38,7 @@ const DIFF = [
   { h: 'Base built to your soil',       p: 'Expansive clay in Denver, sand and a high water table on the coast. The base changes; the quote says how.' },
   { h: 'The founder’s thirteen years', p: 'His years, stated as his. Timeless started in 2024 and we’d rather say so than round it up.' },
   { h: 'Blown clean before the photo',  p: 'Our test of any install, ours included: count the leaves on the green. If it’s not clean, it’s not finished.' },
-  { h: 'Three markets, three crews',    p: 'A number that reaches someone who works where you live, not a call centre in a different time zone.' },
+  { h: 'Three markets, three crews',    p: 'A number that reaches someone who works where you live, not a call center in a different time zone.' },
   { h: 'Honest about heat',             p: 'We publish the measured surface temperatures. Where a spot is wrong for turf, we say so and quote something else.' },
 ];
 
@@ -60,7 +60,7 @@ const pair = (id: string) => ({ b: SHOTS.find((s) => s.pairId === id && s.kind =
         <span class="line"><span>Greens that roll true.</span></span>
         <span class="line"><span>Turf that <em>stays clean.</em></span></span>
       </h1>
-      <p class="hero__deck">Artificial turf and backyard putting greens — installed, not sold from a catalogue. Denver metro, the Grand Strand, northeast Florida.</p>
+      <p class="hero__deck">Artificial turf and backyard putting greens — installed, not sold from a catalog. Denver metro, the Grand Strand, northeast Florida.</p>
       <p class="hero__qual">
         {materials && <><b>American-made turf</b> · </>}<b>Founder with 13 years</b> · <b>Written number before you sign</b>
       </p>
@@ -100,7 +100,7 @@ const pair = (id: string) => ({ b: SHOTS.find((s) => s.pairId === id && s.kind =
     <div class="wrap"><div class="kick" data-reveal>
       <p class="micro">The work</p>
       <h2>Real yards. Ours.</h2>
-      {DEV && haveCount() < floorCount && <p>Build note: {haveCount()} of {floorCount} client photographs on file. Every image below is a labelled stock stand-in for layout review, and none of them ships.</p>}
+      {DEV && haveCount() < floorCount && <p>Build note: {haveCount()} of {floorCount} client photographs on file. Every image below is a labeled stock stand-in for layout review, and none of them ships.</p>}
     </div></div>
     <div class="strip__track">
       {[...shotsBy('finished').slice(1), ...shotsBy('context'), ...shotsBy('detail')].map((shot) => <Figure shot={shot} />)}
@@ -114,7 +114,7 @@ const pair = (id: string) => ({ b: SHOTS.find((s) => s.pairId === id && s.kind =
         <p class="micro">Who shows up</p>
         <h2>Built by one person who&rsquo;s been doing this for thirteen years.</h2>
         <p>Timeless is new — it started in 2024. The person running it is not. Thirteen years of installing turf came first, and the company was built to do that work the way he thinks it should be done: measured on site, priced in writing, and cleaned before anyone takes a photograph.</p>
-        <p>No franchise, no call centre, no financing pitch on the doorstep. Three markets because that is where the work is, and a crew in each one.</p>
+        <p>No franchise, no call center, no financing pitch on the doorstep. Three markets because that is where the work is, and a crew in each one.</p>
       </div>
       <div data-reveal>{shotsBy('team').slice(0, 1).map((shot) => <Figure shot={shot} />)}</div>
     </div>
@@ -220,13 +220,13 @@ const pair = (id: string) => ({ b: SHOTS.find((s) => s.pairId === id && s.kind =
           <p>It is a contact-surface problem, not a heat-stress one — a 2024 review of 23 studies found air temperature over turf only 1&ndash;2&deg;F higher. Fine in shoes, real for bare feet and paws. Shade is the biggest fix. Where a spot is wrong for turf, we say so.</p>
         </details>
         <details class="qa"><summary><h3>Are there rebates for tearing out my lawn?</h3></summary>
-          <p>Not in South Carolina — we searched the Grand Strand Water &amp; Sewer Authority programmes and the Horry County, Myrtle Beach, North Myrtle Beach and Conway codes. Colorado and Florida differ by water district, and most Western rebates pay for living plantings rather than synthetic turf. We will tell you which applies to your address before you count on it.</p>
+          <p>Not in South Carolina — we searched the Grand Strand Water &amp; Sewer Authority programs and the Horry County, Myrtle Beach, North Myrtle Beach and Conway codes. Colorado and Florida differ by water district, and most Western rebates pay for living plantings rather than synthetic turf. We will tell you which applies to your address before you count on it.</p>
         </details>
         <details class="qa"><summary><h3>What does it cost?</h3></summary>
           <p>It is quoted per job, because the base is most of the work. Square footage, access, what comes out, drainage and the product all move the number — and a small job costs more per square foot than a large one because a crew day costs the same either way.</p>
         </details>
         <details class="qa"><summary><h3>Will it smell if I have dogs?</h3></summary>
-          <p>Only if the base cannot drain. Urine passes through the turf; what holds odour is infill that stays wet over a base compacted without a drainage layer. Pet installs get a different infill and a base built to move liquid.</p>
+          <p>Only if the base cannot drain. Urine passes through the turf; what holds odor is infill that stays wet over a base compacted without a drainage layer. Pet installs get a different infill and a base built to move liquid.</p>
         </details>
       </div>
     </div>

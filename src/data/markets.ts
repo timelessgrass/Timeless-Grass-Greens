@@ -19,7 +19,7 @@ export type Market = {
   ground: string;
   /** The regulatory fact that no competitor in this market has written up. */
   law: { headline: string; detail: string; source: string };
-  /** Named anchors a local would recognise. */
+  /** Named anchors a local would recognize. */
   anchors: string[];
   /** Does a verified GBP back this market? Drives whether a LocalBusiness node emits. */
   gbp: { verified: boolean; id: string | null };
