@@ -233,23 +233,12 @@
     },
     "form_fields": [],
     "lead_destination": {
-      "value": null,
-      "status": "UNKNOWN",
-      "source": null,
-      "source_detail": null,
-      "date": null,
-      "note": "Where leads land and who watches that inbox",
-      "test_lead_confirmed": false,
-      "test_lead": {
-        "form_submits": false,
-        "confirmation_renders": false,
-        "inbox": false,
-        "crm": false,
-        "notification": false,
-        "routing": false,
-        "autoresponder": false,
-        "client_confirmed": false
-      }
+      "value": "Netlify Forms on the site — form \"quote\", 5 fields, honeypot on",
+      "status": "VERIFIED",
+      "source": "end_to_end_test",
+      "date": "2026-09-09",
+      "source_detail": "Preview deploy timeless-grass-greens-preview.netlify.app. Test submission id 6aa0b8f1cb63aca1a6e4d7a7 captured name, phone, town and use correctly.",
+      "note": "STILL OPEN: no notification email is configured, so nobody is told when a lead arrives. That is a Netlify dashboard setting (Forms > Notifications) and it must be set to a real inbox before launch. Production also needs its own Netlify site; this one is a preview."
     }
   },
   "positioning": {
@@ -321,6 +310,16 @@
       "nap_byte_match": false,
       "review_link_handed_over": false,
       "note": "3 verified profiles: Denver 05426208594558680150 (Arvada/Aurora +10) · NE Florida 1255349 (Nocatee/Jacksonville +9) · Grand Strand 13971044913229673568 (Aynor/Conway +9). SC profile name must drop the ' SC' suffix before nap_byte_match can be true."
+    },
+    "test_lead": {
+      "form_submits": true,
+      "confirmation_renders": true,
+      "inbox": false,
+      "crm": false,
+      "notification": false,
+      "routing": false,
+      "autoresponder": false,
+      "client_confirmed": false
     }
   }
 }

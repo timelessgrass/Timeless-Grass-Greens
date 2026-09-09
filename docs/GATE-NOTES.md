@@ -103,3 +103,27 @@ argument: `async (page) => { await page.bringToFront(); ... }`) and re-measure;
 only then trust intro/count-up/pin readings. CSS-transition effects can be read either way.
 Note 9's screenshot hang is almost certainly the same occlusion — a capture waits on a
 compositor frame that never comes.
+
+## 11. Preview deploy, and what it did and did not settle
+
+2026-09-09. Pushed 37 commits (739e2b0..6533f0d) and deployed to
+timeless-grass-greens-preview.netlify.app.
+
+SETTLED by the deploy:
+- Netlify detected the "quote" form: 5 fields, honeypot on. A test POST returned 200 and the
+  submission is in the dashboard with name, phone, town and use intact (id 6aa0b8f1cb63aca1a6e4d7a7).
+  Gate 10's first two flags are now true. The lead no longer goes nowhere.
+- The build gates run in Netlify's build system and pass there, not just locally. That is why
+  check-links.py carries no 3.10-only syntax.
+- Live measurements on the deployed page: 669KB transferred, 10 requests, DOMContentLoaded 552ms,
+  zero console errors, 7 figures, 1,048 words.
+
+NOT settled, and each blocks launch:
+- No notification email. Netlify captures the lead; nobody is told it arrived.
+- The repo is NOT connected to this Netlify project. This deploy was pushed from the CLI, so a
+  git push does not rebuild it. Continuous deploy needs connecting in the Netlify UI.
+- "timeless-grass-greens" was already taken on Netlify — possibly the client's own account. Worth
+  finding out before creating a production site.
+- www.timelessgrass.com still CNAMEs to a BunnyCDN pull zone from the previous vendor. Nothing about
+  this deploy changes what a visitor to the real domain sees.
+- The GitHub repo is public and .site/truth/brief.json publishes the client's pricing strategy.
