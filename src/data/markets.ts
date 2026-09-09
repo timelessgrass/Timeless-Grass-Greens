@@ -26,6 +26,8 @@ export type Market = {
   /** The rules that govern THIS market, linked from its body so the guides tier is
    *  reachable without the footer. Anchor text is the destination's own noun phrase. */
   guides: { slug: string; anchor: string }[];
+  /** Where to centre the service-area map. A region, never an address — we do not have one. */
+  map: { query: string; zoom: number };
   /** Does a verified GBP back this market? Drives whether a LocalBusiness node emits. */
   gbp: { verified: boolean; id: string | null };
 };
@@ -53,6 +55,7 @@ export const MARKETS: Market[] = [
       { slug: 'is-artificial-turf-impervious', anchor: 'Is artificial turf impervious?' },
       { slug: 'turf-installer-licensing-by-state', anchor: 'What license a turf installer needs' },
     ],
+    map: { query: 'Myrtle Beach, South Carolina', zoom: 9 },
     gbp: { verified: true, id: '13971044913229673568' },
   },
   {
@@ -77,6 +80,7 @@ export const MARKETS: Market[] = [
       { slug: 'colorado-hoa-turf-rules', anchor: 'What a Colorado HOA board can and cannot stop' },
       { slug: 'turf-installer-licensing-by-state', anchor: 'What license a turf installer needs' },
     ],
+    map: { query: 'Denver, Colorado', zoom: 9 },
     gbp: { verified: true, id: '05426208594558680150' },
   },
   {
@@ -101,6 +105,7 @@ export const MARKETS: Market[] = [
       { slug: 'is-artificial-turf-impervious', anchor: 'Is artificial turf impervious?' },
       { slug: 'turf-installer-licensing-by-state', anchor: 'What license a turf installer needs' },
     ],
+    map: { query: 'Jacksonville, Florida', zoom: 9 },
     gbp: { verified: true, id: '1255349' },
   },
 ];

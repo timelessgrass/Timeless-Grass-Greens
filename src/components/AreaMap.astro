@@ -1,0 +1,38 @@
+---
+/**
+ * The service area on a map.
+ *
+ * A pin would be a lie. brief.json records identity.address as UNKNOWN, and the Windsor CO
+ * address that shows up in directories belongs to a different company — the brief carries an
+ * explicit warning not to use it. So this centres on the REGION we work in, which is the true
+ * claim, and the caption names the places the client actually named.
+ *
+ * Loaded lazily and sized by aspect-ratio, so it costs nothing until it is scrolled to and
+ * cannot shift the layout when it arrives. Google sets cookies once it loads; that is the
+ * trade for showing a map at all, and it is why this is the only third-party frame on the site.
+ */
+interface Props {
+  /** What to centre on. A place name Google can resolve, e.g. "Denver, Colorado". */
+  query: string;
+  /** Zoom: 9 shows a metro, 8 shows a stretch of coast. */
+  zoom?: number;
+  /** Named under the map. The places, not the counties. */
+  places: string[];
+  label: string;
+}
+const { query, zoom = 9, places, label } = Astro.props;
+const src = `https://www.google.com/maps?q=${encodeURIComponent(query)}&z=${zoom}&output=embed`;
+---
+<figure class="areamap">
+  <div class="areamap__frame">
+    <iframe
+      src={src}
+      title={`Map of the ${label} service area`}
+      loading="lazy"
+      referrerpolicy="no-referrer-when-downgrade"
+      allowfullscreen></iframe>
+  </div>
+  <figcaption>
+    {label} &mdash; {places.join(' · ')}. We travel across this area; the map is the region, not an office.
+  </figcaption>
+</figure>

@@ -1,4 +1,5 @@
 ---
+import AreaMap from '../../components/AreaMap.astro';
 import HeroImage from '../../components/HeroImage.astro';
 import Extra from '../../components/Extra.astro';
 import Base from '../../layouts/Base.astro';
@@ -75,9 +76,12 @@ const crumbs = [
     <div class="wrap">
       <p class="micro" data-reveal>Where we work</p>
       <h2>Towns we work in across {m.short}.</h2>
-      <ul class="towns" data-reveal>
-        {m.anchors.map((t) => <li>{t}</li>)}
-      </ul>
+      <div class="towns__split">
+        <ul class="towns" data-reveal>
+          {m.anchors.map((t) => <li>{t}</li>)}
+        </ul>
+        <div data-reveal><AreaMap query={m.map.query} zoom={m.map.zoom} places={m.towns} label={m.name} /></div>
+      </div>
     </div>
   </section>
 

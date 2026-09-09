@@ -208,6 +208,15 @@
 .lawlinks a { display: flex; align-items: center; gap: .6rem; min-height: 48px; padding: .55rem 0; color: var(--ink-on-dark); text-decoration: none; font-size: .98rem; }
 .lawlinks a::after { content: "\2192"; margin-left: auto; color: var(--accent-on-dark); }
 .lawlinks a:hover { color: var(--accent-on-dark); }
+
+/* --- service-area map: lazy, aspect-sized, no layout shift --------------------- */
+.towns__split { display: grid; gap: clamp(1.6rem, 4vw, 3rem); align-items: start; }
+@media (min-width: 900px) { .towns__split { grid-template-columns: 1fr 1.05fr; } }
+.areamap { margin: 0; }
+.areamap__frame { position: relative; aspect-ratio: 4 / 3; border-radius: var(--radius-card); overflow: hidden; border: 1px solid var(--rule); background: var(--ground-band); }
+.areamap__frame iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; display: block; }
+.areamap figcaption { margin-top: .7rem; font-size: .86rem; color: var(--ink-dim); line-height: 1.5; max-width: 46ch; }
+@media (max-width: 899px) { .areamap__frame { aspect-ratio: 3 / 2; } }
 @media (prefers-reduced-motion: reduce) { .proc__step { opacity: 1; } }
 /* legacy numbered steps list */
 .steps { list-style: none; padding: 0; margin: 2.4rem 0 0; display: grid; gap: 1.1rem; }
