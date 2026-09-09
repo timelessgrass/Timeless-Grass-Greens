@@ -1,0 +1,137 @@
+[
+ {
+  "file": "backyard-putting-green-landscaped-boulders.jpg",
+  "alt": "A backyard putting green ringed with boulders and planting beds, flag in the cup, house behind",
+  "kind": "finished",
+  "w": 2400,
+  "h": 1800,
+  "ratio": 1.333,
+  "kb": 1288
+ },
+ {
+  "file": "backyard-putting-green-from-the-street.jpg",
+  "alt": "The same putting green seen from the street, showing how it sits in the whole yard",
+  "kind": "context",
+  "w": 2400,
+  "h": 1800,
+  "ratio": 1.333,
+  "kb": 811
+ },
+ {
+  "file": "backyard-putting-green-driveway-view.jpg",
+  "alt": "The putting green from the driveway, with the fringe meeting the concrete",
+  "kind": "finished",
+  "w": 2400,
+  "h": 1800,
+  "ratio": 1.333,
+  "kb": 709
+ },
+ {
+  "file": "putting-green-landscape-lighting-at-dusk.jpg",
+  "alt": "A putting green at dusk with landscape lighting on the flagstone and two flags in",
+  "kind": "finished",
+  "w": 2400,
+  "h": 1800,
+  "ratio": 1.333,
+  "kb": 721
+ },
+ {
+  "file": "putting-green-fire-pit-stone-wall.jpg",
+  "alt": "A putting green beside a stone fire pit and seat wall, mountains on the horizon",
+  "kind": "finished",
+  "w": 2400,
+  "h": 1800,
+  "ratio": 1.333,
+  "kb": 1083
+ },
+ {
+  "file": "putting-green-at-sunset-wide.jpg",
+  "alt": "A wide view of a backyard putting green at sunset",
+  "kind": "finished",
+  "w": 2048,
+  "h": 1536,
+  "ratio": 1.333,
+  "kb": 742
+ },
+ {
+  "file": "artificial-lawn-with-playset.jpg",
+  "alt": "Artificial lawn and green with a wooden playset, open ground beyond",
+  "kind": "finished",
+  "w": 2400,
+  "h": 1800,
+  "ratio": 1.333,
+  "kb": 1066
+ },
+ {
+  "file": "artificial-turf-backyard-patio.jpg",
+  "alt": "A finished artificial turf back lawn with a covered patio and fenced yard",
+  "kind": "finished",
+  "w": 2400,
+  "h": 1800,
+  "ratio": 1.333,
+  "kb": 1000
+ },
+ {
+  "file": "artificial-turf-side-yard-concrete-edge.jpg",
+  "alt": "Artificial turf running down a side yard, meeting the concrete path along its edge",
+  "kind": "detail",
+  "w": 2400,
+  "h": 1800,
+  "ratio": 1.333,
+  "kb": 1122
+ },
+ {
+  "file": "pet-turf-dog-resting-under-deck.jpg",
+  "alt": "A dog resting on pet turf in the shade under a raised deck",
+  "kind": "pet",
+  "w": 2400,
+  "h": 1800,
+  "ratio": 1.333,
+  "kb": 942
+ },
+ {
+  "file": "artificial-turf-between-concrete-pavers.jpg",
+  "alt": "Artificial turf set in the joints between a grid of square concrete pavers",
+  "kind": "detail",
+  "w": 1290,
+  "h": 938,
+  "ratio": 1.375,
+  "kb": 382
+ },
+ {
+  "file": "artificial-turf-edge-against-rock-border.jpg",
+  "alt": "The edge where artificial turf meets a rock border, held tight and straight",
+  "kind": "detail",
+  "w": 1800,
+  "h": 2400,
+  "ratio": 0.75,
+  "kb": 1046
+ },
+ {
+  "file": "artificial-lawn-fenced-yard-rock-border.jpg",
+  "alt": "A fenced artificial lawn with a rock border along the fence line",
+  "kind": "finished",
+  "w": 1800,
+  "h": 2400,
+  "ratio": 0.75,
+  "kb": 1559
+ },
+ {
+  "file": "putting-green-shared-amenity-lawn.jpg",
+  "alt": "A putting green on a shared lawn beside a residential building",
+  "kind": "finished",
+  "w": 1800,
+  "h": 2400,
+  "ratio": 0.75,
+  "kb": 1186
+ },
+ {
+  "file": "practice-nets-and-goals-on-turf.jpg",
+  "alt": "Practice nets and goals set on a turf field",
+  "kind": "context",
+  "w": 1800,
+  "h": 2400,
+  "ratio": 0.75,
+  "kb": 730
+ }
+]

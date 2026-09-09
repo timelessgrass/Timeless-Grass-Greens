@@ -16,8 +16,10 @@ export type Shot = {
   brief: string;
   /** Caption if and when the real photograph lands. Specific, never decorative. */
   caption?: string;
+  /** Alt text. Describes the frame for a screen reader; never keyword stuffing. */
+  alt?: string;
   ratio: '4/3' | '3/2' | '16/9' | '1/1';
-  /** The client's own photograph. The only thing that renders in production. */
+  /** Filename in src/assets/photos/. Astro optimizes it; only this renders in production. */
   file?: string;
   /** A licensed stock stand-in for DESIGN REVIEW ONLY. Renders in dev with a visible
    *  STOCK label; a production build ignores it entirely. Never captioned as our work. */
@@ -26,13 +28,21 @@ export type Shot = {
 
 export const SHOTS: Shot[] = [
   { id: 'fin-1', kind: 'finished', ratio: '3/2', stock: { src: 'https://images.pexels.com/photos/4475691/pexels-photo-4475691.jpeg?auto=compress&cs=tinysrgb&w=1600', credit: 'Pexels #4475691' },
-    brief: 'Finished putting green, wide. Whole surface in frame, flag in, cup visible. Blown clean before the shutter — that is the standard the page claims.' },
-  { id: 'fin-2', kind: 'finished', ratio: '4/3', stock: { src: 'https://images.pexels.com/photos/23070382/pexels-photo-23070382.jpeg?auto=compress&cs=tinysrgb&w=1600', credit: 'Pexels #23070382' },
-    brief: 'Finished residential lawn, low and raking. Show the edge where turf meets hardscape — that seam is where a bad install shows.' },
+    brief: 'Finished putting green, wide. Whole surface in frame, flag in, cup visible. Blown clean before the shutter — that is the standard the page claims.',
+    file: 'backyard-putting-green-landscaped-boulders.jpg', alt: 'A backyard putting green ringed with boulders and planting beds, flag in the cup, house behind',
+    caption: 'A backyard green with the flag in, cut into boulder landscaping.' },
+  { id: 'fin-2', kind: 'finished', ratio: '3/2', stock: { src: 'https://images.pexels.com/photos/23070382/pexels-photo-23070382.jpeg?auto=compress&cs=tinysrgb&w=1600', credit: 'Pexels #23070382' },
+    brief: 'Finished residential lawn, low and raking. Show the edge where turf meets hardscape — that seam is where a bad install shows.',
+    file: 'artificial-turf-backyard-patio.jpg', alt: 'A finished artificial turf back lawn with a covered patio and fenced yard',
+    caption: 'A finished back lawn running to the patio edge.' },
   { id: 'fin-3', kind: 'finished', ratio: '3/2', stock: { src: 'https://images.pexels.com/photos/16630711/pexels-photo-16630711.jpeg?auto=compress&cs=tinysrgb&w=1600', credit: 'Pexels #16630711' },
-    brief: 'Finished pet area. Include the drainage edge if it is visible.' },
-  { id: 'fin-4', kind: 'finished', ratio: '4/3', stock: { src: 'https://images.pexels.com/photos/39222204/pexels-photo-39222204.jpeg?auto=compress&cs=tinysrgb&w=1600', credit: 'Pexels #39222204' },
-    brief: 'Finished commercial or sports surface. Wide enough to read the scale of the job.' },
+    brief: 'Finished pet area. Include the drainage edge if it is visible.',
+    file: 'pet-turf-dog-resting-under-deck.jpg', alt: 'A dog resting on pet turf in the shade under a raised deck',
+    caption: 'Pet turf in the shade under a raised deck.' },
+  { id: 'fin-4', kind: 'finished', ratio: '3/4', stock: { src: 'https://images.pexels.com/photos/39222204/pexels-photo-39222204.jpeg?auto=compress&cs=tinysrgb&w=1600', credit: 'Pexels #39222204' },
+    brief: 'Finished commercial or sports surface. Wide enough to read the scale of the job.',
+    file: 'putting-green-shared-amenity-lawn.jpg', alt: 'A putting green on a shared lawn beside a residential building',
+    caption: 'A green on a shared lawn beside a residential building.' },
 
   { id: 'ba-1a', kind: 'before', pairId: 'ba-1', ratio: '3/2', stock: { src: 'https://images.pexels.com/photos/11654274/pexels-photo-11654274.jpeg?auto=compress&cs=tinysrgb&w=1600', credit: 'Pexels #11654274' },
     brief: 'BEFORE — stand somewhere you can stand again. Note the spot.' },
@@ -50,20 +60,25 @@ export const SHOTS: Shot[] = [
   { id: 'team-2', kind: 'team', ratio: '4/3', stock: { src: 'https://images.pexels.com/photos/33162373/pexels-photo-33162373.jpeg?auto=compress&cs=tinysrgb&w=1600', credit: 'Pexels #33162373' },
     brief: 'Second crew shot, different stage of the job.' },
 
-  { id: 'det-1', kind: 'detail', ratio: '1/1', stock: { src: 'https://images.pexels.com/photos/6573260/pexels-photo-6573260.jpeg?auto=compress&cs=tinysrgb&w=1600', credit: 'Pexels #6573260' },
-    brief: 'Close detail — the seam, the edge, or infill in the hand. Near enough to see the blade.' },
+  { id: 'det-1', kind: 'detail', ratio: '3/4', stock: { src: 'https://images.pexels.com/photos/6573260/pexels-photo-6573260.jpeg?auto=compress&cs=tinysrgb&w=1600', credit: 'Pexels #6573260' },
+    brief: 'Close detail — the seam, the edge, or infill in the hand. Near enough to see the blade.',
+    file: 'artificial-turf-edge-against-rock-border.jpg', alt: 'The edge where artificial turf meets a rock border, held tight and straight',
+    caption: 'The edge where turf meets a rock border.' },
 
-  { id: 'ctx-1', kind: 'context', ratio: '3/2',
-    brief: 'The truck, or signage on a job.' },
+  { id: 'ctx-1', kind: 'context', ratio: '3/4',
+    brief: 'The truck, or signage on a job.',
+    file: 'practice-nets-and-goals-on-turf.jpg', alt: 'Practice nets and goals set on a turf field',
+    caption: 'Practice nets and goals on a turf field.' },
   { id: 'ctx-2', kind: 'context', ratio: '3/2', stock: { src: 'https://images.pexels.com/photos/8960427/pexels-photo-8960427.jpeg?auto=compress&cs=tinysrgb&w=1600', credit: 'Pexels #8960427' },
-    brief: 'The property from the street — proves the job sits in a real place.' },
+    brief: 'The property from the street — proves the job sits in a real place.',
+    file: 'backyard-putting-green-from-the-street.jpg', alt: 'The same putting green seen from the street, showing how it sits in the whole yard',
+    caption: 'The same green from the street, in the whole yard.' },
 ];
 
 /** Hero background: the first finished shot's image, real or stock (dev). */
 export const heroSrc = () => {
   const f = SHOTS.find((x) => x.kind === 'finished');
-  if (f?.file) return f.file;
-  return import.meta.env.DEV ? (f?.stock?.src ?? null) : null; // stock is dev-only, same rule as <Figure>
+  return f?.file ?? null; // a filename in src/assets/photos; <HeroImage> optimizes it. Stock never reaches a hero.
 };
 
 export const shotsBy = (k: Shot['kind']) => SHOTS.filter((s) => s.kind === k);

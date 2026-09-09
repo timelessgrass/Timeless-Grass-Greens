@@ -16,17 +16,27 @@
  * presented as the client's own work.
  */
 import type { Shot } from '../data/shotlist';
+import { Image } from 'astro:assets';
+
+/* Every photograph in src/assets/photos is imported at build time so Astro can emit
+   webp at the widths a page actually uses, with width/height on the tag. A 2400px
+   JPEG from a phone is never served to a visitor. */
+const PHOTOS = import.meta.glob<{ default: ImageMetadata }>('../assets/photos/*.jpg', { eager: true });
+const photo = (f?: string) => (f ? PHOTOS[`../assets/photos/${f}`]?.default : undefined);
 interface Props { shot: Shot; }
 const { shot } = Astro.props;
 const DEV = import.meta.env.DEV;
+const img = photo(shot.file);
 const KIND: Record<string, string> = {
   finished: 'Finished work', before: 'Before', after: 'After',
   team: 'Crew at work', detail: 'Detail', context: 'Context',
 };
 ---
-{shot.file ? (
+{img ? (
   <figure class="fig" style={`--ratio:${shot.ratio}`}>
-    <img src={shot.file} alt={shot.caption ?? ''} loading="lazy" decoding="async" />
+    <Image src={img} alt={shot.alt ?? shot.caption ?? ''} widths={[400, 640, 1040]} quality={74}
+           sizes="(min-width: 1100px) 520px, (min-width: 700px) 46vw, 92vw"
+           loading="lazy" decoding="async" />
     {shot.caption && <figcaption>{shot.caption}</figcaption>}
   </figure>
 ) : DEV && shot.stock ? (

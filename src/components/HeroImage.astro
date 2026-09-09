@@ -1,0 +1,18 @@
+---
+/**
+ * The hero photograph — the LCP element on every page that has one.
+ *
+ * Eager, high priority, never lazy, with width/height so it cannot shift the layout.
+ * Astro emits webp at the widths a hero actually occupies; the 2400px phone original
+ * never reaches a visitor.
+ */
+import { Image } from 'astro:assets';
+const PHOTOS = import.meta.glob<{ default: ImageMetadata }>('../assets/photos/*.jpg', { eager: true });
+interface Props { file?: string | null; class?: string }
+const { file, class: cls = 'hero__img' } = Astro.props;
+const img = file ? PHOTOS[`../assets/photos/${file}`]?.default : undefined;
+---
+{img && (
+  <Image class={cls} src={img} alt="" widths={[640, 1024, 1440, 1920]} quality={62}
+         sizes="100vw" loading="eager" fetchpriority="high" decoding="async" />
+)}
