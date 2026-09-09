@@ -158,7 +158,6 @@ small = ''.join([
     frame('<div class="bd-dark on-dark"><a class="btn btn--primary" href="#">Call 303-349-2368</a> <a class="btn btn--ghost" href="#">Get a written number</a></div>', '.on-dark .btn', 'Buttons on dark', ''),
     frame('<a class="btn btn--primary btn--lg" href="#">Request a quote</a>', '.btn--lg', 'Large button', 'form submit, close'),
     comp(home, H, 'hero__eyebrow', 'Hero eyebrow', 'pill, blurred', dark=True),
-    comp(home, H, 'hero__badge', 'Hero badge', '≥1180px only', wrap='<div class="bd-dark on-dark bd-badge">%s</div>'),
     comp(hub, U, 'crumbs', 'Breadcrumbs', '44px targets', dark=True),
     comp(home, H, 'micro', 'Micro label', '', tag='p'),
     comp(home, H, 'num', 'Number tile', 'true numbers only', wrap='<div class="nums bd-one">%s</div>'),
@@ -232,7 +231,7 @@ body {{ background: var(--ground); }}
 .bd-label code {{ color: var(--accent); font-size: .74rem; }} .bd-label b {{ color: var(--ink); font-weight: 600; }}
 .bd-stage {{ padding: 1.2rem; background: var(--ground); }}
 .bd-frame--full .bd-stage {{ padding: 0; }}
-.bd-dark {{ background: var(--ground-dark); padding: 1.2rem; }} .bd-badge .hero__badge {{ position: static; }}
+.bd-dark {{ background: var(--ground-dark); padding: 1.2rem; }} 
 .bd-hover.btn--primary {{ background: var(--accent-hover); }} .bd-hover.btn--ghost {{ border-color: var(--accent); color: var(--accent); }}
 .bd-one {{ display: block; }} .bd-one > * {{ margin: 0; }} .bd-fig {{ max-width: 360px; }}
 .bd-sw {{ list-style: none; margin: 0; padding: 1rem var(--bleed) 2rem; display: grid; grid-template-columns: repeat(auto-fill, minmax(170px, 1fr)); gap: 1rem; }}

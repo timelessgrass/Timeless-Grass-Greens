@@ -70,9 +70,6 @@
 .hero--home h1 .line > span { display: block; }
 .hero--home .hero__deck { margin-inline: auto; max-width: 52ch; }
 .hero--home .hero__cta { justify-content: center; }
-.hero__badge { position: absolute; right: clamp(1rem, 4vw, 3rem); top: auto; bottom: 9.5rem; z-index: 2; background: var(--ground); color: var(--ink); border-radius: var(--radius-card); padding: .9rem 1.1rem; max-width: 220px; font-size: .82rem; line-height: 1.4; box-shadow: var(--shadow-float); }
-.hero__badge b { display: block; font-family: var(--font-display); font-size: 1.15rem; letter-spacing: -.012em; margin-bottom: .2rem; }
-@media (max-width: 1179px) { .hero__badge { display: none; } } /* below this the centred h1 and the badge share the same x-range */
 .hero__steps { position: relative; z-index: 1; margin: clamp(2.4rem, 6vw, 4rem) auto 0; max-width: 1000px; display: grid; border-top: 1px solid var(--rule-on-dark); }
 @media (min-width: 720px) { .hero__steps { grid-template-columns: repeat(3, 1fr); } }
 .hero__steps > div { padding: 1rem 0 0; font-size: .86rem; color: var(--ink-on-dark-dim); display: flex; gap: .7rem; align-items: baseline; }
@@ -183,9 +180,12 @@
 .proc__step i { font-style: normal; font-family: var(--font-display); font-size: 1.5rem; line-height: 1.15; color: var(--accent-on-dark); letter-spacing: -.02em; grid-row: span 2; font-variant-numeric: tabular-nums; }
 .proc__step h3 { color: var(--ink-on-dark); font-size: clamp(1.15rem, 2.2vw, 1.45rem); }
 .proc__step p { color: var(--ink-on-dark-dim); max-width: 48ch; font-size: .98rem; }
+/* .proc--live is set by the script only when it creates the pin. Without it the steps
+   stay fully legible — which is what a short viewport, a no-JS visitor and a
+   reduced-motion visitor all get. */
 @media (min-width: 900px) {
-  .proc__step { opacity: .3; transition: opacity .45s var(--ease); }
-  .proc__step.is-on { opacity: 1; }
+  .proc--live .proc__step { opacity: .3; transition: opacity .45s var(--ease); }
+  .proc--live .proc__step.is-on { opacity: 1; }
 }
 .proc__fill { transition: transform .45s var(--ease); }
 
@@ -314,13 +314,15 @@
 /* --- motion start states — ONLY once the ticker has proven alive --------------------------------- */
 .js-motion .hero__eyebrow { opacity: 0; transform: translateY(14px); }
 .js-motion .hero--home h1 .line > span { transform: translateY(110%); }
-.js-motion .hero__deck, .js-motion .hero__qual, .js-motion .hero__cta { opacity: 0; transform: translateY(18px); }
-.js-motion .hero__badge { opacity: 0; transform: scale(.92); }
+.js-motion .hero--home .hero__deck, .js-motion .hero--home .hero__qual, .js-motion .hero--home .hero__cta { opacity: 0; transform: translateY(18px); }
+/* Scoped to .hero--home on purpose: only the homepage has an intro timeline to undo
+   these. Unscoped, the Call button on every other page stayed at opacity 0 forever —
+   invisible, but still 57px of clickable tel: link. */
 .js-motion .hero__steps > * { opacity: 0; transform: translateY(12px); }
 .js-motion [data-reveal] { opacity: 0; translate: 0 28px; }
 .js-motion [data-reveal].is-in { opacity: 1; translate: 0 0; transition: opacity .9s var(--ease), translate .9s var(--ease); }
 /* transition lives on .is-in only: the hidden start state must snap, not fade out first.
    `translate` not `transform`: composes with the cards' hover lift instead of overriding it */
 @media (prefers-reduced-motion: reduce) {
-  .js-motion .hero__eyebrow, .js-motion .hero--home h1 .line > span, .js-motion .hero__deck, .js-motion .hero__qual, .js-motion .hero__cta, .js-motion .hero__badge, .js-motion .hero__steps > *, .js-motion [data-reveal] { opacity: 1; transform: none; translate: none; transition: none; }
+  .js-motion .hero__eyebrow, .js-motion .hero--home h1 .line > span, .js-motion .hero--home .hero__deck, .js-motion .hero--home .hero__qual, .js-motion .hero--home .hero__cta, .js-motion .hero__steps > *, .js-motion [data-reveal] { opacity: 1; transform: none; translate: none; transition: none; }
 }

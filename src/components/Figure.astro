@@ -23,8 +23,11 @@ import { Image } from 'astro:assets';
    JPEG from a phone is never served to a visitor. */
 const PHOTOS = import.meta.glob<{ default: ImageMetadata }>('../assets/photos/*.jpg', { eager: true });
 const photo = (f?: string) => (f ? PHOTOS[`../assets/photos/${f}`]?.default : undefined);
-interface Props { shot: Shot; }
-const { shot } = Astro.props;
+interface Props { shot: Shot; sizes?: string }
+/* The default matches a proof-grid, story or band slot. The gallery strip is narrower —
+   clamp(280px, 38vw, 520px) — so it passes its own, otherwise a phone fetches a 1040w
+   file for a 280px slot. */
+const { shot, sizes = '(min-width: 1100px) 520px, (min-width: 700px) 46vw, 92vw' } = Astro.props;
 const DEV = import.meta.env.DEV;
 const img = photo(shot.file);
 const KIND: Record<string, string> = {
@@ -35,7 +38,7 @@ const KIND: Record<string, string> = {
 {img ? (
   <figure class="fig" style={`--ratio:${shot.ratio}`}>
     <Image src={img} alt={shot.alt ?? shot.caption ?? ''} widths={[400, 640, 1040]} quality={74}
-           sizes="(min-width: 1100px) 520px, (min-width: 700px) 46vw, 92vw"
+           sizes={sizes}
            loading="lazy" decoding="async" />
     {shot.caption && <figcaption>{shot.caption}</figcaption>}
   </figure>

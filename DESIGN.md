@@ -123,7 +123,6 @@ Every rule below was seen, fixed, then re-measured — not inferred.
 
 | Rule | Where it lives |
 |---|---|
-| Hero badge sits bottom-right above the steps strip and only renders ≥1180px — below that the centred h1 shares its x-range | `.hero__badge` |
 | The pinned process section arrives with step 1 lit and the bar at 1/n; the scroll timeline covers steps 2..n | `motion.ts` §5 |
 | Mixed-ratio galleries align to `start` so every caption sits on its own image | `.strip__track`, `.proof__grid` |
 | Proof sections are dark on every page type (home strip, hub "Jobs in…", service "…we've installed") | `sec--dark on-dark` |

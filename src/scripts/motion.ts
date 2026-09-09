@@ -33,8 +33,7 @@ gsap.matchMedia().add('(prefers-reduced-motion: no-preference)', () => {
     .to('.hero__eyebrow', { y: 0, opacity: 1, duration: .7 })
     .to('.hero h1 .line > span', { y: 0, duration: 1.05, stagger: .11 }, '-=.4') // y not yPercent: GSAP parses the CSS % start as px
     .to('.hero__deck, .hero__qual, .hero__cta', { y: 0, opacity: 1, duration: .8, stagger: .1 }, '-=.55')
-    .to('.hero__badge', { scale: 1, opacity: 1, duration: .8 }, '-=.6')
-    .to('.hero__steps > *', { y: 0, opacity: 1, duration: .6, stagger: .08 }, '-=.5');
+    .to('.hero__steps > *', { y: 0, opacity: 1, duration: .6, stagger: .08 }, '-=.2'); // was -=.5 behind a badge tween for an element that no longer exists
 
   /* hero image: slow ken-burns on scroll, not on a timer — it only moves if you do */
   if (document.querySelector('.hero__img')) gsap.to('.hero__img', {
@@ -90,6 +89,7 @@ gsap.matchMedia().add('(prefers-reduced-motion: no-preference)', () => {
       steps.forEach((s, k) => s.classList.toggle('is-on', k === i));
       if (fill) fill.style.transform = `scaleX(${(i + 1) / steps.length})`;
     };
+    proc.classList.add('proc--live'); // only now may the CSS dim the inactive steps
     light(0);
     ScrollTrigger.create({
       trigger: proc, start: 'top top', end: () => `+=${(steps.length - 1) * 65}%`, pin: true, scrub: .4,

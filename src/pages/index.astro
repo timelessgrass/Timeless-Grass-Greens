@@ -103,7 +103,7 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
       {DEV && haveCount() < floorCount && <p>Build note: {haveCount()} of {floorCount} client photographs on file. Every image below is a labeled stock stand-in for layout review, and none of them ships.</p>}
     </div></div>
     <div class="strip__track">
-      {[...shotsBy('finished').slice(1), ...shotsBy('context'), ...shotsBy('detail')].map((shot) => <Figure shot={shot} />)}
+      {[...shotsBy('finished').slice(1), ...shotsBy('context'), ...shotsBy('detail')].map((shot) => <Figure shot={shot} sizes="clamp(280px, 38vw, 520px)" />)}
     </div>
   </section>
 
