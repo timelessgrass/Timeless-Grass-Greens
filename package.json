@@ -5,7 +5,7 @@
   "private": true,
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build",
+    "build": "astro build && python3 scripts/check-links.py dist && python3 scripts/check-consistency.py dist",
     "preview": "astro preview",
     "check": "astro check",
     "verify": "python3 scripts/check-links.py dist && python3 scripts/check-consistency.py dist"
