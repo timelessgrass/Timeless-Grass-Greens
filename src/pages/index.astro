@@ -25,12 +25,12 @@ const ANSWER = {
 };
 
 const SVC = [
-  { slug: 'putting-greens',       name: 'Putting greens',        line: 'A green that rolls wrong gets used twice and then ignored. Yours gets its break, fringe and cup drawn before anything is cut.' },
-  { slug: 'residential-turf',     name: 'Residential lawns',     line: 'Your soil moves and turf will not stop it — Front Range clay swells up to twenty percent by volume when it gets wet. That is why your lawn does not get the same base as one in Myrtle Beach.' },
-  { slug: 'pet-turf',             name: 'Pet turf',              line: 'If a pet yard smells in August, the problem is under the turf and not in it. So the drainage gets designed before the grass does.' },
-  { slug: 'commercial-turf',      name: 'Commercial',            line: 'You have been told Colorado banned turf on commercial property. Half right: from 1 January 2026 the prohibition covers nonfunctional turf on commercial, institutional and HOA-common land, and functional turf is defined at C.R.S. 37-99-102(6.5) and stays legal.' },
-  { slug: 'sports-field-turf',    name: 'Sports fields',         line: 'Someone on the board will ask how hot it gets, and they should. Measured over a full day synthetic averaged 117°F against 78°F for grass, which makes shade and siting the argument rather than product.' },
-  { slug: 'indoor-turf',          name: 'Indoor facilities',     line: 'Indoors nothing rinses it and nothing dries it. In a 2020 laboratory study MRSA stayed viable longest in sand infill — 27 hours to half its viability, against 2 hours on EPDM rubber — so a cleaning schedule belongs in the job, not after it.' },
+  { slug: 'putting-greens',       name: 'Putting greens',        line: 'Practise at home instead of booking a tee time. Your break, fringe and cup get drawn before anything is cut, because a green that rolls wrong gets used twice and then ignored.' },
+  { slug: 'residential-turf',     name: 'Residential lawns',     line: 'Get your weekends back. No mowing, no watering, no reseeding the same bare patch every spring — and a base built for your ground so it stays flat.' },
+  { slug: 'pet-turf',             name: 'Pet turf',              line: 'Tired of mud on the floor and a dead strip where the dog runs? Pet turf drains, and we build the drainage before we build the lawn.' },
+  { slug: 'commercial-turf',      name: 'Commercial',            line: 'Your property looks the same in August as it did in April, with nobody out there maintaining it. Heard Colorado banned turf on commercial land? Half right — and the half that matters is on this page.' },
+  { slug: 'sports-field-turf',    name: 'Sports fields',         line: 'Play on it all season, in any weather, with no bare patch down the middle by July. Someone on the board will ask how hot it gets — we answer that one honestly.' },
+  { slug: 'indoor-turf',          name: 'Indoor facilities',     line: 'Train all year, whatever it is doing outside. Indoors nothing rinses it and nothing dries it, so the cleaning plan is part of the job rather than something you work out later.' },
 ];
 
 /* One frame per service. `shot: null` is deliberate on indoor facilities — there is no
@@ -54,10 +54,10 @@ const SVCFIG = [
    Sourced to the old site's step 02 — "a detailed quote with material options, layout, and
    next steps before any work begins" — and to the process section's base-and-drainage. */
 const QUOTE_HAS = [
-  { h: 'The turf you are getting',  p: 'Named, not described. Premium and budget turf are both real products with real prices, and you get told which one is in your number and what the other would cost.' },
-  { h: 'How deep the base goes',    p: 'Measured off your ground, not off a chart. It is the largest line in the price and the one you can never inspect once the grass is down, so it is written before it is built.' },
-  { h: 'The layout, drawn',         p: 'Where the seams fall, where the edges land, and on a green, where the break runs. Agreed before anything is cut.' },
-  { h: 'What happens next, dated',  p: 'The order of the work and what we need from you. No deposit is taken to produce any of this.' },
+  { h: 'The turf, named',        p: 'Not “premium grass”. The actual product, and what the cheaper one would have cost you.' },
+  { h: 'How deep the base goes', p: 'The biggest line in the price, and the one you can never check once the grass is down. So you get it in writing first.' },
+  { h: 'The layout, drawn',     p: 'Where the seams fall, where the edges land, and on a green, where the break runs.' },
+  { h: 'What happens next',     p: 'The order of the work, and what we need from you. No deposit to get any of it.' },
 ];
 
 const pair = (id: string) => ({ b: SHOTS.find((s) => s.pairId === id && s.kind === 'before')!, a: SHOTS.find((s) => s.pairId === id && s.kind === 'after')! });
@@ -82,7 +82,12 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
         <span class="line"><span>Green all year.</span></span>
         <span class="line"><span>No mower, <em>no mud.</em></span></span>
       </h1>
-      <p class="hero__deck">Artificial turf, pet turf and backyard putting greens. Whether yours ripples, puddles or starts to smell in three years is decided by the ground underneath it — so that is where the work goes.</p>
+      <ul class="hero__wins">
+        <li>No mowing, no watering, no fertilizer</li>
+        <li>Green in July and green in February</li>
+        <li>Nothing to reseed, no bare patches, no mud</li>
+        <li>Turf, pet turf, putting greens and sports fields</li>
+      </ul>
       <p class="hero__qual">
         {materials && <><b>American-made turf</b> · </>}<b>Free estimate</b> · <b>No pressure to sign</b>
       </p>
@@ -117,50 +122,22 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
   </section>
 
 
-  <!-- 3 · UNDER THE TURF — the H1 says the base decides, so this draws it. A photograph
-       cannot go here: none of the fifteen carries a location, and putting one beside
-       "Denver" would assert a market we cannot source. The strata are the assembly the
-       statutes describe; the three grounds are markets.ts's own `ground` field, verbatim. -->
+  <!-- 3 · WHAT GOES WRONG — was a drawn cross-section of the base build-up. It read as
+       three green bars, and a homepage is the wrong place to teach soil mechanics anyway.
+       Same argument, said the way a customer would say it: here is what you are afraid of,
+       here is what causes it. The technical detail lives on the service and guide pages. -->
   <section class="sec sec--green on-dark turf-marks turf-marks--dark">
     <div class="wrap">
       <div class="kick kick--left" data-reveal>
-        <p class="micro">What you are actually paying for</p>
-        <h2>The part you never see again.</h2>
+        <p class="micro">Before you sign with anyone</p>
+        <h2>Turf fails in three ways. All three start underneath.</h2>
       </div>
-      <div class="cut" data-reveal>
-        <div class="cut__fig">
-          <svg viewBox="0 0 520 300" role="img" aria-label="A cross-section through a turf install: sub-grade, compacted base, geotextile and turf with infill.">
-            <defs>
-              <clipPath id="cutclip"><rect x="0" y="0" width="520" height="300" rx="14" /></clipPath>
-            </defs>
-            <g clip-path="url(#cutclip)">
-              <g class="cut__band"><rect x="0" y="196" width="520" height="104" fill="var(--ground-dark)" opacity=".85" />
-                <path d="M0 214 Q130 206 260 214 T520 210" fill="none" stroke="var(--accent-on-dark)" stroke-width="1.2" opacity=".45" /></g>
-              <g class="cut__band"><rect x="0" y="120" width="520" height="78" fill="var(--ink-on-dark)" opacity=".13" />
-                {Array.from({ length: 46 }, (_, i) => <circle cx={7 + i * 11.4} cy={132 + ((i * 37) % 56)} r={2 + ((i * 13) % 3)} fill="var(--ink-on-dark)" opacity=".34" />)}</g>
-              <g class="cut__band"><rect x="0" y="110" width="520" height="11" fill="var(--accent-on-dark)" opacity=".3" />
-                <path d="M0 115.5H520" stroke="var(--accent-on-dark)" stroke-width="1" stroke-dasharray="5 4" opacity=".9" /></g>
-              <g class="cut__band"><rect x="0" y="62" width="520" height="49" fill="var(--accent)" />
-                {Array.from({ length: 64 }, (_, i) => <path d={`M${5 + i * 8.1} 62 v-${13 + ((i * 29) % 15)}`} stroke="var(--accent-on-dark)" stroke-width="1.7" stroke-linecap="round" opacity=".85" />)}</g>
-            </g>
-          </svg>
-        </div>
-        <ol class="cut__key">
-          <li><b>01</b><span><em>Turf and infill.</em> The part you can see, and the cheapest part to get right.</span></li>
-          <li><b>02</b><span><em>Geotextile.</em> Keeps the base out of the soil and the soil out of the base.</span></li>
-          <li><b>03</b><span><em>Compacted aggregate.</em> Depth comes off your soil, not a chart.</span></li>
-          <li><b>04</b><span><em>Sub-grade.</em> North Carolina writes it into the rule: compacted, and pitched to drain.</span></li>
-        </ol>
-      </div>
-      <div class="grounds">
-        {MARKETS.map((m) => (
-          <div data-reveal>
-            <h3>{m.short}</h3>
-            <p>{m.ground}</p>
-            <a href={`/${m.slug}/`} data-cta={`market-${m.slug}-ground`}>What the ground does here &rarr;</a>
-          </div>
-        ))}
-      </div>
+      <ul class="wrongs">
+        <li data-reveal><b>It goes wavy.</b><span>The ground moved and took the lawn with it. Front Range clay swells up to twenty percent by volume when it gets wet, so a base built for sand will ripple here.</span></li>
+        <li data-reveal><b>It holds puddles.</b><span>Turf drains fast. Your ground may not. If nobody checked before the roll went down, the water has nowhere to go.</span></li>
+        <li data-reveal><b>It starts to smell.</b><span>Almost always a pet yard where the liquid sits instead of leaving. Washing the grass will not fix it, because the smell is not in the grass.</span></li>
+      </ul>
+      <p class="wrongs__note">All three are decided before anyone unrolls anything. That is why we measure your ground first and price it second.</p>
     </div>
   </section>
 
@@ -272,10 +249,10 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
         <div class="proc__bar"><div class="proc__fill"></div></div>
       </div>
       <div class="proc__steps">
-        <div class="proc__step"><i>01</i><h3>You call, or send photos</h3><p>The first question is what the space is for. Dogs, kids, putting, a commercial site — that changes the turf and the infill before it changes the price.</p></div>
-        <div class="proc__step"><i>02</i><h3>Somebody comes out and measures</h3><p>Base depth comes off your soil, not a chart, and grade and drainage get checked before any number exists. A backing that can drain ten inches an hour is worth nothing if the ground under it will not take the water.</p></div>
-        <div class="proc__step"><i>03</i><h3>You read it before you decide</h3><p>Material options, layout and next steps, all of it before any work begins. If a cheaper turf will do your job you are told which one and exactly what you give up.</p></div>
-        <div class="proc__step"><i>04</i><h3>You approve the design, then we build</h3><p>Nothing is cut until you have approved the design. Then base, turf, infill, edges — site prep and cleanup are ours from the first day to the last.</p></div>
+        <div class="proc__step"><i>01</i><h3>You call, or send photos</h3><p>Tell us what the space is for. Dogs, kids, putting, a commercial site — that changes the turf before it changes the price.</p></div>
+        <div class="proc__step"><i>02</i><h3>Somebody comes out and measures</h3><p>We come to you and check the ground, the grade and the drainage. That is what sets the price, so it happens before the price does.</p></div>
+        <div class="proc__step"><i>03</i><h3>You read it before you decide</h3><p>Turf options, layout and what happens next. If a cheaper turf will do your job, we say so and tell you what you give up.</p></div>
+        <div class="proc__step"><i>04</i><h3>You approve the design, then we build</h3><p>Nothing is cut until you have said yes to the design. Prep, base, turf, infill, edges and the cleanup are all ours.</p></div>
       </div>
     </div>
   </section>
@@ -409,8 +386,8 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
   <!-- 15 · CLOSE — no invented scarcity. The reference claims a booking window; we have none stated. -->
   <section class="sec sec--dark on-dark close close--big turf-marks turf-marks--dark turf-marks--drift">
     <div class="wrap" data-reveal>
-      <h2>Get a number on your yard.</h2>
-      <p class="close__p">One visit and you will know what it costs. Nothing is ordered, dug or cut until you have the number in writing and you have said yes to it.</p>
+      <h2>Stop maintaining it. Start using it.</h2>
+      <p class="close__p">One visit and you will know what your yard costs. Nothing is ordered, dug or cut until you have said yes to the number.</p>
       {phoneHref && <a class="btn btn--primary btn--lg" href={phoneHref} data-cta="call-close">Call {phone}</a>}
     </div>
   </section>

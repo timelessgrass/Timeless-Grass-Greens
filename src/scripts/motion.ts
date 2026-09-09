@@ -47,7 +47,7 @@ gsap.matchMedia().add('(prefers-reduced-motion: no-preference)', () => {
   if (!document.querySelector('.hero--home')) { introDone = true; intro.kill(); } else intro
     .to('.hero__eyebrow', { y: 0, opacity: 1, duration: .7 })
     .to('.hero h1 .line > span', { y: 0, duration: 1.05, stagger: .11 }, '-=.4') // y not yPercent: GSAP parses the CSS % start as px
-    .to('.hero__deck, .hero__qual, .hero__cta', { y: 0, opacity: 1, duration: .8, stagger: .1 }, '-=.55')
+    .to('.hero__deck, .hero__wins > li, .hero__qual, .hero__cta', { y: 0, opacity: 1, duration: .8, stagger: .07 }, '-=.55')
     .to('.hero__steps > *', { y: 0, opacity: 1, duration: .6, stagger: .08 }, '-=.2'); // was -=.5 behind a badge tween for an element that no longer exists
 
   /* hero image: slow ken-burns on scroll, not on a timer — it only moves if you do */

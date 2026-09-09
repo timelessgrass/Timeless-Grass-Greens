@@ -334,7 +334,7 @@
 /* --- motion start states — ONLY once the ticker has proven alive --------------------------------- */
 .js-motion .hero__eyebrow { opacity: 0; transform: translateY(14px); }
 .js-motion .hero--home h1 .line > span { transform: translateY(110%); }
-.js-motion .hero--home .hero__deck, .js-motion .hero--home .hero__qual, .js-motion .hero--home .hero__cta { opacity: 0; transform: translateY(18px); }
+.js-motion .hero--home .hero__deck, .js-motion .hero--home .hero__wins > li, .js-motion .hero--home .hero__qual, .js-motion .hero--home .hero__cta { opacity: 0; transform: translateY(18px); }
 /* Scoped to .hero--home on purpose: only the homepage has an intro timeline to undo
    these. Unscoped, the Call button on every other page stayed at opacity 0 forever —
    invisible, but still 57px of clickable tel: link. */
@@ -344,5 +344,5 @@
 /* transition lives on .is-in only: the hidden start state must snap, not fade out first.
    `translate` not `transform`: composes with the cards' hover lift instead of overriding it */
 @media (prefers-reduced-motion: reduce) {
-  .js-motion .hero__eyebrow, .js-motion .hero--home h1 .line > span, .js-motion .hero--home .hero__deck, .js-motion .hero--home .hero__qual, .js-motion .hero--home .hero__cta, .js-motion .hero__steps > *, .js-motion [data-reveal] { opacity: 1; transform: none; translate: none; transition: none; }
+  .js-motion .hero__eyebrow, .js-motion .hero--home h1 .line > span, .js-motion .hero--home .hero__deck, .js-motion .hero--home .hero__wins > li, .js-motion .hero--home .hero__qual, .js-motion .hero--home .hero__cta, .js-motion .hero__steps > *, .js-motion [data-reveal] { opacity: 1; transform: none; translate: none; transition: none; }
 }
