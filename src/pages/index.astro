@@ -77,8 +77,9 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
     </div>
   </section>
 
+
   <!-- 2 · TRUE NUMBERS — the count-up mechanic on facts the client stated -->
-  <section class="sec sec--stone">
+  <section class="sec">
     <div class="wrap">
       <div class="kick" data-reveal>
         <p class="micro">Prove it before I read</p>
@@ -95,20 +96,9 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
     </div>
   </section>
 
-  <!-- 3 · GALLERY — drifts horizontally with scroll -->
-  <section class="strip sec--dark on-dark">
-    <div class="wrap"><div class="kick" data-reveal>
-      <p class="micro">The work</p>
-      <h2>Real yards. Ours.</h2>
-      {DEV && haveCount() < floorCount && <p>Build note: {haveCount()} of {floorCount} client photographs on file. Every image below is a labeled stock stand-in for layout review, and none of them ships.</p>}
-    </div></div>
-    <div class="strip__track">
-      {[...shotsBy('finished').slice(1), ...shotsBy('context'), ...shotsBy('detail')].map((shot) => <Figure shot={shot} sizes="clamp(280px, 38vw, 520px)" />)}
-    </div>
-  </section>
 
   <!-- 4 · STORY -->
-  <section class="sec">
+  <section class="sec sec--band">
     <div class="wrap story">
       <div data-reveal>
         <p class="micro">Who shows up</p>
@@ -121,18 +111,19 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
     </div>
   </section>
 
-  <!-- 5 · THE STANDARD — dark band, stripes drift -->
-  <section class="sec sec--green on-dark turf-marks turf-marks--dark turf-marks--drift">
-    <div class="wrap band">
-      <div class="band__copy" data-reveal>
-        <p class="micro">This is the whole standard</p>
-        <h2>We judge a job by whether the green is clean.</h2>
-        <p class="band__p">Look at a competitor&rsquo;s photo of their own work and count the leaves on the putting surface. If they couldn&rsquo;t be bothered to blow it off before photographing it, that tells you what the install looked like on day two.</p>
-        {phoneHref && <a class="btn btn--light" href={phoneHref} data-cta="call-standard">Call {phone}</a>}
-      </div>
-      <div class="band__fig" data-reveal>{shotsBy('finished').slice(5, 6).map((shot) => <Figure shot={shot} />)}</div>
+
+  <!-- 3 · GALLERY — drifts horizontally with scroll -->
+  <section class="strip sec--dark on-dark">
+    <div class="wrap"><div class="kick" data-reveal>
+      <p class="micro">The work</p>
+      <h2>Real yards. Ours.</h2>
+      {DEV && haveCount() < floorCount && <p>Build note: {haveCount()} of {floorCount} client photographs on file. Every image below is a labeled stock stand-in for layout review, and none of them ships.</p>}
+    </div></div>
+    <div class="strip__track">
+      {[...shotsBy('finished').slice(1), ...shotsBy('context'), ...shotsBy('detail')].map((shot) => <Figure shot={shot} sizes="clamp(280px, 38vw, 520px)" />)}
     </div>
   </section>
+
 
   <!-- 6 · SERVICES -->
   <section class="sec">
@@ -154,65 +145,20 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
     </div>
   </section>
 
-  <!-- 7 · DIFFERENTIATORS — six things, all stated by the client -->
-  <section class="sec sec--dark on-dark">
-    <div class="wrap">
-      <div class="split">
-        <div class="split__head" data-reveal>
-          <p class="micro">Why us, in his words</p>
-          <h2>Not every turf company is the same.</h2>
-          <p>Four things that are true. Each one is checkable — ask on the call.</p>
-          {phoneHref && <a class="btn btn--light" href={phoneHref} data-cta="call-diff">Call {phone}</a>}
-        </div>
-        <div class="diffs">
-          {DIFF.map((d) => <div class="diff" data-reveal><h3>{d.h}</h3><p>{d.p}</p></div>)}
-        </div>
+
+  <!-- 5 · THE STANDARD — dark band, stripes drift -->
+  <section class="sec sec--green on-dark turf-marks turf-marks--dark turf-marks--drift">
+    <div class="wrap band">
+      <div class="band__copy" data-reveal>
+        <p class="micro">This is the whole standard</p>
+        <h2>We judge a job by whether the green is clean.</h2>
+        <p class="band__p">Look at a competitor&rsquo;s photo of their own work and count the leaves on the putting surface. If they couldn&rsquo;t be bothered to blow it off before photographing it, that tells you what the install looked like on day two.</p>
+        {phoneHref && <a class="btn btn--light" href={phoneHref} data-cta="call-standard">Call {phone}</a>}
       </div>
+      <div class="band__fig" data-reveal>{shotsBy('finished').slice(5, 6).map((shot) => <Figure shot={shot} />)}</div>
     </div>
   </section>
 
-  <!-- 8 · PROCESS — pinned, scroll advances the steps -->
-  <section class="proc sec sec--green on-dark turf-marks turf-marks--dark">
-    <div class="wrap proc__in">
-      <div>
-        <p class="micro">How a job goes</p>
-        <h2 style="color:var(--ink-on-dark)">You call. We measure.<br />You get a number.</h2>
-        <div class="proc__bar"><div class="proc__fill"></div></div>
-      </div>
-      <div class="proc__steps">
-        <div class="proc__step"><i>01</i><h3>You call, or send photos</h3><p>We ask what the space actually does. Dogs, kids, putting, or all three — each one changes the product and the infill.</p></div>
-        <div class="proc__step"><i>02</i><h3>We measure on site</h3><p>Base depth comes from your soil, not a standard number. Drainage and grade are checked before quoting, because that is what fails later.</p></div>
-        <div class="proc__step"><i>03</i><h3>You get a detailed quote</h3><p>Material options, layout and next steps, in writing before any work begins. If a cheaper turf would do the job, we say which one and what you give up.</p></div>
-        <div class="proc__step"><i>04</i><h3>We install, and we clean up</h3><p>Base, turf, infill, edges. Site prep and cleanup are ours from start to finish, and you approve the design before we install.</p></div>
-      </div>
-    </div>
-  </section>
-
-  <!-- 9 · BEFORE / AFTER — scroll wipes the after over the before -->
-  {PAIRS.length > 0 && (
-  <section class="sec sec--stone">
-    <div class="wrap">
-      <div class="kick" data-reveal>
-        <p class="micro">Same spot, twice</p>
-        <h2>Scroll, and watch it change.</h2>
-        <p>The same angle before we started and after we left. Keep scrolling — the after wipes across.</p>
-      </div>
-      <div class="wipes">
-        {PAIRS.map((id) => { const p = pair(id); return (
-          <div>
-            <div class="wipe" data-reveal>
-              <span class="wipe__tag wipe__tag--b">Before</span><span class="wipe__tag wipe__tag--a">After</span>
-              <Figure shot={p.b} />
-              <div class="wipe__after"><Figure shot={p.a} /></div>
-              <span class="wipe__line"></span>
-            </div>
-            {p.a.caption && <p class="wipe__cap">{p.a.caption}</p>}
-          </div>
-        ); })}
-      </div>
-    </div>
-  </section>
-  )}
 
   <!-- 10 · FAQ -->
   <section class="sec">
@@ -240,6 +186,51 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
       </div>
     </div>
   </section>
+
+
+  <!-- 8 · PROCESS — pinned, scroll advances the steps -->
+  <section class="proc sec sec--green on-dark turf-marks turf-marks--dark">
+    <div class="wrap proc__in">
+      <div>
+        <p class="micro">How a job goes</p>
+        <h2 style="color:var(--ink-on-dark)">You call. We measure.<br />You get a number.</h2>
+        <div class="proc__bar"><div class="proc__fill"></div></div>
+      </div>
+      <div class="proc__steps">
+        <div class="proc__step"><i>01</i><h3>You call, or send photos</h3><p>We ask what the space actually does. Dogs, kids, putting, or all three — each one changes the product and the infill.</p></div>
+        <div class="proc__step"><i>02</i><h3>We measure on site</h3><p>Base depth comes from your soil, not a standard number. Drainage and grade are checked before quoting, because that is what fails later.</p></div>
+        <div class="proc__step"><i>03</i><h3>You get a detailed quote</h3><p>Material options, layout and next steps, in writing before any work begins. If a cheaper turf would do the job, we say which one and what you give up.</p></div>
+        <div class="proc__step"><i>04</i><h3>We install, and we clean up</h3><p>Base, turf, infill, edges. Site prep and cleanup are ours from start to finish, and you approve the design before we install.</p></div>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- 7 · DIFFERENTIATORS — six things, all stated by the client -->
+  <section class="sec sec--dark on-dark">
+    <div class="wrap">
+      <div class="split">
+        <div class="split__head" data-reveal>
+          <p class="micro">Why us, in his words</p>
+          <h2>Not every turf company is the same.</h2>
+          <p>Four things that are true. Each one is checkable — ask on the call.</p>
+          {phoneHref && <a class="btn btn--light" href={phoneHref} data-cta="call-diff">Call {phone}</a>}
+        </div>
+        <div class="diffs">
+          {DIFF.map((d) => <div class="diff" data-reveal><h3>{d.h}</h3><p>{d.p}</p></div>)}
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- answer box — authored for extraction -->
+  <section class="sec answer-box"><div class="wrap" data-reveal>
+    <p class="micro">The short version</p>
+    <h2 class="answer-box__q">{ANSWER.question}</h2>
+    <p class="answer-box__a">{ANSWER.answer}</p>
+  </div></section>
+
 
   <!-- 11 · FORM -->
   <section class="sec sec--band" id="quote">
@@ -273,12 +264,6 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
     </div>
   </section>
 
-  <!-- answer box — authored for extraction -->
-  <section class="sec answer-box"><div class="wrap" data-reveal>
-    <p class="micro">The short version</p>
-    <h2 class="answer-box__q">{ANSWER.question}</h2>
-    <p class="answer-box__a">{ANSWER.answer}</p>
-  </div></section>
 
   <!-- 12 · CLOSE — no invented scarcity. The reference claims a booking window; we have none stated. -->
   <section class="sec sec--dark on-dark close close--big turf-marks turf-marks--dark turf-marks--drift">
@@ -288,5 +273,32 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
       {phoneHref && <a class="btn btn--primary btn--lg" href={phoneHref} data-cta="call-close">Call {phone}</a>}
     </div>
   </section>
+
+
+  <!-- 9 · BEFORE / AFTER — scroll wipes the after over the before -->
+  {PAIRS.length > 0 && (
+  <section class="sec sec--stone">
+    <div class="wrap">
+      <div class="kick" data-reveal>
+        <p class="micro">Same spot, twice</p>
+        <h2>Scroll, and watch it change.</h2>
+        <p>The same angle before we started and after we left. Keep scrolling — the after wipes across.</p>
+      </div>
+      <div class="wipes">
+        {PAIRS.map((id) => { const p = pair(id); return (
+          <div>
+            <div class="wipe" data-reveal>
+              <span class="wipe__tag wipe__tag--b">Before</span><span class="wipe__tag wipe__tag--a">After</span>
+              <Figure shot={p.b} />
+              <div class="wipe__after"><Figure shot={p.a} /></div>
+              <span class="wipe__line"></span>
+            </div>
+            {p.a.caption && <p class="wipe__cap">{p.a.caption}</p>}
+          </div>
+        ); })}
+      </div>
+    </div>
+  </section>
+  )}
 
 </Base>
