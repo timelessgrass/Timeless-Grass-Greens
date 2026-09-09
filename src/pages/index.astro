@@ -40,8 +40,12 @@ const DIFF = [
   { h: 'How he judges a competitor',    p: 'Open their own photo of their own work and count the leaves on the putting green. That is his test.' },
 ];
 
-const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'];
 const pair = (id: string) => ({ b: SHOTS.find((s) => s.pairId === id && s.kind === 'before')!, a: SHOTS.find((s) => s.pairId === id && s.kind === 'after')! });
+/* A wipe scrubs an AFTER photograph across a BEFORE photograph. With neither on file the
+   section shipped four empty frames wearing "Before" and "After" tags, under a heading
+   inviting you to watch it change. Only pairs where BOTH photographs exist are rendered,
+   and the section disappears entirely until at least one does. */
+const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(id); return !!p.b?.file && !!p.a?.file; });
 ---
 <Base
   title="TIMELESS Grass & Greens — Artificial Turf & Putting Greens"
@@ -185,6 +189,7 @@ const pair = (id: string) => ({ b: SHOTS.find((s) => s.pairId === id && s.kind =
   </section>
 
   <!-- 9 · BEFORE / AFTER — scroll wipes the after over the before -->
+  {PAIRS.length > 0 && (
   <section class="sec sec--stone">
     <div class="wrap">
       <div class="kick" data-reveal>
@@ -207,6 +212,7 @@ const pair = (id: string) => ({ b: SHOTS.find((s) => s.pairId === id && s.kind =
       </div>
     </div>
   </section>
+  )}
 
   <!-- 10 · FAQ -->
   <section class="sec">
