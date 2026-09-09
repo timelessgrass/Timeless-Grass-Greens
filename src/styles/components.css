@@ -127,15 +127,24 @@
 .strip__track .fig { flex: 0 0 clamp(280px, 38vw, 520px); }
 .strip__track .fig img, .strip__track .fig__slot { border-radius: var(--radius-card); }
 @media (max-width: 899px), (hover: none) {
-  .strip { overflow-x: auto; overflow-y: hidden; -webkit-overflow-scrolling: touch; scroll-snap-type: x mandatory; scrollbar-width: none; }
-  .strip::-webkit-scrollbar { display: none; }
-  .strip__track { will-change: auto; }
-  .strip__track > .fig { scroll-snap-align: start; }
+  /* The scroller is the TRACK, not the section. The section also holds the heading, and a
+     heading inside a mandatory-snap container drags off-screen with the photographs — on a
+     375px phone it was already sitting 19px to the left of where it belongs. */
+  .strip { overflow: hidden; }
+  .strip__track { width: auto; overflow-x: auto; overflow-y: hidden; -webkit-overflow-scrolling: touch;
+                  scroll-snap-type: x mandatory; scrollbar-width: none; will-change: auto; }
+  .strip__track::-webkit-scrollbar { display: none; }
+  /* 280px on a 375px phone showed one photograph and a sliver, which reads as the end of the
+     row rather than the start of it. 74vw leaves a quarter of the next frame in view, so the
+     swipe is offered instead of guessed at. */
+  .strip__track > .fig { flex: 0 0 74vw; scroll-snap-align: start; }
 }
 .proof__grid { display: grid; align-items: start; gap: clamp(1rem, 2.4vw, 1.6rem); margin-top: 2.2rem; } /* start: mixed ratios keep each caption on its own image */
 @media (min-width: 640px) { .proof__grid { grid-template-columns: repeat(2, 1fr); } }
 @media (min-width: 1000px) { .proof__grid { grid-template-columns: repeat(3, 1fr); } }
 .proof__grid .fig img, .proof__grid .fig__slot { border-radius: var(--radius-card); }
+.qa__links { display: flex; flex-wrap: wrap; gap: 0 1.4rem; margin-top: .6rem; }
+.qa__links a { display: inline-flex; align-items: center; min-height: 44px; color: var(--accent); font-weight: 600; font-size: .9rem; }
 .proof__note { margin-top: 1.8rem; font-size: .88rem; color: var(--ink-dim); border-left: 2px solid var(--accent); padding-left: .9rem; max-width: 56ch; }
 
 /* --- story ----------------------------------------------------------------------- */

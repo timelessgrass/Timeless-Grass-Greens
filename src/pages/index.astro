@@ -97,22 +97,29 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
   </section>
 
 
-  <!-- 4 · STORY -->
-  <section class="sec sec--band">
-    <div class="wrap story">
-      <div data-reveal>
-        <p class="micro">Who shows up</p>
-        <h2>You deal with the owners. First call to final walkthrough.</h2>
-        <p>Timeless opened in 2024. Brian has been installing turf for thirteen years. Both are true, and rounding one into the other would have been easy — it is the first thing we decided not to do. What you are hiring is the thirteen years.</p>
-        <p>The number comes from someone standing in your yard, not from a square-footage calculator. Base depth changes with the soil — Denver clay is not Grand Strand sand — so the measuring happens before the price does.</p>
-        {phoneHref && <a class="btn btn--primary" href={phoneHref} data-cta="call-story">Call {phone}</a>}
+  <!-- 3 · UNDER THE TURF — the H1 says the base decides. This is where it is proved.
+       Every sentence is markets.ts's own `ground` field, sourced per market. -->
+  <section class="sec sec--green on-dark turf-marks turf-marks--dark">
+    <div class="wrap">
+      <div class="kick" data-reveal>
+        <p class="micro">What you are actually paying for</p>
+        <h2>Same turf. Three different bases.</h2>
+        <p>The blades are the part you can see. Whether the surface ripples, ponds or smells in three years is decided by the ground it was built on — and that ground is not the same in the three places we work.</p>
       </div>
-      <div class="story__fig" data-reveal>{shotsBy('finished').slice(4, 5).map((shot) => <Figure shot={shot} />)}</div>
+      <ul class="cards">
+        {MARKETS.map((m) => (
+          <li class="card" data-reveal>
+            <h3>{m.short}</h3>
+            <p>{m.ground}</p>
+            <a href={`/${m.slug}/`} data-cta={`market-${m.slug}-ground`}>What the ground does here</a>
+          </li>
+        ))}
+      </ul>
     </div>
   </section>
 
 
-  <!-- 3 · GALLERY — drifts horizontally with scroll -->
+  <!-- 4 · GALLERY — drifts horizontally with scroll -->
   <section class="strip sec--dark on-dark">
     <div class="wrap"><div class="kick" data-reveal>
       <p class="micro">The work</p>
@@ -125,7 +132,47 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
   </section>
 
 
-  <!-- 6 · SERVICES -->
+  <!-- 5 · STORY -->
+  <section class="sec sec--band">
+    <div class="wrap story">
+      <div data-reveal>
+        <p class="micro">Who shows up</p>
+        <h2>You deal with the owners. First call to final walkthrough.</h2>
+        <p>Timeless opened in 2024. Brian has been installing turf for thirteen years. Both are true, and rounding one into the other would have been easy — it is the first thing we decided not to do. What you are hiring is the thirteen years.</p>
+        <p>The number comes from someone standing in your yard, not from a square-footage calculator. Base depth changes with the soil — Denver clay is not Grand Strand sand — so the measuring happens before the price does.</p>
+        {phoneHref && <a class="btn btn--primary" href={phoneHref} data-cta="call-story">Call {phone}</a>}
+      </div>
+      <div class="story__fig" data-reveal>{shotsBy('finished').slice(4, 5).map((shot) => <Figure shot={shot} />)}</div>
+    </div>
+  </section>
+  <!-- 6 · BEFORE / AFTER — scroll wipes the after over the before. Gated on real
+       pairs; it renders nothing until Brian sends them. Placed in the proof cluster, not
+       after the closing CTA where it used to sit. -->
+  {PAIRS.length > 0 && (
+  <section class="sec sec--green on-dark turf-marks turf-marks--dark">
+    <div class="wrap">
+      <div class="kick" data-reveal>
+        <p class="micro">Same spot, twice</p>
+        <h2>Scroll, and watch it change.</h2>
+        <p>The same angle before we started and after we left. Keep scrolling — the after wipes across.</p>
+      </div>
+      <div class="wipes">
+        {PAIRS.map((id) => { const p = pair(id); return (
+          <div>
+            <div class="wipe" data-reveal>
+              <span class="wipe__tag wipe__tag--b">Before</span><span class="wipe__tag wipe__tag--a">After</span>
+              <Figure shot={p.b} />
+              <div class="wipe__after"><Figure shot={p.a} /></div>
+              <span class="wipe__line"></span>
+            </div>
+            {p.a.caption && <p class="wipe__cap">{p.a.caption}</p>}
+          </div>
+        ); })}
+      </div>
+    </div>
+  </section>
+  )}
+  <!-- 7 · SERVICES -->
   <section class="sec">
     <div class="wrap">
       <div class="kick" data-reveal>
@@ -141,51 +188,6 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
             <a href={`/services/${s.slug}/`} data-cta={`svc-${s.slug}`}>How we do it &rarr;</a>
           </div>
         ))}
-      </div>
-    </div>
-  </section>
-
-
-  <!-- 5 · THE STANDARD — dark band, stripes drift -->
-  <section class="sec sec--green on-dark turf-marks turf-marks--dark turf-marks--drift">
-    <div class="wrap band">
-      <div class="band__copy" data-reveal>
-        <p class="micro">How he grades a competitor</p>
-        <h2>Zoom in on their green. Count the leaves.</h2>
-        <p class="band__p">Not the design. Not the wording. The putting surface in the one photograph they chose to lead with. A blower costs nothing and takes two minutes — so if a crew skipped it on the shot everybody sees first, ask what else got skipped the day they drove away. That is his whole test, and it is cheap to meet and impossible to fake.</p>
-        {phoneHref && <a class="btn btn--light" href={phoneHref} data-cta="call-standard">Call {phone}</a>}
-      </div>
-      <div class="band__fig" data-reveal>{shotsBy('finished').slice(5, 6).map((shot) => <Figure shot={shot} />)}</div>
-    </div>
-  </section>
-
-
-  <!-- 10 · FAQ -->
-  <section class="sec">
-    <div class="wrap">
-      <div class="kick" data-reveal>
-        <p class="micro">Before you call</p>
-        <h2>The questions we actually get.</h2>
-      </div>
-      <div class="faq" data-reveal>
-        <details class="qa"><summary><h3>Does artificial turf get hot?</h3></summary>
-          <p>Yes. Hotter than asphalt. Measured across a full day, synthetic surfaces averaged about 117&deg;F against 78&deg;F for natural grass and 110&deg;F for asphalt, with a peak of 200&deg;F on a 98&deg;F day (Williams and Pulley, Brigham Young University). If an installer tells you it runs cooler than your driveway, they are wrong.</p>
-          <p>It is a contact problem, not an air problem. A 2024 review of 23 studies found air temperature over turf only 1&ndash;2&deg;F higher. Fine in shoes. Real for bare feet and paws. Shade does more than any infill swap — in that same review shade was worth about 25&deg;C, against 3.2 to 7.9&deg;C for changing infill. Where a spot is wrong for turf, we say so.</p>
-        </details>
-        <details class="qa"><summary><h3>Are there rebates for tearing out my lawn?</h3></summary>
-          <p>Not in Horry County. We searched the Grand Strand Water &amp; Sewer Authority programs and the Horry County, Myrtle Beach and North Myrtle Beach codes. No turf rebate, no water rebate, no landscape-conversion incentive. Colorado and Florida differ by water district, and most Western rebates pay for living plantings rather than synthetic turf — Castle Rock Water pays $3.25 a square foot and excludes artificial turf in writing.</p>
-          <p>Test any rebate claim in ninety seconds. Ask for the program name, the URL, the dollar amount per square foot, and the sentence in the rules that says synthetic turf qualifies. A real program has all four. Ask us before you count on any of it applying to your address.</p>
-          <p><a href="/guides/no-turf-rebates-grand-strand/" data-cta="guide-rebates-sc">Why there are no turf rebates in Horry County</a> &middot; <a href="/guides/colorado-water-rebates-and-turf/" data-cta="guide-rebates-co">Denver-metro water rebates and artificial turf</a></p>
-        </details>
-        <details class="qa"><summary><h3>What does it cost?</h3></summary>
-          <p>Per job, after measuring. The base is most of the work, so the number comes from what is under your yard rather than what goes on top of it. Square footage, access, what comes out, drainage and the product all move it. A small job costs more per square foot than a large one, because a day on site costs the same either way.</p>
-          <p>If two quotes are thousands apart, find out what changed. Ask both for base depth, roll widths and seam count, and infill weight per square foot — the parts you cannot see once the turf is down. Cheap turf and premium turf are both real products. In the owner&rsquo;s words, you get what you pay for, and the quote names which one you are getting.</p>
-        </details>
-        <details class="qa"><summary><h3>Will it smell if I have dogs?</h3></summary>
-          <p>Only if drainage fails. The blades are inert — urine passes straight through them and settles in the infill and at the backing, which is why washing the grass never fixes it. The smell is not in the grass.</p>
-          <p>A pet run needs infill and a base built to move liquid, and that is decided before anyone unrolls turf. Florida wrote the infill half of it into a rule.</p>
-          <p><a href="/guides/florida-turf-infill-rules/" data-cta="guide-infill">What northeast Florida allows as infill</a></p>
-        </details>
       </div>
     </div>
   </section>
@@ -207,9 +209,7 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
       </div>
     </div>
   </section>
-
-
-  <!-- 7 · DIFFERENTIATORS — six things, all stated by the client -->
+  <!-- 9 · DIFFERENTIATORS — six things, all stated by the client -->
   <section class="sec sec--dark on-dark">
     <div class="wrap">
       <div class="split">
@@ -227,7 +227,70 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
   </section>
 
 
-  <!-- answer box — authored for extraction -->
+  <!-- 10 · THE STANDARD — dark band, stripes drift -->
+  <section class="sec sec--green on-dark turf-marks turf-marks--dark turf-marks--drift">
+    <div class="wrap band">
+      <div class="band__copy" data-reveal>
+        <p class="micro">How he grades a competitor</p>
+        <h2>Zoom in on their green. Count the leaves.</h2>
+        <p class="band__p">Not the design. Not the wording. The putting surface in the one photograph they chose to lead with. A blower costs nothing and takes two minutes — so if a crew skipped it on the shot everybody sees first, ask what else got skipped the day they drove away. That is his whole test, and it is cheap to meet and impossible to fake.</p>
+        {phoneHref && <a class="btn btn--light" href={phoneHref} data-cta="call-standard">Call {phone}</a>}
+      </div>
+      <div class="band__fig" data-reveal>{shotsBy('finished').slice(5, 6).map((shot) => <Figure shot={shot} />)}</div>
+    </div>
+  </section>
+
+
+  <!-- 11 · FAQ -->
+  <section class="sec">
+    <div class="wrap">
+      <div class="kick" data-reveal>
+        <p class="micro">Before you call</p>
+        <h2>The questions we actually get.</h2>
+      </div>
+      <div class="faq" data-reveal>
+        <details class="qa"><summary><h3>Does artificial turf get hot?</h3></summary>
+          <p>Yes. Hotter than asphalt. Measured across a full day, synthetic surfaces averaged about 117&deg;F against 78&deg;F for natural grass and 110&deg;F for asphalt, with a peak of 200&deg;F on a 98&deg;F day (Williams and Pulley, Brigham Young University). If an installer tells you it runs cooler than your driveway, they are wrong.</p>
+          <p>It is a contact problem, not an air problem. A 2024 review of 23 studies found air temperature over turf only 1&ndash;2&deg;F higher. Fine in shoes. Real for bare feet and paws. Shade does more than any infill swap — in that same review shade was worth about 25&deg;C, against 3.2 to 7.9&deg;C for changing infill. Where a spot is wrong for turf, we say so.</p>
+        </details>
+        <details class="qa"><summary><h3>Are there rebates for tearing out my lawn?</h3></summary>
+          <p>Not in Horry County. We searched the Grand Strand Water &amp; Sewer Authority programs and the Horry County, Myrtle Beach and North Myrtle Beach codes. No turf rebate, no water rebate, no landscape-conversion incentive. Colorado and Florida differ by water district, and most Western rebates pay for living plantings rather than synthetic turf — Castle Rock Water pays $3.25 a square foot and excludes artificial turf in writing.</p>
+          <p>Test any rebate claim in ninety seconds. Ask for the program name, the URL, the dollar amount per square foot, and the sentence in the rules that says synthetic turf qualifies. A real program has all four. Ask us before you count on any of it applying to your address.</p>
+          <p class="qa__links"><a href="/guides/no-turf-rebates-grand-strand/" data-cta="guide-rebates-sc">Why there are no turf rebates in Horry County</a><a href="/guides/colorado-water-rebates-and-turf/" data-cta="guide-rebates-co">Denver-metro water rebates and artificial turf</a></p>
+        </details>
+        <details class="qa"><summary><h3>What does it cost?</h3></summary>
+          <p>Per job, after measuring. The base is most of the work, so the number comes from what is under your yard rather than what goes on top of it. Square footage, access, what comes out, drainage and the product all move it. A small job costs more per square foot than a large one, because a day on site costs the same either way.</p>
+          <p>If two quotes are thousands apart, find out what changed. Ask both for base depth, roll widths and seam count, and infill weight per square foot — the parts you cannot see once the turf is down. Cheap turf and premium turf are both real products. In the owner&rsquo;s words, you get what you pay for, and the quote names which one you are getting.</p>
+        </details>
+        <details class="qa"><summary><h3>Will it smell if I have dogs?</h3></summary>
+          <p>Only if drainage fails. The blades are inert — urine passes straight through them and settles in the infill and at the backing, which is why washing the grass never fixes it. The smell is not in the grass.</p>
+          <p>A pet run needs infill and a base built to move liquid, and that is decided before anyone unrolls turf. Florida wrote the infill half of it into a rule.</p>
+          <p class="qa__links"><a href="/guides/florida-turf-infill-rules/" data-cta="guide-infill">What northeast Florida allows as infill</a></p>
+        </details>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- 12 · SERVICE AREAS — "do you come to my town" had been a footnote inside the form
+       band at 87% depth. Towns are markets.ts `towns` only: the places the client named on
+       the call or on his own site. src/data/cities/ holds 170 researched towns; those are
+       page candidates, not a coverage claim, and are deliberately not listed here. -->
+  <section class="sec sec--band">
+    <div class="wrap">
+      <div class="kick" data-reveal>
+        <p class="micro">Do you come to my town</p>
+        <h2>Three markets, and the towns he named in each.</h2>
+      </div>
+      <ul class="mkts" id="markets">
+        {MARKETS.map((m) => <li><a href={`/${m.slug}/`} data-cta={`market-${m.slug}`}><span class="mkts__n">{m.name}</span><span class="mkts__s">{m.towns.join(' · ')}</span></a></li>)}
+      </ul>
+      <p class="proof__note">Not on the list? Each market runs wider than the towns named here — the market page carries the whole area, and a call settles it in a minute.</p>
+    </div>
+  </section>
+
+
+  <!-- 13 · ANSWER BOX — authored for extraction -->
   <section class="sec answer-box"><div class="wrap" data-reveal>
     <p class="micro">The short version</p>
     <h2 class="answer-box__q">{ANSWER.question}</h2>
@@ -235,16 +298,13 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
   </div></section>
 
 
-  <!-- 11 · FORM -->
+  <!-- 14 · FORM -->
   <section class="sec sec--band" id="quote">
     <div class="wrap formband">
       <div data-reveal>
         <p class="micro">Get a number on it</p>
         <h2>{phone} is the owner&rsquo;s phone.</h2>
         <p>Not an office line. Tell him what the space is for — dogs, kids, putting, or a commercial site — because that one answer changes the product and the base. If it is easier to type it, the form is four fields.</p>
-        <ul class="mkts" id="markets">
-          {MARKETS.map((m) => <li><a href={`/${m.slug}/`} data-cta={`market-${m.slug}`}><span class="mkts__n">{m.name}</span><span class="mkts__s">{m.towns.join(' · ')}</span></a></li>)}
-        </ul>
       </div>
       <!-- THE one form. Lead destination is not wired: brief.conversion.lead_destination is UNKNOWN. Gate 10 blocks launch until all eight test_lead flags are true. -->
       <form class="quote" name="quote" method="POST" action="/thanks/" data-netlify="true" netlify-honeypot="company" data-cta="quote-form" aria-labelledby="quote-h" data-reveal>
@@ -268,7 +328,7 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
   </section>
 
 
-  <!-- 12 · CLOSE — no invented scarcity. The reference claims a booking window; we have none stated. -->
+  <!-- 15 · CLOSE — no invented scarcity. The reference claims a booking window; we have none stated. -->
   <section class="sec sec--dark on-dark close close--big turf-marks turf-marks--dark turf-marks--drift">
     <div class="wrap" data-reveal>
       <h2>Check every line on this page.</h2>
@@ -277,31 +337,5 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
     </div>
   </section>
 
-
-  <!-- 9 · BEFORE / AFTER — scroll wipes the after over the before -->
-  {PAIRS.length > 0 && (
-  <section class="sec sec--stone">
-    <div class="wrap">
-      <div class="kick" data-reveal>
-        <p class="micro">Same spot, twice</p>
-        <h2>Scroll, and watch it change.</h2>
-        <p>The same angle before we started and after we left. Keep scrolling — the after wipes across.</p>
-      </div>
-      <div class="wipes">
-        {PAIRS.map((id) => { const p = pair(id); return (
-          <div>
-            <div class="wipe" data-reveal>
-              <span class="wipe__tag wipe__tag--b">Before</span><span class="wipe__tag wipe__tag--a">After</span>
-              <Figure shot={p.b} />
-              <div class="wipe__after"><Figure shot={p.a} /></div>
-              <span class="wipe__line"></span>
-            </div>
-            {p.a.caption && <p class="wipe__cap">{p.a.caption}</p>}
-          </div>
-        ); })}
-      </div>
-    </div>
-  </section>
-  )}
 
 </Base>
