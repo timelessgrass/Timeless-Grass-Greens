@@ -25,19 +25,19 @@ const ANSWER = {
 };
 
 const SVC = [
-  { slug: 'putting-greens',       name: 'Putting greens',        line: 'Roll is built underneath, not bought off a roll. Base, fringe, cup, break — designed, not accidental.' },
-  { slug: 'residential-turf',     name: 'Residential lawns',     line: 'Same product, three different installs — because Front Range clay and coastal sand are different jobs.' },
-  { slug: 'pet-turf',             name: 'Pet turf',              line: 'Odor is a drainage failure, not a turf failure. It gets fixed six inches down, not with a spray.' },
-  { slug: 'commercial-turf',      name: 'Commercial',            line: 'Colorado now separates functional turf from non-functional. Which side your project sits on decides everything.' },
-  { slug: 'sports-field-turf',    name: 'Sports fields',         line: 'The category Colorado explicitly protects, and the work parks departments are actually buying.' },
-  { slug: 'indoor-turf',          name: 'Indoor facilities',     line: 'No UV, no drainage. Traffic, pad and how it fixes to a hard floor decide the spec instead.' },
+  { slug: 'putting-greens',       name: 'Putting greens',        line: 'A green that rolls wrong gets used twice, then ignored. Roll lives underneath — base, fringe, cup, break, all designed before anything is cut.' },
+  { slug: 'residential-turf',     name: 'Residential lawns',     line: 'Your soil moves and turf will not stop it. Front Range clay swells up to twenty percent by volume when wet; the coast is sand over a shallow water table. The base is what changes.' },
+  { slug: 'pet-turf',             name: 'Pet turf',              line: 'If the yard smells in August, that is the base, not the grass. Florida wrote the drainage half into a rule for single-family lots — permeability through the turf, the backing and the subgrade, and no compacting the soil beneath it.' },
+  { slug: 'commercial-turf',      name: 'Commercial',            line: 'You have been told Colorado banned turf on commercial property. Half right: from 1 January 2026 the prohibition covers nonfunctional turf on commercial, institutional and HOA-common land, and functional turf is defined at C.R.S. 37-99-102(6.5) and stays legal.' },
+  { slug: 'sports-field-turf',    name: 'Sports fields',         line: 'Someone on the board will ask how hot it gets, and they should. Measured over a full day synthetic averaged 117°F against 78°F for grass, which makes shade and siting the argument rather than product.' },
+  { slug: 'indoor-turf',          name: 'Indoor facilities',     line: 'Indoors nothing rinses it and nothing dries it. In a 2020 laboratory study MRSA stayed viable longest in sand infill — 27 hours to half its viability, against 2 hours on EPDM rubber — so a cleaning schedule belongs in the job, not after it.' },
 ];
 
 const DIFF = [
-  { h: 'American-made turf',            p: 'The owner’s own words for what goes down: all American-made stuff, premium stuff.' },
-  { h: 'Base built to your soil',       p: 'Expansive clay in Denver, sand and a high water table on the coast. The base changes; the quote says how.' },
-  { h: 'The founder’s thirteen years', p: 'His years, stated as his. Timeless started in 2024 and we’d rather say so than round it up.' },
-  { h: 'How he judges a competitor',    p: 'Open their own photo of their own work and count the leaves on the putting green. That is his test.' },
+  { h: 'American-made turf',            p: 'The owner’s words for what goes in the ground: all American-made stuff, premium stuff. We print his sentence, not ours.' },
+  { h: 'Your soil sets the base depth', p: 'A backing can drain ten inches an hour. Your ground may not — that is New Jersey DEP’s line, not ours. Front Range clay swells. Coastal water tables sit inches down. The base changes, and the quote says how.' },
+  { h: 'Thirteen years, and they are his', p: 'Timeless started in 2024. Thirteen years of installing turf came before it. Two numbers, and you get both, because the company’s age and the installer’s are not the same thing.' },
+  { h: 'Count the leaves',              p: 'Pull up any installer’s site. Find their photo of their own putting green. Count the leaves on it. In his words: you can’t even blow off your green. That is his test of other companies — run it on ours too.' },
 ];
 
 const pair = (id: string) => ({ b: SHOTS.find((s) => s.pairId === id && s.kind === 'before')!, a: SHOTS.find((s) => s.pairId === id && s.kind === 'after')! });
@@ -57,23 +57,23 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
   <section class="hero hero--home">
     <HeroImage file={hero} />
     <div class="wrap">
-      <p class="hero__eyebrow">Turf &amp; putting greens · Three markets</p>
+      <p class="hero__eyebrow">Turf, pet turf &amp; putting greens</p>
       <h1>
-        <span class="line"><span>Greens that roll true.</span></span>
-        <span class="line"><span>Turf that <em>stays clean.</em></span></span>
+        <span class="line"><span>You&rsquo;ve seen bad turf.</span></span>
+        <span class="line"><span>The base <em>decides.</em></span></span>
       </h1>
-      <p class="hero__deck">Artificial turf and backyard putting greens — installed, not sold from a catalog. Denver metro, the Grand Strand, northeast Florida.</p>
+      <p class="hero__deck">The turf is the easy part. Ripples, puddles and smell all start underneath — and Denver clay heaves, Grand Strand sand drains, and in northeast Florida the problem is heat and where the shade falls.</p>
       <p class="hero__qual">
-        {materials && <><b>American-made turf</b> · </>}<b>Founder with 13 years</b> · <b>Free estimate, no pressure</b>
+        {materials && <><b>American-made turf</b> · </>}<b>Founder with 13 years</b> · <b>Free estimate, measured on site</b>
       </p>
       <div class="hero__cta">
         {phoneHref && <a class="btn btn--primary" href={phoneHref} data-cta="call-hero">Call {phone}</a>}
       </div>
     </div>
     <div class="hero__steps wrap">
-      <div><i>1</i><span>Call, or send photos of the space</span></div>
-      <div><i>2</i><span>We visit and measure the space on site</span></div>
-      <div><i>3</i><span>A detailed quote with material options and layout</span></div>
+      <div><i>1</i><span>You call, or send photos of the space</span></div>
+      <div><i>2</i><span>We measure the space, the grade and the drainage</span></div>
+      <div><i>3</i><span>You get a written number before work starts</span></div>
     </div>
   </section>
 
@@ -86,10 +86,10 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
         <h2>The numbers we can actually back.</h2>
       </div>
       <div class="nums">
-        <div class="num" data-reveal><b data-count="13">13</b><span>years the founder has been installing turf — his, not the company&rsquo;s</span></div>
-        {founded && <div class="num" data-reveal><b data-count={founded}>{founded}</b><span>the year Timeless started — the founder’s thirteen years came first</span></div>}
-        <div class="num" data-reveal><b data-count="3">3</b><span>markets: the Denver metro, the Grand Strand, northeast Florida</span></div>
-        <div class="num" data-reveal><b data-count="4">4</b><span>states whose turf rules we&rsquo;ve written up, statute by statute</span></div>
+        <div class="num" data-reveal><b data-count="13">13</b><span>years Brian has been installing turf. His years, not the company&rsquo;s.</span></div>
+        {founded && <div class="num" data-reveal><b data-count={founded}>{founded}</b><span>the year Timeless opened. Rounding it up would have been easy. We didn&rsquo;t.</span></div>}
+        <div class="num" data-reveal><b data-count="3">3</b><span>markets you can hire us in: Denver metro, Grand Strand, northeast Florida</span></div>
+        <div class="num" data-reveal><b data-count="4">4</b><span>states whose turf laws we&rsquo;ve written up and cited. Read them before you sign.</span></div>
       </div>
       <!-- HOLE: no review count, no customer count, no rating. None is sourced.
            The reference shows "10,000+ homeowners" and a review count-up; we do not. -->
@@ -102,9 +102,9 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
     <div class="wrap story">
       <div data-reveal>
         <p class="micro">Who shows up</p>
-        <h2>Built by one person who&rsquo;s been doing this for thirteen years.</h2>
-        <p>Timeless is new — it started in 2024. The person running it is not. Thirteen years of installing turf came first, and the company was built to do that work the way he thinks it should be done: measured on site, and priced in writing before anything starts.</p>
-        <p>No middlemen and no handoffs — you deal with the owner. Three markets, because that is where the work is.</p>
+        <h2>You deal with the owners. First call to final walkthrough.</h2>
+        <p>Timeless opened in 2024. Brian has been installing turf for thirteen years. Both are true, and rounding one into the other would have been easy — it is the first thing we decided not to do. What you are hiring is the thirteen years.</p>
+        <p>The number comes from someone standing in your yard, not from a square-footage calculator. Base depth changes with the soil — Denver clay is not Grand Strand sand — so the measuring happens before the price does.</p>
         {phoneHref && <a class="btn btn--primary" href={phoneHref} data-cta="call-story">Call {phone}</a>}
       </div>
       <div class="story__fig" data-reveal>{shotsBy('finished').slice(4, 5).map((shot) => <Figure shot={shot} />)}</div>
@@ -150,9 +150,9 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
   <section class="sec sec--green on-dark turf-marks turf-marks--dark turf-marks--drift">
     <div class="wrap band">
       <div class="band__copy" data-reveal>
-        <p class="micro">This is the whole standard</p>
-        <h2>We judge a job by whether the green is clean.</h2>
-        <p class="band__p">Look at a competitor&rsquo;s photo of their own work and count the leaves on the putting surface. If they couldn&rsquo;t be bothered to blow it off before photographing it, that tells you what the install looked like on day two.</p>
+        <p class="micro">How he grades a competitor</p>
+        <h2>Zoom in on their green. Count the leaves.</h2>
+        <p class="band__p">Not the design. Not the wording. The putting surface in the one photograph they chose to lead with. A blower costs nothing and takes two minutes — so if a crew skipped it on the shot everybody sees first, ask what else got skipped the day they drove away. That is his whole test, and it is cheap to meet and impossible to fake.</p>
         {phoneHref && <a class="btn btn--light" href={phoneHref} data-cta="call-standard">Call {phone}</a>}
       </div>
       <div class="band__fig" data-reveal>{shotsBy('finished').slice(5, 6).map((shot) => <Figure shot={shot} />)}</div>
@@ -169,18 +169,21 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
       </div>
       <div class="faq" data-reveal>
         <details class="qa"><summary><h3>Does artificial turf get hot?</h3></summary>
-          <p>Yes, and more than most installers admit. Measured across a full day, synthetic surfaces averaged about 117&deg;F against 78&deg;F for natural grass and 110&deg;F for asphalt, with a peak of 200&deg;F on a 98&deg;F day (Williams and Pulley, Brigham Young University). If anyone tells you it runs cooler than your driveway, they are wrong.</p>
-          <p>It is a contact-surface problem, not a heat-stress one — a 2024 review of 23 studies found air temperature over turf only 1&ndash;2&deg;F higher. Fine in shoes, real for bare feet and paws. Shade is the biggest fix. Where a spot is wrong for turf, we say so.</p>
+          <p>Yes. Hotter than asphalt. Measured across a full day, synthetic surfaces averaged about 117&deg;F against 78&deg;F for natural grass and 110&deg;F for asphalt, with a peak of 200&deg;F on a 98&deg;F day (Williams and Pulley, Brigham Young University). If an installer tells you it runs cooler than your driveway, they are wrong.</p>
+          <p>It is a contact problem, not an air problem. A 2024 review of 23 studies found air temperature over turf only 1&ndash;2&deg;F higher. Fine in shoes. Real for bare feet and paws. Shade does more than any infill swap — in that same review shade was worth about 25&deg;C, against 3.2 to 7.9&deg;C for changing infill. Where a spot is wrong for turf, we say so.</p>
         </details>
         <details class="qa"><summary><h3>Are there rebates for tearing out my lawn?</h3></summary>
-          <p>Not in South Carolina — we searched the Grand Strand Water &amp; Sewer Authority programs and the Horry County, Myrtle Beach, North Myrtle Beach and Conway codes. Colorado and Florida differ by water district, and most Western rebates pay for living plantings rather than synthetic turf. Ask us before you count on any of it applying to your address.</p>
+          <p>Not in Horry County. We searched the Grand Strand Water &amp; Sewer Authority programs and the Horry County, Myrtle Beach and North Myrtle Beach codes. No turf rebate, no water rebate, no landscape-conversion incentive. Colorado and Florida differ by water district, and most Western rebates pay for living plantings rather than synthetic turf — Castle Rock Water pays $3.25 a square foot and excludes artificial turf in writing.</p>
+          <p>Test any rebate claim in ninety seconds. Ask for the program name, the URL, the dollar amount per square foot, and the sentence in the rules that says synthetic turf qualifies. A real program has all four. Ask us before you count on any of it applying to your address.</p>
           <p><a href="/guides/no-turf-rebates-grand-strand/" data-cta="guide-rebates-sc">Why there are no turf rebates in Horry County</a> &middot; <a href="/guides/colorado-water-rebates-and-turf/" data-cta="guide-rebates-co">Denver-metro water rebates and artificial turf</a></p>
         </details>
         <details class="qa"><summary><h3>What does it cost?</h3></summary>
-          <p>It is quoted per job, because the base is most of the work. Square footage, access, what comes out, drainage and the product all move the number — and a small job costs more per square foot than a large one because a day on site costs the same either way.</p>
+          <p>Per job, after measuring. The base is most of the work, so the number comes from what is under your yard rather than what goes on top of it. Square footage, access, what comes out, drainage and the product all move it. A small job costs more per square foot than a large one, because a day on site costs the same either way.</p>
+          <p>If two quotes are thousands apart, find out what changed. Ask both for base depth, roll widths and seam count, and infill weight per square foot — the parts you cannot see once the turf is down. Cheap turf and premium turf are both real products. In the owner&rsquo;s words, you get what you pay for, and the quote names which one you are getting.</p>
         </details>
         <details class="qa"><summary><h3>Will it smell if I have dogs?</h3></summary>
-          <p>Only if the base cannot drain. Urine passes through the turf; what holds odor is infill that stays wet over a base compacted without a drainage layer. A pet area needs infill and a base that move liquid.</p>
+          <p>Only if drainage fails. The blades are inert — urine passes straight through them and settles in the infill and at the backing, which is why washing the grass never fixes it. The smell is not in the grass.</p>
+          <p>A pet run needs infill and a base built to move liquid, and that is decided before anyone unrolls turf. Florida wrote the infill half of it into a rule.</p>
           <p><a href="/guides/florida-turf-infill-rules/" data-cta="guide-infill">What northeast Florida allows as infill</a></p>
         </details>
       </div>
@@ -197,10 +200,10 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
         <div class="proc__bar"><div class="proc__fill"></div></div>
       </div>
       <div class="proc__steps">
-        <div class="proc__step"><i>01</i><h3>You call, or send photos</h3><p>We ask what the space actually does. Dogs, kids, putting, or all three — each one changes the product and the infill.</p></div>
-        <div class="proc__step"><i>02</i><h3>We measure on site</h3><p>Base depth comes from your soil, not a standard number. Drainage and grade are checked before quoting, because that is what fails later.</p></div>
-        <div class="proc__step"><i>03</i><h3>You get a detailed quote</h3><p>Material options, layout and next steps, in writing before any work begins. If a cheaper turf would do the job, we say which one and what you give up.</p></div>
-        <div class="proc__step"><i>04</i><h3>We install, and we clean up</h3><p>Base, turf, infill, edges. Site prep and cleanup are ours from start to finish, and you approve the design before we install.</p></div>
+        <div class="proc__step"><i>01</i><h3>You call, or send photos</h3><p>The first question is what the space is for. Dogs, kids, putting, a commercial site — that changes the turf and the infill before it changes the price.</p></div>
+        <div class="proc__step"><i>02</i><h3>Somebody comes out and measures</h3><p>Base depth comes off your soil, not a chart, and grade and drainage get checked before any number exists. A backing that can drain ten inches an hour is worth nothing if the ground under it will not take the water.</p></div>
+        <div class="proc__step"><i>03</i><h3>You get a number in writing</h3><p>Material options, layout and next steps, in writing before any work begins. If a cheaper turf will do the job you are told which one and what you give up — you get what you pay for, and nobody here is going to pretend otherwise.</p></div>
+        <div class="proc__step"><i>04</i><h3>You approve the design, then we build</h3><p>Nothing is cut until you have approved the design. Then base, turf, infill, edges — site prep and cleanup are ours from the first day to the last.</p></div>
       </div>
     </div>
   </section>
@@ -237,8 +240,8 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
     <div class="wrap formband">
       <div data-reveal>
         <p class="micro">Get a number on it</p>
-        <h2>Tell us what the space is for.</h2>
-        <p>Dogs, kids, putting, or a commercial site — it changes the product and the base, so it is the first thing we ask. We call back with questions, not a pitch.</p>
+        <h2>{phone} is the owner&rsquo;s phone.</h2>
+        <p>Not an office line. Tell him what the space is for — dogs, kids, putting, or a commercial site — because that one answer changes the product and the base. If it is easier to type it, the form is four fields.</p>
         <ul class="mkts" id="markets">
           {MARKETS.map((m) => <li><a href={`/${m.slug}/`} data-cta={`market-${m.slug}`}><span class="mkts__n">{m.name}</span><span class="mkts__s">{m.towns.join(' · ')}</span></a></li>)}
         </ul>
@@ -259,7 +262,7 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
           </label>
         </div>
         <button class="btn btn--primary" type="submit">Request a quote</button>
-        <p class="quote__note">Free estimate, no pressure. We call you back.</p>
+        <p class="quote__note">Free estimate, no pressure. Or call {phone} and skip the form.</p>
       </form>
     </div>
   </section>
@@ -268,8 +271,8 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
   <!-- 12 · CLOSE — no invented scarcity. The reference claims a booking window; we have none stated. -->
   <section class="sec sec--dark on-dark close close--big turf-marks turf-marks--dark turf-marks--drift">
     <div class="wrap" data-reveal>
-      <h2>Built for families, built to last.</h2>
-      <p class="close__p">Free estimates and honest answers, with no pressure. You call, we measure on site, you get a quote in writing.</p>
+      <h2>Check every line on this page.</h2>
+      <p class="close__p">The heat numbers are cited. The rebate search is written up county by county. The thirteen years are the owner&rsquo;s and the company started in 2024 — we print both. Ask about any line here and you will be told where the evidence stops. Then we measure your yard, free, and put a number in writing.</p>
       {phoneHref && <a class="btn btn--primary btn--lg" href={phoneHref} data-cta="call-close">Call {phone}</a>}
     </div>
   </section>
