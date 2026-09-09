@@ -27,14 +27,14 @@ from collections import deque
 VOID_HOSTS = re.compile(r'^(https?:)?//|^(mailto|tel|sms|javascript):', re.I)
 
 
-def visible_main(raw: str) -> str:
+def visible_main(raw):
     m = re.search(r'(?is)<main\b[^>]*>(.*?)</main>', raw)
     seg = m.group(1) if m else raw
     seg = re.sub(r'(?is)<(script|style|noscript|template)\b.*?</\1>', ' ', seg)
     return re.sub(r'\s+', ' ', html.unescape(re.sub(r'(?s)<[^>]+>', ' ', seg))).strip()
 
 
-def main_links(raw: str) -> list[str]:
+def main_links(raw):
     """hrefs inside <main> only — chrome links do not count as editorial links."""
     m = re.search(r'(?is)<main\b[^>]*>(.*?)</main>', raw)
     if not m:
@@ -42,11 +42,11 @@ def main_links(raw: str) -> list[str]:
     return re.findall(r'<a\b[^>]*\bhref="([^"]+)"', m.group(1), re.I)
 
 
-def all_links(raw: str) -> list[str]:
+def all_links(raw):
     return re.findall(r'<a\b[^>]*\bhref="([^"]+)"', raw, re.I)
 
 
-def route_of(path: pathlib.Path, root: pathlib.Path) -> str:
+def route_of(path, root):
     rel = path.relative_to(root).as_posix()
     if rel == 'index.html':
         return '/'
@@ -55,7 +55,7 @@ def route_of(path: pathlib.Path, root: pathlib.Path) -> str:
     return '/' + rel[: -len('.html')]
 
 
-def normalise(href: str, origin_host: str | None) -> str | None:
+def normalise(href, origin_host):
     """Return a site-root path, or None when the link leaves the site."""
     href = href.split('#')[0].split('?')[0]
     if not href:
@@ -74,7 +74,7 @@ def normalise(href: str, origin_host: str | None) -> str | None:
     return href
 
 
-def main() -> int:
+def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('out', nargs='?', default='dist')
     ap.add_argument('--min-words', type=int, default=600)
@@ -87,7 +87,7 @@ def main() -> int:
         print(f'error: {a.out} is not a directory', file=sys.stderr)
         return 2
 
-    pages: dict[str, dict] = {}
+    pages = {}
     for f in sorted(root.rglob('*.html')):
         raw = f.read_text(errors='ignore')
         route = route_of(f, root)
@@ -113,7 +113,7 @@ def main() -> int:
 
     indexable = {r for r, p in pages.items() if not p['noindex']}
 
-    def resolve(href: str) -> str | None:
+    def resolve(href):
         p = normalise(href, host)
         if p is None:
             return None
@@ -137,7 +137,7 @@ def main() -> int:
                 fails.append(f'BROKEN-1 {route} → {href} (no such page in the build)')
 
     # ORPHAN-1 / DEPTH-1 — reachability through page BODIES, not chrome
-    inbound: dict[str, set] = {r: set() for r in pages}
+    inbound = {r: set() for r in pages}
     for route, p in pages.items():
         for href in p['main_links']:
             got = resolve(href)
