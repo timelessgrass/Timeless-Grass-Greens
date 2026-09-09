@@ -97,8 +97,18 @@
 /* No JS: every row reads fully rather than collapsing to a list of nouns. */
 html:not(.js-motion) .svcrow__p { opacity: 1; max-height: none; }
 html:not(.js-motion) .svcrow__n { color: var(--ink); }
-.svcfig { position: relative; border-radius: var(--radius-card); overflow: hidden; aspect-ratio: 4/5; background: var(--ground-band); }
-@media (min-width: 1000px) { .svcfig { position: sticky; top: calc(var(--chrome-h, 84px) + 1.4rem); aspect-ratio: 3/4; } }
+/* Below 1000px the frame would sit UNDER the list, so a row lighting up would change a
+   photograph the reader cannot see. Narrow gets the list open and typographic instead —
+   the fourteen-frame mosaic sits directly above it and is already carrying the pictures. */
+.svcfig { display: none; }
+@media (min-width: 1000px) {
+  .svcfig { display: block; position: sticky; top: calc(var(--chrome-h, 84px) + 1.4rem);
+            border-radius: var(--radius-card); overflow: hidden; aspect-ratio: 3/4; background: var(--ground-band); }
+}
+@media (max-width: 999px) {
+  .svcrow__p { opacity: 1; max-height: none; }
+  .svcrow__n { color: var(--ink); }
+}
 .svcfig__f { position: absolute; inset: 0; opacity: 0; transition: opacity .55s var(--ease); }
 .svcfig__f.is-on { opacity: 1; }
 .svcfig__f .fig, .svcfig__f figure { margin: 0; height: 100%; }
@@ -111,7 +121,6 @@ html:not(.js-motion) .svcrow__n { color: var(--ink); }
 .svcfig__data b { font-family: var(--font-display); font-size: clamp(2.6rem, 7vw, 4.4rem); line-height: .9; letter-spacing: -.04em; }
 .svcfig__data span { font-size: .92rem; line-height: 1.55; color: var(--ink-on-dark-dim); max-width: 34ch; }
 .svcfig__data i { font-style: normal; color: var(--accent-on-dark); }
-html:not(.js-motion) .svcfig { display: none; }
 
 /* --- zoom: the photograph pulls back while you read the sentence ------------------- */
 .zoomband { display: grid; gap: clamp(1.8rem, 4vw, 3.2rem); align-items: center; }
