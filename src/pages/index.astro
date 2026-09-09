@@ -33,6 +33,19 @@ const SVC = [
   { slug: 'indoor-turf',          name: 'Indoor facilities',     line: 'Indoors nothing rinses it and nothing dries it. In a 2020 laboratory study MRSA stayed viable longest in sand infill — 27 hours to half its viability, against 2 hours on EPDM rubber — so a cleaning schedule belongs in the job, not after it.' },
 ];
 
+/* One frame per service. `shot: null` is deliberate on indoor facilities — there is no
+   indoor install in the shot list, and a lawn photograph next to the word "indoor" would
+   be a claim. That row shows the measurement instead. */
+const byId = (id: string) => SHOTS.find((x) => x.id === id) ?? null;
+const SVCFIG = [
+  { shot: byId('fin-1') },   // putting greens — a finished green, flag in
+  { shot: byId('fin-2') },   // residential lawns — a back lawn to the patio edge
+  { shot: byId('fin-3') },   // pet turf — the dog under the deck
+  { shot: byId('fin-4') },   // commercial — the shared amenity lawn
+  { shot: byId('ctx-1') },   // sports fields — practice nets and goals
+  { shot: null },            // indoor facilities — no photograph on file
+].map((f) => ({ shot: f.shot && f.shot.file ? f.shot : null }));
+
 const DIFF = [
   { h: 'American-made turf',            p: 'The owner’s words for what goes in the ground: all American-made stuff, premium stuff. We print his sentence, not ours.' },
   { h: 'Your soil sets the base depth', p: 'A backing can drain ten inches an hour. Your ground may not — that is New Jersey DEP’s line, not ours. Front Range clay swells. Coastal water tables sit inches down. The base changes, and the quote says how.' },
@@ -78,56 +91,89 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
   </section>
 
 
-  <!-- 2 · TRUE NUMBERS — the count-up mechanic on facts the client stated -->
+  <!-- 2 · TRUE NUMBERS — four figures on one rule. Cards here were four boxes holding
+       one number each, which is a lot of chrome around very little. -->
   <section class="sec">
     <div class="wrap">
-      <div class="kick" data-reveal>
+      <div class="kick kick--left" data-reveal>
         <p class="micro">Prove it before I read</p>
         <h2>The numbers we can actually back.</h2>
       </div>
-      <div class="nums">
-        <div class="num" data-reveal><b data-count="13">13</b><span>years Brian has been installing turf. His years, not the company&rsquo;s.</span></div>
-        {founded && <div class="num" data-reveal><b data-count={founded}>{founded}</b><span>the year Timeless opened. Rounding it up would have been easy. We didn&rsquo;t.</span></div>}
-        <div class="num" data-reveal><b data-count="3">3</b><span>markets you can hire us in: Denver metro, Grand Strand, northeast Florida</span></div>
-        <div class="num" data-reveal><b data-count="4">4</b><span>states whose turf laws we&rsquo;ve written up and cited. Read them before you sign.</span></div>
+      <div class="ledger">
+        <div class="ledger__i" data-reveal><b class="ledger__n" data-count="13">13</b><span class="ledger__l">years Brian has been installing turf. His years, not the company&rsquo;s.</span></div>
+        {founded && <div class="ledger__i" data-reveal><b class="ledger__n" data-count={founded}>{founded}</b><span class="ledger__l">the year Timeless opened. Rounding it up would have been easy. We didn&rsquo;t.</span></div>}
+        <div class="ledger__i" data-reveal><b class="ledger__n" data-count="3">3</b><span class="ledger__l">markets you can hire us in: Denver metro, Grand Strand, northeast Florida</span></div>
+        <div class="ledger__i" data-reveal><b class="ledger__n" data-count="4">4</b><span class="ledger__l">states whose turf laws we&rsquo;ve written up and cited. Read them before you sign.</span></div>
       </div>
-      <!-- HOLE: no review count, no customer count, no rating. None is sourced.
-           The reference shows "10,000+ homeowners" and a review count-up; we do not. -->
+      <!-- HOLE: no review count, no customer count, no rating. None is sourced. -->
     </div>
   </section>
 
 
-  <!-- 3 · UNDER THE TURF — the H1 says the base decides. This is where it is proved.
-       Every sentence is markets.ts's own `ground` field, sourced per market. -->
+  <!-- 3 · UNDER THE TURF — the H1 says the base decides, so this draws it. A photograph
+       cannot go here: none of the fifteen carries a location, and putting one beside
+       "Denver" would assert a market we cannot source. The strata are the assembly the
+       statutes describe; the three grounds are markets.ts's own `ground` field, verbatim. -->
   <section class="sec sec--green on-dark turf-marks turf-marks--dark">
     <div class="wrap">
-      <div class="kick" data-reveal>
+      <div class="kick kick--left" data-reveal>
         <p class="micro">What you are actually paying for</p>
-        <h2>Same turf. Three different bases.</h2>
-        <p>The blades are the part you can see. Whether the surface ripples, ponds or smells in three years is decided by the ground it was built on — and that ground is not the same in the three places we work.</p>
+        <h2>The part you never see again.</h2>
       </div>
-      <ul class="cards">
+      <div class="cut" data-reveal>
+        <div class="cut__fig">
+          <svg viewBox="0 0 520 300" role="img" aria-label="A cross-section through a turf install: sub-grade, compacted base, geotextile and turf with infill.">
+            <defs>
+              <clipPath id="cutclip"><rect x="0" y="0" width="520" height="300" rx="14" /></clipPath>
+            </defs>
+            <g clip-path="url(#cutclip)">
+              <g class="cut__band"><rect x="0" y="196" width="520" height="104" fill="var(--ground-dark)" opacity=".85" />
+                <path d="M0 214 Q130 206 260 214 T520 210" fill="none" stroke="var(--accent-on-dark)" stroke-width="1.2" opacity=".45" /></g>
+              <g class="cut__band"><rect x="0" y="120" width="520" height="78" fill="var(--ink-on-dark)" opacity=".13" />
+                {Array.from({ length: 46 }, (_, i) => <circle cx={7 + i * 11.4} cy={132 + ((i * 37) % 56)} r={2 + ((i * 13) % 3)} fill="var(--ink-on-dark)" opacity=".34" />)}</g>
+              <g class="cut__band"><rect x="0" y="110" width="520" height="11" fill="var(--accent-on-dark)" opacity=".3" />
+                <path d="M0 115.5H520" stroke="var(--accent-on-dark)" stroke-width="1" stroke-dasharray="5 4" opacity=".9" /></g>
+              <g class="cut__band"><rect x="0" y="62" width="520" height="49" fill="var(--accent)" />
+                {Array.from({ length: 64 }, (_, i) => <path d={`M${5 + i * 8.1} 62 v-${13 + ((i * 29) % 15)}`} stroke="var(--accent-on-dark)" stroke-width="1.7" stroke-linecap="round" opacity=".85" />)}</g>
+            </g>
+          </svg>
+        </div>
+        <ol class="cut__key">
+          <li><b>01</b><span><em>Turf and infill.</em> The part you can see, and the cheapest part to get right.</span></li>
+          <li><b>02</b><span><em>Geotextile.</em> Keeps the base out of the soil and the soil out of the base.</span></li>
+          <li><b>03</b><span><em>Compacted aggregate.</em> Depth comes off your soil, not a chart.</span></li>
+          <li><b>04</b><span><em>Sub-grade.</em> North Carolina writes it into the rule: compacted, and pitched to drain.</span></li>
+        </ol>
+      </div>
+      <div class="grounds">
         {MARKETS.map((m) => (
-          <li class="card" data-reveal>
+          <div data-reveal>
             <h3>{m.short}</h3>
             <p>{m.ground}</p>
-            <a href={`/${m.slug}/`} data-cta={`market-${m.slug}-ground`}>What the ground does here</a>
-          </li>
+            <a href={`/${m.slug}/`} data-cta={`market-${m.slug}-ground`}>What the ground does here &rarr;</a>
+          </div>
         ))}
-      </ul>
+      </div>
     </div>
   </section>
 
 
-  <!-- 4 · GALLERY — drifts horizontally with scroll -->
-  <section class="strip sec--dark on-dark">
-    <div class="wrap"><div class="kick" data-reveal>
-      <p class="micro">The work</p>
-      <h2>Real yards. Ours.</h2>
-      {DEV && haveCount() < floorCount && <p>Build note: {haveCount()} of {floorCount} client photographs on file. Every image below is a labeled stock stand-in for layout review, and none of them ships.</p>}
-    </div></div>
-    <div class="strip__track">
-      {[...shotsBy('finished').slice(1), ...shotsBy('context'), ...shotsBy('detail')].map((shot) => <Figure shot={shot} sizes="clamp(280px, 38vw, 520px)" />)}
+  <!-- 4 · GALLERY — every photograph on file, at three sizes, each drifting at its own
+       rate. The uniform strip that was here read as one small frame on a phone and as a
+       row of equal boxes on a desktop; fifteen photographs is the only proof asset this
+       business has and it was being spent on a carousel. -->
+  <section class="sec sec--dark on-dark mosaicsec">
+    <div class="wrap">
+      <div class="kick kick--left" data-reveal>
+        <p class="micro">The work</p>
+        <h2>Real yards. Ours.</h2>
+        {DEV && haveCount() < floorCount && <p>Build note: {haveCount()} of {floorCount} client photographs on file. Every image below is a labeled stock stand-in for layout review, and none of them ships.</p>}
+      </div>
+      <div class="mosaic">
+        {[...shotsBy('finished').slice(1), ...shotsBy('context'), ...shotsBy('detail')].map((shot) => (
+          <Figure shot={shot} sizes="(min-width: 900px) 46vw, 48vw" parallax />
+        ))}
+      </div>
     </div>
   </section>
 
@@ -172,22 +218,39 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
     </div>
   </section>
   )}
-  <!-- 7 · SERVICES -->
+  <!-- 7 · SERVICES — six names as display type; the frame beside them changes as you read.
+       Six boxes of body copy meant nobody read the sixth. Indoor facilities gets the
+       measurement instead of a photograph: we have no indoor install on file, and a
+       borrowed lawn photograph beside the word "indoor" is a claim. -->
   <section class="sec">
     <div class="wrap">
-      <div class="kick" data-reveal>
+      <div class="kick kick--left" data-reveal>
         <p class="micro">What we install</p>
         <h2>Anything that&rsquo;s turf.</h2>
       </div>
-      <div class="cards">
-        {SVC.map((s, i) => (
-          <div class="card" data-reveal>
-            <span class="card__n">0{i + 1}</span>
-            <h3>{s.name}</h3>
-            <p>{s.line}</p>
-            <a href={`/services/${s.slug}/`} data-cta={`svc-${s.slug}`}>How we do it &rarr;</a>
-          </div>
-        ))}
+      <div class="svcwrap">
+        <ol class="svclist" data-svclist>
+          {SVC.map((s, i) => (
+            <li class={`svcrow${i === 0 ? ' is-on' : ''}`} data-svc={i}>
+              <a href={`/services/${s.slug}/`} data-cta={`svc-${s.slug}`}>
+                <span class="svcrow__n"><i class="svcrow__i">0{i + 1}</i>{s.name}</span>
+                <span class="svcrow__p">{s.line}</span>
+              </a>
+            </li>
+          ))}
+        </ol>
+        <div class="svcfig" data-svcfig aria-hidden="true">
+          {SVCFIG.map((f, i) => (
+            <div class={`svcfig__f${i === 0 ? ' is-on' : ''}`} data-svcfig-i={i}>
+              {f.shot ? <Figure shot={f.shot} sizes="(min-width: 1000px) 42vw, 92vw" /> : (
+                <div class="svcfig__data">
+                  <b>27<i>h</i></b>
+                  <span>MRSA stayed viable that long in sand infill in a 2020 laboratory study &mdash; against two hours on EPDM rubber. Indoors nothing rinses it and nothing dries it, so the cleaning schedule belongs in the job.</span>
+                </div>
+              )}
+            </div>
+          ))}
+        </div>
       </div>
     </div>
   </section>
@@ -227,16 +290,17 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
   </section>
 
 
-  <!-- 10 · THE STANDARD — dark band, stripes drift -->
+  <!-- 10 · THE STANDARD — the sentence says zoom in and count the leaves, so the
+       photograph starts close and pulls back to the whole clean green as you read it. -->
   <section class="sec sec--green on-dark turf-marks turf-marks--dark turf-marks--drift">
-    <div class="wrap band">
-      <div class="band__copy" data-reveal>
+    <div class="wrap zoomband">
+      <div data-reveal>
         <p class="micro">How he grades a competitor</p>
         <h2>Zoom in on their green. Count the leaves.</h2>
-        <p class="band__p">Not the design. Not the wording. The putting surface in the one photograph they chose to lead with. A blower costs nothing and takes two minutes — so if a crew skipped it on the shot everybody sees first, ask what else got skipped the day they drove away. That is his whole test, and it is cheap to meet and impossible to fake.</p>
+        <p class="band__p">Not the design. Not the wording. The putting surface in the one photograph they chose to lead with. A blower costs nothing and takes two minutes &mdash; so if a crew skipped it on the shot everybody sees first, ask what else got skipped the day they drove away. That is his whole test, and it is cheap to meet and impossible to fake.</p>
         {phoneHref && <a class="btn btn--light" href={phoneHref} data-cta="call-standard">Call {phone}</a>}
       </div>
-      <div class="band__fig" data-reveal>{shotsBy('finished').slice(5, 6).map((shot) => <Figure shot={shot} />)}</div>
+      <div class="zoomfig" data-zoom>{shotsBy('finished').slice(5, 6).map((shot) => <Figure shot={shot} sizes="(min-width: 950px) 56vw, 100vw" />)}</div>
     </div>
   </section>
 
@@ -272,20 +336,27 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
   </section>
 
 
-  <!-- 12 · SERVICE AREAS — "do you come to my town" had been a footnote inside the form
-       band at 87% depth. Towns are markets.ts `towns` only: the places the client named on
-       the call or on his own site. src/data/cities/ holds 170 researched towns; those are
-       page candidates, not a coverage claim, and are deliberately not listed here. -->
+  <!-- 12 · SERVICE AREAS — three rows, not three boxes. Towns are markets.ts `towns`
+       only: the places Brian named on the call or on his own site. src/data/cities/ holds
+       170 researched towns; those are page candidates, not a coverage claim. -->
   <section class="sec sec--band">
     <div class="wrap">
-      <div class="kick" data-reveal>
+      <div class="kick kick--left" data-reveal>
         <p class="micro">Do you come to my town</p>
         <h2>Three markets, and the towns he named in each.</h2>
       </div>
-      <ul class="mkts" id="markets">
-        {MARKETS.map((m) => <li><a href={`/${m.slug}/`} data-cta={`market-${m.slug}`}><span class="mkts__n">{m.name}</span><span class="mkts__s">{m.towns.join(' · ')}</span></a></li>)}
+      <ul class="areas" id="markets">
+        {MARKETS.map((m) => (
+          <li class="arearow" data-reveal>
+            <a href={`/${m.slug}/`} data-cta={`market-${m.slug}`}>
+              <span class="arearow__n">{m.name}</span>
+              <span class="arearow__t">{m.towns.join(' · ')}</span>
+              <span class="arearow__g">See the area &rarr;</span>
+            </a>
+          </li>
+        ))}
       </ul>
-      <p class="proof__note">Not on the list? Each market runs wider than the towns named here — the market page carries the whole area, and a call settles it in a minute.</p>
+      <p class="proof__note">Not on the list? Each market runs wider than the towns named here &mdash; the market page carries the whole area, and a call settles it in a minute.</p>
     </div>
   </section>
 

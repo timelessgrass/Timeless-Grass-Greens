@@ -22,7 +22,22 @@ let introDone = false;
 requestAnimationFrame(() => requestAnimationFrame(() => {
   html.classList.add('js-motion');
   start();
-  setTimeout(() => { if (!introDone) html.classList.remove('js-motion'); }, 4000);
+  setTimeout(() => {
+    if (introDone) return;
+    /* The net fires when the ticker stalled (throttled tab, blocked chunk, old device).
+       Dropping the class is not enough on its own: GSAP writes its start state inline the
+       moment a tween is created, so a stalled page can be left with a photograph parked at
+       scale 1.28 or a frame at opacity 0 — invisible damage that outlives the class. Kill
+       the triggers, empty the timeline, then clear every inline value motion wrote. */
+    html.classList.remove('js-motion');
+    ScrollTrigger.getAll().forEach((t) => t.kill());
+    gsap.globalTimeline.clear();
+    gsap.set(
+      '[data-parallax] img, [data-zoom] img, .hero__img, .hero__eyebrow, .hero h1 .line > span,'
+      + ' .hero__deck, .hero__qual, .hero__cta, .hero__steps > *, .strip__track',
+      { clearProps: 'all' },
+    );
+  }, 4000);
 }));
 
 function start() {
@@ -76,6 +91,57 @@ gsap.matchMedia().add('(prefers-reduced-motion: no-preference)', () => {
       scrollTrigger: { trigger: '.strip', start: 'top bottom', end: 'bottom top', scrub: 1.2, invalidateOnRefresh: true },
     });
   }
+
+  /* ---- 4b. mosaic: each frame drifts inside its own crop, at its own rate ---------
+     The image is oversized by the same 12% it travels, so the crop never runs off the
+     bottom edge. Alternating direction stops the whole wall moving as one sheet. */
+  gsap.utils.toArray<HTMLElement>('[data-parallax] img').forEach((img, i) => {
+    const dir = i % 2 ? -1 : 1;
+    gsap.set(img, { scale: 1.14 });
+    gsap.fromTo(img, { yPercent: -6 * dir }, {
+      yPercent: 6 * dir, ease: 'none',
+      scrollTrigger: { trigger: img.closest('figure') as Element, start: 'top bottom', end: 'bottom top', scrub: true },
+    });
+  });
+
+  /* ---- 4c. the cross-section draws its strata when you reach it ------------------ */
+  const cut = document.querySelector<HTMLElement>('.cut');
+  if (cut) ScrollTrigger.create({ trigger: cut, start: 'top 78%', once: true, onEnter: () => cut.classList.add('is-cut') });
+
+  /* ---- 4d. services: the frame beside the list changes as you read it -------------
+     One source of truth for "which row is live", driven by scroll and by hover, so a
+     visitor who mouses down the list gets the same behaviour as one who scrolls. */
+  const list = document.querySelector<HTMLElement>('[data-svclist]');
+  const frames = gsap.utils.toArray<HTMLElement>('[data-svcfig-i]');
+  if (list && frames.length) {
+    const rows = gsap.utils.toArray<HTMLElement>('.svcrow', list);
+    let live = -1;
+    const light = (i: number) => {
+      if (i === live || i < 0 || i >= rows.length) return;
+      live = i;
+      rows.forEach((r, n) => r.classList.toggle('is-on', n === i));
+      frames.forEach((f, n) => f.classList.toggle('is-on', n === i));
+    };
+    light(0);
+    rows.forEach((row, i) => {
+      row.addEventListener('mouseenter', () => light(i));
+      row.addEventListener('focusin', () => light(i));
+      /* Scroll ownership: the row nearest the middle of the viewport wins, in both
+         directions, so the frame tracks reading position rather than only entry. */
+      ScrollTrigger.create({
+        trigger: row, start: 'top 62%', end: 'bottom 38%',
+        onEnter: () => light(i), onEnterBack: () => light(i),
+      });
+    });
+  }
+
+  /* ---- 4e. the standard band: the photograph pulls back while the sentence is read.
+     Scrubbed, so the pull-back IS the reading — it cannot finish before you do. */
+  const zoom = document.querySelector<HTMLElement>('[data-zoom] img');
+  if (zoom) gsap.fromTo(zoom, { scale: 1.28 }, {
+    scale: 1, ease: 'none',
+    scrollTrigger: { trigger: '[data-zoom]', start: 'top 88%', end: 'bottom 52%', scrub: .6 },
+  });
 
   /* ---- 5. process: pinned, scroll advances the four steps -------------------- */
   const proc = document.querySelector<HTMLElement>('.proc');
