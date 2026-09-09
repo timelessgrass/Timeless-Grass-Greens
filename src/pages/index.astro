@@ -25,9 +25,9 @@ const ANSWER = {
 };
 
 const SVC = [
-  { slug: 'putting-greens',       name: 'Putting greens',        line: 'A green that rolls wrong gets used twice, then ignored. Roll lives underneath — base, fringe, cup, break, all designed before anything is cut.' },
-  { slug: 'residential-turf',     name: 'Residential lawns',     line: 'Your soil moves and turf will not stop it. Front Range clay swells up to twenty percent by volume when wet; the coast is sand over a shallow water table. The base is what changes.' },
-  { slug: 'pet-turf',             name: 'Pet turf',              line: 'If the yard smells in August, that is the base, not the grass. Florida wrote the drainage half into a rule for single-family lots — permeability through the turf, the backing and the subgrade, and no compacting the soil beneath it.' },
+  { slug: 'putting-greens',       name: 'Putting greens',        line: 'A green that rolls wrong gets used twice and then ignored. Yours gets its break, fringe and cup drawn before anything is cut.' },
+  { slug: 'residential-turf',     name: 'Residential lawns',     line: 'Your soil moves and turf will not stop it — Front Range clay swells up to twenty percent by volume when it gets wet. That is why your lawn does not get the same base as one in Myrtle Beach.' },
+  { slug: 'pet-turf',             name: 'Pet turf',              line: 'If a pet yard smells in August, the problem is under the turf and not in it. So the drainage gets designed before the grass does.' },
   { slug: 'commercial-turf',      name: 'Commercial',            line: 'You have been told Colorado banned turf on commercial property. Half right: from 1 January 2026 the prohibition covers nonfunctional turf on commercial, institutional and HOA-common land, and functional turf is defined at C.R.S. 37-99-102(6.5) and stays legal.' },
   { slug: 'sports-field-turf',    name: 'Sports fields',         line: 'Someone on the board will ask how hot it gets, and they should. Measured over a full day synthetic averaged 117°F against 78°F for grass, which makes shade and siting the argument rather than product.' },
   { slug: 'indoor-turf',          name: 'Indoor facilities',     line: 'Indoors nothing rinses it and nothing dries it. In a 2020 laboratory study MRSA stayed viable longest in sand infill — 27 hours to half its viability, against 2 hours on EPDM rubber — so a cleaning schedule belongs in the job, not after it.' },
@@ -46,11 +46,18 @@ const SVCFIG = [
   { shot: null },            // indoor facilities — no photograph on file
 ].map((f) => ({ shot: f.shot && f.shot.file ? f.shot : null }));
 
-const DIFF = [
-  { h: 'American-made turf',            p: 'The owner’s words for what goes in the ground: all American-made stuff, premium stuff. We print his sentence, not ours.' },
-  { h: 'Your soil sets the base depth', p: 'A backing can drain ten inches an hour. Your ground may not — that is New Jersey DEP’s line, not ours. Front Range clay swells. Coastal water tables sit inches down. The base changes, and the quote says how.' },
-  { h: 'Thirteen years, and they are his', p: 'Timeless started in 2024. Thirteen years of installing turf came before it. Two numbers, and you get both, because the company’s age and the installer’s are not the same thing.' },
-  { h: 'Count the leaves',              p: 'Pull up any installer’s site. Find their photo of their own putting green. Count the leaves on it. In his words: you can’t even blow off your green. That is his test of other companies — run it on ours too.' },
+/* Was four "why us" points, and every one of them restated something the page already
+   said better somewhere else — American-made (hero), soil sets the base (hero deck, the
+   cross-section, the lawns card), thirteen years (the ledger), count the leaves (the band,
+   almost verbatim). Nothing was lost by replacing them; four duplications were. This
+   answers a question nothing on the page answered: what do I actually receive?
+   Sourced to the old site's step 02 — "a detailed quote with material options, layout, and
+   next steps before any work begins" — and to the process section's base-and-drainage. */
+const QUOTE_HAS = [
+  { h: 'The turf you are getting',  p: 'Named, not described. Premium and budget turf are both real products with real prices, and you get told which one is in your number and what the other would cost.' },
+  { h: 'How deep the base goes',    p: 'Measured off your ground, not off a chart. It is the largest line in the price and the one you can never inspect once the grass is down, so it is written before it is built.' },
+  { h: 'The layout, drawn',         p: 'Where the seams fall, where the edges land, and on a green, where the break runs. Agreed before anything is cut.' },
+  { h: 'What happens next, dated',  p: 'The order of the work and what we need from you. No deposit is taken to produce any of this.' },
 ];
 
 const pair = (id: string) => ({ b: SHOTS.find((s) => s.pairId === id && s.kind === 'before')!, a: SHOTS.find((s) => s.pairId === id && s.kind === 'after')! });
@@ -72,12 +79,12 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
     <div class="wrap">
       <p class="hero__eyebrow">Turf, pet turf &amp; putting greens</p>
       <h1>
-        <span class="line"><span>You&rsquo;ve seen bad turf.</span></span>
-        <span class="line"><span>The base <em>decides.</em></span></span>
+        <span class="line"><span>Green all year.</span></span>
+        <span class="line"><span>No mower, <em>no mud.</em></span></span>
       </h1>
-      <p class="hero__deck">The turf is the easy part. Ripples, puddles and smell all start underneath — and Denver clay heaves, Grand Strand sand drains, and in northeast Florida the problem is heat and where the shade falls.</p>
+      <p class="hero__deck">Artificial turf, pet turf and backyard putting greens. Whether yours ripples, puddles or starts to smell in three years is decided by the ground underneath it — so that is where the work goes.</p>
       <p class="hero__qual">
-        {materials && <><b>American-made turf</b> · </>}<b>Founder with 13 years</b> · <b>Free estimate, measured on site</b>
+        {materials && <><b>American-made turf</b> · </>}<b>Free estimate</b> · <b>No pressure to sign</b>
       </p>
       <div class="hero__cta">
         {phoneHref && <a class="btn btn--primary" href={phoneHref} data-cta="call-hero">Call {phone}</a>}
@@ -97,13 +104,13 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
     <div class="wrap">
       <div class="kick kick--left" data-reveal>
         <p class="micro">Prove it before I read</p>
-        <h2>The numbers we can actually back.</h2>
+        <h2>Who you&rsquo;d be hiring.</h2>
       </div>
       <div class="ledger">
-        <div class="ledger__i" data-reveal><b class="ledger__n" data-count="13">13</b><span class="ledger__l">years Brian has been installing turf. His years, not the company&rsquo;s.</span></div>
-        {founded && <div class="ledger__i" data-reveal><b class="ledger__n" data-count={founded}>{founded}</b><span class="ledger__l">the year Timeless opened. Rounding it up would have been easy. We didn&rsquo;t.</span></div>}
-        <div class="ledger__i" data-reveal><b class="ledger__n" data-count="3">3</b><span class="ledger__l">markets you can hire us in: Denver metro, Grand Strand, northeast Florida</span></div>
-        <div class="ledger__i" data-reveal><b class="ledger__n" data-count="4">4</b><span class="ledger__l">states whose turf laws we&rsquo;ve written up and cited. Read them before you sign.</span></div>
+        <div class="ledger__i" data-reveal><b class="ledger__n" data-count="13">13</b><span class="ledger__l">years our founder has been installing turf.</span></div>
+        {founded && <div class="ledger__i" data-reveal><b class="ledger__n" data-count={founded}>{founded}</b><span class="ledger__l">the year we opened.</span></div>}
+        <div class="ledger__i" data-reveal><b class="ledger__n" data-count="3">3</b><span class="ledger__l">markets we install in: Denver, the Grand Strand, northeast Florida.</span></div>
+        <div class="ledger__i" data-reveal><b class="ledger__n" data-count="4">4</b><span class="ledger__l">state turf codes published in full on this site. Read yours before you sign anything.</span></div>
       </div>
       <!-- HOLE: no review count, no customer count, no rating. None is sourced. -->
     </div>
@@ -183,9 +190,9 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
     <div class="wrap story">
       <div data-reveal>
         <p class="micro">Who shows up</p>
-        <h2>You deal with the owners. First call to final walkthrough.</h2>
-        <p>Timeless opened in 2024. Brian has been installing turf for thirteen years. Both are true, and rounding one into the other would have been easy — it is the first thing we decided not to do. What you are hiring is the thirteen years.</p>
-        <p>The number comes from someone standing in your yard, not from a square-footage calculator. Base depth changes with the soil — Denver clay is not Grand Strand sand — so the measuring happens before the price does.</p>
+        <h2>You will not be handed off.</h2>
+        <p>No project manager, no subcontracted crew you have never met. The people who own this company quote your job and then build it — first call to final walkthrough.</p>
+        <p>Your number comes from someone standing in your yard, not from a square-footage calculator. What is under your ground sets how deep the base has to go, and that is most of what you are paying for.</p>
         {phoneHref && <a class="btn btn--primary" href={phoneHref} data-cta="call-story">Call {phone}</a>}
       </div>
       <div class="story__fig" data-reveal>{shotsBy('finished').slice(4, 5).map((shot) => <Figure shot={shot} />)}</div>
@@ -267,23 +274,23 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
       <div class="proc__steps">
         <div class="proc__step"><i>01</i><h3>You call, or send photos</h3><p>The first question is what the space is for. Dogs, kids, putting, a commercial site — that changes the turf and the infill before it changes the price.</p></div>
         <div class="proc__step"><i>02</i><h3>Somebody comes out and measures</h3><p>Base depth comes off your soil, not a chart, and grade and drainage get checked before any number exists. A backing that can drain ten inches an hour is worth nothing if the ground under it will not take the water.</p></div>
-        <div class="proc__step"><i>03</i><h3>You get a number in writing</h3><p>Material options, layout and next steps, in writing before any work begins. If a cheaper turf will do the job you are told which one and what you give up — you get what you pay for, and nobody here is going to pretend otherwise.</p></div>
+        <div class="proc__step"><i>03</i><h3>You read it before you decide</h3><p>Material options, layout and next steps, all of it before any work begins. If a cheaper turf will do your job you are told which one and exactly what you give up.</p></div>
         <div class="proc__step"><i>04</i><h3>You approve the design, then we build</h3><p>Nothing is cut until you have approved the design. Then base, turf, infill, edges — site prep and cleanup are ours from the first day to the last.</p></div>
       </div>
     </div>
   </section>
-  <!-- 9 · DIFFERENTIATORS — six things, all stated by the client -->
+  <!-- 9 · WHAT IS IN THE QUOTE — the page never told anyone what they actually receive. -->
   <section class="sec sec--dark on-dark">
     <div class="wrap">
       <div class="split">
         <div class="split__head" data-reveal>
-          <p class="micro">Why us, in his words</p>
-          <h2>Not every turf company is the same.</h2>
-          <p>Four things that are true. Each one is checkable — ask on the call.</p>
+          <p class="micro">Before you decide</p>
+          <h2>What lands in your inbox.</h2>
+          <p>Four things, in writing, before a spade goes in the ground.</p>
           {phoneHref && <a class="btn btn--light" href={phoneHref} data-cta="call-diff">Call {phone}</a>}
         </div>
         <div class="diffs">
-          {DIFF.map((d) => <div class="diff" data-reveal><h3>{d.h}</h3><p>{d.p}</p></div>)}
+          {QUOTE_HAS.map((d) => <div class="diff" data-reveal><h3>{d.h}</h3><p>{d.p}</p></div>)}
         </div>
       </div>
     </div>
@@ -295,9 +302,9 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
   <section class="sec sec--green on-dark turf-marks turf-marks--dark turf-marks--drift">
     <div class="wrap zoomband">
       <div data-reveal>
-        <p class="micro">How he grades a competitor</p>
+        <p class="micro">How to judge any installer</p>
         <h2>Zoom in on their green. Count the leaves.</h2>
-        <p class="band__p">Not the design. Not the wording. The putting surface in the one photograph they chose to lead with. A blower costs nothing and takes two minutes &mdash; so if a crew skipped it on the shot everybody sees first, ask what else got skipped the day they drove away. That is his whole test, and it is cheap to meet and impossible to fake.</p>
+        <p class="band__p">Open any installer&rsquo;s site, find their photo of their own putting green, and count the leaves on it. A blower costs nothing and takes two minutes. If a crew could not be bothered on the one shot everybody sees first, ask what else got skipped the day they drove away. Run it on us too &mdash; the greens above are ours.</p>
         {phoneHref && <a class="btn btn--light" href={phoneHref} data-cta="call-standard">Call {phone}</a>}
       </div>
       <div class="zoomfig" data-zoom>{shotsBy('finished').slice(5, 6).map((shot) => <Figure shot={shot} sizes="(min-width: 950px) 56vw, 100vw" />)}</div>
@@ -324,7 +331,7 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
         </details>
         <details class="qa"><summary><h3>What does it cost?</h3></summary>
           <p>Per job, after measuring. The base is most of the work, so the number comes from what is under your yard rather than what goes on top of it. Square footage, access, what comes out, drainage and the product all move it. A small job costs more per square foot than a large one, because a day on site costs the same either way.</p>
-          <p>If two quotes are thousands apart, find out what changed. Ask both for base depth, roll widths and seam count, and infill weight per square foot — the parts you cannot see once the turf is down. Cheap turf and premium turf are both real products. In the owner&rsquo;s words, you get what you pay for, and the quote names which one you are getting.</p>
+          <p>If two quotes are thousands apart, find out what changed. Ask both for base depth, roll widths and seam count, and infill weight per square foot — the parts you can never see once the turf is down. That is usually where the difference is hiding.</p>
         </details>
         <details class="qa"><summary><h3>Will it smell if I have dogs?</h3></summary>
           <p>Only if drainage fails. The blades are inert — urine passes straight through them and settles in the infill and at the backing, which is why washing the grass never fixes it. The smell is not in the grass.</p>
@@ -343,7 +350,7 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
     <div class="wrap">
       <div class="kick kick--left" data-reveal>
         <p class="micro">Do you come to my town</p>
-        <h2>Three markets, and the towns he named in each.</h2>
+        <h2>Three markets. Here is where we work.</h2>
       </div>
       <ul class="areas" id="markets">
         {MARKETS.map((m) => (
@@ -374,8 +381,8 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
     <div class="wrap formband">
       <div data-reveal>
         <p class="micro">Get a number on it</p>
-        <h2>{phone} is the owner&rsquo;s phone.</h2>
-        <p>Not an office line. Tell him what the space is for — dogs, kids, putting, or a commercial site — because that one answer changes the product and the base. If it is easier to type it, the form is four fields.</p>
+        <h2>Tell us what the space is for.</h2>
+        <p>Dogs, kids, putting, or a commercial site — that one answer changes the turf and the base, so it is the first thing we ask. Four fields, or call {phone} and skip the form.</p>
       </div>
       <!-- THE one form. Lead destination is not wired: brief.conversion.lead_destination is UNKNOWN. Gate 10 blocks launch until all eight test_lead flags are true. -->
       <form class="quote" name="quote" method="POST" action="/thanks/" data-netlify="true" netlify-honeypot="company" data-cta="quote-form" aria-labelledby="quote-h" data-reveal>
@@ -393,7 +400,7 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
           </label>
         </div>
         <button class="btn btn--primary" type="submit">Request a quote</button>
-        <p class="quote__note">Free estimate, no pressure. Or call {phone} and skip the form.</p>
+        <p class="quote__note">We call back with questions, not a pitch.</p>
       </form>
     </div>
   </section>
@@ -402,8 +409,8 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
   <!-- 15 · CLOSE — no invented scarcity. The reference claims a booking window; we have none stated. -->
   <section class="sec sec--dark on-dark close close--big turf-marks turf-marks--dark turf-marks--drift">
     <div class="wrap" data-reveal>
-      <h2>Check every line on this page.</h2>
-      <p class="close__p">The heat numbers are cited. The rebate search is written up county by county. The thirteen years are the owner&rsquo;s and the company started in 2024 — we print both. Ask about any line here and you will be told where the evidence stops. Then we measure your yard, free, and put a number in writing.</p>
+      <h2>Get a number on your yard.</h2>
+      <p class="close__p">One visit and you will know what it costs. Nothing is ordered, dug or cut until you have the number in writing and you have said yes to it.</p>
       {phoneHref && <a class="btn btn--primary btn--lg" href={phoneHref} data-cta="call-close">Call {phone}</a>}
     </div>
   </section>
