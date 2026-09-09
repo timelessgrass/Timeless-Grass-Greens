@@ -11,6 +11,8 @@
 .btn--primary:hover { background: var(--accent-hover); }
 .btn--ghost { border-color: var(--rule); color: var(--ink); }
 .btn--ghost:hover { border-color: var(--accent); color: var(--accent); }
+.btn--light { background: var(--ink-on-dark); color: var(--ground-green); } /* warm white on a green or black ground: the highest contrast pairing the palette has */
+.btn--light:hover { background: #fff; color: var(--ground-dark); }
 .btn--ghost-dark, .on-dark .btn--ghost { background: transparent; color: var(--ink-on-dark); border-color: var(--rule-on-dark); }
 .btn--ghost-dark:hover, .on-dark .btn--ghost:hover { border-color: var(--accent-on-dark); color: var(--accent-on-dark); }
 .btn--lg { min-height: 58px; padding: 1.05rem 1.9rem; font-size: 1.06rem; }
@@ -143,12 +145,27 @@
 .story, .two { display: grid; gap: clamp(2rem, 5vw, 4rem); align-items: center; }
 @media (min-width: 900px) { .story { grid-template-columns: 1fr 1.1fr; } .two { grid-template-columns: 1.05fr 1fr; align-items: start; } }
 .story h2, .two h2 { font-size: clamp(2rem, 4.8vw, 3.2rem); margin-bottom: 1.2rem; }
+.story > div:first-child { display: grid; gap: 1.1rem; align-content: start; }
+.story .btn { justify-self: start; margin-top: .6rem; }
+.story__fig .fig img, .story__fig .fig__slot { border-radius: var(--radius-card); }
+.story:has(.story__fig:empty) { grid-template-columns: 1fr; }
 .story p, .two p { color: var(--ink-dim); font-size: 1.02rem; }
 .story .fig img, .story .fig__slot { border-radius: var(--radius-card); }
 .band h2 { max-width: 18ch; }
 .band__p { margin-top: 1.5rem; font-size: clamp(1rem, 2vw, 1.15rem); max-width: 54ch; }
 .band { display: grid; gap: clamp(2rem, 5vw, 4rem); align-items: center; }
-@media (min-width: 900px) { .band { grid-template-columns: 1fr 1.1fr; } .band__fig { order: -1; } .band:has(.band__fig:empty) { grid-template-columns: 1fr; } } /* no photo yet → the copy takes the full measure instead of leaving half the band empty */
+.band__copy { display: grid; gap: 1.1rem; align-content: center; }
+.band__copy .btn { justify-self: start; margin-top: .5rem; }
+.band__p { margin-top: 0; }
+@media (min-width: 900px) {
+  .band { grid-template-columns: 1fr 1.05fr; align-items: stretch; }
+  .band__fig { order: -1; }
+  /* bleed the photograph off the left edge — a different shape from the story above it */
+  .band__fig { margin-left: calc(var(--bleed) * -1); }
+  .band__fig .fig, .band__fig .fig img { height: 100%; }
+  .band__fig .fig img { object-fit: cover; border-radius: 0 var(--radius-card) var(--radius-card) 0; }
+  .band:has(.band__fig:empty) { grid-template-columns: 1fr; }
+} /* no photo yet → the copy takes the full measure instead of leaving half the band empty */
 .band__fig .fig img, .band__fig .fig__slot { border-radius: var(--radius-card); }
 .src { font-size: .78rem; letter-spacing: .04em; color: var(--ink-on-dark-faint); margin: 1.1rem 0 0; }
 
@@ -173,11 +190,17 @@
 .proc__fill { transition: transform .45s var(--ease); }
 
 /* --- differentiators: a ruled list, deliberately NOT the card grid above it ------- */
-.diffs { display: grid; gap: 0 clamp(2rem, 5vw, 4.5rem); margin-top: clamp(1.6rem, 4vw, 2.4rem); border-top: 1px solid var(--rule-on-dark); }
-@media (min-width: 820px) { .diffs { grid-template-columns: 1fr 1fr; } }
-.diff { display: grid; gap: .4rem; padding: 1.35rem 0; border-bottom: 1px solid var(--rule-on-dark); }
+.split { display: grid; gap: clamp(2rem, 5vw, 4rem); align-items: start; }
+@media (min-width: 900px) { .split { grid-template-columns: .85fr 1.15fr; } }
+.split__head { display: grid; gap: .9rem; align-content: start; }
+@media (min-width: 900px) { .split__head { position: sticky; top: 6.5rem; } }
+.split__head h2 { font-size: clamp(1.9rem, 4vw, 2.9rem); max-width: 14ch; }
+.split__head p { color: var(--ink-on-dark-dim); max-width: 34ch; }
+.split__head .btn { justify-self: start; margin-top: .4rem; }
+.diffs { display: grid; gap: 0; margin-top: 0; border-top: 1px solid var(--rule-on-dark); }
+.diff { display: grid; gap: .45rem; padding: 1.5rem 0; border-bottom: 1px solid var(--rule-on-dark); }
 .diff h3 { font-family: var(--font-display); font-size: clamp(1.12rem, 2.1vw, 1.38rem); letter-spacing: -.014em; line-height: 1.15; color: var(--ink-on-dark); }
-.diff p { color: var(--ink-on-dark-dim); font-size: .95rem; line-height: 1.55; max-width: 46ch; }
+.diff p { color: var(--ink-on-dark-dim); font-size: .98rem; line-height: 1.6; max-width: 52ch; }
 
 /* --- guide links under a market's law band: the tier's real inbound path ---------- */
 .lawlinks { list-style: none; margin: 1.6rem 0 0; padding: 0; display: grid; gap: 0; border-top: 1px solid var(--rule-on-dark); max-width: 60ch; }

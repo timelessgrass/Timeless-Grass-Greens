@@ -38,8 +38,6 @@ const DIFF = [
   { h: 'Base built to your soil',       p: 'Expansive clay in Denver, sand and a high water table on the coast. The base changes; the quote says how.' },
   { h: 'The founder’s thirteen years', p: 'His years, stated as his. Timeless started in 2024 and we’d rather say so than round it up.' },
   { h: 'How he judges a competitor',    p: 'Open their own photo of their own work and count the leaves on the putting green. That is his test.' },
-  { h: 'Safe for kids and pets',        p: 'Non-toxic, lead-free materials, built to take heavy play and pet traffic.' },
-  { h: 'Honest about heat',             p: 'The measured surface temperatures are published on this site — Brigham Young University’s numbers, not ours.' },
 ];
 
 const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'];
@@ -113,20 +111,22 @@ const pair = (id: string) => ({ b: SHOTS.find((s) => s.pairId === id && s.kind =
         <h2>Built by one person who&rsquo;s been doing this for thirteen years.</h2>
         <p>Timeless is new — it started in 2024. The person running it is not. Thirteen years of installing turf came first, and the company was built to do that work the way he thinks it should be done: measured on site, and priced in writing before anything starts.</p>
         <p>No middlemen and no handoffs — you deal with the owner. Three markets, because that is where the work is.</p>
+        {phoneHref && <a class="btn btn--primary" href={phoneHref} data-cta="call-story">Call {phone}</a>}
       </div>
-      <div data-reveal>{shotsBy('team').slice(0, 1).map((shot) => <Figure shot={shot} />)}</div>
+      <div class="story__fig" data-reveal>{shotsBy('finished').slice(4, 5).map((shot) => <Figure shot={shot} />)}</div>
     </div>
   </section>
 
   <!-- 5 · THE STANDARD — dark band, stripes drift -->
-  <section class="sec sec--green on-dark mown-stripe mown-stripe--dark mown-stripe--drift">
+  <section class="sec sec--green on-dark turf-marks turf-marks--dark turf-marks--drift">
     <div class="wrap band">
       <div class="band__copy" data-reveal>
         <p class="micro">This is the whole standard</p>
         <h2>We judge a job by whether the green is clean.</h2>
         <p class="band__p">Look at a competitor&rsquo;s photo of their own work and count the leaves on the putting surface. If they couldn&rsquo;t be bothered to blow it off before photographing it, that tells you what the install looked like on day two.</p>
+        {phoneHref && <a class="btn btn--light" href={phoneHref} data-cta="call-standard">Call {phone}</a>}
       </div>
-      <div class="band__fig" data-reveal>{shotsBy('finished').slice(0, 1).map((shot) => <Figure shot={shot} />)}</div>
+      <div class="band__fig" data-reveal>{shotsBy('finished').slice(5, 6).map((shot) => <Figure shot={shot} />)}</div>
     </div>
   </section>
 
@@ -153,19 +153,22 @@ const pair = (id: string) => ({ b: SHOTS.find((s) => s.pairId === id && s.kind =
   <!-- 7 · DIFFERENTIATORS — six things, all stated by the client -->
   <section class="sec sec--dark on-dark">
     <div class="wrap">
-      <div class="kick" data-reveal>
-        <p class="micro">Why us, in his words</p>
-        <h2>Not every turf company is the same.</h2>
-        <p>Six things that are true. Each one is checkable — ask on the call.</p>
-      </div>
-      <div class="diffs">
-        {DIFF.map((d) => <div class="diff" data-reveal><h3>{d.h}</h3><p>{d.p}</p></div>)}
+      <div class="split">
+        <div class="split__head" data-reveal>
+          <p class="micro">Why us, in his words</p>
+          <h2>Not every turf company is the same.</h2>
+          <p>Four things that are true. Each one is checkable — ask on the call.</p>
+          {phoneHref && <a class="btn btn--light" href={phoneHref} data-cta="call-diff">Call {phone}</a>}
+        </div>
+        <div class="diffs">
+          {DIFF.map((d) => <div class="diff" data-reveal><h3>{d.h}</h3><p>{d.p}</p></div>)}
+        </div>
       </div>
     </div>
   </section>
 
   <!-- 8 · PROCESS — pinned, scroll advances the steps -->
-  <section class="proc sec sec--green on-dark mown-stripe mown-stripe--dark">
+  <section class="proc sec sec--green on-dark turf-marks turf-marks--dark">
     <div class="wrap proc__in">
       <div>
         <p class="micro">How a job goes</p>
@@ -272,7 +275,7 @@ const pair = (id: string) => ({ b: SHOTS.find((s) => s.pairId === id && s.kind =
   </div></section>
 
   <!-- 12 · CLOSE — no invented scarcity. The reference claims a booking window; we have none stated. -->
-  <section class="sec sec--dark on-dark close close--big mown-stripe mown-stripe--dark mown-stripe--drift">
+  <section class="sec sec--dark on-dark close close--big turf-marks turf-marks--dark turf-marks--drift">
     <div class="wrap" data-reveal>
       <h2>Built for families, built to last.</h2>
       <p class="close__p">Free estimates and honest answers, with no pressure. You call, we measure on site, you get a quote in writing.</p>

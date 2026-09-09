@@ -30,7 +30,7 @@ for html in sorted(root.rglob('index.html')):
     secs = [c for c in secs if any(x in c.split() for x in ('sec', 'hero', 'doc__head', 'strip')) and 'doc__sec' not in c.split()]
     for c in secs:
         s = c.split()
-        if ('hero' in s or 'doc__head' in s) and 'mown-stripe' in s and 'mown-stripe--dark' not in s:
+        if ('hero' in s or 'doc__head' in s) and 'turf-marks' in s and 'turf-marks--dark' not in s:
             fails.append(f'STRIPE-1 {rel}: light stripe on a dark hero')
     g = [ground(c) for c in secs]
     for i in range(1, len(g)):

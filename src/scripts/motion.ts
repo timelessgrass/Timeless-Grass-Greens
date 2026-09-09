@@ -112,8 +112,8 @@ gsap.matchMedia().add('(prefers-reduced-motion: no-preference)', () => {
     });
   });
 
-  /* ---- 7. dark bands: the mown stripes drift slowly with scroll ---------------- */
-  gsap.utils.toArray<HTMLElement>('.mown-stripe--drift').forEach((b) => {
+  /* ---- 7. dark bands: the turf marks drift slowly with scroll ------------------ */
+  gsap.utils.toArray<HTMLElement>('.turf-marks--drift').forEach((b) => {
     gsap.fromTo(b, { '--stripe-x': '0px' }, {
       '--stripe-x': '124px', ease: 'none',
       scrollTrigger: { trigger: b, start: 'top bottom', end: 'bottom top', scrub: true },

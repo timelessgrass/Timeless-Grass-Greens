@@ -73,6 +73,24 @@ export const SHOTS: Shot[] = [
     brief: 'The property from the street — proves the job sits in a real place.',
     file: 'backyard-putting-green-from-the-street.jpg', alt: 'The same putting green seen from the street, showing how it sits in the whole yard',
     caption: 'The same green from the street, in the whole yard.' },
+
+  /* Further photographs the client sent. Used by the story and the standard band so
+     neither renders as a half-empty section. */
+  { id: 'fin-5', kind: 'finished', ratio: '4/3',
+    brief: 'Finished green at dusk with the landscape lighting on.',
+    file: 'putting-green-landscape-lighting-at-dusk.jpg',
+    alt: 'A putting green at dusk with landscape lighting on the flagstone and two flags in',
+    caption: 'A green at dusk, lit, with the flags in.' },
+  { id: 'fin-6', kind: 'finished', ratio: '4/3',
+    brief: 'Finished green beside a fire pit and seat wall.',
+    file: 'putting-green-fire-pit-stone-wall.jpg',
+    alt: 'A putting green beside a stone fire pit and seat wall, mountains on the horizon',
+    caption: 'A green beside the fire pit, mountains behind.' },
+  { id: 'fin-7', kind: 'finished', ratio: '4/3',
+    brief: 'Lawn and green with a playset.',
+    file: 'artificial-lawn-with-playset.jpg',
+    alt: 'Artificial lawn and green with a wooden playset, open ground beyond',
+    caption: 'Lawn and green with the playset on it.' },
 ];
 
 /** Hero background: the first finished shot's image, real or stock (dev). */

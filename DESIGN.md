@@ -63,7 +63,7 @@ Grep the built CSS for a second `cubic-bezier` before shipping.
 | Gallery drift | `.strip__track` | wide + pointer only; narrow/touch gets native swipe |
 | Pinned steps | `.proc` | ≥ 900px only |
 | Before/after wipe | `.wipe` | scroll-scrubbed |
-| Stripe drift | `.mown-stripe--drift` | dark bands |
+| Stripe drift | `.turf-marks--drift` | dark bands |
 
 **Nothing hides until the ticker proves alive.** Start states live in CSS under
 `html.js-motion`, added only after two rAF ticks. If the intro has not completed in 4s
@@ -148,3 +148,17 @@ anything a person reads — captions, breadcrumbs, notes, form hints — uses `-
 | Warm white on dark / deep green | 16.9 / 12.2 |
 
 Gold `#DEBA1F` lives in the logo file only. One accent on the page.
+
+## The pattern (2026-09-09)
+
+`.mown-stripe` is retired. The diagonal stripe read as abstract texture rather than as
+anything to do with this trade, and the client asked for it replaced.
+
+`.turf-marks` tiles six line icons drawn from the work: a roll of turf, a cup with the
+flag in, a grass tuft, a rake, a mound with a tree, and a circle of infill. One inline SVG
+at 470x188, 7% on dark and 7.5% on deep green, seaming through the middle of a mark so the
+repeat cannot be seen. Regenerate with `python3 scripts/build-pattern.py`.
+
+`.btn--light` joins the button set: warm white fill, deep green text. It exists because the
+brand green on the deep-green band is green on green — 1.4:1. The light button is 12.2:1 on
+that ground and 16.9:1 on the dark. Every call to action on a dark section uses it.

@@ -269,8 +269,8 @@ body {{ background: var(--ground); }}
 <div class="bd-h"><h2>Color</h2><span>one accent · gold lives in the logo only</span></div>
 <ul class="bd-sw">{sw}</ul>
 <div class="bd-tex">
-  <div class="mown-stripe mown-stripe--dark on-dark" style="background:var(--ground-dark)"><code>.mown-stripe--dark</code><span style="color:var(--ink-on-dark-dim)">on dark · drifts on scroll</span></div>
-  <div class="mown-stripe mown-stripe--dark on-dark" style="background:var(--ground-green)"><code>.sec--green .mown-stripe--dark</code><span style="color:var(--ink-on-dark-dim)">on deep green</span></div>
+  <div class="turf-marks turf-marks--dark on-dark" style="background:var(--ground-dark)"><code>.turf-marks--dark</code><span style="color:var(--ink-on-dark-dim)">on dark · drifts on scroll</span></div>
+  <div class="turf-marks turf-marks--dark on-dark" style="background:var(--ground-green)"><code>.sec--green .turf-marks--dark</code><span style="color:var(--ink-on-dark-dim)">on deep green</span></div>
   <div style="background:var(--ground-band);color:var(--ink)"><hr class="rule-ribbon" style="width:100%;margin:0 0 .6rem"><code style="color:var(--accent)">.rule-ribbon · --ribbon</code><span style="color:var(--ink-dim)">2px rule · progress fill only</span></div>
 </div>
 
