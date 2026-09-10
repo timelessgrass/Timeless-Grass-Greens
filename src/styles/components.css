@@ -343,7 +343,7 @@
 .foot__nav .micro { color: var(--ink-on-dark-faint); margin-bottom: .5rem; }
 
 /* --- motion start states — ONLY once the ticker has proven alive --------------------------------- */
-.js-motion .hero__eyebrow { opacity: 0; transform: translateY(14px); }
+.js-motion .hero--home .hero__eyebrow { opacity: 0; transform: translateY(14px); } /* scoped: unscoped, it hid the eyebrow on every service page, whose CSS rise has no end state of its own */
 .js-motion .hero--home h1 .line > span { transform: translateY(110%); }
 .js-motion .hero--home .hero__wins > li, .js-motion .hero--home .hero__cta, .js-motion .hero--home .hero__trust { opacity: 0; transform: translateY(18px); }
 /* Scoped to .hero--home on purpose: only the homepage has an intro timeline to undo

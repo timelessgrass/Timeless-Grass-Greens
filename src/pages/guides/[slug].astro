@@ -1,8 +1,8 @@
 ---
 import Base from '../../layouts/Base.astro';
+import OfferPanel from '../../components/OfferPanel.astro';
 import { GUIDES } from '../../data/guides';
 import { marketBySlug } from '../../data/markets';
-import { phone, phoneHref } from '../../data/brief';
 
 export function getStaticPaths() {
   return GUIDES.map((g) => ({ params: { slug: g.slug }, props: { g } }));
@@ -50,7 +50,7 @@ const crumbs = [
 
         {g.faq && g.faq.length > 0 && (
           <section class="doc__sec" data-reveal>
-            <h2>Questions this raises</h2>
+            <h2>Common questions</h2>
             <div class="faq">
               {g.faq.map((qa) => (
                 <details class="qa">
@@ -64,10 +64,9 @@ const crumbs = [
 
         <aside class="disclaim">
           <p>
-            This page describes how we read the rules that apply to turf installation.
-            It is not legal advice, and it is not a substitute for your municipality,
-            your water provider or your own counsel. Statutes change and local
-            ordinances differ; we cite what we checked and when, so you can check it too.
+            This page explains the rules that apply to turf installation. It isn&rsquo;t legal
+            advice: statutes change and local codes differ, so check with your town, your water
+            provider or your HOA before you build.
           </p>
         </aside>
 
@@ -86,17 +85,8 @@ const crumbs = [
         </section>
       </div>
     </div>
-
-    <section class="sec sec--dark on-dark close">
-      <div class="wrap" data-reveal>
-        <p class="micro">If this affects your job</p>
-        <h2>Ask us before you assume.</h2>
-        <p class="close__p">
-          Rules differ by state, county and sometimes by water district. Ask us before you
-          count on anything here applying to your address.
-        </p>
-        {phoneHref && <a class="btn btn--primary btn--lg" href={phoneHref} data-cta={`call-guide-${g.slug}`}>Call {phone}</a>}
-      </div>
-    </section>
   </article>
+
+  <!-- every page ends on the offer -->
+  <OfferPanel band cta={`guide-${g.slug}`} />
 </Base>

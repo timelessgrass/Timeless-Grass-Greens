@@ -1,9 +1,10 @@
 ---
 import Base from '../layouts/Base.astro';
+import Icon from '../components/Icon.astro';
+import Process from '../components/Process.astro';
 import { phone, phoneHref } from '../data/brief';
-import { MARKETS } from '../data/markets';
 const title = 'Got it | TIMELESS Grass & Greens';
-const description = 'Your request for a written number is in. We measure on site before we quote, so the next step is a call to set a time. If it cannot wait, call 303-349-2368 now.';
+const description = 'Your estimate request is in. We will call to set up your free visit. If it cannot wait, call 303-349-2368.';
 ---
 <Base title={title} description={description} robots="noindex, nofollow">
   <section class="hero hero--sub turf-marks turf-marks--dark">
@@ -11,19 +12,14 @@ const description = 'Your request for a written number is in. We measure on site
       <p class="micro micro--accent">Request received</p>
       <h1>Got it. We&rsquo;ll call you back.</h1>
       <hr class="rule-ribbon" />
-      <p class="hero__lede">We measure on site before we quote, so the next step is a short call to set a time. No showroom visit, no financing pitch.</p>
+      <p class="hero__lede">Next is your free visit: we measure the space, check the drainage and put your price in writing.</p>
       <div class="hero__cta">
-        {phoneHref && <a class="btn btn--primary" href={phoneHref} data-cta="call-thanks">Can&rsquo;t wait? Call {phone}</a>}
-        <a class="btn btn--ghost" href="/">Back to the homepage</a>
+        {phoneHref && <a class="btn btn--primary" href={phoneHref} data-cta="call-thanks"><Icon name="phone" />Can&rsquo;t wait? Call {phone}</a>}
+        <a class="btn btn--ghost" href="/" data-cta="home-thanks">Back to the homepage</a>
       </div>
     </div>
   </section>
-  <section class="sec">
-    <div class="wrap">
-      <div class="kick"><p class="micro">While you wait</p><h2>What we check before a number goes on paper.</h2></div>
-      <ul class="mkts">
-        {MARKETS.map((m) => <li><a href={`/${m.slug}/`} data-cta={`market-thanks-${m.slug}`}><span class="mkts__n">{m.name}</span><span class="mkts__s">{m.ground.split('.')[0]}.</span></a></li>)}
-      </ul>
-    </div>
-  </section>
+
+  <!-- what happens next: the same four steps the rest of the site promises -->
+  <Process micro="What happens next" heading="Next: a free visit and a written price." />
 </Base>

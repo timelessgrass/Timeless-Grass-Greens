@@ -1,10 +1,12 @@
 ---
 import Base from '../layouts/Base.astro';
+import Icon from '../components/Icon.astro';
+import OfferPanel from '../components/OfferPanel.astro';
 import { phone, phoneHref } from '../data/brief';
 import { MARKETS } from '../data/markets';
 import { SERVICES } from '../data/services';
 const title = 'Page not found | TIMELESS Grass & Greens';
-const description = 'That address is not on the site. Some links changed when we rebuilt it. Every market, every service and the turf rules by state are one click from here, or call 303-349-2368.';
+const description = 'That address is not on the site. Every service and every area we work in is one click from here, or call 303-349-2368.';
 ---
 <Base title={title} description={description} robots="noindex, nofollow">
   <section class="hero hero--sub turf-marks turf-marks--dark">
@@ -14,26 +16,47 @@ const description = 'That address is not on the site. Some links changed when we
       <hr class="rule-ribbon" />
       <p class="hero__lede">Some addresses changed when we rebuilt the site. Everything we do is one click away below.</p>
       <div class="hero__cta">
-        <a class="btn btn--primary" href="/">Go to the homepage</a>
-        {phoneHref && <a class="btn btn--ghost" href={phoneHref} data-cta="call-404">Call {phone}</a>}
+        <a class="btn btn--primary" href="/" data-cta="home-404">Go to the homepage</a>
+        {phoneHref && <a class="btn btn--ghost" href={phoneHref} data-cta="call-404"><Icon name="phone" />Call {phone}</a>}
       </div>
     </div>
   </section>
+
   <section class="sec">
     <div class="wrap">
-      <div class="kick"><p class="micro">Where we work</p><h2>Three markets.</h2></div>
-      <ul class="mkts">
-        {MARKETS.map((m) => <li><a href={`/${m.slug}/`} data-cta={`market-404-${m.slug}`}><span class="mkts__n">{m.name}</span><span class="mkts__s">{m.towns.join(' · ')}</span></a></li>)}
+      <div class="kick kick--left" data-reveal><p class="micro">What we install</p><h2>Anything that&rsquo;s turf.</h2></div>
+      <ul class="benefits">
+        {SERVICES.map((s) => (
+          <li class="benefit benefit--link" data-reveal>
+            <a href={`/services/${s.slug}/`} data-cta={`svc-404-${s.slug}`}>
+              <span class="benefit__ico"><Icon name={s.icon} /></span>
+              <h3 class="benefit__h">{s.name}</h3>
+              <p>{s.line}</p>
+              <span class="benefit__go">See {s.name.toLowerCase()}<Icon name="arrow" /></span>
+            </a>
+          </li>
+        ))}
       </ul>
     </div>
   </section>
+
   <section class="sec sec--band">
     <div class="wrap">
-      <div class="kick"><p class="micro">What we install</p><h2>Anything that&rsquo;s turf.</h2></div>
-      <ul class="svcs">
-        {SERVICES.map((s) => <li class="svc"><a href={`/services/${s.slug}/`} data-cta={`svc-404-${s.slug}`}><span class="svc__n">{s.name}</span><span class="idx__d">{s.lede}</span></a></li>)}
+      <div class="kick kick--left" data-reveal><p class="micro">Where we work</p><h2>Do we come to you?</h2></div>
+      <ul class="areas">
+        {MARKETS.map((m) => (
+          <li class="arearow" data-reveal>
+            <a href={`/${m.slug}/`} data-cta={`market-404-${m.slug}`}>
+              <span class="arearow__n"><Icon name="pin" class="arearow__pin" />{m.name}</span>
+              <span class="arearow__t">{m.towns.join(' · ')}</span>
+              <span class="arearow__g">See the area &rarr;</span>
+            </a>
+          </li>
+        ))}
       </ul>
-      <p class="proof__note"><a href="/guides/">Turf rules by state and county</a> — the guides, if that is what you were after.</p>
+      <p class="proof__note">Looking for the turf rules by state? <a href="/guides/">Read the guides</a>.</p>
     </div>
   </section>
+
+  <OfferPanel cta="404" />
 </Base>

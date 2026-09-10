@@ -1,114 +1,175 @@
 ---
-import AreaMap from '../../components/AreaMap.astro';
-import HeroImage from '../../components/HeroImage.astro';
-import Extra from '../../components/Extra.astro';
 import Base from '../../layouts/Base.astro';
+import HeroImage from '../../components/HeroImage.astro';
 import Figure from '../../components/Figure.astro';
+import Icon from '../../components/Icon.astro';
+import Extra from '../../components/Extra.astro';
+import OfferPanel from '../../components/OfferPanel.astro';
+import Process from '../../components/Process.astro';
+import AreaMap from '../../components/AreaMap.astro';
 import { MARKETS } from '../../data/markets';
-import { shotsBy, heroSrc } from '../../data/shotlist';
 import { SERVICES } from '../../data/services';
-import { businessName, phone, phoneHref } from '../../data/brief';
+import { SHOTS } from '../../data/shotlist';
+import { phone, phoneHref, positioning, fact } from '../../data/brief';
 
+/* A sales page per market, in the order a local buyer decides:
+     hero → why turf works here → what we install → the work → how it works → local questions →
+     the fine print (closed) → where we work → the offer.
+   The copy lives in markets.ts. Places are only those named on the call or on the old site; every
+   local rule in an answer carries its source link, and the long research stays closed. */
 export function getStaticPaths() {
   return MARKETS.map((m) => ({ params: { market: m.slug }, props: { m } }));
 }
 const { m } = Astro.props;
-const hero = heroSrc(); // TODO per-market hero once the client's photos land; all stock for now
-
-const ANSWER = {
-  question: `Who installs artificial turf and putting greens in ${m.short}?`,
-  answer: `${businessName} installs artificial turf, pet turf and backyard putting greens across ${m.name} — ${m.anchors.slice(0, 4).join(', ')} and the surrounding area. Residential, commercial, indoor facilities and sports fields. 13 years' experience. Call ${phone} for a free estimate.`,
-};
-
+const materials = fact<string>(positioning?.materials);
+const shot = (id: string) => SHOTS.find((x) => x.id === id && x.file);
+const heroFile = shot(m.heroShot)?.file ?? null;
+const work = m.work.map(shot).filter((x): x is NonNullable<typeof x> => !!x);
+const svcs = m.services.map((slug) => SERVICES.find((s) => s.slug === slug)).filter((s): s is NonNullable<typeof s> => !!s);
 const crumbs = [
   { name: 'Home', item: `${Astro.site}` },
   { name: m.name, item: `${Astro.site}${m.slug}/` },
 ];
 ---
-<Base
-  title={`Artificial Turf in ${m.short} | TIMELESS Grass & Greens`}
-  description={`Artificial turf, pet turf and backyard putting greens across ${m.name} — ${m.anchors.slice(0,3).join(', ')} and between. Call ${phone}.`}
-  answer={ANSWER}
-  crumbs={crumbs}
->
-  <section class="hero hero--sub turf-marks turf-marks--dark">
-    <HeroImage file={hero} />
+<Base title={m.title} description={m.description} answer={m.answer} crumbs={crumbs} faq={m.faq}>
+
+  <!-- 1 · HERO — the local outcome, two ways to act, three reasons to believe it -->
+  <section class={`hero hero--svc${heroFile ? '' : ' turf-marks turf-marks--dark'}`}>
+    <HeroImage file={heroFile} />
     <div class="wrap">
       <nav class="crumbs" aria-label="Breadcrumb">
         <a href="/">Home</a> <span aria-hidden="true">/</span> <span>{m.name}</span>
       </nav>
-      <p class="micro micro--accent">{m.towns.join(' · ')}</p>
-      <h1>Turf and putting greens across {m.name}.</h1>
-      <hr class="rule-ribbon" />
-      <p class="hero__lede">{m.ground}</p>
+      <p class="hero__eyebrow"><Icon name="pin" />{m.eyebrow}</p>
+      <h1>{m.h1}</h1>
+      <p class="hero__lede">{m.lede}</p>
+      <ul class="hero__wins">{m.wins.map((w) => <li>{w}</li>)}</ul>
       <div class="hero__cta">
-        {phoneHref && <a class="btn btn--primary" href={phoneHref} data-cta={`call-hero-${m.slug}`}>Call {phone}</a>}
+        <a class="btn btn--primary btn--lg" href="/estimate/" data-estimate data-cta={`quote-hero-${m.slug}`}>Get a free estimate<Icon name="arrow" /></a>
+        {phoneHref && <a class="btn btn--ghost btn--lg" href={phoneHref} data-cta={`call-hero-${m.slug}`}><Icon name="phone" />Call <span class="nowrap">{phone}</span></a>}
       </div>
-    </div>
-  </section>
-
-  <!-- the regulatory fact no competitor in this market has written up -->
-  <section class="sec sec--green on-dark turf-marks turf-marks--dark">
-    <div class="wrap band" data-reveal>
-      <p class="micro">What changes here</p>
-      <h2>{m.law.headline}</h2>
-      <p class="band__p">{m.law.detail}</p>
-      <p class="src">{m.law.source}</p>
-      <ul class="lawlinks">
-        {m.guides.map((g) => <li><a href={`/guides/${g.slug}/`} data-cta={`guide-${g.slug}`}>{g.anchor}</a></li>)}
+      <ul class="hero__trust">
+        <li><Icon name="check" />13 years&rsquo; experience</li>
+        {materials && <li><Icon name="check" />American-made turf</li>}
+        <li><Icon name="check" />Free estimates, no pressure</li>
       </ul>
     </div>
   </section>
 
+
+  <!-- 2 · WHY TURF WORKS HERE — the ground and the local rules, each as a benefit -->
   <section class="sec">
     <div class="wrap">
-      <p class="micro" data-reveal>What we install in {m.short}</p>
-      <h2>Anything that&rsquo;s turf.</h2>
-      <ul class="svcs">
-        {SERVICES.slice(0, 6).map((s) => (
-          <li class="svc" data-reveal><a href={`/services/${s.slug}/`} data-cta={`svc-${s.slug}`}><span class="svc__n">{s.name}</span><span class="idx__d">{s.lede}</span></a></li>
+      <div class="kick kick--left" data-reveal>
+        <p class="micro">Why turf works here</p>
+        <h2>{m.whyHeading}</h2>
+      </div>
+      <ul class="benefits benefits--four">
+        {m.why.map((b) => (
+          <li class="benefit" data-reveal>
+            <span class="benefit__ico"><Icon name={b.icon} /></span>
+            <h3>{b.h}</h3>
+            <p>{b.p}</p>
+            {b.guide && <a class="benefit__go" href={`/guides/${b.guide.slug}/`} data-cta={`guide-${b.guide.slug}-${m.slug}`}>{b.guide.label}<Icon name="arrow" /></a>}
+          </li>
         ))}
       </ul>
     </div>
   </section>
 
+
+  <!-- 3 · WHAT WE INSTALL — every service, in the order this market asks for them -->
   <section class="sec sec--band">
     <div class="wrap">
-      <p class="micro" data-reveal>Where we work</p>
-      <h2>Towns we work in across {m.short}.</h2>
-      <div class="towns__split">
-        <ul class="towns" data-reveal>
-          {m.anchors.map((t) => <li>{t}</li>)}
+      <div class="kick kick--left" data-reveal>
+        <p class="micro">What we install</p>
+        <h2>{m.svcHeading}</h2>
+      </div>
+      <ul class="benefits">
+        {svcs.map((s) => (
+          <li class="benefit benefit--link" data-reveal>
+            <a href={`/services/${s.slug}/`} data-cta={`svc-${s.slug}-${m.slug}`}>
+              <span class="benefit__ico"><Icon name={s.icon} /></span>
+              <h3 class="benefit__h">{s.name}</h3>
+              <p>{s.line}</p>
+              <span class="benefit__go">See {s.name.toLowerCase()}<Icon name="arrow" /></span>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </div>
+  </section>
+
+
+  <!-- 4 · THE WORK — our photographs; none is captioned as this market, because no location is on file -->
+  {work.length > 0 && (
+  <section class="sec sec--dark on-dark">
+    <div class="wrap">
+      <div class="kick kick--left" data-reveal>
+        <p class="micro">Our work</p>
+        <h2>Real yards we&rsquo;ve installed.</h2>
+      </div>
+      <div class="workgrid workgrid--3">
+        {work.map((w) => <Figure shot={w} sizes="(min-width: 900px) 30vw, 46vw" reveal />)}
+      </div>
+      <div class="mosaic__actions">
+        <a class="btn btn--light" href="/estimate/" data-estimate data-cta={`quote-work-${m.slug}`}>Get a free estimate<Icon name="arrow" /></a>
+      </div>
+    </div>
+  </section>
+  )}
+
+
+  <!-- 5 · HOW IT WORKS -->
+  <Process />
+
+
+  <!-- 6 · LOCAL QUESTIONS — the first one open; every rule links to its source -->
+  <section class="sec">
+    <div class="wrap">
+      <div class="kick" data-reveal>
+        <p class="micro">FAQ</p>
+        <h2>{m.faqHeading}</h2>
+      </div>
+      <div class="faq" data-reveal>
+        {m.faq.map((f, i) => (
+          <details class="qa" open={i === 0}><summary><h3>{f.q}</h3></summary><p set:html={f.a} /></details>
+        ))}
+      </div>
+      <div class="rules" data-reveal>
+        <p class="micro">The local rules, in full</p>
+        <ul class="lawlinks lawlinks--light">
+          {m.guides.map((g) => <li><a href={`/guides/${g.slug}/`} data-cta={`guide-${g.slug}`}>{g.anchor}</a></li>)}
         </ul>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- 7 · THE FINE PRINT — the researched ground and rules, closed until asked for -->
+  <Extra slug={m.slug} collapsed />
+
+
+  <!-- 8 · WHERE WE WORK — only places the client named -->
+  <section class="sec">
+    <div class="wrap">
+      <div class="kick kick--left" data-reveal>
+        <p class="micro">Where we work</p>
+        <h2>{m.reach}</h2>
+      </div>
+      <div class="towns__split">
+        <div data-reveal>
+          <p class="areas__intro">{m.answer.answer}</p>
+          <ul class="towns">{m.places.map((t) => <li><Icon name="pin" />{t}</li>)}</ul>
+          <p class="proof__note">Don&rsquo;t see your town? Call and ask.</p>
+        </div>
         <div data-reveal><AreaMap query={m.map.query} zoom={m.map.zoom} places={m.towns} label={m.name} /></div>
       </div>
     </div>
   </section>
 
-  <section class="sec sec--dark on-dark">
-    <div class="wrap">
-      <p class="micro" data-reveal>The work</p>
-      <h2>Some of our work.</h2>
-      <div class="proof__grid">
-        {shotsBy('finished').slice(0, 3).map((shot) => <Figure shot={shot} />)}
-      </div>
-    </div>
-  </section>
 
-  <section class="sec sec--band answer-box">
-    <div class="wrap" data-reveal>
-      <p class="micro">The short version</p>
-      <h2 class="answer-box__q">{ANSWER.question}</h2>
-      <p class="answer-box__a">{ANSWER.answer}</p>
-    </div>
-  </section>
+  <!-- 9 · THE OFFER -->
+  <OfferPanel band cta={m.slug} heading={m.close} pics={m.work.slice(0, 3)} />
 
-  <Extra slug={m.slug} />
-  <section class="sec sec--dark on-dark close">
-    <div class="wrap" data-reveal>
-      <p class="micro">What happens next</p>
-      <h2>You call, we measure, you get a number.</h2>
-      {phoneHref && <a class="btn btn--primary btn--lg" href={phoneHref} data-cta={`call-close-${m.slug}`}>Call {phone}</a>}
-    </div>
-  </section>
 </Base>

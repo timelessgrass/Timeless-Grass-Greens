@@ -186,3 +186,11 @@ that ground and 16.9:1 on the dark. Every call to action on a dark section uses 
 - **Service pages** follow the buyer: hero → what you get (icon cards) → the work → options and
   "every install includes" → how it works → FAQ (sourced links, FAQPage schema) → the fine print
   (extra.json, collapsed) → areas → offer. Copy lives in `services.ts`.
+- **Market pages** (`/denver-metro/`, `/grand-strand/`, `/northeast-florida/`) use the same order
+  for one place: hero → why turf works here (four local reasons, each linking its guide) → what we
+  install (every service, in the order that market asks) → the work → how it works → local FAQ
+  (sourced links) → the fine print (collapsed) → where we work (every place the client named, and
+  the map) → offer. Copy lives in `markets.ts`. Only places named on the call or the old site ship:
+  no photograph is captioned as a market, because no photograph's location is on file.
+- Every page ends on the offer: guides, the guides index and the 404 included. The thanks page ends
+  on "what happens next" instead — the lead is already in.

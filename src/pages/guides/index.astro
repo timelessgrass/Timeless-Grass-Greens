@@ -1,18 +1,25 @@
 ---
 import Extra from '../../components/Extra.astro';
+import OfferPanel from '../../components/OfferPanel.astro';
 import Base from '../../layouts/Base.astro';
+import EXTRA from '../../data/extra.json';
 import { GUIDES } from '../../data/guides';
 import { MARKETS } from '../../data/markets';
-import { phone, phoneHref } from '../../data/brief';
+import { phone } from '../../data/brief';
 const crumbs = [
   { name: 'Home', item: `${Astro.site}` },
   { name: 'Guides', item: `${Astro.site}guides/` },
 ];
 const label = (m: string) => MARKETS.find((x) => x.slug === m)?.name ?? 'All markets';
+/* The offer takes whichever ground the last research section did not, so no two neighbours
+   match. Extra with startDark puts even-numbered sections on the band; sources come last. */
+const secs = (EXTRA as Record<string, { sections: { sources: unknown[] }[] }>)['guides-index']?.sections ?? [];
+const last = secs.some((s) => s.sources.length > 0) ? secs.length : secs.length - 1;
+const offerBand = last < 0 || last % 2 === 1;
 ---
 <Base
   title="Turf Rules by State &amp; County | TIMELESS Grass &amp; Greens"
-  description={`What the law actually says about artificial turf in Colorado, the Carolinas and Florida. Statutes cited, dates checked. Call ${phone}.`}
+  description={`Artificial turf rules in Colorado, the Carolinas and Florida: HOAs, rebates, infill, permits and licensing, with the statutes cited. Call ${phone}.`}
   crumbs={crumbs}
 >
   <section class="hero hero--sub turf-marks turf-marks--dark">
@@ -23,9 +30,9 @@ const label = (m: string) => MARKETS.find((x) => x.slug === m)?.name ?? 'All mar
       <h1>What the rules actually say.</h1>
       <hr class="rule-ribbon" />
       <p class="hero__lede">
-        Turf law changed in Colorado, differs across the Carolina state line, and
-        restricts what goes under residential turf in Florida. Every page here cites
-        the statute and carries the date we last checked it.
+        Turf rules changed in Colorado, differ across the Carolina state line, and limit what goes
+        under turf on Florida home lawns. Here&rsquo;s what each rule says, and what it means for
+        your yard.
       </p>
     </div>
   </section>
@@ -49,11 +56,7 @@ const label = (m: string) => MARKETS.find((x) => x.slug === m)?.name ?? 'All mar
   </section>
 
   <Extra slug="guides-index" startDark />
-  <section class="sec sec--dark on-dark close">
-    <div class="wrap" data-reveal>
-      <h2>Rules differ by address.</h2>
-      <p class="close__p">Water district, county and state all matter. Ask us before you count on any of it applying to yours.</p>
-      {phoneHref && <a class="btn btn--primary btn--lg" href={phoneHref} data-cta="call-guides-index">Call {phone}</a>}
-    </div>
-  </section>
+
+  <!-- every page ends on the offer -->
+  <OfferPanel band={offerBand} cta="guides-index" />
 </Base>

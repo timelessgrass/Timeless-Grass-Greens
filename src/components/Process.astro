@@ -4,6 +4,8 @@
    consultation, custom design and quote, "you approve the design before we install", "we handle
    all site prep and cleanup". */
 import Icon from './Icon.astro';
+interface Props { micro?: string; heading?: string }
+const { micro = 'How it works', heading = 'You call. We measure. You get a price.' } = Astro.props;
 const STEPS = [
   { icon: 'phone', h: 'Call or send photos', p: 'Tell us about your space and what you want to use it for.' },
   { icon: 'ruler', h: 'Free visit', p: 'We measure the space and check the drainage. No charge.' },
@@ -15,8 +17,8 @@ const STEPS = [
   <span class="turf-marks__layer" aria-hidden="true"></span>
   <div class="wrap proc__in">
     <div>
-      <p class="micro">How it works</p>
-      <h2>You call. We measure. You get a price.</h2>
+      <p class="micro">{micro}</p>
+      <h2>{heading}</h2>
       <div class="proc__bar"><div class="proc__fill"></div></div>
     </div>
     <div class="proc__steps">
