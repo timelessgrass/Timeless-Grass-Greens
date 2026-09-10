@@ -8,8 +8,9 @@
  */
 import { gsap } from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
+import { SplitText } from 'gsap/SplitText';
 
-gsap.registerPlugin(ScrollTrigger);
+gsap.registerPlugin(ScrollTrigger, SplitText);
 
 const EASE = 'expo.out'; // the single curve. tokens.css: cubic-bezier(.16,1,.3,1) ≈ expo.out
 const html = document.documentElement;
@@ -34,7 +35,7 @@ requestAnimationFrame(() => requestAnimationFrame(() => {
     gsap.globalTimeline.clear();
     gsap.set(
       '[data-parallax] img, [data-zoom] img, .hero__img, .hero__eyebrow, .hero h1 .line > span,'
-      + ' .hero__wins > li, .hero__cta, .hero__trust, .scribble path, .strip__track, .grassline__g',
+      + ' .hero__wins > li, .hero__cta, .hero__trust, .scribble path, .strip__track, .grassline__g, .h2-line',
       { clearProps: 'all' },
     );
   }, 4000);
@@ -215,6 +216,21 @@ gsap.matchMedia().add('(prefers-reduced-motion: no-preference)', () => {
       });
     });
   }
+
+  /* ---- 8. headings: each line rises from behind its own mask, like the hero ---- */
+  gsap.utils.toArray<HTMLElement>('main h2:not(.benefit__h)').forEach((h) => {
+    SplitText.create(h, {
+      type: 'lines', mask: 'lines', linesClass: 'h2-line', autoSplit: true,
+      onSplit: (self) => {
+        if (h.dataset.lined === 'done') return; // re-split after a resize: never replay
+        return gsap.from(self.lines, {
+          yPercent: 110, duration: .9, ease: EASE, stagger: .08,
+          scrollTrigger: { trigger: h, start: 'top 88%', once: true },
+          onComplete: () => { h.dataset.lined = 'done'; },
+        });
+      },
+    });
+  });
 
   return () => {}; // matchMedia handles revert
 });
