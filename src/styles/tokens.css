@@ -86,7 +86,7 @@
   position: relative;
   isolation: isolate;
 }
-.turf-marks::before {
+.turf-marks::before, .turf-marks__layer {
   content: "";
   position: absolute;
   inset: 0;
@@ -96,8 +96,9 @@
   opacity: .07;
   pointer-events: none;
 }
-.turf-marks--drift::before { background-position: var(--stripe-x, 0px) 0; }
-.turf-marks--dark::before { opacity: .075; }
+.turf-marks--drift::before { display: none; }  /* drifting sections carry a real layer instead */
+.turf-marks__layer { inset: 0 0 0 -124px; will-change: transform; }  /* 124px wider on the left: the drift distance */
+.turf-marks--dark::before, .turf-marks--dark .turf-marks__layer { opacity: .075; }
 
 .rule-ribbon {
   height: 2px;

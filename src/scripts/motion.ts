@@ -181,8 +181,10 @@ gsap.matchMedia().add('(prefers-reduced-motion: no-preference)', () => {
 
   /* ---- 7. dark bands: the turf marks drift slowly with scroll ------------------ */
   gsap.utils.toArray<HTMLElement>('.turf-marks--drift').forEach((b) => {
-    gsap.fromTo(b, { '--stripe-x': '0px' }, {
-      '--stripe-x': '124px', ease: 'none',
+    const layer = b.querySelector<HTMLElement>('.turf-marks__layer');
+    if (!layer) return;
+    gsap.fromTo(layer, { x: 0 }, {
+      x: 124, ease: 'none',
       scrollTrigger: { trigger: b, start: 'top bottom', end: 'bottom top', scrub: true },
     });
   });
