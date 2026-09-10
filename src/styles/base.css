@@ -92,7 +92,7 @@ p  { margin: 0 0 1.05em; max-width: var(--measure); text-wrap: pretty; }
 /* --- menu button + panel: the only navigation control, at every width --------- */
 .chrome__menu { display: inline-flex; align-items: center; gap: .55rem; min-height: 44px; padding: .5rem .9rem; background: transparent; border: 1px solid var(--rule); border-radius: var(--radius-pill); font: inherit; font-weight: 600; font-size: .86rem; color: var(--ink); cursor: pointer; }
 .chrome__menu-ico { position: relative; width: 18px; height: 12px; }
-.chrome__menu-ico::before, .chrome__menu-ico::after { content: ""; position: absolute; left: 0; right: 0; height: 2px; background: currentColor; border-radius: 2px; transition: transform var(--dur) var(--ease), top var(--dur) var(--ease); }
+.chrome__menu-ico::before, .chrome__menu-ico::after { content: ""; position: absolute; left: 0; right: 0; height: 2px; background: currentColor; border-radius: 2px; transition: transform var(--dur-ui-slow) var(--ease), top var(--dur-ui-slow) var(--ease); }
 .chrome__menu-ico::before { top: 0; } .chrome__menu-ico::after { top: 10px; }
 .chrome__menu[aria-expanded="true"] .chrome__menu-ico::before { top: 5px; transform: rotate(45deg); }
 .chrome__menu[aria-expanded="true"] .chrome__menu-ico::after { top: 5px; transform: rotate(-45deg); }

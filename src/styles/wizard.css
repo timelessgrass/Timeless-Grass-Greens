@@ -24,9 +24,9 @@
 }
 .estimate__x { position: absolute; top: .85rem; right: .85rem; z-index: 3; display: grid; place-items: center; width: 44px; height: 44px; padding: 0;
   border: 1px solid var(--rule); border-radius: var(--radius-pill); background: var(--ground); color: var(--ink); cursor: pointer;
-  transition: border-color var(--dur) var(--ease), color var(--dur) var(--ease), transform var(--dur) var(--ease); }
+  transition: border-color var(--dur-ui) var(--ease), color var(--dur-ui) var(--ease), transform var(--dur-ui) var(--ease); }
 .estimate__x .ico { width: 18px; height: 18px; }
-.estimate__x:hover { border-color: var(--accent); color: var(--accent); transform: rotate(90deg); }
+@media (hover: hover) and (pointer: fine) { .estimate__x:hover { border-color: var(--accent); color: var(--accent); transform: rotate(90deg); } }
 html.estimate-open { overflow: hidden; }
 
 /* --- the wizard ------------------------------------------------------------------ */
@@ -65,19 +65,20 @@ html.estimate-open { overflow: hidden; }
 .opt input { position: absolute; inset: 0; z-index: 1; width: 100%; height: 100%; margin: 0; opacity: 0; cursor: pointer; }
 .opt__box { position: relative; display: flex; align-items: center; gap: .8rem; min-height: 58px; padding: .95rem 1.05rem;
   border: 1.5px solid var(--rule); border-radius: 14px; font-weight: 600; font-size: 1rem; line-height: 1.25; color: var(--ink);
-  transition: border-color var(--dur) var(--ease), background-color var(--dur) var(--ease), transform var(--dur) var(--ease), box-shadow var(--dur) var(--ease); }
+  transition: border-color var(--dur-ui) var(--ease), background-color var(--dur-ui) var(--ease), transform var(--dur-ui) var(--ease), box-shadow var(--dur-ui) var(--ease); }
 .opt--tile .opt__box { flex-direction: column; justify-content: center; gap: .6rem; min-height: 112px; padding: 1.05rem .6rem; text-align: center; }
-.opt__ico { width: 30px; height: 30px; stroke-width: 1.6; color: var(--accent); transition: transform .5s var(--ease); }
+.opt__ico { width: 30px; height: 30px; stroke-width: 1.6; color: var(--accent); transition: transform var(--dur-ui-slow) var(--ease); }
 .opt__tick { flex: 0 0 auto; width: 22px; height: 22px; padding: 4px; border-radius: 50%; background: var(--accent); color: var(--ink-on-dark);
-  stroke-width: 3.2; opacity: 0; transform: scale(.4); transition: opacity .25s var(--ease), transform .5s var(--ease); }
+  stroke-width: 3.2; opacity: 0; transform: scale(.9); transition: opacity var(--dur-ui) var(--ease), transform var(--dur-ui-slow) var(--ease); }
 .opt--row .opt__tick { margin-left: auto; }
 .opt--tile .opt__tick { position: absolute; top: .55rem; right: .55rem; }
-@media (hover: hover) {
+@media (hover: hover) and (pointer: fine) {
   .opt:hover .opt__box { border-color: rgba(21, 21, 15, .34); background: var(--ground-band); transform: translateY(-2px); }
   .opt:hover .opt__ico { transform: scale(1.08); }
 }
 .opt input:checked + .opt__box { border-color: var(--accent); background: rgba(48, 116, 8, .08); box-shadow: inset 0 0 0 1px var(--accent); }
 .opt input:checked + .opt__box .opt__tick { opacity: 1; transform: scale(1); }
+.opt:active .opt__box { transform: scale(.97); transition-duration: .12s; }
 .opt input:focus-visible + .opt__box { outline: 2px solid var(--accent); outline-offset: 3px; }
 
 .wiz .fld + .fld { margin-top: .95rem; }

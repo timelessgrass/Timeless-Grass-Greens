@@ -57,6 +57,8 @@
   /* --- motion — ONE curve. grep for a second cubic-bezier before shipping. -- */
   --ease: cubic-bezier(.16, 1, .3, 1);
   --dur:  .62s;
+  --dur-ui: .18s;       /* hover, press and selection feedback: UI answers in under 200ms */
+  --dur-ui-slow: .32s;  /* small UI that travels: arrows, chevrons, ticks, lifts */
   --shadow-float: 0 18px 40px rgba(14, 14, 12, .35); /* the one floating shadow: ink-dark, never pure black */
 
   /* --- geometry ------------------------------------------------------------ */

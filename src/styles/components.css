@@ -5,8 +5,9 @@
    ========================================================================== */
 
 /* --- buttons: always pills ---------------------------------------------------- */
-.btn { display: inline-flex; align-items: center; justify-content: center; gap: .55rem; min-height: 52px; padding: .9rem 1.6rem; font-weight: 600; font-size: 1rem; letter-spacing: .005em; text-decoration: none; border: 1px solid transparent; border-radius: var(--radius-pill); transition: background-color var(--dur) var(--ease), border-color var(--dur) var(--ease), transform var(--dur) var(--ease), color var(--dur) var(--ease); }
-.btn:hover { transform: translateY(-1px); } .btn:active { transform: translateY(0); }
+.btn { display: inline-flex; align-items: center; justify-content: center; gap: .55rem; min-height: 52px; padding: .9rem 1.6rem; font-weight: 600; font-size: 1rem; letter-spacing: .005em; text-decoration: none; border: 1px solid transparent; border-radius: var(--radius-pill); transition: background-color var(--dur-ui) var(--ease), border-color var(--dur-ui) var(--ease), transform var(--dur-ui) var(--ease), color var(--dur-ui) var(--ease); }
+@media (hover: hover) and (pointer: fine) { .btn:hover { transform: translateY(-1px); } }
+.btn:active { transform: scale(.97); transition-duration: .12s; }
 .btn--primary { background: var(--accent); color: var(--ink-on-dark); }
 .btn--primary:hover { background: var(--accent-hover); }
 .btn--ghost { border-color: var(--rule); color: var(--ink); }
@@ -20,8 +21,8 @@
 .btn--lg { min-height: 58px; padding: 1.05rem 1.9rem; font-size: 1.06rem; }
 .btn--pill { } /* alias — pills are the default now */
 .ico { width: 1.15em; height: 1.15em; flex: 0 0 auto; }
-.btn .ico--arrow { transition: transform var(--dur) var(--ease); }
-@media (hover: hover) {
+.btn .ico--arrow { transition: transform var(--dur-ui-slow) var(--ease); }
+@media (hover: hover) and (pointer: fine) {
   .btn:hover .ico--arrow { transform: translateX(3px); }
   .btn:hover .ico--phone { animation: ring .7s var(--ease); }
 }
@@ -100,8 +101,8 @@
 .cards, .svcs, .idx, .mkts { display: grid; gap: 1.1rem; list-style: none; padding: 0; margin: 2rem 0 0; }
 @media (min-width: 640px) { .cards, .svcs, .idx, .mkts { grid-template-columns: repeat(2, 1fr); } }
 @media (min-width: 1000px) { .cards, .svcs, .idx { grid-template-columns: repeat(3, 1fr); } .mkts { grid-template-columns: repeat(3, 1fr); } }
-.card, .svc, .idx > li, .mkts > li { background: var(--ground); border: 1px solid var(--rule); border-radius: var(--radius-card); padding: 1.6rem 1.5rem 1.7rem; display: flex; flex-direction: column; gap: .6rem; transition: transform var(--dur) var(--ease), border-color var(--dur) var(--ease); }
-.card:hover, .svc:hover, .idx > li:hover, .mkts > li:hover { transform: translateY(-4px); border-color: var(--accent); }
+.card, .svc, .idx > li, .mkts > li { background: var(--ground); border: 1px solid var(--rule); border-radius: var(--radius-card); padding: 1.6rem 1.5rem 1.7rem; display: flex; flex-direction: column; gap: .6rem; transition: transform var(--dur-ui-slow) var(--ease), border-color var(--dur-ui) var(--ease); }
+@media (hover: hover) and (pointer: fine) { .card:hover, .svc:hover, .idx > li:hover, .mkts > li:hover { transform: translateY(-4px); border-color: var(--accent); } }
 .on-dark .card, .on-dark .svc, .on-dark .idx > li, .on-dark .mkts > li { background: rgba(242,240,232,.05); border-color: var(--rule-on-dark); color: var(--ink-on-dark); }
 .on-dark .card:hover, .on-dark .svc:hover { border-color: var(--accent-on-dark); }
 .card__n { font-size: .78rem; letter-spacing: .14em; color: var(--accent); text-transform: uppercase; font-weight: 600; }
