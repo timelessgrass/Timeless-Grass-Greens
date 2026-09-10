@@ -34,7 +34,7 @@
 .hero--home h1 .line { padding-bottom: .12em; margin-bottom: -.12em; }
 .hero--home h1 em { position: relative; display: inline-block; }
 .scribble { position: absolute; left: -3%; bottom: -.04em; width: 106%; height: auto; aspect-ratio: 220 / 18; overflow: visible; pointer-events: none; }
-.scribble path { fill: none; stroke: var(--accent-on-dark); stroke-width: 3; stroke-linecap: round; stroke-dasharray: 1; stroke-dashoffset: 0; }
+.scribble path { fill: none; stroke: var(--accent-on-dark); stroke-width: 3; stroke-linecap: round; stroke-dasharray: 1 2; stroke-dashoffset: 0; }  /* gap longer than the path: no dot at its end before it draws */
 
 /* --- mosaic: the photographs, at three sizes -------------------------------------- */
 .mosaic { display: grid; grid-template-columns: repeat(2, 1fr); gap: clamp(.5rem, 1.4vw, 1rem); margin-top: clamp(2rem, 5vw, 3rem); }

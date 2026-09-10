@@ -112,7 +112,7 @@ html.estimate-open { overflow: hidden; }
 .wiz__done .btn { min-width: min(100%, 300px); }
 .wiz__seal { width: 84px; height: 84px; }
 .wiz__seal circle { fill: rgba(48, 116, 8, .1); stroke: var(--accent); stroke-width: 2; stroke-dasharray: 1; stroke-dashoffset: 1; animation: wiz-draw .8s var(--ease) forwards; }
-.wiz__seal path { fill: none; stroke: var(--accent); stroke-width: 3.4; stroke-linecap: round; stroke-linejoin: round; stroke-dasharray: 1; stroke-dashoffset: 1; animation: wiz-draw .6s var(--ease) .45s forwards; }
+.wiz__seal path { fill: none; stroke: var(--accent); stroke-width: 3.4; stroke-linecap: round; stroke-linejoin: round; stroke-dasharray: 1 2; stroke-dashoffset: 1; animation: wiz-draw .6s var(--ease) .45s forwards; }  /* gap longer than the tick: no dot while it waits to draw */
 @keyframes wiz-draw { to { stroke-dashoffset: 0; } }
 .wiz.is-done .wiz__head, .wiz.is-done .wiz__steps, .wiz.is-done .wiz__nav, .wiz.is-done .wiz__trust { display: none; }
 

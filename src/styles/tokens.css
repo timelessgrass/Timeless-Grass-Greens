@@ -98,6 +98,7 @@
 }
 .turf-marks--drift::before { display: none; }  /* drifting sections carry a real layer instead */
 .turf-marks__layer { inset: 0 0 0 -124px; will-change: transform; }  /* 124px wider on the left: the drift distance */
+.turf-marks--drift { overflow-x: clip; }  /* the layer travels 124px right; clip stops it widening the page. clip, not hidden: hidden makes the band a scroll box and unsticks the phone step cards */
 .turf-marks--dark::before, .turf-marks--dark .turf-marks__layer { opacity: .075; }
 
 .rule-ribbon {

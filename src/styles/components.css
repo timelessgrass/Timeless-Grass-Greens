@@ -377,7 +377,7 @@
 @starting-style { .qa[open] > p { opacity: 0; translate: 0 -6px; } }
 
 /* --- icons draw themselves as their row arrives --------------------------------------------------- */
-.js-motion .draw .ico path { stroke-dasharray: 1; stroke-dashoffset: 1; }
+.js-motion .draw .ico path { stroke-dasharray: 1 2; stroke-dashoffset: 1; }  /* gap longer than the path: no zero-length dash lands on its end, so the round cap leaves no dot before it draws */
 .js-motion .draw.is-drawn .ico path { stroke-dashoffset: 0; transition: stroke-dashoffset 1s var(--ease) .12s; }
 @media (prefers-reduced-motion: reduce) { .js-motion .draw .ico path { stroke-dashoffset: 0; } }
 

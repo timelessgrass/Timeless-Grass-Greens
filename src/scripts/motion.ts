@@ -183,7 +183,7 @@ gsap.matchMedia().add('(prefers-reduced-motion: no-preference)', () => {
   /* ---- 7. dark bands: the turf marks drift slowly with scroll ------------------ */
   gsap.utils.toArray<HTMLElement>('.turf-marks--drift').forEach((b) => {
     const layer = b.querySelector<HTMLElement>('.turf-marks__layer');
-    if (!layer) return;
+    if (!layer || !CSS.supports('overflow-x', 'clip')) return; // no clip (Safari < 16): the pattern stays still rather than widen the page
     gsap.fromTo(layer, { x: 0 }, {
       x: 124, ease: 'none',
       scrollTrigger: { trigger: b, start: 'top bottom', end: 'bottom top', scrub: true },
@@ -204,16 +204,16 @@ gsap.matchMedia().add('(prefers-reduced-motion: no-preference)', () => {
     onEnter: (els) => els.forEach((el, i) => setTimeout(() => el.classList.add('is-drawn'), i * 70)),
   });
 
-  /* ---- 11. phones: each step card shrinks and dims as the next slides over it ------ */
+  /* ---- 11. phones: each step card shrinks and dims as the next slides over it ------
+     The card stays opaque so the one it covers stays hidden; only its contents dim. */
   if (window.matchMedia('(max-width: 899px)').matches) {
     const cards = gsap.utils.toArray<HTMLElement>('.proc__step');
     cards.forEach((card, i) => {
       const next = cards[i + 1];
       if (!next) return;
-      gsap.to(card, {
-        scale: .94, opacity: .5, ease: 'none', transformOrigin: '50% 0%',
-        scrollTrigger: { trigger: next, start: 'top 85%', end: 'top 25%', scrub: true },
-      });
+      gsap.timeline({ scrollTrigger: { trigger: next, start: 'top 85%', end: 'top 25%', scrub: true } })
+        .to(card, { scale: .94, ease: 'none', transformOrigin: '50% 0%' }, 0)
+        .to(Array.from(card.children), { opacity: .35, ease: 'none' }, 0);
     });
   }
 
