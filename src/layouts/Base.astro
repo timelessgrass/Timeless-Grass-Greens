@@ -191,6 +191,13 @@ if (crumbs?.length) {
       <a class="btn bar__quote" href="/estimate/" data-estimate data-cta="quote-sticky">Free estimate</a>
     </div>
   )}
+  <dialog class="lightbox" aria-label="Photo">
+    <button class="lightbox__x" type="button" data-lightbox-close aria-label="Close"><Icon name="x" /></button>
+    <button class="lightbox__nav lightbox__nav--prev" type="button" data-lightbox-prev aria-label="Previous photo"><Icon name="arrow" /></button>
+    <img class="lightbox__img" alt="" />
+    <button class="lightbox__nav lightbox__nav--next" type="button" data-lightbox-next aria-label="Next photo"><Icon name="arrow" /></button>
+    <p class="lightbox__cap"><span class="lightbox__count"></span> <span class="lightbox__text"></span></p>
+  </dialog>
   {!noEstimate && (
     <dialog class="estimate" aria-label="Free estimate">
       <div class="estimate__card">
@@ -199,6 +206,6 @@ if (crumbs?.length) {
       </div>
     </dialog>
   )}
-  <script>import '../scripts/motion'; import '../scripts/estimate';</script>
+  <script>import '../scripts/motion'; import '../scripts/estimate'; import '../scripts/lightbox';</script>
 </body>
 </html>
