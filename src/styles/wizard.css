@@ -14,12 +14,12 @@
 .estimate.is-open::backdrop { opacity: 1; }
 .estimate__card { position: relative; width: 100%; max-height: 94dvh; overflow-y: auto; overscroll-behavior: contain;
   background: var(--ground); border-radius: 1.4rem 1.4rem 0 0; box-shadow: var(--shadow-float);
-  transform: translateY(104%); transition: transform .55s var(--ease); }
+  transform: translateY(104%); transition: transform .46s var(--ease); }
 .estimate.is-open .estimate__card { transform: none; }
 @media (min-width: 640px) {
   .estimate[open] { align-items: center; padding: 4vh 1rem; }
   .estimate__card { width: min(600px, 100%); max-height: 92vh; border-radius: var(--radius-card); opacity: 0;
-    transform: translateY(26px) scale(.97); transition: transform .55s var(--ease), opacity .35s var(--ease); }
+    transform: translateY(26px) scale(.97); transition: transform .46s var(--ease), opacity .3s var(--ease); }
   .estimate.is-open .estimate__card { opacity: 1; transform: none; }
 }
 .estimate__x { position: absolute; top: .85rem; right: .85rem; z-index: 3; display: grid; place-items: center; width: 44px; height: 44px; padding: 0;
@@ -43,8 +43,16 @@ html.estimate-open { overflow: hidden; }
 .wiz__step { min-width: 0; margin: 0; padding: 0; border: 0; }
 .wiz:not(.is-wizard) .wiz__step + .wiz__step { margin-top: 2.2rem; }
 .wiz.is-wizard .wiz__step:not(.is-on) { display: none; }
-.wiz.is-wizard .wiz__step.is-on { animation: wiz-in .5s var(--ease) both; }
-@keyframes wiz-in { from { opacity: 0; transform: translateX(var(--dir, 28px)); } }
+.wiz.is-wizard .wiz__step.is-on { transition: opacity var(--dur-ui-slow) var(--ease), translate var(--dur-ui-slow) var(--ease); }
+@starting-style { .wiz.is-wizard .wiz__step.is-on { opacity: 0; translate: var(--dir, 28px) 0; } }
+/* the answers arrive one after another, 35ms apart */
+.wiz.is-wizard .wiz__step.is-on .opt { transition: opacity var(--dur-ui-slow) var(--ease), translate var(--dur-ui-slow) var(--ease); }
+@starting-style { .wiz.is-wizard .wiz__step.is-on .opt { opacity: 0; translate: 0 10px; } }
+.wiz.is-wizard .wiz__step.is-on .opt:nth-child(2) { transition-delay: 35ms; }
+.wiz.is-wizard .wiz__step.is-on .opt:nth-child(3) { transition-delay: 70ms; }
+.wiz.is-wizard .wiz__step.is-on .opt:nth-child(4) { transition-delay: 105ms; }
+.wiz.is-wizard .wiz__step.is-on .opt:nth-child(5) { transition-delay: 140ms; }
+.wiz.is-wizard .wiz__step.is-on .opt:nth-child(6) { transition-delay: 175ms; }
 .wiz__q { display: block; width: 100%; padding: 0; margin: 0 0 1.2rem; font-family: var(--font-display); font-weight: 500;
   font-size: clamp(1.6rem, 5vw, 2.15rem); line-height: 1.08; letter-spacing: var(--track-display); color: var(--ink); text-wrap: balance; }
 .wiz__hint { margin: .9rem 0 0; font-size: .88rem; line-height: 1.5; color: var(--ink-dim); }
@@ -137,3 +145,19 @@ html.estimate-open { overflow: hidden; }
 .offer__pics img:nth-child(1) { transform: rotate(-3deg); }
 .offer__pics img:nth-child(2) { transform: translateY(8px) rotate(1.5deg); }
 .offer__pics img:nth-child(3) { transform: rotate(3deg); }
+
+/* the lead is in: eight blades of grass burst from the seal, once */
+.wiz__done { position: relative; }
+.wiz__burst { position: absolute; left: 50%; top: calc(1.2rem + 42px); width: 0; height: 0; pointer-events: none; }
+.wiz__burst i { position: absolute; left: -2px; top: -10px; width: 4px; height: 20px; border-radius: 4px; background: var(--accent); opacity: 0; }
+.wiz__burst i:nth-child(even) { background: var(--accent-on-dark); height: 14px; top: -7px; }
+.wiz.is-done .wiz__burst i { animation: wiz-burst .9s var(--ease) .5s forwards; }
+.wiz__burst i:nth-child(1) { --a: 0deg; }   .wiz__burst i:nth-child(2) { --a: 45deg; }
+.wiz__burst i:nth-child(3) { --a: 90deg; }  .wiz__burst i:nth-child(4) { --a: 135deg; }
+.wiz__burst i:nth-child(5) { --a: 180deg; } .wiz__burst i:nth-child(6) { --a: 225deg; }
+.wiz__burst i:nth-child(7) { --a: 270deg; } .wiz__burst i:nth-child(8) { --a: 315deg; }
+@keyframes wiz-burst {
+  0%   { opacity: 0; transform: rotate(var(--a)) translateY(-34px) scaleY(.4); }
+  25%  { opacity: 1; }
+  100% { opacity: 0; transform: rotate(var(--a)) translateY(-74px) scaleY(1); }
+}

@@ -111,6 +111,7 @@ const title = `wiz-${mode}-title`;
 
   <div class="wiz__done" data-wiz-done hidden tabindex="-1">
     <svg class="wiz__seal" viewBox="0 0 52 52" aria-hidden="true" focusable="false"><circle cx="26" cy="26" r="24" pathLength="1" /><path d="M15 27l7 7 15-16" pathLength="1" /></svg>
+    <span class="wiz__burst" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></span>
     <p class="wiz__q">You&rsquo;re all set<span data-wiz-name></span>.</p>
     <p>We&rsquo;ll call you soon to set up your free visit.</p>
     {phoneHref && <a class="btn btn--ghost" href={phoneHref} data-cta={`call-wizard-${mode}`}><Icon name="phone" />Can&rsquo;t wait? Call <span class="nowrap">{phone}</span></a>}
