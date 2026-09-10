@@ -34,7 +34,7 @@ requestAnimationFrame(() => requestAnimationFrame(() => {
     gsap.globalTimeline.clear();
     gsap.set(
       '[data-parallax] img, [data-zoom] img, .hero__img, .hero__eyebrow, .hero h1 .line > span,'
-      + ' .hero__wins > li, .hero__cta, .hero__trust, .scribble path, .strip__track',
+      + ' .hero__wins > li, .hero__cta, .hero__trust, .scribble path, .strip__track, .grassline__g',
       { clearProps: 'all' },
     );
   }, 4000);
@@ -48,7 +48,8 @@ gsap.matchMedia().add('(prefers-reduced-motion: no-preference)', () => {
     .to('.hero__eyebrow', { y: 0, opacity: 1, duration: .5 }, 0)
     .to('.hero h1 .line > span', { y: 0, duration: .8, stagger: .08 }, .1) // y not yPercent: GSAP parses the CSS % start as px
     .to('.hero__wins > li, .hero__cta, .hero__trust', { y: 0, opacity: 1, duration: .6, stagger: .05 }, .35)
-    .to('.hero--home .scribble path', { strokeDashoffset: 0, duration: .9 }, .55); // the stroke under "no mud." draws as the copy lands
+    .to('.hero--home .scribble path', { strokeDashoffset: 0, duration: .9 }, .55) // the stroke under "no mud." draws as the copy lands
+    .call(() => { document.querySelector('.hero--home')?.classList.add('is-grown'); }, [], .2); // the grass grows up as the headline rises
 
   /* hero image: slow ken-burns on scroll, not on a timer — it only moves if you do */
   if (document.querySelector('.hero__img')) gsap.to('.hero__img', {
@@ -186,6 +187,12 @@ gsap.matchMedia().add('(prefers-reduced-motion: no-preference)', () => {
       x: 124, ease: 'none',
       scrollTrigger: { trigger: b, start: 'top bottom', end: 'bottom top', scrub: true },
     });
+  });
+
+  /* ---- 14. the grass leans as the hero scrolls away, like wind ----------------------- */
+  if (document.querySelector('.grassline__g')) gsap.to('.grassline__g', {
+    skewX: -10, ease: 'none', transformOrigin: '50% 100%',
+    scrollTrigger: { trigger: '.hero--home', start: 'top top', end: 'bottom top', scrub: true },
   });
 
   return () => {}; // matchMedia handles revert
