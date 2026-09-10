@@ -8,13 +8,24 @@ INLINE-1 no inline hex colours or radius    EASE-1   exactly one cubic-bezier in
 """
 import re, sys, pathlib
 root = pathlib.Path(sys.argv[1] if len(sys.argv) > 1 else 'dist')
-css = ' '.join(p.read_text() for p in pathlib.Path('src/styles').glob('*.css'))
+# Sorted: glob order is whatever the filesystem returns, which differs between macOS and the
+# Linux build image. The gate passed locally and failed on Netlify for exactly that reason.
+css = ' '.join(p.read_text() for p in sorted(pathlib.Path('src/styles').glob('*.css')))
 fails, warns = [], []
 
-btn = re.search(r'\.btn \{([^}]*)\}', css)
-if not btn or 'var(--radius-pill)' not in btn.group(1): fails.append('BTN-1 .btn is not a pill')
-hero = re.search(r'\.hero \{([^}]*)\}', css)
-if not hero or 'var(--ground-dark)' not in hero.group(1): fails.append('HERO-1 .hero is not dark')
+def own(selector):
+    r"""Bodies of every rule whose selector list contains EXACTLY `selector`.
+
+    The previous check was re.search(r'\.btn \{'), which also matches the tail of
+    '.menu__cta .btn {'. Which rule it landed on then depended on file order: components.css
+    first (macOS) found the real .btn and passed; base.css first (Linux) found the menu
+    override, saw no radius, and failed every Netlify build from 8 Sep onward."""
+    flat = re.sub(r'/\*.*?\*/', '', css, flags=re.S)
+    return [body for sel, body in re.findall(r'([^{}]+)\{([^{}]*)\}', flat)
+            if selector in [x.strip() for x in sel.split(',')]]
+
+if not any('var(--radius-pill)' in b for b in own('.btn')): fails.append('BTN-1 .btn is not a pill')
+if not any('var(--ground-dark)' in b for b in own('.hero')): fails.append('HERO-1 .hero is not dark')
 if css.count('cubic-bezier(') != 1: fails.append(f'EASE-1 {css.count("cubic-bezier(")} cubic-bezier curves in CSS (must be 1)')
 
 def ground(cls):
