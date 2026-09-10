@@ -375,3 +375,8 @@
 .qa[open]::details-content { block-size: auto; }
 .qa[open] > p { transition: opacity var(--dur-ui-slow) var(--ease), translate var(--dur-ui-slow) var(--ease); }
 @starting-style { .qa[open] > p { opacity: 0; translate: 0 -6px; } }
+
+/* --- icons draw themselves as their row arrives --------------------------------------------------- */
+.js-motion .draw .ico path { stroke-dasharray: 1; stroke-dashoffset: 1; }
+.js-motion .draw.is-drawn .ico path { stroke-dashoffset: 0; transition: stroke-dashoffset 1s var(--ease) .12s; }
+@media (prefers-reduced-motion: reduce) { .js-motion .draw .ico path { stroke-dashoffset: 0; } }

@@ -195,6 +195,14 @@ gsap.matchMedia().add('(prefers-reduced-motion: no-preference)', () => {
     scrollTrigger: { trigger: '.hero--home', start: 'top top', end: 'bottom top', scrub: true },
   });
 
+  /* ---- 12. icons draw themselves when their row arrives ------------------------- */
+  const drawn = gsap.utils.toArray<HTMLElement>('.benefit, .diff--ico, .proc__step, .offer__list li, .checks li, .arearow');
+  drawn.forEach((el) => el.classList.add('draw')); // the hidden start state exists only once motion is confirmed
+  ScrollTrigger.batch(drawn, {
+    start: 'top 88%', once: true,
+    onEnter: (els) => els.forEach((el, i) => setTimeout(() => el.classList.add('is-drawn'), i * 70)),
+  });
+
   return () => {}; // matchMedia handles revert
 });
 }
