@@ -83,10 +83,10 @@ p  { margin: 0 0 1.05em; max-width: var(--measure); text-wrap: pretty; }
   display: flex; align-items: center; justify-content: space-between; gap: 1rem;
 }
 .chrome__mark { text-decoration: none; display: flex; align-items: center; min-height: 44px; }
-.chrome__logo { height: 50px; width: auto; transition: height var(--dur) var(--ease); }
-.chrome.is-scrolled .chrome__logo { height: 38px; }
-.chrome.is-scrolled .chrome__in { padding-block: .35rem; }
-.chrome__in { transition: padding var(--dur) var(--ease); }
+.chrome__logo { height: 50px; width: auto; transform-origin: left center; transition: transform var(--dur) var(--ease); }
+.chrome.is-scrolled .chrome__logo { transform: scale(.78); }
+.chrome { transition: box-shadow var(--dur) var(--ease); }
+.chrome.is-scrolled { box-shadow: 0 10px 30px rgba(14, 14, 12, .07); }
 .chrome__mark { flex-shrink: 0; }
 
 /* --- menu button + panel: the only navigation control, at every width --------- */
