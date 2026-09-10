@@ -179,3 +179,7 @@ html:not(.js-motion) .svcrow__go { opacity: 1; transform: none; }
 
 /* --- areas: a pin before each market ------------------------------------------------------ */
 .arearow__pin { width: .8em; height: .8em; margin-right: .45rem; vertical-align: -.04em; color: var(--accent); stroke-width: 2.2; }
+
+/* the hero photograph settles in as the page opens: 8% closer, easing back over two seconds */
+@keyframes hero-push { from { scale: 1.08; } }
+.hero--home .hero__img { animation: hero-push 2.2s var(--ease) both; }
