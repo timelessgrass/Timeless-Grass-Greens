@@ -145,3 +145,7 @@ html { scroll-padding-top: 5.5rem; }
   font-size: 1.28rem; font-weight: 600; color: var(--accent-on-dark); text-decoration: none;
 }
 .foot__legal { color: var(--ink-on-dark-faint); font-size: .78rem; margin: 1.4rem 0 0; }
+
+/* --- scroll progress: the ribbon fills as you read ------------------------- */
+.progress { position: fixed; top: 0; left: 0; right: 0; z-index: 45; height: 3px; pointer-events: none; }
+.progress span { display: block; height: 100%; background: var(--ribbon); transform-origin: left; transform: scaleX(0); }

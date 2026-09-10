@@ -248,6 +248,12 @@ gsap.matchMedia().add('(prefers-reduced-motion: no-preference)', () => {
     });
   }
 
+  /* ---- 13. the ribbon at the top edge fills with scroll progress ------------------- */
+  if (document.querySelector('.progress span')) gsap.to('.progress span', {
+    scaleX: 1, ease: 'none',
+    scrollTrigger: { start: 0, end: 'max', scrub: .3 },
+  });
+
   return () => {}; // matchMedia handles revert
 });
 }
