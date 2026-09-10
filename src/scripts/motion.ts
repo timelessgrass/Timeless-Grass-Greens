@@ -62,10 +62,19 @@ gsap.matchMedia().add('(prefers-reduced-motion: no-preference)', () => {
      A GSAP tween here could be killed mid-flight (seen: staggered batch tweens
      frozen at partial opacity). A class is idempotent, survives refresh, and the
      safety net still reveals everything by removing html.js-motion. */
+  /* Only what is on screen takes its turn. After a jump (a tapped link, a hard flick) the batch
+     also holds everything scrolled past, and the visible rows waited behind it for up to 3s. */
+  const cascade = (els: Element[], cls: string, gap: number) => {
+    let k = 0;
+    els.forEach((el) => {
+      if (el.getBoundingClientRect().bottom < 0) el.classList.add(cls);
+      else { const d = k++ * gap; setTimeout(() => el.classList.add(cls), d); }
+    });
+  };
   ScrollTrigger.batch('[data-reveal]', {
     start: 'top 86%',
     once: true,
-    onEnter: (els) => els.forEach((el, i) => setTimeout(() => el.classList.add('is-in'), i * 90)),
+    onEnter: (els) => cascade(els, 'is-in', 90),
   });
 
   /* ---- 3. count-ups on TRUE numbers only ------------------------------------- */
@@ -201,7 +210,7 @@ gsap.matchMedia().add('(prefers-reduced-motion: no-preference)', () => {
   drawn.forEach((el) => el.classList.add('draw')); // the hidden start state exists only once motion is confirmed
   ScrollTrigger.batch(drawn, {
     start: 'top 88%', once: true,
-    onEnter: (els) => els.forEach((el, i) => setTimeout(() => el.classList.add('is-drawn'), i * 70)),
+    onEnter: (els) => cascade(els, 'is-drawn', 70),
   });
 
   /* ---- 11. phones: each step card shrinks and dims as the next slides over it ------
