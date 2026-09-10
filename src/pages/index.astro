@@ -7,22 +7,13 @@ import { phone, phoneHref, positioning, fact } from '../data/brief';
 import { SHOTS, shotsBy, heroSrc } from '../data/shotlist';
 import { MARKETS } from '../data/markets';
 
-/* The order is the order a buyer's questions arrive in, and each section answers one:
-     hero ........ what is it, why trust them, how do I reach them
-     services .... do they do my job
-     photos ...... is the work any good
-     owners ...... who actually shows up
-     failures .... what goes wrong with turf, and how they avoid it
-     process ..... how it works
-     the quote ... what I get before I decide
-     the finish .. will it look finished
-     areas ....... do they come to me
-     FAQ ......... the objections
-     form ........ act. The close and the form are one section, so the last thing on the page
-                   is the thing to do.
-   Every claim traces to the discovery call or the old site (.site/truth, and
-   archive/old-site-export/text/README.md for what the old site may and may not source).
-   Each fact appears once. No review count, rating, customer count or warranty: none is sourced. */
+/* Every line says what the customer gets. The test (Ty, 2026-09-10) is "would a homeowner
+   care?" — business structure ("you deal with the owners", "husband-and-wife team"), process
+   philosophy ("not a square-foot calculator", "blown clean") and soil science all failed it and
+   are gone. The order follows the buyer:
+     hero → services → photos → why choose us → how it works → areas → FAQ → form.
+   Claims trace to the discovery call or the old site (.site/truth, and the old-site README for
+   what it may source). No review count, rating, customer count or warranty: none is sourced. */
 
 const materials = fact<string>(positioning?.materials); // "American-made turf, premium product" — Brian, 00:33:22
 const hero = heroSrc();
@@ -30,17 +21,16 @@ const hero = heroSrc();
 /* The areas section opens with this sentence; Base marks it speakable for answer engines. */
 const ANSWER = {
   question: 'Who installs artificial turf and putting greens in Denver, Myrtle Beach and Jacksonville?',
-  answer: 'We install artificial turf, pet turf and backyard putting greens across the Denver metro, the Grand Strand in South and North Carolina, and northeast Florida, for homes, businesses, indoor facilities and sports fields.',
+  answer: 'We install artificial turf, pet turf and backyard putting greens across the Denver metro, the Grand Strand and northeast Florida.',
 };
 
-/* Each line opens on what the customer gets. How the base is built lives on the service pages. */
 const SVC = [
-  { slug: 'putting-greens',    name: 'Putting greens',    line: 'Practice at home instead of booking a tee time. We lay out the break, the fringe and the cup with you before anything is cut.' },
-  { slug: 'residential-turf',  name: 'Lawns',             line: 'Get your weekends back. A lawn that looks freshly cut all year, on a base built for your soil so it stays flat.' },
-  { slug: 'pet-turf',          name: 'Pet turf',          line: 'Tired of muddy paws and a dead strip along the fence? Pet turf drains fast, and we build the drainage underneath first.' },
-  { slug: 'commercial-turf',   name: 'Commercial',        line: 'Daycares, pet daycares and common areas that look the same in August as in April, with nobody out there maintaining them.' },
-  { slug: 'sports-field-turf', name: 'Sports fields',     line: 'Play all season in any weather, with no bare patch worn down the middle by July.' },
-  { slug: 'indoor-turf',       name: 'Indoor facilities', line: 'Train all year, whatever it is doing outside. Turf for gyms, training spaces and indoor sports.' },
+  { slug: 'putting-greens',    name: 'Putting greens',    line: 'Practice your putting any day of the week, right outside your back door.' },
+  { slug: 'residential-turf',  name: 'Lawns',             line: 'Get your weekends back. Your lawn stays green and even, with nothing to mow or water.' },
+  { slug: 'pet-turf',          name: 'Pet turf',          line: 'Tired of muddy paws and dead spots? Pet turf drains fast, so the yard stays fresh.' },
+  { slug: 'commercial-turf',   name: 'Commercial',        line: 'Daycares, pet daycares and common areas that stay green without a maintenance crew.' },
+  { slug: 'sports-field-turf', name: 'Sports fields',     line: 'Play all season in any weather. No mud, no bare patches.' },
+  { slug: 'indoor-turf',       name: 'Indoor facilities', line: 'Turf for gyms and training facilities, so your athletes can train all year.' },
 ];
 
 /* One frame per service. `shot: null` is deliberate on indoor facilities — there is no
@@ -50,19 +40,21 @@ const byId = (id: string) => SHOTS.find((x) => x.id === id) ?? null;
 const SVCFIG = [
   { shot: byId('fin-1') },   // putting greens — a finished green, flag in
   { shot: byId('fin-2') },   // lawns — a back lawn to the patio edge
-  { shot: byId('fin-3') },   // pet turf — the dog under the deck
+  { shot: byId('fin-3') },   // pet turf — the dogs on the turf
   { shot: byId('fin-4') },   // commercial — the shared amenity lawn
   { shot: byId('ctx-1') },   // sports fields — practice nets and goals
   { shot: null },            // indoor facilities — no photograph on file
 ].map((f) => ({ shot: f.shot && f.shot.file ? f.shot : null }));
 
-/* What the written quote contains. Sourced to the old site's step 02 — "a detailed quote with
-   material options, layout, and next steps before any work begins". */
-const QUOTE_HAS = [
-  { h: 'The turf, by name',      p: 'The actual product, not “premium grass”, and what a cheaper one would save you.' },
-  { h: 'How deep the base goes', p: 'The biggest part of the price, and the one part you can never check once the turf is down.' },
-  { h: 'The layout',             p: 'Where the seams and the edges land, and on a green, where the break runs.' },
-  { h: 'What happens next',      p: 'The order of the work and what we need from you. No deposit to get any of it.' },
+/* Why choose us — four things a buyer gets. Sources: premium American-made turf (Brian,
+   00:33:22); non-toxic, lead-free, safe for kids and pets (old site — the README clears that
+   positioning); the base built for the soil (services.ts) and "stays level, clean, and tight
+   for years" (old site); precise seaming, edging and cleanup (old site). */
+const WHY = [
+  { h: 'Looks like real grass',   p: 'Premium turf that stays full and green, all year long.' },
+  { h: 'Safe for kids and pets',  p: 'Non-toxic, lead-free turf, made to be played on.' },
+  { h: 'Stays flat, drains fast', p: 'We prep the base for your soil before the turf goes down.' },
+  { h: 'Clean, finished work',    p: 'Tight seams, clean edges, and we clean up when we’re done.' },
 ];
 
 /* The photographs. Phones show the first seven and a button for the rest: fourteen frames in a
@@ -86,7 +78,7 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
   answer={ANSWER}
 >
 
-  <!-- 1 · HERO — what it is, two ways to act, and the three reasons to believe it -->
+  <!-- 1 · HERO — what it is, two ways to act, and three reasons to believe it -->
   <section class="hero hero--home">
     <HeroImage file={hero} />
     <div class="wrap">
@@ -98,7 +90,7 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
       <ul class="hero__wins">
         <li>No mowing, no watering, no reseeding</li>
         <li>Green in July and green in February</li>
-        <li>Built for kids, dogs and your short game</li>
+        <li>Made for kids, pets and backyard putting</li>
       </ul>
       <div class="hero__cta">
         {phoneHref && <a class="btn btn--primary btn--lg" href={phoneHref} data-cta="call-hero"><Icon name="phone" />Call <span class="nowrap">{phone}</span></a>}
@@ -113,9 +105,7 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
   </section>
 
 
-  <!-- 2 · SERVICES — six names as display type; the frame beside them changes as you read.
-       Indoor facilities gets words instead of a photograph: we have no indoor install on
-       file, and a borrowed lawn photograph beside the word "indoor" is a claim. -->
+  <!-- 2 · SERVICES — six names as display type; the frame beside them changes as you read -->
   <section class="sec">
     <div class="wrap">
       <div class="kick kick--left" data-reveal>
@@ -139,7 +129,7 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
               {f.shot ? <Figure shot={f.shot} sizes="(min-width: 1000px) 42vw, 92vw" /> : (
                 <div class="svcfig__data">
                   <b>Indoor</b>
-                  <span>Gyms, training facilities and indoor sports spaces. Tell us about yours and we&rsquo;ll come and look.</span>
+                  <span>Gyms, training facilities and indoor sports spaces. Tell us about yours.</span>
                 </div>
               )}
             </div>
@@ -150,12 +140,12 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
   </section>
 
 
-  <!-- 3 · THE WORK — the client's own photographs, each drifting inside its frame -->
+  <!-- 3 · OUR WORK — the client's own photographs, each drifting inside its frame -->
   <section class="sec sec--dark on-dark mosaicsec">
     <div class="wrap">
       <div class="kick kick--left" data-reveal>
-        <p class="micro">The work</p>
-        <h2>Real yards. Ours.</h2>
+        <p class="micro">Our work</p>
+        <h2>Real yards we&rsquo;ve installed.</h2>
       </div>
       <div class="mosaic" data-mosaic>
         {MOSAIC.map((shot, i) => <Figure shot={shot} sizes={mosaicSizes(i)} parallax reveal />)}
@@ -165,15 +155,13 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
   </section>
 
 
-  <!-- 4 · BEFORE / AFTER — scroll wipes the after over the before. Gated on real pairs;
-       it renders nothing until the client sends them. -->
+  <!-- 4 · BEFORE / AFTER — gated on real pairs; renders nothing until the client sends them -->
   {PAIRS.length > 0 && (
   <section class="sec sec--green on-dark turf-marks turf-marks--dark">
     <div class="wrap">
       <div class="kick" data-reveal>
-        <p class="micro">Same spot, twice</p>
-        <h2>Scroll, and watch it change.</h2>
-        <p>The same angle before we started and after we left. Keep scrolling — the after wipes across.</p>
+        <p class="micro">Before and after</p>
+        <h2>Same yard. Scroll to see it change.</h2>
       </div>
       <div class="wipes">
         {PAIRS.map((id) => { const p = pair(id); return (
@@ -193,42 +181,25 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
   )}
 
 
-  <!-- 5 · WHO SHOWS UP — old site: "Brian and Ashley run every project personally, so you
-       work with the owners from your first call to final walkthrough. No middlemen, no handoffs." -->
+  <!-- 5 · WHY CHOOSE US — four things the buyer gets. The photograph starts close and pulls
+       back to the whole green as you scroll. -->
   <section class="sec sec--band">
-    <div class="wrap story">
-      <div data-reveal>
-        <p class="micro">Who shows up</p>
-        <h2>You deal with the owners.</h2>
-        <p>We&rsquo;re a husband-and-wife team, and we run every job ourselves, from the first call to the final walkthrough. No middlemen, no handoffs.</p>
-        <p>Your price comes from someone standing in your yard, not from a square-foot calculator.</p>
-        {phoneHref && <a class="btn btn--primary" href={phoneHref} data-cta="call-story"><Icon name="phone" />Call <span class="nowrap">{phone}</span></a>}
+    <div class="wrap zoomband">
+      <div class="zoomband__copy" data-reveal>
+        <p class="micro">Why choose us</p>
+        <h2>Looks great. Lasts for years.</h2>
+        <div class="diffs">
+          {WHY.map((w) => <div class="diff" data-reveal><h3>{w.h}</h3><p>{w.p}</p></div>)}
+        </div>
+        <a class="btn btn--primary" href="#quote" data-cta="quote-why">Get a free estimate<Icon name="arrow" /></a>
       </div>
-      <div class="story__fig">{shotsBy('finished').slice(4, 5).map((shot) => <Figure shot={shot} reveal />)}</div>
+      <div class="zoomfig" data-zoom>{shotsBy('finished').slice(5, 6).map((shot) => <Figure shot={shot} sizes="(min-width: 950px) 56vw, 100vw" />)}</div>
     </div>
   </section>
 
 
-  <!-- 6 · WHAT GOES WRONG — what the buyer is afraid of, and what causes it. The soil
-       mechanics live on the service and guide pages. -->
-  <section class="sec sec--green on-dark turf-marks turf-marks--dark">
-    <div class="wrap">
-      <div class="kick kick--left" data-reveal>
-        <p class="micro">Before you hire anyone</p>
-        <h2>Most turf problems start underneath.</h2>
-      </div>
-      <ul class="wrongs">
-        <li data-reveal><b>It goes wavy.</b><span>The ground under it moved. Denver clay swells when it&rsquo;s wet and coastal sand sits on a high water table, so the base has to be built for the ground you have.</span></li>
-        <li data-reveal><b>It holds puddles.</b><span>Turf drains fast. Your soil might not. If nobody checks before the turf goes down, the water sits.</span></li>
-        <li data-reveal><b>It starts to smell.</b><span>Usually a dog run where liquid can&rsquo;t drain away. Washing the grass won&rsquo;t fix it, because the problem is under it.</span></li>
-      </ul>
-      <p class="wrongs__note" data-reveal>All three are settled before the turf is unrolled. That&rsquo;s why we check your ground first and price it second.</p>
-    </div>
-  </section>
-
-
-  <!-- 7 · HOW IT WORKS — pinned on wide screens, scroll advances the steps -->
-  <section class="proc sec sec--dark on-dark turf-marks turf-marks--dark">
+  <!-- 6 · HOW IT WORKS — pinned on wide screens, scroll advances the steps -->
+  <section class="proc sec sec--green on-dark turf-marks turf-marks--dark turf-marks--drift">
     <div class="wrap proc__in">
       <div>
         <p class="micro">How it works</p>
@@ -236,51 +207,17 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
         <div class="proc__bar"><div class="proc__fill"></div></div>
       </div>
       <div class="proc__steps">
-        <div class="proc__step"><i>01</i><h3>Call, or send photos</h3><p>Tell us what the space is for: dogs, kids, putting or a business. That decides the turf.</p></div>
-        <div class="proc__step"><i>02</i><h3>We come out and measure</h3><p>We check the ground, the grade and the drainage. That&rsquo;s what sets the price, so it happens first.</p></div>
-        <div class="proc__step"><i>03</i><h3>You get it in writing</h3><p>Your quote comes in writing, before any work starts. Take your time with it.</p></div>
-        <div class="proc__step"><i>04</i><h3>You say yes, we build</h3><p>Nothing is cut until you approve the design. Prep, base, turf, edges and cleanup are all on us.</p></div>
+        <div class="proc__step"><i>01</i><h3>Call or send photos</h3><p>Tell us about your yard and what you want to use it for.</p></div>
+        <div class="proc__step"><i>02</i><h3>Free visit</h3><p>We measure the space and check the drainage. No charge.</p></div>
+        <div class="proc__step"><i>03</i><h3>Written quote</h3><p>Your price, the turf and the layout, in writing. No pressure.</p></div>
+        <div class="proc__step"><i>04</i><h3>We install it</h3><p>Once you approve the design, we handle it all: prep, turf, edges and cleanup.</p></div>
       </div>
     </div>
   </section>
 
 
-  <!-- 8 · THE WRITTEN QUOTE — what the buyer actually receives -->
-  <section class="sec sec--band">
-    <div class="wrap">
-      <div class="split">
-        <div class="split__head" data-reveal>
-          <p class="micro">Your written quote</p>
-          <h2>What you get before you decide.</h2>
-          <p>Four things, in writing, before any digging starts.</p>
-          <a class="btn btn--primary" href="#quote" data-cta="quote-diff">Get a free estimate<Icon name="arrow" /></a>
-        </div>
-        <div class="diffs">
-          {QUOTE_HAS.map((d) => <div class="diff" data-reveal><h3>{d.h}</h3><p>{d.p}</p></div>)}
-        </div>
-      </div>
-    </div>
-  </section>
-
-
-  <!-- 9 · THE FINISH — old site: "We prep, edge, and secure every installation the way we
-       would our own backyard"; the brief's quality standard: a green blown clean. The
-       photograph starts close and pulls back to the whole green as you read. -->
-  <section class="sec sec--green on-dark turf-marks turf-marks--dark turf-marks--drift">
-    <div class="wrap zoomband">
-      <div class="zoomband__copy" data-reveal>
-        <p class="micro">The finish</p>
-        <h2>Clean edges. Tight seams. Blown clean.</h2>
-        <p class="band__p">It&rsquo;s the part you look at every day. We edge and secure every install the way we would our own yard, and a green isn&rsquo;t finished until it&rsquo;s blown clean.</p>
-        {phoneHref && <a class="btn btn--light" href={phoneHref} data-cta="call-standard"><Icon name="phone" />Call <span class="nowrap">{phone}</span></a>}
-      </div>
-      <div class="zoomfig" data-zoom>{shotsBy('finished').slice(5, 6).map((shot) => <Figure shot={shot} sizes="(min-width: 950px) 56vw, 100vw" />)}</div>
-    </div>
-  </section>
-
-
-  <!-- 10 · SERVICE AREAS — towns are markets.ts `towns` only: the places named on the call
-       or on the client's own site. src/data/cities/ holds page candidates, not a coverage claim. -->
+  <!-- 7 · SERVICE AREAS — towns are markets.ts `towns` only: the places named on the call or on
+       the client's own site. src/data/cities/ holds page candidates, not a coverage claim. -->
   <section class="sec">
     <div class="wrap">
       <div class="kick kick--left kick--wide" data-reveal>
@@ -299,50 +236,49 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
           </li>
         ))}
       </ul>
-      <p class="proof__note">Not on the list? Each area runs wider than the towns shown here. Call and we&rsquo;ll tell you in a minute.</p>
+      <p class="proof__note">Don&rsquo;t see your town? Call and ask.</p>
     </div>
   </section>
 
 
-  <!-- 11 · FAQ — the objections, each answered in its first sentence -->
+  <!-- 8 · FAQ — short answers to the questions buyers ask -->
   <section class="sec sec--band">
     <div class="wrap">
       <div class="kick" data-reveal>
-        <p class="micro">Questions</p>
-        <h2>Before you call.</h2>
+        <p class="micro">FAQ</p>
+        <h2>Common questions.</h2>
       </div>
       <div class="faq" data-reveal>
         <details class="qa"><summary><h3>How much does artificial turf cost?</h3></summary>
-          <p>It depends on your yard, so we measure before we price it. The base under the turf is most of the work, and it changes with your soil, your drainage and how easy the space is to reach. The size of the job and the turf you choose move it too. Small jobs cost more per square foot than big ones, because a day on site costs the same either way.</p>
-          <p>Comparing quotes? Ask each installer how deep the base goes and which turf they&rsquo;re using. That&rsquo;s usually where a cheap quote gets cheap.</p>
+          <p>It depends on the size of the space, what&rsquo;s there now, the drainage and the turf you choose. The quickest way to know is a free visit: we measure and give you a written price.</p>
         </details>
         <details class="qa"><summary><h3>Is the estimate free?</h3></summary>
-          <p>Yes. We come out, measure the space and check the ground, then send your quote in writing. It costs nothing to get one.</p>
+          <p>Yes. There&rsquo;s no cost and no pressure to sign.</p>
         </details>
         <details class="qa"><summary><h3>Will pet turf smell?</h3></summary>
-          <p>Not when it&rsquo;s built to drain. We build pet areas with a base and infill made to move liquid away, so nothing is left sitting underneath.</p>
-          <p class="qa__links"><a href="/services/pet-turf/" data-cta="svc-pet-turf-faq">How we build pet turf</a></p>
+          <p>Not when it&rsquo;s installed right. We build pet areas to drain, so nothing sits under the turf.</p>
+          <p class="qa__links"><a href="/services/pet-turf/" data-cta="svc-pet-turf-faq">More about pet turf</a></p>
         </details>
         <details class="qa"><summary><h3>Does artificial turf get hot?</h3></summary>
-          <p>In direct summer sun, yes: hotter than natural grass. It&rsquo;s fine in shoes, and bare feet and paws feel it most. Shade makes the biggest difference, so we&rsquo;ll show you which parts of your yard suit turf best.</p>
+          <p>In direct summer sun it gets warmer than grass. Shoes are fine; bare feet and paws feel it most. Shade helps, and we&rsquo;ll point out the best spots in your yard.</p>
         </details>
-        <details class="qa"><summary><h3>Are there rebates for artificial turf?</h3></summary>
-          <p>Usually not. Most water rebates in our areas pay for living plants, not synthetic turf. Castle Rock Water&rsquo;s excludes artificial turf in writing, and we found no turf rebate at all in Horry County. Ask us before you count on one for your address.</p>
-          <p class="qa__links"><a href="/guides/colorado-water-rebates-and-turf/" data-cta="guide-rebates-co">Denver-metro water rebates and turf</a><a href="/guides/no-turf-rebates-grand-strand/" data-cta="guide-rebates-sc">Why there are no turf rebates in Horry County</a></p>
+        <details class="qa"><summary><h3>Can you replace old turf?</h3></summary>
+          <p>Yes. We pull up the old turf and check what&rsquo;s underneath. If the base is still good, we can reuse it, which costs you a lot less.</p>
+          <p class="qa__links"><a href="/services/turf-removal-and-replacement/" data-cta="svc-turf-removal-faq">More about turf replacement</a></p>
         </details>
       </div>
     </div>
   </section>
 
 
-  <!-- 12 · CLOSE + FORM — one section, so the last thing on the page is the thing to do.
+  <!-- 9 · CLOSE + FORM — one section, so the last thing on the page is the thing to do.
        No invented scarcity: the reference claims a booking window; we have none stated. -->
   <section class="sec" id="quote">
     <div class="wrap formband">
       <div class="formband__copy" data-reveal>
         <p class="micro">Free estimate</p>
         <h2>Stop maintaining it. Start using it.</h2>
-        <p>Tell us about the space and we&rsquo;ll call to set a time to measure. One visit and you&rsquo;ll know what your yard costs, and nothing is ordered, dug or cut until you say yes.</p>
+        <p>Tell us about your yard. We&rsquo;ll call to set up a free visit and get you a written quote.</p>
         {phoneHref && <a class="btn btn--ghost" href={phoneHref} data-cta="call-close"><Icon name="phone" />Or call <span class="nowrap">{phone}</span></a>}
       </div>
       {/* THE one form. Netlify Forms, tested end to end (brief.conversion.lead_destination). */}
@@ -361,7 +297,7 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
           </label>
         </div>
         <button class="btn btn--primary btn--lg" type="submit">Get my free estimate<Icon name="arrow" /></button>
-        <p class="quote__note">We call back with questions, not a sales pitch.</p>
+        <p class="quote__note">We&rsquo;ll call you back. No sales pitch.</p>
       </form>
     </div>
   </section>

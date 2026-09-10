@@ -11,12 +11,13 @@ green is blown clean. Every colour, weight and motion decision traces back to th
 
 ## Homepage order (2026-09-10)
 
-Ordered by the buyer's questions, one section per question: dark hero (Call + free
-estimate, three proof points) → services → photographs → before/after (gated) → who shows
-up → what goes wrong → how it works (pinned) → the written quote → the finish → areas →
-FAQ → close + form. The numbers ledger, the answer box and the close were folded into the
-hero, the areas section and the form section, so nothing is read twice and the last thing on
-the page is the thing to do. The original structural model was
+Every line says what the customer gets; Ty's test is "would a homeowner care?". Order: dark
+hero (Call + free estimate, three proof points) → services → photographs → before/after
+(gated) → why choose us (four benefits, zoom photo) → how it works (pinned) → areas → FAQ →
+close + form. "Who shows up", "what goes wrong", "the written quote" and "the finish" were cut
+the same day: business structure, soil science and process philosophy no buyer asked about.
+The numbers ledger, the answer box and the close fold into the hero, the areas section and the
+form section, so the last thing on the page is the thing to do. The original structural model was
 greenforeverarizona.com/artificial-turf/; we keep its motion vocabulary, never its review
 count-up or homeowner count — neither is sourced here.
 
