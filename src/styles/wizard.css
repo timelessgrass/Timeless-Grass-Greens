@@ -1,0 +1,131 @@
+/* =============================================================================
+   THE ESTIMATE — one <dialog> on every page, a five-step wizard inside it, and the
+   offer panel that opens it. The wizard is also the /estimate/ page (inline).
+   Without JavaScript the wizard is a plain form with every question showing;
+   src/scripts/estimate.ts adds .is-wizard and the steps.
+   ========================================================================== */
+
+/* --- the dialog: a bottom sheet on phones, a centred card from 640px ------------ */
+.estimate { padding: 0; margin: 0; border: 0; width: 100%; height: 100%; max-width: none; max-height: none;
+  background: transparent; color: var(--ink); overflow: hidden; }
+.estimate[open] { display: flex; align-items: flex-end; justify-content: center; } /* [open] only: a bare display rule would show the closed dialog */
+.estimate::backdrop { background: rgba(14, 14, 12, .62); -webkit-backdrop-filter: blur(5px); backdrop-filter: blur(5px);
+  opacity: 0; transition: opacity .35s var(--ease); }
+.estimate.is-open::backdrop { opacity: 1; }
+.estimate__card { position: relative; width: 100%; max-height: 94dvh; overflow-y: auto; overscroll-behavior: contain;
+  background: var(--ground); border-radius: 1.4rem 1.4rem 0 0; box-shadow: var(--shadow-float);
+  transform: translateY(104%); transition: transform .55s var(--ease); }
+.estimate.is-open .estimate__card { transform: none; }
+@media (min-width: 640px) {
+  .estimate[open] { align-items: center; padding: 4vh 1rem; }
+  .estimate__card { width: min(600px, 100%); max-height: 92vh; border-radius: var(--radius-card); opacity: 0;
+    transform: translateY(26px) scale(.97); transition: transform .55s var(--ease), opacity .35s var(--ease); }
+  .estimate.is-open .estimate__card { opacity: 1; transform: none; }
+}
+.estimate__x { position: absolute; top: .85rem; right: .85rem; z-index: 3; display: grid; place-items: center; width: 44px; height: 44px; padding: 0;
+  border: 1px solid var(--rule); border-radius: var(--radius-pill); background: var(--ground); color: var(--ink); cursor: pointer;
+  transition: border-color var(--dur) var(--ease), color var(--dur) var(--ease), transform var(--dur) var(--ease); }
+.estimate__x .ico { width: 18px; height: 18px; }
+.estimate__x:hover { border-color: var(--accent); color: var(--accent); transform: rotate(90deg); }
+html.estimate-open { overflow: hidden; }
+
+/* --- the wizard ------------------------------------------------------------------ */
+.wiz { position: relative; padding: clamp(1.4rem, 5vw, 2.3rem); }
+.wiz__head { display: grid; grid-template-columns: 1fr auto; align-items: center; gap: .55rem 1rem; margin: 0 0 1.5rem; }
+.wiz--modal .wiz__head { padding-right: 3.2rem; } /* clear of the close button */
+.wiz__title { margin: 0; font-size: .69rem; letter-spacing: var(--track-micro); text-transform: uppercase; font-weight: 600; color: var(--accent); }
+.wiz__count { margin: 0; font-size: .8rem; color: var(--ink-dim); font-variant-numeric: tabular-nums; }
+.wiz__bar { grid-column: 1 / -1; height: 5px; border-radius: 5px; background: var(--rule); overflow: hidden; }
+.wiz__fill { display: block; height: 100%; border-radius: inherit; background: var(--ribbon); transform-origin: left;
+  transform: scaleX(var(--p, .2)); transition: transform .6s var(--ease); }
+.wiz:not(.is-wizard) .wiz__count, .wiz:not(.is-wizard) .wiz__bar { display: none; } /* no JS: one long form, no step counter */
+
+.wiz__step { min-width: 0; margin: 0; padding: 0; border: 0; }
+.wiz:not(.is-wizard) .wiz__step + .wiz__step { margin-top: 2.2rem; }
+.wiz.is-wizard .wiz__step:not(.is-on) { display: none; }
+.wiz.is-wizard .wiz__step.is-on { animation: wiz-in .5s var(--ease) both; }
+@keyframes wiz-in { from { opacity: 0; transform: translateX(var(--dir, 28px)); } }
+.wiz__q { display: block; width: 100%; padding: 0; margin: 0 0 1.2rem; font-family: var(--font-display); font-weight: 500;
+  font-size: clamp(1.6rem, 5vw, 2.15rem); line-height: 1.08; letter-spacing: var(--track-display); color: var(--ink); text-wrap: balance; }
+.wiz__hint { margin: .9rem 0 0; font-size: .88rem; line-height: 1.5; color: var(--ink-dim); }
+.wiz__err { margin: .85rem 0 0; font-size: .9rem; font-weight: 600; color: var(--error); }
+.wiz__err:empty { display: none; }
+
+/* answers are cards you tap; the radio stays the real control underneath */
+.wiz__opts { display: grid; gap: .6rem; }
+.wiz__opts--tiles { grid-template-columns: repeat(2, 1fr); }
+.wiz__opts--tiles > :last-child:nth-child(odd) { grid-column: span 2; } /* five answers: the last takes the row instead of sitting alone */
+@media (min-width: 540px) {
+  /* three across on a six-column grid, so the second row of two can sit centred */
+  .wiz__opts--tiles { grid-template-columns: repeat(6, 1fr); }
+  .wiz__opts--tiles > .opt { grid-column: span 2; }
+  .wiz__opts--tiles > .opt:nth-child(4):nth-last-child(2) { grid-column: 2 / span 2; }
+}
+.opt { position: relative; display: block; }
+.opt input { position: absolute; inset: 0; z-index: 1; width: 100%; height: 100%; margin: 0; opacity: 0; cursor: pointer; }
+.opt__box { position: relative; display: flex; align-items: center; gap: .8rem; min-height: 58px; padding: .95rem 1.05rem;
+  border: 1.5px solid var(--rule); border-radius: 14px; font-weight: 600; font-size: 1rem; line-height: 1.25; color: var(--ink);
+  transition: border-color var(--dur) var(--ease), background-color var(--dur) var(--ease), transform var(--dur) var(--ease), box-shadow var(--dur) var(--ease); }
+.opt--tile .opt__box { flex-direction: column; justify-content: center; gap: .6rem; min-height: 112px; padding: 1.05rem .6rem; text-align: center; }
+.opt__ico { width: 30px; height: 30px; stroke-width: 1.6; color: var(--accent); transition: transform .5s var(--ease); }
+.opt__tick { flex: 0 0 auto; width: 22px; height: 22px; padding: 4px; border-radius: 50%; background: var(--accent); color: var(--ink-on-dark);
+  stroke-width: 3.2; opacity: 0; transform: scale(.4); transition: opacity .25s var(--ease), transform .5s var(--ease); }
+.opt--row .opt__tick { margin-left: auto; }
+.opt--tile .opt__tick { position: absolute; top: .55rem; right: .55rem; }
+@media (hover: hover) {
+  .opt:hover .opt__box { border-color: rgba(21, 21, 15, .34); background: var(--ground-band); transform: translateY(-2px); }
+  .opt:hover .opt__ico { transform: scale(1.08); }
+}
+.opt input:checked + .opt__box { border-color: var(--accent); background: rgba(48, 116, 8, .08); box-shadow: inset 0 0 0 1px var(--accent); }
+.opt input:checked + .opt__box .opt__tick { opacity: 1; transform: scale(1); }
+.opt input:focus-visible + .opt__box { outline: 2px solid var(--accent); outline-offset: 3px; }
+
+.wiz .fld + .fld { margin-top: .95rem; }
+.wiz .fld > span i { font-style: normal; font-weight: 500; letter-spacing: 0; text-transform: none; }
+
+.wiz__nav { display: flex; gap: .7rem; margin-top: 1.7rem; }
+.wiz__nav .btn { flex: 1 1 auto; padding-inline: 1.1rem; white-space: nowrap; } /* "Get my free estimate" on one line beside Back at 390px */
+.wiz__nav .wiz__back { flex: 0 0 auto; }
+/* in the sheet the buttons stay under the thumb however long the step */
+.wiz--modal .wiz__nav { position: sticky; bottom: 0; z-index: 2; margin: 1.2rem calc(clamp(1.4rem, 5vw, 2.3rem) * -1) 0;
+  padding: 1rem clamp(1.4rem, 5vw, 2.3rem) calc(.9rem + env(safe-area-inset-bottom));
+  background: linear-gradient(rgba(239, 237, 231, 0), var(--ground) 32%); }
+.wiz.is-busy .wiz__submit { opacity: .7; pointer-events: none; }
+.wiz__trust { list-style: none; display: flex; flex-wrap: wrap; justify-content: center; gap: .35rem 1.1rem; margin: .8rem 0 0; padding: 0; font-size: .8rem; color: var(--ink-dim); }
+.wiz__trust li { display: inline-flex; align-items: center; gap: .35rem; }
+.wiz__trust .ico { width: .95em; height: .95em; stroke-width: 3; color: var(--accent); }
+
+/* done: the seal draws itself, then the two ways forward */
+.wiz__done { display: grid; justify-items: center; gap: .9rem; padding: 1.2rem 0 .4rem; text-align: center; }
+.wiz__done:focus { outline: none; }
+.wiz__done .wiz__q { margin: .2rem 0 0; }
+.wiz__done p { margin: 0; color: var(--ink-dim); }
+.wiz__done .btn { min-width: min(100%, 300px); }
+.wiz__seal { width: 84px; height: 84px; }
+.wiz__seal circle { fill: rgba(48, 116, 8, .1); stroke: var(--accent); stroke-width: 2; stroke-dasharray: 1; stroke-dashoffset: 1; animation: wiz-draw .8s var(--ease) forwards; }
+.wiz__seal path { fill: none; stroke: var(--accent); stroke-width: 3.4; stroke-linecap: round; stroke-linejoin: round; stroke-dasharray: 1; stroke-dashoffset: 1; animation: wiz-draw .6s var(--ease) .45s forwards; }
+@keyframes wiz-draw { to { stroke-dashoffset: 0; } }
+.wiz.is-done .wiz__head, .wiz.is-done .wiz__steps, .wiz.is-done .wiz__nav, .wiz.is-done .wiz__trust { display: none; }
+
+/* --- /estimate/ page: the wizard on its own ------------------------------------------ */
+.estimate-page { min-height: 72vh; display: grid; align-items: center; }
+.estimate-page__card { width: 100%; max-width: 640px; margin-inline: auto; background: var(--ground); border: 1px solid var(--rule);
+  border-radius: var(--radius-card); box-shadow: 0 18px 40px rgba(14, 14, 12, .08); }
+
+/* --- the offer: what the free estimate includes, and the button that opens it -------- */
+.offer { display: grid; gap: clamp(2rem, 5vw, 4rem); align-items: center; }
+@media (min-width: 900px) { .offer { grid-template-columns: 1.05fr .95fr; } }
+.offer__copy { display: grid; gap: 1rem; align-content: start; }
+.offer__copy h2 { max-width: 14ch; }
+.offer__copy p:not(.micro) { margin: 0; max-width: 42ch; font-size: clamp(1rem, 2vw, 1.1rem); color: var(--ink-dim); }
+.offer__copy .btn { justify-self: start; margin-top: .3rem; }
+.offer__card { padding: clamp(1.4rem, 4vw, 2.2rem); background: var(--ground); border: 1px solid var(--rule); border-radius: var(--radius-card);
+  box-shadow: 0 18px 40px rgba(14, 14, 12, .07); }
+.sec--band .offer__card { background: var(--ground); }
+.offer__card .micro { color: var(--accent); }
+.offer__list { list-style: none; display: grid; gap: .8rem; margin: 0 0 1.5rem; padding: 0; }
+.offer__list li { display: flex; align-items: flex-start; gap: .75rem; font-size: 1.04rem; line-height: 1.45; }
+.offer__list .ico { flex: 0 0 auto; width: 1.35rem; height: 1.35rem; margin-top: .08rem; padding: 3px; border-radius: 50%;
+  background: var(--accent); color: var(--ink-on-dark); stroke-width: 3; }
+.offer__card .btn { width: 100%; }
+.offer__note { margin: .9rem 0 0; font-size: .85rem; color: var(--ink-dim); text-align: center; }

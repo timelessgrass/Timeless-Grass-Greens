@@ -3,11 +3,14 @@ import '../styles/tokens.css';
 import '../styles/base.css';
 import '../styles/components.css';
 import '../styles/home.css';
+import '../styles/wizard.css';
+import '../styles/service.css';
 import { businessName, phone, phoneHref, email, serviceAreas } from '../data/brief';
 import { MARKETS } from '../data/markets';
 import { SERVICES } from '../data/services';
 import { Image } from 'astro:assets';
 import Icon from '../components/Icon.astro';
+import EstimateWizard from '../components/EstimateWizard.astro';
 import logo from '../assets/brand/logo.png';
 import logoRev from '../assets/brand/logo-reverse.png';
 
@@ -20,8 +23,12 @@ interface Props {
   crumbs?: { name: string; item: string }[];
   /** e.g. "noindex" for /thanks/ and 404 — never on a money page. */
   robots?: string;
+  /** /estimate/ carries the wizard inline, so it must not also carry the dialog: one "quote" form per page. */
+  noEstimate?: boolean;
+  /** Visible FAQ, mirrored into FAQPage for answer engines. Answers may hold links; tags are stripped here. */
+  faq?: { q: string; a: string }[];
 }
-const { title, description, answer, crumbs, robots } = Astro.props;
+const { title, description, answer, crumbs, robots, noEstimate = false, faq } = Astro.props;
 const canonical = new URL(Astro.url.pathname, Astro.site).href;
 
 const graph: any[] = [
@@ -51,6 +58,18 @@ const graph: any[] = [
     ...(answer ? { speakable: { '@type': 'SpeakableSpecification', cssSelector: ['.answer-box__a', '.hero__lede', '.areas__intro'] } } : {}),
   },
 ];
+
+if (faq?.length) {
+  graph.push({
+    '@type': 'FAQPage',
+    '@id': `${canonical}#faq`,
+    mainEntity: faq.map((f) => ({
+      '@type': 'Question',
+      name: f.q,
+      acceptedAnswer: { '@type': 'Answer', text: f.a.replace(/<[^>]+>/g, '').replace(/&amp;/g, '&') },
+    })),
+  });
+}
 
 if (crumbs?.length) {
   graph.push({
@@ -131,6 +150,7 @@ if (crumbs?.length) {
         </div>
       </nav>
       <div class="menu__cta">
+        <a class="btn btn--light btn--lg" href="/estimate/" data-estimate data-cta="quote-menu">Get a free estimate</a>
         {phoneHref && <a class="btn btn--primary btn--lg" href={phoneHref} data-cta="call-menu">Call {phone}</a>}
       </div>
       <p class="menu__foot">Denver Metro · The Grand Strand · Northeast Florida</p>
@@ -167,9 +187,17 @@ if (crumbs?.length) {
   {phoneHref && (
     <div class="bar">
       <a class="btn bar__call" href={phoneHref} data-cta="call-sticky"><Icon name="phone" />Call now</a>
-      <a class="btn bar__quote" href="/#quote" data-cta="quote-sticky">Free estimate</a>
+      <a class="btn bar__quote" href="/estimate/" data-estimate data-cta="quote-sticky">Free estimate</a>
     </div>
   )}
-  <script>import '../scripts/motion';</script>
+  {!noEstimate && (
+    <dialog class="estimate" aria-label="Free estimate">
+      <div class="estimate__card">
+        <button class="estimate__x" type="button" data-estimate-close aria-label="Close"><Icon name="x" /></button>
+        <EstimateWizard mode="modal" />
+      </div>
+    </dialog>
+  )}
+  <script>import '../scripts/motion'; import '../scripts/estimate';</script>
 </body>
 </html>

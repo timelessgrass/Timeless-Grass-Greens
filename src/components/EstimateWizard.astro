@@ -1,0 +1,119 @@
+---
+/**
+ * The estimate wizard: THE lead form, one question at a time.
+ *
+ * A real Netlify form in the static HTML (name "quote"), so Netlify registers every field at
+ * deploy and a visitor without JavaScript still gets a working form: every question shows and
+ * the button posts to /thanks/. src/scripts/estimate.ts turns it into five steps — tap-to-answer
+ * first, contact details last — and submits in place.
+ *
+ * mode="modal" sits in the <dialog> in Base; mode="inline" is the /estimate/ page. Never both on
+ * one page: Netlify keys the form by its name.
+ *
+ * Size and timing are new: they tell the owner how big and how ready a lead is before he calls.
+ */
+import Icon from './Icon.astro';
+import { phone, phoneHref } from '../data/brief';
+
+interface Props { mode?: 'modal' | 'inline' }
+const { mode = 'modal' } = Astro.props;
+
+const USES = [
+  { v: 'Lawn', label: 'Lawn', icon: 'leaf' },
+  { v: 'Pet turf', label: 'Pet turf', icon: 'paw' },
+  { v: 'Putting green', label: 'Putting green', icon: 'flag' },
+  { v: 'Play area', label: 'Play area', icon: 'smile' },
+  { v: 'Commercial or sports field', label: 'Commercial or sports', icon: 'building' },
+  { v: 'Replace old turf', label: 'Replace old turf', icon: 'refresh' },
+];
+const SIZES = ['Under 500 sq ft', '500 to 1,500 sq ft', 'Over 1,500 sq ft', 'Not sure yet'];
+const WHEN = ['As soon as possible', 'In the next few months', 'Just getting prices'];
+const title = `wiz-${mode}-title`;
+---
+<form class={`wiz wiz--${mode}`} name="quote" method="POST" action="/thanks/" data-netlify="true" netlify-honeypot="company" data-wizard data-cta="quote-form" aria-labelledby={title}>
+  <input type="hidden" name="form-name" value="quote" />
+  <p class="hp" aria-hidden="true"><label>Company <input type="text" name="company" tabindex="-1" autocomplete="off" /></label></p>
+
+  <div class="wiz__head">
+    <p class="wiz__title" id={title}>Your free estimate</p>
+    <p class="wiz__count" aria-live="polite">Step <b data-wiz-n>1</b> of 5</p>
+    <div class="wiz__bar" aria-hidden="true"><span class="wiz__fill"></span></div>
+  </div>
+
+  <div class="wiz__steps">
+    <fieldset class="wiz__step is-on" data-step>
+      <legend class="wiz__q">What are we building?</legend>
+      <div class="wiz__opts wiz__opts--tiles">
+        {USES.map((u) => (
+          <label class="opt opt--tile">
+            <input type="radio" name="use" value={u.v} required />
+            <span class="opt__box"><Icon name={u.icon} class="opt__ico" /><span>{u.label}</span><Icon name="check" class="opt__tick" /></span>
+          </label>
+        ))}
+      </div>
+      <p class="wiz__err" role="alert"></p>
+    </fieldset>
+
+    <fieldset class="wiz__step" data-step>
+      <legend class="wiz__q">About how big is the area?</legend>
+      <div class="wiz__opts">
+        {SIZES.map((s) => (
+          <label class="opt opt--row">
+            <input type="radio" name="size" value={s} required />
+            <span class="opt__box"><span>{s}</span><Icon name="check" class="opt__tick" /></span>
+          </label>
+        ))}
+      </div>
+      <p class="wiz__hint">A rough guess is fine. We measure on the visit.</p>
+      <p class="wiz__err" role="alert"></p>
+    </fieldset>
+
+    <fieldset class="wiz__step" data-step>
+      <legend class="wiz__q">When would you like it done?</legend>
+      <div class="wiz__opts">
+        {WHEN.map((w) => (
+          <label class="opt opt--row">
+            <input type="radio" name="timeline" value={w} required />
+            <span class="opt__box"><span>{w}</span><Icon name="check" class="opt__tick" /></span>
+          </label>
+        ))}
+      </div>
+      <p class="wiz__err" role="alert"></p>
+    </fieldset>
+
+    <fieldset class="wiz__step" data-step>
+      <legend class="wiz__q">Where&rsquo;s the project?</legend>
+      <label class="fld"><span>ZIP code or town</span><input type="text" name="town" autocomplete="postal-code" required data-msg="Please enter your ZIP code or town." /></label>
+      <p class="wiz__hint">We work across the Denver metro, the Grand Strand and northeast Florida.</p>
+      <p class="wiz__err" role="alert"></p>
+    </fieldset>
+
+    <fieldset class="wiz__step" data-step>
+      <legend class="wiz__q">Who should we call?</legend>
+      <label class="fld"><span>Name</span><input type="text" name="name" autocomplete="name" required data-msg="Please enter your name." /></label>
+      <label class="fld"><span>Phone</span><input type="tel" name="phone" autocomplete="tel" inputmode="tel" required data-msg="Please enter a phone number we can call." /></label>
+      <label class="fld"><span>Email <i>(optional)</i></span><input type="email" name="email" autocomplete="email" inputmode="email" /></label>
+      <p class="wiz__hint">We&rsquo;ll call to set up your free visit. No sales pitch.</p>
+      <p class="wiz__err" role="alert"></p>
+    </fieldset>
+  </div>
+
+  <div class="wiz__nav">
+    <button class="btn btn--ghost wiz__back" type="button" data-wiz-back hidden>Back</button>
+    <button class="btn btn--primary wiz__next" type="button" data-wiz-next hidden>Next<Icon name="arrow" /></button>
+    <button class="btn btn--primary wiz__submit" type="submit">Get my free estimate<Icon name="arrow" /></button>
+  </div>
+  <ul class="wiz__trust">
+    <li><Icon name="check" />Free</li>
+    <li><Icon name="check" />No obligation</li>
+    <li><Icon name="check" />13 years&rsquo; experience</li>
+  </ul>
+
+  <div class="wiz__done" data-wiz-done hidden tabindex="-1">
+    <svg class="wiz__seal" viewBox="0 0 52 52" aria-hidden="true" focusable="false"><circle cx="26" cy="26" r="24" pathLength="1" /><path d="M15 27l7 7 15-16" pathLength="1" /></svg>
+    <p class="wiz__q">You&rsquo;re all set<span data-wiz-name></span>.</p>
+    <p>We&rsquo;ll call you soon to set up your free visit.</p>
+    {phoneHref && <a class="btn btn--ghost" href={phoneHref} data-cta={`call-wizard-${mode}`}><Icon name="phone" />Can&rsquo;t wait? Call <span class="nowrap">{phone}</span></a>}
+    {mode === 'modal' ? <button class="btn btn--primary" type="button" data-estimate-close>Done</button> : <a class="btn btn--primary" href="/">Back to the homepage</a>}
+  </div>
+</form>

@@ -1,91 +1,179 @@
 ---
-import Extra from '../../components/Extra.astro';
 import Base from '../../layouts/Base.astro';
+import HeroImage from '../../components/HeroImage.astro';
 import Figure from '../../components/Figure.astro';
+import Icon from '../../components/Icon.astro';
+import Extra from '../../components/Extra.astro';
+import OfferPanel from '../../components/OfferPanel.astro';
+import Process from '../../components/Process.astro';
 import { SERVICES } from '../../data/services';
 import { MARKETS } from '../../data/markets';
-import { shotsBy, haveCount } from '../../data/shotlist';
-import { phone, phoneHref } from '../../data/brief';
+import { SHOTS } from '../../data/shotlist';
+import { phone, phoneHref, positioning, fact } from '../../data/brief';
 
+/* A sales page per service, in the order a buyer decides:
+     hero → what you get → the work → what's included → how it works → questions →
+     the fine print (closed) → where we work → the offer.
+   The copy lives in services.ts. Claims trace to the call, the old site, or a cited source;
+   the researched statutes and studies sit in the closed fine print, not in the pitch. */
 export function getStaticPaths() {
   return SERVICES.map((s) => ({ params: { slug: s.slug }, props: { s } }));
 }
 const { s } = Astro.props;
+const materials = fact<string>(positioning?.materials);
+const shot = (id: string) => SHOTS.find((x) => x.id === id && x.file);
+const heroFile = s.heroShot ? shot(s.heroShot)?.file ?? null : null;
+const work = s.work.map(shot).filter((x): x is NonNullable<typeof x> => !!x);
 const crumbs = [
   { name: 'Home', item: `${Astro.site}` },
   { name: 'Services', item: `${Astro.site}services/` },
   { name: s.name, item: `${Astro.site}services/${s.slug}/` },
 ];
+/* Every job, every service. Old site "how we work" and FAQ: a free site consultation; a custom
+   design you approve before install; "site preparation, base installation, turf placement, and
+   finishing"; "we handle all site prep and cleanup"; "we walk you through care and maintenance". */
+const EVERY = [
+  'A free visit to measure and check the ground',
+  'A custom layout you approve before work starts',
+  'Site prep and a base built for your soil',
+  'Turf laid, seamed and edged',
+  'Infill and finishing',
+  'Cleanup when we’re done',
+  'A walkthrough of the care it needs',
+];
 ---
-<Base title={s.title} description={s.description} answer={s.answer} crumbs={crumbs}>
-  <section class="hero hero--sub turf-marks turf-marks--dark">
+<Base title={s.title} description={s.description} answer={s.answer} crumbs={crumbs} faq={s.faq}>
+
+  <!-- 1 · HERO — the outcome, two ways to act, three reasons to believe it -->
+  <section class={`hero hero--svc${heroFile ? '' : ' turf-marks turf-marks--dark'}`}>
+    <HeroImage file={heroFile} />
     <div class="wrap">
       <nav class="crumbs" aria-label="Breadcrumb">
         <a href="/">Home</a> <span aria-hidden="true">/</span>
         <a href="/services/">Services</a> <span aria-hidden="true">/</span>
         <span>{s.name}</span>
       </nav>
+      <p class="hero__eyebrow">{s.eyebrow}</p>
       <h1>{s.h1}</h1>
-      <hr class="rule-ribbon" />
       <p class="hero__lede">{s.lede}</p>
+      <ul class="hero__wins">{s.wins.map((w) => <li>{w}</li>)}</ul>
       <div class="hero__cta">
-        {phoneHref && <a class="btn btn--primary" href={phoneHref} data-cta={`call-hero-${s.slug}`}>Call {phone}</a>}
+        <a class="btn btn--primary btn--lg" href="/estimate/" data-estimate={s.preset} data-cta={`quote-hero-${s.slug}`}>Get a free estimate<Icon name="arrow" /></a>
+        {phoneHref && <a class="btn btn--ghost btn--lg" href={phoneHref} data-cta={`call-hero-${s.slug}`}><Icon name="phone" />Call <span class="nowrap">{phone}</span></a>}
       </div>
+      <ul class="hero__trust">
+        <li><Icon name="check" />13 years&rsquo; experience</li>
+        {materials && <li><Icon name="check" />American-made turf</li>}
+        <li><Icon name="check" />Free estimates, no pressure</li>
+      </ul>
     </div>
   </section>
 
-  <div class="sec sec--band answer-box">
-    <div class="wrap">
-      <p class="micro">The short version</p>
-      <h2 class="answer-box__q">{s.answer.question}</h2>
-      <p class="answer-box__a">{s.answer.answer}</p>
-    </div>
-  </div>
 
-  <div class="sec doc__body">
+  <!-- 2 · WHAT YOU GET -->
+  <section class="sec">
     <div class="wrap">
-      {s.sections.map((sec) => (
-        <section class="doc__sec" data-reveal>
-          <h2>{sec.h2}</h2>
-          {sec.body.map((p) => <p set:html={p} />)}
-        </section>
-      ))}
-    </div>
-  </div>
-
-{haveCount() > 0 && (
-  <section class="sec sec--dark on-dark">
-    <div class="wrap" data-reveal>
-      <p class="micro">The work</p>
-      <h2>Some of our work.</h2>
-      <div class="proof__grid">
-        {shotsBy('finished').slice(0, 3).map((shot) => <Figure shot={shot} />)}
+      <div class="kick kick--left" data-reveal>
+        <p class="micro">What you get</p>
+        <h2>{s.benefitsHeading}</h2>
       </div>
-    </div>
-  </section>
-)}
-
-  <section class="sec sec--band">
-    <div class="wrap" data-reveal>
-      <p class="micro">Where</p>
-      <h2>Where we work.</h2>
-      <ul class="mkts">
-        {MARKETS.map((m) => (
-          <li><a href={`/${m.slug}/`} data-cta={`market-${m.slug}`}>
-            <span class="mkts__n">{m.name}</span>
-            <span class="mkts__s">{m.towns.join(' · ')}</span>
-          </a></li>
+      <ul class="benefits">
+        {s.benefits.map((b) => (
+          <li class="benefit" data-reveal>
+            <span class="benefit__ico"><Icon name={b.icon} /></span>
+            <h3>{b.h}</h3>
+            <p>{b.p}</p>
+          </li>
         ))}
       </ul>
     </div>
   </section>
 
-  <Extra slug={s.slug} />
-  <section class="sec sec--dark on-dark close">
-    <div class="wrap" data-reveal>
-      <p class="micro">What happens next</p>
-      <h2>You call, we measure, you get a number.</h2>
-      {phoneHref && <a class="btn btn--primary btn--lg" href={phoneHref} data-cta={`call-close-${s.slug}`}>Call {phone}</a>}
+
+  <!-- 3 · THE WORK -->
+  {work.length > 0 && (
+  <section class="sec sec--dark on-dark">
+    <div class="wrap">
+      <div class="kick kick--left" data-reveal>
+        <p class="micro">Our work</p>
+        <h2>{s.workHeading}</h2>
+      </div>
+      <div class="workgrid">
+        {work.map((w) => <Figure shot={w} sizes="(min-width: 900px) 30vw, 46vw" reveal />)}
+      </div>
+      <div class="mosaic__actions">
+        <a class="btn btn--light" href="/estimate/" data-estimate={s.preset} data-cta={`quote-work-${s.slug}`}>Get a free estimate<Icon name="arrow" /></a>
+      </div>
     </div>
   </section>
+  )}
+
+
+  <!-- 4 · WHAT'S INCLUDED -->
+  <section class="sec sec--band">
+    <div class="wrap includes">
+      <div data-reveal>
+        <p class="micro">Build it your way</p>
+        <h2>{s.options.heading}</h2>
+        <ul class="checks">{s.options.items.map((i) => <li><Icon name="check" />{i}</li>)}</ul>
+      </div>
+      <div data-reveal>
+        <p class="micro">Every install includes</p>
+        <h2>Done right, start to finish.</h2>
+        <ul class="checks">{EVERY.map((i) => <li><Icon name="check" />{i}</li>)}</ul>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- 5 · HOW IT WORKS -->
+  <Process />
+
+
+  <!-- 6 · QUESTIONS — the first one open, so the depth shows without a tap -->
+  <section class="sec">
+    <div class="wrap">
+      <div class="kick" data-reveal>
+        <p class="micro">FAQ</p>
+        <h2>Questions about {s.name.toLowerCase()}.</h2>
+      </div>
+      <div class="faq" data-reveal>
+        {s.faq.map((f, i) => (
+          <details class="qa" open={i === 0}><summary><h3>{f.q}</h3></summary><p set:html={f.a} /></details>
+        ))}
+      </div>
+    </div>
+  </section>
+
+
+  <!-- 7 · THE FINE PRINT — the researched statutes and studies, closed until asked for -->
+  <Extra slug={s.slug} collapsed />
+
+
+  <!-- 8 · WHERE WE WORK -->
+  <section class="sec">
+    <div class="wrap">
+      <div class="kick kick--left" data-reveal>
+        <p class="micro">Where we work</p>
+        <h2>Do we come to you?</h2>
+      </div>
+      <ul class="areas">
+        {MARKETS.map((m) => (
+          <li class="arearow" data-reveal>
+            <a href={`/${m.slug}/`} data-cta={`market-${m.slug}`}>
+              <span class="arearow__n">{m.name}</span>
+              <span class="arearow__t">{m.towns.join(' · ')}</span>
+              <span class="arearow__g">See the area &rarr;</span>
+            </a>
+          </li>
+        ))}
+      </ul>
+      <p class="proof__note">Don&rsquo;t see your town? Call and ask.</p>
+    </div>
+  </section>
+
+
+  <!-- 9 · THE OFFER — the wizard opens with this service already chosen -->
+  <OfferPanel band preset={s.preset} cta={s.slug} heading={s.close} />
+
 </Base>

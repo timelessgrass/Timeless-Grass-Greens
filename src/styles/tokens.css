@@ -26,6 +26,7 @@
   --accent:        #307408;  /* the ribbon's deep stop, two steps deeper so it passes AA everywhere it is used as text (chalk 4.9:1, band 4.6:1) and as a button fill under warm-white text (5.1:1). Held away from sage #7CB342 */
   --accent-hover:  #245A05;  /* hover goes DEEPER, never lighter — a lighter green under white text drops to 2.6:1 */
   --accent-on-dark:#8ACF35;  /* the ribbon's light stop, legible on dark ground only */
+  --error:         #A1301F;  /* form errors only — never decoration */
 
   /* the signature primitive: the ribbon, drawn from the mark's own gradient */
   --ribbon: linear-gradient(100deg, #48A008 0%, #80D028 48%, #409800 100%);

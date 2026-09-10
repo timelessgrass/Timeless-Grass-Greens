@@ -65,8 +65,7 @@
   .mosaic > *:nth-child(13),
   .mosaic > *:nth-child(14){ grid-column: span 3; aspect-ratio: 16/10; } /* the last row fills all six columns */
 }
-.mosaic__more { display: flex; width: fit-content; margin: 1.6rem auto 0; }
-.mosaic__more[hidden] { display: none; }
+.mosaic__actions { display: flex; flex-wrap: wrap; justify-content: center; gap: .8rem; margin-top: 1.8rem; }
 @media (min-width: 900px) { .mosaic__more { display: none; } }
 
 /* --- svclist: six services, one sticky frame -------------------------------------- */

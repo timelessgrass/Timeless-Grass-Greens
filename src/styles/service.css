@@ -1,0 +1,86 @@
+/* =============================================================================
+   SERVICE PAGES — one sales page per service, in the order a buyer decides:
+   hero → what you get → the work → what's included → how it works → questions →
+   the fine print (collapsed) → where we work → the offer.
+   ========================================================================== */
+
+/* --- hero: left-aligned copy over the service's own photograph ------------------- */
+.hero--svc { padding-top: clamp(2rem, 5vw, 3.8rem); padding-bottom: clamp(3rem, 7vw, 5.4rem); }
+.hero--svc .hero__img { opacity: .66; }
+.hero--svc::after { background: linear-gradient(90deg, rgba(14,14,12,.92) 0%, rgba(14,14,12,.74) 46%, rgba(14,14,12,.3) 100%); }
+@media (max-width: 800px) { .hero--svc::after { background: linear-gradient(180deg, rgba(14,14,12,.52), rgba(14,14,12,.86)); } } /* lighter at the top, so the photograph reads above the copy */
+.hero--svc h1 { max-width: 15ch; font-size: clamp(2.4rem, 6.4vw, 4.6rem); line-height: 1.02; }
+.hero--svc .hero__lede { max-width: 44ch; }
+.hero--svc .hero__wins { margin-inline: 0; }
+.hero--svc .hero__trust { justify-content: flex-start; }
+.hero--svc .hero__cta { margin-top: 1.8rem; }
+@media (max-width: 560px) { .hero--svc .hero__cta .btn { flex: 1 1 100%; } }
+/* The copy rises in on load. CSS only, so nothing waits on the script; reduced motion runs it
+   in 0.01ms (tokens.css), which is the same as not running it. */
+@keyframes svc-rise { from { opacity: 0; transform: translateY(18px); } }
+.hero--svc .wrap > * { animation: svc-rise .8s var(--ease) both; }
+.hero--svc .wrap > :nth-child(2) { animation-delay: .06s; }
+.hero--svc .wrap > :nth-child(3) { animation-delay: .12s; }
+.hero--svc .wrap > :nth-child(4) { animation-delay: .2s; }
+.hero--svc .wrap > :nth-child(5) { animation-delay: .28s; }
+.hero--svc .wrap > :nth-child(6) { animation-delay: .36s; }
+.hero--svc .wrap > :nth-child(7) { animation-delay: .44s; }
+
+/* --- what you get: benefit cards with an icon each --------------------------------- */
+.benefits { list-style: none; display: grid; gap: 1rem; margin: 0; padding: 0; }
+@media (min-width: 640px) { .benefits { grid-template-columns: repeat(2, 1fr); } }
+@media (min-width: 1000px) { .benefits { grid-template-columns: repeat(3, 1fr); } }
+.benefit { padding: 1.6rem 1.5rem 1.7rem; border: 1px solid var(--rule); border-radius: var(--radius-card); background: var(--ground);
+  transition: transform var(--dur) var(--ease), border-color var(--dur) var(--ease), box-shadow var(--dur) var(--ease); }
+@media (hover: hover) { .benefit:hover { transform: translateY(-4px); border-color: rgba(48, 116, 8, .45); box-shadow: 0 18px 40px rgba(14, 14, 12, .08); } }
+.benefit__ico { display: grid; place-items: center; width: 52px; height: 52px; margin-bottom: 1.1rem; border-radius: 16px; background: rgba(48, 116, 8, .1); color: var(--accent); }
+.benefit__ico .ico { width: 26px; height: 26px; stroke-width: 1.8; }
+.benefit h3 { margin-bottom: .45rem; font-size: clamp(1.2rem, 2.2vw, 1.4rem); }
+.benefit p { margin: 0; font-size: .98rem; line-height: 1.55; color: var(--ink-dim); }
+
+/* --- the work: the service's own photographs -------------------------------------- */
+.workgrid { display: grid; grid-template-columns: repeat(2, 1fr); gap: clamp(.6rem, 1.4vw, 1rem); margin-top: clamp(1.8rem, 4vw, 2.6rem); }
+.workgrid > :last-child:nth-child(odd) { grid-column: span 2; } /* phones: an odd count ends on a full-width frame, not an orphan */
+@media (min-width: 900px) {
+  .workgrid { grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); } /* three photographs make three columns, four make four */
+  .workgrid > :last-child:nth-child(odd) { grid-column: auto; }
+}
+.workgrid .fig { position: relative; margin: 0; overflow: hidden; border-radius: var(--radius-card); aspect-ratio: 4 / 3; }
+.workgrid .fig img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; border-radius: 0; transition: transform .9s var(--ease); }
+@media (hover: hover) { .workgrid .fig:hover img { transform: scale(1.04); } }
+.workgrid .fig figcaption { position: absolute; inset: auto 0 0 0; max-width: none; margin: 0; padding: 2.6rem 1rem .85rem; font-size: .8rem; color: var(--ink-on-dark);
+  background: linear-gradient(transparent, rgba(14, 14, 12, .82)); }
+
+/* --- what's included: two checklists -------------------------------------------------- */
+.includes { display: grid; gap: clamp(2.2rem, 5vw, 4rem); }
+@media (min-width: 900px) { .includes { grid-template-columns: 1fr 1fr; } }
+.includes h2 { margin-bottom: 1.3rem; font-size: clamp(1.7rem, 3.6vw, 2.5rem); }
+.includes .micro { margin-bottom: .7rem; }
+.checks { list-style: none; display: grid; gap: .8rem; margin: 0; padding: 0; }
+.checks li { display: flex; align-items: flex-start; gap: .75rem; font-size: 1.02rem; line-height: 1.5; }
+.checks .ico { flex: 0 0 auto; width: 1.35rem; height: 1.35rem; margin-top: .1rem; padding: 3px; border-radius: 50%; background: var(--accent); color: var(--ink-on-dark); stroke-width: 3; }
+
+/* --- the fine print: the researched sections, closed until asked for ------------------ */
+.fine .kick { margin-bottom: 1.4rem; }
+.fine .qa summary h3 { font-size: clamp(1.02rem, 2vw, 1.2rem); }
+.fine .qa > p, .fine .qa > ol { font-size: .94rem; }
+.fine .srcs { padding-bottom: 1.2rem; }
+
+/* --- the services index: each card is the link -------------------------------------- */
+.benefit--link { padding: 0; }
+.benefit--link > a { display: block; height: 100%; padding: 1.6rem 1.5rem 1.7rem; color: inherit; text-decoration: none; }
+.benefit__h { margin: 0 0 .45rem; font-size: clamp(1.25rem, 2.4vw, 1.5rem); }
+.benefit__go { display: inline-flex; align-items: center; gap: .4rem; margin-top: 1rem; font-size: .88rem; font-weight: 600; color: var(--accent); }
+.benefit__go .ico { width: 1em; height: 1em; transition: transform var(--dur) var(--ease); }
+@media (hover: hover) { .benefit--link:hover .benefit__go .ico { transform: translateX(4px); } }
+
+/* seven services: the last card takes the whole row instead of sitting alone */
+@media (min-width: 640px) and (max-width: 999px) { .benefits > .benefit--link:last-child:nth-child(odd) { grid-column: 1 / -1; } }
+@media (min-width: 1000px) {
+  .benefits > .benefit--link:last-child:nth-child(3n+1) { grid-column: 1 / -1; }
+  .benefits > .benefit--link:last-child:nth-child(3n+1) > a { display: grid; grid-template-columns: auto 1fr auto; grid-template-areas: "ico h go" "ico p go"; column-gap: 1.4rem; align-items: center; }
+  .benefits > .benefit--link:last-child:nth-child(3n+1) .benefit__ico { grid-area: ico; margin: 0; }
+  .benefits > .benefit--link:last-child:nth-child(3n+1) .benefit__h { grid-area: h; }
+  .benefits > .benefit--link:last-child:nth-child(3n+1) p { grid-area: p; }
+  .benefits > .benefit--link:last-child:nth-child(3n+1) .benefit__go { grid-area: go; margin: 0; }
+}

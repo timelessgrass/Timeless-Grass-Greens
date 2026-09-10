@@ -1,0 +1,21 @@
+---
+/* The wizard on its own page. Every "Get a free estimate" link points here, so a visitor whose
+   browser cannot open the dialog (or who has JavaScript off) still reaches the form, and an ad can
+   link straight to it — /estimate/?use=Pet%20turf lands on step two. noindex: it is a form, not a page. */
+import Base from '../layouts/Base.astro';
+import EstimateWizard from '../components/EstimateWizard.astro';
+---
+<Base
+  title="Free Estimate | TIMELESS Grass & Greens"
+  description="Five quick questions and we'll call to set up your free visit and written quote. Artificial turf, pet turf and putting greens."
+  robots="noindex, follow"
+  noEstimate
+>
+  <section class="sec sec--band estimate-page">
+    <div class="wrap">
+      <div class="estimate-page__card">
+        <EstimateWizard mode="inline" />
+      </div>
+    </div>
+  </section>
+</Base>

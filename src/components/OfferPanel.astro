@@ -1,0 +1,37 @@
+---
+/* The closing offer: what the free estimate includes, and one button that opens the wizard.
+   Every line is from the old site's "how we work": a free site consultation, a custom design and
+   quote "with material options, layout, and next steps", and "you approve the design before we
+   install". `preset` answers the wizard's first question for the visitor (a service page knows it). */
+import Icon from './Icon.astro';
+import { phone, phoneHref } from '../data/brief';
+interface Props { heading?: string; sub?: string; preset?: string; cta?: string; band?: boolean }
+const {
+  heading = 'Stop maintaining it. Start using it.',
+  sub = 'Answer five quick questions and we’ll call to set up your free visit.',
+  preset = '',
+  cta = 'offer',
+  band = false,
+} = Astro.props;
+---
+<section class={`sec${band ? ' sec--band' : ''}`} id="quote">
+  <div class="wrap offer">
+    <div class="offer__copy" data-reveal>
+      <p class="micro">Free estimate</p>
+      <h2>{heading}</h2>
+      <p>{sub}</p>
+      {phoneHref && <a class="btn btn--ghost" href={phoneHref} data-cta={`call-${cta}`}><Icon name="phone" />Or call <span class="nowrap">{phone}</span></a>}
+    </div>
+    <div class="offer__card" data-reveal>
+      <p class="micro">Your free estimate includes</p>
+      <ul class="offer__list">
+        <li><Icon name="check" />A visit to measure your space</li>
+        <li><Icon name="check" />A custom layout, drawn for your space</li>
+        <li><Icon name="check" />Turf options, side by side</li>
+        <li><Icon name="check" />A written price, with no pressure to sign</li>
+      </ul>
+      <a class="btn btn--primary btn--lg" href="/estimate/" data-estimate={preset} data-cta={`quote-${cta}`}>Get my free estimate<Icon name="arrow" /></a>
+      <p class="offer__note">Five quick questions. About a minute.</p>
+    </div>
+  </div>
+</section>

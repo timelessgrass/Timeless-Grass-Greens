@@ -174,3 +174,15 @@ repeat cannot be seen. Regenerate with `python3 scripts/build-pattern.py`.
 `.btn--light` joins the button set: warm white fill, deep green text. It exists because the
 brand green on the deep-green band is green on green — 1.4:1. The light button is 12.2:1 on
 that ground and 16.9:1 on the dark. Every call to action on a dark section uses it.
+
+## Lead capture and service pages (2026-09-10)
+
+- **The form is a wizard.** `EstimateWizard` is the one Netlify form (`quote`), rendered in a
+  `<dialog class="estimate">` on every page and inline on `/estimate/` (noindex, never both on one
+  page). Five steps: use (tiles) → size → timing → ZIP → name, phone, optional email. Any
+  `[data-estimate]` opens it; a value presets step one. Without JavaScript it is a plain form
+  posting to `/thanks/`. Motion: the sheet slides up on phones, steps slide, the done seal draws.
+- **Every page ends on the offer** (`OfferPanel`): what the free estimate includes, one button.
+- **Service pages** follow the buyer: hero → what you get (icon cards) → the work → options and
+  "every install includes" → how it works → FAQ (sourced links, FAQPage schema) → the fine print
+  (extra.json, collapsed) → areas → offer. Copy lives in `services.ts`.

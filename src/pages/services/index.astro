@@ -1,8 +1,10 @@
 ---
-import Extra from '../../components/Extra.astro';
 import Base from '../../layouts/Base.astro';
+import Extra from '../../components/Extra.astro';
+import Icon from '../../components/Icon.astro';
+import OfferPanel from '../../components/OfferPanel.astro';
 import { SERVICES } from '../../data/services';
-import { phone, phoneHref } from '../../data/brief';
+import { phone } from '../../data/brief';
 const crumbs = [
   { name: 'Home', item: `${Astro.site}` },
   { name: 'Services', item: `${Astro.site}services/` },
@@ -10,7 +12,7 @@ const crumbs = [
 ---
 <Base
   title="What We Install | TIMELESS Grass & Greens"
-  description={`Putting greens, residential and pet turf, commercial, sports fields, indoor facilities, and turf removal. Three markets. Call ${phone}.`}
+  description={`Putting greens, artificial lawns, pet turf, commercial turf, sports fields, indoor facilities and turf replacement. Free estimates: call ${phone}.`}
   crumbs={crumbs}
 >
   <section class="hero hero--sub turf-marks turf-marks--dark">
@@ -20,29 +22,30 @@ const crumbs = [
       </nav>
       <h1>Anything that&rsquo;s turf.</h1>
       <hr class="rule-ribbon" />
-      <p class="hero__lede">Seven things we install, and what actually differs between them.</p>
+      <p class="hero__lede">Pick what you&rsquo;re planning. Every job starts with a free visit and a written price.</p>
+      <div class="hero__cta">
+        <a class="btn btn--primary btn--lg" href="/estimate/" data-estimate data-cta="quote-services-hero">Get a free estimate<Icon name="arrow" /></a>
+      </div>
     </div>
   </section>
 
   <section class="sec">
     <div class="wrap">
-      <ul class="idx" data-reveal>
+      <ul class="benefits">
         {SERVICES.map((s) => (
-          <li><a href={`/services/${s.slug}/`} data-cta={`svc-${s.slug}`}>
-            <span class="idx__n">{s.name}</span>
-            <span class="idx__d">{s.lede}</span>
-          </a></li>
+          <li class="benefit benefit--link" data-reveal>
+            <a href={`/services/${s.slug}/`} data-cta={`svc-${s.slug}`}>
+              <span class="benefit__ico"><Icon name={s.icon} /></span>
+              <h2 class="benefit__h">{s.name}</h2>
+              <p>{s.line}</p>
+              <span class="benefit__go">See {s.name.toLowerCase()}<Icon name="arrow" /></span>
+            </a>
+          </li>
         ))}
       </ul>
     </div>
   </section>
 
-  <Extra slug="services-index" startDark />
-  <section class="sec sec--dark on-dark close">
-    <div class="wrap" data-reveal>
-      <h2>Not sure which one you need?</h2>
-      <p class="close__p">Describe the space and we will tell you which of these it is.</p>
-      {phoneHref && <a class="btn btn--primary btn--lg" href={phoneHref} data-cta="call-services-index">Call {phone}</a>}
-    </div>
-  </section>
+  <Extra slug="services-index" collapsed />
+  <OfferPanel cta="services-index" />
 </Base>

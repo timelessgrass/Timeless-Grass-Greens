@@ -224,7 +224,7 @@ window.addEventListener('scroll', onScroll, { passive: true }); onScroll();
    screen: two identical Call buttons stacked on a phone read as a mistake, and the bar must
    never cover Submit. The first placement snaps; only later changes slide. */
 const bar = document.querySelector<HTMLElement>('.bar');
-const yieldTo = document.querySelectorAll('.hero__cta, .quote, .foot');
+const yieldTo = document.querySelectorAll('.hero__cta, .offer, .foot');
 if (bar && yieldTo.length && 'IntersectionObserver' in window) {
   const seen = new Set<Element>();
   bar.classList.add('is-still');
