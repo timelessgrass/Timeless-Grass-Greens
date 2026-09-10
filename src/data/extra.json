@@ -235,7 +235,7 @@
    {
     "h2": "Drainage is a ground problem, not a spec sheet",
     "body": [
-     "Horry County's impervious-surface definition turns on that same test, covering surfaces that prevent or impede the natural infiltration of stormwater runoff.",
+     "Horry County's impervious-surface definition covers surfaces that prevent or impede the natural infiltration of stormwater runoff.",
      "In northeast Florida the ground is the constraint. USDA soil survey data puts 71.4% of mapped acres in Duval, 78.5% in St. Johns and 82.2% in Nassau in the poorly or very poorly drained classes, and 75.7% of mapped St. Johns acres have the water table within six inches of the surface at some point in a normal year. NOAA's 1991-2020 normals put roughly 28.8 inches of rain on Jacksonville between June and September.",
      "Florida's rule builds against that. Paragraph (2)(d) requires subgrade materials to be washed before installation, and paragraph (4) requires permeability through the turf, the backing and the subgrade while barring compaction of the soil beneath. The closest published Front Range number belongs to a water utility rather than a building code: Thornton requires backing draining at least two inches per hour over at least three inches of compacted aggregate."
     ],
@@ -585,7 +585,7 @@
    {
     "h2": "North Carolina wrote the base standard down",
     "body": [
-     "Two of our four states wrote down how artificial turf should be installed. Florida did it in 2026 as an environmental rule. North Carolina did it in 2016 as a licensing rule, and North Carolina's is the older and more specific of the two. 21 NCAC 28B .0503(b), effective 1 September 2016 and amended 1 July 2021, requires a licensed landscape contractor to compact and pitch the sub-grade to drain, establish a perimeter attachment system, roll the turf with the nap facing a consistent direction, secure it with an evenly weighted sand layer, and follow the manufacturer's specifications.",
+     "Two states have written down how artificial turf should be installed. Florida did it in 2026 as an environmental rule. North Carolina did it in 2016 as a licensing rule, and North Carolina's is the older and more specific of the two. 21 NCAC 28B .0503(b), effective 1 September 2016 and amended 1 July 2021, requires a licensed landscape contractor to compact and pitch the sub-grade to drain, establish a perimeter attachment system, roll the turf with the nap facing a consistent direction, secure it with an evenly weighted sand layer, and follow the manufacturer's specifications.",
      "The same standard carries money on the Carolina coast. G.S. 143-214.7D(b)(6) excludes artificial turf from built-upon area only where it is manufactured to drain through the backing and installed to the manufacturer's specifications over a pervious surface, and (b)(3) separately excludes number 57 stone at least four inches thick over geotextile fabric. Whether the base already in the ground is that assembly decides whether a replacement keeps the exclusion.",
      "North Myrtle Beach put maintenance into the same test. Sec. 23-129.4, added by Ordinance 25-45 on 6 October 2025, requires a surface to demonstrate a minimum infiltration rate of two inches per hour, be installed to manufacturer specification, pass inspection and be maintained, and states that if these criteria are not met the surface will be considered impervious, regardless of material type or labeling."
     ],
@@ -658,7 +658,7 @@
   "guide_links": [
    {
     "slug": "turf-installer-licensing-by-state",
-    "anchor": "the only written turf workmanship standard in our four states"
+    "anchor": "North Carolina's written turf workmanship standard"
    },
    {
     "slug": "nc-vs-sc-built-upon-area",
@@ -681,7 +681,7 @@
  "grand-strand": {
   "sections": [
    {
-    "h2": "Ten soil map units, and most of them are wet",
+    "h2": "Most of the ground here drains slowly",
     "body": [
      "Horry County's USDA soil survey divides 736,000 acres into twelve general soil map units. The largest, Yauhannah-Ogeechee-Bladen, is 19 percent of the county and rated moderately well to poorly drained. Woodington-Goldsboro-Pocomoke is another 15.5 percent, rated poorly, moderately well and very poorly drained. The one unit with excessively drained soils, Lakeland-Leon-Newhan on the dunes and ridges along the ocean, is 4.5 percent of the county — 32 percent Lakeland against 15 percent poorly drained Leon.",
      "Those names carry published water table depths. Under Leon fine sand the water table sits 6 to 18 inches down for one to four months in most years. Woodington runs 0 to 12 inches, December to May. Ogeechee ranges from a foot down to a foot of standing water above the surface. Across the state line, NRCS rates Leon fine sand \"Very limited\" for small commercial buildings in Brunswick County, and gives the reason as depth to saturated zone at 1.00 — the top of the severity scale.",
