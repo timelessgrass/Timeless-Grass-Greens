@@ -232,6 +232,13 @@ gsap.matchMedia().add('(prefers-reduced-motion: no-preference)', () => {
     });
   });
 
+  /* ---- 9. the estimate buttons catch the light once ---------------------------- */
+  const sheen = (el: Element) => { el.classList.add('btn--sheen'); requestAnimationFrame(() => el.classList.add('is-sheen')); };
+  document.querySelectorAll('.hero__cta [data-estimate]').forEach((el) => gsap.delayedCall(1.4, () => sheen(el)));
+  document.querySelectorAll('.offer__card [data-estimate]').forEach((el) => {
+    ScrollTrigger.create({ trigger: el, start: 'top 82%', once: true, onEnter: () => sheen(el) });
+  });
+
   return () => {}; // matchMedia handles revert
 });
 }

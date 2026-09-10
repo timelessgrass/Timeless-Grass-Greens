@@ -394,3 +394,14 @@
   .proc__step:nth-child(3) { --k: 2; }
   .proc__step:nth-child(4) { --k: 3; }
 }
+
+/* --- one sweep of light across the estimate buttons, once ---------------------------------------- */
+.btn--sheen { position: relative; overflow: hidden; isolation: isolate; }
+.btn--sheen::after { content: ""; position: absolute; top: -20%; bottom: -20%; left: -60%; width: 40%; z-index: -1; pointer-events: none;
+  background: linear-gradient(100deg, transparent, rgba(255, 255, 255, .5), transparent); opacity: 0; transform: skewX(-18deg); }
+.btn--sheen.is-sheen::after { animation: sheen 1.1s var(--ease) forwards; }
+@keyframes sheen {
+  0%   { opacity: 0; transform: translateX(0) skewX(-18deg); }
+  15%  { opacity: 1; }
+  100% { opacity: 0; transform: translateX(460%) skewX(-18deg); }
+}
