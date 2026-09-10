@@ -180,9 +180,13 @@ html:not(.js-motion) .svcrow__go { opacity: 1; transform: none; }
 /* --- areas: a pin before each market ------------------------------------------------------ */
 .arearow__pin { width: .8em; height: .8em; margin-right: .45rem; vertical-align: -.04em; color: var(--accent); stroke-width: 2.2; }
 
-/* the hero photograph settles in as the page opens: 8% closer, easing back over two seconds */
+/* the hero photograph settles in as the page opens: 8% closer, easing back over two seconds.
+   On a wrapper, never on the photograph itself: motion.ts drives the photograph's transform on
+   scroll, and GSAP folds any in-flight `scale` on that element into its start value — it parked
+   the photo at 1.076 and zoomed it out against the scroll. */
 @keyframes hero-push { from { scale: 1.08; } }
-.hero--home .hero__img { animation: hero-push 2.2s var(--ease) both; }
+.hero__media { position: absolute; inset: 0; z-index: -2; }
+.hero--home .hero__media { animation: hero-push 2.2s var(--ease) both; }
 
 /* --- the grass line: blades along the hero's bottom edge ---------------------------------- */
 .grassline { position: absolute; left: 0; bottom: -2px; width: 100%; height: clamp(28px, 6vw, 60px); overflow: visible; pointer-events: none; }
