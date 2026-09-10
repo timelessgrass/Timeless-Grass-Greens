@@ -1,0 +1,12 @@
+---
+/* A small photograph: service-row thumbnails, the offer's proof strip, the FAQ card.
+   Always the client's own shot (shotlist.ts); decorative beside its label, so alt="" by default. */
+import { Image } from 'astro:assets';
+import { SHOTS } from '../data/shotlist';
+const PHOTOS = import.meta.glob<{ default: ImageMetadata }>('../assets/photos/*.jpg', { eager: true });
+interface Props { id: string; size?: number; alt?: string; class?: string }
+const { id, size = 160, alt = '', class: cls } = Astro.props;
+const shot = SHOTS.find((s) => s.id === id && s.file);
+const img = shot ? PHOTOS[`../assets/photos/${shot.file}`]?.default : undefined;
+---
+{img && <Image src={img} alt={alt} width={size * 2} widths={[size, size * 2]} sizes={`${size}px`} quality={62} loading="lazy" decoding="async" class={cls} />}

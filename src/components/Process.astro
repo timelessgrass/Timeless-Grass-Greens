@@ -1,7 +1,15 @@
 ---
-/* How it works — four steps. motion.ts pins any .proc on wide screens and lights the steps in
-   turn as you scroll. Sourced to the old site's "how we work": free site consultation, custom
-   design and quote, "you approve the design before we install", "we handle all site prep and cleanup". */
+/* How it works — four steps, each with an icon. motion.ts pins any .proc on wide screens and
+   lights the steps in turn as you scroll. Sourced to the old site's "how we work": free site
+   consultation, custom design and quote, "you approve the design before we install", "we handle
+   all site prep and cleanup". */
+import Icon from './Icon.astro';
+const STEPS = [
+  { icon: 'phone', h: 'Call or send photos', p: 'Tell us about your space and what you want to use it for.' },
+  { icon: 'ruler', h: 'Free visit', p: 'We measure the space and check the drainage. No charge.' },
+  { icon: 'file', h: 'Written quote', p: 'Your price, the turf and the layout, in writing. No pressure.' },
+  { icon: 'shovel', h: 'We install it', p: 'Once you approve the design, we handle it all: prep, turf, edges and cleanup.' },
+];
 ---
 <section class="proc sec sec--green on-dark turf-marks turf-marks--dark turf-marks--drift">
   <div class="wrap proc__in">
@@ -11,10 +19,13 @@
       <div class="proc__bar"><div class="proc__fill"></div></div>
     </div>
     <div class="proc__steps">
-      <div class="proc__step"><i>01</i><h3>Call or send photos</h3><p>Tell us about your space and what you want to use it for.</p></div>
-      <div class="proc__step"><i>02</i><h3>Free visit</h3><p>We measure the space and check the drainage. No charge.</p></div>
-      <div class="proc__step"><i>03</i><h3>Written quote</h3><p>Your price, the turf and the layout, in writing. No pressure.</p></div>
-      <div class="proc__step"><i>04</i><h3>We install it</h3><p>Once you approve the design, we handle it all: prep, turf, edges and cleanup.</p></div>
+      {STEPS.map((s, i) => (
+        <div class="proc__step">
+          <span class="proc__ico"><Icon name={s.icon} /></span>
+          <h3><i>0{i + 1}</i>{s.h}</h3>
+          <p>{s.p}</p>
+        </div>
+      ))}
     </div>
   </div>
 </section>

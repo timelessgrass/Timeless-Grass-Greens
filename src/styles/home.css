@@ -149,3 +149,33 @@ html:not(.js-motion) .svcrow__go { opacity: 1; transform: none; }
 .formband__copy p:not(.micro) { color: var(--ink-dim); font-size: clamp(1rem, 2vw, 1.1rem); max-width: 46ch; margin: 0; }
 .formband__copy .btn { justify-self: start; margin-top: .3rem; }
 .quote button[type="submit"] { width: 100%; }
+
+/* --- why choose us: each point with its icon ------------------------------------------ */
+.diff--ico { grid-template-columns: auto 1fr; column-gap: 1rem; align-items: start; }
+.diff__ico { display: grid; place-items: center; width: 44px; height: 44px; border-radius: 12px; background: rgba(48, 116, 8, .1); color: var(--accent); }
+.diff__ico .ico { width: 22px; height: 22px; stroke-width: 1.8; }
+.diff--ico h3 { margin-bottom: .3rem; }
+
+/* --- services on phones: each row carries its photograph (the sticky frame is desktop only) --- */
+.svcrow__thumb { display: none; }
+@media (max-width: 999px) {
+  .svcrow > a { display: grid; grid-template-columns: 72px 1fr; column-gap: 1rem; align-items: start; }
+  .svcrow__thumb { display: block; grid-row: span 2; width: 72px; height: 72px; overflow: hidden; border-radius: 14px; background: var(--ground-band); }
+  .svcrow__thumb img { width: 100%; height: 100%; object-fit: cover; }
+  .svcrow__thumb--ico { display: grid; place-items: center; background: var(--ground-green); color: var(--accent-on-dark); }
+  .svcrow__thumb--ico .ico { width: 28px; height: 28px; }
+  .svcrow__n { font-size: clamp(1.4rem, 5.6vw, 1.8rem); }
+}
+
+/* --- FAQ with a card beside it: a photograph and the two ways to ask ------------------- */
+.faqwrap { display: grid; gap: 2rem; }
+.faqwrap .faq { margin-top: 0; }
+@media (min-width: 1000px) { .faqwrap { grid-template-columns: 1.45fr .75fr; gap: 3rem; align-items: start; } .askcard { position: sticky; top: 6.5rem; } }
+.askcard { display: grid; gap: .75rem; padding: .9rem .9rem 1.3rem; background: var(--ground); border: 1px solid var(--rule); border-radius: var(--radius-card); box-shadow: 0 18px 40px rgba(14, 14, 12, .07); }
+.askcard__img { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 12px; }
+.askcard__h { margin: .4rem .4rem 0; font-family: var(--font-display); font-size: 1.5rem; line-height: 1.1; letter-spacing: var(--track-display); }
+.askcard__p { margin: 0 .4rem .3rem; font-size: .95rem; color: var(--ink-dim); }
+.askcard .btn { width: 100%; }
+
+/* --- areas: a pin before each market ------------------------------------------------------ */
+.arearow__pin { width: .8em; height: .8em; margin-right: .45rem; vertical-align: -.04em; color: var(--accent); stroke-width: 2.2; }

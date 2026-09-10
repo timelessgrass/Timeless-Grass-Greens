@@ -5,6 +5,7 @@ import Figure from '../components/Figure.astro';
 import Icon from '../components/Icon.astro';
 import OfferPanel from '../components/OfferPanel.astro';
 import Process from '../components/Process.astro';
+import Thumb from '../components/Thumb.astro';
 import { phone, phoneHref, positioning, fact } from '../data/brief';
 import { SHOTS, shotsBy, heroSrc } from '../data/shotlist';
 import { MARKETS } from '../data/markets';
@@ -53,10 +54,10 @@ const SVCFIG = [
    positioning); the base built for the soil (services.ts) and "stays level, clean, and tight
    for years" (old site); precise seaming, edging and cleanup (old site). */
 const WHY = [
-  { h: 'Looks like real grass',   p: 'Premium turf that stays full and green, all year long.' },
-  { h: 'Safe for kids and pets',  p: 'Non-toxic, lead-free turf, made to be played on.' },
-  { h: 'Stays flat, drains fast', p: 'We prep the base for your soil before the turf goes down.' },
-  { h: 'Clean, finished work',    p: 'Tight seams, clean edges, and we clean up when we’re done.' },
+  { icon: 'leaf',    h: 'Looks like real grass',   p: 'Premium turf that stays full and green, all year long.' },
+  { icon: 'shield',  h: 'Safe for kids and pets',  p: 'Non-toxic, lead-free turf, made to be played on.' },
+  { icon: 'drop',    h: 'Stays flat, drains fast', p: 'We prep the base for your soil before the turf goes down.' },
+  { icon: 'sparkle', h: 'Clean, finished work',    p: 'Tight seams, clean edges, and we clean up when we’re done.' },
 ];
 
 /* The photographs. Phones show the first seven and a button for the rest: fourteen frames in a
@@ -119,6 +120,7 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
           {SVC.map((s, i) => (
             <li class={`svcrow${i === 0 ? ' is-on' : ''}`} data-svc={i} data-reveal>
               <a href={`/services/${s.slug}/`} data-cta={`svc-${s.slug}`}>
+                {SVCFIG[i].shot ? <span class="svcrow__thumb"><Thumb id={SVCFIG[i].shot!.id} size={72} /></span> : <span class="svcrow__thumb svcrow__thumb--ico"><Icon name="dumbbell" /></span>}
                 <span class="svcrow__n"><i class="svcrow__i">0{i + 1}</i>{s.name}<Icon name="arrow" class="svcrow__go" /></span>
                 <span class="svcrow__p">{s.line}</span>
               </a>
@@ -194,7 +196,7 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
         <p class="micro">Why choose us</p>
         <h2>Looks great. Lasts for years.</h2>
         <div class="diffs">
-          {WHY.map((w) => <div class="diff" data-reveal><h3>{w.h}</h3><p>{w.p}</p></div>)}
+          {WHY.map((w) => <div class="diff diff--ico" data-reveal><span class="diff__ico"><Icon name={w.icon} /></span><div><h3>{w.h}</h3><p>{w.p}</p></div></div>)}
         </div>
         <a class="btn btn--primary" href="/estimate/" data-estimate data-cta="quote-why">Get a free estimate<Icon name="arrow" /></a>
       </div>
@@ -220,7 +222,7 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
         {MARKETS.map((m) => (
           <li class="arearow" data-reveal>
             <a href={`/${m.slug}/`} data-cta={`market-${m.slug}`}>
-              <span class="arearow__n">{m.name}</span>
+              <span class="arearow__n"><Icon name="pin" class="arearow__pin" />{m.name}</span>
               <span class="arearow__t">{m.towns.join(' · ')}</span>
               <span class="arearow__g">See the area &rarr;</span>
             </a>
@@ -235,10 +237,11 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
   <!-- 8 · FAQ — short answers to the questions buyers ask -->
   <section class="sec sec--band">
     <div class="wrap">
-      <div class="kick" data-reveal>
+      <div class="kick kick--left" data-reveal>
         <p class="micro">FAQ</p>
         <h2>Common questions.</h2>
       </div>
+      <div class="faqwrap">
       <div class="faq" data-reveal>
         <details class="qa"><summary><h3>How much does artificial turf cost?</h3></summary>
           <p>It depends on the size of the space, what&rsquo;s there now, the drainage and the turf you choose. The quickest way to know is a free visit: we measure and give you a written price.</p>
@@ -257,6 +260,14 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
           <p>Yes. We pull up the old turf and check what&rsquo;s underneath. If the base is still good, we can reuse it, which costs you a lot less.</p>
           <p class="qa__links"><a href="/services/turf-removal-and-replacement/" data-cta="svc-turf-removal-faq">More about turf replacement</a></p>
         </details>
+      </div>
+      <aside class="askcard" data-reveal>
+        <Thumb id="fin-7" size={320} class="askcard__img" />
+        <p class="askcard__h">Still have a question?</p>
+        <p class="askcard__p">Call and ask, or send us a few photos of your space.</p>
+        {phoneHref && <a class="btn btn--primary" href={phoneHref} data-cta="call-faq"><Icon name="phone" />Call <span class="nowrap">{phone}</span></a>}
+        <a class="btn btn--ghost" href="/estimate/" data-estimate data-cta="quote-faq">Get a free estimate<Icon name="arrow" /></a>
+      </aside>
       </div>
     </div>
   </section>

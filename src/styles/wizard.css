@@ -129,3 +129,10 @@ html.estimate-open { overflow: hidden; }
   background: var(--accent); color: var(--ink-on-dark); stroke-width: 3; }
 .offer__card .btn { width: 100%; }
 .offer__note { margin: .9rem 0 0; font-size: .85rem; color: var(--ink-dim); text-align: center; }
+
+/* --- the offer's proof strip: three of the client's photographs, fanned ------------------- */
+.offer__pics { display: flex; gap: .7rem; margin-top: .9rem; }
+.offer__pics img { width: clamp(84px, 22vw, 140px); aspect-ratio: 1; object-fit: cover; border-radius: 14px; border: 3px solid var(--ground); box-shadow: 0 12px 26px rgba(14, 14, 12, .14); }
+.offer__pics img:nth-child(1) { transform: rotate(-3deg); }
+.offer__pics img:nth-child(2) { transform: translateY(8px) rotate(1.5deg); }
+.offer__pics img:nth-child(3) { transform: rotate(3deg); }

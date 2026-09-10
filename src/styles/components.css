@@ -362,3 +362,8 @@
   .js-motion [data-reveal="photo"], .js-motion [data-reveal="photo"].is-in { clip-path: none; }
   .js-motion .hero--home .scribble path { stroke-dashoffset: 0; }
 }
+
+/* --- process steps carry an icon; the step number rides above the heading ------------------------- */
+.proc__ico { grid-row: span 2; display: grid; place-items: center; width: 2.6rem; height: 2.6rem; border-radius: 50%; background: rgba(138, 207, 53, .14); color: var(--accent-on-dark); }
+.proc__ico .ico { width: 1.25rem; height: 1.25rem; }
+.proc__step h3 i { display: block; grid-row: auto; margin-bottom: .3rem; font-family: var(--font-body); font-size: .68rem; font-style: normal; letter-spacing: .2em; line-height: 1; color: var(--accent-on-dark); }

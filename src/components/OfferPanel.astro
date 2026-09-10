@@ -2,16 +2,19 @@
 /* The closing offer: what the free estimate includes, and one button that opens the wizard.
    Every line is from the old site's "how we work": a free site consultation, a custom design and
    quote "with material options, layout, and next steps", and "you approve the design before we
-   install". `preset` answers the wizard's first question for the visitor (a service page knows it). */
+   install". `preset` answers the wizard's first question for the visitor (a service page knows it);
+   `pics` are three of the client's own photographs, fanned beside the copy as proof. */
 import Icon from './Icon.astro';
+import Thumb from './Thumb.astro';
 import { phone, phoneHref } from '../data/brief';
-interface Props { heading?: string; sub?: string; preset?: string; cta?: string; band?: boolean }
+interface Props { heading?: string; sub?: string; preset?: string; cta?: string; band?: boolean; pics?: string[] }
 const {
   heading = 'Stop maintaining it. Start using it.',
   sub = 'Answer five quick questions and we’ll call to set up your free visit.',
   preset = '',
   cta = 'offer',
   band = false,
+  pics = ['fin-5', 'fin-7', 'fin-9'],
 } = Astro.props;
 ---
 <section class={`sec${band ? ' sec--band' : ''}`} id="quote">
@@ -21,6 +24,7 @@ const {
       <h2>{heading}</h2>
       <p>{sub}</p>
       {phoneHref && <a class="btn btn--ghost" href={phoneHref} data-cta={`call-${cta}`}><Icon name="phone" />Or call <span class="nowrap">{phone}</span></a>}
+      <div class="offer__pics">{pics.slice(0, 3).map((id) => <Thumb id={id} size={140} />)}</div>
     </div>
     <div class="offer__card" data-reveal>
       <p class="micro">Your free estimate includes</p>
