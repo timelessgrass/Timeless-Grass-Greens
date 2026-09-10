@@ -35,7 +35,7 @@ requestAnimationFrame(() => requestAnimationFrame(() => {
     gsap.globalTimeline.clear();
     gsap.set(
       '[data-parallax] img, [data-zoom] img, .hero__img, .hero__eyebrow, .hero h1 .line > span,'
-      + ' .hero__wins > li, .hero__cta, .hero__trust, .scribble path, .strip__track, .grassline__g, .h2-line',
+      + ' .hero__wins > li, .hero__cta, .hero__trust, .scribble path, .strip__track, .grassline__g, .h2-line, .mosaicsec',
       { clearProps: 'all' },
     );
   }, 4000);
@@ -238,6 +238,15 @@ gsap.matchMedia().add('(prefers-reduced-motion: no-preference)', () => {
   document.querySelectorAll('.offer__card [data-estimate]').forEach((el) => {
     ScrollTrigger.create({ trigger: el, start: 'top 82%', once: true, onEnter: () => sheen(el) });
   });
+
+  /* ---- 10. the gallery opens from a panel to full width (wide screens only) ------ */
+  const gallery = document.querySelector<HTMLElement>('.mosaicsec');
+  if (gallery && window.matchMedia('(min-width: 900px)').matches) {
+    gsap.fromTo(gallery, { clipPath: 'inset(0% 4% 0% 4% round 28px)' }, {
+      clipPath: 'inset(0% 0% 0% 0% round 0px)', ease: 'none',
+      scrollTrigger: { trigger: gallery, start: 'top 92%', end: 'top 35%', scrub: .5 },
+    });
+  }
 
   return () => {}; // matchMedia handles revert
 });
