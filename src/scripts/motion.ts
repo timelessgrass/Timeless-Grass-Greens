@@ -203,6 +203,19 @@ gsap.matchMedia().add('(prefers-reduced-motion: no-preference)', () => {
     onEnter: (els) => els.forEach((el, i) => setTimeout(() => el.classList.add('is-drawn'), i * 70)),
   });
 
+  /* ---- 11. phones: each step card shrinks and dims as the next slides over it ------ */
+  if (window.matchMedia('(max-width: 899px)').matches) {
+    const cards = gsap.utils.toArray<HTMLElement>('.proc__step');
+    cards.forEach((card, i) => {
+      const next = cards[i + 1];
+      if (!next) return;
+      gsap.to(card, {
+        scale: .94, opacity: .5, ease: 'none', transformOrigin: '50% 0%',
+        scrollTrigger: { trigger: next, start: 'top 85%', end: 'top 25%', scrub: true },
+      });
+    });
+  }
+
   return () => {}; // matchMedia handles revert
 });
 }

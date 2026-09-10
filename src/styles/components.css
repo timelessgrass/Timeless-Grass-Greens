@@ -380,3 +380,17 @@
 .js-motion .draw .ico path { stroke-dasharray: 1; stroke-dashoffset: 1; }
 .js-motion .draw.is-drawn .ico path { stroke-dashoffset: 0; transition: stroke-dashoffset 1s var(--ease) .12s; }
 @media (prefers-reduced-motion: reduce) { .js-motion .draw .ico path { stroke-dashoffset: 0; } }
+
+/* --- phones: the four steps stack as cards as you scroll ------------------------------------------ */
+@media (max-width: 899px) {
+  .proc__steps { gap: .9rem; padding-bottom: 1.5rem; }
+  .proc__step, .proc__step:last-child {
+    position: sticky; top: calc(84px + var(--k, 0) * 12px);
+    padding: 1.2rem 1.1rem 1.3rem; border: 1px solid var(--rule-on-dark); border-radius: var(--radius-card);
+    background: color-mix(in srgb, var(--ground-green) 90%, var(--ink-on-dark));
+    box-shadow: 0 -10px 30px rgba(14, 14, 12, .28);
+  }
+  .proc__step:nth-child(2) { --k: 1; }
+  .proc__step:nth-child(3) { --k: 2; }
+  .proc__step:nth-child(4) { --k: 3; }
+}
