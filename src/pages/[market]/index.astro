@@ -17,7 +17,7 @@ const hero = heroSrc(); // TODO per-market hero once the client's photos land; a
 
 const ANSWER = {
   question: `Who installs artificial turf and putting greens in ${m.short}?`,
-  answer: `${businessName} installs artificial turf, pet turf and backyard putting greens across ${m.name} — ${m.anchors.slice(0, 4).join(', ')} and the surrounding area. Residential, commercial, indoor facilities and sports fields. The founder has thirteen years in turf. Call ${phone} for a quote.`,
+  answer: `${businessName} installs artificial turf, pet turf and backyard putting greens across ${m.name} — ${m.anchors.slice(0, 4).join(', ')} and the surrounding area. Residential, commercial, indoor facilities and sports fields. 13 years' experience. Call ${phone} for a free estimate.`,
 };
 
 const crumbs = [
@@ -88,7 +88,7 @@ const crumbs = [
   <section class="sec sec--dark on-dark">
     <div class="wrap">
       <p class="micro" data-reveal>The work</p>
-      <h2>Jobs in {m.short}.</h2>
+      <h2>Some of our work.</h2>
       <div class="proof__grid">
         {shotsBy('finished').slice(0, 3).map((shot) => <Figure shot={shot} />)}
       </div>

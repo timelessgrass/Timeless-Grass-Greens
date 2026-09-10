@@ -34,7 +34,7 @@ requestAnimationFrame(() => requestAnimationFrame(() => {
     gsap.globalTimeline.clear();
     gsap.set(
       '[data-parallax] img, [data-zoom] img, .hero__img, .hero__eyebrow, .hero h1 .line > span,'
-      + ' .hero__deck, .hero__qual, .hero__cta, .hero__steps > *, .strip__track',
+      + ' .hero__wins > li, .hero__cta, .hero__trust, .scribble path, .strip__track',
       { clearProps: 'all' },
     );
   }, 4000);
@@ -47,8 +47,9 @@ gsap.matchMedia().add('(prefers-reduced-motion: no-preference)', () => {
   if (!document.querySelector('.hero--home')) { introDone = true; intro.kill(); } else intro
     .to('.hero__eyebrow', { y: 0, opacity: 1, duration: .7 })
     .to('.hero h1 .line > span', { y: 0, duration: 1.05, stagger: .11 }, '-=.4') // y not yPercent: GSAP parses the CSS % start as px
-    .to('.hero__deck, .hero__wins > li, .hero__qual, .hero__cta', { y: 0, opacity: 1, duration: .8, stagger: .07 }, '-=.55')
-    .to('.hero__steps > *', { y: 0, opacity: 1, duration: .6, stagger: .08 }, '-=.2'); // was -=.5 behind a badge tween for an element that no longer exists
+    .addLabel('copy', '-=.55')
+    .to('.hero--home .scribble path', { strokeDashoffset: 0, duration: 1.1 }, 'copy') // the stroke under "no mud." draws as the copy arrives
+    .to('.hero__wins > li, .hero__cta, .hero__trust', { y: 0, opacity: 1, duration: .8, stagger: .07 }, 'copy+=.1');
 
   /* hero image: slow ken-burns on scroll, not on a timer — it only moves if you do */
   if (document.querySelector('.hero__img')) gsap.to('.hero__img', {
@@ -219,16 +220,34 @@ let scrolled = false;
 const onScroll = () => { const s = window.scrollY > 72; if (s !== scrolled) { scrolled = s; chrome?.classList.toggle('is-scrolled', s); } };
 window.addEventListener('scroll', onScroll, { passive: true }); onScroll();
 
-/* the sticky call bar steps aside while the form or the footer is on screen — it must never cover Submit */
-const bar = document.querySelector('.bar');
-const yieldTo = document.querySelectorAll('.quote, .foot');
+/* The sticky bar steps aside while the hero's own buttons, the form or the footer is on
+   screen: two identical Call buttons stacked on a phone read as a mistake, and the bar must
+   never cover Submit. The first placement snaps; only later changes slide. */
+const bar = document.querySelector<HTMLElement>('.bar');
+const yieldTo = document.querySelectorAll('.hero__cta, .quote, .foot');
 if (bar && yieldTo.length && 'IntersectionObserver' in window) {
   const seen = new Set<Element>();
+  bar.classList.add('is-still');
   const io = new IntersectionObserver((entries) => {
     entries.forEach((en) => (en.isIntersecting ? seen.add(en.target) : seen.delete(en.target)));
     bar.classList.toggle('is-hidden', seen.size > 0);
+    if (bar.classList.contains('is-still')) requestAnimationFrame(() => requestAnimationFrame(() => bar.classList.remove('is-still')));
   }, { threshold: 0.12 });
   yieldTo.forEach((el) => io.observe(el));
+}
+
+/* Photographs: phones get the lead frame and three pairs, then a button for the rest
+   (home.css clamps only below 900px). Without JavaScript every frame shows. */
+const mosaic = document.querySelector<HTMLElement>('[data-mosaic]');
+const more = document.querySelector<HTMLButtonElement>('[data-mosaic-more]');
+if (mosaic && more) {
+  mosaic.classList.add('is-clamped');
+  more.hidden = false;
+  more.addEventListener('click', () => {
+    mosaic.classList.remove('is-clamped');
+    more.hidden = true;
+    ScrollTrigger.refresh();
+  });
 }
 
 if (import.meta.env.DEV) (window as any).__motion = { gsap, ScrollTrigger };

@@ -37,8 +37,8 @@ export const SHOTS: Shot[] = [
     caption: 'A finished back lawn running to the patio edge.' },
   { id: 'fin-3', kind: 'finished', ratio: '3/2', stock: { src: 'https://images.pexels.com/photos/16630711/pexels-photo-16630711.jpeg?auto=compress&cs=tinysrgb&w=1600', credit: 'Pexels #16630711' },
     brief: 'Finished pet area. Include the drainage edge if it is visible.',
-    file: 'pet-turf-dog-resting-under-deck.jpg', alt: 'A dog resting on pet turf in the shade under a raised deck',
-    caption: 'Pet turf in the shade under a raised deck.' },
+    file: 'pet-turf-dog-resting-under-deck.jpg', alt: 'Two dogs lying on pet turf in a fenced back yard, seen from the deck above',
+    caption: 'Pet turf, with the dogs on it.' }, // the file arrived rotated 90° with no EXIF orientation; turned upright 2026-09-10
   { id: 'fin-4', kind: 'finished', ratio: '3/4', stock: { src: 'https://images.pexels.com/photos/39222204/pexels-photo-39222204.jpeg?auto=compress&cs=tinysrgb&w=1600', credit: 'Pexels #39222204' },
     brief: 'Finished commercial or sports surface. Wide enough to read the scale of the job.',
     file: 'putting-green-shared-amenity-lawn.jpg', alt: 'A putting green on a shared lawn beside a residential building',

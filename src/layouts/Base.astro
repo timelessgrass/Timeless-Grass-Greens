@@ -7,6 +7,7 @@ import { businessName, phone, phoneHref, email, serviceAreas } from '../data/bri
 import { MARKETS } from '../data/markets';
 import { SERVICES } from '../data/services';
 import { Image } from 'astro:assets';
+import Icon from '../components/Icon.astro';
 import logo from '../assets/brand/logo.png';
 import logoRev from '../assets/brand/logo-reverse.png';
 
@@ -47,7 +48,7 @@ const graph: any[] = [
     description,
     isPartOf: { '@id': `${Astro.site}#website` },
     about: { '@id': `${Astro.site}#organization` },
-    ...(answer ? { speakable: { '@type': 'SpeakableSpecification', cssSelector: ['.answer-box__a', '.hero__lede'] } } : {}),
+    ...(answer ? { speakable: { '@type': 'SpeakableSpecification', cssSelector: ['.answer-box__a', '.hero__lede', '.areas__intro'] } } : {}),
   },
 ];
 
@@ -93,8 +94,8 @@ if (crumbs?.length) {
   <a class="skip" href="#main">Skip to content</a>
 
   <div class="util"><div class="util__in">
-    <span>Denver · Grand Strand · Northeast Florida</span>
-    <span>Founder with 13 years in turf</span>
+    <span>Denver · Myrtle Beach · Jacksonville</span>
+    <span>13 years&rsquo; experience · Free estimates</span>
     {phoneHref && <span><a class="util__tel" href={phoneHref} data-cta="call-util">{phone}</a></span>}
   </div></div>
 
@@ -164,9 +165,10 @@ if (crumbs?.length) {
   </footer>
 
   {phoneHref && (
-    <a class="bar" href={phoneHref} data-cta="call-sticky">
-      <span>Call {phone}</span>
-    </a>
+    <div class="bar">
+      <a class="btn bar__call" href={phoneHref} data-cta="call-sticky"><Icon name="phone" />Call now</a>
+      <a class="btn bar__quote" href="/#quote" data-cta="quote-sticky">Free estimate</a>
+    </div>
   )}
   <script>import '../scripts/motion';</script>
 </body>

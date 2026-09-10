@@ -1,34 +1,41 @@
 /* Homepage editorial system.
  *
- * The page had five box grids and two small photographs. Cards are the layout you reach
- * for when the data is an array, which is exactly the move this project bans — so every
- * section below is shaped by what it argues instead:
+ * Every section is shaped by what it argues rather than by a card grid:
  *
- *   .ledger  four figures on one hairline rule. Type, no chrome.
- *   .cut     a drawn cross-section. The one section where a diagram beats a photograph,
- *            because we cannot say which market any photograph is from.
- *   .mosaic  the fifteen photographs at three sizes, each drifting at its own rate.
- *   .svclist six services as display type, with a sticky frame that changes beside them.
- *   .zoom    "count the leaves" — the photograph zooms out as you read the sentence.
- *   .areas   markets as headings and a run of towns. No boxes.
+ *   .hero__trust  three proof points under the two actions, where the decision is made.
+ *   .svclist      six services as display type, with a sticky frame that changes beside them.
+ *   .mosaic       the photographs at three sizes, each drifting inside its own crop.
+ *   .wrongs       the three ways turf fails, said plainly.
+ *   .zoomband     the finish: the photograph pulls back as you read the sentence.
+ *   .areas        markets as headings and a run of towns. No boxes.
+ *   .formband     the close and the form, side by side.
  *
  * No literal cubic-bezier anywhere: EASE-1 allows exactly one in the whole stylesheet set
  * and it lives in tokens.css as --ease.
  */
 
-/* --- ledger: the true numbers, as a rule of figures ------------------------------- */
-.ledger { display: grid; grid-template-columns: 1fr; border-top: 1px solid var(--rule); }
-@media (min-width: 700px) { .ledger { grid-template-columns: repeat(2, 1fr); } }
-@media (min-width: 1040px) { .ledger { grid-template-columns: repeat(4, 1fr); } }
-.ledger__i { padding: 1.6rem 0 1.7rem; border-bottom: 1px solid var(--rule); position: relative; }
-@media (min-width: 700px) {
-  .ledger__i { padding: 2rem 1.6rem 2.2rem; }
-  .ledger__i:first-child { padding-left: 0; }
-  .ledger__i + .ledger__i::before { content: ""; position: absolute; left: 0; top: 1.6rem; bottom: 1.6rem; width: 1px; background: var(--rule); }
-}
-@media (min-width: 700px) and (max-width: 1039px) { .ledger__i:nth-child(3) { padding-left: 0; } .ledger__i:nth-child(3)::before { display: none; } }
-.ledger__n { display: block; font-family: var(--font-display); font-size: clamp(3.4rem, 8vw, 6.2rem); line-height: .86; letter-spacing: -.045em; font-variant-numeric: tabular-nums; }
-.ledger__l { display: block; margin-top: .9rem; font-size: .88rem; line-height: 1.5; color: var(--ink-dim); max-width: 30ch; }
+/* --- hero: benefit lines, two actions, three proof points ------------------------- */
+/* The block centres; the lines do not. justify-items:center centred each item's own box,
+   which left every bullet dot at a different x and read as ragged. */
+.hero__wins { list-style: none; margin: 1.4rem 0 0; padding: 0; display: grid; gap: .5rem;
+              width: fit-content; margin-inline: auto; text-align: left; }
+.hero__wins li { position: relative; padding-left: 1.55rem; font-size: clamp(1rem, 2vw, 1.12rem); line-height: 1.5; color: var(--ink-on-dark-dim); }
+.hero__wins li::before { content: ""; position: absolute; left: 0; top: .56em; width: .58rem; height: .58rem; border-radius: var(--radius-pill); background: var(--accent-on-dark); }
+.hero--home .hero__cta { margin-top: 1.9rem; }
+/* Phones: the hero is as tall as its content, not 92% of the screen. Centring the copy in a
+   full-height hero pushed the Call button to the bottom edge of an iPhone SE. */
+@media (max-width: 700px) { .hero--home { min-height: 0; padding-top: 2.6rem; padding-bottom: 3.2rem; } }
+@media (max-width: 560px) { .hero--home .hero__cta .btn { flex: 1 1 100%; } } /* two full-width thumb targets, not two pills that wrap unevenly */
+.hero__trust { list-style: none; margin: 1.4rem 0 0; padding: 0; display: flex; flex-wrap: wrap; justify-content: center; gap: .5rem 1.4rem; font-size: .88rem; line-height: 1.4; color: var(--ink-on-dark-dim); }
+.hero__trust li { display: inline-flex; align-items: center; gap: .45rem; }
+.hero__trust .ico { width: 1em; height: 1em; stroke-width: 2.8; color: var(--accent-on-dark); }
+
+/* "no mud." gets a stroke drawn under it once the headline has landed. The line wrapper
+   clips for the rise, so it is given a little room underneath without moving the layout. */
+.hero--home h1 .line { padding-bottom: .12em; margin-bottom: -.12em; }
+.hero--home h1 em { position: relative; display: inline-block; }
+.scribble { position: absolute; left: -3%; bottom: -.04em; width: 106%; height: auto; aspect-ratio: 220 / 18; overflow: visible; pointer-events: none; }
+.scribble path { fill: none; stroke: var(--accent-on-dark); stroke-width: 3; stroke-linecap: round; stroke-dasharray: 1; stroke-dashoffset: 0; }
 
 /* --- wrongs: the three failures, said plainly ------------------------------------ */
 .wrongs { list-style: none; margin: clamp(1.6rem, 4vw, 2.6rem) 0 0; padding: 0; display: grid; gap: 0; border-top: 1px solid var(--rule-on-dark); }
@@ -38,36 +45,38 @@
 .wrongs span { color: var(--ink-on-dark-dim); font-size: 1rem; line-height: 1.6; max-width: 62ch; }
 .wrongs__note { margin-top: clamp(1.4rem, 3vw, 2rem); color: var(--accent-on-dark); font-size: 1rem; line-height: 1.6; max-width: 60ch; }
 
-/* --- hero benefit lines: four short wins, not a paragraph of mechanism --------- */
-/* The block centres; the lines do not. justify-items:center centred each item's own box,
-   which left every bullet dot at a different x and read as ragged. */
-.hero__wins { list-style: none; margin: 1.4rem 0 0; padding: 0; display: grid; gap: .5rem;
-              width: fit-content; margin-inline: auto; text-align: left; }
-.hero__wins li { position: relative; padding-left: 1.55rem; font-size: clamp(1rem, 2vw, 1.12rem); line-height: 1.5; color: var(--ink-on-dark-dim); }
-.hero__wins li::before { content: ""; position: absolute; left: 0; top: .56em; width: .58rem; height: .58rem; border-radius: var(--radius-pill); background: var(--accent-on-dark); }
-
 /* --- mosaic: the photographs, at three sizes -------------------------------------- */
 .mosaic { display: grid; grid-template-columns: repeat(2, 1fr); gap: clamp(.5rem, 1.4vw, 1rem); margin-top: clamp(2rem, 5vw, 3rem); }
 @media (min-width: 900px) { .mosaic { grid-template-columns: repeat(6, 1fr); } }
-.mosaic .fig { margin: 0; overflow: hidden; border-radius: var(--radius-card); }
-.mosaic .fig img { width: 100%; height: 100%; object-fit: cover; display: block; will-change: transform; }
+.mosaic .fig { position: relative; margin: 0; overflow: hidden; border-radius: var(--radius-card); background: rgba(242, 240, 232, .04); }
+/* Absolute, so a portrait photograph can never stretch its row: the frame's size comes from
+   the grid and the aspect ratio alone, and the picture fills it. */
+.mosaic .fig img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; display: block; will-change: transform; }
 .mosaic .fig figcaption { position: absolute; inset: auto 0 0 0; margin: 0; padding: 2.6rem .9rem .8rem; font-size: .78rem; color: var(--ink-on-dark);
   background: linear-gradient(transparent, rgba(14,14,12,.82)); opacity: 0; transition: opacity var(--dur) var(--ease); }
-.mosaic .fig { position: relative; }
 .mosaic .fig:hover figcaption, .mosaic .fig:focus-within figcaption { opacity: 1; }
 /* Spans. The lead frame is twice everything, then the rhythm breaks on purpose so no two
    rows read the same — a uniform grid is the thing this replaced. */
 .mosaic > *      { grid-column: span 1; aspect-ratio: 4/5; }
 .mosaic > *:nth-child(1) { grid-column: span 2; aspect-ratio: 4/3; }
+@media (max-width: 899px) {
+  .mosaic > :last-child:nth-child(even) { grid-column: span 2; aspect-ratio: 4/3; } /* an even count leaves the last frame alone in its row; it takes the row */
+  .mosaic.is-clamped > :nth-child(n+8) { display: none; } /* phones: the lead frame and three pairs, then the button */
+}
 @media (min-width: 900px) {
   .mosaic > *              { grid-column: span 2; aspect-ratio: 4/3; }
   .mosaic > *:nth-child(1) { grid-column: span 4; aspect-ratio: 16/9; }
-  .mosaic > *:nth-child(2) { grid-column: span 2; aspect-ratio: 3/4; }
+  .mosaic > *:nth-child(2) { grid-column: span 2; aspect-ratio: auto; } /* takes the height of the frame beside it */
   .mosaic > *:nth-child(6) { grid-column: span 3; aspect-ratio: 16/10; }
   .mosaic > *:nth-child(7) { grid-column: span 3; aspect-ratio: 16/10; }
   .mosaic > *:nth-child(11){ grid-column: span 4; aspect-ratio: 2/1; }
-  .mosaic > *:nth-child(12){ grid-column: span 2; aspect-ratio: 3/4; }
+  .mosaic > *:nth-child(12){ grid-column: span 2; aspect-ratio: auto; }
+  .mosaic > *:nth-child(13),
+  .mosaic > *:nth-child(14){ grid-column: span 3; aspect-ratio: 16/10; } /* the last row fills all six columns */
 }
+.mosaic__more { display: flex; width: fit-content; margin: 1.6rem auto 0; }
+.mosaic__more[hidden] { display: none; }
+@media (min-width: 900px) { .mosaic__more { display: none; } }
 
 /* --- svclist: six services, one sticky frame -------------------------------------- */
 .svcwrap { display: grid; gap: clamp(2rem, 4vw, 3.6rem); align-items: start; }
@@ -79,18 +88,22 @@
   font-size: clamp(1.6rem, 3.6vw, 2.5rem); line-height: 1.06; letter-spacing: -.026em;
   color: var(--ink-faint); transition: color var(--dur) var(--ease); }
 .svcrow__i { font-family: var(--font-body); font-size: .72rem; letter-spacing: .2em; color: var(--ink-faint); flex: 0 0 auto; }
+.svcrow__go { width: .6em; height: .6em; margin-left: auto; align-self: center; color: var(--accent); opacity: 0; transform: translateX(-8px);
+  transition: opacity var(--dur) var(--ease), transform var(--dur) var(--ease); }
 .svcrow__p { max-width: 60ch; margin-top: .55rem; font-size: .96rem; line-height: 1.6; color: var(--ink-dim);
   opacity: 0; max-height: 0; overflow: hidden; transition: opacity var(--dur) var(--ease), max-height var(--dur) var(--ease); }
 .svcrow.is-on .svcrow__n { color: var(--ink); }
 .svcrow.is-on .svcrow__i { color: var(--accent); }
 .svcrow.is-on .svcrow__p { opacity: 1; max-height: 16rem; }
-@media (hover: hover) { .svcrow:hover .svcrow__n { color: var(--ink); } }
+.svcrow.is-on .svcrow__go { opacity: 1; transform: none; }
+@media (hover: hover) { .svcrow:hover .svcrow__n { color: var(--ink); } .svcrow:hover .svcrow__go { opacity: 1; transform: none; } }
 /* No JS: every row reads fully rather than collapsing to a list of nouns. */
 html:not(.js-motion) .svcrow__p { opacity: 1; max-height: none; }
 html:not(.js-motion) .svcrow__n { color: var(--ink); }
+html:not(.js-motion) .svcrow__go { opacity: 1; transform: none; }
 /* Below 1000px the frame would sit UNDER the list, so a row lighting up would change a
-   photograph the reader cannot see. Narrow gets the list open and typographic instead —
-   the fourteen-frame mosaic sits directly above it and is already carrying the pictures. */
+   photograph the reader cannot see. Narrow gets the list open and typographic instead, with
+   the arrow always showing so each row reads as the link it is. */
 .svcfig { display: none; }
 @media (min-width: 1000px) {
   .svcfig { display: block; position: sticky; top: calc(var(--chrome-h, 84px) + 1.4rem);
@@ -99,6 +112,7 @@ html:not(.js-motion) .svcrow__n { color: var(--ink); }
 @media (max-width: 999px) {
   .svcrow__p { opacity: 1; max-height: none; }
   .svcrow__n { color: var(--ink); }
+  .svcrow__go { opacity: 1; transform: none; }
 }
 .svcfig__f { position: absolute; inset: 0; opacity: 0; transition: opacity .55s var(--ease); }
 .svcfig__f.is-on { opacity: 1; }
@@ -106,16 +120,18 @@ html:not(.js-motion) .svcrow__n { color: var(--ink); }
 .svcfig__f img { width: 100%; height: 100%; object-fit: cover; display: block; }
 .svcfig__f figcaption { position: absolute; inset: auto 0 0 0; margin: 0; padding: 3rem 1.1rem 1rem; font-size: .8rem;
   color: var(--ink-on-dark); background: linear-gradient(transparent, rgba(14,14,12,.85)); }
-/* The one service with no honest photograph gets the number instead of a borrowed image. */
-.svcfig__data { position: absolute; inset: 0; display: grid; align-content: center; gap: .5rem; padding: clamp(1.4rem, 4vw, 2.6rem);
+/* The one service with no honest photograph gets words instead of a borrowed image. */
+.svcfig__data { position: absolute; inset: 0; display: grid; align-content: center; gap: .8rem; padding: clamp(1.4rem, 4vw, 2.6rem);
   background: var(--ground-green); color: var(--ink-on-dark); }
-.svcfig__data b { font-family: var(--font-display); font-size: clamp(2.6rem, 7vw, 4.4rem); line-height: .9; letter-spacing: -.04em; }
-.svcfig__data span { font-size: .92rem; line-height: 1.55; color: var(--ink-on-dark-dim); max-width: 34ch; }
-.svcfig__data i { font-style: normal; color: var(--accent-on-dark); }
+.svcfig__data b { font-family: var(--font-display); font-weight: 500; font-size: clamp(2.6rem, 7vw, 4.4rem); line-height: .9; letter-spacing: -.04em; }
+.svcfig__data span { font-size: .98rem; line-height: 1.55; color: var(--ink-on-dark-dim); max-width: 30ch; }
 
 /* --- zoom: the photograph pulls back while you read the sentence ------------------- */
 .zoomband { display: grid; gap: clamp(1.8rem, 4vw, 3.2rem); align-items: center; }
 @media (min-width: 950px) { .zoomband { grid-template-columns: 1fr 1.15fr; } }
+.zoomband__copy { display: grid; gap: 1.1rem; align-content: start; }
+.zoomband__copy h2 { max-width: 16ch; }
+.zoomband__copy .btn { justify-self: start; margin-top: .4rem; }
 .zoomfig { position: relative; overflow: hidden; border-radius: var(--radius-card); aspect-ratio: 4/3; }
 @media (min-width: 950px) { .zoomfig { margin-right: calc(var(--bleed) * -1); border-top-right-radius: 0; border-bottom-right-radius: 0; aspect-ratio: 4/3.4; } }
 .zoomfig .fig, .zoomfig figure { margin: 0; height: 100%; }
@@ -125,11 +141,19 @@ html:not(.js-motion) .svcrow__n { color: var(--ink); }
   color: var(--ink-on-dark); background: linear-gradient(transparent, rgba(14,14,12,.85)); }
 
 /* --- areas: markets as headings, towns as a run --------------------------------- */
+.kick--wide .areas__intro { margin: 1rem 0 0; max-width: 58ch; }
 .areas { list-style: none; margin: clamp(1.6rem, 4vw, 2.6rem) 0 0; padding: 0; border-top: 1px solid var(--rule); }
 .arearow { border-bottom: 1px solid var(--rule); }
 .arearow > a { display: grid; gap: .5rem 2rem; align-items: baseline; padding: clamp(1.1rem, 2.4vw, 1.5rem) 0; text-decoration: none; color: inherit; }
 @media (min-width: 800px) { .arearow > a { grid-template-columns: minmax(11rem, 15rem) 1fr auto; } }
 .arearow__n { font-family: var(--font-display); font-size: clamp(1.35rem, 2.8vw, 1.95rem); letter-spacing: -.02em; line-height: 1.1; }
 .arearow__t { color: var(--ink-dim); font-size: .95rem; line-height: 1.55; }
-.arearow__g { font-size: .82rem; letter-spacing: .12em; text-transform: uppercase; color: var(--ink-faint); white-space: nowrap; transition: color var(--dur) var(--ease); }
-@media (hover: hover) { .arearow:hover .arearow__g { color: var(--accent); } }
+.arearow__g { font-size: .82rem; letter-spacing: .12em; text-transform: uppercase; color: var(--accent); white-space: nowrap; transition: color var(--dur) var(--ease); }
+@media (hover: hover) { .arearow:hover .arearow__g { color: var(--accent-hover); } }
+
+/* --- the close and the form, side by side ------------------------------------------ */
+.formband__copy { display: grid; gap: 1rem; align-content: start; }
+.formband__copy h2 { max-width: 14ch; }
+.formband__copy p:not(.micro) { color: var(--ink-dim); font-size: clamp(1rem, 2vw, 1.1rem); max-width: 46ch; margin: 0; }
+.formband__copy .btn { justify-self: start; margin-top: .3rem; }
+.quote button[type="submit"] { width: 100%; }

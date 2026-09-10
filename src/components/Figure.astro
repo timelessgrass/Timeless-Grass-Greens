@@ -18,16 +18,17 @@
 import type { Shot } from '../data/shotlist';
 import { Image } from 'astro:assets';
 
-/* Every photograph in src/assets/photos is imported at build time so Astro can emit
-   webp at the widths a page actually uses, with width/height on the tag. A 2400px
-   JPEG from a phone is never served to a visitor. */
+/* Every photograph in src/assets/photos is imported at build time so Astro can emit WebP
+   at the widths a page actually uses, with width/height on the tag. 320 and 480 exist for the
+   two-up phone grid; 1280 is the ceiling (and the fallback src), which covers the widest slot
+   on the page at 2x. WebP, not AVIF: Astro's AVIF came out 25–35% larger on these photographs,
+   measured width for width. A 2400px JPEG from a phone is never served to a visitor. */
 const PHOTOS = import.meta.glob<{ default: ImageMetadata }>('../assets/photos/*.jpg', { eager: true });
 const photo = (f?: string) => (f ? PHOTOS[`../assets/photos/${f}`]?.default : undefined);
-interface Props { shot: Shot; sizes?: string; parallax?: boolean }
-/* The default matches a proof-grid, story or band slot. The gallery strip is narrower —
-   clamp(280px, 38vw, 520px) — so it passes its own, otherwise a phone fetches a 1040w
-   file for a 280px slot. */
-const { shot, sizes = '(min-width: 1100px) 520px, (min-width: 700px) 46vw, 92vw', parallax = false } = Astro.props;
+interface Props { shot: Shot; sizes?: string; parallax?: boolean; reveal?: boolean }
+/* The default matches a story or band slot. Grids pass their own, otherwise a phone
+   fetches a wide file for a half-width slot. */
+const { shot, sizes = '(min-width: 1100px) 560px, (min-width: 700px) 46vw, 92vw', parallax = false, reveal = false } = Astro.props;
 const DEV = import.meta.env.DEV;
 const img = photo(shot.file);
 const KIND: Record<string, string> = {
@@ -36,9 +37,9 @@ const KIND: Record<string, string> = {
 };
 ---
 {img ? (
-  <figure class="fig" style={`--ratio:${shot.ratio}`} data-parallax={parallax ? '' : undefined}>
-    <Image src={img} alt={shot.alt ?? shot.caption ?? ''} widths={[400, 640, 1040]} quality={74}
-           sizes={sizes}
+  <figure class="fig" style={`--ratio:${shot.ratio}`} data-parallax={parallax ? '' : undefined} data-reveal={reveal ? 'photo' : undefined}>
+    <Image src={img} alt={shot.alt ?? shot.caption ?? ''} width={1280}
+           widths={[320, 480, 640, 960, 1280]} quality={66} sizes={sizes}
            loading="lazy" decoding="async" />
     {shot.caption && <figcaption>{shot.caption}</figcaption>}
   </figure>

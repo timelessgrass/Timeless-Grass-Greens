@@ -9,13 +9,16 @@ the page is wrong. Values are measured, not chosen — see `archive/brand/tokens
 putting green with two flags, and his own test of a competitor's work is whether the
 green is blown clean. Every colour, weight and motion decision traces back to that.
 
-## Reference structure
+## Homepage order (2026-09-10)
 
-The client chose greenforeverarizona.com/artificial-turf/ as the structural model:
-dark full-bleed hero → proof numbers → gallery → story → standard → services →
-differentiators → process → before/after → FAQ → form → close. We keep the structure
-and the motion vocabulary. We do not reproduce its review count-up or homeowner count —
-neither is sourced here.
+Ordered by the buyer's questions, one section per question: dark hero (Call + free
+estimate, three proof points) → services → photographs → before/after (gated) → who shows
+up → what goes wrong → how it works (pinned) → the written quote → the finish → areas →
+FAQ → close + form. The numbers ledger, the answer box and the close were folded into the
+hero, the areas section and the form section, so nothing is read twice and the last thing on
+the page is the thing to do. The original structural model was
+greenforeverarizona.com/artificial-turf/; we keep its motion vocabulary, never its review
+count-up or homeowner count — neither is sourced here.
 
 ## Colour — `src/styles/tokens.css`
 
@@ -64,6 +67,9 @@ Grep the built CSS for a second `cubic-bezier` before shipping.
 | Pinned steps | `.proc` | ≥ 900px only |
 | Before/after wipe | `.wipe` | scroll-scrubbed |
 | Stripe drift | `.turf-marks--drift` | dark bands |
+| Stroke under "no mud." | `.scribble` | homepage intro, drawn with `stroke-dashoffset` |
+| Photo curtain | `[data-reveal="photo"]` | clip-path opens from the bottom edge; the picture keeps its parallax |
+| Sticky bar yields | `.bar` | phones: hidden while the hero buttons, the form or the footer is on screen |
 
 **Nothing hides until the ticker proves alive.** Start states live in CSS under
 `html.js-motion`, added only after two rAF ticks. If the intro has not completed in 4s
@@ -99,6 +105,12 @@ Only the client's own photographs ship. Stock stand-ins are **dev-only**, labell
 "STOCK · NOT OUR WORK", gated in both `<Figure>` and `heroSrc()`. After every build:
 `find dist -name '*.html' -exec grep -l 'pexels.com' {} +` must return nothing.
 Proof floor (turf): 4 finished · 4 before/after pairs · 2 crew · 1 detail · 2 context.
+
+Encoding (measured 2026-09-10): WebP only. Astro's AVIF (sharp, 4:4:4 chroma) came out
+25–35% larger than WebP on these photographs, width for width. `<Figure>` emits 320–1280 at
+q66 with per-slot `sizes`; the hero emits 640–1920 at q55 and asks for 75vw on phones because
+it sits under a 55% wash. Phones load seven gallery photographs until "See all" is tapped.
+Check orientation by eye on every new batch: one file arrived rotated 90° with no EXIF tag.
 
 ## Copy
 
