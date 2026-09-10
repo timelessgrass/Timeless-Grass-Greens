@@ -33,31 +33,11 @@
     "sources": []
    },
    {
-    "h2": "Three markets, three different green buyers",
+    "h2": "In Florida, what your HOA can stop depends on who can see the green",
     "body": [
-     "The PGA TOUR's national headquarters is at 1 PGA Tour Blvd., Ponte Vedra Beach, and the 137-yard island 17th at TPC Sawgrass, eight miles away, has hosted THE PLAYERS since 1982. Florida's First Coast of Golf counts 68 publicly accessible courses in the region. Nocatee, the large community beside it, has none of its own: three were planned and never built.",
-     "Florida law there follows the sightline. Fla. Stat. 720.3045 stops an association restricting items on a parcel that are not visible from the frontage, an adjacent parcel, a common area or a community golf course, and it names artificial turf. A green in a fenced rear yard usually clears that test. One a fairway looks onto is not. <a href=\"/guides/florida-friendly-landscaping-and-hoas/\">The Florida HOA rules</a>.",
-     "The Grand Strand is a volume market: the official Myrtle Beach golf booking site lists 66 championship courses across 60 miles of coast. Denver's anchor is a single club: Castle Pines Golf Club, opened 1981, hosted the BMW Championship in August 2024 and again in August 2026."
+     "Florida law follows the sightline. Fla. Stat. 720.3045 stops an association restricting items on a parcel that are not visible from the frontage, an adjacent parcel, a common area or a community golf course, and it names artificial turf. A green in a fenced rear yard usually clears that test. One a fairway looks onto is not. <a href=\"/guides/florida-friendly-landscaping-and-hoas/\">The Florida HOA rules</a>."
     ],
     "sources": [
-     {
-      "label": "PGA TOUR — company contact page (via archive/research/jacksonville.json, golf layer, checked 2026-09-07)",
-      "cite": "PGA TOUR national headquarters, 1 PGA Tour Blvd., Ponte Vedra Beach, FL 32082.",
-      "url": "https://www.pgatour.com/company/contact",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "TPC at Sawgrass (via archive/research/jacksonville.json, golf layer, checked 2026-09-07)",
-      "cite": "Stadium Course 17th: a 137-yard par-3 island green, 78 feet long, designed by Pete and Alice Dye, built autumn 1980. THE PLAYERS Championship has been held there since 1982.",
-      "url": "https://en.wikipedia.org/wiki/TPC_at_Sawgrass",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Florida's First Coast of Golf — course directory (via archive/research/jacksonville.json, golf layer, checked 2026-09-07)",
-      "cite": "States that Northeast Florida is home to 68 publicly accessible golf courses; its promotional region covers Amelia Island, Jacksonville and the Beaches, St. Augustine, Ponte Vedra, Clay County and Palm Coast.",
-      "url": "https://www.florida-golf.org/courses/",
-      "checked": "2026-09-08"
-     },
      {
       "label": "Fla. Stat. 720.3045",
       "cite": "\"Regardless of any covenants, restrictions, bylaws, rules, or requirements of an association… an association may not restrict parcel owners or their tenants from installing, displaying, or storing any items on a parcel which are not visible from the parcel's frontage or an adjacent parcel, an adjacent common area, or a community golf course, including, but not limited to, artificial turf…\"",
@@ -453,8 +433,7 @@
     "h2": "What a field costs, on public record",
     "body": [
      "Aurora Public Schools' stadium field at Hinkley High School took 81,095 square feet of AstroTurf over a Brock Powerbase YSR shock pad with BrockFILL infill, completed in 2024. Riverside High School in Jacksonville, the first Duval County public school to get a synthetic playing surface, was reported at 91,000 square feet when it was unveiled on 18 October 2022. That is the working size of one high school field.",
-     "Nassau County publishes the contract value. On 27 February 2025 its school board approved a $1.7 million athletic facilities upgrade at West Nassau High School in Callahan, of which AstroTurf Corporation held the primary contract at $1,328,070. The scope was excavation of up to 7.5 inches of the existing surface, a drainage base, and turf with custom midfield logos and end-zone lettering under an eight-year manufacturer warranty.",
-     "The money behind fields like these is published too. Duval County Public Schools reports ten high school turf fields completed or in progress, paid from roughly six percent of its voter-approved 1-mill revenue &mdash; $6.1 million of about $121.3 million in 2025-26."
+     "Nassau County publishes the contract value. On 27 February 2025 its school board approved a $1.7 million athletic facilities upgrade at West Nassau High School in Callahan, of which AstroTurf Corporation held the primary contract at $1,328,070. The scope was excavation of up to 7.5 inches of the existing surface, a drainage base, and turf with custom midfield logos and end-zone lettering under an eight-year manufacturer warranty."
     ],
     "sources": [
      {
@@ -465,7 +444,7 @@
      },
      {
       "label": "Duval County Public Schools — Riverside High School turf field",
-      "cite": "Riverside High School was the first Duval County public school to receive an AstroTurf playing surface, unveiled 18 October 2022; reported as a 91,000-square-foot turf field. DCPS Director of Athletics Tammie Talley stated at the time that every high school would be getting a new turf field.",
+      "cite": "Riverside High School was the first Duval County public school to receive an AstroTurf playing surface, unveiled 18 October 2022; reported as a 91,000-square-foot turf field.",
       "url": "https://www.duvalschools.org/article/2731211",
       "checked": "2026-09-08"
      },
@@ -473,12 +452,6 @@
       "label": "Nassau County Record — Warrior Field renovation, West Nassau High School",
       "cite": "Nassau County School Board approved a $1.7 million athletic facilities upgrade at West Nassau High School (Callahan) on 27 February 2025; AstroTurf Corporation of Dalton, Georgia held the primary contract at $1,328,070; scope included excavation of up to 7.5 inches of field surface, installation of a drainage base, and new turf with custom midfield logos and end-zone lettering under an eight-year manufacturer warranty; ribbon cutting 5 September 2025.",
       "url": "https://www.nassaucountyrecord.com/local-newsletter/warrior-field-renovation-underway-west-nassau-high-school",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Duval County Public Schools — How Duval uses 1-mill funds",
-      "cite": "10 High School Turf Fields listed as completed or in progress, delivered with roughly 6% of voter-approved 1-mill property tax revenue. For 2025-26 the 1 mill brought approximately $121.3 million to the district, with $6.1 million allocated to Athletics Program Enhancements.",
-      "url": "https://www.duvalschools.org/page/how-duval-uses-1-mill-funds",
       "checked": "2026-09-08"
      }
     ]
@@ -513,52 +486,6 @@
       "label": "Florida DEP — Synthetic Turf FAQ on Rule 62-308.100, F.A.C.",
       "cite": "\"Does this rule apply to condominiums, duplexes, parks, athletic fields or commercial properties? No. This rule only applies to single-family residential properties that are 1 acre or less in size.\" \"Do I need a DEP permit or other approval from DEP? No.\" \"Does DEP inspect or enforce synthetic turf installations? No.\" Published by the Division of Water Restoration Assistance, document last modified 4 August 2026.",
       "url": "https://floridadep.gov/sites/default/files/SyntheticTurfFAQ%20final.pdf",
-      "checked": "2026-09-08"
-     }
-    ]
-   },
-   {
-    "h2": "Public field work is gated before the turf spec",
-    "body": [
-     "Colorado gates it by statute. Under C.R.S. 38-26-106, a contractor awarded a contract exceeding $50,000 for public works for a county, city, municipality, school district or other political subdivision must furnish a bond in a penal sum not less than one-half of the total amount payable under the terms of the contract. Until that bond is executed, delivered and filed, no claim by the contractor under the contract may be audited, allowed or paid.",
-     "There is no single Colorado bid threshold. C.R.S. 24-92-103 requires public notice at least fourteen days before bid opening and award to the lowest responsible bidder, but each public body sets its own dollar line. Denver raised its formal bidding threshold to $150,000, approved by the Mayor on 8 January 2025.",
-     "South Carolina reaches the same place differently. SC Code 11-35-5320 requires every county, municipality and school district to adopt its own procurement ordinance, so there is no statewide municipal threshold either. The City of Myrtle Beach publishes its ladder: three quotes from $5,000.01 to $15,000, three quotes posted online up to $50,000, and a formal sealed IFB or RFP above that. A field also clears both Carolina contractor-licensing thresholds: $10,000 for general contracting under SC Code 40-11-30, and $30,000 per job site over a rolling twelve months under N.C. G.S. 89D-13(5)."
-    ],
-    "sources": [
-     {
-      "label": "C.R.S. 38-26-106 — bonds required on public works contracts",
-      "cite": "A contractor awarded a contract exceeding $50,000 for construction, repair or improvement of public works for a county, city, municipality, school district or other political subdivision must furnish a bond or acceptable surety \"in a penal sum not less than one-half of the total amount payable under the terms of the contract\"; the threshold is $150,000 for state contracts. Until the bond is executed, delivered and filed, no claim by the contractor under the contract may be audited, allowed or paid.",
-      "url": "https://codes.findlaw.com/co/title-38-property-real-and-personal/co-rev-st-sect-38-26-106/",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "C.R.S. 24-92-103 — invitations for bids on public projects",
-      "cite": "Adequate public notice must be given at least fourteen days before bid opening; contracts are awarded to the \"lowest responsible bidder\"; Article 24-92 sets no single statewide formal-bidding dollar threshold, so each public body sets its own.",
-      "url": "https://codes.findlaw.com/co/title-24-government-state/co-rev-st-sect-24-92-103/",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "City and County of Denver — Council legislation raising the formal bidding threshold",
-      "cite": "Denver raised its formal bidding threshold to $150,000 citywide, with informal bidding below that figure. Passed City Council 6 January 2025, approved by the Mayor 8 January 2025.",
-      "url": "https://denver.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=26584",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "SC Code Ann. Title 11 Chapter 35 — Consolidated Procurement Code, Sec. 11-35-5320",
-      "cite": "Requires all political subdivisions of the State — counties, municipalities and school districts — to adopt their own procurement ordinances embodying sound principles of appropriately competitive procurement, so each sets its own thresholds and there is no single statewide municipal bid threshold.",
-      "url": "https://www.scstatehouse.gov/code/t11c035.php",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "SC Code Ann. 40-11-30 — Contractors' Licensing Board",
-      "cite": "\"No entity or individual may practice as a contractor by performing or offering to perform contracting work for which the total cost of construction is greater than ten thousand dollars for general contracting... without a license issued in accordance with this chapter.\" Threshold raised from $5,000 by 2023 Act No. 69, effective 19 May 2023. 40-11-20(10) defines general construction as \"improvement of any kind to real property\".",
-      "url": "https://www.scstatehouse.gov/code/t40c011.php",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "N.C. Gen. Stat. Chapter 89D — Landscape Contractors",
-      "cite": "89D-13(5) exempts \"Any landscaping work where the price of all contracts for labor, material, and other items for a given job site during any consecutive 12-month period is less than thirty thousand dollars ($30,000)\" and bars local governments from requiring licensure for that work.",
-      "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_89D.html",
       "checked": "2026-09-08"
      }
     ]
@@ -604,7 +531,7 @@
    {
     "h2": "Florida's infill rule stops at the front door of a business",
     "body": [
-     "Rule 62-308.100, Florida Administrative Code, took effect 19 May 2026 and limits infill on a residential lot to clean silica sand, rock, shell or other natural material, with rubber allowed only within the footprint of playground equipment. It does not reach a gym. DEP's own FAQ answers the scope question in a line: \"Does this rule apply to condominiums, duplexes, parks, athletic fields or commercial properties? North Myrtle Beach's Sec. 23-129.4, added by Ord. No. 25-45 on 6 October 2025, is the one written route through, and only on single-family and duplex work not subject to site-specific development plan review. The surface counts as pervious if it demonstrates a minimum infiltration rate of two inches per hour on manufacturer testing or accepted industry standards, is installed to manufacturer specification, passes inspection and is maintained. \"If these criteria are not met, the surface will be considered impervious, regardless of material type or labeling.\" This rule only applies to single-family residential properties that are 1 acre or less in size.\"",
+     "Rule 62-308.100, Florida Administrative Code, took effect 19 May 2026 and limits infill on a residential lot to clean silica sand, rock, shell or other natural material, with rubber allowed only within the footprint of playground equipment. It does not reach a gym. DEP's own FAQ answers the scope question in a line: \"Does this rule apply to condominiums, duplexes, parks, athletic fields or commercial properties? No. This rule only applies to single-family residential properties that are 1 acre or less in size.\"",
      "That cuts both ways. The infill restriction does not bind an indoor facility, and neither does the protection it unlocks — section 125.572(3)(a), Florida Statutes, bars a local government from prohibiting compliant synthetic turf on single-family residential property, and a training center is not that.",
      "Indoors the infill argument runs on different evidence. A 2020 laboratory study in Sports Health found MRSA recoverable for up to 96 hours on infill and 24 hours on turf fibers. Time to 50 percent loss of viability was 2 hours on EPDM rubber, 7 on cork-based, 9 on polymer-coated, 12 on crumb rubber, 13 on TPE and 27 hours on sand. Nothing rains on an indoor field. The Jaguars' indoor practice field at the Miller Electric Center in Jacksonville is built on coconut fiber and cork infill."
     ],
@@ -640,34 +567,6 @@
       "checked": "2026-09-08"
      }
     ]
-   },
-   {
-    "h2": "The indoor turf already in these three markets",
-    "body": [
-     "The City of Westminster Parks, Recreation and Libraries department runs the Westminster Sports Center, which has two indoor turf fields, both with dasher board systems and new turf, used for adult and youth indoor soccer leagues, preschool programs, drop-in play and birthday parties.",
-     "Blue Sport Stable at 1 Superior Drive in Superior is a 186,000 square foot multi-surface facility with indoor turf fields, two ice rinks, courts and golf simulators, open to the public 7am to 9pm. Gameday Baseball runs 30,000 square feet of indoor training space across Parker and Arvada, including a full-size infield, batting cages and pitching lanes.",
-     "On the Grand Strand the largest indoor court complex is not turf. The John T. Rhodes Myrtle Beach Sports Center is reported as 100,000 square feet of column-free hardwood, configured as eight basketball or sixteen volleyball courts, and its recent upgrade was a floor resurfacing."
-    ],
-    "sources": [
-     {
-      "label": "City of Westminster — Westminster Sports Center",
-      "cite": "Operated by the City of Westminster Parks, Recreation & Libraries department; two indoor turf fields \"both with state of the art dasher board systems and new turf\", used for adult and youth indoor soccer leagues, preschool/tot programs, drop-in play and birthday parties.",
-      "url": "https://www.westminsterco.gov/410/Westminster-Sports-Center",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Gameday Baseball — facility page",
-      "cite": "30,000 sq ft of indoor training space across two Denver-metro sites: 9345 Double Angel Rd, Parker (indoor bubble with full-size infield, batting cages, pitching lanes, strength area) and 8270 W. 80th Ave Unit 12, Arvada.",
-      "url": "https://gamedaybaseball.com/facility",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Playeasy — \"A Decade of Impact and a New Chapter: Myrtle Beach's Premier Sports Venues\" (30 June 2025)",
-      "cite": "John T. Rhodes Myrtle Beach Sports Center is a 100,000-square-foot indoor facility with a column-free hardwood playing area configured as 8 basketball courts or 16 volleyball courts; recent upgrades were a complete floor resurfacing and LED lighting. Recorded in the research file at medium confidence, which is why the page says \"reported as\".",
-      "url": "https://blog.playeasy.com/2025/06/30/a-decade-of-impact-and-a-new-chapter-myrtle-beachs-premier-sports-venues-set-the-pace/",
-      "checked": "2026-09-08"
-     }
-    ]
    }
   ],
   "guide_links": [
@@ -686,7 +585,7 @@
    {
     "h2": "North Carolina wrote the base standard down",
     "body": [
-     "Two of our four states wrote down how artificial turf should be installed. Florida did it in 2026 as an environmental rule. North Carolina did it in 2016 as a licensing rule, and North Carolina's is the older and more specific of the two. North Carolina did. 21 NCAC 28B .0503(b), effective 1 September 2016 and amended 1 July 2021, requires a licensed landscape contractor to compact and pitch the sub-grade to drain, establish a perimeter attachment system, roll the turf with the nap facing a consistent direction, secure it with an evenly weighted sand layer, and follow the manufacturer's specifications.",
+     "Two of our four states wrote down how artificial turf should be installed. Florida did it in 2026 as an environmental rule. North Carolina did it in 2016 as a licensing rule, and North Carolina's is the older and more specific of the two. 21 NCAC 28B .0503(b), effective 1 September 2016 and amended 1 July 2021, requires a licensed landscape contractor to compact and pitch the sub-grade to drain, establish a perimeter attachment system, roll the turf with the nap facing a consistent direction, secure it with an evenly weighted sand layer, and follow the manufacturer's specifications.",
      "The same standard carries money on the Carolina coast. G.S. 143-214.7D(b)(6) excludes artificial turf from built-upon area only where it is manufactured to drain through the backing and installed to the manufacturer's specifications over a pervious surface, and (b)(3) separately excludes number 57 stone at least four inches thick over geotextile fabric. Whether the base already in the ground is that assembly decides whether a replacement keeps the exclusion.",
      "North Myrtle Beach put maintenance into the same test. Sec. 23-129.4, added by Ordinance 25-45 on 6 October 2025, requires a surface to demonstrate a minimum infiltration rate of two inches per hour, be installed to manufacturer specification, pass inspection and be maintained, and states that if these criteria are not met the surface will be considered impervious, regardless of material type or labeling."
     ],
@@ -786,7 +685,7 @@
     "body": [
      "Horry County's USDA soil survey divides 736,000 acres into twelve general soil map units. The largest, Yauhannah-Ogeechee-Bladen, is 19 percent of the county and rated moderately well to poorly drained. Woodington-Goldsboro-Pocomoke is another 15.5 percent, rated poorly, moderately well and very poorly drained. The one unit with excessively drained soils, Lakeland-Leon-Newhan on the dunes and ridges along the ocean, is 4.5 percent of the county — 32 percent Lakeland against 15 percent poorly drained Leon.",
      "Those names carry published water table depths. Under Leon fine sand the water table sits 6 to 18 inches down for one to four months in most years. Woodington runs 0 to 12 inches, December to May. Ogeechee ranges from a foot down to a foot of standing water above the surface. Across the state line, NRCS rates Leon fine sand \"Very limited\" for small commercial buildings in Brunswick County, and gives the reason as depth to saturated zone at 1.00 — the top of the severity scale.",
-     "The sand itself moves water quickly. Baymeade is rated 6 to 20 inches per hour through its top three feet. Both sets of numbers are published: 6 to 20 inches an hour through Baymeade's top three feet, and, on the Leon, Woodington and Ogeechee flats, a water table between the surface and 18 inches down for months at a time."
+     "The sand itself moves water quickly: Baymeade is rated 6 to 20 inches per hour through its top three feet. On the Leon, Woodington and Ogeechee flats, the water table sits between the surface and 18 inches down for months at a time."
     ],
     "sources": [
      {
@@ -833,33 +732,6 @@
       "label": "Brunswick County NC Unified Development Ordinance, Sec. 6.11.2.H.I",
       "cite": "Roads not maintained by NCDOT \"shall be dedicated to a property owners association\"; \"The property owners association shall be established before the lots are sold\"; \"Membership in the association shall be mandatory for each lot buyer and all successive buyers.\"",
       "url": "https://www.brunswickcountync.gov/DocumentCenter/View/5460",
-      "checked": "2026-09-08"
-     }
-    ]
-   },
-   {
-    "h2": "Sixty-six golf courses in sixty miles — and a second buyer that is public",
-    "body": [
-     "A Grand Strand tee-time site lists \"All 66 championship courses across 60 miles of coast\": counted by town, 18 in Myrtle Beach, 9 in Sunset Beach, 9 in Pawleys Island, 7 in North Myrtle Beach, and 4 each in Longs, Murrells Inlet and Conway. The area's course owners association, founded in 1978, counts over 70 within a 50-mile radius. Brunswick County counts more than 20 championship courses along 45 miles of coast.",
-     "The other buyer here is public. The City of Myrtle Beach finished renovating all nine fields at the Styers Athletic Complex in February 2026, and all nine now carry synthetic grass and lights. A WMBF News report lists a Horry County Schools baseball and softball field program running to 2029: Conway and Aynor first, then Carolina Forest and Green Sea Floyds, St. James and Myrtle Beach in 2027, Loris and Socastee in 2028, North Myrtle Beach in 2029. The report describes seating, press boxes, dugouts and cages; it does not say the playing surfaces are synthetic. The City of Myrtle Beach posts and receives all solicitations through BidNet Direct, and registration there is required to submit a bid."
-    ],
-    "sources": [
-     {
-      "label": "Myrtle Beach Area Golf Course Owners Association",
-      "cite": "\"over 70 golf courses\" within \"a 50-mile radius\" of Myrtle Beach; association founded 1978.",
-      "url": "https://www.myrtlebeachgolfpassport.com/about/",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Myrtle Beach Area CVB press release, 23 July 2026",
-      "cite": "Styers Athletic Complex at Grand Park completed a full renovation of all nine fields in February 2026, \"each field receiving new turf, including around the pitching mound and home plate for improved durability and weather resilience.\"",
-      "url": "https://www.visitmyrtlebeach.com/press/myrtle-beach-area-scores-big-with-new-sports-facilities-expansions-upgrades",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Official Myrtle Beach Sports — Styers Athletic Complex",
-      "cite": "Seven large multipurpose fields and two youth fields: \"All have synthetic grass and lights.\"",
-      "url": "https://www.officialmyrtlebeachsports.com/styers-athletic-complex.html",
       "checked": "2026-09-08"
      }
     ]
@@ -947,52 +819,6 @@
       "checked": "2026-09-08"
      }
     ]
-   },
-   {
-    "h2": "Golf, school fields and indoor facilities are all concentrated here.",
-    "body": [
-     "Castle Pines Golf Club in Douglas County hosted the BMW Championship in August 2024, and hosted The International on the PGA Tour from 1986 through 2006. Cherry Hills Country Club has hosted three U.S. Opens. Green Valley Ranch in northeast Denver is the home of the Colorado Open Championships.",
-     "The field work is publicly funded. Denver Public Schools' 2024 bond allocates $33 million to athletic facilities across fourteen named sites, explicitly including installing artificial turf. Adams 12 Five Star Schools passed an $830 million bond and states it is installing new synthetic turf fields. The Hinkley High School stadium in Aurora took an 81,095 square foot turf installation in 2024.",
-     "Indoor is its own category. Blue Sport Stable in Superior puts turf, ice, courts, a gym and golf simulators under one roof, Westminster Sports Center runs two indoor turf fields, and TOCA Denver operates a year-round indoor soccer center in Central Park. We install indoor facility turf, as well as commercial and pet turf."
-    ],
-    "sources": [
-     {
-      "label": "Cherry Hills Country Club — club record",
-      "cite": "Founded 1922, Cherry Hills Village. Has hosted three U.S. Opens (1938, 1960, 1978), two PGA Championships (1941, 1985), the U.S. Women's Open (2005), the U.S. Senior Open (1993) and the BMW Championship (2014). Checked 2026-09-07.",
-      "url": "https://en.wikipedia.org/wiki/Cherry_Hills_Country_Club",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Chalkbeat Colorado — Denver Public Schools 2024 bond project list",
-      "cite": "DPS's 2024 bond (ballot measure 4A, $975 million, passed November 2024) allocates $33 million to athletic facilities upgrades, explicitly including installing artificial turf, across fourteen named sites: Abraham Lincoln HS, All City Stadium, Bruce Randolph School, East HS, Evie Dennis Stadium, George Washington HS, John F. Kennedy HS, Manual HS, North HS, Paul Sandoval Campus, Regis Groff Campus, South HS, Thomas Jefferson HS and West HS. Checked 2026-09-07.",
-      "url": "https://www.chalkbeat.org/colorado/2024/06/20/denver-public-schools-2024-bond-recommendation-projects/",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Adams 12 Five Star Schools — bond program page",
-      "cite": "$830 million bond (measure 5E) approved November 2024. The district's bond program page states it is installing new synthetic turf fields at several sites, described as all-weather fields supporting year-round school, athletic and community use. Checked 2026-09-07.",
-      "url": "https://www.adams12.org/our-district/bond-program",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Brock USA — Aurora Public Schools Stadium at Hinkley High School project page",
-      "cite": "81,095 sq ft artificial turf installation completed in 2024 at the APS Stadium, Hinkley High School, Aurora, using AstroTurf with BrockFILL infill over a Brock Powerbase YSR shock pad. Checked 2026-09-07.",
-      "url": "https://www.brockusa.com/projects/aurora-public-schools-hinkley-high-school-aurora-public-schools-stadium/",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "City of Westminster — Westminster Sports Center",
-      "cite": "Operated by Westminster Parks, Recreation & Libraries; has two indoor turf fields, \"both with state of the art dasher board systems and new turf,\" used for adult and youth indoor soccer leagues and drop-in play. Checked 2026-09-07.",
-      "url": "https://www.westminsterco.gov/410/Westminster-Sports-Center",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "TOCA Football — TOCA Denver",
-      "cite": "Indoor, year-round soccer and fitness center at 2400 Central Park Blvd, Denver, CO 80238, in the Central Park neighborhood; training, leagues, field rentals, open Mon–Fri 5:30am–midnight. Checked 2026-09-07.",
-      "url": "https://www.tocafootball.com/centers/denver",
-      "checked": "2026-09-08"
-     }
-    ]
    }
   ],
   "guide_links": [
@@ -1050,57 +876,6 @@
       "label": "USDA Official Series Description — Leon series",
       "cite": "Leon is an Aeric Alaquod, poorly to very poorly drained, with the spodic Bh horizon starting within 30 inches of the surface and a seasonal water table at 0–18 inches, apparent saturation March through September. Leon is the most common poorly drained component in Duval (13.0%), Nassau (10.7%) and Clay (9.1%).",
       "url": "https://soilseries.sc.egov.usda.gov/OSD_Docs/L/LEON.html",
-      "checked": "2026-09-08"
-     }
-    ]
-   },
-   {
-    "h2": "Golf density, and the buyer that is not a homeowner.",
-    "body": [
-     "The PGA TOUR's headquarters is at 1 PGA Tour Blvd in Ponte Vedra Beach, and TPC Sawgrass, whose Stadium Course 17th is a 137-yard par 3 to an island green, is in the same town. Florida's First Coast of Golf counts 68 publicly accessible courses across Northeast Florida, a promotional region that runs south to Palm Coast. Amelia Island alone has 99 holes across seven facilities. Nocatee, 13,000 to 14,000 homes at build-out, has none; three were planned and never built.",
-     "The other buyer here is public. Duval County Public Schools counts ten high school turf fields completed or in progress, from about six percent of its voter-approved one-mill revenue — $6.1 million for athletics in 2025-26. Nassau County's school board approved a $1.7 million athletic upgrade at West Nassau High School in Callahan, of which $1,328,070 was the turf contract. St. Johns County's Silverleaf Sportsplex, $36 million and expected to open in early 2027, has four synthetic multipurpose fields and a synthetic stadium field."
-    ],
-    "sources": [
-     {
-      "label": "PGA TOUR — company contact page",
-      "cite": "PGA TOUR national headquarters, 1 PGA Tour Blvd., Ponte Vedra Beach, FL 32082.",
-      "url": "https://www.pgatour.com/company/contact",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "TPC at Sawgrass — encyclopedia entry",
-      "cite": "TPC Sawgrass is in Ponte Vedra Beach, St. Johns County; the Stadium Course 17th is a 137-yard par-3 island green designed by Pete and Alice Dye, built autumn 1980.",
-      "url": "https://en.wikipedia.org/wiki/TPC_at_Sawgrass",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Florida's First Coast of Golf — courses",
-      "cite": "Northeast Florida is home to 68 publicly accessible golf courses; the promotional region covers Amelia Island, Jacksonville and The Beaches, St. Augustine, Ponte Vedra & The Beaches, Clay County and Palm Coast & The Flagler Beaches.",
-      "url": "https://www.florida-golf.org/courses/",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Florida's First Coast of Golf — Amelia Island",
-      "cite": "Amelia Island has 99 holes of golf across seven facilities: Amelia National, Fernandina Beach Golf Club (27 holes), Oak Marsh, Little Sandy (10 holes), The Amelia River Club, North Hampton and The Golf Club of Amelia Island.",
-      "url": "https://www.florida-golf.org/courses/amelia-island/",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Duval County Public Schools — How Duval uses 1-mill funds",
-      "cite": "Ten High School Turf Fields completed or in progress using roughly 6% of the voter-approved 1-mill property tax revenue; $6.1 million allocated to Athletics Program Enhancements for 2025-26.",
-      "url": "https://www.duvalschools.org/page/how-duval-uses-1-mill-funds",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Nassau County Record — Warrior field renovation underway at West Nassau High School",
-      "cite": "Nassau County School Board approved a $1.7 million athletic facilities upgrade on 27 February 2025; AstroTurf Corporation held the primary contract at $1,328,070 for the synthetic replacement of the West Nassau High School (Callahan) football/soccer field, under an eight-year manufacturer warranty.",
-      "url": "https://www.nassaucountyrecord.com/local-newsletter/warrior-field-renovation-underway-west-nassau-high-school",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "St. Johns County — Silverleaf Sportsplex and Shearwater Community Park under construction",
-      "cite": "$36 million, 40-acre Silverleaf Sportsplex with four multipurpose synthetic turf fields, three natural grass fields and one synthetic turf stadium field with track; groundbreaking 20 June 2025, opening expected early 2027.",
-      "url": "https://www.sjcfl.us/silverleaf-sportsplex-and-shearwater-community-park-under-construction/",
       "checked": "2026-09-08"
      }
     ]
@@ -1288,7 +1063,7 @@
     "body": [
      "Colorado regulates the water. SB24-005 created Article 99 of Title 37 in 2024 and banned artificial turf outright on covered property. HB25-1113 rewrote C.R.S. 37-99-103(1) in 2025 to insert the word NONFUNCTIONAL in front of \"artificial turf,\" and took effect 6 August 2025. The prohibition binds local entities from 1 January 2026 and reaches commercial, institutional and HOA-common property. Single-family homes are outside it.",
      "North Carolina regulates the runoff, and it decided in the installer's favor. G.S. 143-214.7D(b)(6) says artificial turf manufactured to drain through its backing and installed to the manufacturer's specification over a pervious surface is not built-upon area, and subsection (d) bars a local government from adopting a definition that does not comply.",
-     "South Carolina we found nothing on, in the codes we searched or at state level. We found no equivalent statute, and none of the South Carolina codes we read names artificial turf at all. Horry County's Sec. 17.7-16 counts \"compacted gravel and soil surfaces, awnings and other fabric or plastic coverings\" as impervious without naming turf. North Myrtle Beach's Sec. 23-129.4, added by Ord. No. 25-45 on 6 October 2025, is the one written route through, and only on single-family and duplex work not subject to site-specific development plan review. The surface counts as pervious if it demonstrates a minimum infiltration rate of two inches per hour on manufacturer testing or accepted industry standards, is installed to manufacturer specification, passes inspection and is maintained. \"If these criteria are not met, the surface will be considered impervious, regardless of material type or labeling.\" North Myrtle Beach's Sec. 23-129.4, added by Ord. \"If these criteria are not met, the surface will be considered impervious, regardless of material type or labeling.\"",
+     "South Carolina we found nothing on, in the codes we searched or at state level. We found no equivalent statute, and none of the South Carolina codes we read names artificial turf at all. Horry County's Sec. 17.7-16 counts \"compacted gravel and soil surfaces, awnings and other fabric or plastic coverings\" as impervious without naming turf. North Myrtle Beach's Sec. 23-129.4, added by Ord. No. 25-45 on 6 October 2025, is the one written route through, and only on single-family and duplex work not subject to site-specific development plan review. The surface counts as pervious if it demonstrates a minimum infiltration rate of two inches per hour on manufacturer testing or accepted industry standards, is installed to manufacturer specification, passes inspection and is maintained. \"If these criteria are not met, the surface will be considered impervious, regardless of material type or labeling.\"",
      "Florida regulates the build. Section 125.572, Florida Statutes, created by HB 683 in 2025, stops a local government prohibiting compliant synthetic turf on single-family residential property once DEP adopts standards, and DEP adopted them as Rule 62-308.100, F.A.C., effective 19 May 2026. DEP's own FAQ narrows what that means: the rule applies to single-family residential property of one acre or less, DEP issues no permits, runs no inspection or enforcement program, and does not address HOA requirements."
     ],
     "sources": [
@@ -1404,8 +1179,8 @@
     "h2": "What we have not settled",
     "body": [
      "Two published readings of Colorado's multifamily date disagree. The Division of Real Estate told its 2025 HOA Forum that the twelve-plus-unit expansion applies on or after 1 January 2026. Western Resource Advocates' compliance guide and the Town of Fraser's staff report read the same obligation as 1 January 2028. We have not resolved which is right.",
-     "Other gaps we name rather than paper over. Georgetown County, South Carolina and Columbus County, North Carolina were not researched, and Murrells Inlet sits in Georgetown, not Horry. Horry County's stormwater utility service charge credit manual could not be obtained. Castle Pines North Metropolitan District publishes no sentence naming artificial turf, so any exclusion there is inference rather than text.",
-     "Every page below carries the date we last checked it, and lists its sources at the foot with the statute section and the link. Check them."
+     "Georgetown County, South Carolina and Columbus County, North Carolina were not researched, and Murrells Inlet sits in Georgetown, not Horry. Horry County's stormwater utility service charge credit manual could not be obtained. Castle Pines North Metropolitan District publishes no sentence naming artificial turf, so any exclusion there is inference rather than text.",
+     "Every page below carries the date we last checked it, and lists its sources at the foot with the statute section and the link."
     ],
     "sources": [
      {

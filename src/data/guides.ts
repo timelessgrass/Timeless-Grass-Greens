@@ -16,7 +16,7 @@ export const GUIDES: Guide[] = [
   {
     "answer": {
       "question": "Is artificial turf illegal in Colorado?",
-      "answer": "TIMELESS Grass & Greens installs artificial turf across the Denver metro. Colorado has not banned it. SB24-005, as amended by HB25-1113, prohibits nonfunctional artificial turf on commercial, institutional and HOA-common property. Functional artificial turf is defined at C.R.S. 37-99-102(6.5) and permitted, and single-family homes sit outside the state prohibition. Your own town's code can still be stricter. Ask us about your address: 303-349-2368."
+      "answer": "We install artificial turf across the Denver metro. Colorado has not banned it. SB24-005, as amended by HB25-1113, prohibits nonfunctional artificial turf on commercial, institutional and HOA-common property. Functional artificial turf is defined at C.R.S. 37-99-102(6.5) and permitted, and single-family homes sit outside the state prohibition. Your own town's code can still be stricter. Ask us about your address: 303-349-2368."
     },
     "description": "Colorado bans nonfunctional artificial turf, not all of it. HB25-1113 defines functional artificial turf, and the golf-course list is in the statute.",
     "faq": [
@@ -30,7 +30,7 @@ export const GUIDES: Guide[] = [
       },
       {
         "q": "Can my HOA ban artificial turf in my back yard?",
-        "a": "Not by a flat prohibition on a detached single-family home. C.R.S. 38-33.3-106.5(1)(i.5), added by SB23-178, provides that association design guidelines must not prohibit nonvegetative turf grass in the backyard of a unit owner's property, with a 45-day written notice to cure and a remedy of the greater of five hundred dollars or actual damages. The phrase itself entered Colorado law through HB21-1229 in 2021. Two honest limits: the protection is back-yard only — an association may restrict nonvegetative turf grass to rear yards — and the term is not defined in the definitions subsection at C.R.S. 37-60-126(11)(b). Submit the plan, cite the section, get the answer in writing."
+        "a": "Not by a flat prohibition on a detached single-family home. C.R.S. 38-33.3-106.5(1)(i.5), added by SB23-178, provides that association design guidelines must not prohibit nonvegetative turf grass in the backyard of a unit owner's property, with a 45-day written notice to cure and a remedy of the greater of five hundred dollars or actual damages. The phrase itself entered Colorado law through HB21-1229 in 2021. Two limits: the protection is back-yard only — an association may restrict nonvegetative turf grass to rear yards — and the term is not defined in the definitions subsection at C.R.S. 37-60-126(11)(b). Submit the plan, cite the section, get the answer in writing."
       },
       {
         "q": "Is there a Colorado rebate for artificial turf?",
@@ -53,7 +53,7 @@ export const GUIDES: Guide[] = [
         "body": [
           "HB25-1113 added a definition of functional artificial turf at C.R.S. 37-99-102(6.5). Inside it sits a list written for our trade. The definition names the playing area of a golf course, \"a driving range, chipping and putting green, tee box, green, fairway, and rough.\"",
           "Read that again. Driving ranges, chipping and putting greens, tee boxes. Those are not our words for our own product line — they are the legislature's. SB24-005 had already excepted athletic fields of play in 2024.",
-          "Then 37-99-102(12.5) closes the circle: nonfunctional artificial turf is artificial turf that is not functional artificial turf. A decorative green lawn outside an office building is the kind of installation the prohibition is aimed at. We are not going to tell you otherwise to win the job."
+          "Then 37-99-102(12.5) closes the circle: nonfunctional artificial turf is artificial turf that is not functional artificial turf. A decorative green lawn outside an office building is the kind of installation the prohibition is aimed at."
         ]
       },
       {
@@ -68,23 +68,23 @@ export const GUIDES: Guide[] = [
         "h2": "The dates — including the one where guidance disagrees",
         "body": [
           "Three dates matter. From 1 January 2025, SB24-005's restriction on state-facility projects. From 1 January 2026, the prohibition on local entities under 37-99-103(1). And 1 January 2028, the later compliance date carried by the limbs HB25-1113 added at 37-99-103(5) and 37-99-104(1).",
-          "On the multifamily date, published guidance genuinely conflicts, and we would rather flag that than pick the answer we prefer. Colorado's Division of Real Estate told its 2025 HOA Forum that the twelve-plus-unit expansion applies \"on or after January 1, 2026.\" Western Resource Advocates' compliance guide and the Town of Fraser's staff report read it as a 1 January 2028 obligation. We have not resolved which reading is right, and we are not going to guess in the direction that suits us. If you manage more than twelve units, ask your municipality which date it adopted.",
+          "Published guidance disagrees on the multifamily date. Colorado's Division of Real Estate told its 2025 HOA Forum that the twelve-plus-unit expansion applies \"on or after January 1, 2026.\" Western Resource Advocates' compliance guide and the Town of Fraser's staff report read it as a 1 January 2028 obligation. If you manage more than twelve units, ask your municipality which date it adopted.",
           "Whatever the state text says, the document your plan reviewer applies is your municipality's own adopted code. 37-99-103(4)(d) lets a local entity be more stringent than the state floor, and \"local entity\" at 37-99-102(9) includes special and metropolitan districts — so in a metro-district community a district rule can sit above the town code. Ask for both in writing before material is ordered."
         ]
       },
       {
-        "h2": "What we checked, and what we will not claim",
+        "h2": "Your town can be stricter, and the state will not pay",
         "body": [
-          "We have not confirmed whether any Denver-metro municipality or district has used that more-stringent power against functional artificial turf as well. It is a code-by-code question, and we ask for the adopted text in writing before we quote a commercial job rather than summarizing a document we have not read.",
+          "We have not confirmed whether any Denver-metro municipality or district has used that more-stringent power against functional artificial turf as well. It is a code-by-code question.",
           "State grant money will not pay for artificial turf. C.R.S. 37-60-135, the Turf Replacement Program statute, excludes artificial turf by name from what the money may be spent on; the Colorado Water Conservation Board stopped accepting applications in March 2025; and single-family homeowners and HOAs were never eligible applicants in the first place. Any rebate still running belongs to your water provider, not the state, and providers differ on whether synthetic counts."
         ]
       },
       {
-        "h2": "Why the law is an opening, not a problem",
+        "h2": "What the law leaves room for",
         "body": [
-          "Put the pieces together. The work the statute names by hand — driving ranges, chipping and putting greens, tee boxes, greens, fairways — is the work we build. Athletic fields of play were excepted from the 2024 text, and the 2025 amendment narrowed the prohibition to nonfunctional artificial turf.",
+          "Put the pieces together. The work the statute names by hand — driving ranges, chipping and putting greens, tee boxes, greens, fairways — sits outside the prohibition. Athletic fields of play were excepted from the 2024 text, and the 2025 amendment narrowed the prohibition to nonfunctional artificial turf.",
           "Article 99 places no restriction on artificial turf at a single-family home. What Colorado's landscape statutes push on, all the way through, is irrigated grass and the water it drinks. The pressure is on the sprinkler, not on the synthetic.",
-          "One boundary we will not cross: artificial turf is not water-wise landscaping for the purposes of the Turf Replacement Program. That statute excludes artificial turf by name and cross-references its water-wise landscaping standard at 37-60-135(2)(l). Turf removes irrigation from its own footprint, which is real and worth selling. It is not xeriscape, and an installer who tells an HOA board it is will be caught. For the accurate answer at your address, call 303-349-2368."
+          "One limit: artificial turf is not water-wise landscaping for the purposes of the Turf Replacement Program. That statute excludes artificial turf by name and cross-references its water-wise landscaping standard at 37-60-135(2)(l). Turf removes irrigation from its own footprint, and that saving is real, but it is not xeriscape. For the answer at your address, call 303-349-2368."
         ]
       }
     ],
@@ -169,7 +169,7 @@ export const GUIDES: Guide[] = [
     "updated": "2026-09-08",
     "answer": {
       "question": "Does artificial turf count as impervious surface in North Carolina or South Carolina?",
-      "answer": "In North Carolina, G.S. 143-214.7D says artificial turf manufactured to drain through its backing and installed to the manufacturer's specification over a pervious surface is not built-upon area, and a local government may not adopt a stricter definition. We found no equivalent South Carolina statute, so on the South Carolina side it comes down to how a permit desk applies a general impervious-surface definition that never names turf. TIMELESS Grass & Greens serves both sides of that line. One number for all three of our markets: 303-349-2368."
+      "answer": "In North Carolina, G.S. 143-214.7D says artificial turf manufactured to drain through its backing and installed to the manufacturer's specification over a pervious surface is not built-upon area, and a local government may not adopt a stricter definition. We found no equivalent South Carolina statute, so on the South Carolina side it comes down to how a permit desk applies a general impervious-surface definition that never names turf. We serve both sides of that line. One number for all three of our markets: 303-349-2368."
     },
     "sections": [
       {
@@ -185,7 +185,7 @@ export const GUIDES: Guide[] = [
         "body": [
           "North Carolina answered it in statute. G.S. 143-214.7D(b)(6) says that for purposes of implementing State or local government stormwater programs, this is not built-upon area or an impervious surface: <strong>\"Artificial turf, manufactured to allow water to drain through the backing of the turf, and installed according to the manufacturer's specifications over a pervious surface.\"</strong> The change came in Senate Bill 166; the engineering firm WithersRavenel dates it effective September 2024 and retroactive to July 2023.",
           "Both conditions are load-bearing. The turf must drain through its backing, and it must go in to the manufacturer's specification over a pervious surface. The same statute separately excludes number 57 stone at least four inches thick over geotextile fabric — the base underneath — so the whole assembly can be documented as exempt.",
-          "Then the part that ends arguments at the counter. Subsection (d) bars a local government from enacting, implementing or enforcing an ordinance, comprehensive plan or stormwater program whose definition of built-upon area or impervious surface does not comply with subsection (b). A town cannot write a stricter definition than the State's. Read subsection (d) at the statute link below before you take our word for it."
+          "Then the part that ends arguments at the counter. Subsection (d) bars a local government from enacting, implementing or enforcing an ordinance, comprehensive plan or stormwater program whose definition of built-upon area or impervious surface does not comply with subsection (b). A town cannot write a stricter definition than the State's."
         ]
       },
       {
@@ -206,7 +206,7 @@ export const GUIDES: Guide[] = [
       {
         "h2": "Four counties, and the two rulebooks we have not read",
         "body": [
-          "This market spans four counties that do not share a rulebook: Horry and Georgetown in South Carolina, Brunswick and Columbus in North Carolina. We can describe two of those four desks from their own text. We have not read Georgetown County's impervious-surface provisions, and we have not read Columbus County's either — we would rather say so than imply coverage we do not have. Murrells Inlet is in Georgetown County, not Horry: a separate permitting jurisdiction with its own codes and fees, so on a Murrells Inlet job that call gets made before we quote.",
+          "This market spans four counties that do not share a rulebook: Horry and Georgetown in South Carolina, Brunswick and Columbus in North Carolina. We can describe two of those four desks from their own text. We have not read Georgetown County's impervious-surface provisions, and we have not read Columbus County's either. Murrells Inlet is in Georgetown County, not Horry: a separate permitting jurisdiction with its own codes and fees, so in Murrells Inlet, call Georgetown County before you plan the job.",
           "On the North Carolina side the statute runs ahead of the local paperwork, so expect friction at the counter. Brunswick County's stormwater ordinance still defines built-upon area with the pre-2024 exclusion list and never mentions artificial turf. The Shallotte UDO, amended through April 2026, has still not conformed its definition either, and its built-upon area definition covers \"recreation facilities,\" a phrase a reviewer could reach for on a putting green. Neither ordinance overrides subsection (d), but both mean the reviewer is reading the statute against a local definition that has not caught up."
         ]
       },
@@ -215,7 +215,7 @@ export const GUIDES: Guide[] = [
         "body": [
           "The exemption is not a license to lay turf anywhere in North Carolina. In September 2021 the Coastal Resources Commission voted 10 to 1 to prohibit artificial turf within the 30-foot coastal shoreline buffer.",
           "CAMA jurisdiction turns on location, not activity. Under 15A NCAC 07H .0209(a) the estuarine shorelines AEC runs 75 feet landward of normal high water or normal water level, and 575 feet where immediately contiguous to Outstanding Resource Waters. Inside it, .0209(d)(2) caps impervious surfaces at 30 percent of the AEC area of the lot, unless the applicant can demonstrate through innovative design that the protection provided would equal or exceed the protection by that 30 percent limitation. Excavation, filling, and clearing or alteration of land as an adjunct of construction all fall inside the CAMA definition of development, so in an AEC a CAMA permit comes before the first shovel.",
-          "And there is a real open question we will not paper over. G.S. 143-214.7D(b) is written for the purposes of implementing State or local government stormwater programs. The 30 percent AEC cap is a Coastal Resources Commission use standard, not a stormwater program. Nothing in the sources on this page settles whether the turf exemption reaches it, so on an AEC lot we get a written determination before we quote."
+          "One question is still open. G.S. 143-214.7D(b) is written for the purposes of implementing State or local government stormwater programs. The 30 percent AEC cap is a Coastal Resources Commission use standard, not a stormwater program. Nothing in the sources on this page settles whether the turf exemption reaches it, so on an AEC lot, ask for a written determination before work starts."
         ]
       }
     ],
@@ -230,11 +230,11 @@ export const GUIDES: Guide[] = [
       },
       {
         "q": "Does turf count against my impervious limit in Horry County?",
-        "a": "There is no written answer we could find. None of the Horry County, Myrtle Beach or North Myrtle Beach provisions we read names artificial turf, and the county's January 2024 stormwater design manual does not mention it in 134 pages. Sec. 17.7-16 does name compacted gravel and soil surfaces and fabric or plastic coverings as impervious, which is a fair description of what a turf system is built from. We do not claim turf is approved or compliant there. On commercial work we would get a written determination from Horry County Stormwater before a number goes into a bid."
+        "a": "There is no written answer we could find. None of the Horry County, Myrtle Beach or North Myrtle Beach provisions we read names artificial turf, and the county's January 2024 stormwater design manual does not mention it in 134 pages. Sec. 17.7-16 does name compacted gravel and soil surfaces and fabric or plastic coverings as impervious, which is a fair description of what a turf system is built from. On a commercial property, ask Horry County Stormwater for a written determination before you sign a contract."
       },
       {
         "q": "Can I put turf on a waterfront lot in Brunswick County?",
-        "a": "Not inside the 30-foot coastal shoreline buffer — the Coastal Resources Commission voted 10 to 1 in September 2021 to prohibit it there. Outside the buffer, the state built-upon-area exemption is a real advantage on a tight coastal lot. Whether that exemption reaches the separate 30 percent impervious cap inside a CAMA Area of Environmental Concern is an open question we could not resolve from the sources on this page, so on an AEC lot we get a written determination first."
+        "a": "Not inside the 30-foot coastal shoreline buffer — the Coastal Resources Commission voted 10 to 1 in September 2021 to prohibit it there. Outside the buffer, the state built-upon-area exemption is a real advantage on a tight coastal lot. Whether that exemption reaches the separate 30 percent impervious cap inside a CAMA Area of Environmental Concern is an open question the sources on this page do not settle, so on an AEC lot, get a written determination first."
       }
     ],
     "sources": [
@@ -338,23 +338,23 @@ export const GUIDES: Guide[] = [
     "updated": "2026-09-08",
     "answer": {
       "question": "Are there any rebates for artificial turf in Myrtle Beach or Horry County?",
-      "answer": "No. TIMELESS Grass & Greens installs artificial turf across Horry County, South Carolina, and we found no turf, water or landscape rebate here. Grand Strand Water & Sewer Authority offers none, and the Horry County, Myrtle Beach and North Myrtle Beach codes contain none. Anyone promising you rebate money here is reading Western marketing copy."
+      "answer": "No. We install artificial turf across Horry County, South Carolina, and we found no turf, water or landscape rebate here. Grand Strand Water & Sewer Authority offers none, and the Horry County, Myrtle Beach and North Myrtle Beach codes contain none. Anyone promising you rebate money here is reading Western marketing copy."
     },
     "sections": [
       {
-        "h2": "We looked. There is nothing to apply for.",
+        "h2": "There is nothing to apply for.",
         "body": [
           "There is no artificial turf rebate in Horry County. There is no water rebate and no landscape-conversion incentive either. We checked Grand Strand Water & Sewer Authority's Smart Irrigation and Water Conservation Tips pages, and we searched the Horry County Code, the Myrtle Beach Code and the North Myrtle Beach Code. No water-conservation rebate provision. No landscape-conversion incentive. No irrigation-meter program on GSWSA's public pages either.",
           "The word \"rebate\" does appear in those codes. It appears in tax-increment-financing provisions and in procurement-ethics rules. Neither has anything to do with your lawn.",
-          "Here is the limit of what we are claiming. We searched published ordinance text and the water authority's public pages on 7 September 2026. Something could exist off-code that we did not see: a builder promotion, an HOA fund, a manufacturer offer. If you find one, send it to us and we will put it on this page. What we will not do is tell you to \"ask about rebates\" when we already know the answer."
+          "We searched published ordinance text and the water authority's public pages on 7 September 2026. Something could exist off-code that we did not see: a builder promotion, an HOA fund, a manufacturer offer."
         ]
       },
       {
         "h2": "Where the \"ask about rebates\" line comes from",
         "body": [
-          "That line is imported. It comes from the arid West, where landscape-conversion rebates are real and are a normal part of a turf sales pitch. We know, because we also install in the Denver metro and we ran the same search there. Those programs are real money: Castle Rock Water pays $3.25 a square foot for a low-water landscape, Aurora Water $3.00.",
+          "That line is imported. It comes from the arid West, where landscape-conversion rebates are real and are a normal part of a turf sales pitch. We also install in the Denver metro, and ran the same search there. Those programs are real money: Castle Rock Water pays $3.25 a square foot for a low-water landscape, Aurora Water $3.00.",
           "Now read the fine print, because this is the part the imported copy leaves out. Every Denver-metro rebate whose rules we read excludes artificial turf, with one exception. Five providers say so in writing. Denver Water's HOA and commercial program will not fund \"designs that include artificial turf\". Aurora's rebate manual lists \"Artificial turf\" in its prohibited column and requires 50 percent living plant coverage. Castle Rock Water: \"Artificial turf does not qualify for any part of the rebate.\" Highlands Ranch: \"Artificial turf replacements are no longer eligible for rebate.\" Erie: \"Artificial Turf is not eligible for this rebate.\" Resource Central, which administers lawn replacement for more than thirty Front Range providers, sets the rule that catches most of the rest: project areas must be \"replaced with at least 50% waterwise plants.\" Colorado's state Turf Replacement Program, at C.R.S. 37-60-135, barred applicants from using the money to replace turf with \"artificial turf\" before it stopped taking applications in March 2025. The one metro provider we found that does pay for artificial turf is the City of Thornton.",
-          "So even where the rebate exists, the imported claim is usually wrong on its own terms. And an honest note about the rest: Arizona and Nevada get named a lot in this kind of copy. We have not verified those programs ourselves and we are not going to quote numbers we did not check."
+          "So even where the rebate exists, the imported claim is usually wrong on its own terms. Arizona and Nevada get named a lot in this kind of copy too; this page does not cover them."
         ]
       },
       {
@@ -362,7 +362,7 @@ export const GUIDES: Guide[] = [
         "body": [
           "Artificial turf is not named anywhere in the Horry County Code. But the county's stormwater utility ordinance defines impervious surface at Sec. 17.7-16, and its list of examples includes \"compacted gravel and soil surfaces\" and \"awnings and other fabric or plastic coverings\". A turf system is a plastic covering over a compacted stone base. Both of those phrases are sitting in that list.",
           "That matters because Sec. 17.7-17 bills the stormwater service charge off impervious percentage. Non-single-family parcels get a development intensity factor from a published table — 0.95 at 90 to 100 percent impervious, down to 0.01 below 1 percent — applied per 20,000 square feet of land area, with a minimum charge of $0.75 a month. On a commercial parcel, a big turf area can push you up a tier rather than down one. That is our reading of the definition, not a ruling from the county.",
-          "Sec. 17.7-18 does authorize a credit for on-site detention or retention that mitigates the impact of impervious surfaces. Whether a free-draining turf system over a stone reservoir qualifies is <em>not established</em>. We do not hold the county's credit manual, and we hold no written determination from the county's stormwater office. We will not put that credit in a proposal until the county puts it in writing."
+          "Sec. 17.7-18 does authorize a credit for on-site detention or retention that mitigates the impact of impervious surfaces. Whether a free-draining turf system over a stone reservoir qualifies is <em>not established</em>. We do not hold the county's credit manual, and we hold no written determination from the county's stormwater office. Do not count on that credit until the county puts it in writing."
         ]
       },
       {
@@ -370,7 +370,7 @@ export const GUIDES: Guide[] = [
         "body": [
           "The real number is on GSWSA's own drought notice. After the South Carolina State Climatology Office declared severe drought in the Pee Dee basin — Horry, Marion and Dillon counties — GSWSA's policy update effective 1 July 2026 states that \"excess charges will begin after 6,000 gallons of usage\", down from the normal 8,000. If you irrigate a lawn, you now reach the excess tier a quarter sooner than before. That is a live change to your bill, and no check from anyone was involved.",
           "The rest of GSWSA's asks are requests, not law: irrigate outside 6:00 to 9:00 a.m., skip Mondays, odd house numbers Tuesday, Thursday and Saturday, even numbers Wednesday, Friday and Sunday. Myrtle Beach is different. Its drought ordinance, Chapter 21, Article VI, adopted under the South Carolina Drought Response Act of 2000, runs four phases, and at the severe phase the city moves to \"mandatory restrictions on non-essential usage\" with a 20 percent reduction target. Conway and North Myrtle Beach have parallel ordinances.",
-          "Be sober about the size of the saving. Myrtle Beach averages 53.56 inches of rain a year. The only published per-square-foot conversion figure we could find is Colorado's — Resource Central puts it at 10 gallons per square foot of lawn per year — and we are not going to apply a Front Range number to a coastal plain that gets more than four feet of rain. If the water bill is your main reason for doing this, say so and we will do the arithmetic with you before you sign."
+          "Be sober about the size of the saving. Myrtle Beach averages 53.56 inches of rain a year. The only published per-square-foot conversion figure we could find is Colorado's — Resource Central puts it at 10 gallons per square foot of lawn per year — and a Front Range number does not carry over to a coastal plain that gets more than four feet of rain. If the water bill is your main reason for doing this, run the numbers from your own bills before you sign."
         ]
       },
       {
@@ -378,7 +378,7 @@ export const GUIDES: Guide[] = [
         "body": [
           "Ask for four things: the program name, the URL, the dollar amount per square foot, and the sentence in the rules that says synthetic turf qualifies. A real program has all four.",
           "Thornton is the model of what a real one looks like. It pays up to $2.00 a square foot, capped at $2,000 for the life of a residential lot, and it publishes a dedicated artificial turf rules document: a minor development permit before installation, a minimum eight-year fade warranty, backing that drains at least two inches an hour, PFAS-free documentation, three inches of compacted aggregate, seams glued rather than sewn.",
-          "If a contractor cannot produce that document, there is no rebate to collect. In Horry County we could not find a program that publishes one. Two honest gaps while we are here: our search covered Horry County jurisdictions only, so we make no claim about Georgetown County — Murrells Inlet, Pawleys Island — and we have not run this search on the North Carolina side of our service area either: Shallotte, Calabash, Carolina Shores, Sunset Beach, Ocean Isle Beach. Call 303-349-2368 — a Colorado area code, because it is the one line for all three of our markets — and ask us anything on this page; we will tell you where the evidence stops."
+          "If a contractor cannot produce that document, there is no rebate to collect. In Horry County we could not find a program that publishes one. Two gaps: our search covered Horry County jurisdictions only, so it says nothing about Georgetown County — Murrells Inlet, Pawleys Island — and we have not run it on the North Carolina side of our service area either: Shallotte, Calabash, Carolina Shores, Sunset Beach, Ocean Isle Beach. Call 303-349-2368 — a Colorado area code, because it is the one line for all three of our markets — with any question on this page."
         ]
       }
     ],
@@ -397,7 +397,7 @@ export const GUIDES: Guide[] = [
       },
       {
         "q": "Is there a rebate on the North Carolina side, in Brunswick County?",
-        "a": "We do not know. Our search covered Horry County jurisdictions only — the county code, Myrtle Beach, North Myrtle Beach and GSWSA. We have not checked Brunswick County or the towns of Shallotte, Calabash, Carolina Shores, Sunset Beach or Ocean Isle Beach, and we have not checked Georgetown County either, so we make no claim in any of those places in either direction."
+        "a": "We do not know. Our search covered Horry County jurisdictions only — the county code, Myrtle Beach, North Myrtle Beach and GSWSA. We have not checked Brunswick County or the towns of Shallotte, Calabash, Carolina Shores, Sunset Beach or Ocean Isle Beach, and we have not checked Georgetown County either."
       }
     ],
     "sources": [
@@ -496,7 +496,7 @@ export const GUIDES: Guide[] = [
     "updated": "2026-09-08",
     "answer": {
       "question": "What infill can be used under artificial grass in Florida?",
-      "answer": "Florida Rule 62-308.100, effective 19 May 2026, sets the state minimum for synthetic turf on a single-family lot of one acre or less: infill must be clean silica sand, rock, shell or other natural material, and rubber or any other synthetic infill is allowed only within the footprint of playground equipment. Condominiums, multifamily, parks, athletic fields and commercial property sit outside the rule, and DEP does not permit, inspect or enforce it. TIMELESS Grass & Greens installs artificial turf across Nassau, Duval, Clay and St. Johns counties."
+      "answer": "Florida Rule 62-308.100, effective 19 May 2026, sets the state minimum for synthetic turf on a single-family lot of one acre or less: infill must be clean silica sand, rock, shell or other natural material, and rubber or any other synthetic infill is allowed only within the footprint of playground equipment. Condominiums, multifamily, parks, athletic fields and commercial property sit outside the rule, and DEP does not permit, inspect or enforce it. We install artificial turf across Nassau, Duval, Clay and St. Johns counties."
     },
     "sections": [
       {
@@ -518,7 +518,7 @@ export const GUIDES: Guide[] = [
         "h2": "Rubber gets exactly one place, and it is not your lawn",
         "body": [
           "The same paragraph continues: \"Rubber or any other synthetic infill material is allowed only within the footprint of playground equipment... Installation shall be designed to prevent washing away of any infill material off the residential property.\" It is not a crumb rubber ban. \"Any other synthetic infill material\" takes TPE and EPDM beads off a residential lawn too, and leaves them available under a swing set. Coated silica sand survives, if the coating is non-toxic.",
-          "Connect that to heat honestly, because it happens to cut our way. In studies collated by a 2024 systematic review, Petrass and colleagues measured SBR crumb rubber at 53.5°C against TPE at 45.6°C; Villacañas and colleagues measured SBR at 61.2°C against TPE at 58.0°C. Both differences were significant. The material Florida pushed out of residential yards is the hotter rubber, by 3.2°C to 7.9°C. A sand and organic plot in the same review measured 48.1°C — a different plot, not a head-to-head. Florida took away the hot option, not the cool one."
+          "There is a heat angle too. In studies collated by a 2024 systematic review, Petrass and colleagues measured SBR crumb rubber at 53.5°C against TPE at 45.6°C; Villacañas and colleagues measured SBR at 61.2°C against TPE at 58.0°C. Both differences were significant. The material Florida pushed out of residential yards is the hotter rubber, by 3.2°C to 7.9°C. A sand and organic plot in the same review measured 48.1°C — a different plot, not a head-to-head. Florida took away the hot option, not the cool one."
         ]
       },
       {
@@ -540,7 +540,7 @@ export const GUIDES: Guide[] = [
         "h2": "What we can confirm, and what needs a phone call",
         "body": [
           "The rule is adopted and in force. The Florida Administrative Code record for 62-308.100 gives an effective date of 5/19/2026 with the history note \"History–New 5-19-26\", and the adopted document carries the infill paragraph quoted above word for word. The Notice of Change during rulemaking recorded \"(2) No change\" against the proposed version, so the material-type and infill paragraphs reached adoption as published.",
-          "What we cannot tell you from a desk: whether your city or county has adopted its own turf ordinance alongside the state minimum, and whether your HOA or CDD documents mention infill at all. Those are phone calls, and we make them per address before quoting. Strike one thing off the list now — nobody can sell you turf as Florida-Friendly Landscaping. The UF/IFAS publication defining that program says, \"Because synthetic turf is not alive, it does not meet the criteria of a plant choice for an FFL landscape.\" To have your infill specified against the rule instead of a brochure, call 303-349-2368."
+          "What we cannot tell you from a desk: whether your city or county has adopted its own turf ordinance alongside the state minimum, and whether your HOA or CDD documents mention infill at all. Those are phone calls to make before you order material. Strike one thing off the list now — nobody can sell you turf as Florida-Friendly Landscaping. The UF/IFAS publication defining that program says, \"Because synthetic turf is not alive, it does not meet the criteria of a plant choice for an FFL landscape.\" Questions about infill for your yard? Call 303-349-2368."
         ]
       }
     ],
@@ -646,7 +646,7 @@ export const GUIDES: Guide[] = [
   {
     "answer": {
       "question": "Does Florida's Florida-Friendly Landscaping law stop my HOA from banning artificial turf?",
-      "answer": "No. Florida Statute 373.185 protects Florida-friendly landscaping from HOA and local-government bans, but it never uses the words artificial turf or synthetic turf, and it defines the category by living-plant principles. The provision that does name artificial turf is s. 720.3045, and it reaches only what cannot be seen from the frontage, an adjacent parcel, a common area or a community golf course. Make your case there, in a written architectural submittal. TIMELESS Grass & Greens installs artificial turf across Nassau, Duval, Clay and St. Johns counties, Florida."
+      "answer": "No. Florida Statute 373.185 protects Florida-friendly landscaping from HOA and local-government bans, but it never uses the words artificial turf or synthetic turf, and it defines the category by living-plant principles. The provision that does name artificial turf is s. 720.3045, and it reaches only what cannot be seen from the frontage, an adjacent parcel, a common area or a community golf course. Make your case there, in a written architectural submittal. We install artificial turf across Nassau, Duval, Clay and St. Johns counties, Florida."
     },
     "description": "Florida Statute 373.185 shields Florida-Friendly Landscaping from HOA bans, but it never mentions artificial turf. The statute that does is s. 720.3045.",
     "h1": "Florida-Friendly Landscaping law does not cover artificial turf. Here is what does.",
@@ -665,7 +665,7 @@ export const GUIDES: Guide[] = [
         "body": [
           "Fla. Stat. 720.3045 is the one to cite. \"Regardless of any covenants, restrictions, bylaws, rules, or requirements of an association, and unless prohibited by general law or local ordinance, an association may not restrict parcel owners or their tenants from installing, displaying, or storing any items on a parcel which are not visible from the parcel's frontage or an adjacent parcel, an adjacent common area, or a community golf course, including, but not limited to, artificial turf...\"",
           "That is a back-yard right, not a front-yard right. The test is visibility. If your turf can be seen from the street, from next door, from a common area or from a community golf course, s. 720.3045 does not help. On a lot that faces a fairway — Ponte Vedra, Nocatee, World Golf Village — that golf-course clause is usually what decides the job.",
-          "Behind a privacy fence it is strong. A rear-yard putting green or a fenced pet run no neighbor can see sits squarely inside the protection. We tell you which category your yard is in before we quote it."
+          "Behind a privacy fence it is strong. A rear-yard putting green or a fenced pet run no neighbor can see sits squarely inside the protection. Check which category your yard is in before you apply to the board."
         ]
       },
       {
@@ -693,10 +693,10 @@ export const GUIDES: Guide[] = [
         ]
       },
       {
-        "h2": "What we could not verify, and will not claim",
+        "h2": "What is still unsettled",
         "body": [
           "We could not locate a Florida appellate or trial decision construing s. 373.185 or s. 720.3075(4) as applied to artificial turf. The reading above rests on statutory text and UF/IFAS materials, not on a judicial holding.",
-          "We have not confirmed whether any community development district in the Nocatee area enforces deed restrictions bearing on synthetic turf — the fact that would activate the s. 125.572(3)(b) carve-out. That question goes to the district manager before we quote a Nocatee job. And of the fifty-plus neighborhood associations in Nocatee's own directory, we have read one architectural manual; we will not guess at the rest.",
+          "We have not confirmed whether any community development district in the Nocatee area enforces deed restrictions bearing on synthetic turf — the fact that would activate the s. 125.572(3)(b) carve-out. Put that question to your district manager before you plan a Nocatee job. And of the fifty-plus neighborhood associations in Nocatee's own directory, we have read one architectural manual.",
           "The Synthetic Turf Council's own Florida page agrees with this page: state law and the DEP rule \"do NOT directly override private HOA covenants or restrictions.\" Marketing pages telling you s. 373.185 covers artificial turf are wrong on the text, and a homeowner who believes them risks an architectural violation."
         ]
       }
@@ -813,7 +813,7 @@ export const GUIDES: Guide[] = [
       },
       {
         "q": "Is artificial turf Florida-Friendly Landscaping?",
-        "a": "No, and we will not say it is. Section 373.185 never uses the words artificial or synthetic turf, and defines Florida-friendly landscaping by principles that assume living plants. UF/IFAS publication EP612 states that \"Because synthetic turf is not alive, it does not meet the criteria of a plant choice for an FFL landscape.\" Make your case to the board on s. 720.3045, not on FFL."
+        "a": "No. Section 373.185 never uses the words artificial or synthetic turf, and defines Florida-friendly landscaping by principles that assume living plants. UF/IFAS publication EP612 states that \"Because synthetic turf is not alive, it does not meet the criteria of a plant choice for an FFL landscape.\" Make your case to the board on s. 720.3045, not on FFL."
       },
       {
         "q": "My ARB denied my turf application without explaining why. Is that allowed?",
@@ -824,7 +824,7 @@ export const GUIDES: Guide[] = [
   {
     "answer": {
       "question": "Can my HOA stop me putting artificial turf in my yard in Colorado?",
-      "answer": "Not by covenant, in your back yard. C.R.S. 37-60-126(11)(a)(I) declares an HOA covenant that prohibits nonvegetative turf grass in the backyard of a residential property contrary to public policy and unenforceable, and CCIOA carries the same phrase at 38-33.3-106.5(1)(i). Front yards sit outside that protection, a municipal subdivision regulation still survives it under 37-60-126(11)(d)(I), and your board faces a separate rule under Article 99 of Title 37 on the common land it owns. TIMELESS Grass & Greens installs across Denver, Jefferson, Adams, Arapahoe, Douglas, Boulder and Broomfield counties, and writes the section number into the architectural submittal. Call 303-349-2368."
+      "answer": "Not by covenant, in your back yard. C.R.S. 37-60-126(11)(a)(I) declares an HOA covenant that prohibits nonvegetative turf grass in the backyard of a residential property contrary to public policy and unenforceable, and CCIOA carries the same phrase at 38-33.3-106.5(1)(i). Front yards sit outside that protection, a municipal subdivision regulation still survives it under 37-60-126(11)(d)(I), and your board faces a separate rule under Article 99 of Title 37 on the common land it owns. Cite the section number in your architectural submittal. We install artificial turf across Denver, Jefferson, Adams, Arapahoe, Douglas, Boulder and Broomfield counties. Call 303-349-2368."
     },
     "description": "Colorado declares an HOA covenant banning nonvegetative turf grass in a back yard unenforceable under C.R.S. 37-60-126(11)(a)(I). Front yards are different.",
     "h1": "Colorado HOA Turf Rules: What Your Board Can and Cannot Stop",
@@ -842,7 +842,7 @@ export const GUIDES: Guide[] = [
         "h2": "The catch: the statute never defines the word",
         "body": [
           "We checked 38-33.3-106.5, the definitions subsection at 37-60-126(11)(b), and the enrolled text of both HB21-1229 and SB23-178. The one term that protects you is defined in none of them. Colorado also runs two vocabularies for one product: Article 99 of Title 37 says artificial turf, the CCIOA protection says nonvegetative turf grass, and we found nothing in these acts that ties the two together.",
-          "Nor is the protection absolute where it applies. C.R.S. 37-60-126(11)(d)(I) says subsection (11) \"does not supersede any subdivision regulation of a county, city and county, or other municipality\", and (11)(d)(II) makes it override a special district rule only where the two directly conflict. So we will not tell you your HOA legally cannot stop you. Submit the plan, cite the section, get the answer in writing."
+          "Nor is the protection absolute where it applies. C.R.S. 37-60-126(11)(d)(I) says subsection (11) \"does not supersede any subdivision regulation of a county, city and county, or other municipality\", and (11)(d)(II) makes it override a special district rule only where the two directly conflict. So do not assume your HOA legally cannot stop you. Submit the plan, cite the section, get the answer in writing."
         ]
       },
       {
@@ -857,7 +857,7 @@ export const GUIDES: Guide[] = [
         "h2": "If the board says no anyway: 45 days and $500",
         "body": [
           "If a detached-home association denies a compliant backyard plan, 38-33.3-106.5(1)(i.5) gives the owner a route: written notice, forty-five days to cure, then suit for injunctive relief plus up to five hundred dollars or the unit owner's actual damages, whichever is greater.",
-          "Five hundred dollars is not the point; the 45-day letter is. We write the section number into the submittal on any Denver metro quote involving an HOA."
+          "Five hundred dollars is not the point; the 45-day letter is."
         ]
       },
       {
@@ -872,7 +872,7 @@ export const GUIDES: Guide[] = [
       {
         "h2": "Where this lands in Denver metro",
         "body": [
-          "On multifamily of more than twelve dwelling units the guidance conflicts, and we are not going to pick a side. The Colorado Division of Real Estate's 2025 HOA Forum summary reads HB25-1113 as biting on 1 January 2026; Western Resource Advocates reads the multifamily obligation as a 1 January 2028 deadline. Ask your municipality which date it has adopted.",
+          "On multifamily of more than twelve dwelling units the guidance conflicts. The Colorado Division of Real Estate's 2025 HOA Forum summary reads HB25-1113 as biting on 1 January 2026; Western Resource Advocates reads the multifamily obligation as a 1 January 2028 deadline. Ask your municipality which date it has adopted.",
           "Castle Pines Village is the cleanest illustration in the metro: a gated, unincorporated community of 2,850 acres with 4,327 residents at the 2020 census, served by both the Castle Pines Homes Association and the Castle Pines Metropolitan District. Your lot answers to CCIOA and the backyard protection. The district's common landscaping answers to Article 99, because a metropolitan district is a local entity under 37-99-102(9). Same gate, two statutes.",
           "Even where the covenant clears, the rebate often does not. Of the four Denver metro programs we checked, three exclude artificial turf outright. Centennial Water and Sanitation District, serving Highlands Ranch, states that \"Artificial turf replacements are no longer eligible for rebate.\" The Town of Erie's 2026 program opens with \"Artificial Turf is not eligible for this rebate.\" Denver Water lists artificial turf among the designs it will not fund on HOA and commercial projects. The fourth, Thornton Water, does pay — up to $2 per square foot, lifetime maximum $2,000 per residential lot — and its own HOA page still tells you to get association approval."
         ]
@@ -970,7 +970,7 @@ export const GUIDES: Guide[] = [
     "faq": [
       {
         "q": "Can my HOA ban artificial turf in my back yard in Colorado?",
-        "a": "Not by covenant. C.R.S. 37-60-126(11)(a)(I) declares a covenant that \"prohibits the use of nonvegetative turf grass in the backyard of a residential property\" contrary to public policy and unenforceable, and CCIOA carries the same phrase at 38-33.3-106.5(1)(i). Two honest caveats: \"nonvegetative turf grass\" is not defined in the definitions subsection at 37-60-126(11)(b), and under 37-60-126(11)(d)(I) subsection (11) does not supersede a municipal subdivision regulation. Submit the plan and get the answer in writing."
+        "a": "Not by covenant. C.R.S. 37-60-126(11)(a)(I) declares a covenant that \"prohibits the use of nonvegetative turf grass in the backyard of a residential property\" contrary to public policy and unenforceable, and CCIOA carries the same phrase at 38-33.3-106.5(1)(i). Two caveats: \"nonvegetative turf grass\" is not defined in the definitions subsection at 37-60-126(11)(b), and under 37-60-126(11)(d)(I) subsection (11) does not supersede a municipal subdivision regulation. Submit the plan and get the answer in writing."
       },
       {
         "q": "What about the front yard?",
@@ -989,7 +989,7 @@ export const GUIDES: Guide[] = [
   {
     "answer": {
       "question": "What license does an artificial turf installer need, and how do I check it?",
-      "answer": "TIMELESS Grass & Greens installs artificial turf across Colorado, South Carolina, North Carolina and Florida. Colorado and Florida license no turf trade at all: Colorado's state occupational list carries no contractor or landscape contractor credential, and Florida's county competency cards expired 1 July 2025. South Carolina requires a contractor license above $10,000. North Carolina requires a landscape contractor license above $30,000 per job site. Below those figures, and anywhere in Colorado, the question belongs to your city or county building department. Call 303-349-2368."
+      "answer": "We install artificial turf across Colorado, South Carolina, North Carolina and Florida. Colorado and Florida license no turf trade at all: Colorado's state occupational list carries no contractor or landscape contractor credential, and Florida's county competency cards expired 1 July 2025. South Carolina requires a contractor license above $10,000. North Carolina requires a landscape contractor license above $30,000 per job site. Below those figures, and anywhere in Colorado, the question belongs to your city or county building department. Call 303-349-2368."
     },
     "description": "No state licenses turf installation as a trade. South Carolina's threshold is $10,000, North Carolina's $30,000, Florida's county cards expired 1 July 2025.",
     "faq": [
@@ -1007,7 +1007,7 @@ export const GUIDES: Guide[] = [
       },
       {
         "q": "Is there a Colorado state license for turf installers?",
-        "a": "No. Colorado's Division of Professions and Occupations lists what it regulates, accountancy through radon professionals, and there is no general contractor, landscape contractor, hardscape, irrigation or synthetic-turf credential on it. Landscape architect is the only landscape-adjacent entry, and it is a design credential rather than an installation one. So nobody in Colorado can show you a state turf license, ourselves included. Any licensing requirement comes from your city or county instead, and we did not confirm what each Denver-metro jurisdiction asks of turf work — treat the building department for your address as the authority on it. The two trades Colorado does license at state level that a turf job can touch, electrical and plumbing, are checkable at DORA's lookup."
+        "a": "No. Colorado's Division of Professions and Occupations lists what it regulates, accountancy through radon professionals, and there is no general contractor, landscape contractor, hardscape, irrigation or synthetic-turf credential on it. Landscape architect is the only landscape-adjacent entry, and it is a design credential rather than an installation one. So nobody in Colorado can show you a state turf license. Any licensing requirement comes from your city or county instead, and we did not confirm what each Denver-metro jurisdiction asks of turf work — treat the building department for your address as the authority on it. The two trades Colorado does license at state level that a turf job can touch, electrical and plumbing, are checkable at DORA's lookup."
       }
     ],
     "h1": "What License Does a Turf Installer Need? Colorado, the Carolinas and Florida",
@@ -1024,7 +1024,7 @@ export const GUIDES: Guide[] = [
         "h2": "South Carolina: $10,000, and a real gap",
         "body": [
           "SC Code Ann. 40-11-30 sets the number: no entity may perform contracting work \"for which the total cost of construction is greater than ten thousand dollars for general contracting... without a license.\" It rose from $5,000 by 2023 Act No. 69, effective 19 May 2023, so anything still quoting $5,000 is stale. Turf falls inside the chapter's own definition of general construction at 40-11-20(10) — \"improvement of any kind to real property\" — and the base work maps onto the Grading subclassification at 40-11-410. There is no landscaping classification in the chapter at all.",
-          "A second, far lower threshold sits under a different board. SC Code 40-59-20 covers residential builders above $5,000 and residential specialty contractors above $500, but its specialty trades run plumbers through solar installers with no landscaping entry. Turf sits in the gap between two boards, and we will not pretend that gap is settled: llr.sc.gov was unreachable when this was checked, so we could not put the question to the Board's own published guidance.",
+          "A second, far lower threshold sits under a different board. SC Code 40-59-20 covers residential builders above $5,000 and residential specialty contractors above $500, but its specialty trades run plumbers through solar installers with no landscaping entry. Turf sits in the gap between two boards, and that gap is not settled: llr.sc.gov was unreachable when this was checked, so we could not put the question to the Board's own published guidance.",
           "Verify a South Carolina contractor at the LLR public lookup, <em>verify.llronline.com/LicLookup</em> — with a caveat. That portal and llr.sc.gov were both unreachable when this research ran, and archived captures show LLR reorganised its site during 2025–2026, older contractor paths now returning 404. Confirm it loads before relying on it."
         ]
       },
@@ -1040,7 +1040,7 @@ export const GUIDES: Guide[] = [
         "h2": "Colorado: no state license exists to check",
         "body": [
           "Colorado's Division of Professions and Occupations lists what it regulates: accountancy; architects, professional engineers and land surveyors; barber and cosmetology; combative sports; electrical; landscape architects; nontransplant tissue banks; outfitters; passenger tramways; plumbing; radon professionals. Landscape architect is the only landscape-adjacent entry on that list, and it is a design credential that does not govern installation. So <strong>no Colorado company can truthfully call itself a state-licensed turf installer, because no such license exists.</strong> If that phrase appears on a Front Range website, it tells you something.",
-          "That leaves the question with your city. There is no Colorado state contractor license to fall back on, which means any licensing requirement your turf job does meet is a local one. We did not confirm what each Denver-metro jurisdiction requires for turf work, and we would rather say so than guess: ask the building department for the address the turf is going on, and ask before the contract is signed.",
+          "That leaves the question with your city. There is no Colorado state contractor license to fall back on, which means any licensing requirement your turf job does meet is a local one. We did not confirm what each Denver-metro jurisdiction requires for turf work: ask the building department for the address the turf is going on, and ask before the contract is signed.",
           "Two trades a turf job can touch are state-licensed in Colorado even though turf is not. Putting-green lighting is electrical work; altering a water line is plumbing work. Both appear on DORA's regulated list, and both can be verified at DORA's license lookup."
         ]
       },
@@ -1057,7 +1057,7 @@ export const GUIDES: Guide[] = [
         "body": [
           "Start with the price, not the paperwork. Compare the written contract value to your state's threshold: $10,000 in South Carolina, $30,000 per job site over a rolling twelve months in North Carolina, no state threshold at all in Colorado or Florida. Over the line, ask for the number and look it up yourself. Under it, there may be nothing to check — an honest answer, not a red flag.",
           "Then three questions that catch most real problems. Who does the irrigation work, and under whose license? In Colorado and Florida, which city or county issued the card — a license issued by one jurisdiction is only ever evidence about that jurisdiction. And in North Carolina, is the license number on the contract and on the truck?",
-          "Keep it in proportion. Where a state names no category, an unlicensed installer is not breaking a rule — there is no rule to break, which makes a license a floor and never a finish. What actually predicts a good job is an insurance certificate you can phone and confirm, a written scope stating base depth and infill weight as numbers, and references you can call. Our own position, plainly: in Colorado and Florida there is no turf category for anyone to hold, so no installer in those states can show you a turf license, us included. In the Carolinas the contract value decides it — ask us which side of your state's threshold your job falls on before you sign, and use the links above to check whatever your state does license."
+          "Keep it in proportion. Where a state names no category, an unlicensed installer is not breaking a rule — there is no rule to break, which makes a license a floor and never a finish. What actually predicts a good job is an insurance certificate you can phone and confirm, a written scope stating base depth and infill weight as numbers, and references you can call. In Colorado and Florida there is no turf category for anyone to hold, so no installer in those states can show you a turf license. In the Carolinas the contract value decides it — check which side of your state's threshold your job falls on before you sign, and use the links above to check whatever your state does license."
         ]
       }
     ],
@@ -1178,7 +1178,7 @@ export const GUIDES: Guide[] = [
     "updated": "2026-09-08",
     "answer": {
       "question": "Does artificial turf count as an impervious surface?",
-      "answer": "TIMELESS Grass & Greens installs artificial turf on both sides of the Grand Strand state line in the Carolinas, across the Denver metro and in northeast Florida. In North Carolina, turf that drains through its backing over a pervious base is not built-upon area under G.S. 143-214.7D, and a town may not define it otherwise. In South Carolina we found no ordinance naming turf in the codes we searched, so a reviewer applies a general definition — and Horry County's already lists compacted gravel and plastic coverings as impervious. We arrive with the manufacturer's drainage data and a base detail. Call 303-349-2368."
+      "answer": "We install artificial turf on both sides of the Grand Strand state line in the Carolinas, across the Denver metro and in northeast Florida. In North Carolina, turf that drains through its backing over a pervious base is not built-upon area under G.S. 143-214.7D, and a town may not define it otherwise. In South Carolina we found no ordinance naming turf in the codes we searched, so a reviewer applies a general definition — and Horry County's already lists compacted gravel and plastic coverings as impervious. Have the manufacturer's drainage data and a base detail ready for the reviewer. Call 303-349-2368."
     },
     "sections": [
       {
@@ -1207,22 +1207,22 @@ export const GUIDES: Guide[] = [
       {
         "h2": "Colorado regulates the water, not the runoff",
         "body": [
-          "Colorado regulates artificial turf for water use, not stormwater. HB25-1113 inserted the word nonfunctional in front of artificial turf in the Article 99 prohibition and added a definition of functional artificial turf covering playgrounds, sports fields and the playing area of a golf course. Article 99 governs water use; it does not classify turf for stormwater or built-upon-area purposes. We looked for a Colorado statute or Denver-metro ordinance that does and found none. That is a gap, not a green light — near a coverage limit we get the reviewer's position in writing first.",
+          "Colorado regulates artificial turf for water use, not stormwater. HB25-1113 inserted the word nonfunctional in front of artificial turf in the Article 99 prohibition and added a definition of functional artificial turf covering playgrounds, sports fields and the playing area of a golf course. Article 99 governs water use; it does not classify turf for stormwater or built-upon-area purposes. We looked for a Colorado statute or Denver-metro ordinance that does and found none. That is a gap, not a green light — near a coverage limit, get the reviewer's position in writing first.",
           "The closest published Front Range standard belongs to a water utility, and it is a rebate condition rather than a building rule. Thornton's 2026 artificial turf rules require backing that drains at a minimum of two inches per hour over at least three inches of compacted aggregate. That number describes the product, and the product is not the bottleneck. As New Jersey's environment department wrote in its 2025 science review, a product draining ten inches per hour does not mean the ground underneath will infiltrate at that rate. On a tight clay lot the base has to move water sideways to somewhere it can go, and that is a design decision rather than a spec sheet."
         ]
       },
       {
         "h2": "Florida wrote the standard and left the definitions to the towns",
         "body": [
-          "HB 683 (2025) created s. 125.572, and the preemption went live when DEP adopted Rule 62-308.100, F.A.C., effective 19 May 2026. No city or county can now ban compliant synthetic turf on single-family residential property, or regulate it inconsistently with the DEP standard. Compliance is the price of that protection. The text we have read is the version DEP published as its proposed rule in January 2026: permeable turf on permeable backing over a pervious subgrade of washed natural material, soil beneath not compacted to the extent that it adversely impacts percolation, and no increase in runoff volume, direction or rates to adjacent properties. On a Florida job we read the adopted rule text for that jurisdiction before we put a base detail in a proposal.",
+          "HB 683 (2025) created s. 125.572, and the preemption went live when DEP adopted Rule 62-308.100, F.A.C., effective 19 May 2026. No city or county can now ban compliant synthetic turf on single-family residential property, or regulate it inconsistently with the DEP standard. Compliance is the price of that protection. The text we have read is the version DEP published as its proposed rule in January 2026: permeable turf on permeable backing over a pervious subgrade of washed natural material, soil beneath not compacted to the extent that it adversely impacts percolation, and no increase in runoff volume, direction or rates to adjacent properties. Check the adopted rule text before you rely on it.",
           "The local definitions run in different directions. St. Johns County defines impervious surfaces as any building, concrete, pools, wet retention or detention areas, pavement or compacted materials utilized for parking or roadways — a back lawn is not a parking area. Nassau County's Appendix D shows the route in: pavers are allowed as pervious if shown as engineered with a detail submitted in the application permit. Atlantic Beach turns the test on the base — any solid surfacing material with a base or lining of an impervious material — and development over 35 percent impervious lot coverage must provide on-site storage. St. Augustine Beach excludes all lawns, landscape areas and gardens from impervious area, and the City of St. Augustine excludes lawns and landscape areas and separately lists artificial turf among acceptable maintained yard surfaces. Jacksonville's Ordinance Code carries no general definition of impervious surface at all: Sec. 654.129 sets impervious ratios by zoning district at subdivision design stage and refers stormwater facility design out to the Land Development Procedures Manual. Fernandina Beach defines an impervious surface as one compacted or covered so that it is highly resistant to infiltration, which puts the whole argument on Amelia Island onto the base — washed, open-graded and documented."
         ]
       },
       {
-        "h2": "What we bring to the counter, and what we still don't know",
+        "h2": "What to bring to the counter, and what is still unknown",
         "body": [
-          "We bring the same file to every counter: the manufacturer's drainage-rate cut sheet, a base detail with aggregate gradation and depth, and the citation governing that jurisdiction. In Horry County there is no citation, so it is infiltration data and a drainage detail, offered before anyone asks. We will not tell you turf is approved or code compliant on the Grand Strand — in the South Carolina codes we read, there is nothing to be approved under.",
-          "There are gaps we have not closed, and you should know where they are. Conway and Surfside Beach zoning were retrieved only at chapter level, so treat those two as unverified rather than clear. Georgetown County, which includes Murrells Inlet, was not researched, and neither was Clay County in Florida. The Carolina Shores ordinance text sits behind a Cloudflare challenge and we could not read it. And we hold no source on how North Carolina's coastal shoreline rules treat turf on a waterfront lot — on one of those we ask for a written determination before we quote."
+          "Bring the same file to every counter: the manufacturer's drainage-rate cut sheet, a base detail with aggregate gradation and depth, and the citation governing that jurisdiction. In Horry County there is no citation, so bring infiltration data and a drainage detail, and offer them before anyone asks. In the South Carolina codes we read there is nothing to approve turf under, so no one can call it approved or code compliant on the Grand Strand.",
+          "Some gaps remain. Conway and Surfside Beach zoning were retrieved only at chapter level, so treat those two as unverified rather than clear. Georgetown County, which includes Murrells Inlet, was not researched, and neither was Clay County in Florida. The Carolina Shores ordinance text sits behind a Cloudflare challenge and we could not read it. And we hold no source on how North Carolina's coastal shoreline rules treat turf on a waterfront lot — on one of those, ask for a written determination before work starts."
         ]
       }
     ],
@@ -1233,7 +1233,7 @@ export const GUIDES: Guide[] = [
       },
       {
         "q": "Do I need a permit to install artificial turf?",
-        "a": "It depends on the jurisdiction, and these are the thresholds we hold sources for. Horry County requires a stormwater permit where half an acre or more is disturbed or the work is part of a larger common plan — that catches sports fields, not back yards. Thornton requires a minor development permit before installation if you want its water-wise rebate. Florida exempts an owner of a single-family dwelling from a building permit for work valued under $7,500, but not on property in a flood hazard area. Where we hold no source for your jurisdiction, we ask the counter rather than guess."
+        "a": "It depends on the jurisdiction, and these are the thresholds we hold sources for. Horry County requires a stormwater permit where half an acre or more is disturbed or the work is part of a larger common plan — that catches sports fields, not back yards. Thornton requires a minor development permit before installation if you want its water-wise rebate. Florida exempts an owner of a single-family dwelling from a building permit for work valued under $7,500, but not on property in a flood hazard area. For anywhere else, ask your permit counter."
       },
       {
         "q": "Will artificial turf raise my stormwater bill?",
@@ -1412,7 +1412,7 @@ export const GUIDES: Guide[] = [
     "updated": "2026-09-08",
     "answer": {
       "question": "Does artificial turf qualify for a water rebate in Denver?",
-      "answer": "TIMELESS Grass & Greens installs artificial turf across the Denver metro. In nearly all of them your water provider will not pay you for it: Denver Water, Aurora, Castle Rock, Erie and Highlands Ranch exclude artificial turf in writing. The one exception we found is Thornton, up to $2 per square foot. Ask us which provider your address sits in. Call 303-349-2368."
+      "answer": "We install artificial turf across the Denver metro. Almost everywhere there, your water provider will not pay you for it: Denver Water, Aurora, Castle Rock, Erie and Highlands Ranch exclude artificial turf in writing. The one exception we found is Thornton, up to $2 per square foot. Check which provider serves your address, or call 303-349-2368."
     },
     "sections": [
       {
@@ -1426,7 +1426,7 @@ export const GUIDES: Guide[] = [
         "h2": "Thornton is the exception, and it comes with a specification",
         "body": [
           "Thornton Water's Water-Wise Landscape Rebate pays up to $2.00 per square foot on qualifying 200 to 1,000 square foot projects, lifetime maximum $2,000 per residential lot. Its <em>\"2026 Artificial Turf Rules for Water-Wise Landscape Rebate\"</em> requires that <em>\"artificial turf must replace an area of high-water demand lawn, such as Kentucky Bluegrass, on existing residential lots or areas of no landscaping on new construction residential lots.\"</em> Turf laid over an existing patio or path does not qualify.",
-          "The conditions are specific, so a Thornton job has to be planned before it is sold, starting with a Minor Development Permit before installation. In rear and enclosed side yards, <em>\"artificial turf allowed with no limitations\"</em>; in front and unenclosed side yards, <em>\"artificial turf shall not exceed 25% of the landscape area.\"</em> The product needs an eight-year minimum warranty against fading and a backing draining at least two inches per hour.",
+          "The conditions are specific, so a Thornton job has to be planned before you sign, starting with a Minor Development Permit before installation. In rear and enclosed side yards, <em>\"artificial turf allowed with no limitations\"</em>; in front and unenclosed side yards, <em>\"artificial turf shall not exceed 25% of the landscape area.\"</em> The product needs an eight-year minimum warranty against fading and a backing draining at least two inches per hour.",
           "Two things catch people out. Every product must be <strong>PFAS-free</strong> with published third-party or manufacturer documentation, and Thornton says plainly that \"PFC-free\" is not sufficient. And front yards still need living plants: one tree equivalent for the first 750 square feet, half a tree equivalent per additional 250. The rules cover single-family detached and attached homes only; we found no Thornton commercial or HOA artificial-turf rebate."
         ]
       },
@@ -1457,7 +1457,7 @@ export const GUIDES: Guide[] = [
         "body": [
           "Here is the part that actually decides whether turf is worth it. Denver Water's annual watering rules are enforced 1 May to 1 October every year regardless of conditions. On top sits a declared Stage 1 drought requiring a 20% cut in total use, with outdoor watering limited to two assigned days a week, only before 10 a.m. or after 6 p.m. Enforcement runs warning, $250, $500, then $1,000.",
           "Then it stopped altogether. A notice dated 26 August 2026 records that the Denver Board of Water Commissioners <em>\"declares an end to lawn watering season, prohibiting lawn watering and all spray irrigation after Sept. 30.\"</em> Aurora, with reservoirs about half full, has gone further at the other end and banned installing new cool-weather turf at all.",
-          "The saving is smaller than people hope, but it recurs. Resource Central publishes 10 gallons saved per square foot of lawn converted per year. Denver Water's 2026 inside-city Tier 3 rate is $7.25 per 1,000 gallons plus a $2.20 drought charge, so $9.45. A 1,000 square foot conversion is about 10,000 gallons, roughly $94.50 a year. That is the honest case for turf here: not a rebate check, but a lawn that still looks like one in the third week of a two-day-a-week August, and stays green after 30 September when the sprinklers go off by order."
+          "The saving is smaller than people hope, but it recurs. Resource Central publishes 10 gallons saved per square foot of lawn converted per year. Denver Water's 2026 inside-city Tier 3 rate is $7.25 per 1,000 gallons plus a $2.20 drought charge, so $9.45. A 1,000 square foot conversion is about 10,000 gallons, roughly $94.50 a year. That is the case for turf here: not a rebate check, but a lawn that still looks like one in the third week of a two-day-a-week August, and stays green after 30 September when the sprinklers go off by order."
         ]
       }
     ],
