@@ -190,3 +190,17 @@ html:not(.js-motion) .svcrow__go { opacity: 1; transform: none; }
 .js-motion .hero--home .grassline path { transform: scaleY(0); }
 .js-motion .hero--home.is-grown .grassline path { transform: scaleY(1); transition: transform 1s var(--ease) var(--d, 0s); }
 @media (prefers-reduced-motion: reduce) { .js-motion .hero--home .grassline path { transform: none; } }
+
+/* --- towns ticker ----------------------------------------------------------------------------- */
+.marquee { overflow: hidden; padding-block: 1.05rem; background: var(--ground-dark); color: var(--ink-on-dark); border-bottom: 1px solid var(--rule-on-dark); }
+.marquee__track { display: flex; width: max-content; animation: marquee 60s linear infinite; }
+.marquee__list { display: flex; gap: 2.4rem; margin: 0; padding: 0 2.4rem 0 0; list-style: none; }
+.marquee li { display: inline-flex; align-items: center; gap: .55rem; white-space: nowrap; font-family: var(--font-display); font-size: clamp(1.15rem, 3vw, 1.7rem); letter-spacing: -.01em; }
+.marquee .ico { width: .75em; height: .75em; color: var(--accent-on-dark); }
+@keyframes marquee { to { transform: translateX(-50%); } }
+@media (hover: hover) and (pointer: fine) { .marquee:hover .marquee__track { animation-play-state: paused; } }
+@media (prefers-reduced-motion: reduce) {
+  .marquee__track { animation: none; width: auto; }
+  .marquee__list { flex-wrap: wrap; gap: .6rem 2rem; padding: 0 var(--bleed); }
+  .marquee__list[aria-hidden] { display: none; }
+}

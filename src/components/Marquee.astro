@@ -1,0 +1,17 @@
+---
+/* A slow ticker of the towns we work in — markets.ts `towns` only: the places named on the call or
+   on the client's own site, nothing wider. Two copies make the loop seamless; the second is hidden
+   from screen readers. Pauses under a mouse; reduced motion shows one still, wrapped list. */
+import Icon from './Icon.astro';
+import { MARKETS } from '../data/markets';
+const TOWNS = MARKETS.flatMap((m) => m.towns);
+---
+<div class="marquee" role="region" aria-label="Towns we work in">
+  <div class="marquee__track">
+    {[0, 1].map((k) => (
+      <ul class="marquee__list" aria-hidden={k === 1 ? 'true' : undefined}>
+        {TOWNS.map((t) => <li><Icon name="pin" />{t}</li>)}
+      </ul>
+    ))}
+  </div>
+</div>

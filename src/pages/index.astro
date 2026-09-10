@@ -6,6 +6,7 @@ import Icon from '../components/Icon.astro';
 import OfferPanel from '../components/OfferPanel.astro';
 import Process from '../components/Process.astro';
 import Thumb from '../components/Thumb.astro';
+import Marquee from '../components/Marquee.astro';
 import { phone, phoneHref, positioning, fact } from '../data/brief';
 import { SHOTS, shotsBy, heroSrc } from '../data/shotlist';
 import { MARKETS } from '../data/markets';
@@ -162,6 +163,7 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
   </section>
 
 
+  <Marquee />
   <!-- 3 · OUR WORK — the client's own photographs, each drifting inside its frame -->
   <section class="sec sec--dark on-dark mosaicsec">
     <div class="wrap">
