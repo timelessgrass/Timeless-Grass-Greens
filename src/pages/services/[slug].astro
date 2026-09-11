@@ -42,7 +42,11 @@ const EVERY = [
   'A walkthrough of the care it needs',
 ];
 ---
-<Base title={s.title} description={s.description} answer={s.answer} crumbs={crumbs} faq={s.faq}>
+<Base title={s.title} description={s.description} answer={s.answer} crumbs={crumbs} faq={s.faq} schema={[{
+  '@type': 'Service', '@id': `${Astro.site}services/${s.slug}/#service`, name: s.name, serviceType: s.name, description: s.description,
+  url: `${Astro.site}services/${s.slug}/`, provider: { '@id': `${Astro.site}#organization` },
+  areaServed: MARKETS.map((m) => ({ '@type': 'Place', name: m.name })),
+}]}>
 
   <!-- 1 · HERO — the outcome, two ways to act, three reasons to believe it -->
   <section class={`hero hero--svc${heroFile ? '' : ' turf-marks turf-marks--dark'}`}>

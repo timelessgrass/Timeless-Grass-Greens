@@ -17,10 +17,127 @@
   status = 301
   force = true
 
-# The previous build shipped /areas/{city}. Those paths keep their equity.
+# The old vendor site's addresses (captured 2026-09-10 from its own links), each mapped to the
+# closest page here so its links and rankings follow. Specific paths before their parent's splat.
+[[redirects]]
+  from = "/about"
+  to = "/"
+  status = 301
+
+[[redirects]]
+  from = "/contact"
+  to = "/estimate/"
+  status = 301
+
+[[redirects]]
+  from = "/privacy"
+  to = "/privacy/"
+  status = 301
+
+[[redirects]]
+  from = "/terms"
+  to = "/privacy/"
+  status = 301
+
+[[redirects]]
+  from = "/review"
+  to = "/"
+  status = 301
+
+[[redirects]]
+  from = "/discount"
+  to = "/estimate/"
+  status = 301
+
+[[redirects]]
+  from = "/blog"
+  to = "/guides/"
+  status = 301
+
+[[redirects]]
+  from = "/blog/*"
+  to = "/guides/"
+  status = 301
+
+[[redirects]]
+  from = "/sitemap-index.xml"
+  to = "/sitemap.xml"
+  status = 301
+
+[[redirects]]
+  from = "/services/artificial-turf-installation/artificial-turf-removal-and-replacement"
+  to = "/services/turf-removal-and-replacement/"
+  status = 301
+
+[[redirects]]
+  from = "/services/artificial-turf-installation/commercial-artificial-turf-installation"
+  to = "/services/commercial-turf/"
+  status = 301
+
+[[redirects]]
+  from = "/services/artificial-turf-installation/custom-turf-design-consultation"
+  to = "/estimate/"
+  status = 301
+
+[[redirects]]
+  from = "/services/artificial-turf-installation/*"
+  to = "/services/residential-turf/"
+  status = 301
+
+[[redirects]]
+  from = "/services/artificial-turf-installation"
+  to = "/services/residential-turf/"
+  status = 301
+
+[[redirects]]
+  from = "/services/landscape-design-installation/*"
+  to = "/services/residential-turf/"
+  status = 301
+
+[[redirects]]
+  from = "/services/landscape-design-installation"
+  to = "/services/residential-turf/"
+  status = 301
+
+[[redirects]]
+  from = "/services/specialty-turf-installation/backyard-putting-green-installation"
+  to = "/services/putting-greens/"
+  status = 301
+
+[[redirects]]
+  from = "/services/specialty-turf-installation/indoor-artificial-turf-installation"
+  to = "/services/indoor-turf/"
+  status = 301
+
+[[redirects]]
+  from = "/services/specialty-turf-installation/pet-friendly-artificial-turf-installation"
+  to = "/services/pet-turf/"
+  status = 301
+
+[[redirects]]
+  from = "/services/specialty-turf-installation/sports-field-turf-installation"
+  to = "/services/sports-field-turf/"
+  status = 301
+
+[[redirects]]
+  from = "/services/specialty-turf-installation/*"
+  to = "/services/residential-turf/"
+  status = 301
+
+[[redirects]]
+  from = "/services/specialty-turf-installation"
+  to = "/services/"
+  status = 301
+
+[[redirects]]
+  from = "/areas"
+  to = "/"
+  status = 301
+
+# The old /areas/{city}-co pages were all Denver-metro towns.
 [[redirects]]
   from = "/areas/*"
-  to = "/"
+  to = "/denver-metro/"
   status = 301
 
 [[headers]]
@@ -29,3 +146,16 @@
     X-Content-Type-Options = "nosniff"
     X-Frame-Options = "SAMEORIGIN"
     Referrer-Policy = "strict-origin-when-cross-origin"
+
+# Markdown copies of every page, and llms.txt, for answer engines. The copies stay out of the
+# search index (the HTML page is the one to rank) but any agent can fetch them.
+[[headers]]
+  for = "/*.md"
+  [headers.values]
+    Content-Type = "text/markdown; charset=utf-8"
+    X-Robots-Tag = "noindex"
+
+[[headers]]
+  for = "/llms*.txt"
+  [headers.values]
+    Content-Type = "text/plain; charset=utf-8"

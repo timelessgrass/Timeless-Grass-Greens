@@ -5,7 +5,7 @@
   "private": true,
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build && python3 scripts/check-links.py dist && python3 scripts/check-consistency.py dist",
+    "build": "astro build && node scripts/md-mirrors.mjs dist && python3 scripts/check-links.py dist && python3 scripts/check-consistency.py dist",
     "preview": "astro preview",
     "check": "astro check",
     "verify": "python3 scripts/check-links.py dist && python3 scripts/check-consistency.py dist"
@@ -14,5 +14,8 @@
     "@astrojs/sitemap": "^3.4.1",
     "astro": "^5.13.5",
     "gsap": "^3.15.0"
+  },
+  "devDependencies": {
+    "turndown": "^7.2.4"
   }
 }

@@ -5,7 +5,7 @@ import '../styles/components.css';
 import '../styles/home.css';
 import '../styles/wizard.css';
 import '../styles/service.css';
-import { businessName, phone, phoneHref, email, serviceAreas } from '../data/brief';
+import { businessName, phone, phoneHref, email, serviceAreas, foundedYear } from '../data/brief';
 import { MARKETS } from '../data/markets';
 import { SERVICES } from '../data/services';
 import { Image } from 'astro:assets';
@@ -27,8 +27,11 @@ interface Props {
   noEstimate?: boolean;
   /** Visible FAQ, mirrored into FAQPage for answer engines. Answers may hold links; tags are stripped here. */
   faq?: { q: string; a: string }[];
+  /** Extra schema.org nodes for this page (Service, Article…), added to the one @graph. */
+  schema?: Record<string, unknown>[];
 }
-const { title, description, answer, crumbs, robots, noEstimate = false, faq } = Astro.props;
+const { title, description, answer, crumbs, robots, noEstimate = false, faq, schema } = Astro.props;
+const indexable = !(robots && /noindex/i.test(robots));
 const canonical = new URL(Astro.url.pathname, Astro.site).href;
 
 const graph: any[] = [
@@ -37,8 +40,13 @@ const graph: any[] = [
     '@id': `${Astro.site}#organization`,
     name: businessName,
     url: Astro.site?.href,
+    logo: new URL(logo.src, Astro.site).href,
+    ...(foundedYear ? { foundingDate: String(foundedYear) } : {}),
     ...(phone ? { telephone: phone } : {}),
     ...(email ? { email } : {}),
+    knowsAbout: SERVICES.map((s) => s.name),
+    /* the three markets, each with the places the client named: the same lists the pages show */
+    areaServed: MARKETS.map((m) => ({ '@type': 'Place', name: m.name, containsPlace: m.places.map((p) => ({ '@type': 'Place', name: p })) })),
   },
   {
     '@type': 'WebSite',
@@ -80,6 +88,8 @@ if (crumbs?.length) {
     })),
   });
 }
+if (schema?.length) graph.push(...schema);
+
 /* NO LocalBusiness node here. One is emitted only where a real, staffed, verified
    address exists behind a live GBP — never per-city, never speculatively.
    NO aggregateRating and NO Review, ever: Google rules self-serving review markup
@@ -93,6 +103,7 @@ if (crumbs?.length) {
 <title>{title}</title>
 <meta name="description" content={description} />
 <link rel="canonical" href={canonical} />
+{indexable && <link rel="alternate" type="text/markdown" href={`${canonical}index.html.md`} title="Markdown copy of this page" />}
 <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
 <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 <meta name="theme-color" content="#0E0E0C" />
@@ -181,7 +192,7 @@ if (crumbs?.length) {
         </div>
       </nav>
       {phoneHref && <a class="foot__tel" href={phoneHref} data-cta="call-footer">{phone}</a>}
-      <p class="foot__legal">&copy; {new Date().getFullYear()} {businessName}</p>
+      <p class="foot__legal">&copy; {new Date().getFullYear()} {businessName} · <a href="/privacy/">Privacy</a></p>
     </div>
   </footer>
 

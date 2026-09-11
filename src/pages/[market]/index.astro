@@ -30,8 +30,13 @@ const crumbs = [
   { name: 'Home', item: `${Astro.site}` },
   { name: m.name, item: `${Astro.site}${m.slug}/` },
 ];
+const ST = { 'denver-metro': 'CO', 'grand-strand': 'SC', 'northeast-florida': 'FL' } as const;
 ---
-<Base title={m.title} description={m.description} answer={m.answer} crumbs={crumbs} faq={m.faq}>
+<Base title={m.title} description={m.description} answer={m.answer} crumbs={crumbs} faq={m.faq} schema={[{
+  '@type': 'Service', '@id': `${Astro.site}${m.slug}/#service`, name: `Artificial turf installation, ${m.name}`, serviceType: 'Artificial turf installation',
+  url: `${Astro.site}${m.slug}/`, provider: { '@id': `${Astro.site}#organization` },
+  areaServed: m.places.map((p) => ({ '@type': 'Place', name: `${p}, ${ST[m.slug]}` })),
+}]}>
 
   <!-- 1 · HERO — the local outcome, two ways to act, three reasons to believe it -->
   <section class={`hero hero--svc${heroFile ? '' : ' turf-marks turf-marks--dark'}`}>

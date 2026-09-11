@@ -1,0 +1,44 @@
+---
+/* What the estimate form collects and where it goes. Descriptive only: every line is something
+   this codebase does (EstimateWizard's fields, Netlify Forms, Google Fonts, the Google Maps embed
+   on the area pages, no analytics), so the page stays true until the code changes. Anything about
+   how the business handles leads beyond that is the client's to add. noindex: a policy, not a page
+   anyone searches for. */
+import Base from '../layouts/Base.astro';
+import { phone, phoneHref, email } from '../data/brief';
+const updated = '10 September 2026';
+---
+<Base title="Privacy | TIMELESS Grass & Greens" description="What the estimate form collects, where it is kept, and how to ask us to delete it." robots="noindex, follow">
+  <section class="hero hero--sub turf-marks turf-marks--dark">
+    <div class="wrap">
+      <p class="micro micro--accent">Privacy</p>
+      <h1>What happens to your details.</h1>
+      <hr class="rule-ribbon" />
+      <p class="hero__lede">You give us your name and number so we can call you about your estimate. Here is what the form collects and where it goes.</p>
+    </div>
+  </section>
+
+  <section class="sec">
+    <div class="wrap doc__sec">
+      <h2>What the estimate form collects</h2>
+      <p>What you want installed, roughly how big the area is, when you would like it done, your town or ZIP code, your name and phone number, and your email address if you choose to give it.</p>
+
+      <h2>What we use it for</h2>
+      <p>To call or email you about your estimate and your project.</p>
+
+      <h2>Where it is kept</h2>
+      <p>The form is handled by Netlify, the company that hosts this site. Netlify stores each submission for us.</p>
+
+      <h2>Other services this site uses</h2>
+      <p>The fonts load from Google Fonts. The maps on our area pages are Google Maps, and Google may set cookies once a map loads. This site runs no advertising trackers and no analytics.</p>
+
+      <h2>Deleting your details</h2>
+      <p>
+        Ask us and we will delete your submission:
+        {phoneHref && <> call <a href={phoneHref}>{phone}</a></>}{email && <>{phoneHref ? ' or' : ''} email <a href={`mailto:${email}`}>{email}</a></>}.
+      </p>
+
+      <p class="doc__meta">Last updated {updated}.</p>
+    </div>
+  </section>
+</Base>

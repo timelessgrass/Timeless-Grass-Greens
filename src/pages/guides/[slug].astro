@@ -15,7 +15,10 @@ const crumbs = [
   { name: g.h1, item: `${Astro.site}guides/${g.slug}/` },
 ];
 ---
-<Base title={g.title} description={g.description} answer={g.answer} crumbs={crumbs}>
+<Base title={g.title} description={g.description} answer={g.answer} crumbs={crumbs} faq={g.faq} schema={[{
+  '@type': 'Article', '@id': `${Astro.site}guides/${g.slug}/#article`, headline: g.h1, description: g.description, dateModified: g.updated,
+  mainEntityOfPage: `${Astro.site}guides/${g.slug}/`, author: { '@id': `${Astro.site}#organization` }, publisher: { '@id': `${Astro.site}#organization` },
+}]}>
   <article class="doc">
     <header class="sec doc__head turf-marks turf-marks--dark">
       <div class="wrap">
