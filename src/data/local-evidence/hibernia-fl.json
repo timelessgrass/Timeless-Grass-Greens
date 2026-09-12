@@ -1,0 +1,89 @@
+{
+  "intent": "On a Hibernia parcel that fronts the St. Johns, does the ground work for a green or a lawn need a permit before it starts, and where must the turf stay off?",
+  "distinctValue": "Hibernia is a river strip: unplatted frontage on the west bank of the St. Johns with no HOA and no county overlay, so nothing private and nothing local reviews a yard here. What does reach the ground is the flood map. FEMA's Clay County study reads the St. Johns at 4.1 feet NAVD 88 for the 1-percent-annual-chance (base) flood at Orange Park to the north and at the SR 16 Shands Bridge to the south, the two points FEMA reports either side of Hibernia, and treats this reach as a lake with tidal effects rather than a flowing river. Inside a Special Flood Hazard Area, Clay County Ordinance 87-45 requires a permit before work begins, and the county counts filling, grading, paving, excavations and any other land disturbing operations as development, which is exactly what a green's base cut is. In Zone X no flood permit is required at all, so the zone decides. The river also removes the worst of it: no floodway was computed for the St. Johns, so a river lot escapes the engineer-sealed No-Rise study a floodway parcel needs. Dated: the maps in force are the 2014 FIRMs and FEMA's replacements are expected to take effect in spring 2027. The neighbours' pages turn on other things - Fleming Island on its CDD architectural board and stormwater ponds, Lake Asbury on the Greater Lake Asbury District and its tree plan, Middleburg on the irrigation order, Switzerland on St. Johns County's tree permit - and none of them carries a St. Johns flood elevation.",
+  "sources": [
+    {
+      "label": "FEMA / Clay County Flood Insurance Study, Clay County, Florida and Incorporated Areas, FIS number 12019CV001A, effective March 17, 2014 (PDF hosted by Clay County)",
+      "url": "https://www.claycountygov.com/home/showpublisheddocument/1688/638947509720500000",
+      "checked": "2026-09-12",
+      "supports": [
+        "Cover page: “CLAY COUNTY, FLORIDA AND INCORPORATED AREAS … EFFECTIVE: March 17, 2014 … FLOOD INSURANCE STUDY NUMBER 12019CV001A”, and “Initial Countywide FIS Effective Date: March 17, 2014”.",
+        "Table 10, Summary of Stillwater Elevations, row “ST. JOHNS RIVER”: “At Orange Park  2.1  3.1  4.1  6.1” and “At State Highway 16 (Shands Bridge)  1.6  3.4  4.1  5.5”. The four columns are the 10-, 2-, 1- and 0.2-percent-annual-chance elevations (the report repeatedly describes its tables as “the 10-, 2-, 1-, and 0.2-percent-annual-chance”), so the 1-percent-annual-chance stillwater elevation is 4.1 feet at both points. Cross-check: rows footnoted “Only 1-percent flood elevation available” (e.g. “DOCTORS LAKE  4.1”, “SOUTH LAKE ASBURY  47.1”) carry their single value in that same third column, and the report states “Doctors Lake and Johnson Slough have the same profiles as the St. Johns River”.",
+        "Section 3.3 Vertical Datum: “Flood elevations shown in this FIS report and on the FIRM are referenced to the NAVD.” The datum is the North American Vertical Datum of 1988 (NAVD 88); “The datum conversion factor from NGVD to NAVD in Clay County is -0.95 feet.”",
+        "“The St. Johns River, adjacent to Green Cove Springs and Orange Park, is like a large lake with tidal effects. Flow data are not available due to the complexities of tide, wind and storage. Flood elevations on the St. Johns River are the same for the entire length of these communities.”",
+        "“A floodway was not computed for the St. Johns River as it was considered unnecessary. The river is two miles wide and resembles a lake more than a river.”",
+        "“To provide a national standard without regional discrimination, the 1-percent-annual-chance flood has been adopted by FEMA as the base flood for floodplain management purposes.”",
+        "“the 1-percent-annual-chance floodplain boundary corresponds to the boundary of the areas of special flood hazards (Zones A and AE) … Small areas within the floodplain boundaries may lie above the flood elevations, but cannot be shown due to limitations of the map scale and/or lack of detailed topographic data.”"
+      ]
+    },
+    {
+      "label": "Clay County Planning and Zoning: Development Within a Flood Plain",
+      "url": "https://www.claycountygov.com/government/planning-and-zoning/flood-fema-info/development-within-a-flood-plain",
+      "checked": "2026-09-12",
+      "supports": [
+        "“Clay County Ordinance 87-45 requires that all development within Special Flood Hazard Areas obtain a permit before work begins.”",
+        "“Development includes any man-made change to improved or unimproved real estate, including buildings, structures, mining, dredging, filling, grading, paving, excavation, drilling operations, and permanent storage of materials.”",
+        "“For development not regulated by the Florida Building Code, the Floodplain Permit application is the primary application.”",
+        "“Clay County participates in the National Flood Insurance Program and regulates development within Special Flood Hazard Areas in accordance with Federal Emergency Management Agency requirements and the County's Flood Damage Prevention Ordinance.”"
+      ]
+    },
+    {
+      "label": "Clay County Planning and Zoning: Flood and FEMA frequently asked questions",
+      "url": "https://www.claycountygov.com/government/planning-and-zoning/flood-fema-info/frequently-asked-questions",
+      "checked": "2026-09-12",
+      "supports": [
+        "“Any proposed development in the Special Flood Hazard Area requires an approved Floodplain Development Permit. Clay County floodplain regulations define development as any man-made change to improved or unimproved real estate, including but not limited to, buildings or other structures, tanks, temporary structures, temporary or permanent storage of equipment or materials, mining, dredging, filling, grading, paving, excavations, drilling operations or any other land disturbing operations.”",
+        "“No development, including but not limited to site improvements and land disturbing activity involving fill or regrading, shall be authorized in the regulatory floodway unless a Floodway Encroachment Analysis (No-Rise Study) is submitted and approved by the county. This Floodway Encroachment Analysis must be signed and sealed by a registered Professional Engineer …”",
+        "“You can also look up your flood zone using the County's interactive map. Enter your address in the ‘Find’ search bar and be sure to turn on the ‘Flood Zone Data’ layer.”"
+      ]
+    },
+    {
+      "label": "Clay County: Flood Zone Changes — what homeowners and businesses need to know",
+      "url": "https://www.claycountygov.com/community/flood-zone-changes",
+      "checked": "2026-09-12",
+      "supports": [
+        "“FEMA is updating Clay County's Flood Insurance Rate Maps (FIRMs), which determine flood risk and may affect whether some property owners are required to carry flood insurance.”",
+        "“The updated maps use improved science and technology to provide more accurate flood risk information than the current 2014 maps.”",
+        "“Current Schedule: The updated flood maps are anticipated to become effective in Spring 2027.”",
+        "“Flood Zone X – Areas with minimal flood risk. Flood insurance is generally not required, and flood permits are not required for development.”",
+        "“Flood Zones A and AE – The 100-year floodplain with a 1% annual chance of flooding. Zone A does not include a Base Flood Elevation (BFE); Zone AE does.”",
+        "“Email the Floodplain Management Team at floodteam@claycountygov.com.”"
+      ]
+    },
+    {
+      "label": "Fla. Admin. Code R. 62-6.005, Location and Installation (adopted text, effective 6/8/2026)",
+      "url": "https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30927303&type=1&file=62-6.005.doc",
+      "checked": "2026-09-12",
+      "supports": [
+        "62-6.005(4)(a): “Be at least 1.5 times as large as the drainfield absorption area required by rule. For example, if a 200 square feet drainfield is required, the total unobstructed area required, inclusive of the 200 square feet drainfield area, would be 300 square feet.”",
+        "62-6.005(4)(b) and (c): “Be contiguous to the drainfield.” “Be in addition to the setbacks required in subsections (1), (2), and (3) above.”",
+        "62-6.005(4): “Suitable, unobstructed land must be available for the installation and proper functioning of the onsite sewage treatment and disposal system.”"
+      ]
+    },
+    {
+      "label": "Fla. Admin. Code R. 62-6.003, Permits and Inspections (adopted text, effective 7/9/2025)",
+      "url": "https://www.flrules.org/gateway/readFile.asp?sid=0&tid=29703260&type=1&file=62-6.003.doc",
+      "checked": "2026-09-12",
+      "supports": [
+        "62-6.003(4): “Voiding a permit – After an onsite sewage treatment and disposal system has received final installation approval from the Department, if the building is modified in such a way that a larger system would be required, if any portion of the required drainfield unobstructed area is covered by impervious material, ... the Department shall undertake administrative action to revoke the permit.”",
+        "Neither 62-6.003 nor 62-6.005 names synthetic or artificial turf; the rule speaks only of “impervious material” over the required drainfield unobstructed area."
+      ]
+    },
+    {
+      "label": "Florida Department of Health in Clay County: Environmental Public Health",
+      "url": "https://clay.floridahealth.gov/programs-and-services/environmental-health/",
+      "checked": "2026-09-12",
+      "supports": [
+        "“eBridge Solutions is a web-based records storage system. Available records include all final septic inspections from 1993 to present. Not all records are available at this time, however, we are continuously scanning.”",
+        "“Under ‘permit type’, select Septic. You can search by permit number, street address, zip code, applicant name, Parcel ID #, and date.”"
+      ]
+    }
+  ],
+  "reviewNotes": [
+    "The flood material replaces a rejected septic block. The reviewers' finding was that Rule 62-6.005 and Clay County Sec. 19-155 are statewide and county-wide, already carried by src/content/towns/middleburg-fl.json and src/content/towns/nassauville-fl.json, and that only two of the seven added facts moved anything. The two that did — the reserve arithmetic and the DOH-Clay eBridge lookup — are kept, said once, in a single FAQ, with the total stated the way the rule states it (300 square feet inclusive of the 200). Sec. 19-155 and the Florida DEP transfer note are dropped from the page and from this record; they changed nothing a Hibernia homeowner does.",
+    "What is keyed to this address: the St. Johns stillwater elevation. The FIS gives 4.1 feet NAVD 88 for the 1-percent flood at Orange Park and at the SR 16 Shands Bridge, the gauged points north and south of Hibernia, and states that no floodway was computed for the river. That is a river-frontage fact; Middleburg and Lake Asbury sit on Black Creek and its forks, where floodways were computed, and Switzerland is in St. Johns County under a different FIS.",
+    "Not settled by these sources: which individual Hibernia parcels fall inside the Special Flood Hazard Area. The FIS itself warns that “Small areas within the floodplain boundaries may lie above the flood elevations, but cannot be shown due to limitations of the map scale.” The page therefore states the elevation and the permit rule and sends the reader to the county's floodplain team for the zone on their own address rather than asserting one.",
+    "Time-sensitive: the maps in force are the FIRMs effective 17 March 2014; Clay County says FEMA's replacements are anticipated to become effective in Spring 2027. Both dates are on the page.",
+    "The Clay County pages return 403 to plain command-line fetches (Akamai bot filtering) but load normally in a browser; they were read in a headless Chrome session on 12 September 2026."
+  ]
+}

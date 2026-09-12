@@ -52,6 +52,7 @@
       "h2": "A CDD, an HOA and a board for nearly every yard.",
       "paras": [
         "Almost every home in World Golf Village sits inside a community development district and an HOA. Turnbull Creek CDD, set up in 2004, covers Murabella, with its amenity center on Positano Avenue (<a href=\"https://turnbullcreekcdd.com/\" target=\"_blank\" rel=\"nofollow noopener\">Turnbull Creek CDD</a>). Plan on sending your architectural board a plan for any turf, and get its answer in writing.",
+        "One village publishes its rulebook, and it shows what a board here actually writes down. The Meadows at World Golf Village bars \"painted concrete and plastic plants\" and adds that \"non-plant materials may not be used as a substitute for a lawn\" (rule 207.8, October 2025). Rule 207.14 then fixes the ground under any new surface: the grading through the community \"is designed to promote proper drainage and may not be changed\" (<a href=\"https://img1.wsimg.com/blobby/go/45ad12ad-696f-4ee1-a526-58a4f41d76ca/downloads/621cbd11-e1ee-45b3-834b-90c819d44dd9/Rules%20and%20Regulations%20-%202025%20October%20-%20Meadows.pdf\" target=\"_blank\" rel=\"nofollow noopener\">The Meadows rules</a>). Neither line names synthetic turf, so ask your own committee in writing whether it reads turf as a lawn substitute, and plan the green inside the grade the plat already set.",
         "On a fairway lot, Florida law gives you less cover than you might think. An HOA can't restrict turf that isn't visible from the frontage, the neighbors, a common area or a community golf course (<a href=\"https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&amp;Search_String=&amp;URL=0700-0799/0720/Sections/0720.3045.html\" target=\"_blank\" rel=\"nofollow noopener\">Fla. Stat. 720.3045</a>), and a green that a King &amp; Bear or Slammer &amp; Squire fairway looks onto fails that last test. The board decides.",
         "A 2026 change matters too: from 1 July, a community development district enforcing deed restrictions sits outside the state law that bars local turf bans (<a href=\"https://www.flsenate.gov/Session/Bill/2026/1180/Analyses/2026s01180.fp.PDF\" target=\"_blank\" rel=\"nofollow noopener\">SB 1180</a>). And Florida's law protecting Florida-Friendly landscaping never mentions artificial turf, so it won't override a board either (<a href=\"https://www.flsenate.gov/Laws/Statutes/2025/0373.185\" target=\"_blank\" rel=\"nofollow noopener\">Fla. Stat. 373.185</a>); <a href=\"/guides/florida-friendly-landscaping-and-hoas/\">our HOA guide</a> explains both."
       ]
@@ -89,6 +90,14 @@
     {
       "q": "Once the order lifts, how long can new plantings be watered in?",
       "a": "Under the normal rules, new landscaping may be watered daily for its first 30 days, then every other day for 30 more (<a href=\"https://www.sjcfl.us/protect-our-water/\" target=\"_blank\" rel=\"nofollow noopener\">St. Johns County</a>). Under Phase III, new sod and new plantings aren't allowed at all."
+    },
+    {
+      "q": "How long does architectural approval take in World Golf Village?",
+      "a": "Each village sets its own clock, so ask yours for the answer in writing. The Meadows at World Golf Village gives its committee twenty business days from a complete application, lets it call for a sample or a mock-up first, and allows an appeal within fifteen business days of a denial; silence \"does not constitute an approval or rejection\" (<a href=\"https://img1.wsimg.com/blobby/go/45ad12ad-696f-4ee1-a526-58a4f41d76ca/downloads/ab69a89b-fb00-43f1-9ba8-a4aa3b49b907/Architectural%20Guidelines%20-%202025%20June%20-%20Meadows.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Architectural Guidelines, June 2025</a>). A request reaches the next meeting only if it arrives at least 48 hours ahead (<a href=\"https://themeadowswgv.com/rules-regulations\" target=\"_blank\" rel=\"nofollow noopener\">The Meadows HOA</a>). Committee approval is separate from any county permit."
+    },
+    {
+      "q": "My community documents never mention artificial turf. What do I ask?",
+      "a": "That gap is normal here. The Meadows' landscape section talks about which grass varieties may replace a lawn, not about synthetic turf, while its declaration, recorded in St. Johns County Official Records book 1657, page 1267 in 2001, has always required approval for any \"landscaping or landscaping device or object\" (<a href=\"https://img1.wsimg.com/blobby/go/45ad12ad-696f-4ee1-a526-58a4f41d76ca/downloads/_The%20Meadows%20-%20Covenants%2C%20Amendments%20and%20HOA%20I.pdf\" target=\"_blank\" rel=\"nofollow noopener\">recorded declaration</a>). So put two questions to your committee: does it treat synthetic turf as a lawn substitute, and what does it want to see, a plot plan, the spec sheet or a physical sample. Get the answer in writing before the layout is final."
     }
   ],
   "nearby": [
@@ -141,8 +150,30 @@
     {
       "label": "St. Johns County: protect our water",
       "url": "https://www.sjcfl.us/protect-our-water/"
+    },
+    {
+      "label": "The Meadows at World Golf Village HOA: Rules and Regulations, October 2025 (rules 207.8, 207.9, 207.14)",
+      "url": "https://img1.wsimg.com/blobby/go/45ad12ad-696f-4ee1-a526-58a4f41d76ca/downloads/621cbd11-e1ee-45b3-834b-90c819d44dd9/Rules%20and%20Regulations%20-%202025%20October%20-%20Meadows.pdf"
+    },
+    {
+      "label": "The Meadows at World Golf Village HOA: Architectural Guidelines, effective 26 June 2025 (sections 202, 205, 320)",
+      "url": "https://img1.wsimg.com/blobby/go/45ad12ad-696f-4ee1-a526-58a4f41d76ca/downloads/ab69a89b-fb00-43f1-9ba8-a4aa3b49b907/Architectural%20Guidelines%20-%202025%20June%20-%20Meadows.pdf"
+    },
+    {
+      "label": "The Meadows at Saint Johns: recorded declaration, St. Johns County Official Records book 1657, page 1267 (2 October 2001)",
+      "url": "https://img1.wsimg.com/blobby/go/45ad12ad-696f-4ee1-a526-58a4f41d76ca/downloads/_The%20Meadows%20-%20Covenants%2C%20Amendments%20and%20HOA%20I.pdf"
+    },
+    {
+      "label": "The Meadows at World Golf Village HOA: architectural review request deadline",
+      "url": "https://themeadowswgv.com/rules-regulations"
+    },
+    {
+      "label": "The Meadows at World Golf Village HOA: community documents",
+      "url": "https://themeadowswgv.com/download"
     }
   ],
-  "checked": "2026-09-07",
-  "publicReferences": []
+  "checked": "2026-09-12",
+  "publicReferences": [
+    "https://themeadowswgv.com/download"
+  ]
 }

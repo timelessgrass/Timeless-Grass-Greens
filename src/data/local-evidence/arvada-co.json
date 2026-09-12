@@ -1,0 +1,43 @@
+{
+  "intent": "Where in an Arvada yard is artificial turf actually allowed to go, and who decides?",
+  "distinctValue": "Arvada has its own Land Development Code, and § 4-6-7-2 answers the placement question in writing: artificial turf may not be a permanent, primary ground cover within the landscaped area except, among other exceptions, for backyard and side yard applications that are not in public view, with public view defined to include streets, sidewalks, parks and trails, and a single named exception for a putting green not larger than 400 square feet in a side or rear yard. § 4-6-3-1 then sets when the article bites — new construction and modification to an existing landscape area — with single-family detached and duplex lots exempt only where the subdivision's initial development contained nine or fewer lots. No neighbouring page can say this: Wheat Ridge and Westminster have no comparable turf clause on the page, Golden is mid-rewrite of a form-based code, and Applewood is unincorporated and answers to Jefferson County. It also gives the page a concrete office and number to send the remaining question to.",
+  "sources": [
+    {
+      "label": "Arvada Land Development Code, Chapter 4, Article 4-6, § 4-6-7-2 (groundcovers and planting beds)",
+      "url": "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=LADECOARCO_CH4ENSIDE_ART4-6LABU_DIV4-6-7ADTERE_4-6-7-2GRPLBE",
+      "checked": "2026-09-12",
+      "note": "Rendered headlessly; the page banner reads VERSION: AUG 27, 2026 (CURRENT). The URL carries no jobId, so it always resolves to the current supplement. The pre-2022 numbering (Part III, § 6.5.2) is an archived version and no longer exists in the code in force.",
+      "supports": [
+        "Inorganic Ground Cover. Inorganic material such as river rock, cobble rock, gravel, artificial turf, artificial plant material, concrete, or asphalt paving may not be used as a permanent, primary ground cover within the landscaped area, except where:",
+        "Artificial turf is used as part of an approved plan for recreational fields or common amenities such as a clubhouse;",
+        "Artificial turf is used for backyard and side yard applications that are not in public view. Public view includes any area viewable from areas with public access such as streets, sidewalks, parks, and trails. Artificial turf for a putting green not larger than 400 square feet may be placed in side or rear yard even if in public view; or",
+        "4-6-7-2. - Groundcovers and planting beds.",
+        "Any restrictive covenant that becomes effective after July 15, 2003 shall not prohibit the use of water-wise landscaping or require more than 50 percent high-water-demand turf."
+      ]
+    },
+    {
+      "label": "Arvada Land Development Code, Chapter 4, Article 4-6, § 4-6-3-1 (applicability of the landscaping article)",
+      "url": "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=LADECOARCO_CH4ENSIDE_ART4-6LABU_DIV4-6-3GELAST_4-6-3-1AP",
+      "checked": "2026-09-12",
+      "note": "Same article, same current version banner. Carries (Ord. No. 4793, § 3, 3-21-2022), the recodification that moved the landscaping standards out of the old § 6.5.",
+      "supports": [
+        "Generally. All new construction, including building expansions that increase the footprint of a building by 25 percent or more, and modification to an existing landscape area shall comply with the standards in this Article.",
+        "Single-Family Detached and Duplex. Single-family detached and duplex dwelling unit lots, are exempt from landscaping requirements, provided the initial development of the subdivision contains nine or fewer lots of single-family and/or duplex. Common landscape areas, bufferyards, water quality/detention basins, or streetscape areas, shall meet the applicable requirements of this Chapter.",
+        "(Ord. No. 4793, § 3, 3-21-2022)"
+      ]
+    },
+    {
+      "label": "City of Arvada: Land Development Code",
+      "url": "https://www.arvadaco.gov/179/Land-Development-Code",
+      "checked": "2026-09-12",
+      "supports": [
+        "The Land Development Code (LDC) provides the City's regulations for the development and use of property within the city. The code provides information on zoning, subdivisions, building permits, flood plain information and other related land use activities.",
+        "reach out to the City of Arvada's Planning Department at 720-898-7435 or pod@arvada.org"
+      ]
+    }
+  ],
+  "unresolved": [
+    "Whether a given Arvada lot falls inside the § 4-6-3-1.B.4 exemption turns on how many single-family and duplex lots the subdivision's initial development contained, which the code text does not tell a homeowner. The page therefore sends the reader to Arvada's Planning Department on 720-898-7435 to ask whether their lot sits inside that exemption, and to get the answer in writing before the layout is final.",
+    "No artificial-turf rebate or incentive was found for Arvada; nothing on the page implies one exists."
+  ]
+}

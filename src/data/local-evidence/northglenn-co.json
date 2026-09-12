@@ -1,0 +1,111 @@
+{
+  "intent": "What does Northglenn itself require of an artificial turf job, and what do its own water rules cost me while I still have a lawn?",
+  "distinctValue": "Northglenn writes artificial turf into its own development code — subsection 11-4-7(f), which bars turf on slopes over six percent, requires a green colour, rules out indoor-outdoor carpet and specifies the base, anchoring and seams — and it runs its own water utility, whose Stage 2 drought (declared 13 April 2026, 8-0 on CR-67) assigns each address two fixed watering days, adds a surcharge above 18,000 gallons a month, and carries a progressive fine schedule the Council adopted at the same meeting (CR-68, 8-0: door hanger, $50, $300, $999, assessed through the utility bill). Thornton's page turns on Thornton Water's rebate, permit and 25% front-yard cap; Westminster's on a voluntary Drought Watch and plant-only rebates; Commerce City's on a separate district supplying the water. None of them carries a Northglenn code section, Northglenn's assigned watering days or Northglenn's surcharge.",
+  "sources": [
+    {
+      "label": "Northglenn Municipal Code: Article 11-4, Development Standards (Section 11-4-7, Landscaping)",
+      "url": "https://municode.northglenn.org/ch11/content_11-4.html",
+      "checked": "2026-09-12",
+      "supports": [
+        "(f) Artificial Turf Regulations.",
+        "(4) Slope restrictions: Artificial turf shall not be installed on slopes greater than six percent.",
+        "(5) General appearance: Artificial turf must be a green color, similar to natural grass.",
+        "(2) The use of indoor or outdoor carpeting in lieu of artificial turf is not permitted.",
+        "(A) Sod or existing groundcover shall be removed prior to installation of any artificial turf.",
+        "(B) Artificial turf shall be installed over a compacted and porous road base material.",
+        "(C) Artificial turf shall be anchored at all edges and seams.",
+        "(D) All artificial turf seams shall be flued and not sewn.",
+        "(1) Artificial ground cover shall be of a type known as cut pile infill and shall be manufactured from polypropylene, polyurethane, or a blend of the two fibers stitched onto a polypropylene or polyurethan meshed or hole-punched backing.",
+        "(6) Maintenance: The following maintenance activities are required for artificial turf; cleaning, sanitizing, brushing and removal of debris, cleaning shall be done with biodegradable products, repairing of depressions to maintain an even visual surface, regular maintenance to eliminate any orders, flat or matted areas, weeds, looseness at edges, seams or elsewhere, replacement of the artificial turf when maintenance or repair is unable to simulate a healthy living turf.",
+        "(E) Artificial ground cover, pursuant to subsection 11-4-7(F), artificial turf regulations;",
+        "For existing single family attached and detached residential, only the appropriate landscaping materials section outlined in Section 11-4-7(e)(1)(A-E) below is applicable.",
+        "(B) Site landscaping improvements on properties with existing single-family, duplex, or manufactured home dwellings, except that such improvements shall comply with 11-4-7(d), Site Area Landscaping, and 11-4-7(e)(1), Appropriate Landscaping Materials;",
+        "(D) Artificial trees, shrubs, or plants shall not be used to satisfy any of the requirements of this section."
+      ]
+    },
+    {
+      "label": "Northglenn Municipal Code: Article 16-23, Mandatory Water Restrictions",
+      "url": "https://municode.northglenn.org/ch16/content_16-23.html",
+      "checked": "2026-09-12",
+      "supports": [
+        "In the event of a drought or other water shortage or emergency, as declared by the City Council by resolution, the City Manager shall have the authority to promulgate rules and regulations governing water usage by all customers of the Northglenn water system.",
+        "(a) Limiting lawn watering to certain times of the day, days of the week or times of the month;",
+        "Any person violating any provision of this Article, or of the Rules and Regulations promulgated by the City Manager pursuant to this Article, shall, upon conviction, be punished by a fine not to exceed $999.00 for each violation.",
+        "The assessment of fines for violations of this Article or the Rules and Regulations promulgated hereunder will be through the City utility bill for the responsible party's billing account.",
+        "The City Manager may, as part of the Rules and Regulations promulgated pursuant to this Article, establish a progressive schedule of warnings and/or fines subject to approval of such schedule by the City Council by resolution or motion."
+      ]
+    },
+    {
+      "label": "Northglenn Municipal Code: Section 16-10-4, fresh water usage charges and drought surcharge",
+      "url": "https://municode.northglenn.org/ch16/content_16-10.html",
+      "checked": "2026-09-12",
+      "supports": [
+        "Residential Drought Surcharge — Over 18,000 gallons — Stage 1: None; Stage 2: $2.00 per thousand gals.; Stage 3: $4.00 per thousand gals.; Stage 4: $4.00 per thousand gals.",
+        "Commercial Drought Surcharge — Over 100% EQR — Stage 1: None; Stage 2: $2.00 per thousand gals.",
+        "Monthly charges for use of fresh water supplied by the City to all utility accounts shall be made in a manner that is directly dependent upon the actual or estimated quantity of water used by that account during that billing period."
+      ]
+    },
+    {
+      "label": "City of Northglenn: CR-67, Stage 2 Drought Declaration, City Council packet, 13 April 2026 (PDF)",
+      "url": "https://webdocs.northglenn.org/file/117206/packet/CR-67_drought_declaration.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "A RESOLUTION DECLARING A STAGE 2 DROUGHT AND AUTHORIZING THE CITY MANAGER TO IMPLEMENT RULES AND REGULATIONS FOR THE CONSERVATION OF WATER IN THE CITY OF NORTHGLENN",
+        "Section 1. A Stage 2 Drought is hereby declared for the City of Northglenn, effective upon passage of this resolution.",
+        "Two-Day per Week Watering Schedule — Even Number Addresses: Sun/Thurs — Odd Number Addresses: Weds/Sat — Commercial (to include Apartments and HOA Common Areas): Tues/Fri",
+        "No Watering between 10 a.m. and 6 p.m.",
+        "No Irrigation of Sod Prior to May 1st",
+        "Water Surcharge: Residential: $2.00 for every thousand gallons above 18,000 gals",
+        "Northglenn Municipal Code Section 16-10-4 establishes a Stage 2 Drought Surcharge of $2.00 per 1,000 gallons of water used over 18,000 gallons.",
+        "Recommended Tiered Response: Door Hanger - Education; 1st Penalty: $50; 2nd Penalty: $300; 3rd Penalty: $999. *Municipal Code allows up to $999 fee for non-compliance with an allowance for Council to approve a tiered structure. Fees would be applied to utility bill.",
+        "Inflow into Standley Lake, Northglenn's water storage facility, ended two weeks earlier than normal. Standley Lake did not reach full capacity.",
+        "Landscape regulations for residential and non-residential will not be enforced while drought regulations are in effect, except for the following: Noxious weeds that fall into a health and safety category; Grass and weed height will be addressed with a door hanger and only escalated if violation becomes egregious. Dormant yards are not \"dead\" yards",
+        "CONSERVATION PROGRAMS: Slow the Flow: Get a free irrigation checkup and free smart controller and rain sensor if needed; Garden in a Box: $25 discount on xeric gardens; Lawn replacement: Up to $750 discount; 4 free Garden in a Box kits at no cost with DIY sod removal; $75 toilet rebate; $100 washing machine rebate; $50 rain barrel rebate; Education",
+        "If CR-67 is approved, the Stage 2 Drought Declaration would be in effect until lifted. The resolution authorizes the City Manager to lift the declaration should conditions substantially improve.",
+        "Becky Smith, Director of Planning and Development, 303.450.8741",
+        "Sarah Borgers, Director of Public Works, sborgers@northglenn.org or 303.450.4005",
+        "Northglenn Municipal Code Section 16-23-1 authorizes City Council to declare a drought and the City Manager to promulgate rules and regulations upon such declaration."
+      ]
+    },
+    {
+      "label": "City of Northglenn public meeting records: City Council vote on CR-67, 13 April 2026",
+      "url": "https://webdocs.northglenn.org/vote/117206/4445",
+      "checked": "2026-09-12",
+      "supports": [
+        "Voting archives from City Council meeting on 2026-04-13",
+        "CR-67 - Stage 2 Drought Declaration — Yes: 8, No: 0, Abstain: 0"
+      ]
+    },
+    {
+      "label": "City of Northglenn: CR-68, Progressive Schedule of Drought Fines, City Council packet, 13 April 2026 (PDF)",
+      "url": "https://webdocs.northglenn.org/file/117206/packet/CR-68_progressive_drought_fines.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "A RESOLUTION APPROVING A PROGRESSIVE SCHEDULE OF WARNINGS AND/OR FINES FOR VIOLATIONS OF MANDATORY WATER RESTRICTIONS",
+        "Section 1. The following Progressive Schedule of Warnings and/or Fines for Violations of Mandatory Water Restrictions is hereby adopted by the City Council of the City of Northglenn:",
+        "Warning — Educational Door Hanger; 1st Penalty — $50.00; 2nd Penalty — $300.00; 3rd Penalty — $999.00",
+        "The assessment of these fines will be through the City utility bill for the responsible party's billing account.",
+        "Northglenn Municipal Code allows for City Council to establish a progressive schedule of warnings and/or fines by resolution.",
+        "PUBLIC WORKS MEMORANDUM #12-2026 — DATE: April 13, 2026 — SUBJECT: CR-68 - Progressive Schedule of Drought Fines"
+      ]
+    },
+    {
+      "label": "City of Northglenn public meeting records: City Council vote on CR-68, 13 April 2026",
+      "url": "https://webdocs.northglenn.org/vote/117206/4446",
+      "checked": "2026-09-12",
+      "supports": [
+        "Voting archives from City Council meeting on 2026-04-13",
+        "CR-68 - Progressive Schedule of Drought Fines — Yes: 8, No: 0, Abstain: 0"
+      ]
+    }
+  ],
+  "reviewNotes": [
+    "northglenn.org itself returns HTTP 403 to every automated request, including its drought and water-conservation pages, so the city's own code library (municode.northglenn.org) and its public meeting records (webdocs.northglenn.org) were used instead. Both are City of Northglenn systems.",
+    "Unsettled: whether a residential artificial turf job needs a permit from Northglenn, and whether any city or Resource Central lawn-replacement discount can be applied to artificial turf rather than to planting. No opened source answers either, so the page names Planning and Development and Public Works and says what to ask.",
+    "The Stage 2 declaration runs until lifted and the City Manager may lift it without a further Council vote; no later drought action appears in the city's meeting records as of 12 September 2026, so the page dates the declaration and tells the reader to confirm the current stage with Public Works.",
+    "Correction, 12 September 2026: the $50 / $300 / $999 tiers appear in the CR-67 packet only as a staff recommendation, which is not the operative rule. They were in fact adopted the same evening as a separate resolution, CR-68, 'A Resolution Approving a Progressive Schedule of Warnings and/or Fines for Violations of Mandatory Water Restrictions', passed 8-0. The page now cites CR-68 and its vote record for the tiers instead of CR-67 or Article 16-23, and no longer says the fines are billed 'rather than written as a ticket' — 16-23-4 reads 'upon conviction', so the page says only that assessment is through the city utility bill, which both 16-23 and the CR-68 memo state.",
+    "Correction, 12 September 2026: an earlier draft said Renohill is mapped on ground running 3 to 9% and hung it on the Article 11-4 link, which contains no soil data. No public source opened for this page carries that figure for Northglenn ground, so the number is removed. The six-percent slope bar in 11-4-7(f)(4) stands on its own and the page says the fall is measured at the visit.",
+    "Correction, 12 September 2026: the code reads 'All artificial turf seams shall be flued and not sewn' — 'flued' is an apparent typo in the code itself. The page no longer silently rewrites it to 'glued'; it says 'no sewn seams', which is the half of the sentence that is legible.",
+    "Correction, 12 September 2026: 'Northglenn buys and bills its own water' overstated the sources. Nothing opened says the city buys water. Section 16-10-4 says 'fresh water supplied by the City to all utility accounts' and 16-23-1 says 'all customers of the Northglenn water system', so the page now reads 'supplies and bills its own water'."
+  ]
+}

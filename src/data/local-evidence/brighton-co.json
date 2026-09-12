@@ -1,0 +1,69 @@
+{
+  "intent": "Where may artificial turf go on a Brighton lot, and what does the City's own code require of it?",
+  "distinctValue": "Brighton writes artificial turf into its own Land Use & Development Code, not into a water utility's rebate rules: Table 8-1 in Section 8.02 caps artificial turf at 20% of the frontage area on a detached house, duplex/multi-unit house or row house and names no percentage for back yards, while Section 8.04.E.4 requires every landscape plan to create a living ground cover over at least 50% of the landscape area (8.04.E.6 caps non-living materials at 50% as well) — artificial turf is not living cover, so the two provisions are in tension and the page sends the reader to Community Development rather than picking a winner. Table 8-4 in Section 8.04 sets a minimum percolation rate of 5 inches per hour for the turf and anything under it. Section 8.01.B decides whether those standards reach a given project. Thornton's 25% front-yard cap, 2-inch-per-hour backing and Minor Development Permit come from Thornton Water's rebate rules; Commerce City and unincorporated Todd Creek have no equivalent municipal turf provision on file.",
+  "sources": [
+    {
+      "label": "City of Brighton Land Use & Development Code, Section 8.02 Landscape Design (Table 8-1: Plant Requirements)",
+      "url": "https://library.municode.com/CO/Brighton/codes/land_use?nodeId=ART8LASIDEST_8.02LADE",
+      "checked": "2026-09-12",
+      "supports": [
+        "Detached house, duplex/multi-unit house, and row house building types may have artificial turf in frontage areas but artificial turf shall be limited to 20% of the frontage area.",
+        "Backyards of the detached house, duplex/multi-unit house, and row house building types may have irrigated turf, water-wise landscape, non-living landscape materials, native seed, artificial turf, or any combination thereof.",
+        "Streetscape and Frontage: The area between the building line and the street, including any plantings required in the ROW, used to create a relationship between the site and the public realm.",
+        "All other building types, development sites, and landscape tracts shall limit irrigated turf to designated recreation areas approved by the Director. Artificial turf may be used in lieu of irrigated turf on athletic fields or designated recreation areas approved by the Director.",
+        "The required landscape shall be based on different elements of the site according to Table 8-1, Plant Requirements.",
+        "Section cited as amended by Ord. No. 2405, 1-3-2023 and Ord. No. 2438, 1-2-2024; the Land Use code is codified through Ordinance No. 2507, adopted June 16, 2026 (Supp. No. 6, Update 1)."
+      ]
+    },
+    {
+      "label": "City of Brighton Land Use & Development Code, Section 8.04 Plant Specifications (Table 8-4 and water-wise landscape)",
+      "url": "https://library.municode.com/CO/Brighton/codes/land_use?nodeId=ART8LASIDEST_8.04PLSP",
+      "checked": "2026-09-12",
+      "supports": [
+        "Artificial Turf: The chosen material and any underlayment installed below the turf shall have a minimum percolation rate of 5 inches per hour.",
+        "The liner material and all bedding shall be permeable to allow for infiltration of water into the soil below to mimic conditions of sod and natural grasses.",
+        "Artificial turf shall be cleaned and debris removed on a regular basis. Artificial turf shall be replaced when it is no longer simulating the infiltration properties of sod or native grasses.",
+        "E. Water-wise Landscape. All landscape plans shall conserve water with landscape materials and design techniques using the following water-wise principles.",
+        "4. Choose plants from the Plant Specifications in Section 8.04 for trees, shrubs, and to create a living ground cover of at least 50% of the landscape area based on mature size of vegetation.",
+        "6. No more than 50% of the landscape area may be covered with non-living materials including bark mulch, wood chips, rock, stone, gravel, or cobble.",
+        "2. New irrigated turf shall be limited to areas specified in Table 8-1.",
+        "Section cited as (Ord. No. 2438, §§ 21—24, 1-2-2024).",
+        "Note: 8.04.E.4 and Table 8-1's backyard row are in tension for artificial turf. Table 8-1 lists artificial turf among the backyard materials with no percentage; E.4 requires living ground cover over at least 50% of the landscape area and artificial turf is not living cover. The page states both and sends the reader to Community Development; it does not claim the back yard is uncapped."
+      ]
+    },
+    {
+      "label": "City of Brighton Land Use & Development Code, Section 8.01 Intent & Applicability",
+      "url": "https://library.municode.com/CO/Brighton/codes/land_use?nodeId=ART8LASIDEST_8.01INAP",
+      "checked": "2026-09-12",
+      "supports": [
+        "The standards of this Section shall apply to all new development except: 1. Improvements or repairs to detached houses and duplexes that are not subject to a Site Improvement / Residential Design Review as provided in Section 2.05, and which are not part of a larger residential neighborhood or subdivision plan;",
+        "2. Improvements or repairs to existing development that do not result in an increase in building footprint or impervious surfaces by more than 10% or changes in use that do not result in an increase in intensity.",
+        "In cases where improvements or repairs increase the building footprint or impervious surface by more than 10% or changes intensity of use, the intent is to bring the site into full compliance with these standards, except that the Director may prorate the requirements."
+      ]
+    },
+    {
+      "label": "City of Brighton Land Use & Development Code, Section 2.05 Site Improvement",
+      "url": "https://library.municode.com/CO/Brighton/codes/land_use?nodeId=ART2APPR_2.05SIIM",
+      "checked": "2026-09-12",
+      "supports": [
+        "2. Residential Design Review. Residential design review applies to all residential buildings, including detached houses and duplexes, unless they are otherwise subject to Site Plan Review under Section 2.05. Specifically, it applies to the following when adjacent to or across the street from two or more lots with existing buildings: a. Any new residential building; and b. Substantial expansion of an existing building equal or greater than 25% of the principal building original gross floor area (including attached garages but excluding detached garages.)",
+        "The site improvement permit review applies to all buildings and sites, except detached houses and duplexes, subject to the following eligibility criteria.",
+        "Note: the code does not say in terms that a landscape change falls outside Residential Design Review. Nothing on the page asserts that; the page tells the reader to ask Community Development which case the address falls under."
+      ]
+    },
+    {
+      "label": "City of Brighton: watering restrictions (re-checked)",
+      "url": "https://www.brightonco.gov/578/Watering-Restrictions",
+      "checked": "2026-09-12",
+      "supports": [
+        "Sod installation or replacement is prohibited for areas exceeding 200 square feet through Sept. 30, 2026. Beginning Oct. 1, 2026, the City will begin to issue sod permits.",
+        "To help protect the City's water supply, Brighton City Council approved Stage 1 drought restrictions on irrigation and outdoor water use at the April 7, 2026 meeting. The restrictions will continue through Nov. 15, 2026.",
+        "Even Street Addresses: Irrigation allowed Tuesday and Friday only. Odd Street Addresses: Irrigation allowed Wednesday and Saturday only. Unassigned Addresses: Irrigation allowed Monday and Friday only.",
+        "Irrigation is prohibited for all customers of City of Brighton Water between the hour of 10 a.m.-6 p.m., unless a sod permit has been issued to the property as of Oct. 1, 2026, as described further below.",
+        "Watering schedule is limited to twice a week, unless a sod permit has been issued to the property as of Oct. 1, 2026, as described further below.",
+        "Beginning Oct. 1, 2026, the City will issue free sod permits that include a strict watering schedule to allow newly installed sod to become established.",
+        "First violation: Warning / Second violation: Warning / Third violation: $125 fine for water taps up to 1 inch, $500 fine for taps between 1.5 to 4 inches, or a $1,500 fine for taps greater than 4 inches. / Fourth: Municipal summons and a mandatory court appearance."
+      ]
+    }
+  ]
+}

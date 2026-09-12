@@ -1,0 +1,106 @@
+{
+  "intent": "On a Nassauville acre with a well, a septic drainfield and marsh at the back, where on the parcel is a putting green or lawn actually allowed to go?",
+  "distinctValue": "What separates a Nassauville acre from every other page on this site is that Nassau County's own planning documents place it outside the utility service area, so the well and the septic reserve are permanent features of the layout rather than a soil note. The 2030 comprehensive-plan analysis names the place: \"It also includes the southern area of Nassauville and Holly Point, an established community lying outside of the JEA utility service area.\" The 2019 Water Supply Facilities Work Plan lists the only three potable suppliers in the unincorporated county (JEA, the City of Fernandina Beach and the county-owned Nassau Amelia Utilities, \"whose water service area is limited to the south end of Amelia Island\"), says a significant portion of the unincorporated area is on domestic self-supply, and states there are no countywide plans to remove private wells or to connect septic tank properties to a centralized sewer system. That is the fact the neighbouring pages cannot borrow: Amelia City and Amelia Island sit at the south end of the island inside the county utility's water service area, and Fernandina Beach has its own. On that footing the rest of the page becomes address-specific rather than portable law: Rule 62-6.005 holds the system 75 feet off a private potable well and 75 feet laterally off the boundaries of surface water bodies (50 feet for a lot platted before 1972 under s. 381.0065(4)(g)2., F.S.), which on an acre running from Nassauville Road to the Nassau River leaves only a band of ground free, and Rule 62-6.006's site evaluation criteria keep the drainfield and its 1.5x unobstructed reserve clear of asphalt, concrete, vehicular traffic and other activity as 62-6.002(41) defines it. The marsh edge is set by Nassau County LDC § 37.03: a twenty-five-foot undisturbed natural vegetative upland buffer off the SJRWMD or DEP wetland jurisdictional line, never below fifteen feet under averaging, with the section's own note binding the property owner not to disturb or remove it at any time, and one unpaved walkway or elevated catwalk of no more than five feet per lot. The page names the two offices that answer what the text does not: Nassau County Planning on 904-530-6320 for the buffer as applied to a parcel, and the Florida Department of Health in Nassau County, which still permits and inspects septic here, for a turf base over the drainfield reserve.",
+  "sources": [
+    {
+      "label": "Nassau County Code, Appendix A (LDC), Art. 37, § 37.03 (Wetlands and upland buffers)",
+      "url": "http://nassaucounty-fl.elaws.us/code/coor_apxa_florida_art37_sec37.03",
+      "checked": "2026-09-12",
+      "supports": [
+        "A minimum undisturbed natural vegetative upland buffer of twenty-five (25) feet shall be required and maintained between developed areas and contiguous (i.e., non-isolated) wetlands to protect the water quality of the wetlands.",
+        "The twenty-five (25) feet shall be measured from the St. Johns River Water Management District or Florida Department of Environmental Protection wetland jurisdictional line.",
+        "In no instance shall the upland buffer be less than fifteen (15) feet, except for those areas adjacent to unavoidable wetland impacts such as road crossings.",
+        "The buffering requirements stipulated above shall only apply to projects for which a permit is not required by the St. Johns River Water Management District (SJRWMD). Projects which do require such permitting shall reflect the buffers approved by SJRWMD upon submittal of development plans for county approval.",
+        "Upland buffers shall be maintained in their natural vegetated condition.",
+        "One unpaved walkway or elevated catwalk of no more than five (5) feet in width may be provided through the upland buffer for each lot.",
+        "In all cases, the applicable buffer shall be depicted on all site plans, development plans, plats and other documents submitted to authorize the review for development.",
+        "It is the developer's responsibility to inform any prospective buyer that the required buffer of native vegetation is not to be disturbed or removed at any time by the property owner as this will be a violation of the adopted Nassau County Comprehensive Plan."
+      ]
+    },
+    {
+      "label": "Fla. Admin. Code r. 62-6.005: Location and Installation (onsite sewage)",
+      "url": "https://www.law.cornell.edu/regulations/florida/Fla-Admin-Code-Ann-R-62-6-005",
+      "checked": "2026-09-12",
+      "supports": [
+        "Seventy-five feet from a private potable well as defined in paragraph 62-6.002(44)(a), F.A.C., or a multi-family water well as defined in paragraph 62-6.002(44)(c), F.A.C.",
+        "Except for the provisions of Sections 381.0065(4)(g)1. and 2., F.S., systems must not be located laterally within 75' feet of the boundaries of surface water bodies.",
+        "Suitable, unobstructed land must be available for the installation and proper functioning of the system. The minimum unobstructed area must: (a) Be at least 1.5 times as large as the drainfield absorption area required by rule. For example, if a 200' square feet drainfield is required, the total unobstructed area required, inclusive of the 200' square feet drainfield area, would be 300' square feet.",
+        "(b) Be contiguous to the drainfield.",
+        "(c) Be in addition to the setbacks required in subsections (1), (2), and (3) above."
+      ]
+    },
+    {
+      "label": "Fla. Admin. Code r. 62-6.006: Site Evaluation Criteria",
+      "url": "https://www.law.cornell.edu/regulations/florida/Fla-Admin-Code-Ann-R-62-6-006",
+      "checked": "2026-09-12",
+      "supports": [
+        "Onsite sewage treatment and disposal systems may be utilized where lot sizes are in compliance with requirements of subsection 62-6.005(7), F.A.C., and all of the following criteria are met:",
+        "The site of the installation and the additional required unobstructed land referred to in subsection 62-6.005(4), F.A.C., shall not be covered with asphalt or concrete, or be subject to vehicular traffic or other activity as defined in subsection 62-6.002(41), F.A.C., which would adversely affect the soil, or the operation of the system."
+      ]
+    },
+    {
+      "label": "Fla. Admin. Code r. 62-6.002: Definitions (obstructed land)",
+      "url": "https://www.law.cornell.edu/regulations/florida/Fla-Admin-Code-Ann-R-62-6-002",
+      "checked": "2026-09-12",
+      "supports": [
+        "Obstructed land - those areas on a lot or property used for such purposes as pools, concrete slabs, buildings, driveways, parking and similar areas which prohibit, hinder, or affect the installation, operation or maintenance of an onsite sewage treatment and disposal system."
+      ]
+    },
+    {
+      "label": "Florida Department of Health in Nassau County: onsite sewage disposal (OSTDS)",
+      "url": "https://nassau.floridahealth.gov/programs-and-services/environmental-health/water-quality/onsite-sewage-disposal/",
+      "checked": "2026-09-12",
+      "supports": [
+        "The OSTDS program ensures that the OSTDS is properly designed, constructed, and maintained through permitting and inspection",
+        "Operating permits are required for aerobic treatment units (ATU), performance based treatments systems (PBTS), commercial septic systems, and industrial or manufacturing zoned (or equivalent) septic systems.",
+        "Phone: 904-557-9150",
+        "86014 Pages Dairy Road, Yulee, FL 32097"
+      ]
+    },
+    {
+      "label": "Nassau County: Land Development Code (Planning Department)",
+      "url": "https://www.nassaucountyfl.com/1212/Land-Development-Code",
+      "checked": "2026-09-12",
+      "supports": [
+        "For more information, please contact the Nassau County Planning Department at 904-530-6320.",
+        "Nassau County Land Development Code (Ord. 97-19)"
+      ]
+    },
+    {
+      "label": "Fla. Stat. § 381.0065(4)(g): onsite sewage treatment and disposal systems (setback exceptions)",
+      "url": "https://www.flsenate.gov/Laws/Statutes/2024/381.0065",
+      "checked": "2026-09-12",
+      "supports": [
+        "This section and rules adopted under this section relating to soil condition, water table elevation, distance, and other setback requirements must be equally applied to all lots, with the following exceptions:",
+        "Lots platted before 1972 are subject to a 50-foot minimum surface water setback and are not subject to lot size requirements."
+      ]
+    },
+    {
+      "label": "Nassau County 2030 Comprehensive Plan, Future Land Use Element, Background Data and Analysis",
+      "url": "https://www.nassaucountyfl.com/DocumentCenter/View/18158/12--Background-DA--Future-Land-Use-Element",
+      "checked": "2026-09-12",
+      "supports": [
+        "It also includes the southern area of Nassauville and Holly Point, an established community lying outside of the JEA utility service area.",
+        "The Coastal Development Area consists of the unincorporated portions of Amelia Island, lands adjacent to the Amelia River, and the lands surrounding the estuarine system of the Nassau and St. Mary's Rivers."
+      ]
+    },
+    {
+      "label": "Nassau County Water Supply Facilities Work Plan, Public Facilities Element (2019-2030), Northeast Florida Regional Council, 2019",
+      "url": "https://nassaucounty.novusagenda.com/AgendaPublic/AttachmentViewer.ashx?AttachmentID=13826&ItemID=6506",
+      "checked": "2026-09-12",
+      "supports": [
+        "The following entities provide potable water service to unincorporated areas: JEA, City of Fernandina Beach, Nassau-Amelia Utilities",
+        "The County owns and operates Nassau Amelia Utilities, whose water service area is limited to the south end of Amelia Island.",
+        "In addition, a significant portion of the unincorporated area utilize domestic self-supply to meet water needs.",
+        "There are currently no countywide plans to remove private wells and connect those areas to a centralized water system. There are also no countywide plans to connect septic tank properties to a centralized sewer system."
+      ]
+    }
+  ],
+  "unresolved": [
+    "Neither Chapter 62-6, F.A.C., nor Nassau County's code names synthetic turf. Rule 62-6.006(4) keeps the drainfield site and its required unobstructed land clear of asphalt, concrete, vehicular traffic and other activity as defined in 62-6.002(41), but whether a drained turf base falls inside that is not settled by the published text. The page tells the reader to get that answer in writing from the Florida Department of Health in Nassau County, which still permits and inspects septic in this county, rather than stating one.",
+    "The utility statement is dated and the page says so. The Nassauville and Holly Point line comes from the 2030 comprehensive plan's background data and analysis; the no-plans-to-connect line comes from the 2019 Water Supply Facilities Work Plan. Service areas can change, so the page tells the reader to confirm what serves their own address rather than asserting that every lot is on a well.",
+    "Section 37.03's buffer table and depiction requirement are written for site plans, development plans and plats submitted for county review; its closing note binds the property owner not to disturb the buffer at any time. How the county applies it to a back-yard turf installation with no development application attached is not answered in the code text, so the page sends the reader to the Nassau County Planning Department, 904-530-6320, before the footprint is fixed.",
+    "The exact wetland jurisdictional line on any individual parcel is set by SJRWMD or DEP, not by the county and not by us; the page says the buffer is measured from that line rather than from the water's edge or a property line.",
+    "No artificial-turf rebate or incentive was found for Nassauville from Nassau County, SJRWMD or any utility; nothing added implies one exists."
+  ]
+}

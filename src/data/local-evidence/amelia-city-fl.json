@@ -1,0 +1,112 @@
+{
+  "intent": "My Amelia City lot is unincorporated Amelia Island and full of live oaks — who has a say over the yard, how close to a tree can the turf base actually be dug, and who supplies the water?",
+  "distinctValue": "The neighbouring pages hand the reader either a city process (Fernandina Beach's Historic District Council and Certificate of Appropriateness), a gate (Amelia Island's architectural review boards) or a blank (Nassauville's no-HOA parcels). None of them names the one rulebook that governs an Amelia City yard and nowhere else: Nassau County's tree ordinance for the unincorporated areas of Amelia Island, § 37.02, adopted as Ordinance No. 2021-012 on 9 August 2021 and in effect since 7 February 2022. It does not reach the City of Fernandina Beach and it does not reach mainland Nassauville. This page gives the buyer the numbers that set the edge of a turf layout here: protected tree at 5 inches DBH, specimen live oak at 40 inches DBH released only by the Nassau County-Amelia Island Tree Commission, a tree protection zone of six times the DBH with a 6-foot minimum (the county's own worked examples: a 10-inch trunk gets a 6-foot zone, a 20-inch trunk a 15-foot zone), and the list of what the ordinance forbids inside that zone — digging, grade changes, root compression, new impervious surfaces — which is exactly what a base excavation is. It also names the water utility the other pages leave vague: the Nassau Amelia system, largely south of A1A, which transferred from Nassau County to the Florida Governmental Utility Authority on 18 September 2025, and which publishes no schedule of its own but points customers at the district and the county.",
+  "sources": [
+    {
+      "label": "Nassau County: Unincorporated Amelia Island Tree Ordinance",
+      "url": "https://www.nassaucountyfl.com/1273/Unincorporated-Amelia-Island-Tree-Ordina",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"On August 9, 2021, the Nassau County Board of County Commissioners adopted Ordinance No. 2021-012, referred to as the 'Unincorporated Amelia Island Tree Protection and Replacement Ordinance'.\"",
+        "The ordinance's purpose is to \"minimize loss of trees to development within the unincorporated areas of Amelia Island\".",
+        "\"Click here for Nassau County Code of Ordinances, Section 37.02 - Unincorporated Amelia Island Tree Protection and Replacement\"",
+        "Florida Statute, Section 163.045: \"A local government may not require a notice, application, approval, permit, fee, or mitigation for the pruning, trimming, or removal of a tree on a residential property if the property owner possesses documentation from an arborist certified by the ISA or a Florida licensed landscape architect that the tree poses an unacceptable risk to persons or property.\"",
+        "NOT ON THIS PAGE: the 7 February 2022 effective date, the 5\" and 40\" DBH thresholds, and the tree protection zone formula. Those are cited to the ordinance summary PDF instead."
+      ]
+    },
+    {
+      "label": "Nassau County: Unincorporated Amelia Island Tree Protection Ordinance Summary",
+      "url": "https://www.nassaucountyfl.com/DocumentCenter/View/22775/Tree-Ordinance-Summary",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"Current tree protection ordinance was adopted August 9, 2021 and went into effect February 7, 2022. The original tree protection ordinance was implemented in 2013.\"",
+        "\"Please review 37.02 LDC for further details and a complete list of requirements.\"",
+        "\"Protected Tree – Any healthy tree, that's non-invasive , 5\" DBH or greater\"",
+        "\"Specimen Tree – Live Oak 40\" + DBH or 60\" + DBH multi-trunk\"",
+        "\"Removal of a protected tree requires a tree removal permit from the County.\"",
+        "Exemptions: \"State law exempts local governments from regulating the removal of any tree that present a danger to persons or property, if documented in a tree risk assessment report from an ISA certified arborist to the property owner.\"",
+        "Exemptions: \"Other exemptions: removal of fallen or dead trees, diseased trees as determined by ISA certified arborist; trimming around utility lines; and properly pruning and trimming trees; removal of brush and trees under 5\" DBH to reduce overcrowding and improve tree health; and removing trees in emergencies such as storm damage.\"",
+        "Exemptions: \"No exemptions for specimen tree removal – requires approval of NC-AITC with the justification that the tree is dead or fallen, or compromised as determined by certified arborist, or keeping the tree would remove all economically viable use of property, or no feasible design alternative exists that would allow for tree retention.\"",
+        "\"Permits are not required for pruning/tree maintenance. However, maintenance must be done to ISA and ANSI A300 pruning standards.\"",
+        "\"Tree protection zones (TPZ) shall be six times the DBH, or a minimum of 6' – for example, a 10\" DBH tree would require a 6-foot protection zone around the trunk. A 20\" DBH tree would require a 15-foot protection zone.\"",
+        "ZONE-SCOPED PROHIBITION (this is what the page reports as barred inside the zone): \"All development activities shall be prohibited within the tree protection zone, including any construction of buildings, structures, paving surfaces, stormwater retention or detention ponds, and temporary construction activities, including all digging, storage of construction material, mechanical clearing of underbrush and/or parking of construction vehicles.\"",
+        "SEPARATE, NOT ZONE-SCOPED (this is a duty to take protective measures, and the page reports it as such): \"Protective measures are required to avoid mechanical injuries to roots, trunk, and branches, injuries by chemical poisoning, grade changes, excavations, root compression, and new impervious surfaces.\"",
+        "\"When trenching or excavation within the tree protection zone of a tree intended for preservation is deemed necessary by the county engineer all trenching and excavating shall be done by directional boring/tunneling.\"",
+        "\"Tree barricades shall be installed prior to any development activity occurring on site, other than permitted clearing of brush to access protected trees.\"",
+        "\"Residents and developers will need to submit a tree removal application, which includes a tree protection and replacement plan/tree inventory, to the Planning Dept. for review. Applications can be found by visiting the County website or by request via email to treeinfo@nassaucountyfl.com.\"",
+        "\"When the request involves removal of three (3) or fewer trees, the inventory/survey does not need to be certified by an ISA-certified arborist, but must contain all requisite information.\"",
+        "\"Table 37-4[A] Amelia Island Protected Native Canopy Trees\" lists Quercus virginiana (Live Oak), Quercus laurifolia (Laurel Oak), Magnolia grandiflora (Southern Magnolia) and Juniperus silicicola (Southern Red Cedar), among others.",
+        "\"The NC-AITC is comprised of 5 voting members appointed by the BoCC consisting of one Planning and Zoning Board representative and lay citizens who are residents of the unincorporated area of Amelia Island\"",
+        "Enforcement names the county arborist: \"Violations of this ordinance should be reported to the code enforcement department ... and to the County Arborist at treeinfo@nassaucountyfl.com or 904-530-6300.\""
+      ]
+    },
+    {
+      "label": "Florida Governmental Utility Authority: systems",
+      "url": "https://www.fgua.com/about-us/systems/",
+      "checked": "2026-09-12",
+      "supports": [
+        "The Nassau Amelia system is \"largely south of A1A\" on Amelia Island.",
+        "The water and wastewater treatment plants are at \"5390 First Coast Highway in Amelia Island, Florida\".",
+        "\"On September 18, 2025, the system transferred from Nassau County to the FGUA\"",
+        "There are \"three supply wells located on the WTP site, fed from the Upper Floridan Aquifer\"."
+      ]
+    },
+    {
+      "label": "Florida Governmental Utility Authority: water restrictions",
+      "url": "https://www.fgua.com/customer-service/water-restrictions/",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"FGUA customers should follow the water restrictions in place by their local water management district or their local county/city government.\"",
+        "\"water restrictions often change on a seasonal basis, depending upon drought conditions\"",
+        "The page links Nassau County and the St. Johns River Water Management District as the authorities to check; FGUA publishes no irrigation schedule of its own."
+      ]
+    },
+    {
+      "label": "St. Johns River Water Management District: watering restrictions (Phase III order 2026-017)",
+      "url": "https://www.sjrwmd.com/wateringrestrictions/",
+      "checked": "2026-09-12",
+      "supports": [
+        "The current order is \"2026-017-WSO-Phase-III\".",
+        "\"The Phase III declaration applies to: Portions of Baker, Bradford, Lake, Clay, Duval, Flagler, Nassau, Putnam, and St. Johns counties within the District\" — portions of Nassau County, not the whole county.",
+        "\"Landscape irrigation is limited to one day a week and prohibited between the hours of 8 a.m. and 6 p.m.\"",
+        "\"Residential odd-numbered or no address: Saturday\" and \"Residential even-numbered address: Sunday\"",
+        "\"Aesthetic water use is prohibited, and additional restrictions apply to activities such as street and pressure washing.\"",
+        "Year-round schedule outside a shortage: during daylight saving time \"irrigation is limited to no more than two days per week on scheduled days\"; during eastern standard time \"irrigation is limited to no more than one day per week on scheduled days\".",
+        "\"Restrictions apply to private wells and pumps, ground or surface water and water from public and private utilities.\""
+      ]
+    },
+    {
+      "label": "St. Johns River Water Management District: Phase III extreme water shortage declared",
+      "url": "https://www.sjrwmd.com/2026/05/district-declares-phase-iii-extreme-water-shortage/",
+      "checked": "2026-09-12",
+      "supports": [
+        "Published by Communications at May 13, 2026 — the date the district declared the Phase III Extreme Water Shortage.",
+        "\"landscape irrigation continues to be limited to one day per week for residential, commercial and institutional properties\"",
+        "\"Landscape irrigation is prohibited between 8 a.m. and 6 p.m.\"",
+        "\"Aesthetic water use is prohibited, and additional restrictions apply to activities such as street and pressure washing.\""
+      ]
+    },
+    {
+      "label": "St. Johns River Water Management District: September 2026 water resources update",
+      "url": "https://www.sjrwmd.com/2026/09/one-year-of-below-average-rainfall-continues-to-impact-water-resources-across-portions-of-the-district/",
+      "checked": "2026-09-12",
+      "supports": [
+        "Published 3 September 2026: the Phase III Extreme Water Shortage declaration \"remains in effect within affected areas\".",
+        "\"Residential and commercial properties are limited to one day per week of landscape irrigation\"",
+        "\"Landscape irrigation is prohibited between 8 a.m. and 6 p.m. daily\""
+      ]
+    }
+  ],
+  "notes": [
+    "The legacy research record for amelia-city-fl flagged the tree question as an open gap: it recorded that Nassau County 'operates an Amelia Island Tree Commission concerned with tree protection on unincorporated Amelia Island — SCOPE UNVERIFIED on the check date (the county's own PDF would not parse); confirm before making claims about tree-removal or root-zone permitting.' The county's own ordinance page and its published ordinance summary close that gap. The summary PDF was downloaded and read locally with pdftotext -layout.",
+    "Citation anchoring, corrected 12 September 2026: the county's /1273 web page carries the adoption date, the ordinance number, the unincorporated-Amelia-Island scope, the § 37.02 code reference and the Florida Statute 163.045 hazard-tree exemption, and nothing else. It does NOT carry the 7 February 2022 effective date or any DBH or protection-zone number. Those are now cited on the page to the ordinance summary PDF, which does carry them.",
+    "Prohibition scope, corrected 12 September 2026: the summary contains two different sentences and they are not interchangeable. Only one is scoped to the tree protection zone — 'All development activities shall be prohibited within the tree protection zone, including ... all digging, storage of construction material, mechanical clearing of underbrush and/or parking of construction vehicles.' The other is a general duty — 'Protective measures are required to avoid ... grade changes, excavations, root compression, and new impervious surfaces.' The page now reports the zone ban and the protective-measures duty as two separate things rather than merging grade change and root compression into the zone ban.",
+    "Removed 12 September 2026: the page previously concluded 'Cutting a base is digging, grade change and compaction by definition, so on a wooded lot the tree circle, not the property line, is what the turf edge gets measured from.' No source establishes that a homeowner's turf install is a 'development activity' under § 37.02 — both prohibition sentences are framed around development and construction. The page now states what the ordinance says, says plainly that the county has not settled in writing whether a residential turf base is development activity or a new impervious surface, and tells the reader to put that question to the county arborist at treeinfo@nassaucountyfl.com with a tree survey before the layout is fixed.",
+    "Exemptions added 12 September 2026: the permit requirement was previously stated flat. The summary's own Exemptions section lists dead and fallen trees, diseased trees as determined by an ISA-certified arborist, storm emergencies, utility-line trimming, proper pruning and trimming, and brush and trees under 5\" DBH; and the county's web page quotes FS 163.045, which bars local permitting for a residential tree an ISA-certified arborist or Florida licensed landscape architect documents as an unacceptable risk. Both now appear on the page. The specimen-tree line is reported as the county states it — 'No exemptions for specimen tree removal – requires approval of NC-AITC' — with the justifications the summary lists.",
+    "Water shortage order, re-anchored 12 September 2026: the page previously cited Action News Jax for 'the Phase III order that took effect on 11 May 2026' covering 'all of Nassau County'. That URL now returns a 451 geo-block and cannot be read, and both parts of the claim were wrong against the district's own pages: SJRWMD published the declaration on 13 May 2026, and the order covers 'Portions of ... Nassau ... counties within the District', not all of it. The page now cites the district's own declaration, its watering-restrictions page for order 2026-017 and the schedule, and its 3 September 2026 update confirming the order remains in effect. The Action News Jax source has been dropped from the page.",
+    "The legacy record said water service on the unincorporated south island is 'county/JEA or private/community system rather than the City of Fernandina Beach utility — VERIFY per address'. FGUA's own systems page settles the system identity: the Nassau Amelia water and wastewater system, largely south of A1A, now run by FGUA. It does not prove which utility bills any individual parcel, so the page still tells the reader to read their own bill, and notes that some south-end parcels are on wells.",
+    "Still not settled by any source: whether Nassau County treats a residential artificial-turf base as a 'development activity' or a 'new impervious surface' under § 37.02 on a particular lot, and how the county measures the protection zone where a live oak's root plate runs wider than the circle. The page asks the reader to email treeinfo@nassaucountyfl.com with a tree survey and ask those questions, rather than answering them.",
+    "Also not settled: whether the county's worked example of a 15-foot zone for a 20-inch trunk follows from the stated six-times-DBH formula. The page reports the county's two worked examples as the county states them and does not compute a third.",
+    "The 25 percent mitigation requirement, the tree fund, preservation credits and tree bank exchange areas in the same ordinance were read and deliberately left off the page: they attach to new development, not to a homeowner laying a lawn, and would mislead a buyer."
+  ]
+}

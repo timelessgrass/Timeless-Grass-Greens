@@ -1,0 +1,59 @@
+{
+  "intent": "Who has to approve a turf lawn or putting green in St. Augustine Shores, in what order, and what do the community's own recorded documents already rule out?",
+  "distinctValue": "The neighbouring pages stop at county code, condo documents and the two Florida statutes. This page names the body that actually reviews an exterior change here and the sequence it imposes: the St. Augustine Shores Service Corporation's Architectural Control Committee must receive every drawing before the St. Johns County Building Department does, paperwork lands at the Shores office a week before a meeting, and the committee has 30 days to act. It also carries the community's own recorded constraints that bear on a turf base and a golf-frontage green: the deed restrictions' bar on changes in elevation that interfere with drainage, the Unit 6 rear conservation and preservation easement in which no fill may be placed or removed, the five-foot cap on fences and on hedges and landscaping along the rear and side lines of golf course, lake front and Intracoastal lots with opaque slats expressly prohibited, the eight-Unit structure that decides which deed restrictions apply to a given address, and the verified absence of any mention of artificial turf in the manual, which is why the page tells the reader to put the question to the committee in writing.",
+  "sources": [
+    {
+      "label": "St. Augustine Shores Service Corporation: Architectural Control Committee Manual, January 2025 (Internet Archive copy of staugshores.com, captured 4 May 2025; the association's public site now redirects to a members' portal)",
+      "url": "https://web.archive.org/web/20250504100211/https://staugshores.com/wp-content/uploads/2025/01/ACC-Manual-revised-Jan-2025.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "Cover: \"St. Augustine Shores Service Corporation / Architectural Control Committee Manual (ACC FINAL) / REVISED AS PER 2024 LEGISLATIVE CHANGES SIGNED BY GOVERNOR RON DESANTIS / January 2025\".",
+        "Section 1A: \"The St. Augustine Shores Service Corporation Board of Directors, hereinafter referred to as the BOD, on January 9, 2025, has approved this manual outlining the requirements, and guidelines contained herein as intended for the use of the property owners in the St. Augustine Shores Sub Division\".",
+        "Section 4E: \"All drawings submitted to St. Johns County Building Department, including surveys, must first be submitted to the St. Augustine Shores Architectural Control Committee.\"",
+        "Section 4A: \"Homeowner or contractor should attend meeting. If there are any questions or issues and there is no one at the meeting representing the applicant, the application may be tabled until the next scheduled meeting.\"",
+        "Section 4B: \"All paperwork must be submitted to the St. Augustine Shores office at least one week prior to the meeting for review. There is a charge for each application. The homeowner must sign the application.\"",
+        "Section 7B: \"The ACC shall have thirty (30) days for review and approval or rejection of submitted drawings.\"",
+        "Section 3A: \"No residences, lot or property, additions thereto, add-ons, accessories, pools, fences or any other such structures, shall be erected, placed, constructed, altered or maintained upon any portion of said lots, unless a complete set of plans and specifications together with a plot plan indicating the exact location on the building site, shall have been submitted to, and approved by the ACC in writing.\"",
+        "Section 3A: \"The approval of said plans and specifications may be withheld, not only because of their noncompliance with any of the specific restrictions contained in this and other clauses hereof, but also by reason of the reasonable dissatisfaction of the ACC or its agent with the grading plan, location of the structure on the building site\".",
+        "Section 13A(d): \"Fences on golf course, lake front, or intra-costal lots shall be limited to a maximum height of five (5) feet, and shall not interfere with rear or side site line view. A chain link fence or other open fencing may be used on these properties, however, visual barriers, such as but not limited to, opaque slats within or attached to chain link fencing are expressly prohibited. Any solid or opaque fence or wall comprised of any other material shall be limited to a maximum height of five (5) feet. Hedges or other landscaping along the rear and/or side property lines along said lots shall also be limited to a maximum height of five (5) feet.\"",
+        "Section 6B: \"Unit 6 There shall be a conservation and preservation easement along the rear property line of the following described lots for the purpose of protecting and preserving a natural stream bed which runs along the boundary of said lots. No construction or alteration including the placement or removal of all fill materials or the construction of any fence, wall, or similar obstruction shall be permitted within any portion of any lot lying within such easement.\"",
+        "Section 7I6: \"All swales and lots (front, sides and rear) should be sodded. In-ground sprinkler systems are permitted on lots.\"",
+        "Section 7G1c: \"All sodded (front, sides, rear and swales) and landscaped areas (showing type, quantity and location of landscaping) and location of trees sought to be removed should be on the drawing. Specimen trees should be kept if possible. Stones or bushes in lieu of sod are not desirable; however, appropriate landscaping will be considered.\"",
+        "Section 1C: \"The ACC does not enforce County requirements, Southern Building Code requirements, or other regulatory agency requirements, but does advise the property owner when these permits are also required.\"",
+        "Section 5A gives a separate setback table for each of Units 1 through 8.",
+        "Verified absence: a full-text search of the extracted manual returns zero occurrences of \"turf\", \"synthetic\" or \"artificial grass\". The only occurrence of \"artificial\" is in the swimming-pool definition, \"capable of containing an artificial body of water\"."
+      ]
+    },
+    {
+      "label": "St. Augustine Shores Service Corporation: Deed Restrictions Overview and Summary, Deed Restriction Committee, June 2024 (Internet Archive copy of staugshores.com, captured 12 November 2024)",
+      "url": "https://web.archive.org/web/20241112065552/https://staugshores.com/wp-content/uploads/2024/06/Deed-Restrictions-overall-summary.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"St. Augustine Shores is a Deed Restricted Community composed of 8 Units. Each Unit has its own set of Deed Restrictions but there is overall agreement on the content of the Restrictions as a whole.\"",
+        "Item 9: \"Drainage: No changes in elevation which will interfere with drainage are permitted.\"",
+        "Item 3: \"Residential Sites and Building Size Restrictions: The Architectural Control Committee (ACC) must approve any added structures.\"",
+        "Item 6: \"Fences: No fences, walls, or hedges are permitted within the area between the rear of the house and the front street property line.\"",
+        "Item 4g: \"No lawn, fence, hedge, tree or landscaping feature on any lot shall be allowed to become obnoxious, overgrown or unsightly.\"",
+        "\"To identify in which Unit your property is located, you can call the Shores office or find your address on the St. Johns County Property Appraiser website which will indicate the unit.\"",
+        "\"The full Deed Restrictions for your Unit as well as the Architectural Control Committee Manual which further defines the specifications of these Deed Restrictions, may be found on the Shores website under the HOA tab, then the Documents tab.\"",
+        "\"This summary does not replace the actual Deed Restrictions for each Unit. Please consult your Unit's restrictions for specific rules related to your property.\""
+      ]
+    },
+    {
+      "label": "St. Johns County Property Appraiser",
+      "url": "https://www.sjcpa.gov/",
+      "checked": "2026-09-12",
+      "supports": [
+        "The office's site offers \"Search Property Records\" and \"Search Maps\", both linking to the county parcel search at qpublic.schneidercorp.com/Application.aspx?App=StJohnsCountyFL&Layer=Parcels&PageType=Search."
+      ]
+    }
+  ],
+  "reviewNotes": [
+    "The association's own domain, staugshores.com and staugshores.org, now issues a 301 to https://engage.goenumerate.com/s/StAugustineShores/ for every path, including these two PDFs, and that portal publishes no governing documents to the public. Both documents were therefore read from the Internet Archive captures cited above and are linked at those URLs. Re-check whether the association republishes them publicly before the next review.",
+    "The ACC manual is the association's own document, not a public ordinance. It states in Section 1C that the ACC does not enforce county requirements, so nothing here displaces St. Johns County review or the two Florida statutes already cited on the page.",
+    "The manual names no artificial-turf rule either way. The page therefore does not claim the ACC permits or forbids turf; it tells the reader to put the question to the committee in writing and names what the committee's landscape expectations currently say about sod.",
+    "The Unit 6 conservation and preservation easement applies to named lots in one block, recorded at Book 482/Page 201. The page refers to it as certain lots in Unit 6 rather than listing them, and tells the reader to check their own Unit's recorded restrictions.",
+    "Application fees and monthly assessments appear in both documents and are deliberately left off the page.",
+    "Not established: how the ACC treats a synthetic-turf lawn, whether any Unit's recorded restrictions name turf, or which Unit any particular address falls in."
+  ]
+}

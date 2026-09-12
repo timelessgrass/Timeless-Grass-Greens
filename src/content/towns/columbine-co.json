@@ -58,10 +58,13 @@
     },
     {
       "icon": "shield",
-      "kicker": "HOAs",
-      "h2": "No town hall. Your HOA's committee decides.",
+      "kicker": "County and HOA",
+      "h2": "No town hall. The county line first, then your HOA.",
       "paras": [
-        "Columbine is unincorporated. Jefferson County governs most of it and Arapahoe County the eastern part, so county land-use and grading rules apply, and they differ across that county line (<a href=\"https://en.wikipedia.org/wiki/Columbine,_Colorado\" target=\"_blank\" rel=\"nofollow noopener\">Wikipedia</a>).",
+        "Columbine is unincorporated and the county line runs through it: Jefferson County governs most of it and Arapahoe County the eastern part (<a href=\"https://en.wikipedia.org/wiki/Columbine,_Colorado\" target=\"_blank\" rel=\"nofollow noopener\">Wikipedia</a>). Settle which side your parcel is on before you ask anyone about grading. The two counties have written the question differently, and the same back yard gets a different answer.",
+        "On the Jefferson side the office is Planning &amp; Zoning and the threshold is published: land disturbance under half an acre, 21,780 square feet, is permissible without a grading permit, and a backyard pad is nowhere near that (<a href=\"https://www.jeffco.us/3978/Engineering-and-Earthwork\" target=\"_blank\" rel=\"nofollow noopener\">Jefferson County</a>). The performance standards apply whether or not a permit is required, so they shape the job anyway. Section 16 holds grading and erosion control at least 7 feet from your property boundaries and at least 25 feet from an occupied structure off your lot, wants flatwork or a foundation an excavation could affect underpinned or otherwise protected against settlement, and takes a letter from a Colorado registered professional engineer before a setback is waived (<a href=\"https://www.jeffco.us/DocumentCenter/View/2497/Section-16-Land-Disturbance-PDF\" target=\"_blank\" rel=\"nofollow noopener\">Jefferson County</a>). So we plan the pad, the fall and the edges to sit inside them.",
+        "On the Arapahoe side there is no number to look up. Its Land Development Code, dated 12 May 2026, says no land disturbance shall occur on any property without first obtaining a GESC permit unless the GESC Manual exempts it, and leaves which projects need one to that separate manual (<a href=\"https://files.arapahoeco.gov/Public%20Works_Development/zoning/Land%20Development%20Code/LandDevelopmentCodeRev12102024.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Arapahoe County</a>). The code defines land disturbance as purposeful alteration of existing ground contour by excavation, grading, filling or removal of ground cover vegetation, which is what a turf base is. Ask Public Works and Development whether yours is exempt, and keep the answer.",
+        "A putting green is the open question on the Jefferson side. The county requires a Miscellaneous Permit for sport courts, and its list runs from basketball and pickleball courts through playground equipment and swimming pools to golf courses and other outdoor sports and recreation areas, with setbacks and height limits set by your zone district (<a href=\"https://www.jeffco.us/3975/Outside-the-Home\" target=\"_blank\" rel=\"nofollow noopener\">Jefferson County</a>). It never names putting greens. Put that question to Planning &amp; Zoning in writing before you fix where a green goes.",
         "For most homes the approval that matters comes from the neighborhood association. Columbine Knolls, Columbine West, Columbine Hills, Burning Tree, Leawood, Wynetka Ponds and the rest each run their own architectural committee, and Southwest Metro even keeps an HOA outreach page of newsletter copy for the associations it serves (<a href=\"https://swmetrowsdco.gov/hoa-outreach\" target=\"_blank\" rel=\"nofollow noopener\">Southwest Metro Water</a>).",
         "On a detached house, state law bars an association's design guidelines from ruling out nonvegetative turf in the back yard (<a href=\"https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SB23-178</a>), so the committee's say is over the front yard and the details. Common ground is another matter; our <a href=\"/guides/colorado-hoa-turf-rules/\">guide to HOA turf rules</a> explains where the line falls."
       ]
@@ -93,6 +96,10 @@
     {
       "q": "Why does my patio heave?",
       "a": "The Denver soil under Columbine is about 50% clay in the subsoil, with high shrink-swell, and a fifth of the mapped unit is fill from the original grading (<a href=\"https://sdmdataaccess.sc.egov.usda.gov/\" target=\"_blank\" rel=\"nofollow noopener\">USDA</a>). Water from old sprinklers keeps that clay moving, and a turf lawn needs none."
+    },
+    {
+      "q": "Do I need a county permit for turf in Columbine?",
+      "a": "That depends which county your parcel is in. On the Jefferson side, probably not a grading permit: that starts at half an acre of disturbance, 21,780 square feet (<a href=\"https://www.jeffco.us/3978/Engineering-and-Earthwork\" target=\"_blank\" rel=\"nofollow noopener\">Jefferson County</a>). The land-disturbance performance standards still apply whether or not a permit is required, including a 7-foot grading setback from property boundaries (<a href=\"https://www.jeffco.us/DocumentCenter/View/2497/Section-16-Land-Disturbance-PDF\" target=\"_blank\" rel=\"nofollow noopener\">Jefferson County</a>). Sport courts are a separate Miscellaneous Permit, and the list doesn't name putting greens, so ask Planning &amp; Zoning about yours (<a href=\"https://www.jeffco.us/3975/Outside-the-Home\" target=\"_blank\" rel=\"nofollow noopener\">Jefferson County</a>). On the Arapahoe side the code publishes no threshold at all: it requires a GESC permit for any land disturbance unless the GESC Manual exempts the project (<a href=\"https://files.arapahoeco.gov/Public%20Works_Development/zoning/Land%20Development%20Code/LandDevelopmentCodeRev12102024.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Arapahoe County</a>). Ask Public Works and Development whether yours is exempt."
     }
   ],
   "nearby": [
@@ -137,8 +144,28 @@
     {
       "label": "Colorado SB23-178, signed act",
       "url": "https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf"
+    },
+    {
+      "label": "Jefferson County Zoning Resolution, Section 16: Land Disturbance",
+      "url": "https://www.jeffco.us/DocumentCenter/View/2497/Section-16-Land-Disturbance-PDF"
+    },
+    {
+      "label": "Jefferson County Planning & Zoning: outside the home",
+      "url": "https://www.jeffco.us/3975/Outside-the-Home"
+    },
+    {
+      "label": "Jefferson County: engineering and earthwork",
+      "url": "https://www.jeffco.us/3978/Engineering-and-Earthwork"
+    },
+    {
+      "label": "Arapahoe County Land Development Code (12 May 2026), Grading, Erosion and Sediment Control Permit",
+      "url": "https://files.arapahoeco.gov/Public%20Works_Development/zoning/Land%20Development%20Code/LandDevelopmentCodeRev12102024.pdf"
     }
   ],
-  "checked": "2026-09-07",
-  "publicReferences": []
+  "checked": "2026-09-12",
+  "publicReferences": [
+    "https://www.jeffco.us/DocumentCenter/View/2497/Section-16-Land-Disturbance-PDF",
+    "https://www.jeffco.us/3975/Outside-the-Home",
+    "https://files.arapahoeco.gov/Public%20Works_Development/zoning/Land%20Development%20Code/LandDevelopmentCodeRev12102024.pdf"
+  ]
 }

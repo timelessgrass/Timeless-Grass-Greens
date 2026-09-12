@@ -1,0 +1,80 @@
+{
+  "intent": "Before I put a putting green or turf lawn in my World Golf Village yard, what will my village's architectural committee actually require, and how long will it take?",
+  "distinctValue": "World Golf Village is a stack of separately governed villages, and at least one of them publishes its rulebook. The Meadows at World Golf Village bars non-plant materials as a lawn substitute (rule 207.8, October 2025), forbids changing the community's grading (rule 207.14), gives its Architectural Review Committee twenty business days from a complete application, states that silence is neither approval nor rejection, allows it to demand a sample or mock-up, sets a 48-hour cut-off for the meeting agenda and a fifteen-business-day appeal window, and has required approval for any 'landscaping or landscaping device or object' since its declaration was recorded in St. Johns County Official Records book 1657, page 1267 on 2 October 2001. None of the neighbouring pages (Mill Creek, St. Johns, Nocatee, St. Augustine) quotes a named association's own published standard, a recorded book-and-page, or a review clock; they stop at 'ask your architectural committee'.",
+  "sources": [
+    {
+      "label": "The Meadows at World Golf Village HOA: Rules and Regulations, October 2025 (adopted document, MEA-2025.10.19.035300)",
+      "url": "https://img1.wsimg.com/blobby/go/45ad12ad-696f-4ee1-a526-58a4f41d76ca/downloads/621cbd11-e1ee-45b3-834b-90c819d44dd9/Rules%20and%20Regulations%20-%202025%20October%20-%20Meadows.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "207.8: \"The following landscaping materials are not permitted: painted concrete and plastic plants. In addition, non-plant materials may not be used as a substitute for a lawn.\"",
+        "207.14: \"The grading throughout The Meadows at World Golf Village is designed to promote proper drainage and may not be changed. Each homeowner must maintain the correct grading of lots so that water drainage does not flow onto adjoining properties, or the Common Areas, and does not prevent off-flow from the same.\"",
+        "207.9: \"Alternate landscaping in compliance with ‘Florida-Friendly Landscaping’™ (Florida Statutes Section 373.185(1)(b)) may be established on the lot only after coordinating with and obtaining authorization from the Architectural Review Committee (ARC) to ensure the landscaping complies with the aesthetic standards, related to landscaping, of the community.\"",
+        "206.8: \"Some limited examples where approval is needed are: house painting, driveway resurfacing or expansion, landscaping that includes tree/shrub/lawn addition or removal, fencing, patios, porches/lanais and installation of playsets\"",
+        "206.9: \"An owner will be subject to a fine if a project is started without proper ARC review request and approval.\"",
+        "Page footer on every page: \"THE MEADOWS AT WORLD GOLF VILLAGE - HOMEOWNERS ASSOCIATION\"."
+      ]
+    },
+    {
+      "label": "The Meadows at World Golf Village HOA: Architectural Guidelines, revised and amended June 2025, effective 26 June 2025 (MEA-2025.06.26.223200)",
+      "url": "https://img1.wsimg.com/blobby/go/45ad12ad-696f-4ee1-a526-58a4f41d76ca/downloads/ab69a89b-fb00-43f1-9ba8-a4aa3b49b907/Architectural%20Guidelines%20-%202025%20June%20-%20Meadows.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "Cover page: \"THE MEADOWS AT WORLD GOLF VILLAGE / THE MEADOWS AT SAINT JOHNS OWNERS ASSOCIATION, INC. / A Deed Restricted Community / ARCHITECTURAL GUIDELINES / Revised and Amended June 2025 / Effective: June 26, 2025 (Adopted: June 26, 2025)\"",
+        "202: \"Any improvement or alteration to the residence or the lot, except interior alterations not affecting the external appearance, must first receive approval from The Meadows at World Golf Village HOA Architectural Review Committee (hereafter referred to as ‘ARC’) under the direction of the Board of Directors prior to commencing construction activity.\" The illustrative list ends \"...and any alteration of landscaping\".",
+        "205: \"The ARC may take twenty (20) business days to review the application after its receipt.\" and \"The twenty (20) business day review period will not begin until the application is complete and appropriate for review.\"",
+        "205: \"A nonresponse within twenty (20) business days does not constitute an approval or rejection.\"",
+        "205: \"The ARC reserves the right to request additional construction samples or mock-ups from a homeowner prior to approval.\"",
+        "205: \"DENIED: The application is denied. The owner can appeal to the ARC within fifteen (15) business days.\"",
+        "205: \"The ARC's approval is not a substitute for county approval.\" and \"All approvals are subject to the owner receiving approval for all applicable Saint Johns County permits.\"",
+        "320.3: \"Expanding or changing existing landscaping, including plant and removing trees, need requires ARC approval. Applicant must submit plan for approval.\"",
+        "320.6: \"When replacing lawns, owners are encouraged to use St. Augustine grass. The use of other water saving varieties of lawn turf grasses are permitted.\" The guidelines' landscape section addresses grass varieties; the words artificial turf and synthetic turf do not appear anywhere in the 56-page document (the only occurrence of ‘synthetic’ is ‘geo-synthetic PVC’ in a storm-protection fabric specification).",
+        "314.3.3: \"When a rear lot line fence faces a retention pond, the fence must contain a gate which allows direct access to area between the fence and the edge of the water for mowing and edging of grass without crossing into the neighboring lot. (Maintenance of the grass to the water edge is the responsibility of the owner or tenant of the residence.)\""
+      ]
+    },
+    {
+      "label": "Declaration of Covenants, Conditions, Restrictions and Easements for The Meadows at Saint Johns, recorded St. Johns County Official Records book 1657, page 1267 (instrument 01050857, recorded 2 October 2001), with amendments and articles of incorporation",
+      "url": "https://img1.wsimg.com/blobby/go/45ad12ad-696f-4ee1-a526-58a4f41d76ca/downloads/_The%20Meadows%20-%20Covenants%2C%20Amendments%20and%20HOA%20I.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "Cover sheet: \"Recorded in the Official Records of the Public Records of St. Johns County, Florida. Instrument #01050857. Book/Page OR 1657 / 1267. Record Date 10/02/2001. Doc Type RESTRICTIONS.\"",
+        "Section 7.2 (page stamped OR1657PG1291): \"any modifications to the New Construction, including, without limitation, the installation or change to the exterior of any building, fence, wall, sign, paving, grading, parking and building addition, screen enclosure, sewer, drain, disposal, landscaping or landscaping device or object, exterior lighting scheme, fountain, swimming pool, jacuzzi, awning, shelter and gates (hereinafter jointly referred to as ‘Proposed Modification’) shall be reviewed and approved by the MC.\"",
+        "Section 8.13 (page stamped OR1657PG1297): \"Landscapings are to be neatly trimmed, weeded and maintained. Lawn grass shall not exceed ten inches (10\") in height.\""
+      ]
+    },
+    {
+      "label": "The Meadows at World Golf Village HOA: Rules and Regulations page, with the ARC submission deadline",
+      "url": "https://themeadowswgv.com/rules-regulations",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"Requests must be submitted at least 48 hours before the next Architectural Review (ARC) Meeting in order to be promptly considered. Last-minute entries will be added to the agenda for the next month.\"",
+        "Homeowners submit the Architectural Review Request Form to the ARC at info@themeadowswgv.com, and HOA dues must be current before submission."
+      ]
+    },
+    {
+      "label": "The Meadows at World Golf Village HOA: documents to download (covenants, architectural guidelines, rules)",
+      "url": "https://themeadowswgv.com/download",
+      "checked": "2026-09-12",
+      "supports": [
+        "The association publishes its covenants and amendments, by-laws, Rules and Regulations (October 2025), Architectural Guidelines (June 2025) and the Architectural Review Request Form as public downloads.",
+        "Rule 206.6(a) of the Rules and Regulations: \"The Architectural Standards and Guidelines are posted on our website: www.themeadowswgv.com\"."
+      ]
+    },
+    {
+      "label": "Heritage Landing Community Development District: HOA page (the district distinguishes itself from the association that enforces covenants)",
+      "url": "https://heritagelandingcdd.vglobaltech.com/hoa",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"Heritage Landing is represented by a homeowner's association (HOA). The HOA is responsible for the enforcement of the covenants and deed restrictions, as governed by the adopted by-laws.\"",
+        "The page lists the association's services as administrative, financial, architectural reviews, enforcement activities, legal services and insurance provision."
+      ]
+    }
+  ],
+  "reviewNotes": [
+    "Verified against three first-party association documents plus two association web pages. No parcel, no membership and no approval for any address was determined.",
+    "Rules 207.8 and 320.6 do not name artificial or synthetic turf. The page therefore does not claim The Meadows permits or prohibits turf; it tells the reader to put the question to the committee in writing.",
+    "The Meadows is one village inside World Golf Village. Its numbers are not represented as applying to King & Bear, Murabella, Samara Lakes, Heritage Landing, Cascades or any other village; each publishes its own documents.",
+    "King & Bear's Standards & Guidelines and Master WGV Covenants pages are behind a resident login and returned no document text; they were not used.",
+    "Samara Lakes' posted restrictions PDF (myfilestorage.net) no longer resolves and was not used."
+  ]
+}

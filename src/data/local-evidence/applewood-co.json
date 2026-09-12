@@ -1,0 +1,107 @@
+{
+  "intent": "Applewood is all Consolidated Mutual, and Consolidated changed how it charges for water in 2026. What does a lawn cost me here now, and does an unincorporated yard need a county permit before the crew digs?",
+  "distinctValue": "Applewood is the one town on this market wholly inside Consolidated Mutual Water Company's service area — Lakewood and Wheat Ridge are split among Consolidated, Denver Water and Green Mountain, so their pages have to tell the reader to check the bill. Applewood's page can state Consolidated's own numbers as facts about this address: the tiered rates it began charging on 1 June 2026 ($5.60, $8.00 and $11.00 per thousand gallons on a one-ERU allotment, at 5,000 and 15,000 gallons a month), the share/ERU mechanism that moves those thresholds, and Drought Stage Orange — the second of Consolidated's five stages, Yellow > Orange > Red > Brown > Black — with its 25% reduction target, its two-day-a-week irrigation cap and its hand-watering exception. None of those figures appear on any other page on this site; Wheat Ridge and Lakewood cite only Consolidated's 1 October end date. The county permit answer is kept to one FAQ because it is a Jefferson County fact, not an Applewood one: Fairmount and Columbine state the same half-acre trigger, so this page answers the question once and names the office rather than building a block on it.",
+  "sources": [
+    {
+      "label": "Jefferson County: Engineering and Earthwork",
+      "url": "https://www.jeffco.us/3978/Engineering-and-Earthwork",
+      "checked": "2026-09-12",
+      "supports": [
+        "Grading Permit required when: \"The disturbance area exceeds one half acre (21,780 square feet).\"",
+        "Grading Permit also required when \"The applicant is proposing to stockpile 5,000 or more cubic yards of earthen material on a property and the material is not actively being used on said property.\""
+      ]
+    },
+    {
+      "label": "Jefferson County: Do I Need a Land Disturbance Permit?",
+      "url": "https://www.jeffco.us/DocumentCenter/View/10314/Do-I-Need-a-Land-Disturbance-Permit-PDF",
+      "checked": "2026-09-12",
+      "supports": [
+        "Permit table row: \"Anything Else | less than 0.5 acre | None*\" and \"Anything Else | 0.5 acre or more | Grading Permit\"",
+        "\"* Still need to meet performance standards as set forth in Section 16 of the Jefferson County Zoning Resolution.\"",
+        "\"Definition of Area of Disturbance: That area of the land's surface disturbed by any activity including but not limited to clearing, grading, excavation, demolition or other activities that exposes soil.\"",
+        "Form header: \"100 Jefferson County Parkway, Suite 3550, Golden CO, 80419, 303-271-8700, planning.jeffco.us\"; footer \"Form revised 07-07-2025\"."
+      ]
+    },
+    {
+      "label": "Jefferson County Zoning Resolution, Section 16: Land Disturbance",
+      "url": "https://www.jeffco.us/DocumentCenter/View/2497/Section-16-Land-Disturbance-PDF",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"All Land Disturbance Activities must conform to the performance standards as detailed in this section. These standards apply whether or not a Land Disturbance Permit is required.\"",
+        "Exempt from a Grading Permit: \"Projects which involve less than 0.5 acres of disturbed area.\"",
+        "\"Setbacks for all grading, erosion and sediment control activities shall be at least 7 feet from property boundaries and at least 25 feet from off-site occupied structures.\"",
+        "\"No work shall be done which may obstruct, impede or interfere with the flow of storm water in overland flows, natural drainageways, unimproved channels or watercourses, or improved ditches, channels or canals in such a manner as to cause flooding that adversely impacts adjacent and downstream properties.\"",
+        "\"Water Accumulation: All finished areas shall be graded and drained such that water will not pond or accumulate except where the end use is a pond, reservoir infiltration area or structure or detention basin.\"",
+        "\"Any activity taking place in an area zoned Floodplain Overlay District shall meet the requirements of the Floodplain Overlay District section of this Zoning Resolution.\"",
+        "Title block: \"Section 16: Land Disturbance\"; page footer \"Zoning Resolution - Amended 6-10-25\"."
+      ]
+    },
+    {
+      "label": "Jefferson County: Floodplain Management",
+      "url": "https://www.jeffco.us/2695/Floodplain-Management",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"A floodplain development permit must be obtained before doing any work within the floodplain overlay district.\"",
+        "\"Any work with our Floodplain Overlay District requires a Floodplain Permit from Jefferson County.\"",
+        "\"Contact Planning and Zoning with any questions including reporting of an illegal floodplain development.\" Planning & Zoning Division, 100 Jefferson County Parkway, Suite 3550, Golden, CO 80419, phone 303-271-8700."
+      ]
+    },
+    {
+      "label": "Consolidated Mutual Water Company: water use rules",
+      "url": "https://www.cmwc.net/your-water/water-use-guidelines/",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"No watering with spray irrigation between the hours of 10:00 a.m. and 6:00 p.m. during the period from May 1 to October 1\"",
+        "\"No watering landscaped areas during rain or high wind.\"",
+        "\"Do not allow water to pool or flow across the ground into any drainage way, street, alley or storm drain.\"",
+        "\"Water use is intended for beneficial purposes only. Water waste is prohibited.\"",
+        "Exceptions to the 10 a.m.-6 p.m. rule: \"Watering new plant material such as flowers, trees, and shrubs on the day of planting.\"; \"Watering which is essential to preserve turf subject to heavy public use.\"; \"Operating an irrigation system for installation, repair or reasonable maintenance, so long as the system is attended throughout the operation.\" (Because the page cannot state the hours rule without these carve-outs, and the drought insert's rule is stricter and current, the page now cites the insert instead and this link was dropped from the page's sources.)"
+      ]
+    },
+    {
+      "label": "Consolidated Mutual Water Company: Rates & Consumer Services (stockholder rates)",
+      "url": "https://www.cmwc.net/customers/rates/",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"Effective June 1, 2026, Consolidated will change its billing method for water services. We are transitioning to a tiered rate system based on usage. The rates will be structured as follows per thousand gallons used: Tier 1: $5.60 Tier 2: $8.00 Tier 3: $11.00\"",
+        "\"Each successive billing tier carries a higher billing rate to promote conservation and to support the additional load on our water system.\"",
+        "\"The shares you hold determine how much water you can use in each billing tier... Shares are purchased in multiples of 5. Every 5 shares equal 1 Equivalent Residential Unit (ERU). Your ERU count scales your tier threshold proportionately, so a customer with 2 ERU's simply has twice the allotment of a customer with 1 ERU.\"",
+        "Share table, 5 shares / 1 ERU: \"Tier 1: 0 - 5,000 gal | Tier 2: 5,001 - 15,000 gal | Tier 3: 15,001 + gal\", with \"All figures in gallons per billing cycle.\" and \"Contact CMWC for your account shares.\"",
+        "Monthly fixed service charge, 5/8\" Displacement meter: $22.55."
+      ]
+    },
+    {
+      "label": "Consolidated Mutual Water Company: drought and rate bill insert",
+      "url": "https://www.cmwc.net/wp-content/uploads/2026/04/cmwc_rates_flyer_FINAL.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "Heading: \"DUE TO HISTORIC DROUGHT CONDITIONS\" / \"CURRENT DROUGHT RESPONSE\".",
+        "\"Current Level: We are in Drought Stage Orange.\"",
+        "\"What the Status Entails: Targeted Water Reductions of 25% and Restrictions on Irrigation (2 days/week maximum & no watering between 10a -6p).\"",
+        "\"Where this Current Stage Falls within the Hierarchy: This is the second stage in our drought response plan. It goes Yellow > Orange > Red > Brown > Black\"",
+        "\"As a wholesale customer of Denver Water, CMWC is required to align its drought response with Denver Water's active restrictions.\"",
+        "\"UPDATED RATES: Standard residential customers (1 ERU*) are billed monthly in three tiers. Our new tiered rates are as follows: TIER 1 $5.60 first 5,000 gallons | TIER 2 $8.00 5,001-15,000 gallons | TIER 3 $11.00 above 15,000 gallons\"",
+        "\"These rate changes represent only a first step in our staged drought response plan. Should conditions worsen, both pricing and enforcement levels may be subject to further change.\"",
+        "Restrictions panel: \"No outdoor watering is permitted between 10 a.m. and 6 p.m. on any day.\" and \"Vegetables, flowers, trees, shrubs, and annuals may be watered any day by hand-held hose (with shut-off nozzle) or drip irrigation, subject to time-of-day requirements.\"",
+        "This is the \"bill insert\" linked from Consolidated's \"Important Drought & Rate Notice\", posted 19 April 2026 at https://www.cmwc.net/important-drought-rate-notice/ . The insert itself carries no date, so the page dates the stage as \"as of September 2026\", the date it was opened, rather than putting a publication date on it."
+      ]
+    },
+    {
+      "label": "Colorado Geological Survey: expansive soil and rock",
+      "url": "https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"Innocuous as it sounds, Colorado's most significant geologic hazard is expansive or swelling soil\"",
+        "\"These clays cause more property damage than any other natural hazard.\""
+      ]
+    }
+  ],
+  "notes": [
+    "The legacy research record for applewood-co flagged an HONEST GAP: \"Jefferson County's building and permit pages could not be reached this session - verify whether any grading or drainage permit threshold applies to large residential installs before publishing a 'no permit required' claim.\" The Jefferson County sources below close it, and the page answers it in one FAQ.",
+    "Why the county material is one FAQ and not a block: every Jefferson County fact here binds any unincorporated address in the county, not Applewood specifically, and the half-acre trigger, the Section 16 setbacks and the Planning & Zoning number are already carried by fairmount-co and columbine-co. The page states the permit answer once, with the office to ask, and puts its distinct material in the water block.",
+    "Corrections made after review: the permit sentence no longer says the County \"files home landscaping under 'Anything Else'\" - the County's table names Primary Structure, Access to a New Detached Living Space, Utility Work or Trail, Stockpile and Anything Else, and never mentions landscaping, so the page now presents the catch-all row as what a yard project falls to by elimination. The \"Anything Else\" table is cited to the flyer that contains it (DocumentCenter/View/10314), not to the Engineering and Earthwork page, which has no table. The threshold is quoted as \"exceeds half an acre\", matching the Engineering page it is cited to. The claim that Planning and Zoning \"will tell you your zoning, your floodplain status and where your excavation line has to stop\" is gone; no source predicts what the office will say.",
+    "Not settled by these sources: how many Consolidated shares are attached to any particular Applewood tap, which is what sets that home's tier thresholds. The page tells the reader to ask Consolidated, which the rates page itself instructs (\"Contact CMWC for your account shares.\").",
+    "Section 16's 7 ft / 25 ft setback is waivable: F.12.a continues \"Planning and Zoning may waive setback requirements for land disturbance provided it can be adequately demonstrated that activities occurring within setback limitations will not adversely affect adjacent property or structures\", on a Colorado registered professional engineer's letter. Rather than state a waivable rule as absolute, the page no longer states the setback at all; columbine-co carries it in full, with the waiver.",
+    "Lena Gulch and Maple Grove Reservoir were investigated as an Applewood floodplain angle and dropped: the sources found place the reservoir in Lakewood and the Mile High Flood District project in Westblade Park, neither of which evidences a floodplain inside Applewood. The page therefore makes no floodplain claim."
+  ]
+}

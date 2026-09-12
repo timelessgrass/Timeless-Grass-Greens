@@ -1,0 +1,79 @@
+{
+  "intent": "Where in my Westminster yard is artificial turf actually allowed, what does the city require of it afterwards, and who do I ask?",
+  "distinctValue": "Westminster's neighbours all have a municipal placement rule of some kind (Arvada bans turf in public view, Northglenn caps slope at 6%, Thornton caps front yards at 25%), so placement alone is not what sets this page apart. What is Westminster's alone is everything that happens around the placement rule: a perpetual maintenance standard (turf must be \"maintained in a manner to mimic a healthy living turf\" and the City can order replacement when it judges the surface no longer does), a named adjustment route through the Planning Manager for practical difficulty or hardship, ODP landscape amendment fees of $75 for an HOA (waived with the Neighborhood Landscape Enhancement Grant) and $250 for a business, retaining wall limits that decide how much level ground a sloped lot can get, the City's own on-record conclusion from a two-year front-yard pilot that artificial turf \"was not in support of City conservation goals, policies and code intent\", and the fact that the 2004 regulations are now being rewritten under the Unified Development Code, prospectively and not retroactively. The open space clause also bites harder here because the city holds over 3,000 acres of open space.",
+  "sources": [
+    {
+      "label": "City of Westminster: Landscape Regulations 2004 (PDF)",
+      "url": "https://www.westminsterco.gov/DocumentCenter/View/1138/City-of-Westminster-Landscape-Regulations-PDF",
+      "checked": "2026-09-12",
+      "supports": [
+        "LANDSCAPE REGULATIONS 2004",
+        "The use of artificial turf is generally prohibited, except for use in single-family detached or duplex lot yard areas not adjacent to a street, or public or private park or open space.",
+        "The City may consider other exceptions to this limitation on a case-by-case basis for sports fields and other limited applications.",
+        "For yard areas not adjacent to a public street, there is no minimum amount of landscape area. These yard areas shall be any combination of landscape area, hardscape, mulch or artificial turf.",
+        "The minimum landscape area for a single-family detached or duplex lot must be a minimum of 50% of each yard area adjacent to a street, unless approved otherwise by the City.",
+        "Artificial turf shall be installed according to industry specifications and maintained in a manner to mimic a healthy living turf. Replacement of artificial turf shall be required when the material, wear, or installation is such that it is determined by the City that it no longer visually mimics a healthy living lawn area.",
+        "Artificial Turf - refers to a non-living material typically used in lieu of a living turf/lawn.",
+        "These Landscape Regulations have been adopted by the Westminster City Council. All areas to be landscaped shall incorporate the requirements herein.",
+        "The Planning Manager is authorized to allow an adjustment from the strict application of the landscape and irrigation requirements in cases that involve practical difficulties or unnecessary hardship.",
+        "Retaining walls are commonly used to reduce steep slopes and create level areas. Wall heights shall not exceed 4 feet. Terracing steep slopes with a series of low retaining walls is a design solution for changes in grade that exceed 4 feet in elevation. Retaining walls shall be spaced a minimum distance apart of 7 feet. The slope between walls shall be per geotechnical recommendations and shall not exceed 4:1 (25%).",
+        "Dry-stacked native stone, pre-cast masonry block, or masonry block walls with stone, brick or stucco facing are required materials for retaining walls. Treated timber walls are prohibited - except for use by the resident homeowner in single-family detached or duplex lots.",
+        "The adjustment granted is the minimum necessary to alleviate such practical difficulties or undue hardship upon the owner or the property;",
+        "Hardscape area does not include artificial turf unless as approved otherwise in these Regulations."
+      ]
+    },
+    {
+      "label": "City of Westminster: landscape changes FAQ (PDF)",
+      "url": "https://www.westminsterco.gov/DocumentCenter/View/1457/Landscape-Changes---Frequently-Asked-Questions-FAQ-PDF",
+      "checked": "2026-09-12",
+      "supports": [
+        "The City of Westminster Community Development Department staff regularly assist residents and businesses in Westminster seeking to update their landscaping with lower water using choices.",
+        "The regulations were last updated in 2004 as a result of concerns coming out of the 2002 drought.",
+        "Artificial turf is allowed in single unit and duplex type development, when not adjacent to a street, park or open space. In practice this has allowed residents to install artificial turf in back yard areas without restrictions nor the need for City review.",
+        "Artificial turf may also be considered in limited applications based on a case-by-case evaluation, such as with athletic fields.",
+        "City staff finished a pilot project with a single unit homeowner to install artificial turf in their front yard. After two years of observation through all four seasons, staff concluded the current interpretation of the regulations shall remain in place.",
+        "The project revealed the use of artificial turf was not in support of City conservation goals, policies and code intent.",
+        "The City's landscape regulations require 50% of a front yard area in single-family neighborhoods to be vegetation, but not necessarily turfgrass.",
+        "Similar to the artificial turf provisions, the rear yard area is not regulated and may also be changed without an ODP amendment.",
+        "ODP landscape amendments are required in locations outside of a homeowner's private property such as HOA common areas, within commercial development, or within public rights of way.",
+        "For HOA-initiated ODP amendments, staff has established a new \"tier\" of ODP amendment with a $75 fee, which is a reduction from earlier procedures that required a $250 fee. The $75 fee is further waived for HOAs participating in the Parks, Recreation & Libraries Department's Neighborhood Landscape Enhancement Grant program. Commercial ODP landscape amendments are $250.",
+        "For other questions, please email us at planning@westminsterco.gov.",
+        "These regulations are being updated as part of the scope of work for larger Unified Development Code project to further water conservation and efficiency methods from multiple angles including reductions in the required area of landscaping on a site, innovative irrigation design and maintenance practices, and additional options for planting design and selection.",
+        "The updated regulations are prospective with new development and not retroactive.",
+        "Additionally, new state regulations have required restrictions in the application of artificial turf because of its contribution to negative environmental impacts such as the release of harmful chemicals, including plastics, microplastics, and perfluoroalkyl and polyfluoroalkyl chemicals into the environment and watersheds.",
+        "The City has no authority to force revisions to private HOA covenants, however through the new Unified development Code staff is proposing that new HOA governing documents would be included in review of future residential projects.",
+        "The median year built for homes in Westminster is 1985, therefore very few residential neighborhoods demonstrate the benefits of the revised 2004 regulations."
+      ]
+    },
+    {
+      "label": "City of Westminster: water tap and sewer fees",
+      "url": "https://www.westminsterco.gov/981/Water-Tap-and-Sewer-Fees",
+      "checked": "2026-09-12",
+      "supports": [
+        "One service commitment equals 140,000 gallons of annual water use.",
+        "Irrigation for all non-single family buildings and common areas within single-family developments require separate irrigation taps.",
+        "Separate irrigation taps are not required if water use is less than 35,000 gallons per year."
+      ]
+    },
+    {
+      "label": "City of Westminster: Parks & Open Space",
+      "url": "https://www.westminsterco.gov/176/Parks-Open-Space",
+      "checked": "2026-09-12",
+      "supports": [
+        "Volunteer with Westminster Open Space to maintain and preserve over 3,000 acres of open space property in your community.",
+        "Standley Lake Regional Park and Wildlife Refuge - Visit just for the day or spend a week exploring Standley Lake Regional Park and Wildlife Refuge. There's plenty of outdoor fun to experience at the 3,000 acre park!",
+        "Open Space & Trails - Westminster has 120 miles of trails that wind through open space and offer magnificent views, natural beauty, and access to wildlife corridors."
+      ]
+    },
+    {
+      "label": "City of Westminster: Open Space & Trails",
+      "url": "https://www.westminsterco.gov/381/Open-Space-Trails",
+      "checked": "2026-09-12",
+      "supports": [
+        "Westminster Open Space Trail System - Westminster has 126 miles of trails that wind through open space and offer magnificent views, natural beauty, and access to wildlife corridors.",
+        "Our five major trails are: Big Dry Creek Trail, Little Dry Creek Trail, Farmers' High Line Canal Trail, U.S. 36 Bikeway, Rocky Mountain Greenway Trail",
+        "As part of the City's regular wildlife surveys of open space, a pair of Burrowing Owls exhibiting nesting behavior has been identified in the Westminster Hills Open Space Dog Off-Leash Natural Area (WHOSDOLNA)."
+      ]
+    }
+  ]
+}

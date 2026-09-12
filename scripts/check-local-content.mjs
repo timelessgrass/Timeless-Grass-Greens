@@ -44,7 +44,12 @@ const urlsIn = (s) => [...s.matchAll(/https?:\/\/[^\s"'<>\\]+/g)].map((m) => {
   return norm(u);
 });
 const EVIDENCE_FILE = path.join(ROOT, 'src/data/local-evidence.json');
+const EVIDENCE_DIR = path.join(ROOT, 'src/data/local-evidence');
 const LOCAL_EVIDENCE = fs.existsSync(EVIDENCE_FILE) ? JSON.parse(read(EVIDENCE_FILE)) : {};
+// one file per page as well, so two writers working at once never overwrite each other
+if (fs.existsSync(EVIDENCE_DIR)) for (const f of fs.readdirSync(EVIDENCE_DIR).filter((x) => x.endsWith('.json'))) {
+  LOCAL_EVIDENCE[f.slice(0, -5)] = JSON.parse(read(path.join(EVIDENCE_DIR, f)));
+}
 const ALL_URLS = new Set(urlsIn(SITE_TEXT + JSON.stringify(Object.values(CITIES)) + JSON.stringify(LOCAL_EVIDENCE)));
 function norm(u) { return u.replace(/&amp;/g, '&').replace(/[.,;]+$/, '').replace(/\/$/, ''); }
 

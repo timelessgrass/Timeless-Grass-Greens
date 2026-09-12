@@ -37,12 +37,13 @@
       ]
     },
     {
-      "icon": "home",
+      "icon": "file",
       "kicker": "The rules",
-      "h2": "On many SR 13 parcels, there's no board to ask.",
+      "h2": "No board to ask. Past 100 feet, ask the county.",
       "paras": [
         "Switzerland is unincorporated St. Johns County, so no city code sits on top of the county's, and St. Johns County's development code says nothing about turf (<a href=\"https://www.sjcfl.us/wp-content/uploads/2024/01/article-vi.pdf\" target=\"_blank\" rel=\"nofollow noopener\">St. Johns County</a>). Many older acreage parcels along SR 13 sit outside any HOA, so there's no architectural review between you and a new lawn or green. Newer estate streets in the corridor do carry covenants, so read yours before you plan.",
-        "What the county does set is lot size. In the RS-E and Open Rural districts that cover much of the corridor, the minimum lot is an acre, with bigger minimums where a septic tank serves the house, and impervious surface is capped at 70%. On an acre, a lawn and a green sit comfortably inside that."
+        "The trees are the other matter, and there the acre works against you. The county lets an existing home clear ground and take protected trees without a permit only on a lot of record of an acre or less; on a bigger lot of record that same exemption reaches just the land within 100 feet of the perimeter of the house (<a href=\"https://www.sjcfl.us/wp-content/uploads/2024/01/Article-IV.pdf\" target=\"_blank\" rel=\"nofollow noopener\">LDC Sec. 4.01.05.C.11</a>). Wherever it reaches, it stops short of a specimen tree, a conservation area or a buffer (<a href=\"https://www.sjcfl.us/code-compliance/\" target=\"_blank\" rel=\"nofollow noopener\">St. Johns County</a>). An acre is the county's own floor in its large-lot districts: the minimum lot is one acre in RS-E and one acre for a single-family home in Open Rural (<a href=\"https://www.sjcfl.us/wp-content/uploads/2024/01/article-vi.pdf\" target=\"_blank\" rel=\"nofollow noopener\">LDC Table 6.01, 12 January 2026 edition</a>). So find your district and pull the recorded acreage of your lot of record before anything is drawn. An acre and a bit puts the woods past the ring on the permit side.",
+        "So the ring around the house is yours to clear and the woods past it are not. A green out in the part of the parcel that was never opened up needs the permit first, and the permit covers only the land clearing, grubbing, protected tree removal and understory work shown on the site plan filed with it (<a href=\"https://www.sjcfl.us/wp-content/uploads/2024/01/Article-IV.pdf\" target=\"_blank\" rel=\"nofollow noopener\">LDC Sec. 4.01.05.A</a>). Vegetation removal, root raking and under brushing all count as land disturbance, and lot clearing for a home site runs through the county's clearance sheet process (<a href=\"https://www.sjcfl.us/code-compliance/\" target=\"_blank\" rel=\"nofollow noopener\">St. Johns County</a>). Where the green sits decides whether you need the permit, so we settle the layout and that question together."
       ]
     },
     {
@@ -82,11 +83,19 @@
     },
     {
       "q": "Does Florida's turf rule apply to a lot bigger than an acre?",
-      "a": "No. The state standard, and the bar on local turf bans that rests on it, applies to single-family property of one acre or less (<a href=\"https://floridadep.gov/sites/default/files/SyntheticTurfFAQ%20final.pdf\" target=\"_blank\" rel=\"nofollow noopener\">DEP</a>). On a bigger parcel the county's own code governs, and it doesn't mention turf."
+      "a": "No. The state standard, and the bar on local turf bans that rests on it, applies to single-family property of one acre or less (<a href=\"https://floridadep.gov/sites/default/files/SyntheticTurfFAQ%20final.pdf\" target=\"_blank\" rel=\"nofollow noopener\">DEP</a>). On a bigger parcel the county's own code governs, and it doesn't mention turf. This is not the county's tree-clearing acre above: same number, two unrelated rules. One decides whether a local ban can reach you, the other whether clearing needs a permit."
     },
     {
       "q": "What should I check before turf goes in on an acre lot?",
       "a": "Three things: where the septic drainfield runs, how the lot drains toward the river, and which trees have roots in the way. The county sets larger minimum lots where a septic tank is used (<a href=\"https://www.sjcfl.us/wp-content/uploads/2024/01/article-vi.pdf\" target=\"_blank\" rel=\"nofollow noopener\">St. Johns County LDC</a>), and on a wooded parcel the job may start with clearing roots and brush. We check all of it on the free visit."
+    },
+    {
+      "q": "How close to the St. Johns can a lawn or green go?",
+      "a": "To the wetland line, not the water. St. Johns County's upland buffer is a strip along the edge of a wetland that has to stay undisturbed with all its existing vegetation, so where a parcel has wetland frontage that line, not the shore, is where the lawn stops. Widths vary with the project, the wetland and the location: generally 50 feet landward of the state jurisdictional wetland line on tidally influenced water, or 25 feet plus a further 25-foot building setback on other contiguous wetlands. An isolated wetland surrounded by uplands gets no county upland buffer at all (<a href=\"https://www.sjcfl.us/code-compliance/\" target=\"_blank\" rel=\"nofollow noopener\">St. Johns County</a>). Which of those your frontage falls under is not a thing to guess from a map, so ask the county's <a href=\"https://www.sjcfl.us/development-review-contacts/\" target=\"_blank\" rel=\"nofollow noopener\">Development Review Division</a> on 904-209-0675 whether your parcel carries a mapped wetland line and which buffer runs off it. Ask before the layout is drawn."
+    },
+    {
+      "q": "Is the live oak in my yard a specimen tree?",
+      "a": "At 50 inches across the trunk, yes. The county's table sets 49 inches for sand live oak, 48 for laurel oak and 61 for southern magnolia (<a href=\"https://www.sjcfl.us/wp-content/uploads/2024/01/Article-IV.pdf\" target=\"_blank\" rel=\"nofollow noopener\">LDC Sec. 4.01.05.D</a>). No exemption reaches a specimen. Where the exemption does reach, the code lets one go only if it is diseased or a substantial threat to the house, and otherwise only with the county administrator's approval. Outside it, that carve-out is gone: the code asks for good cause plus an alternative prepared by a certified arborist before a specimen is impacted at all. It changes the groundwork too. Where grade has to be cut under a specimen or historic tree, excavation inside its drip line is by hand, with roots of two inches and larger evenly cut, and a preserved tree counts as removed if machinery compacts or regrades its root zone. We plan the base and the access route around that."
     }
   ],
   "nearby": [
@@ -113,14 +122,32 @@
       "url": "https://floridadep.gov/sites/default/files/SyntheticTurfFAQ%20final.pdf"
     },
     {
+      "label": "St. Johns County Land Development Code, Article IV (Sec. 4.01.05, trees and land clearing)",
+      "url": "https://www.sjcfl.us/wp-content/uploads/2024/01/Article-IV.pdf"
+    },
+    {
+      "label": "St. Johns County: Development Review, land clearing and upland buffers",
+      "url": "https://www.sjcfl.us/code-compliance/"
+    },
+    {
+      "label": "St. Johns County: tree information for residential home sites",
+      "url": "https://www.sjcfl.us/wp-content/uploads/2023/08/Section-17.0.5-Tree-inch-worksheet.pdf"
+    },
+    {
       "label": "St. Johns Magazine: golf courses",
       "url": "https://www.stjohnsmag.com/golf-courses.html"
     },
     {
       "label": "Wikipedia: Switzerland, Florida",
       "url": "https://en.wikipedia.org/wiki/Switzerland,_Florida"
+    },
+    {
+      "label": "St. Johns County: Development Review contacts",
+      "url": "https://www.sjcfl.us/development-review-contacts/"
     }
   ],
   "checked": "2026-09-07",
-  "publicReferences": []
+  "publicReferences": [
+    "https://www.sjcfl.us/wp-content/uploads/2024/01/Article-IV.pdf"
+  ]
 }

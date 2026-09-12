@@ -1,0 +1,57 @@
+{
+  "intent": "I have acreage in Middleburg, much of it toward Black Creek. Which part of the property can I actually build turf on, and who has to say yes before the ground is cut?",
+  "distinctValue": "The neighbouring pages answer to overlay districts, protected trees, slope and shade. This page answers to Middleburg's own ground: Ortega fine sand, clean quartz that holds no water, everywhere except the Black Creek ravines and floodplain - and the creek here is measured by a National Weather Service forecast point named for the town, where minor flooding starts at 15 feet and the record crest is 27.89 feet. That is the hook no neighbour can use: Lake Asbury sits on the South Fork, Oakleaf on Double Branch, Lakeside and Doctors Inlet on Doctors Lake. It then carries the consequence a turf buyer needs: in a special flood hazard area Clay County calls filling, grading and excavation development and requires a floodplain development permit before work begins, with a no-rise study in the floodway, and the county's own interactive map settles the zone for an address.",
+  "sources": [
+    {
+      "label": "Clay County Utility Authority: Phase III water shortage restrictions (rechecked)",
+      "url": "https://clayutility.org/phase-iii-water-shortage-restrictions-now-in-effect/",
+      "checked": "2026-09-12",
+      "supports": [
+        "These restrictions apply to all water sources, private wells, and pumps.",
+        "Watering is not allowed between 8 a.m. and 6 p.m."
+      ]
+    },
+    {
+      "label": "NOAA National Water Prediction Service API record, gauge MDLF1 (North Fork Black Creek near Middleburg, USGS 02246000)",
+      "url": "https://api.water.noaa.gov/nwps/v1/gauges/mdlf1",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"name\": \"North Fork Black Creek near Middleburg\", \"county\": \"Clay\", \"state\": {\"abbreviation\": \"FL\"}, \"usgsId\": \"02246000\"",
+        "\"flood\": {\"stageUnits\": \"ft\", \"categories\": {\"major\": {\"stage\": 20}, \"moderate\": {\"stage\": 18}, \"minor\": {\"stage\": 15}, \"action\": {\"stage\": 11}}}",
+        "\"crests\": {\"historic\": [{\"occurredTime\": \"2017-09-11T00:00:00Z\", \"stage\": 27.89}, {\"occurredTime\": \"1919-06-01T00:00:00Z\", \"stage\": 25.3}, {\"occurredTime\": \"2012-06-27T07:45:00Z\", \"stage\": 25.26}]}"
+      ]
+    },
+    {
+      "label": "NOAA National Water Prediction Service: public gauge page for MDLF1 (the reader-facing view of the same record)",
+      "url": "https://water.noaa.gov/gauges/mdlf1",
+      "checked": "2026-09-12",
+      "supports": [
+        "North Fork Black Creek near Middleburg",
+        "Note: the page renders its stages and crests from the NWPS API above; the figures on this page were read from that API record on 2026-09-12."
+      ]
+    },
+    {
+      "label": "Clay County, Florida: Flood and FEMA frequently asked questions",
+      "url": "https://www.claycountygov.com/government/planning-and-zoning/flood-fema-info/frequently-asked-questions",
+      "checked": "2026-09-12",
+      "supports": [
+        "Any proposed development in the Special Flood Hazard Area requires an approved Floodplain Development Permit. Clay County floodplain regulations define development as any man-made change to improved or unimproved real estate, including but not limited to, buildings or other structures, tanks, temporary structures, temporary or permanent storage of equipment or materials, mining, dredging, filling, grading, paving, excavations, drilling operations or any other land disturbing operations.",
+        "No development, including but not limited to site improvements and land disturbing activity involving fill or regrading, shall be authorized in the regulatory floodway unless a Floodway Encroachment Analysis (No-Rise Study) is submitted and approved by the county. This Floodway Encroachment Analysis must be signed and sealed by a registered Professional Engineer and must demonstrate that the proposed development or land disturbing activity will not result in any increase in the base flood elevation. No floodplain permit will be granted in the absence of an approved Floodway Encroachment Analysis.",
+        "You can also look up your flood zone using the County's interactive map . Enter your address in the \"Find\" search bar and be sure to turn on the \"Flood Zone Data\" layer.",
+        "You can view Clay County's Flood Insurance Rate Maps on our Flood Maps webpage . Start by using the FEMA index map to find the panel for your location. Then, select that panel to view your flood zone.",
+        "For Black Creek levels, visit the weather.gov website . The data is updated twice a day."
+      ]
+    },
+    {
+      "label": "Clay County, Florida: Development Within a Flood Plain",
+      "url": "https://www.claycountygov.com/government/planning-and-zoning/flood-fema-info/development-within-a-flood-plain",
+      "checked": "2026-09-12",
+      "supports": [
+        "Clay County Ordinance 87-45 requires that all development within Special Flood Hazard Areas obtain a permit before work begins.",
+        "Development includes any man-made change to improved or unimproved real estate, including buildings, structures, mining, dredging, filling, grading, paving, excavation, drilling operations, and permanent storage of materials.",
+        "Questions regarding Floodplain Permit forms and required documentation should be directed to the Clay County Floodplain Manager."
+      ]
+    }
+  ],
+  "unresolved": "No source says whether an artificial turf base, on its own, is treated as development needing a floodplain permit in Clay County; the county's definition covers filling, grading and excavation but names no landscaping exemption. The page therefore states the rule and sends the reader to the Clay County Floodplain Manager with the parcel, rather than answering it. The USDA soil figures are a point query in central Middleburg, not a parcel survey."
+}

@@ -1,0 +1,61 @@
+{
+  "intent": "Where does Aurora's own code actually allow artificial turf, and what does it still require around it?",
+  "distinctValue": "Aurora's Unified Development Ordinance names artificial turf and enumerates where it may go: sports field applications, commercial developments, and front yards of single-family lots approved by a homeowners' association and/or a Title 32 District, but not in the water-wise landscape option that allows no turf. Back yards are on neither the allowed nor the prohibited list, so the page says the code does not settle it and sends the reader to Aurora Planning. The section also bars turf from curbside planting areas, street frontage buffers and dog parks, requires the Table 4.7-3 front-yard landscaping in addition to the turf, and sends the applicant to the manufacturer on slopes over 6.6 percent. None of the neighbouring pages cite a code section governing artificial turf at all: Denver's page is Denver Water, Centennial's is which provider bills you, Foxfield's is its 25 percent hard-cover limit and well permits, Commerce City's is sandy ground and the state's athletic-field exception. The Title 32 routing, the curbside-strip ban and Table 4.7-3 are Aurora's own; the cut-pile materials clause is shared Denver-metro model-ordinance language (Thornton and Northglenn carry near-identical wording), so the page no longer uses it.",
+  "sources": [
+    {
+      "label": "Aurora UDO 146-4.7.3.B.11, Artificial Turf Standards — Internet Archive capture of 26 July 2023, footer: \"The Aurora Unified Development Ordinance is current through Ordinance 2022-75, passed December 19, 2022.\"",
+      "url": "https://web.archive.org/web/20230726063646/https://aurora.municipal.codes/UDO/146-4.7.3",
+      "checked": "2026-09-12",
+      "supports": [
+        "11. Artificial Turf Standards. Where this UDO permits the use of artificial turf, it shall comply with the following standards.",
+        "a. Allowed Use. i. Artificial turf may be used in sports field applications.",
+        "ii. Artificial turf may be used in front yards to replace sod or native seed areas of single-family residential lots if approved by a homeowners' association and/or Title 32 District, but may not be used in the Water-wise landscape option in which no turf is allowed. Homeowners shall meet the Residential Yard Landscape Requirements per Table 4.7-3 in addition to providing artificial turf.",
+        "iii. Artificial turf may be used in commercial developments.",
+        "The Allowed Use list ends at iii. There is no fourth item and the words \"back yard\" do not appear anywhere in 146-4.7.3. The page therefore says back yards are not on the list either way, and does not claim the code permits or forbids them.",
+        "f. Specific Prohibited Uses. i. Artificial turf may not be used within curbside planting areas in any zone district.",
+        "ii. Artificial turf may not be used in street frontage buffers.",
+        "iii. Artificial turf may not be used in dog parks.",
+        "iv. Artificial turf may not be used to satisfy any requirements of this Section 146-4.7 (Landscape, Water Conservation, Storm water Management) unless this Section 146-4.7 or another section of this UDO contains a specific provision allowing such use.",
+        "v. Where this UDO permits the use of artificial turf or natural turf, the use of indoor or outdoor plastic or nylon carpeting or other materials or combinations of materials as a replacement for artificial turf or natural turf is prohibited.",
+        "d. Slope Restrictions. The installation of artificial turf on slopes greater than 6.6 percent shall require the applicant to consult with the manufacturer on recommendations for installation and use.",
+        "b. Materials. Artificial turf shall be of a type known as cut pile infill and shall be manufactured from polypropylene, polyethylene, or a blend of polypropylene and polyethylene fibers stitched onto a polypropylene or polyurethane mesh or hole-punched backing. Hole-punched backings shall have holes spaced in a uniform grid pattern with spacing not to exceed four inches by six inches on center. (Read and verified, but not used on the page: Thornton and Northglenn carry the same model-ordinance clause, so it is not Aurora-specific.)",
+        "e. General Appearance. Artificial turf shall be installed and maintained to effectively simulate the appearance of a well-maintained turf grass.",
+        "Section history printed at the foot of 146-4.7.3: (Ord. No. 2020-37 § 18, 10-05-2020; Ord. No. 2019-49 § 1, 08-19-2019)"
+      ]
+    },
+    {
+      "label": "Aurora UDO 146-4.7.3.B.11, Artificial Turf Standards (the live citation the page links for the reader)",
+      "url": "https://aurora.municipal.codes/UDO/146-4.7.3.B.11",
+      "checked": "2026-09-12",
+      "supports": [
+        "This host returns HTTP 403 behind a Cloudflare challenge to every automated request tried on 12 September 2026: WebFetch, curl with a desktop browser user agent, and headless Chromium via Playwright. No attempt was made to defeat the challenge. It opens normally in a person's browser, which is why the page links it.",
+        "The section text quoted on this page was therefore read from the Internet Archive capture listed above, whose footer reads \"The Aurora Unified Development Ordinance is current through Ordinance 2022-75, passed December 19, 2022.\" A live search-engine index says the UDO is now current through Ordinance 2026-03 (23 February 2026), and that Ordinance 2023-29 (adopted 31 July 2023) amended 146-4.7.3.B.12 and 146-4.7.5.C.2 — B.12 is the natural-turf section, not B.11. No amendment to B.11 was found.",
+        "A live phrase search for \"Artificial turf may be used in back yards\" returns nothing on aurora.municipal.codes, so the archived Allowed Use list is not merely a stale copy: that sentence, asserted in an earlier draft of this page, does not exist and has been removed.",
+        "Because the currency of the text could not be confirmed from the live page, every code claim on the page is paired with the instruction to ask Aurora Planning whether the standards reach the reader's address."
+      ]
+    },
+    {
+      "label": "City of Aurora: Planning (fetched live)",
+      "url": "https://www.auroragov.org/business_services/planning",
+      "checked": "2026-09-12",
+      "supports": [
+        "For other questions, contact us on the Access Aurora webpage and select Planning and Zoning.",
+        "Determine if your project is permitted using the city's Zoning Navigator tool by searching for the use type and then by address."
+      ]
+    },
+    {
+      "label": "City of Aurora: Lawn and Irrigation permit (fetched live, to confirm the page’s hedge)",
+      "url": "https://www.auroragov.org/business_services/development_center/inspections___certificate_of_occupancy/lawn_and_irrigation",
+      "checked": "2026-09-12",
+      "supports": [
+        "The permit page sets out when a lawn, seed and irrigation permit is required and does not mention artificial or synthetic turf anywhere, which is why the page tells the reader to put that question to the city in writing rather than assuming either way."
+      ]
+    }
+  ],
+  "notUsed": [
+    "Aurora UDO 146-4.7.5.P and Table 4.7-3: not opened. The live host is blocked and no Internet Archive capture of 146-4.7.5 or of Table 4.7-3 exists (checked 12 September 2026). An earlier draft quoted a shrub formula, a tree row, a mulch row, a features row and the sentence \"Artificial turf is permitted after the shrub count is met\" from this table; none of that could be verified, and the last sentence could not be found anywhere, so all of it has been cut. The page now says only what 146-4.7.3.B.11 itself says about the table: a homeowner must meet the Residential Yard Landscape Requirements per Table 4.7-3 in addition to providing artificial turf.",
+    "Aurora UDO 146-4.7.2 (applicability): not opened; no archive capture exists and the live host is blocked. An earlier draft asserted that Section 146-4.7 applies only to development and redevelopment through the Site Plan process. That may well be right, but it is not quoted from a page opened here, so the page no longer states it; it asks the city instead.",
+    "City of Aurora Landscape Reference Manual (auroragov.org, revised April 2016): opened and read in full. Its \"Applicability of Artificial Turf Requirements\" section says \"Rear Yards. All residents may install 100% of the area within the rear yard in artificial turf.\" It is written against the pre-UDO code (Sec. 146-1414, Sec. 146-1450, Table 14.3A) and its slope rule requires \"the approval of the city engineer\", which the current UDO replaced with a manufacturer consultation. It is superseded and is not used on the page.",
+    "Colorado SB23-178: checked against leg.colorado.gov. It binds a unit owners' association only — \"Not prohibit the use of nonvegetative turf grass in the backyard of a unit\" — and does not restrict counties or municipalities, so it does not answer the city-code question. The page's existing HOA FAQ, which is about the association and not the city, stands."
+  ]
+}

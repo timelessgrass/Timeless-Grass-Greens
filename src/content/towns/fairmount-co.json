@@ -56,13 +56,14 @@
       ]
     },
     {
-      "icon": "shovel",
-      "kicker": "The ground",
-      "h2": "Clay and shale below North Table Mountain, on old farm ground.",
+      "icon": "file",
+      "kicker": "The ditch across your lot",
+      "h2": "Three canals cross Fairmount, and the county speaks for none of them.",
       "paras": [
-        "Below North Table Mountain's basalt cap, the ground grades into clay and shale slopes and then onto the Clear Creek terrace. It's Front Range clay; by the Colorado Geological Survey's account it can swell as much as 20% and push back at up to 30,000 pounds a square foot (<a href=\"https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/\" target=\"_blank\" rel=\"nofollow noopener\">Colorado Geological Survey</a>).",
-        "This is old farm and ditch country, and many big lots here were flood-irrigated for years, which can leave heavy, compacted soil that drains slowly. If a ditch easement or lateral crosses your lot, find it on the plat before any digging; the free site visit checks the ground and the slope.",
-        "Slopes run gentle to moderate. Site work here means a base set for the clay and for the fall of your lot, so water runs off the turf and away from the house."
+        "Fairmount runs east of North Table Mountain, between Ward Road and Easley Road from West 44th Avenue to West 60th Avenue, about seven square miles. The Church, Croke and Farmers Highline canals all flow through it, and many smaller irrigation ditches branch off them (<a href=\"https://goldenhistory.pastperfectonline.com/bysearchterm?keyword=Fairmount\" target=\"_blank\" rel=\"nofollow noopener\">Golden History Museum</a>). The Church Ditch alone, dug in 1865, runs 26 miles from a headgate in Clear Creek near Golden (<a href=\"https://churchditch.org/\" target=\"_blank\" rel=\"nofollow noopener\">Church Ditch Water Authority</a>).",
+        "The plat is a start, not the answer. A ditch company rarely owns the land its ditch crosses; it usually holds a prescriptive easement that lets it come on for water delivery and maintenance without asking you, and while some easements are recorded, most never appear on a development plat. Work inside one has to be coordinated with the ditch company and the owner of the ground (<a href=\"https://www.arvadaco.gov/512/Irrigation-Ditches\" target=\"_blank\" rel=\"nofollow noopener\">City of Arvada</a>).",
+        "Each canal is its own company, and Arvada publishes all three numbers: 303-423-6010 for the Church Ditch, 303-659-7373 for the Croke Canal, 303-451-7604 for the Farmers' High Line. A county permit will not answer for them. Jefferson County's North Plains Area Plan, which covers the unincorporated ground north of Clear Creek, calls the ditches and canals here privately owned channels for privately owned water (<a href=\"https://www.jeffco.us/DocumentCenter/View/12321/North-Plains-Area-Plan-PDF\" target=\"_blank\" rel=\"nofollow noopener\">Jefferson County</a>). Ask the company that owns your line, and get the answer in writing before the layout is final.",
+        "The ground under all of it is Front Range clay on the Clear Creek terrace, and the same county plan blames Fairmount's clay soil and stony terrain for making farming hard here. Clay like this can swell as much as 20% and push back at up to 30,000 pounds a square foot (<a href=\"https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/\" target=\"_blank\" rel=\"nofollow noopener\">Colorado Geological Survey</a>), and lots flood-irrigated for decades sit heavy and compacted over it. The free visit is when we set the base depth and the fall of the lot, and place the turf boundary clear of the ditch line."
       ]
     }
   ],
@@ -88,6 +89,14 @@
     {
       "q": "Can my HOA stop turf in my Fairmount back yard?",
       "a": "It can set rules, not a ban. Colorado's HB21-1229 lists artificial turf among the drought-tolerant landscaping an HOA may regulate but not prohibit in the backyard area of a home (<a href=\"https://leg.colorado.gov/bills/hb21-1229\" target=\"_blank\" rel=\"nofollow noopener\">HB21-1229</a>). Older Fairmount parcels often have no HOA at all; in newer subdivisions, send the board your plan first."
+    },
+    {
+      "q": "Can a putting green go over a ditch easement in Fairmount?",
+      "a": "Clear it with the ditch company first, and plan for the answer to be no. A ditch company rarely owns the land its ditch crosses. It usually holds a prescriptive easement that lets it enter for water delivery and maintenance without asking you, and most of those easements are not on any development plat (<a href=\"https://www.arvadaco.gov/512/Irrigation-Ditches\" target=\"_blank\" rel=\"nofollow noopener\">City of Arvada</a>). Moving the green a few feet beats rebuilding it after someone else digs that strip up."
+    },
+    {
+      "q": "Does a Jefferson County permit cover work near a ditch?",
+      "a": "No. The county's trigger is size: a grading permit is required once the disturbance area exceeds one half acre, 21,780 square feet (<a href=\"https://www.jeffco.us/3978/Engineering-and-Earthwork\" target=\"_blank\" rel=\"nofollow noopener\">Jefferson County</a>). The ditch is a separate question, and the county's own North Plains Area Plan says why, calling the ditches and canals here privately owned channels for privately owned water (<a href=\"https://www.jeffco.us/DocumentCenter/View/12321/North-Plains-Area-Plan-PDF\" target=\"_blank\" rel=\"nofollow noopener\">Jefferson County</a>). If you can't tell which canal or lateral is yours, start with the three ditch companies rather than the county."
     }
   ],
   "nearby": [
@@ -128,8 +137,31 @@
     {
       "label": "Colorado HB21-1229",
       "url": "https://leg.colorado.gov/bills/hb21-1229"
+    },
+    {
+      "label": "Golden History Museum & Park: Fairmount",
+      "url": "https://goldenhistory.pastperfectonline.com/bysearchterm?keyword=Fairmount"
+    },
+    {
+      "label": "Church Ditch Water Authority",
+      "url": "https://churchditch.org/"
+    },
+    {
+      "label": "City of Arvada: irrigation ditches",
+      "url": "https://www.arvadaco.gov/512/Irrigation-Ditches"
+    },
+    {
+      "label": "Jefferson County Comprehensive Master Plan: North Plains Area Plan",
+      "url": "https://www.jeffco.us/DocumentCenter/View/12321/North-Plains-Area-Plan-PDF"
+    },
+    {
+      "label": "Jefferson County: engineering and earthwork permits",
+      "url": "https://www.jeffco.us/3978/Engineering-and-Earthwork"
     }
   ],
-  "checked": "2026-09-07",
-  "publicReferences": []
+  "checked": "2026-09-12",
+  "publicReferences": [
+    "https://www.jeffco.us/DocumentCenter/View/12321/North-Plains-Area-Plan-PDF",
+    "https://churchditch.org/"
+  ]
 }

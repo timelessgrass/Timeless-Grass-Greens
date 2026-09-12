@@ -1,0 +1,68 @@
+{
+  "intent": "A ditch or lateral crosses my Fairmount lot. Who has to clear a turf lawn or putting green near it, and will the plat show me where the easement runs?",
+  "distinctValue": "Names the three canals that actually flow through Fairmount and the separate companies that run them, warns that most ditch easements are prescriptive and never appear on a development plat, and shows why no Jefferson County permit settles the question: the County's own North Plains Area Plan calls these privately owned channels for privately owned water. Neighbouring pages send a reader to a city department (Golden Planning, Arvada, Wheat Ridge Community Development); unincorporated Fairmount has none, and the county plan points the reader away from the county.",
+  "sources": [
+    {
+      "label": "Golden History Museum & Park: Fairmount",
+      "url": "https://goldenhistory.pastperfectonline.com/bysearchterm?keyword=Fairmount",
+      "checked": "2026-09-12",
+      "supports": [
+        "Fairmount lies east of North Table Mountain, between Ward Road and Easley Road from West 44th Avenue to West 60th Avenue.",
+        "Approximately seven square miles in size, it is bounded by Arvada and Wheat Ridge on the north, east, and south, and by Golden to the west.",
+        "Through it flow the Church, Croke, And Farmers Highline canals from which branch many irrigation ditches.",
+        "Fairmount and the Clear Creek Valley were settled with homestead claims in the early 1860s. To aid farming and ranching, settlers organized irrigation companies to build canals and ditches."
+      ]
+    },
+    {
+      "label": "Church Ditch Water Authority",
+      "url": "https://churchditch.org/",
+      "checked": "2026-09-12",
+      "supports": [
+        "The Church Ditch, Established in 1865, is a carrier ditch operated by the Church Ditch Water Authority (Authority) under Colorado statutes with decreed absolute priorities to 113.03 cubic feet of water per second from Clear Creek.",
+        "The Church Ditch begins at a headgate in Clear Creek, near Golden, Colorado, and runs twenty-six (26) miles in length through Jefferson County until it ends near the intersection of 100th Avenue and Simms Street at the Wilson Flume formerly known as the Ketner Flume.",
+        "Church Ditch Water Authority 14025 W. 82nd Ave. Arvada, CO 80005 US (303) 423-6010"
+      ]
+    },
+    {
+      "label": "City of Arvada: irrigation ditches",
+      "url": "https://www.arvadaco.gov/512/Irrigation-Ditches",
+      "checked": "2026-09-12",
+      "supports": [
+        "Many of the ditches were constructed in the 1860s, including the Farmers' High Line Canal (FHL), Croke Canal and the Church Ditch.",
+        "Ditches are owned collectively by shareholders who are typically part of an incorporated ditch company.",
+        "A ditch company rarely owns the land on which it is located. More often, ditches go through property owned by others. The ditch company typically holds a prescriptive easement allowing the ditch company access to the property for the delivery of water and ditch maintenance without needing permission. Some ditch easements are recorded but a majority are prescriptive and are not included on development plats.",
+        "The ditch company is only responsible for maintaining the ditch for water deliveries. Performing work in the ditch easement must be coordinated with the ditch company and underlying property owner.",
+        "Residents interested in completing fire mitigation or other maintenance along ditches must obtain permission from and coordinate with the ditch company and underlying property owner.",
+        "I have a ditch in my yard. Can I use the water? No, not unless you have purchased shares in that ditch company and are a recognized shareholder. Using the water without owning shares is considered water theft.",
+        "Contact Us Church Ditch 303-423-6010 Croke Canal 303-659-7373 Farmers' High Line Canal 303-451-7604"
+      ]
+    },
+    {
+      "label": "Jefferson County Comprehensive Master Plan: North Plains Area Plan",
+      "url": "https://www.jeffco.us/DocumentCenter/View/12321/North-Plains-Area-Plan-PDF",
+      "checked": "2026-09-12",
+      "supports": [
+        "The North Plains planning area consists of the unincorporated portions of Jefferson County that are located to the north of Clear Creek, south of the Jefferson County line, west of Sheridan Blvd, and east of the Mountains.",
+        "The Fairmount area lies to the east of North Table Mountain, between Ward Road and the east and north face of North Table Mountain, from Clear Creek to West 60th Avenue.",
+        "To aid with the area farming and ranching efforts, the settlers organized irrigation companies to build canals and ditches. Parts of Fairmount were platted as agricultural subdivisions in the late 1800's.",
+        "Because of the clay soil and stony terrain in the Fairmount area, farming was difficult.",
+        "It retains a country feeling with remnants from early agriculture, including irrigation ditches, fence lines, tree rows, a few farmsteads, barns and grain silos.",
+        "Ditches & Canals. The network of ditches and canals in the North Plains area is a distinctive characteristic of the community. They serve as trails, riparian habitat, view corridors, and a source of water for subscribers. However, the ditches and canals are privately owned channels for privately owned water."
+      ]
+    },
+    {
+      "label": "Jefferson County: engineering and earthwork permits",
+      "url": "https://www.jeffco.us/3978/Engineering-and-Earthwork",
+      "checked": "2026-09-12",
+      "supports": [
+        "Activities such as site grading, excavation, trail building, or road building may require a land disturbance permit. Land disturbance permits include Notice of Intent, Grading, and Natural Surface Trail Permits.",
+        "A Grading Permit is a type of land disturbance permit needed for the following types of grading work: The disturbance area exceeds one half acre (21,780 square feet).",
+        "If the area of disturbance is greater than one (1) acre you must also obtain a Construction Site Stormwater Permit from the Colorado Department of Public Health and Environment (CDPHE)."
+      ]
+    }
+  ],
+  "unresolved": [
+    "Which of the three canals, or which branch lateral, crosses any one Fairmount parcel is not published anywhere we could open. Nothing on this page names a canal for a given address; the copy sends the reader to the three ditch companies instead.",
+    "No ditch company publishes a written setback or encroachment standard for the Church, Croke or Farmers' High Line canals, so the page states no width. The reader is told to ask the company for its requirement in writing before the layout is final."
+  ]
+}

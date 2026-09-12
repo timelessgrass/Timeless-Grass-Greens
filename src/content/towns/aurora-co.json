@@ -48,12 +48,13 @@
     },
     {
       "icon": "file",
-      "kicker": "Permits and rebates",
-      "h2": "Ask about the permit. Skip the rebate.",
+      "kicker": "City hall",
+      "h2": "The permit, the front-yard list, and no rebate.",
       "paras": [
         "Aurora requires a Lawn & Irrigation Permit to install or replace sod or seed at any time of year, and to put in or replace a sprinkler system, with compost worked into the soil (<a href=\"https://www.auroragov.org/cms/One.aspx?portalId=16242704&amp;pageId=16533647\" target=\"_blank\" rel=\"nofollow noopener\">City of Aurora</a>). The permit pages don't say whether artificial turf needs one, so put that question to Aurora Water in writing first.",
-        "Aurora Water's Grass Replacement Incentive Program pays $3.00 per square foot for a water-wise landscape and $0.50 for low-water grasses. Its 2026 manual requires living plants on 50% or more of the new landscape and lists artificial turf as prohibited, so turf earns nothing there (<a href=\"https://www.auroragov.org/UserFiles/Servers/Server_1881137/File/Residents/Water/Water%20Conservation/Landscape%20rebate/GRIP_Residential_Manual_2026_web_accessible.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Aurora Water</a>).",
-        "The city does offer free water-wise landscape design to every customer (<a href=\"https://www.auroragov.org/cms/One.aspx?portalId=16242704&amp;pageId=16534576\" target=\"_blank\" rel=\"nofollow noopener\">City of Aurora</a>). It's worth using if you want planted beds around the turf."
+        "Aurora's development code names artificial turf and lists where it may go: sports fields, commercial developments, and front yards of single-family lots where a homeowners' association or a Title 32 district has approved it — though not in the water-wise landscape option that allows no turf at all. Back yards are not on that list, either way. The code also keeps turf out of curbside planting strips in any zone district, out of street frontage buffers, and out of dog parks (<a href=\"https://aurora.municipal.codes/UDO/146-4.7.3.B.11\" target=\"_blank\" rel=\"nofollow noopener\">Aurora UDO 146-4.7.3.B.11</a>).",
+        "Settle the front yard first. The code takes a homeowners' association or a Title 32 district, or both, and says nothing about a lot with neither. Turf out front does not replace the rest of the landscaping: the homeowner meets the Residential Yard Landscape Requirements in Table 4.7-3 as well. Whether any of it reaches a yard you are simply redoing is for the city to say, so ask Aurora Planning through Access Aurora, choosing Planning and Zoning (<a href=\"https://www.auroragov.org/business_services/planning\" target=\"_blank\" rel=\"nofollow noopener\">City of Aurora</a>).",
+        "Aurora Water's Grass Replacement Incentive Program pays $3.00 per square foot for a water-wise landscape and $0.50 for low-water grasses. Its 2026 manual requires living plants on 50% or more of the new landscape and lists artificial turf as prohibited, so turf earns nothing there (<a href=\"https://www.auroragov.org/UserFiles/Servers/Server_1881137/File/Residents/Water/Water%20Conservation/Landscape%20rebate/GRIP_Residential_Manual_2026_web_accessible.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Aurora Water</a>). The city does offer free water-wise landscape design to every customer (<a href=\"https://www.auroragov.org/cms/One.aspx?portalId=16242704&amp;pageId=16534576\" target=\"_blank\" rel=\"nofollow noopener\">City of Aurora</a>), worth using if you want planted beds around the turf."
       ]
     },
     {
@@ -63,7 +64,7 @@
       "paras": [
         "Aurora sits on the plains side of the metro, on clays from the Denver Formation and Pierre Shale, and its typical soils are Nunn clay loams: heavy, smectitic and slow to drain. The Colorado Geological Survey says swelling soils can push with up to 30,000 pounds per square foot, and that the yearly losses they cause regularly exceed those from tornadoes, floods, earthquakes and hurricanes combined (<a href=\"https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/\" target=\"_blank\" rel=\"nofollow noopener\">Colorado Geological Survey</a>).",
         "The survey's advice is to keep soil moisture even and to avoid planting or watering right against the house. A spray head soaking bluegrass by the basement wall does the opposite, and turf in that strip ends the spray.",
-        "South-east Aurora rolls, with real fall toward Piney Creek and Senac Creek and engineered grading on newer lots; the north and center are flatter, on clay that percolates slowly. The free visit settles which ground you have, and the base is built to match, so the surface stays level and water leaves the yard."
+        "South-east Aurora rolls, with real fall toward Piney Creek and Senac Creek and engineered grading on newer lots; the north and center are flatter, on clay that percolates slowly. Where the ground falls more than 6.6 percent, the code sends the applicant to the turf maker's recommendations (<a href=\"https://aurora.municipal.codes/UDO/146-4.7.3.B.11\" target=\"_blank\" rel=\"nofollow noopener\">Aurora UDO 146-4.7.3.B.11</a>); ask which product is rated for your fall. The free visit settles which ground you have, and the base is built to match, so the surface stays level and water leaves the yard."
       ]
     }
   ],
@@ -93,6 +94,10 @@
     {
       "q": "Is Aurora Water my provider?",
       "a": "Most Aurora homes are on Aurora Water, whose Stage 1 rules are above. Some homes in south-east Aurora are served by East Cherry Creek Valley Water and Sanitation District instead, so check the name on your bill before you plan around a watering schedule (<a href=\"https://www.eccv.org/\" target=\"_blank\" rel=\"nofollow noopener\">ECCV</a>)."
+    },
+    {
+      "q": "Does Aurora's code allow artificial turf in a back yard?",
+      "a": "Not in so many words. The code's list of places artificial turf may go names sports field applications, commercial developments and approved front yards, and stops there — a back yard is not named either way (<a href=\"https://aurora.municipal.codes/UDO/146-4.7.3.B.11\" target=\"_blank\" rel=\"nofollow noopener\">Aurora UDO 146-4.7.3.B.11</a>). Ask Aurora Planning through Access Aurora, choosing Planning and Zoning, whether the turf standards reach your address, and get that in writing before you price a layout (<a href=\"https://www.auroragov.org/business_services/planning\" target=\"_blank\" rel=\"nofollow noopener\">City of Aurora</a>)."
     }
   ],
   "nearby": [
@@ -149,8 +154,18 @@
     {
       "label": "East Cherry Creek Valley Water and Sanitation District",
       "url": "https://www.eccv.org/"
+    },
+    {
+      "label": "Aurora UDO 146-4.7.3.B.11: artificial turf standards",
+      "url": "https://aurora.municipal.codes/UDO/146-4.7.3.B.11"
+    },
+    {
+      "label": "City of Aurora: Planning",
+      "url": "https://www.auroragov.org/business_services/planning"
     }
   ],
-  "checked": "2026-09-07",
-  "publicReferences": []
+  "checked": "2026-09-12",
+  "publicReferences": [
+    "https://aurora.municipal.codes/UDO/146-4.7.3.B.11"
+  ]
 }

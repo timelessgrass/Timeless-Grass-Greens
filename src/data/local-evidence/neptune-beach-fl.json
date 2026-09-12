@@ -1,0 +1,106 @@
+{
+  "intent": "Will Neptune Beach count my artificial turf against the lot-coverage limit, and what does the city's own code require around it?",
+  "distinctValue": "Neptune Beach has its own Unified Land Development Regulations, and they answer the coverage question on their own terms rather than Atlantic Beach's or Jacksonville Beach's. Sec. 27-238(a) caps impervious surface at 50 percent of gross site area in R-1 through R-4 and for single-family dwellings in R-5, counting pools, hot tubs and driveways, and Sec. 27-238(b) requires signed and sealed drainage runoff calculations from a Florida-registered engineer before the cap can be exceeded. The exemption in 27-238(b) is conditioned on \"section 27-516\", and Sec. 27-516 reads in full \"Definitions are found in article I [of this chapter]\", so the operative test is Article I's pervious-pavement definition: a pavement that moves water faster than the existing, uncompacted, native soil subgrade (which the code says typically exceeds twenty inches per hour), with any impervious or semi-impervious base, subbase or subgrade disqualifying it. A Municode search of the adopted code (client 3495, productId 14010) returns zero hits for \"artificial turf\" and zero for \"synthetic turf\"; \"turf\" returns only the Chapter 24 fertilizer sections. So the classification of a turf system has to be asked for in writing, which is what the page tells the reader to do. Two further rules are Neptune's alone: Sec. 27-457(a) requires one shade tree planted or preserved for every 3,000 square feet of a residential lot, and Sec. 27-457(e), added by Ordinance 2022-03 in August 2022, requires gravel landscaping groundcover to be contained by a concrete, stone paver or similar barrier. On trees, the threshold sits in Sec. 27-445, the no-fee rule in Sec. 27-446(2), and the inch-for-inch replacement standard in Sec. 27-447(a)(1). Atlantic Beach's page carries a 45 percent cap, a stone-base spec and a base inspection; Jacksonville Beach's carries its own Land Development Code and a watering-window conflict; Ponte Vedra Beach's carries a county zoning district and private architectural committees. None of them carries any of this.",
+  "sources": [
+    {
+      "label": "Neptune Beach Code of Ordinances, Ch. 27, Art. IV, Sec. 27-238 (maximum lot coverage)",
+      "url": "https://library.municode.com/fl/neptune_beach/codes/code_of_ordinances?nodeId=PTIICOOR_CH27UNLADERE_ARTIVLAUS_S27-238MALOCO",
+      "checked": "2026-09-12",
+      "supports": [
+        "Sec. 27-238. - Maximum lot coverage. (a) The impervious surface on any lot, or parcel of land, shall not exceed the maximum area as provided for below, and for purposes of calculation, shall include all impervious areas, such as pool areas, hot tubs, and driveways; \"gross site area\" is defined in article I.",
+        "(1) R-1 district: Fifty (50) percent of gross site area. (2) R-2 district: Fifty (50) percent of gross site area. (3) R-3 district: Fifty (50) percent of gross site area. (4) R-4 district: Fifty (50) percent of gross site area.",
+        "(5) R-5 district: For apartment complexes, thirty-five (35) percent of gross site area. For single-family dwellings, fifty (50) percent of gross site area. For multifamily residences on lots less than one-half acre, seventy (70) percent of gross site area.",
+        "(b) Pervious pavements, as defined in section 27-516, shall not count towards impervious surface areas. Semi-pervious pavers and surfaces that do not meet the standards defined in section 27-516 for pervious pavement, engineered water detention systems, and other low-impact design strategies are encouraged in all zoning districts and shall be credited with a percentage of the covered area, as determined by the building official or licensed professional engineer, using area and volume calculations. The techniques or systems used for a credited area must be installed for long-term effect.",
+        "If the applicant desires to increase the impervious area beyond the percent coverage prescribed in this section, drainage runoff calculations shall be provided that indicate no increase in runoff between the pre-construction and post-construction condition. This calculation shall be prepared, signed, and sealed by a licensed professional engineer, registered in the State of Florida.",
+        "(c) Additionally, all stormwater management requirements of the St. Johns River Water Management District shall be met. (Ord. No. 2004-10, § 1, 10-4-04; Ord. No. 2006-13, § 3, 7-10-06; Ord. No. 2022-03, § 1(Exh. A), 8-1-22)",
+        "Page header on the rendered section: VERSION: MAR 13, 2026 (CURRENT)."
+      ]
+    },
+    {
+      "label": "Neptune Beach Code of Ordinances, Ch. 27, Art. I, Sec. 27-15 (definitions)",
+      "url": "https://library.municode.com/fl/neptune_beach/codes/code_of_ordinances?nodeId=PTIICOOR_CH27UNLADERE_ARTIINGE_S27-15DE",
+      "checked": "2026-09-12",
+      "supports": [
+        "Impervious surface and semi-impervious means a surface that has been compacted or covered with a layer of material so that it is highly resistant to infiltration by water. It includes, but is not limited to, buildings, roofs, concrete, sidewalks, driveways, pools, and pavement areas, and semi-impervious surfaces such as compacted clay and other similar surfaces, such that the permeability and infiltration capacity is less than that of the existing, uncompacted, native soil subgrade.",
+        "Pervious pavements mean pavements that have air spaces that allow water to move through the pavement, base material, and subbase, and then infiltrate into the ground. Pervious pavement may include an aggregate base as a reservoir and must have suitable native soils as a subgrade to support infiltrating into the ground. Pervious pavement is designed to accept precipitation, reduce runoff, and is typically thicker than traditional pavements to support the same loads. Pervious pavement systems shall have a permeability and infiltration capacity greater than that of the existing uncompacted native soil subgrade that typically has an infiltration capacity that exceeds twenty (20) inches per hour. Traditional solid brick paver systems or systems with base, subbase, or subgrade that are impervious or semi-impervious shall not be considered as a pervious pavement.",
+        "Lot coverage means the area of a lot or parcel of land that is occupied or covered by any impervious surface.",
+        "The code says \"native soil subgrade\" in both definitions. It does not say \"native sand\"."
+      ]
+    },
+    {
+      "label": "Neptune Beach Code of Ordinances, Ch. 27, Art. IX, Sec. 27-457 (residential landscape requirements)",
+      "url": "https://library.municode.com/fl/neptune_beach/codes/code_of_ordinances?nodeId=PTIICOOR_CH27UNLADERE_ARTIXTRPRLA_S27-457RELARE",
+      "checked": "2026-09-12",
+      "supports": [
+        "Sec. 27-457. - Residential landscape requirements. (a) One (1) shade tree shall be planted or preserved for every three thousand (3,000) square feet of a residential lot or fraction thereof. No more than ten (10) new trees shall be required to be planted on any residential lot that is to be developed for one (1) single-family dwelling or one (1) two-family (duplex) residential structure as a result of this provision.",
+        "(c) All required trees shall be selected from the city tree list in section 27-450.",
+        "(e) Where gravel is used as landscaping groundcover, a concrete, stone paver, or similar barrier must be used to contain the gravel and keep it from entering streets, drains, culverts, and any other transportation and stormwater system.",
+        "(Ord. No. 2004-10, § 1, 10-4-04; Ord. No. 2005-06, § 1, 5-2-05; Ord. No. 2022-03, § 1(Exh. A), 8-1-22)",
+        "Sec. 27-443. - Applicability. The terms and provisions of this article shall apply to all land uses within the city. Special provisions for single-family or two-family (duplex) lots are addressed in section 27-457 of this article.",
+        "Sec. 27-455. (b) Minimum percentage of developed area devoted to landscaping. Property shall be designed, constructed and used so that the total of the areas devoted to landscape materials of any site is at least twenty (20) percent of the gross area of each parcel."
+      ]
+    },
+    {
+      "label": "Neptune Beach Code of Ordinances, Ch. 27, Art. IX, Sec. 27-445 (permit required for tree removal or relocation)",
+      "url": "https://library.municode.com/fl/neptune_beach/codes/code_of_ordinances?nodeId=PTIICOOR_CH27UNLADERE_ARTIXTRPRLA_S27-445PERETRRERE",
+      "checked": "2026-09-12",
+      "supports": [
+        "Sec. 27-445. - Permit required for tree removal or relocation. No person shall directly or indirectly cut down, destroy, remove, move, or effectively destroy through damaging, or authorize the cutting down, destroying, removing, moving, or damaging of any and all living trees greater than six (6) inches or more in caliper or two (2) feet in circumference, whichever dimension is lesser, at a point four and one-half (4½) feet above ground level, without a tree permit. Trees which require such permit for removal or relocation shall hereinafter be called \"regulated trees.\"",
+        "(1) f. Replacement trees from the city's tree list, located in section 27-450 shall be required for any trees removed per section 27-447.",
+        "(2) ... An application for a tree permit must be filed, per the requirements of section 27-446. Replacement trees may be required for any trees removed.",
+        "The sentence \"No permit fee shall be charged for authorized tree removal within the city\" is NOT in this section. It is in Sec. 27-446(2). Cite 27-446 for the fee."
+      ]
+    },
+    {
+      "label": "City of Neptune Beach: Calculating Building and Lot Coverage Percentages (Community Development handout) — SUPERSEDED IN PART, NOT USED ON THE PAGE",
+      "url": "https://www.nbfl.gov/sites/g/files/vyhlif3516/f/uploads/calculating_building_and_lot_coverage_percentages.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "Impervious cover – Any structure, surface or improvement that reduces and/or prevents absorption of storm water into land. Porous paving, paver blocks, gravel, crushed stone, crushed shell, elevated structures (including boardwalks), and other similar structures, surfaces or improvements are considered impervious cover. Grass, lawns or any other vegetation are not considered impervious cover.",
+        "lot coverage - The percentage of lot area that is covered by impervious cover.",
+        "Building coverage – The percentage of the lot area that is covered by building area, which includes the total horizontal area when viewed in plan.",
+        "How to Calculate Lot Coverage Percentage ... Pool 20'X40' 800 square feet; Crushed Stone Garden 1,400 square feet; Side Walks 288 square feet; Driveway 300 square feet; Building Coverage 2,440 square feet; Total Lot Coverage 5,228 square feet; (Total Lot Coverage) / (Lot Area) X (100%)=52.3%",
+        "116 1st Street • Neptune Beach, Florida 32266 — Tel. 904.270.2400 • Email: cdd@nbfl.us",
+        "pdfinfo on the live file: Creator \"Acrobat PDFMaker 10.1 for Word\", CreationDate Thu Aug 1 10:54:45 2013, ModDate Mon Mar 14 15:17:17 2022.",
+        "The handout predates Ordinance 2022-03 (adopted 8-1-22), which added Sec. 27-238(b) \"Pervious pavements, as defined in section 27-516, shall not count towards impervious surface areas\". Its blanket line counting porous paving as impervious cover therefore conflicts with the current code on porous paving, and nothing from this handout is used on the page."
+      ]
+    },
+    {
+      "label": "Neptune Beach Code of Ordinances, Ch. 27, Art. XII, Sec. 27-516 (definitions)",
+      "url": "https://library.municode.com/fl/neptune_beach/codes/code_of_ordinances?nodeId=PTIICOOR_CH27UNLADERE_ARTXIISTMAERCO_S27-516DE",
+      "checked": "2026-09-12",
+      "supports": [
+        "Sec. 27-516. - Definitions. Definitions are found in article I [of this chapter].",
+        "This is the section Sec. 27-238(b) conditions the pervious-pavement exemption on, and it carries no standards of its own; it redirects to the Article I definitions in Sec. 27-15."
+      ]
+    },
+    {
+      "label": "Neptune Beach Code of Ordinances, Ch. 27, Art. IX, Sec. 27-446 (permit application procedures)",
+      "url": "https://library.municode.com/fl/neptune_beach/codes/code_of_ordinances?nodeId=PTIICOOR_CH27UNLADERE_ARTIXTRPRLA_S27-446PEAPPR",
+      "checked": "2026-09-12",
+      "supports": [
+        "(2) Submittals. No permit fee shall be charged for authorized tree removal within the city. Each application for a tree permit to alter, remove, relocate, or replace trees covered herein shall be accompanied by a written statement indicating the reasons for the requested action, at least one (1) photograph for each tree designated for removal showing its current overall condition, and two (2) copies of a legible site plan drawn to the largest practical scale indicating the following:",
+        "(1) Application. Permits for removal, relocation or alteration of trees shall be obtained by making application in a form prescribed by the city council to the following appropriate public bodies: a. For removal or relocation of regulated trees not associated with a site plan approval of the community development board, an application shall be filed with the city manager's office, as described below."
+      ]
+    },
+    {
+      "label": "Neptune Beach Code of Ordinances, Ch. 27, Art. IX, Sec. 27-447 (standards for replacement or relocation)",
+      "url": "https://library.municode.com/fl/neptune_beach/codes/code_of_ordinances?nodeId=PTIICOOR_CH27UNLADERE_ARTIXTRPRLA_S27-447STRERE",
+      "checked": "2026-09-12",
+      "supports": [
+        "(a) Replacement or relocation. (1) Replacement. In all cases wherein this Code shall require replacement of any tree removed, the replacement shall be made as defined in this section.",
+        "a. Size. Replacement trees shall be a minimum of four-inch caliper with a height of at least ten (10) feet for shade trees, or eight (8) feet for ornamental and understory trees. All replacement trees shall be Florida Nursery Grade Number 1 or better.",
+        "c. Shade trees, as defined by the city's approved tree list ... which are designated for removal, shall be replaced on an inch-for-inch (1:1) diameter basis with one (1) or more trees from the same shade tree portion of the city's tree list. The sum total of the calipers of the replacement trees must equal or surpass that of the removed tree or trees ... Caliper measurement shall be rounded up to the nearest inch."
+      ]
+    }
+  ],
+  "unresolved": [
+    "The Neptune Beach code never uses the words artificial turf or synthetic turf. A Municode search of the adopted Code of Ordinances (client 3495, productId 14010) returns 0 hits for \"artificial turf\" and 0 for \"synthetic turf\"; \"turf\" returns 6 hits, all Chapter 24 fertilizer sections (24-28, 24-30, 24-31, 24-33, 24-34, 24-38), which regulate applying fertilizer to living turf. The same search returns 6 hits for \"pervious pavement\" (27-15, 27-238, 27-455, 27-476, 27-519, 27-548). So no city rule states whether a turf system is impervious surface, semi-impervious, or a credited low-impact surface under Sec. 27-238(b). The page states no answer: it tells the reader to ask the Community Development Department for the classification in writing before the layout is final, and to bring the base build-up and the turf's permeability figure.",
+    "Sec. 27-238(b)'s exemption runs through Sec. 27-516, which redirects to Article I, where a pervious pavement is defined as a pavement. Whether Neptune Beach reads that pavement test onto a turf system on an aggregate base is not settled by the published text. The page says so in those words rather than asserting a mechanism, and its h2 no longer claims one.",
+    "Sec. 27-238(b) credits semi-pervious surfaces with \"a percentage of the covered area\" but names no percentage; the amount is set case by case by the building official or an engineer using area and volume calculations. The page does not imply a credit will be given or guess its size.",
+    "Sec. 27-457(e) governs gravel used as landscaping groundcover — exposed decorative gravel that can wash into a drain. It does not reach a stone base buried under turf, and the page no longer bridges from one to the other: it applies the rule to a gravel or shell bed beside the turf and treats the turf's own edge as a separate estimate question.",
+    "The city's Calculating Building and Lot Coverage Percentages handout is not used on the page. It was created in 2013 and last modified 14 March 2022, before Ordinance 2022-03 was adopted on 1 August 2022, and its blanket treatment of porous paving as impervious cover conflicts with the pervious-pavement exemption that ordinance added to Sec. 27-238(b).",
+    "Whether a given Neptune Beach lot has a homeowners association is a title question, not a published one. The page no longer says most homes have none; it tells the reader what applies if there is an association and what Florida law limits it to.",
+    "No artificial-turf rebate, incentive or water-conservation credit was found for Neptune Beach or its municipal water utility; nothing on the page implies one exists."
+  ]
+}

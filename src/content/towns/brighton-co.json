@@ -39,20 +39,20 @@
     {
       "icon": "clock",
       "kicker": "The sod ban",
-      "h2": "Through 30 September, new sod is off the table.",
+      "h2": "Until October 2026, new sod is off the table.",
       "paras": [
         "Brighton's Stage 1 drought order prohibits installing or replacing sod on more than 200 square feet through 30 September 2026 (<a href=\"https://www.brightonco.gov/578/Watering-Restrictions\" target=\"_blank\" rel=\"nofollow noopener\">City of Brighton</a>). The ban is on sod. Artificial turf isn't sod, so a new lawn can still go in while the order stands.",
-        "From 1 October the city issues free sod permits, and each one comes with a strict six-week schedule: up to three waterings a day of no more than 10 minutes for the first two weeks, up to two a day for the next two, outside the 10-to-6 window, then once a day, and after that the full restrictions again. A turf lawn skips all six weeks, because there's nothing to root."
+        "From 1 October the city issues free sod permits, and each one comes with a strict six-week schedule: up to three waterings a day of no more than 10 minutes for the first two weeks, up to two a day for the next two, outside the 10-to-6 window, then once a day, and after that the full restrictions again. A turf lawn skips all six weeks, because there's nothing to root.",
+        "If City of Brighton Water serves your address, the same order sets your watering days through 15 November 2026: even house numbers Tuesday and Friday, odd numbers Wednesday and Saturday, unassigned addresses Monday and Friday, and no irrigation between 10 a.m. and 6 p.m. unless the property holds one of those sod permits from 1 October 2026. Two warnings come first, then a fine of $125, $500 or $1,500 depending on the size of your tap, and a summons after that. The city pays nothing toward artificial turf; its landscape help runs to $25 off a Garden in a Box (<a href=\"https://www.brightonco.gov/308/Water-Conservation-and-Efficiency\" target=\"_blank\" rel=\"nofollow noopener\">City of Brighton</a>)."
       ]
     },
     {
-      "icon": "drop",
-      "kicker": "Stage 1 in Brighton",
-      "h2": "Two watering days, and fines up to $1,500.",
+      "icon": "ruler",
+      "kicker": "The city's own code",
+      "h2": "Twenty percent out front. Out back, the code pulls two ways.",
       "paras": [
-        "City Council approved Brighton's Stage 1 restrictions on 7 April 2026, and they run through 15 November 2026. Your house number's last digit sets your two sprinkler days: even on Tuesday and Friday, odd on Wednesday and Saturday, unassigned addresses on Monday and Friday, with no irrigation for any customer in the 10 a.m.–6 p.m. window (<a href=\"https://www.brightonco.gov/578/Watering-Restrictions\" target=\"_blank\" rel=\"nofollow noopener\">City of Brighton</a>).",
-        "Hand watering of ornamental grasses, shrubs, young trees and flowers is allowed, with the hose held in your hand. Two warnings come first; a third violation costs $125, $500 or $1,500 depending on the size of your water tap, and a fourth means a municipal summons and a court date.",
-        "There's no rebate for artificial turf here; the city's landscape help runs to $25 off a Garden in a Box through Resource Central (<a href=\"https://www.brightonco.gov/308/Water-Conservation-and-Efficiency\" target=\"_blank\" rel=\"nofollow noopener\">City of Brighton</a>). Its xeriscape advice goes further than the rules: to save water, don't water the lawn at all, and put trees ahead of grass (<a href=\"https://www.brightonco.gov/380/Xeriscaping\" target=\"_blank\" rel=\"nofollow noopener\">City of Brighton</a>)."
+        "Brighton names artificial turf in its own Land Use & Development Code, so the limits here come from the city rather than from a water utility's rebate terms. Table 8-1 in Section 8.02 lets a detached house, duplex or row house lay artificial turf in the frontage — the ground between the building line and the street — and limits it to 20% of that frontage area (<a href=\"https://library.municode.com/CO/Brighton/codes/land_use?nodeId=ART8LASIDEST_8.02LADE\" target=\"_blank\" rel=\"nofollow noopener\">City of Brighton</a>). Out back the same table names no percentage: it lists artificial turf among the materials you may use across the rest of the lot, on its own or mixed with planting. Section 8.04 pulls the other way, asking every landscape plan for “a living ground cover of at least 50% of the landscape area” (<a href=\"https://library.municode.com/CO/Brighton/codes/land_use?nodeId=ART8LASIDEST_8.04PLSP\" target=\"_blank\" rel=\"nofollow noopener\">City of Brighton</a>). Artificial turf is not living cover, so read that back yard row against the 50%, not on its own.",
+        "Whether those standards reach your job is the next question, and Section 8.01 answers it. They apply to new development, and they exempt improvements to a detached house or duplex that need no Site Improvement or Residential Design Review and are not part of a larger neighborhood or subdivision plan (<a href=\"https://library.municode.com/CO/Brighton/codes/land_use?nodeId=ART8LASIDEST_8.01INAP\" target=\"_blank\" rel=\"nofollow noopener\">City of Brighton</a>). A new build on a platted subdivision lot is a different case from a re-landscape behind an older Main Street house. Ask Brighton Community Development which of the two your address falls under, and how they apply the 50% living cover rule to a back yard. Get both answers in writing before the layout is fixed."
       ]
     },
     {
@@ -62,7 +62,8 @@
       "paras": [
         "Across most of town the USDA maps Dacono loam and Vona sandy loam: level, free-draining ground with little shrink-swell, Vona about two-thirds sand (<a href=\"https://sdmdataaccess.nrcs.usda.gov/\" target=\"_blank\" rel=\"nofollow noopener\">USDA Soil Data Access</a>). Swelling clay isn't the Brighton problem it is on Thornton's shale breaks.",
         "Toward the South Platte and the Barr Lake side, the survey maps Aquolls instead: poorly drained ground with a high water table. A turf base there needs a proper drainage layer, or the lawn sits wet.",
-        "So the first question on a Brighton visit is which side of that line your yard is on. The base follows the answer: simple on the loam, with a drainage layer on the river ground."
+        "So the first question on a Brighton visit is which side of that line your yard is on. The base follows the answer: simple on the loam, with a drainage layer on the river ground.",
+        "Where those code standards apply, Section 8.04 also sets what the surface itself has to do: the turf and any underlayment must percolate at least 5 inches an hour, and the liner and bedding must stay permeable so water reaches the soil below, with turf replaced once it stops draining like sod (<a href=\"https://library.municode.com/CO/Brighton/codes/land_use?nodeId=ART8LASIDEST_8.04PLSP\" target=\"_blank\" rel=\"nofollow noopener\">City of Brighton</a>). On the loam that is a base built properly. On the river ground it is the whole job."
       ]
     }
   ],
@@ -87,7 +88,11 @@
     },
     {
       "q": "Does Brighton have its own rules for artificial turf?",
-      "a": "Brighton's landscape standards sit in its Land Use & Development Code (<a href=\"https://www.brightonco.gov/363/Land-Use-Development-Code\" target=\"_blank\" rel=\"nofollow noopener\">City of Brighton</a>). Ask the city whether anything in it applies to your turf plan, and get the answer in writing before you sign off on a design."
+      "a": "Yes, in its Land Use & Development Code. Table 8-1 caps artificial turf at 20% of the frontage area on a detached house, duplex or row house, and names no percentage for the back yard (<a href=\"https://library.municode.com/CO/Brighton/codes/land_use?nodeId=ART8LASIDEST_8.02LADE\" target=\"_blank\" rel=\"nofollow noopener\">City of Brighton</a>). Section 8.04 is the check on that: every landscape plan needs living ground cover over at least 50% of the landscape area, and the turf and anything under it must percolate at least 5 inches an hour (<a href=\"https://library.municode.com/CO/Brighton/codes/land_use?nodeId=ART8LASIDEST_8.04PLSP\" target=\"_blank\" rel=\"nofollow noopener\">City of Brighton</a>). Section 8.01 decides whether those standards apply to your project, and Community Development is the office to ask how the two back yard rules read together."
+    },
+    {
+      "q": "Do Brighton's landscape standards apply to my existing house?",
+      "a": "That turns on Section 8.01, which exempts improvements to a detached house or duplex that need no Site Improvement or Residential Design Review and are not part of a larger neighborhood or subdivision plan, along with work that does not raise a site's building footprint or impervious surface by more than 10% (<a href=\"https://library.municode.com/CO/Brighton/codes/land_use?nodeId=ART8LASIDEST_8.01INAP\" target=\"_blank\" rel=\"nofollow noopener\">City of Brighton</a>). A new build in a platted subdivision is covered. Plenty of Brighton homes sit inside a subdivision plan, so ask Community Development which case your lot falls into and keep their answer with your plans."
     }
   ],
   "nearby": [
@@ -127,8 +132,22 @@
     {
       "label": "City of Brighton: Land Use & Development Code",
       "url": "https://www.brightonco.gov/363/Land-Use-Development-Code"
+    },
+    {
+      "label": "City of Brighton: Land Use & Development Code, Section 8.02 Landscape Design (Table 8-1)",
+      "url": "https://library.municode.com/CO/Brighton/codes/land_use?nodeId=ART8LASIDEST_8.02LADE"
+    },
+    {
+      "label": "City of Brighton: Land Use & Development Code, Section 8.04 Plant Specifications",
+      "url": "https://library.municode.com/CO/Brighton/codes/land_use?nodeId=ART8LASIDEST_8.04PLSP"
+    },
+    {
+      "label": "City of Brighton: Land Use & Development Code, Section 8.01 Intent & Applicability",
+      "url": "https://library.municode.com/CO/Brighton/codes/land_use?nodeId=ART8LASIDEST_8.01INAP"
     }
   ],
-  "checked": "2026-09-07",
-  "publicReferences": []
+  "checked": "2026-09-12",
+  "publicReferences": [
+    "https://library.municode.com/CO/Brighton/codes/land_use?nodeId=ART8LASIDEST_8.02LADE"
+  ]
 }

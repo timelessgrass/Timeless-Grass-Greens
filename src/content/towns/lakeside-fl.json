@@ -88,6 +88,10 @@
       "a": "No. CCUA's conservation programs promote reclaimed water and Florida-Friendly Landscaping, and none of them covers artificial turf (<a href=\"https://clayutility.org/community/conservation-programs/\" target=\"_blank\" rel=\"nofollow noopener\">CCUA conservation programs</a>)."
     },
     {
+      "q": "If no board reviews the plan, does anyone in Lakeside have a say?",
+      "a": "No one signs off on the drawing, so the question moves to the dig. Clay County's excavation chapter puts any excavation, cut, dredge or fill of land in front of the county engineer first: either the permits are in hand, or the St. Johns River Water Management District, the state agencies and the Corps of Engineers have written that none is required or that the work is exempt (<a href=\"https://library.municode.com/fl/clay_county/codes/code_of_ordinances?nodeId=CO_CH7.5EX\" target=\"_blank\" rel=\"nofollow noopener\">Sec. 7.5-1</a>). The only exceptions listed are foundation work under a county building permit and roadway subgrade (Sec. 7.5-3). Nothing there says where stripping sod and cutting a base lands, so ask the county engineer's office about your address and get the answer in writing before the ground opens."
+    },
+    {
       "q": "Is there a golf course in Lakeside?",
       "a": "Not inside Lakeside itself. The Country Club of Orange Park sits right on its northern edge, and Eagle Harbor Golf Club, a Clyde Johnston course, is across Doctors Lake on Fleming Island (<a href=\"https://www.eagleharborgc.com/\" target=\"_blank\" rel=\"nofollow noopener\">Eagle Harbor Golf Club</a>). A practice green out back covers the days in between."
     }
@@ -130,8 +134,14 @@
     {
       "label": "Eagle Harbor Golf Club",
       "url": "https://www.eagleharborgc.com/"
+    },
+    {
+      "label": "Clay County Code of Ordinances, Ch. 7.5: Excavations (Secs. 7.5-1, 7.5-3, 7.5-5)",
+      "url": "https://library.municode.com/fl/clay_county/codes/code_of_ordinances?nodeId=CO_CH7.5EX"
     }
   ],
-  "checked": "2026-09-07",
-  "publicReferences": []
+  "checked": "2026-09-12",
+  "publicReferences": [
+    "https://library.municode.com/fl/clay_county/codes/code_of_ordinances?nodeId=CO_CH7.5EX"
+  ]
 }

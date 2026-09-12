@@ -1,0 +1,67 @@
+{
+  "intent": "Who reviews a turf project at a Holly Hills address, and whose water rules apply to it?",
+  "distinctValue": "Settles the two questions the page previously hedged. Water: the bill arrives from the Holly Hills Water and Sanitation District, which Denver Water lists as a Total Service distributor, so Denver Water's rules reach the address; and the district bills sewer on winter water use (Dec/Jan/Feb) precisely so outdoor irrigation stays out of that charge, which is why a turf lawn moves the water side of the bill and not the sewer side. Land use: Arapahoe County Public Works and Development is the authority, with a fence permit whose own section limits itself to boundary fences and enclosures covering more than 15 percent of a lot, a fence height rule, a lot-coverage definition that excludes lawn, landscape standards written for new development rather than an existing yard, and a definition of turf as cool-season grass, which is what those standards limit.",
+  "sources": [
+    {
+      "label": "Denver Water: distributors",
+      "url": "https://www.denverwater.org/about-us/how-we-operate/service-area/distributors",
+      "checked": "2026-09-12",
+      "supports": [
+        "Outside the City and County of Denver, Denver Water provides residential water service through contractual relationships with distributors.",
+        "Total Service - Under Total Service contracts, Denver Water owns the water system and is responsible for its operation, maintenance and replacement. Denver Water reads each individual customer's meter and bills each individual customer at the established \"Total Service\" rate. In Total Service Areas, water service is provided to the customers in the same manner as that provided to customers inside Denver.",
+        "Total Service Distributors ... Holly Hills Water and Sanitation District",
+        "Read and Bill - Under Read and Bill contracts, the distributor owns and is responsible for construction, operation, maintenance, and replacement of its water system into which Denver Water delivers water."
+      ]
+    },
+    {
+      "label": "Holly Hills Water and Sanitation District: contact information",
+      "url": "https://hollyhillswsd.org/contact/",
+      "checked": "2026-09-12",
+      "supports": [
+        "Emergency Information- Water Service / Denver Water Customer Care",
+        "Emergency Information- Sewer Service / Ramey Environmental Compliance - District Sewer Operator",
+        "Permit Process and General District Information / Morain Bakarich, CPAs - District Management"
+      ]
+    },
+    {
+      "label": "Arapahoe County Land Development Code (cover dated March 16, 2026)",
+      "url": "https://files.arapahoeco.gov/Public%20Works_Development/zoning/Land%20Development%20Code/LandDevelopmentCodeRev12102024.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "Cover page: \"ARAPAHOE COUNTY, COLORADO / Land Development Code / MARCH 16, 2026\" (the running footer on interior pages reads \"May 12, 2026\").",
+        "Section 4-1.5.1.a Fence Regulations, General Provisions, page 4-162: \"No person, firm or corporation shall erect, construct, enlarge, alter or move any fence in the County without first obtaining a fence permit from the PWD Building Division, pursuant to this Section.\"",
+        "Section 4-1.5.1.d, page 4-162: \"The intent of this Section is to regulate only those fences of whatever class, which are physically located or intended to serve as a boundary between adjoining properties or as a barrier or enclosure of greater than 15 percent of the area of a particular zone lot.\"",
+        "Section 4-1.5.3.a Requirements of Fences, page 4-163: \"These requirements apply to all fences in unincorporated Arapahoe County enclosing any lot or greater than 15 percent of a lot in any zone district.\"",
+        "Section 4-1.5.3.b: \"Except as otherwise provided in this Section, fences erected in front of any building on a zone lot shall not exceed three feet in height.\"",
+        "Section 4-1.5.3.c: \"Side and rear yard fences may be of any class, as defined in Section 4-1.5.B herein, but shall not exceed a height of six feet excluding hedges\"",
+        "Section 4-1.5.3.e.vii: \"Every fence in the County, including but not limited to those fences for which no permits are required, shall be maintained in good structural condition at all times.\" (the code itself contemplates fences needing no permit)",
+        "Chapter 7 Definitions, page 7-522: \"Lot Coverage — That portion of the lot area covered by a building(s), including all overhanging roofs and parking areas\"",
+        "Chapter 7 Definitions: \"Turf — Turf grass, lawn, or sod shall mean any cool season turf species, variety, or blend, including but not limited to Kentucky bluegrass and Fescue.\"",
+        "Section 4-1.4.b Landscaping and Screening, Applicability: \"These landscape standards shall apply to: i. Parks and Open space areas. ii. New development or redevelopment unless otherwise exempted. iii. Expansions of existing sites: 1. A non-residential project requiring a building permit that cumulatively increases a structure’s square footage by 25 percent or more.\"",
+        "Section 4-1.4.d Turf Limitations, page 4-143: \"In single-family detached, single-family detached cluster, two-family, and townhome residential development, turf shall be limited to 25 percent of the total combined yard area or a maximum of 500 square feet on a lot, whichever is less.\"",
+        "A full-text search of the extracted code returns no occurrence of \"artificial turf\", \"synthetic turf\", \"artificial grass\" or \"synthetic grass\"."
+      ]
+    },
+    {
+      "label": "Denver Water: drought",
+      "url": "https://www.denverwater.org/drought",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"Beginning Oct. 1: Watering of grass or use of spray irrigation systems are prohibited and will be subject to water-waste violations and charges. Trees, shrubs and other plants may continue to be watered using a hand-held hose with an automatic shutoff nozzle or low-volume irrigation, such as a drip line.\"",
+        "\"Stage 1 drought means Denver Water is asking customers to reduce their total water use (outdoors and indoors) by at least 20%\"",
+        "\"The Stage 1 drought declaration is in effect from March 25, 2026 through April 30, 2027, or until further notice.\"",
+        "\"Even addresses are Sunday and Thursday. Odd addresses are Wednesday and Saturday.\""
+      ]
+    },
+    {
+      "label": "Holly Hills Water and Sanitation District: rates, fees and charges",
+      "url": "https://hollyhillswsd.org/fees/",
+      "checked": "2026-09-12",
+      "supports": [
+        "Billing Process: \"Sewer bills are based upon the property’s winter water usage (Dec/Jan/Feb), as provided by Denver Water. We apply the per 1,000 gallon charge to the total winter water usage and apply the prevailing sewer rate for the next four (4) quarters.\"",
+        "Billing Process: \"The winter water usage is the benchmark for sewer billings to exclude outside irrigation water usage that does NOT discharge into the District’s facilities.\"",
+        "Rates, Fees and Charges: \"Effective 2026, the District determined it was necessary to increase sanitary sewer fees by approximately 5% to cover the increasing treatment charges, operating costs, and capital improvements to the sanitary sewer transmission system.\""
+      ]
+    }
+  ]
+}

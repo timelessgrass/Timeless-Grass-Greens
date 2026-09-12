@@ -1,0 +1,66 @@
+{
+  "intent": "Columbine is unincorporated, so who reviews a backyard turf or putting-green job, and what does that authority actually require before the dig?",
+  "distinctValue": "Columbine is the only page in this cluster whose governing authority is genuinely in question: the county line runs through the CDP, Jefferson governing most of it and Arapahoe the eastern part. The two counties have written land disturbance differently, so the same back yard gets a different answer depending on the side. Jefferson publishes its exemption in the zoning resolution itself (under 0.5 acres, no grading permit) and binds the job to Section 16's performance standards regardless, including the underpinning requirement for flatwork and foundations an excavation could affect and the Colorado registered professional engineer's letter needed to waive a setback. Arapahoe publishes no threshold in its code at all: no land disturbance without a GESC permit unless the separate GESC Manual exempts the project. Neighbouring pages cannot carry this: Ken Caryl is wholly unincorporated Jefferson, and Bow Mar, Columbine Valley and Littleton are incorporated Arapahoe municipalities with their own town or city codes. The page also names the one thing Jefferson's sport-court list does not settle: it runs to golf courses and other outdoor recreation areas but never names a putting green, so the reader is sent to Planning & Zoning with a specific question rather than a guess.",
+  "sources": [
+    {
+      "label": "Jefferson County Zoning Resolution, Section 16: Land Disturbance",
+      "url": "https://www.jeffco.us/DocumentCenter/View/2497/Section-16-Land-Disturbance-PDF",
+      "checked": "2026-09-12",
+      "supports": [
+        "All Land Disturbance Activities must conform to the performance standards as detailed in this section. These standards apply whether or not a Land Disturbance Permit is required.",
+        "It shall be unlawful for any person, firm or corporation to do or authorize any land disturbance in the unincorporated area of Jefferson County without first obtaining a Land Disturbance Permit from the County to authorize temporary land disturbance activities unless specifically exempted by this section.",
+        "Land Disturbance Activities will require a Grading Permit if one the following apply: (1) The disturbed area is equal to or greater than 0.5 acres.",
+        "(2) Land disturbance activities with or in advance of a building permit with less than 0.5 acres of land disturbance, where the applicant is requesting relief of a regulatory requirement, including all performance standards related to grading, drainage and circulation.",
+        "(3) 5,000 or more cubic yards of earthen material is stored on a property and the material is not actively being used on said property.",
+        "In addition, land disturbance associated with activities listed within this exemption section must still be in compliance with the performance standards set forth in this section, unless specifically stated otherwise.",
+        "The following land disturbance activities are permissible without obtaining a Grading Permit: a. Projects which involve less than 0.5 acres of disturbed area.",
+        "Setbacks for all grading, erosion and sediment control activities shall be at least 7 feet from property boundaries and at least 25 feet from off-site occupied structures.",
+        "Planning and Zoning may waive setback requirements for land disturbance provided it can be adequately demonstrated that activities occurring within setback limitations will not adversely affect adjacent property or structures. A letter prepared by a Colorado registered professional engineer will be required that addresses the following:",
+        "11. Protection of Adjacent Structures. Foundations or flatwork which may be affected by any excavation shall be underpinned or otherwise protected against settlement and shall be protected against lateral movement.",
+        "Running header on every page: \"Zoning Resolution - Amended 6-10-25\". The setback provision's own amendment history ends \"am. 12-6-22\".",
+        "Scope note: Section 16 binds the unincorporated area of JEFFERSON County only. It does not reach the Arapahoe County part of the Columbine CDP."
+      ]
+    },
+    {
+      "label": "Jefferson County Planning & Zoning: Outside the Home",
+      "url": "https://www.jeffco.us/3975/Outside-the-Home",
+      "checked": "2026-09-12",
+      "supports": [
+        "We require a Miscellaneous Permit for sport courts, such as basketball, tennis, volleyball, badminton and pickleball courts, playground equipment, swimming pools, golf courses or other types of outdoor sports and recreation areas.",
+        "All sport courts and play areas need to meet required setbacks and height limitations. Setbacks are how far structures (fencing, nets, pools, etc.) need to be from the property lines. Both setbacks and height limitations are determined by your property's zone district.",
+        "Projects that require grading more than a half acre of land will likely trigger a review of the land disturbance/grading work through a Grading Permit or Notice of Intent, please see our Engineering and Earthwork page for more information.",
+        "We do not require a permit for fences in unincorporated Jefferson County. We require a Miscellaneous Permit for any gate across access that serves a parcel or parcels, a tract or tracts, or a lot or lots.",
+        "Retaining walls less than three feet do not require any permits. Retaining walls between three and 12 feet require a Miscellaneous Permit.",
+        "The page names no artificial turf and no putting green anywhere in its list of outdoor work, so whether a backyard green is a sport court is not settled by the page.",
+        "Contact given on the page: Planning & Zoning Division, 100 Jefferson County Parkway, Golden."
+      ]
+    },
+    {
+      "label": "Jefferson County: Engineering and Earthwork",
+      "url": "https://www.jeffco.us/3978/Engineering-and-Earthwork",
+      "checked": "2026-09-12",
+      "supports": [
+        "A Grading Permit is required when: The disturbance area exceeds one half acre (21,780 square feet).",
+        "The applicant is proposing to stockpile 5,000 or more cubic yards of earthen material on a property and the material is not actively being used on said property.",
+        "Land disturbance work must comply with any lot grading, erosion and sediment control plans previously approved with a subdivision plat."
+      ]
+    },
+    {
+      "label": "Arapahoe County Land Development Code (12 May 2026), Section 5-4, Grading, Erosion and Sediment Control Permit",
+      "url": "https://files.arapahoeco.gov/Public%20Works_Development/zoning/Land%20Development%20Code/LandDevelopmentCodeRev12102024.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "These Regulations shall apply to all property within the unincorporated areas of Arapahoe County.",
+        "No land disturbance shall occur on any property, unless otherwise exempted via provisions in the GESC Manual without first obtaining a GESC permit from the County. Such permit is subject to all applicable fees.",
+        "The Projects that require a GESC permit and the Projects that do not require GESC permit are described in the GESC Manual, as amended.",
+        "Even if a Project is exempt from GESC permitting, BMPs shall still be required for any clearing, grading, or land disturbing activities in accordance with the standards set forth in the GESC Manual, as amended.",
+        "A GESC permit shall be obtained prior to the start of the land disturbing activities even if a Federal or State agency or other jurisdiction has approved the project and issued a permit.",
+        "Definition: The term \"land disturbance\", as used in Chapter 12-200 Grading, Erosion and Sediment Control Regulations, means the permanent or temporary purposeful alteration of existing ground contour by means of excavation, grading, filling, drilling, or removal of ground cover vegetation.",
+        "Arapahoe County has developed a permitting process for certain grading, erosion and sediment control activities on construction projects and other applicable land disturbance within unincorporated Arapahoe County. This permitting process is established in the Arapahoe County Grading, Erosion, and Sediment Control Manual (GESC Manual).",
+        "Date stamp: cover reads \"Land Development Code MARCH 16, 2026\"; the running footer on every page reads \"May 12, 2026 Arapahoe County Land Development Code\". The page cites the footer date.",
+        "Unresolved by this document: the disturbed-area threshold that would exempt a back yard is not in the code. It is delegated to the GESC Manual, which the page therefore tells the reader to ask Public Works and Development about rather than guessing a number.",
+        "Access note: arapahoeco.gov HTML pages return 403 to automated fetches; this PDF on files.arapahoeco.gov was retrieved and read in full."
+      ]
+    }
+  ]
+}

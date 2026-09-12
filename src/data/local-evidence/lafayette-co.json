@@ -1,0 +1,77 @@
+{
+  "intent": "Where in a Lafayette yard is artificial turf actually allowed, and who decides?",
+  "distinctValue": "Lafayette's own landscaping section, 26-19-5, sets a minimum of seventy-five (75) percent live materials in the gross front yard and says artificial grasses cannot be used to satisfy the landscaping requirements at all, while leaving them lawful elsewhere in the yard. It names the office that decides (the Planning Division, with a variance from the planning director) and it is being replaced: the city's first land use code rewrite in nearly 40 years reached City Council second reading, scheduled 15 September 2026, and the adoption draft bans artificial turf in landscape areas except functional turf, whose definition names chipping and putting greens. No neighbouring page carries a front-yard live-material percentage, a named variance route, or a code-replacement date.",
+  "sources": [
+    {
+      "label": "Lafayette Municipal Code, Sec. 26-19-5, Landscaping regulations and guidelines",
+      "url": "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=COOR_CH26DEZO_S26-19DEIMST_S26-19-5LAREGU",
+      "checked": "2026-09-12",
+      "supports": [
+        "26-19-5(d)(3)a.1: \"Provide landscaping in the front yard of each home. There shall be a minimum of seventy-five (75) percent of the gross front yard area, excluding driveways, landscaped with live materials.\"",
+        "26-19-5(c)(1)b.17: \"Artificial plants, artificial grasses, and other artificial plant material are prohibited as a means of complying with these landscaping regulations. Such artificial materials are not entirely prohibited. They may be used for athletic fields and other uses, but shall not be used in any manner to satisfy the requirements of these landscape regulations.\"",
+        "26-19-5(a) Applicability: \"This section shall apply to new residential and new nonresidential development, and any development requiring a site plan review, commenced after the effective date of Ordinance No. 2004-1 [March 2, 2004].\"",
+        "26-19-5(c)(1): \"Building permit applications for individual single-family residences do not require landscape plans, but shall comply with section 26-19-5(d)(1) and (3).\"",
+        "26-19-5(c)(1)i.1: \"The planning director is authorized to allow a variance from the strict application of this section in cases which involve practical difficulties or unnecessary hardship\", with appeals \"considered by the zoning board of adjustment\".",
+        "26-19-5(c)(1)h.2: \"The property owner shall maintain the landscaping as approved in the final landscape plan.\"",
+        "26-19-5(b) Definitions: \"Landscaping and/or landscape improvements means plantings of grass, shrubs, trees or similar living plants, with minimal use of other ground surface treatment such as decorative rock, bark, or stone. These inert materials are allowed to be used in conjunction with live material in planting beds, but do not count toward the calculations of required landscaping and/or landscaping improvements.\"",
+        "26-19-5(c)(1)b: \"Landscape improvements shall be deemed to be water-efficient when the approved landscape plan indicates an annual water budget of fifteen (15) gallons per square foot per year.\""
+      ]
+    },
+    {
+      "label": "City of Lafayette: Planning Division",
+      "url": "https://www.lafayetteco.gov/110/Planning-Division",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"The Planning Division reviews and monitors all development proposals to ensure consistency and compliance with approved development standards and zoning.\"",
+        "\"Site plan/architectural reviews are required for all developments prior to the issuance of a building permit.\"",
+        "\"The variance process is intended to provide limited relief from requirements in the Municipal Code in those cases where strict application of a particular requirement will create a practical difficulty or unnecessary hardship.\""
+      ]
+    },
+    {
+      "label": "Lafayette Listens: Land Use/Zoning Code adoption schedule",
+      "url": "https://lafayette-listens.com/landusecode",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"The City of Lafayette is rewriting its land use code (also referred to as zoning) for the first time in nearly 40 years.\"",
+        "\"Sept. 15 – City Council Second Reading. City Council will take a final vote on the Land Use Code. This meeting typically does not include a public hearing.\"",
+        "Page as read on 12 September 2026 lists the adoption steps through \"Aug. 18 – City Council First Reading\" and \"Sept. 9 – City Council/Planning Commission Workshop\", and links the adoption draft as \"LUC- First Reading.pdf\"."
+      ]
+    },
+    {
+      "label": "Lafayette Listens: Land Use Code adoption draft (LUC – First Reading)",
+      "url": "https://lafayette-listens.com/16799/widgets/62668/documents/84770",
+      "checked": "2026-09-12",
+      "supports": [
+        "Draft 26-5-4(d)(16) Artificial Plant Materials: \"Artificial turf and other artificial plant materials are prohibited within landscape areas except for the use of functional turf as defined in this LUC.\"",
+        "Draft definition, Functional Turf: \"Turf that is located in a recreational use area or other space that is regularly used for civic, community, or recreational purposes, which may include playgrounds, sports fields, picnic grounds, amphitheaters, portions of parks, and the playing areas of golf courses, such as driving ranges, chipping and putting greens, tee boxes, greens, fairways, and roughs.\"",
+        "Draft 26-5-4(d)(14)(B) Firescaping Standards: \"Non-flammable materials such as flagstone, pavers, rock mulch, and fire resistant plants shall be installed within the first six feet of the home or building.\"",
+        "Draft 26-5-4(b) Applicability: \"This section shall apply to: (A) New development; (B) Redevelopment, infill, and changes to building or site elements in accordance with Section 26-7-4(a)(8), Site-Specific Adjustment; and (C) Changes of use.\"",
+        "Document is the first-reading adoption draft dated to the 434-page file linked from the project page; it is not adopted law as of 12 September 2026."
+      ]
+    },
+    {
+      "label": "City of Lafayette: Water Efficiency programs",
+      "url": "https://www.lafayetteco.gov/1419/Water-Efficiency",
+      "checked": "2026-09-12",
+      "supports": [
+        "Lawn Replacement Program: \"If you qualify and your application is approved, you may be eligible for up to $750 in discounts toward Lawn Removal Service or remove the lawn yourself (DIY) and receive Garden In A Box kits.\"",
+        "Eligibility: \"Yes, I have at least 200 sq ft of healthy, well-maintained grass.\"",
+        "\"Replacing grass with water-efficient plants reduces outdoor water use, supports pollinators, and cuts down on yard maintenance.\" The program is run with Resource Central and names no artificial turf option."
+      ]
+    },
+    {
+      "label": "City of Lafayette: Outdoor Water Efficiency Rebates",
+      "url": "https://www.lafayetteco.gov/3849/Outdoor-Water-Efficiency-Rebates",
+      "checked": "2026-09-12",
+      "supports": [
+        "Rotary/high-efficiency sprinkler nozzles: \"Rebate: $3/each\", \"Minimum 10, maximum 50\", \"One-time rebate per residence per a 10-year period\".",
+        "Drip equipment: \"Rebate: up to $50\", one per household.",
+        "\"Rachio smart controller and Rain Bird rain sensor installations are offered at no cost\" to qualifying residents, with \"Proof of participation in the Resource Central Slow the Flow program\" required. No turf replacement or artificial turf rebate appears on this page."
+      ]
+    }
+  ],
+  "reviewNotes": [
+    "26-19-5 settles what counts as landscaping and what the front yard must hold; it does not settle whether a landscaping-only change at an existing home, with no building permit and no development application, triggers the section. The page therefore sends the reader to the Planning Division with that exact question rather than answering it.",
+    "The adoption draft is a draft. Every reference to it on the page is dated and tied to the scheduled 15 September 2026 second reading."
+  ]
+}

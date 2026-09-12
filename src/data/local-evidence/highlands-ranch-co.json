@@ -1,0 +1,73 @@
+{
+  "intent": "What will HRCA and the Highlands Ranch Metro District actually let me do with artificial turf on my lot, and where must it stop?",
+  "distinctValue": "The written HRCA turf specification every Highlands Ranch lot is held to (front-yard share, setback from property lines, minimum pile, material standard, sample and drainage plan, decision window), plus the two Metro District limits that decide the edge of the yard and the route in: the 12 inches inside a parkway fence the District owns or holds an easement over, and the ban on using open space to install a home improvement. Neighbouring pages cover a different association or city, different water districts and the shared Douglas County clay; none of them can state these numbers, because they belong to HRCA and the Highlands Ranch Metro District alone.",
+  "sources": [
+    {
+      "label": "HRCA: Residential Improvement Guidelines (adopted October 2024, updated June 2025)",
+      "url": "https://hrcaonline.org/Portals/0/Documents/covenants/2025-06_ResidentialmprovementGuidelines.pdf?ver=3ZUlKLMOpiB58cPyCpGDJw%3D%3D",
+      "checked": "2026-09-12",
+      "supports": [
+        "Section 2.42 E. Artificial/Synthetic Turf: \"ARC approval may be required. The submitted landscape plan will be reviewed on a case-by-case basis. A sample of the material and drainage plan is required along with the landscape plan.\"",
+        "\"Artificial/Synthetic turf must be integrated into the overall landscaping plan. It must: Not exceed 50% of the area in the front yard. Remain a minimum of two (2) feet from all property lines. Be a minimum of 1.5\" pile with straw colored thatch. Must be an American Society of Testing Materials (ASTM) certified material.\"",
+        "\"The ARC may consider side and rear yards at 100% coverage. In judging this coverage, the ARC will consider the appearance from neighboring properties, the placement of appropriate screening and vegetation, and the overall landscape plan.\"",
+        "Section 1.14: \"the ARC or staff must act on the plans within 30 days after receipt of all materials required by the Committee (unless the time is extended by mutual agreement). You will be notified, by email/in writing, of the decision of the ARC within this period.\"",
+        "Section 2.1: \"UNLESS OTHERWISE SPECIFICALLY STATED ... DRAWINGS OR PLANS FOR A PROPOSED IMPROVEMENT MUST BE SUBMITTED TO THE ARC AND A WRITTEN APPROVAL VIA EMAIL OR HARD COPY FROM THE ARC MUST BE OBTAINED BEFORE THE IMPROVEMENT IS MADE.\"",
+        "Section 2.42 B: ARC approval may be required for landscaping when the plan includes \"Artificial/Synthetic Turf\", \"ColoradoScape\", \"Retaining walls or grade changes\", or \"Less than 50% sod in the 'front' and/or 'rear' yards\".",
+        "Section 2.42 G note: \"The Highlands Ranch Metropolitan District (HRMD) perimeter fencing may not be removed or altered for the purpose of landscape material delivery and open space areas are not to be accessed for such deliveries, without the express written permission of the HRMD.\"",
+        "Page footer on every page: \"Adopted October 2024 | Updated June 2025\"."
+      ]
+    },
+    {
+      "label": "HRCA: Covenants & Improvements",
+      "url": "https://hrcaonline.org/Property-Owners/Residential/Covenants-Improvements",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"The majority of exterior improvements must be approved by the Architecture Committee. For information about what does/does not require approval, please refer to the Residential Improvement Guide (RIGs) or call the Community Improvement Services Department at 303-471-8821 or email prior to beginning any work.\"",
+        "\"Each owner of a privately owned property within the Community Association is a member of the HRCA.\"",
+        "FAQ \"Is it okay for me to access the open space to do improvements on my property?\" — \"No, the Highlands Ranch Metro District owns and maintains the majority of open spaces and they prohibit the use of using the open space for the installation of any home improvement. For further information you can contact the HRMD at highlandsranch.org or 303-791-0430.\"",
+        "\"Contact: HRCA Community Improvement Services Department Monday - Friday, 8 a.m. - 5 p.m., at covenant@hrcaonline.org or 303-471-8821.\""
+      ]
+    },
+    {
+      "label": "Highlands Ranch Metro District: Fence Repair and Replacement Program",
+      "url": "https://www.highlandsranch.org/resources/fence-program",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"More than 42 miles of Metro District-owned parkway fence winds through the community along major two- and four-lane arterial roads in Highlands Ranch.\"",
+        "\"In addition to the fence, the Metro District owns or has easements for the property on which the fence sits. In areas where the fence sits adjacent to a residential property, the Metro District owns or has easements for the land 12 inches inside the fence line.\"",
+        "\"Per the Metro District's Rules and Regulations Section 11.3, homeowners are prohibited from placing landscape materials in a manner that causes damage to the fence. Landscape materials, such as shrubs, trees, or rocks, can damage a fence and cause it to deteriorate quicker.\"",
+        "\"This is a good example of keeping a 12-inch buffer between your landscape and the fence.\"",
+        "\"Metro District-owned or maintained fence is located on the following streets: Arrowwood Dr., Colorado Blvd., Dad Clark Dr., Fairview Pkwy., Foothills Canyon Blvd., Gateway Dr., Grace Blvd., Grigs Rd., Highlands Ranch Pkwy., Kendrick Castillo Way, Lincoln Ave., McArthur Ranch Rd., Poston Pkwy., Quebec St., S. Broadway, S. Cresthill ..., S. Ranch Rd., Summit View Pkwy., University Blvd., Venneford Ranch Rd., Wildcat Reserve Pkwy.\"",
+        "\"The fence program only applies to Metro District-owned fence along the parkways, and does not impact individual homeowner's fences. Residential fencing is owned and maintained by the homeowner, and is subject to residential fencing guidelines from the Highlands Ranch Community Association.\""
+      ]
+    },
+    {
+      "label": "Highlands Ranch Metro District: Land Use Rules & Native Habitat",
+      "url": "https://www.highlandsranch.org/explore/open-space-trails/open-space-information-center/land-use-rules-native-habitat",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"Private property may not be accessed through Metro District open space.\"",
+        "\"Dumping and littering of any kind is prohibited. This includes grass clippings, sod, soil, trash, debris, landscape materials, and dog waste.\"",
+        "\"Storage or staging of any type of equipment or materials is prohibited.\"",
+        "\"Extended landscaping: Mowing and weed whipping is permitted between the residential fence line and the outer edge of the Metro District's mow line. Improvements including: irrigation, landscape materials, shrub and tree planting, gardening, structure of any kind or retaining walls are prohibited on Metro District owned or managed properties.\"",
+        "\"Damage or misuse of Metro District property is prohibited. This includes, but is not limited to applying herbicide, digging and erosion caused by drainage from adjacent property.\""
+      ]
+    },
+    {
+      "label": "Highlands Ranch Water: Turf Replacement Program",
+      "url": "https://www.highlandsranchwater.org/turf-replacement-program",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"Artificial turf replacements are no longer eligible for rebate.\"",
+        "\"All landscape conversions must first be approved by the Highlands Ranch Community Association (HRCA) or the Solstice Architectural Control Committee (SACC).\"",
+        "\"An online application must be submitted before a landscape conversion can begin.\"",
+        "\"All rebate funding for 2026 has been exhausted. The turf replacement rebate will reopen March 1, 2027.\"",
+        "Rebate amounts: \"$2.50/sq. ft.\" for ColoradoScape plants and \"$1.50/sq. ft.\" for low-water turf (Dog Tuff or Tahoma 31); applications accepted \"Mar. 1 through Oct. 1\" with projects completed by Nov. 1 of the program year."
+      ]
+    }
+  ],
+  "unresolved": [
+    "The RIGs do not state an architectural review fee for a turf submittal; the document says to check current fees with the Community Improvement Services Department. The page tells the reader to ask CIS rather than naming a figure.",
+    "Whether a given lot's rear fence is Metro District parkway fence (and so carries the 12-inch easement) is not published parcel by parcel; the District publishes only the street list, so the page tells the reader to check that list and ask the Metro District about their own fence line."
+  ]
+}

@@ -49,11 +49,12 @@
     {
       "icon": "shovel",
       "kicker": "The ground",
-      "h2": "Quartz sand that drains fast and holds almost nothing.",
+      "h2": "The sand is the easy part. Black Creek is the part to check.",
       "paras": [
         "In central Middleburg the USDA maps Ortega fine sand, 85% of the map unit: moderately well drained, no flooding, no ponding, and the water table stays at least 4.3 feet down (<a href=\"https://sdmdataaccess.sc.egov.usda.gov/\" target=\"_blank\" rel=\"nofollow noopener\">USDA Soil Data Access</a>). Its class, Quartzipsamments, means clean quartz sand with almost no clay or organic matter to hold water.",
         "That's why St. Augustine and Bahia go straw-colored between waterings here, and why one day a week is so hard on them. For turf the same sand is an easy start: water goes straight down through it, and a base built for that soil keeps the surface even.",
-        "The Black Creek ravines are the exception. Around the Black Creek Ravines Conservation Area, and where the North Fork runs past the historic district on Main Street, lots have real slope, erosion and shade, and they take more care to build on."
+        "The Black Creek ravines are the exception. Around the Black Creek Ravines Conservation Area, and where the North Fork runs past the historic district on Main Street, lots have real slope, erosion and shade, and they take more care to build on. The creek itself is measured: on the National Weather Service gauge for the North Fork near Middleburg, minor flooding begins at 15 feet, moderate at 18 and major at 20, and the record crest is 27.89 feet, reached on 11 September 2017 (<a href=\"https://water.noaa.gov/gauges/mdlf1\" target=\"_blank\" rel=\"nofollow noopener\">NOAA river gauge</a>).",
+        "So on a creek lot the flood zone settles the footprint. Clay County requires an approved floodplain development permit for development in a special flood hazard area, and its definition of development takes in filling, grading, paving, excavation and any other land disturbing operation (<a href=\"https://www.claycountygov.com/government/planning-and-zoning/flood-fema-info/frequently-asked-questions\" target=\"_blank\" rel=\"nofollow noopener\">Clay County flood questions</a>). Inside the regulatory floodway, fill or regrading needs a no-rise study, signed and sealed by a professional engineer, before a permit is granted. We design the base to what the county says your parcel allows."
       ]
     },
     {
@@ -87,6 +88,10 @@
       "a": "Outside a shortage order, Sec. 18.5-73 allows two days a week in daylight saving time: Wednesday and Saturday for odd addresses, Thursday and Sunday for even, and Tuesday and Friday for nonresidential. In Eastern Standard Time it drops to one day (<a href=\"https://library.municode.com/fl/clay_county/codes/code_of_ordinances\" target=\"_blank\" rel=\"nofollow noopener\">Clay County code</a>)."
     },
     {
+      "q": "How do I find out if my Middleburg lot is in a flood zone?",
+      "a": "Two lookups. Clay County's interactive map shows it: enter the address, then turn on the Flood Zone Data layer. You can also find your panel on the FEMA index map and open it from the county's flood maps page (<a href=\"https://www.claycountygov.com/government/planning-and-zoning/flood-fema-info/frequently-asked-questions\" target=\"_blank\" rel=\"nofollow noopener\">Clay County flood questions</a>). Then ask the county floodplain manager what it wants for a turf area with no building on it. We work to that answer."
+    },
+    {
       "q": "Can commercial turf count toward Clay County's required landscaping?",
       "a": "Plan on no. On a commercial site the county wants screening and internal landscaping to total at least 10 percent of the developed area, Sec. 18.5-54, it defines ground cover as low-growing plants, and it wants landscaped areas irrigated or near a ready water supply (<a href=\"https://library.municode.com/fl/clay_county/codes/code_of_ordinances\" target=\"_blank\" rel=\"nofollow noopener\">Clay County code</a>). Treat turf as extra amenity space on top of that minimum."
     }
@@ -117,8 +122,23 @@
     {
       "label": "City of Green Cove Springs: water conservation (SJRWMD cost-share eligible items)",
       "url": "https://www.greencovesprings.com/448/Water-Conservation"
+    },
+    {
+      "label": "Clay County: flood and FEMA frequently asked questions (floodplain development permit, flood zone lookup)",
+      "url": "https://www.claycountygov.com/government/planning-and-zoning/flood-fema-info/frequently-asked-questions"
+    },
+    {
+      "label": "Clay County: development within a flood plain (Ordinance 87-45 permit requirement)",
+      "url": "https://www.claycountygov.com/government/planning-and-zoning/flood-fema-info/development-within-a-flood-plain"
+    },
+    {
+      "label": "NOAA National Water Prediction Service: North Fork Black Creek near Middleburg gauge",
+      "url": "https://water.noaa.gov/gauges/mdlf1"
     }
   ],
-  "checked": "2026-09-07",
-  "publicReferences": []
+  "checked": "2026-09-12",
+  "publicReferences": [
+    "https://www.claycountygov.com/government/planning-and-zoning/flood-fema-info/frequently-asked-questions",
+    "https://water.noaa.gov/gauges/mdlf1"
+  ]
 }

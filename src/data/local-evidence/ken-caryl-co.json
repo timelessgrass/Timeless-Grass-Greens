@@ -1,0 +1,71 @@
+{
+  "intent": "The Ken-Caryl Ranch Master Association sets a 1.75-inch minimum pile for artificial turf. Does that floor also apply to a backyard putting green, and who decides?",
+  "distinctValue": "Resolves, from the association's own published project rules, that the Ken-Caryl property-improvements page neither names a putting green nor exempts one: Artificial Turf Section 2.05 is headed simply Artificial Turf, sets a 1.75-inch minimum pile with no carve-out written into it, and the nearest neighbouring section, Sports Courts and Facilities Section 2.49, lists tennis courts, pools and multi-purpose sports courts and caps such a facility at 50% of the rear yard with a 10-foot setback and no night lighting. The page therefore tells the reader to ask the Architectural Committee which section reviews a putting surface before choosing a product, and states plainly that nothing pre-approves one. It also surfaces the collision inside the Ranch's own rulebook that no neighbouring page has: Section 2.05 requires a landscape buffer around the turf, while the Ranch's Firewise rules forbid flammable material within the first 5 feet of the foundation and juniper within 15 feet of a flammable structure — so the buffer has to be non-combustible where the lawn meets the house. And it names the actual water provider, the Ken-Caryl Ranch Water and Sanitation District, whose own outdoor rules (two days a week, a third only when needed, never more than three, nothing between 10 a.m. and 6 p.m.) differ from the assigned-day schedules on the neighbouring pages, and which voted on 22 April 2026 not to pass the Stage 1 drought surcharge to customers while telling them to keep to 2 designated days — a conflict with its own rules page that the page tells the reader to take to the district.",
+  "sources": [
+    {
+      "label": "Ken-Caryl Ranch Master Association: Property Improvements (Artificial Turf Section 2.05, Landscaping and Xeriscaping Section 2.30, Sports Courts and Facilities Section 2.49, Firewise – Mitigation and Safety)",
+      "url": "https://ken-carylranch.org/resident-resources/home-improvements/",
+      "checked": "2026-09-12",
+      "supports": [
+        "Artificial Turf — Architectural Committee approval is required. The following rules shall apply:",
+        "Artificial turf shall only be used in backyard applications",
+        "A landscape buffer shall surround the turf area",
+        "Pile height will be a minimum of 1.75”",
+        "Color will be compatible with natural turf and be dual, tri, or quad color",
+        "Submittal shall include: 1 foot square sample of the proposed turf",
+        "Site and grading plan, showing location of installation",
+        "Landscaping plan showing the proposed layout including edging and other materials",
+        "Artificial turf may only be used in back yards. Artificial turf in side yards will be reviewed on a case-by-case basis. See also Artificial Turf Section 2.05.",
+        "Sports Courts and Facilities — Architectural Committee approval is required.",
+        "This section is related to improvements such as, but not limited to, tennis courts, in-ground swimming pools, and multi-purpose sports courts.",
+        "Location: The facility, exclusive of landscaping and screening, shall occupy no more than 50% of the surface area of that portion of the lot lying to the rear of the plane of the front of the house exclusive of the area of the house.",
+        "Setbacks: All physical improvements, including retaining walls and specialized fencing, shall be set back a minimum of 10 feet.",
+        "Lighting: Lighting of facilities for nighttime use will not be permitted.",
+        "Applications are reviewed twice a month by the Architectural Committee. Most decisions are made within two weeks, but more complex projects may take up to 30 days.",
+        "Approval is required before starting any exterior improvement",
+        "Subassociation approval may be required",
+        "For questions about properties in The Plains, contact ... For questions about properties in The Valley, contact ...",
+        "Beginning July 1, 2026, Jefferson County’s Wildfire Resiliency Code applies to permits for new construction and certain exterior improvement projects within designated Wildland-Urban Interface (WUI) areas.",
+        "The Ken-Caryl Ranch Master Association (KCRMA) encourages residents to evaluate the first 5 feet around their homes and consider replacing combustible landscaping materials with fire-hardened alternatives.",
+        "Landscaping – Architectural Committee approval is required. ... The committee seeks to achieve an aesthetically pleasing balance of planting and hardscape material within the lot. See also Artificial Turf Section 2.05.",
+        "Xeriscape Rules: Design elements such as, but not limited to, rock, engineered block, and mulch must be natural in color. For example – no red or black mulch will be permitted.",
+        "Firewise and Mitigation Efforts – Architectural Committee approval is required for all changes or additions related to Firewise and mitigation efforts.",
+        "Landscaping Near Foundations: No flammable materials, such as mulch, shall be placed within the first 5 feet of a home’s foundation. Non-flammable alternatives such as rock, gravel, or hardscape features are encouraged.",
+        "Planting Restrictions: Juniper species are not allowed within 15 feet of a flammable structure.",
+        "Vegetation Clearance: Branches on trees and bushes must be trimmed and maintained at a minimum distance of 10 feet from the home’s roof and exterior walls.",
+        "NEGATIVE FINDING, scoped to this page only: this page reproduces the rule text inline and enumerates every reviewable project type on the Ranch from Accessory Buildings through Swim Spas, and across roughly 500KB of raw HTML the strings \"putting\" and \"golf\" return zero hits (verified against the raw source, not a summary). So this page neither names a putting green nor writes any exception to the 1.75-inch minimum for one. The association's master Rules, Regulations and Procedures PDF and its Residential Landscaping Guidebook PDF could not be retrieved, so the page claims this only of what the Ranch publishes here, and tells the reader to put the question to the Architectural Committee."
+      ]
+    },
+    {
+      "label": "Ken-Caryl Ranch Water and Sanitation District: Water Rules, Rebates, and Conservation (outdoor water use)",
+      "url": "https://ken-carylwater.org/customers/outdoor-water-use-landscaping/",
+      "checked": "2026-09-12",
+      "supports": [
+        "To help conserve water and reduce water waste, the following watering rules are in effect from May 1 to October 1 each year.",
+        "There are no assigned watering days, but never water a zone more than three days a week and never between 10 a.m. and 6 p.m..",
+        "No watering between 10 a.m. and 6 p.m.",
+        "Water two days a week, adding a third day only when needed. (Watering more than three days a week is not allowed).",
+        "Repair leaking sprinkler systems within 10 days.",
+        "Ken-Caryl Ranch Water and Sanitation District is part of a highly integrated water system and, together with Denver Water, we work tirelessly to ensure water quality from the source to your tap."
+      ]
+    },
+    {
+      "label": "Ken-Caryl Ranch Water and Sanitation District: Stage 1 Drought Surcharge (posted 28 April 2026)",
+      "url": "https://ken-carylwater.org/stage-1-drought-surcharge/",
+      "checked": "2026-09-12",
+      "supports": [
+        "At the Ken-Caryl Ranch Water and Sanitation District’s April 22nd Board of Directors Meeting, the Board of Directors voted to not pass through a surcharge onto our customers for the Stage 1 Drought restrictions at this time.",
+        "Please continue to follow your 2 designated days for watering and the other watering restrictions that are in effect until further notice."
+      ]
+    },
+    {
+      "label": "Ken-Caryl Ranch Water and Sanitation District: Lawn Watering Season Ending October 1, 2026 (posted 27 August 2026)",
+      "url": "https://ken-carylwater.org/lawn-watering-season-ending-october-1-2026/",
+      "checked": "2026-09-12",
+      "supports": [
+        "Ken-Caryl Ranch Water and Sanitation District purchases its water from Denver Water.",
+        "Due to ongoing drought conditions and the need for additional water conservation measures, Denver Water has made it mandatory that the lawn watering season must end on October 1, 2026."
+      ]
+    }
+  ]
+}

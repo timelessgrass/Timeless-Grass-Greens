@@ -47,12 +47,13 @@
       ]
     },
     {
-      "icon": "home",
-      "kicker": "HOAs",
-      "h2": "In the newer neighborhoods, the HOA can't say no out back.",
+      "icon": "file",
+      "kicker": "Lafayette's landscape code",
+      "h2": "Out front, three quarters of the yard has to stay alive.",
       "paras": [
-        "Much of Lafayette built since the 1990s, in neighborhoods like Indian Peaks, Silver Creek, Coal Creek Village and Beacon Hill, sits under an HOA; Old Town, where coal-miner cottages sit on small lots around Public Road, generally doesn't. Where there is one, state law keeps it from barring nonvegetative turf behind a detached home or pushing hardscape past 20% of your landscaping without good reason (<a href=\"https://codes.findlaw.com/co/title-38-property-real-and-personal/co-rev-st-sect-38-33-3-106-5.html\" target=\"_blank\" rel=\"nofollow noopener\">the state's HOA statute</a>).",
-        "Front yards and attached homes are outside that protection, and Lafayette has plenty of townhomes and duplexes. If yours is one, get the board's answer in writing before the design is set."
+        "Lafayette's code puts a number on the front yard. At least 75% of the gross front yard area, driveways excluded, has to be landscaped with live materials, and the same section says artificial grasses cannot be used to satisfy those landscaping requirements (<a href=\"https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=COOR_CH26DEZO_S26-19DEIMST_S26-19-5LAREGU\" target=\"_blank\" rel=\"nofollow noopener\">Lafayette Municipal Code, Sec. 26-19-5</a>). The code adds that artificial materials are not banned outright. They just don't count toward what the city requires.",
+        "So the back and side yards are where an artificial lawn does its work, and out front it sits with the planting instead of replacing it. The section covers new development and anything needing site plan review since March 2004, and a single-family building permit has to meet the front-yard rule even though it needs no landscape plan. Whether a landscaping change at an existing home is caught by it is the city's call: ask the <a href=\"https://www.lafayetteco.gov/110/Planning-Division\" target=\"_blank\" rel=\"nofollow noopener\">Planning Division</a> whether Sec. 26-19-5 applies to your project and what counts toward the 75%. Where the rule creates a practical difficulty, the planning director can grant a variance.",
+        "The code itself is on the way out. Lafayette is rewriting its land use code for the first time in nearly 40 years, and City Council's final vote is scheduled for 15 September 2026 (<a href=\"https://lafayette-listens.com/landusecode\" target=\"_blank\" rel=\"nofollow noopener\">Lafayette Listens</a>). Ask which code your project falls under before the layout is fixed."
       ]
     },
     {
@@ -75,11 +76,11 @@
   "faq": [
     {
       "q": "Who installs artificial turf in Lafayette, CO?",
-      "a": "We install artificial turf, putting greens and pet turf in Lafayette, CO. The city's Stage 1 drought response has been mandatory since 10 April 2026, with a two-day watering cap, and it offers no turf or lawn-removal rebate. Low ground along Coal Creek and Waneka Lake is poorly drained, so we build the base to drain. Call 303-349-2368 for a free estimate."
+      "a": "We install artificial turf, putting greens and pet turf in Lafayette, CO. The city's Stage 1 drought response has been mandatory since 10 April 2026, with a two-day watering cap, and the city code keeps 75% of a front yard in live materials, so an artificial lawn usually belongs at the back. Low ground along Coal Creek and Waneka Lake is poorly drained, so we build the base to drain. Call 303-349-2368 for a free estimate."
     },
     {
       "q": "Does Lafayette give a rebate for turf or lawn removal?",
-      "a": "No. Its outdoor rebates cover high-efficiency sprinkler nozzles at $3 each, drip equipment up to $50, and free smart controllers and rain sensors after a Slow the Flow check, with no turf replacement or lawn removal rebate and nothing for artificial turf (<a href=\"https://www.lafayetteco.gov/3849/Outdoor-Water-Efficiency-Rebates\" target=\"_blank\" rel=\"nofollow noopener\">City of Lafayette</a>). What turf saves is the watering itself, every week the limits last."
+      "a": "Not for artificial turf. Its outdoor rebates cover high-efficiency sprinkler nozzles at $3 each, drip equipment up to $50, and free smart controllers and rain sensors after a Slow the Flow check (<a href=\"https://www.lafayetteco.gov/3849/Outdoor-Water-Efficiency-Rebates\" target=\"_blank\" rel=\"nofollow noopener\">City of Lafayette</a>). Lawn removal is discounted, up to $750 with Resource Central if you have at least 200 square feet of healthy grass, but that program swaps grass for water-efficient plants (<a href=\"https://www.lafayetteco.gov/1419/Water-Efficiency\" target=\"_blank\" rel=\"nofollow noopener\">City of Lafayette</a>). What turf saves is the watering itself, every week the limits last."
     },
     {
       "q": "Besides watering days, what does Lafayette's Stage 1 ban?",
@@ -88,6 +89,14 @@
     {
       "q": "Can a Lafayette business or HOA put turf on its common areas?",
       "a": "Only where the turf is functional, such as a playing field. Since 1 January 2026, Colorado has stopped local governments from permitting non-functional turf in the landscaping of new commercial and institutional grounds or HOA common land (<a href=\"https://content.leg.colorado.gov/sites/default/files/2024a_005_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SB24-005</a>, with changes from <a href=\"https://content.leg.colorado.gov/sites/default/files/2025a_1113_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">HB25-1113</a>)."
+    },
+    {
+      "q": "Can I lay artificial turf in my Lafayette front yard?",
+      "a": "Part of it at most. The city's landscaping section asks for a minimum 75% of the gross front yard, driveways excluded, in live materials, and artificial grasses can't count toward it (<a href=\"https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=COOR_CH26DEZO_S26-19DEIMST_S26-19-5LAREGU\" target=\"_blank\" rel=\"nofollow noopener\">Sec. 26-19-5</a>). Out back it runs the other way for a detached home, where an association can't ban nonvegetative turf (<a href=\"https://codes.findlaw.com/co/title-38-property-real-and-personal/co-rev-st-sect-38-33-3-106-5.html\" target=\"_blank\" rel=\"nofollow noopener\">C.R.S. 38-33.3-106.5</a>). Ask the Planning Division how the front-yard rule reads on your lot."
+    },
+    {
+      "q": "Would Lafayette's new land use code change what turf is allowed?",
+      "a": "It reads that way. The adoption draft bars artificial turf within landscape areas except as functional turf, and its definition of functional turf names chipping and putting greens among a golf course's playing areas. It also wants non-flammable materials in the first six feet around the house. Council's final vote is scheduled for 15 September 2026, so ask the Planning Division which code applies to your project (<a href=\"https://lafayette-listens.com/landusecode\" target=\"_blank\" rel=\"nofollow noopener\">Lafayette Listens</a>)."
     }
   ],
   "nearby": [
@@ -124,8 +133,31 @@
     {
       "label": "Colorado HB25-1113, signed act",
       "url": "https://content.leg.colorado.gov/sites/default/files/2025a_1113_signed.pdf"
+    },
+    {
+      "label": "Lafayette Municipal Code, Sec. 26-19-5, landscaping regulations",
+      "url": "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=COOR_CH26DEZO_S26-19DEIMST_S26-19-5LAREGU"
+    },
+    {
+      "label": "City of Lafayette: Planning Division",
+      "url": "https://www.lafayetteco.gov/110/Planning-Division"
+    },
+    {
+      "label": "Lafayette Listens: land use code adoption schedule",
+      "url": "https://lafayette-listens.com/landusecode"
+    },
+    {
+      "label": "Lafayette Listens: land use code adoption draft",
+      "url": "https://lafayette-listens.com/16799/widgets/62668/documents/84770"
+    },
+    {
+      "label": "City of Lafayette: water efficiency programs",
+      "url": "https://www.lafayetteco.gov/1419/Water-Efficiency"
     }
   ],
-  "checked": "2026-09-07",
-  "publicReferences": []
+  "checked": "2026-09-12",
+  "publicReferences": [
+    "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=COOR_CH26DEZO_S26-19DEIMST_S26-19-5LAREGU",
+    "https://lafayette-listens.com/landusecode"
+  ]
 }

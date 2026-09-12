@@ -37,13 +37,13 @@
       ]
     },
     {
-      "icon": "clock",
-      "kicker": "While you're away",
-      "h2": "A yard that doesn't need you there.",
+      "icon": "ruler",
+      "kicker": "Between the ocean and the river",
+      "h2": "Every lot here sits inside the county's Coastal Area.",
       "paras": [
-        "If Butler Beach is where you spend part of the year, or a house you rent out, the lawn is the thing that goes wrong while you're gone. An invoice from the lawn service arrives all winter. A dead patch of St. Augustine greets the next guest. A watering day nobody keeps turns into a notice from code enforcement.",
-        "Turf takes all three off the list. It stays green through the months you're away, needs no watering day and no mowing, and the yard you left in spring is the yard you come back to in the fall. When the job is done, we go over the care it needs with you, or with whoever checks on the house.",
-        "Re-sodding isn't a quick fix right now, either. Under the district's Phase III order, the rules for watering in new sod and new plantings were tightened in mid-May 2026 (<a href=\"https://www.sjrwmd.com/2026/05/district-declares-phase-iii-extreme-water-shortage/\" target=\"_blank\" rel=\"nofollow noopener\">the district's declaration</a>)."
+        "St. Johns County's code draws a district around this strip. Its Coastal Area is the unincorporated part of the county lying east of the west shoreline of the Intracoastal Waterway (<a href=\"https://www.sjcfl.us/wp-content/uploads/2024/01/Article-XII.pdf\" target=\"_blank\" rel=\"nofollow noopener\">St. Johns County LDC definitions</a>). Butler Beach is all of that, so the code puts two extra bodies of rule on a yard here by definition: Chapter 161 and the state's coastal construction permitting, and the county's own Flood Damage Control Regulations, Part 3.03.00 (<a href=\"https://www.sjcfl.us/wp-content/uploads/2024/01/Article-IV.pdf\" target=\"_blank\" rel=\"nofollow noopener\">LDC Sec. 4.01.11</a>).",
+        "That puts the flood map ahead of the layout. Filling, grading and excavation are development in this code, and all development wholly or partly inside a flood hazard area starts with an application to the Floodplain Administrator (<a href=\"https://www.sjcfl.us/wp-content/uploads/2024/01/Article-III.pdf\" target=\"_blank\" rel=\"nofollow noopener\">LDC Part 3.03.00</a>). The maps in force are FEMA's, dated 7 December 2018. Ask <a href=\"https://www.sjcfl.us/departments/floodplain-management/\" target=\"_blank\" rel=\"nofollow noopener\">St. Johns County Floodplain Management</a> which zone your parcel is in, and what it wants to see for a landscaping-only job, before a footprint is agreed.",
+        "A Zone V or Coastal A parcel still leaves room to build. Minor grading and minor quantities of nonstructural fill are allowed there for landscaping and for drainage under and around buildings. What the code limits is the shape: fill with finished slopes steeper than one unit vertical to five units horizontal needs an analysis by a registered professional, and altering a sand dune needs FDEP's approval on top of that. So we plan shallow edges tied into the ground that's already there, rather than a raised pad."
       ]
     },
     {
@@ -62,7 +62,8 @@
       "h2": "County water, and one day a week to use it.",
       "paras": [
         "The St. Johns County Utility Department supplies the water here (<a href=\"https://www.sjcfl.us/protect-our-water/\" target=\"_blank\" rel=\"nofollow noopener\">St. Johns County</a>). The Phase III shortage order, in force since mid-May 2026 across St. Johns and five other counties, allows lawns one day a week: Saturday for odd addresses, Sunday for even, only before 8 a.m. or after 6 p.m., and no more than 3/4 inch and an hour per zone (<a href=\"https://www.sjrwmd.com/wateringrestrictions/\" target=\"_blank\" rel=\"nofollow noopener\">SJRWMD</a>).",
-        "The order reaches private wells and pumps as well as county water. Drip lines and a hand-held hose are exempt, and the county's water page lists no rebate for artificial turf."
+        "The order reaches private wells and pumps as well as county water. Drip lines and a hand-held hose are exempt, and the county's water page lists no rebate for artificial turf.",
+        "Re-sodding isn't a quick fix right now, either. Under the district's Phase III order, the rules for watering in new sod and new plantings were tightened in mid-May 2026 (<a href=\"https://www.sjrwmd.com/2026/05/district-declares-phase-iii-extreme-water-shortage/\" target=\"_blank\" rel=\"nofollow noopener\">the district's declaration</a>)."
       ]
     }
   ],
@@ -88,6 +89,14 @@
     {
       "q": "What's under a Butler Beach yard?",
       "a": "We don't guess. On the free visit we check what's under your yard and plan the base for it, whether your lot sits near the dune or down by the river, and you approve the layout before any work starts."
+    },
+    {
+      "q": "Can turf go on the dune side of a Butler Beach lot?",
+      "a": "Only with the state's permission. Seaward of the Coastal Construction Control Line, Florida law bars making an excavation, removing beach material or otherwise altering existing ground elevations, and bars damaging a sand dune or the vegetation growing on it (<a href=\"https://www.flsenate.gov/Laws/Statutes/2025/161.053\" target=\"_blank\" rel=\"nofollow noopener\">Fla. Stat. 161.053</a>). The county's exemption for routine gardening and lawn care stops short of dune vegetation seaward of that line unless you already hold written permission from Florida DEP (<a href=\"https://www.sjcfl.us/wp-content/uploads/2024/01/Article-IV.pdf\" target=\"_blank\" rel=\"nofollow noopener\">LDC Sec. 4.01.05</a>). Ask <a href=\"https://floridadep.gov/rcp/coastal-construction-control-line\" target=\"_blank\" rel=\"nofollow noopener\">Florida DEP</a> where the line crosses your lot before anything is drawn."
+    },
+    {
+      "q": "Does a turf lawn need a county permit in Butler Beach?",
+      "a": "Ask rather than assume. The code counts filling, grading and excavation as development, and inside a mapped flood hazard area development goes to the Floodplain Administrator first (<a href=\"https://www.sjcfl.us/wp-content/uploads/2024/01/Article-III.pdf\" target=\"_blank\" rel=\"nofollow noopener\">LDC Part 3.03.00</a>). Give <a href=\"https://www.sjcfl.us/departments/floodplain-management/\" target=\"_blank\" rel=\"nofollow noopener\">Floodplain Management</a> your parcel number, ask for the flood zone and ask what it wants for a landscaping-only job. We work to what that answer says."
     }
   ],
   "nearby": [
@@ -127,8 +136,35 @@
     {
       "label": "Florida's Historic Coast: Butler Beach",
       "url": "https://www.floridashistoriccoast.com/beaches/butler-beach/"
+    },
+    {
+      "label": "St. Johns County LDC Article XII: definitions of Coastal Area, Development and Flood Hazard Area",
+      "url": "https://www.sjcfl.us/wp-content/uploads/2024/01/Article-XII.pdf"
+    },
+    {
+      "label": "St. Johns County LDC Article IV: coastal conservation (Sec. 4.01.11) and land-clearing exemptions (Sec. 4.01.05)",
+      "url": "https://www.sjcfl.us/wp-content/uploads/2024/01/Article-IV.pdf"
+    },
+    {
+      "label": "St. Johns County LDC Article III, Part 3.03.00: flood damage control regulations",
+      "url": "https://www.sjcfl.us/wp-content/uploads/2024/01/Article-III.pdf"
+    },
+    {
+      "label": "St. Johns County: Floodplain Management",
+      "url": "https://www.sjcfl.us/departments/floodplain-management/"
+    },
+    {
+      "label": "Fla. Stat. 161.053 (2025): coastal construction and excavation seaward of the control line",
+      "url": "https://www.flsenate.gov/Laws/Statutes/2025/161.053"
+    },
+    {
+      "label": "Florida DEP: Coastal Construction Control Line program",
+      "url": "https://floridadep.gov/rcp/coastal-construction-control-line"
     }
   ],
-  "checked": "2026-09-07",
-  "publicReferences": []
+  "checked": "2026-09-12",
+  "publicReferences": [
+    "https://www.sjcfl.us/departments/floodplain-management/",
+    "https://www.flsenate.gov/Laws/Statutes/2025/161.053"
+  ]
 }

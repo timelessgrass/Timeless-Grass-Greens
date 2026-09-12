@@ -1,0 +1,76 @@
+{
+  "intent": "Butler Beach has no city hall, so which rules actually govern digging and grading for a turf lawn on this strip between the Atlantic and the Matanzas, and who do I ask first?",
+  "distinctValue": "St. Johns County's Land Development Code defines its \"Coastal Area\" as the unincorporated part of the county lying east of the west shoreline of the Intracoastal Waterway. Butler Beach is entirely that: unincorporated county land, entirely east of the Matanzas. So the whole CDP sits inside a code-defined district that pulls two extra bodies of rule onto a landscaping job by definition, not by guesswork - Chapter 161 F.S. plus DEP's Coastal Construction Control Line permitting (LDC Sec. 4.01.11.A), and the county's own Flood Damage Control Regulations in Part 3.03.00 (Sec. 4.01.11.B). From there the page can give numbers no neighbour page can: the code counts filling, grading and excavation as \"Development\" (Art. XII), so inside a flood hazard area the owner applies to the Floodplain Administrator first (Sec. 3.03.04.A); in Zone V and Coastal A zones minor grading and minor quantities of nonstructural fill ARE allowed for landscaping, but finished slopes steeper than one unit vertical to five units horizontal need a Registered Professional's analysis (Sec. 3.03.10.G.8); altering a sand dune needs FDEP approval plus an engineering analysis (Sec. 3.03.10.C.6); and seaward of the CCCL the county's routine-gardening exemption expressly does not reach dune vegetation unless the owner already holds documented DEP permission (Sec. 4.01.05.C). None of this is true next door in the same way: St. Augustine Beach is incorporated, so the LDC's Coastal Area definition excludes it and its own 0.40 impervious cap governs instead; St. Augustine Shores is mainland, west of the Intracoastal, and outside the Coastal Area entirely; the Anastasia Island page answers a different question (which of three governments holds your parcel).",
+  "sources": [
+    {
+      "label": "St. Johns County Land Development Code, Article XII (Definitions), edition of 2 June 2026",
+      "url": "https://www.sjcfl.us/wp-content/uploads/2024/01/Article-XII.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "Coastal Area: The unincorporated area of St. Johns County lying easterly of the mean high water line of the west shoreline of the Intracoastal Waterway.",
+        "Development: Any man-made change to improved or unimproved structure and/or real estate, including but not limited to, buildings or other structures, tanks, temporary structures, temporary or permanent storage of equipment or materials. The following activities or uses shall be taken as to involve \"development\" as defined in this section: A. Mining, dredging, filling, grading, paving, excavations, drilling operations or any other land disturbing activities.",
+        "Coastal Construction Control Line (CCCL): The line established by the State of Florida pursuant to section 161.053, F.S., and recorded in the official records of the community, which defines that portion of the beach-dune system subject to severe fluctuations based on a 100-year storm surge, storm waves or other predictable weather conditions.",
+        "Coastal High Hazard Area: A special flood hazard area extending from offshore to the inland limit of a primary frontal dune along an open coast and any other area subject to high velocity wave action from storms or seismic sources.",
+        "Flood Hazard Area: The greater of the following two areas: 1) The area within a floodplain subject to a 1-percent or greater chance of flooding in any year. 2) The area designated as a flood hazard area on the community's flood hazard map, or otherwise legally designated."
+      ]
+    },
+    {
+      "label": "St. Johns County Land Development Code, Article IV (Natural Resources), Sec. 4.01.05.C and Sec. 4.01.11, edition of 11 August 2025",
+      "url": "https://www.sjcfl.us/wp-content/uploads/2024/01/Article-IV.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "Sec. 4.01.11 Environmentally Sensitive Areas - Coastal Conservation. A. These regulations are in addition to all other regulations in this Code dealing with Development and Conservation in Coastal Areas. In addition, all Development within Coastal Areas in St. Johns County shall comply with regulations in Chapter 161, F.S., Coastal Protection, and the Florida Department of Environmental Protection regulations regarding Construction within the Coastal Construction Control Line.",
+        "B. Development within Coastal Areas shall meet the standards and requirements for Roadway, Drainage, and Utilities Standards in Part 6.04.00 and Flood Damage Control Regulations in Part 3.03.00.",
+        "Sec. 4.01.05.C Exemptions. Notwithstanding anything to the contrary in this Code, the following activities shall be lawful without application for and issuance of a Permit. None of these exemptions shall apply to any Dune vegetation seaward of the Coastal Construction Control Line or to a Specimen Tree, or Historic Tree, unless otherwise stated below.",
+        "Routine landscape maintenance such as trimming or pruning of vegetation which is not intended or reasonably likely to result in damage or the eventual death of any Protected Tree; and mowing of yards or lawns, or any other landscaping or gardening activity, which is commonly recognized as routine non-commercial gardening or routine maintenance or replacement. This exemption shall be construed to allow routine maintenance of commonly grown horticultural vegetation growing on Dunes seaward of the Coastal Construction Control Line, provided the Person owning such property, or his/her agent, first provides sufficient documentation evidencing express permission for such activity from the Bureau of Beaches and Coastal Systems of the Florida Department of Environmental Protection of the State of Florida.",
+        "C. It is the intent of St. Johns County, pursuant to policies of the Coastal/Conservation Element of the Comprehensive Plan, to protect the County's Coastal barrier areas, Dunes, and beaches to avoid or minimize Development seaward of the Coastal Construction Control Line."
+      ]
+    },
+    {
+      "label": "St. Johns County Land Development Code, Article III, Part 3.03.00 (Flood Damage Control Regulations), edition of 2 June 2026",
+      "url": "https://www.sjcfl.us/wp-content/uploads/2024/01/Article-III.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "Sec. 3.03.01 B. Scope. The provisions of these regulations shall apply to all Development that is wholly within or partially within any Flood Hazard Area, including but not limited to the subdivision of land; filling, grading, and other site improvements and utility installations; construction, alteration, remodeling, enlargement, improvement, replacement, repair, relocation or demolition of buildings, structures, and facilities including those that are exempt from the Florida Building Code",
+        "Sec. 3.03.04 A. Permits Required. Any owner or owner's authorized agent (hereinafter \"applicant\") who intends to undertake any development activity within the scope of these regulations, including buildings, structures and facilities exempt from the Florida Building Code, which is wholly within or partially within any Flood Hazard Area shall first make application to the Floodplain Administrator, and the Building Official if applicable, and shall obtain the required permit(s) and approval(s).",
+        "Sec. 3.03.02 C. Basis for Establishing Flood Hazard Areas. The FIS for St. Johns County, Florida and Incorporate Areas dated December 7, 2018, and all subsequent amendments and revisions, and the accompanying FIRM, and all subsequent amendments and revisions to such maps, are adopted by reference as a part of these regulations and shall serve as the minimum basis for establishing Flood Hazard Areas.",
+        "Sec. 3.03.10.G.8 Nonstructural Fill. In Coastal High Hazard Areas and Coastal A Zones: a. Minor grading and the placement of minor quantities of nonstructural fill shall be permitted for landscaping and for drainage purposes under and around buildings. b. Nonstructural fill with finished slopes that are steeper than one unit vertical to five units horizontal shall be permitted only if an analysis prepared by a Registered Professional demonstrates no harmful diversion of floodwaters or wave runup and wave reflection that would increase damage to adjacent buildings and structures.",
+        "Sec. 3.03.10.C.6 Limitations on Sites in Coastal High Hazard Areas (Zone V) and Coastal A Zones. In Coastal High Hazard Areas and Coastal A Zones, alteration of sand dunes and mangrove stands shall be permitted only if such alteration is approved by FDEP and only if the engineering analysis required by Section 3.03.05.C.4, above, demonstrates that the proposed alteration will not increase the potential for flood damage."
+      ]
+    },
+    {
+      "label": "St. Johns County: Floodplain Management",
+      "url": "https://www.sjcfl.us/departments/floodplain-management/",
+      "checked": "2026-09-12",
+      "supports": [
+        "Any development in the floodplain requires a construction permit.",
+        "St Johns County Land Development Code & Florida Building Code regulations apply to all development that is wholly within or partially within any Special Flood Hazard Areas (including Flood Zones A, AE, AH, AO & VE).",
+        "Floodplain Management, 4040 Lewis Speedway, St. Augustine, FL 32084; GMFloodplain@sjcfl.us"
+      ]
+    },
+    {
+      "label": "Fla. Stat. 161.053 (2025): coastal construction and excavation seaward of the control line",
+      "url": "https://www.flsenate.gov/Laws/Statutes/2025/161.053",
+      "checked": "2026-09-12",
+      "supports": [
+        "no person, firm, corporation, or governmental agency shall construct any structure whatsoever seaward thereof; make any excavation, remove any beach material, or otherwise alter existing ground elevations; drive any vehicle on, over, or across any sand dune; or damage or cause to be damaged such sand dune or the vegetation growing thereon seaward thereof, except as hereinafter provided.",
+        "a permit to alter, excavate, or construct on property seaward of established coastal construction control lines may be granted by the department as follows"
+      ]
+    },
+    {
+      "label": "Florida DEP: Coastal Construction Control Line program",
+      "url": "https://floridadep.gov/rcp/coastal-construction-control-line",
+      "checked": "2026-09-12",
+      "supports": [
+        "The Coastal Construction Control Line (CCCL) Program regulates structures and activities that can cause beach erosion, destabilize dunes, damage upland properties or interfere with public access.",
+        "LOCATE the CCCL and other geographic information"
+      ]
+    }
+  ],
+  "unresolved": [
+    "Which flood zone any individual Butler Beach parcel is in, and whether it is seaward of the Coastal Construction Control Line, is not settled by any published page: the county adopts FEMA's maps by reference and DEP publishes the line on its own map service. The page therefore sends the reader to St. Johns County Floodplain Management for the zone and to Florida DEP for the line, rather than stating either for the CDP as a whole.",
+    "Neither the county's code nor its Floodplain Management page states whether a landscape-only turf installation with no building work is treated as a permit-triggering development activity in practice, or handled as an over-the-counter approval. The page tells the reader to ask Floodplain Management that exact question with a parcel number in hand.",
+    "The Land Development Code still does not use the words artificial turf anywhere, so no county classification of a turf system as pervious or impervious exists to cite.",
+    "No turf rebate or incentive was found for St. Johns County; nothing on the page implies one exists."
+  ]
+}
