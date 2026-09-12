@@ -35,6 +35,35 @@
         "St. Augustine Beach is a separate city from St. Augustine and has its own coverage and tree requirements. Its published code sets a 40% impervious limit for low-density residential property, but the wording does not alone establish how every synthetic-turf system is classified. Obtain the City’s answer for your proposal.",
         "The City also requires review for tree removal. Keep existing trees in the layout and resolve any applicable root or drip-line requirements before preparation. Bring the City and community conditions to the visit before the footprint is finalized."
       ]
+    },
+    {
+      "icon": "ruler",
+      "kicker": "The impervious cap",
+      "h2": "A 0.40 cap, and a base that doesn't eat into it.",
+      "paras": [
+        "St. Augustine Beach limits how much of a lot can be impervious: 0.40 in low-density residential areas, 0.50 in medium density, and 0.70 in high density and commercial (<a href=\"https://www.zoneomics.com/code/st-augustine-beach-FL/chapter_6\" target=\"_blank\" rel=\"nofollow noopener\">St. Augustine Beach code</a>). Whether a turf system counts against that 0.40 is the first design question on almost every lot in the city.",
+        "The city's stormwater definition of impervious area leaves out all lawns, landscape areas and gardens (<a href=\"https://library.municode.com/fl/st._augustine_beach/codes/code_of_ordinances?nodeId=PTIICOOR_CH15PLDE_ARTIICOSTMASYPROULI_S15-17DE\" target=\"_blank\" rel=\"nofollow noopener\">St. Augustine Beach Code Sec. 15-17</a>), but it doesn't say whether artificial turf is a lawn. On a lot near its cap, ask the city in writing before you commit to a layout, and put the turf on an open, free-draining base rather than compacted fines, so rain keeps soaking into the ground.",
+        "Trees need a permit too. The city requires a Tree Removal Permit before any tree is cut down, destroyed or moved, and it has adopted an Urban Forestry Standards and Specifications Manual. We draw the layout around the trees you keep."
+      ]
+    },
+    {
+      "icon": "home",
+      "kicker": "Lots",
+      "h2": "The narrow 50-footer, or a real back yard.",
+      "paras": [
+        "The city covers about 2.17 square miles between the Atlantic and A1A, north to Pope Road, and most of its homes went up in the late 20th century (<a href=\"https://en.wikipedia.org/wiki/St._Augustine_Beach,_Florida\" target=\"_blank\" rel=\"nofollow noopener\">Wikipedia</a>). Low-density lots start at 7,500 square feet, with setbacks of 25 feet in front, 10 at the sides and 20 at the rear. The older platted lots, 50 by 93 feet, get 20, 7.5 and 20, which leaves a small back yard.",
+        "Associations vary. Much of the older grid has none, while pockets such as Sea Colony, the city's only private gated oceanfront neighborhood, Anastasia Dunes, Island Hammock, Ocean Palms and Seagate have their own rules. Where an HOA governs, Florida law confines its reach to turf visible from the frontage, a neighboring parcel, a common area or a community golf course (<a href=\"https://www.flsenate.gov/Laws/Statutes/2025/720.3045\" target=\"_blank\" rel=\"nofollow noopener\">Fla. Stat. 720.3045</a>)."
+      ]
+    },
+    {
+      "icon": "sun",
+      "kicker": "Sand, salt and sun",
+      "h2": "Beach sand on coquina, and hardly any shade.",
+      "paras": [
+        "Under most yards is barrier-island sand sitting right on coquina shell rock, on ground that's close to flat. Salt blows in off the Atlantic, the wind buries the crown of the grass in sand, and the sun does the rest. Water poured on a sod lawn drains straight through, so it drinks and still looks tired.",
+        "Turf stays green in full sun, but full sun heats any surface. Plan shade for the corner the dog or the kids use most in summer (<a href=\"/blog/how-hot-does-artificial-turf-get/\">how hot turf gets</a>).",
+        "If the house is a rental, or you're here only part of the year, a lawn is one more thing to manage from a distance. Turf needs no watering day, no mowing and no fertilizer, and your renters can't forget to water it."
+      ]
     }
   ],
   "services": [
@@ -43,7 +72,28 @@
     "putting-greens"
   ],
   "servicesNote": "Compare a lawn, pet area or compact green with the usable space and property requirements.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in St. Augustine Beach, FL?",
+      "a": "We install artificial turf, pet turf and backyard putting greens in St. Augustine Beach, FL. The city caps impervious surface at 0.40 on low-density lots, so turf needs a base that drains, and a tree can't come out without a city permit. If the house is a rental or a second home, turf keeps the yard the same between visits. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Is St. Augustine Beach part of the City of St. Augustine?",
+      "a": "No. It's a city of its own, with its own code, running south from Pope Road along the beach; the City of St. Augustine and its historic districts lie to the north (<a href=\"https://en.wikipedia.org/wiki/St._Augustine_Beach,_Florida\" target=\"_blank\" rel=\"nofollow noopener\">Wikipedia</a>). So the 0.40 cap and the tree permit apply here, not the historic districts' approvals."
+    },
+    {
+      "q": "Can I have a pool and turf on a low-density lot?",
+      "a": "Yes, but plan the numbers. On top of the 0.40 cap, low-density lots get 465 square feet for a pool and its decking only (<a href=\"https://www.zoneomics.com/code/st-augustine-beach-FL/chapter_6\" target=\"_blank\" rel=\"nofollow noopener\">St. Augustine Beach code</a>). Ask the city how it counts turf before you settle the layout."
+    },
+    {
+      "q": "Is pet turf a good fit for a beach rental?",
+      "a": "Pet turf drains when the dog goes and rinses clean with a hose, so there's no bare patch for the next guest's dog to dig. When we finish, we walk you, or whoever looks after the house, through the care it needs."
+    },
+    {
+      "q": "How often can I water once the shortage order lifts?",
+      "a": "The normal rules allow two days a week in daylight saving time and one in winter, set by odd or even address, and never from 10 a.m. to 4 p.m. (<a href=\"https://www.sjrwmd.com/wateringrestrictions/\" target=\"_blank\" rel=\"nofollow noopener\">SJRWMD</a>). Turf skips the schedule either way."
+    }
+  ],
   "nearby": [
     "anastasia-island-fl",
     "butler-beach-fl",

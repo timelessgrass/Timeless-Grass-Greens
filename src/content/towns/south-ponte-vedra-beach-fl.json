@@ -35,6 +35,35 @@
         "On the ocean side, confirm the coastal construction line and any dune restrictions before finalizing the work area. On the marsh side, establish the shoreline separation and keep swales, ditches and maintenance routes clear.",
         "The applicable Florida turf standard calls for anchoring at edges and seams; that should be part of the installation discussion, without a promise that turf will protect the property from flooding or storms. For a condominium or gated community, obtain the appropriate property and building requirements separately."
       ]
+    },
+    {
+      "icon": "pin",
+      "kicker": "The coast",
+      "h2": "Ten miles of A1A, ocean on one side, marsh on the other.",
+      "paras": [
+        "South Ponte Vedra Beach isn't a city or a census place. It's a ribbon of homes along about 10 miles of two-lane A1A between Ponte Vedra Beach and Vilano Beach, with the Atlantic on one side and the Guana River and the Intracoastal on the other (<a href=\"https://www.homes.com/ponte-vedra-fl/south-ponte-vedra-beach-neighborhood/\" target=\"_blank\" rel=\"nofollow noopener\">Homes.com</a>). The Guana Tolomato Matanzas reserve holds most of the land behind it, so new building is scarce.",
+        "Homes run from 1960s to '80s beach cottages and stilt houses to custom oceanfront rebuilds from the 1990s on. Lots are deep and narrow, running back from the beach, so the outdoor space is usually a courtyard, a strip beside the deck or a yard on the marsh side, not a square back lawn.",
+        "It's a hard place for grass. Salt blows in off the Atlantic, the onshore wind is steady, and the dune line has been washed out and rebuilt again and again. In January 2018, erosion from Hurricane Irma took the dune out from under a house on South Ponte Vedra Beach Boulevard, and part of it collapsed (<a href=\"https://www.news4jax.com/news/2018/01/04/ponte-vedra-beach-house-collapses/\" target=\"_blank\" rel=\"nofollow noopener\">News4JAX</a>)."
+      ]
+    },
+    {
+      "icon": "shield",
+      "kicker": "The state standard",
+      "h2": "Florida's turf standard was written for weather like this.",
+      "paras": [
+        "Since 19 May 2026, Florida's standard for turf on a single-family lot of an acre or less has required it to be anchored at all edges and seams and, at a minimum, to withstand the effects of wind or flooding (<a href=\"https://www.flrules.org/gateway/ruleNo.asp?id=62-308.100\" target=\"_blank\" rel=\"nofollow noopener\">DEP Rule 62-308.100</a>). Turf that meets the standard can't be banned by the county (<a href=\"https://www.flsenate.gov/Laws/Statutes/2025/0125.572\" target=\"_blank\" rel=\"nofollow noopener\">Fla. Stat. 125.572</a>).",
+        "The same rule keeps turf permeable and free of intentionally added PFAS and heavy metals, and bars it from adding stormwater runoff or harming the property next door. No in-ground irrigation may run under it.",
+        "If your lot is on the ocean side, find out where the state's Coastal Construction Control Line falls before you plan anything near the dune. The state's permitting covers work seaward of that line, and St. Johns County's dune protection rules apply as well."
+      ]
+    },
+    {
+      "icon": "home",
+      "kicker": "Associations",
+      "h2": "Some lots answer to a board. Many answer to no one.",
+      "paras": [
+        "Associations here are patchy. Gated enclaves such as Turtle Shores, with its pedestrian tunnel under A1A to an oceanfront pavilion (<a href=\"https://www.frankelrealtygroup.com/turtle-shores.php\" target=\"_blank\" rel=\"nofollow noopener\">Frankel Realty Group</a>), have an HOA, and Florida law stops it restricting turf that can't be seen from the frontage, a neighbor, a common area or a community golf course (<a href=\"https://www.flsenate.gov/Laws/Statutes/2025/720.3045\" target=\"_blank\" rel=\"nofollow noopener\">Fla. Stat. 720.3045</a>). What the street can see is still the board's call. Many of the older lots strung along A1A have no association at all.",
+        "Serenata Beach is different again. Its 88 oceanfront flats, built from 2000 to 2002, are a condominium, not an HOA, so a different statute and a different approval route apply (<a href=\"https://www.frankelrealtygroup.com/serenata-beach.php\" target=\"_blank\" rel=\"nofollow noopener\">Frankel Realty Group</a>). Ask the condominium association before you plan a courtyard or a terrace."
+      ]
     }
   ],
   "services": [
@@ -43,7 +72,28 @@
     "pet-turf"
   ],
   "servicesNote": "Compare a courtyard lawn, compact green or pet area within the coastal property’s available space.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in South Ponte Vedra Beach, FL?",
+      "a": "We install artificial turf, pet turf and backyard putting greens in South Ponte Vedra Beach, FL. On this strip of A1A, Florida's standard requires turf anchored at every edge and seam to withstand wind or flooding, and held 10 feet back from the Intracoastal or the Guana River. Gated enclaves have associations; many older lots don't. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "How close to the Intracoastal or the marsh can turf go?",
+      "a": "No closer than 10 feet to the Intracoastal, the Guana River or any other natural or man-made waterbody, measured from the ordinary or mean high water line (<a href=\"https://www.flrules.org/gateway/ruleNo.asp?id=62-308.100\" target=\"_blank\" rel=\"nofollow noopener\">DEP Rule 62-308.100</a>). It can't go in a swale, a ditch or a stormwater pond either. We draw your layout to that line, and you approve it before work starts."
+    },
+    {
+      "q": "My house is on a private well. Does the watering order apply?",
+      "a": "Yes. The order covers utility water, private wells and pumps, and ground or surface water alike (<a href=\"https://www.sjcfl.us/phase-iii-extreme-water-shortage-declaration-may-2026/\" target=\"_blank\" rel=\"nofollow noopener\">St. Johns County</a>). A well gives you no exemption from the one-day schedule."
+    },
+    {
+      "q": "Is there golf in South Ponte Vedra Beach?",
+      "a": "Not a course of its own. TPC Sawgrass is a short drive north, and Marsh Creek Country Club and The Palencia Club lie to the south and west across the Intracoastal. So a small green in the courtyard or on the marsh side is the only golf on the property."
+    },
+    {
+      "q": "What infill goes into turf here?",
+      "a": "Natural infill only. Florida's standard allows clean silica sand, rock or shell, and keeps rubber to the footprint of playground equipment (<a href=\"https://www.flrules.org/gateway/ruleNo.asp?id=62-308.100\" target=\"_blank\" rel=\"nofollow noopener\">DEP Rule 62-308.100</a>). Our <a href=\"/guides/florida-turf-infill-rules/\">infill guide</a> has the detail."
+    }
+  ],
   "nearby": [
     "ponte-vedra-beach-fl",
     "sawgrass-fl",

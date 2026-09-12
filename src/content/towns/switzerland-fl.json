@@ -35,6 +35,34 @@
         "Mark the live-oak canopy and obtain any required tree advice before proposing preparation beneath it. Locate the septic tank and drainfield and get appropriate guidance before excavation or compaction nearby.",
         "On a lot sloping toward the St. Johns, show runoff routes and any existing retaining or shoreline conditions. Keep unresolved drainage or structural work separate from the turf quote, and confirm county and private property requirements before finalizing the layout."
       ]
+    },
+    {
+      "icon": "home",
+      "kicker": "The rules",
+      "h2": "On many SR 13 parcels, there's no board to ask.",
+      "paras": [
+        "Switzerland is unincorporated St. Johns County, so no city code sits on top of the county's, and St. Johns County's development code says nothing about turf (<a href=\"https://www.sjcfl.us/wp-content/uploads/2024/01/article-vi.pdf\" target=\"_blank\" rel=\"nofollow noopener\">St. Johns County</a>). Many older acreage parcels along SR 13 sit outside any HOA, so there's no architectural review between you and a new lawn or green. Newer estate streets in the corridor do carry covenants, so read yours before you plan.",
+        "What the county does set is lot size. In the RS-E and Open Rural districts that cover much of the corridor, the minimum lot is an acre, with bigger minimums where a septic tank serves the house, and impervious surface is capped at 70%. On an acre, a lawn and a green sit comfortably inside that."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Wells",
+      "h2": "A well can't keep an acre green on one day a week.",
+      "paras": [
+        "Much of the corridor is on JEA's Major Grid, but plenty of the rural acreage along SR 13 runs on a private well and septic (<a href=\"https://www.jea.com/about/water_supply/water_facilities/\" target=\"_blank\" rel=\"nofollow noopener\">JEA</a>). The drought order doesn't care which. The Phase III declaration of 11 May 2026, still standing when we checked on 7 September, reaches a private well and pump exactly as it reaches the utility's water (<a href=\"https://www.sjcfl.us/phase-iii-extreme-water-shortage-declaration-may-2026/\" target=\"_blank\" rel=\"nofollow noopener\">St. Johns County</a>).",
+        "In practice that's a single watering day, Saturday or Sunday depending on your address, and no new sod or plantings for now. An acre of lawn on a private well was already a pump and power bill; on a single day a week it's a lawn you can't keep green. Turf asks nothing of the well."
+      ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "The ground",
+      "h2": "A river bluff, old roots and water from uphill.",
+      "paras": [
+        "Switzerland shares the flatwoods sand of northwest St. Johns County, sand over a slow, organic-stained hardpan, but two things set its ground apart. Parcels running down to the St. Johns have a bluff slope, brackish water at the toe and stormwater arriving from the neighbours above, so grading and edge restraint matter more here than on a flat subdivision lot.",
+        "The other is the canopy. This is old plantation country and the live oaks are the real thing, not builder plantings. Under a big oak, dense shade, a mat of surface roots and a steady fall of leaves and acorns mean St. Augustine won't hold, and parts of many wooded parcels have never been cleared, so a job here often starts with grubbing and root work rather than sod removal.",
+        "Find the septic drainfield before anything is dug; on a parcel like this it's the first thing to map. The free visit is when we walk the lot, measure around it and check the ground."
+      ]
     }
   ],
   "services": [
@@ -43,7 +71,24 @@
     "pet-turf"
   ],
   "servicesNote": "Compare a practice green, lawn or pet area as a defined part of the acreage.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Switzerland, FL?",
+      "a": "We install backyard putting greens, turf lawns and pet turf in Switzerland, FL, the SR 13 corridor on the east bank of the St. Johns River. Many older parcels here sit outside any HOA, so there's often no review board to satisfy, and a one-acre lot has room for a real practice green. Private wells are on the drought order's one-day schedule too. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Does the drought order cover my private well in Switzerland?",
+      "a": "Yes. St. Johns County's Phase III notice applies to wells and pumps, and to ground and surface water, just as it does to JEA customers (<a href=\"https://www.sjcfl.us/phase-iii-extreme-water-shortage-declaration-may-2026/\" target=\"_blank\" rel=\"nofollow noopener\">St. Johns County</a>). Your well gets one irrigation day a week like everyone else."
+    },
+    {
+      "q": "Does Florida's turf rule apply to a lot bigger than an acre?",
+      "a": "No. The state standard, and the bar on local turf bans that rests on it, applies to single-family property of one acre or less (<a href=\"https://floridadep.gov/sites/default/files/SyntheticTurfFAQ%20final.pdf\" target=\"_blank\" rel=\"nofollow noopener\">DEP</a>). On a bigger parcel the county's own code governs, and it doesn't mention turf."
+    },
+    {
+      "q": "What should I check before turf goes in on an acre lot?",
+      "a": "Three things: where the septic drainfield runs, how the lot drains toward the river, and which trees have roots in the way. The county sets larger minimum lots where a septic tank is used (<a href=\"https://www.sjcfl.us/wp-content/uploads/2024/01/article-vi.pdf\" target=\"_blank\" rel=\"nofollow noopener\">St. Johns County LDC</a>), and on a wooded parcel the job may start with clearing roots and brush. We check all of it on the free visit."
+    }
+  ],
   "nearby": [
     "fruit-cove-fl",
     "julington-creek-plantation-fl",

@@ -34,6 +34,35 @@
         "The Greater Lake Asbury District brings residential landscape and tree requirements into the local review. Work affecting a protected tree can need an approved tree-preservation plan. Confirm whether your parcel is in the district and what applies before drawing preparation into the root area.",
         "For a creek-side property, identify any flood or shoreline boundary and existing drainage route. Keep wells, septic access and any association conditions in the plan. The estimate should separate turf preparation from unresolved drainage or structural work."
       ]
+    },
+    {
+      "icon": "shield",
+      "kicker": "The overlay",
+      "h2": "The county drew a district around Lake Asbury, with tree rules to match.",
+      "paras": [
+        "Clay County's code names a Greater Lake Asbury District, Sec. 18.5-52(24), running from State Road 16 up South Fork Black Creek to Black Creek, east to Peters Creek and back to SR 16, leaving out Penney Farms. Within the district, homes come under the landscaping chapter as well (Sec. 18.5-51), and synthetic turf doesn't qualify as any of the plants that chapter requires (<a href=\"https://library.municode.com/fl/clay_county/codes/code_of_ordinances\" target=\"_blank\" rel=\"nofollow noopener\">Clay County code</a>).",
+        "Wooded acreage runs into the county's tree rule. In the district, disturbing a protected tree, whether by removing it, cutting its roots or trimming and pruning it, needs a tree preservation plan approved by the county first (Secs. 18.5-27 to 18.5-32), and pruning has to meet National Arborist Association standards and ANSI Z133.1. Any base edge dug beside a big oak falls under it, so get the plan before the digging starts.",
+        "HOAs are split here. The older acreage mostly has none, while newer subdivisions such as Asbury Plantation, Shannon Lake, Lago Del Sur, Hunter's Trace and Sheraton Lakes carry covenants, so find out whether covenants cover your lot."
+      ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "Slope and sand",
+      "h2": "Real slope above Black Creek, so the edges do the work.",
+      "paras": [
+        "Most of northeast Florida is flat. Lake Asbury isn't: above Black Creek the USDA survey maps Blanton, Penney, Ortega and Ridgewood fine sands on 5 to 8 percent slopes, the sandhill and ravine country that falls away toward the creek (<a href=\"https://sdmdataaccess.sc.egov.usda.gov/\" target=\"_blank\" rel=\"nofollow noopener\">USDA</a>). On ground like that, rain sheets downhill across a lawn instead of soaking straight in.",
+        "Near Sandridge Road the survey returns Leon fine sand, poorly drained, whose water table can rise to about 31 centimetres below the surface; Leon is the most extensive soil in Clay County, at about 43,100 acres (<a href=\"https://soilseries.sc.egov.usda.gov/OSD_Docs/L/LEON.html\" target=\"_blank\" rel=\"nofollow noopener\">USDA Leon series</a>). At the creek margin it's Rutlege-Osier complex, frequently flooded.",
+        "On a slope, then, the job is erosion control under and around the base, a base that stays stable on grade, and seams and perimeter anchored where water runs. Clay County's code flags the same failure when it requires solid sod wherever a swale or other ground is prone to erosion (Sec. 18.5-53(4)(g)). We walk the grade when we visit, free of charge, and build the base to hold it."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Wells",
+      "h2": "Big lots, one well, one watering day.",
+      "paras": [
+        "Clay County Utility Authority reaches parts of Lake Asbury, but much of the acreage runs on private wells. Order 2026-017 covers those too: when we looked on 7 September 2026, the Phase III order held every source, well and pump included, to watering once a week (<a href=\"https://clayutility.org/phase-iii-water-shortage-restrictions-now-in-effect/\" target=\"_blank\" rel=\"nofollow noopener\">Clay County Utility Authority</a>).",
+        "An acre of St. Augustine can't be kept green on that. CCUA offers no rebate for switching, though it does promote reclaimed water and Florida-Friendly planting (<a href=\"https://clayutility.org/community/conservation-programs/\" target=\"_blank\" rel=\"nofollow noopener\">CCUA</a>). Turf simply takes that ground off the well."
+      ]
     }
   ],
   "services": [
@@ -42,7 +71,24 @@
     "pet-turf"
   ],
   "servicesNote": "Compare a practice green, lawn or pet area with the slope, trees and existing systems on your land.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Asbury Lake / Lake Asbury, FL?",
+      "a": "We install putting greens and full-yard turf, plus pet turf, in Lake Asbury, FL, also mapped as Asbury Lake. Two things set the job here: slopes of 5 to 8 percent above Black Creek, where erosion and edge anchoring matter, and the county's Greater Lake Asbury District, where cutting into a protected tree's roots needs a tree preservation plan the county has approved. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Is my property in the Greater Lake Asbury District?",
+      "a": "If it sits between SR 16 to the south and Black Creek to the north, with South Fork Black Creek on the west and Peters Creek on the east, and outside Penney Farms, very likely; Sec. 18.5-52(24) sets the exact line (<a href=\"https://library.municode.com/fl/clay_county/codes/code_of_ordinances\" target=\"_blank\" rel=\"nofollow noopener\">Clay County code</a>). Inside the district, homes as well as businesses fall under Clay County's tree preservation and landscaping sections."
+    },
+    {
+      "q": "Is it Asbury Lake or Lake Asbury?",
+      "a": "Both. The Census calls the community Asbury Lake, while the schools, the road signs and the county code say Lake Asbury, as in Lake Asbury Elementary, Lake Asbury Junior High, and the county's Greater Lake Asbury District (<a href=\"https://en.wikipedia.org/wiki/Asbury_Lake,_Florida\" target=\"_blank\" rel=\"nofollow noopener\">Asbury Lake, Florida</a>)."
+    },
+    {
+      "q": "Does the watering order cover my well?",
+      "a": "Yes. The order reaches water from every source, a private well or pump as much as a CCUA tap, and it was still standing on 7 September 2026 (<a href=\"https://clayutility.org/phase-iii-water-shortage-restrictions-now-in-effect/\" target=\"_blank\" rel=\"nofollow noopener\">Clay County Utility Authority</a>). On a big lot, that one day means a long day of pumping."
+    }
+  ],
   "nearby": [
     "doctors-inlet-fl",
     "middleburg-fl",

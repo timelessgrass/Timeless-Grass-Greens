@@ -35,6 +35,36 @@
         "In communities such as RiverTown, Aberdeen, Durbin Crossing and Shearwater, private-lot and amenity projects can have different governing bodies. Confirm who controls the exact space and can authorize the work before requesting a shared-area scope.",
         "For a district dog park or other activity area, describe traffic, maintenance, equipment and access during the work. Do not apply a single-family turf standard to a commercial or common-area project without checking the requirements for that use."
       ]
+    },
+    {
+      "icon": "shield",
+      "kicker": "The local rules",
+      "h2": "The county won't stop you. The pond sets the limits.",
+      "paras": [
+        "St. Johns is unincorporated, so county rules apply, and the county's Land Development Code never mentions artificial turf (<a href=\"https://www.sjcfl.us/wp-content/uploads/2024/01/entire-ldc-march-4-2025.pdf\" target=\"_blank\" rel=\"nofollow noopener\">St. Johns County LDC</a>). Since 19 May 2026 it couldn't ban compliant turf on a single-family lot of an acre or less anyway (<a href=\"https://www.flsenate.gov/Laws/Statutes/2025/0125.572\" target=\"_blank\" rel=\"nofollow noopener\">Fla. Stat. 125.572</a>). What the state's standard asks for is permeable turf, with every edge and seam anchored against wind and flooding.",
+        "Water is the line that moves layouts here. The same standard keeps turf out of swales, ditches and stormwater ponds, and back from the edge of any lake, pond or creek (<a href=\"https://flrules.org/gateway/RuleNo.asp?ID=62-308.100\" target=\"_blank\" rel=\"nofollow noopener\">DEP Rule 62-308.100</a>). In RiverTown, Aberdeen and Shearwater a great many back fences face water, so the custom layout you approve before work starts is where that line gets drawn.",
+        "Your HOA is a separate matter, because the state rule binds the county, not associations. An association can't restrict turf nobody can see from the street, a neighbouring lot, a common area or a community golf course (<a href=\"https://www.flsenate.gov/Laws/Statutes/2025/720.3045\" target=\"_blank\" rel=\"nofollow noopener\">Fla. Stat. 720.3045</a>), so a yard open to a lake path or a Cimarrone fairway may fall outside that protection. Our <a href=\"/guides/florida-friendly-landscaping-and-hoas/\">guide to turf and Florida HOAs</a> covers the rest."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Water",
+      "h2": "One watering day a week, and new sod on hold.",
+      "paras": [
+        "The county and the St. Johns River Water Management District declared a Phase III extreme water shortage on 11 May 2026, and it was still in force on 7 September. It allows one watering day a week, reaches private wells and pumps as well as utility water, and restricts new sod and new plantings (<a href=\"https://www.sjcfl.us/phase-iii-extreme-water-shortage-declaration-may-2026/\" target=\"_blank\" rel=\"nofollow noopener\">St. Johns County</a>).",
+        "That lands hardest on a young lot whose builder sod never rooted into the fill. Turf takes no watering day at all, so it looks the same whichever phase the district is in.",
+        "Water service is split between St. Johns County Utility, JEA and the City of St. Augustine, with no published map, so confirm yours by address (<a href=\"https://www.sjcfl.us/who-is-your-service-provider/\" target=\"_blank\" rel=\"nofollow noopener\">St. Johns County</a>). The county utility says reclaimed water sits outside the one-day schedule (<a href=\"https://www.sjcfl.us/protect-our-water/\" target=\"_blank\" rel=\"nofollow noopener\">St. Johns County</a>); if your community irrigates with it, ask how its own schedule runs."
+      ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "The ground",
+      "h2": "Built on fill, and graded to send rain to the pond.",
+      "paras": [
+        "Most of St. Johns was built on graded flatwoods and old pine plantation, with the wetlands kept as the view: Aberdeen alone keeps more than 500 acres of wetland and more than 65 acres of lakes. On a lot from the last twenty years, expect thin builder topsoil over compacted fill, and a low back corner that holds water after a summer storm, because the whole grade is engineered to move rain toward the retention pond.",
+        "Below the fill is the region's sand over a slower layer. USDA soil data puts 78.5% of mapped St. Johns County acres in the poorly or very poorly drained classes, and on 75.7% of mapped acres the water table comes within six inches of the surface at some point in a normal year (<a href=\"https://sdmdataaccess.nrcs.usda.gov/\" target=\"_blank\" rel=\"nofollow noopener\">USDA</a>).",
+        "So the free visit starts at that low corner. We check the ground, then build the base for what we find, so rain moves through the turf and on toward the pond the way the grade intends. Trees on these lots are still young and most yards sit in full sun, so put play areas where the afternoon shade will fall; our <a href=\"/blog/how-hot-does-artificial-turf-get/\">guide to how hot turf gets</a> has the numbers."
+      ]
     }
   ],
   "services": [
@@ -43,7 +73,28 @@
     "commercial-turf"
   ],
   "servicesNote": "Compare a home lawn or pet area, or discuss commercial turf for a separately defined shared space.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in St. Johns, FL?",
+      "a": "We install artificial turf, pet turf and commercial turf in St. Johns, FL, the ZIP 32259 community along CR-210 and Race Track Road. Two things shape the job here. Many master-planned lots back onto a pond or lake, and Florida's turf rule keeps turf 10 feet from its high-water line. And since 11 May 2026, lawns have been limited to one watering day a week. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "How close to a pond can artificial turf go in St. Johns?",
+      "a": "No closer than 10 feet, measured from the ordinary or mean high-water line of the pond, lake or creek (<a href=\"https://flrules.org/gateway/RuleNo.asp?ID=62-308.100\" target=\"_blank\" rel=\"nofollow noopener\">DEP Rule 62-308.100</a>). Turf can't go in a pond's littoral zone at all. On a lot backing onto a lake or preserve, that line sets the back edge of the new lawn."
+    },
+    {
+      "q": "Which day can I water a lawn in St. Johns?",
+      "a": "Under the Phase III order, one day a week, and never between 8 a.m. and 6 p.m. (<a href=\"https://www.sjcfl.us/phase-iii-extreme-water-shortage-declaration-may-2026/\" target=\"_blank\" rel=\"nofollow noopener\">St. Johns County</a>). When it lifts, the district's normal daylight-saving schedule has odd-numbered addresses watering Wednesday and Saturday and even-numbered addresses Thursday and Sunday, with one day a week in winter (<a href=\"https://www.sjrwmd.com/wateringrestrictions/\" target=\"_blank\" rel=\"nofollow noopener\">St. Johns River Water Management District</a>)."
+    },
+    {
+      "q": "Can I keep my sprinklers under the new turf?",
+      "a": "No. Florida's turf standard doesn't allow in-ground irrigation of turf areas (<a href=\"https://flrules.org/gateway/RuleNo.asp?ID=62-308.100\" target=\"_blank\" rel=\"nofollow noopener\">DEP Rule 62-308.100</a>). Beds and trees outside the turf can keep their zones, on the county's watering day."
+    },
+    {
+      "q": "Is St. Johns the same as St. Johns County?",
+      "a": "No. St. Johns is the community name on ZIP 32259 addresses, mostly the newer half along CR-210, Race Track Road and St. Johns Parkway. St. Johns County is the county around it, and the St. Johns River runs along the community's western edge. The older half of the ZIP, around Julington Creek Plantation, usually goes by Fruit Cove."
+    }
+  ],
   "nearby": [
     "julington-creek-plantation-fl",
     "fruit-cove-fl",

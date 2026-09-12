@@ -9,7 +9,9 @@ updated: '2026-09-11'
 answer:
   question: What are the signs of a bad artificial turf install?
   answer: Open seams, lifting edges, new ripples, persistent puddles and repeated infill loss are reasons to ask for an inspection. Document when each problem appeared and compare the work with the agreed scope and product instructions. A symptom alone does not tell you whether the cause is installation, wear, damage or a care issue.
-faq: []
+faq:
+  - q: Does a problem mean the whole lawn needs replacing?
+    a: That decision needs an assessment of the affected area and the layers beneath it. Ask for a written explanation of the proposed repair, why it is appropriate and what existing materials would be retained. If replacement is recommended, ask why a smaller repair would not address the problem.
 sources:
   - label: '21 NCAC 28B .0503(b), North Carolina Landscape Contractors'' Licensing Board rules: the written artificial turf install standard'
     url: http://reports.oah.state.nc.us/ncac/title%2021%20-%20occupational%20licensing%20boards%20and%20commissions/chapter%2028%20-%20landscape%20contractors/chapter%2028%20rules.pdf
@@ -43,7 +45,7 @@ If an edge or seam has become a trip hazard, keep people away from that spot unt
 
 Show where water collects and where it travels. Note when the rain stopped and when you took each photo. Include nearby downspouts, drains and hard surfaces so the installer can see the setting.
 
-A turf product’s drainage rating does not establish how quickly the ground beneath it absorbs water. A product sheet alone cannot diagnose a puddle. Ask for an assessment of the installed layers and the intended route for water before agreeing to replace the surface.
+[New Jersey DEP’s science review](https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf) explains that a turf product’s drainage rating does not establish how quickly the ground beneath it absorbs water. A product sheet alone cannot diagnose a puddle. Ask for an assessment of the installed layers and the intended route for water before agreeing to replace the surface.
 
 If infill keeps washing onto the patio, document where it leaves the turf and after which conditions. Persistent pet odor is also worth raising, with a note of pet use and the cleaning products and routine you have tried. Those observations help narrow the discussion; they do not establish the cause on their own. Our [pet turf cleaning guide](/blog/how-to-clean-pet-turf/) covers routine care.
 
@@ -51,7 +53,7 @@ If infill keeps washing onto the patio, document where it leaves the turf and af
 
 Gather the estimate, product name, installation details, care instructions and warranty. Ask the installer to explain how the observed issue relates to those documents and whether an inspection needs access beneath the turf.
 
-For North Carolina work, the landscape contractor rules address ground preparation, drainage, perimeter attachment, blade direction, sand and the manufacturer’s specifications. The [installer licensing guide](/guides/turf-installer-licensing-by-state/) explains the state context. Use the standards and product requirements applicable to your project when discussing the work.
+[North Carolina’s landscape contractor rules](http://reports.oah.state.nc.us/ncac/title%2021%20-%20occupational%20licensing%20boards%20and%20commissions/chapter%2028%20-%20landscape%20contractors/chapter%2028%20rules.pdf) provide one concrete reference for work in that state: they address preparation and drainage of the sub-grade, perimeter attachment, consistent blade direction, sand and manufacturer specifications. The [installer licensing guide](/guides/turf-installer-licensing-by-state/) explains the state context. Use the standards and product requirements applicable to your project when discussing the work.
 
 Ask for the proposed remedy in writing. It should identify the affected area, what would be repaired or removed, which layers would remain and what follow-up is included. A recommendation for complete replacement should explain why the existing installation cannot reasonably be repaired.
 

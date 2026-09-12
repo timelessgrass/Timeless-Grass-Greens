@@ -35,6 +35,35 @@
         "Mark the pond boundary, swales, drains and any maintenance access on the property plan. The existing stormwater system and required shoreline separation need to remain part of the layout, even if the fence extends farther.",
         "Fleming Island Plantation, Eagle Harbor and Pace Island have different governing bodies and requirements. Obtain the current instructions for your property, including any architectural review and CDD conditions. Bring those responses to the estimate rather than relying on another community’s approval."
       ]
+    },
+    {
+      "icon": "home",
+      "kicker": "Your board comes first",
+      "h2": "On Fleming Island, the architectural board sees the plan before anyone digs.",
+      "paras": [
+        "Fleming Island Plantation is a deed-restricted community development district, run under recorded covenants and its BAR Guidelines, Revision N (<a href=\"https://fipcdd.com/\" target=\"_blank\" rel=\"nofollow noopener\">Fleming Island Plantation CDD</a>). Any exterior change needs an application to the Plantation's architectural board, the BAR, before work starts, and changes made without one draw fines (<a href=\"https://www.flemingislandplantationowners.com/\" target=\"_blank\" rel=\"nofollow noopener\">Fleming Island Plantation community site</a>).",
+        "Eagle Harbor sits under The Crossings at Fleming Island CDD, set up in 1989, with its own HOA on top (<a href=\"https://thecrossingsatflemingislandcdd.com/\" target=\"_blank\" rel=\"nofollow noopener\">The Crossings at Fleming Island CDD</a>). Pace Island, gated on Doctors Lake, has an association of its own.",
+        "Whichever one you're in, the custom layout you approve before work starts is the drawing to send with your application. It shows where the turf goes, what stays planted, and how the yard still drains to its pond."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Ponds and shoreline",
+      "h2": "Every lot drains to a pond, and the state rule keeps turf out of it.",
+      "paras": [
+        "Fleming Island is a peninsula with water on every side: the St. Johns River to the east, Doctors Lake to the north, Black Creek to the south and Swimming Pen Creek to the west (<a href=\"https://en.wikipedia.org/wiki/Fleming_Island,_Florida\" target=\"_blank\" rel=\"nofollow noopener\">Wikipedia</a>). Homes sit on engineered pads above wet natural ground, the water table is close, and each neighborhood drains to a CDD retention pond.",
+        "That makes Florida's turf standard for single-family lots more than paperwork here. Turf stays out of swales, ditches, stormwater ponds and a pond's littoral zone, and it can't alter the permitted stormwater system or send more runoff toward the neighbors (<a href=\"https://www.flrules.org/gateway/readFile.asp?sid=0&amp;tid=30839130&amp;type=1&amp;file=62-308.100.doc\" target=\"_blank\" rel=\"nofollow noopener\">DEP Rule 62-308.100</a>).",
+        "The same rule takes in-ground irrigation out from under the turf, with heads removed and pipe capped, and limits infill to clean silica sand, rock, shell or other natural material, with rubber only under playground equipment. Our <a href=\"/guides/florida-turf-infill-rules/\">infill guide</a> has the detail."
+      ]
+    },
+    {
+      "icon": "clock",
+      "kicker": "Watering days",
+      "h2": "Reclaimed water, and a one-day order on top of it.",
+      "paras": [
+        "Clay County Utility Authority supplies reclaimed water for irrigation across much of Fleming Island, after a free cross-connection inspection (<a href=\"https://clayutility.org/residents-business/irrigation-information/\" target=\"_blank\" rel=\"nofollow noopener\">Clay County Utility Authority</a>). With the district's Phase III order running since 11 May 2026, CCUA holds lawns to a single weekly watering, odd-numbered and unnumbered houses on Saturday and even numbers on Sunday, outside the daytime hours of 8 a.m.–6 p.m. If your irrigation runs on reclaimed water, ask CCUA which days apply to you.",
+        "Outside a shortage, odd addresses water on Wednesday and Saturday and even ones on Thursday and Sunday while daylight saving time lasts, dropping to a single day in winter. A turf lawn skips all of it, and so does the zone that used to water it."
+      ]
     }
   ],
   "services": [
@@ -43,7 +72,28 @@
     "pet-turf"
   ],
   "servicesNote": "Compare a lawn, green or pet area within the usable part of your community property.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Fleming Island, FL?",
+      "a": "We install artificial turf, backyard putting greens and pet turf on Fleming Island, FL. Most homes here sit in a CDD or HOA, and in Fleming Island Plantation any exterior change needs an application to the architectural board before work starts. Yards that back onto a pond or Doctors Lake also fall under the state turf rule's setbacks. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Does Florida's new turf law override my HOA or CDD?",
+      "a": "No. Since 19 May 2026 Clay County has lost the power to ban compliant turf at single-family homes on an acre or less, but DEP says its rule doesn't address HOA requirements or deed restrictions (<a href=\"https://floridadep.gov/sites/default/files/SyntheticTurfFAQ%20final.pdf\" target=\"_blank\" rel=\"nofollow noopener\">DEP</a>). From 1 July 2026, a CDD enforcing deed restrictions sits outside the state's protection too (<a href=\"https://www.flsenate.gov/Session/Bill/2026/1180/Analyses/2026s01180.fp.PDF\" target=\"_blank\" rel=\"nofollow noopener\">SB 1180 analysis</a>). Our guide sets out <a href=\"/guides/florida-friendly-landscaping-and-hoas/\">what an HOA or CDD can stop</a>."
+    },
+    {
+      "q": "How close to Doctors Lake or a retention pond can turf go?",
+      "a": "Florida's standard sets a 10-foot setback from any natural or man-made waterbody, measured from the ordinary or mean high-water line, unless a seawall or bulkhead is in between (<a href=\"https://www.flrules.org/gateway/readFile.asp?sid=0&amp;tid=30839130&amp;type=1&amp;file=62-308.100.doc\" target=\"_blank\" rel=\"nofollow noopener\">DEP Rule 62-308.100</a>). That takes in Doctors Lake, Black Creek, Swimming Pen Creek and every retention lake."
+    },
+    {
+      "q": "My back yard faces a fairway. Can the HOA still weigh in?",
+      "a": "Usually, yes. Florida shields turf from HOA limits only when it's out of sight of the street, the neighbors, common areas and the community's golf course (<a href=\"https://www.flsenate.gov/Laws/Statutes/2024/720.3045\" target=\"_blank\" rel=\"nofollow noopener\">section 720.3045</a>). A yard in full view of the course falls outside that, so the board's approval comes first."
+    },
+    {
+      "q": "Does CCUA offer a rebate for artificial turf?",
+      "a": "No. CCUA's credits cover new sod, leaks and pool fills, and the New Sod Credit bills 30 days at Tier 2 rates, with a Water Conservation Assessment (<a href=\"https://clayutility.org/residents-business/irrigation-information/\" target=\"_blank\" rel=\"nofollow noopener\">Clay County Utility Authority</a>). Artificial turf isn't on the list."
+    }
+  ],
   "nearby": [
     "hibernia-fl",
     "doctors-inlet-fl",

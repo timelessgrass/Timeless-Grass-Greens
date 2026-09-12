@@ -35,6 +35,35 @@
         "Use the applicable Highlands Ranch community guidelines for your property and proposed change. Include turf boundaries, edges and the landscape that will remain when asking what needs to be submitted. Keep any required response separate from the installation estimate.",
         "If you are comparing water costs, use your provider’s current information and your own bills. Confirm incentive eligibility directly; a lawn-replacement program does not necessarily fund synthetic turf."
       ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Your watering days",
+      "h2": "Odd addresses water Wednesday and Saturday. Even, Thursday and Sunday.",
+      "paras": [
+        "Highlands Ranch Water, run by Centennial Water and Sanitation District, is in Stage 1 drought as of 3 September 2026, aiming to cut use by 15 to 20% (<a href=\"https://www.highlandsranchwater.org/drought-resource-center\" target=\"_blank\" rel=\"nofollow noopener\">Highlands Ranch Water</a>). Homes get two watering days, picked by house number: odd on Wednesday and Saturday, even on Thursday and Sunday, apartments on Monday and Friday and businesses on Tuesday and Sunday, with no watering from 10 a.m. to 6 p.m. Hand-watering and drip are allowed any time.",
+        "Fines climb with each violation after a warning: $50, $100, $250, then $500 by the fifth. Water above your account's budget costs more as well; at 101 to 120% of budget, the residential rate goes from $7.66 to $9.58.",
+        "Turf takes that ground out of the schedule, the budget and the fine ladder all at once."
+      ]
+    },
+    {
+      "icon": "home",
+      "kicker": "HRCA and rebates",
+      "h2": "Every home answers to HRCA, and the rebate says no to turf.",
+      "paras": [
+        "Every Highlands Ranch home sits under the Highlands Ranch Community Association's covenants, which cover things like fencing; the separate Metro District runs parks, open space and storm drains (<a href=\"https://en.wikipedia.org/wiki/Highlands_Ranch,_Colorado\" target=\"_blank\" rel=\"nofollow noopener\">Wikipedia</a>). Before you plan, get HRCA's current architectural guidelines on artificial turf and submit your layout the way it asks.",
+        "On a detached lot, the association can shape backyard turf but can't forbid it (<a href=\"https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SB23-178</a>), though the front yard remains its call.",
+        "Rebates won't help with the turf itself: Centennial Water's turf replacement program says plainly that artificial turf replacements are no longer eligible (<a href=\"https://www.centennialwater.org/turf-replacement-program\" target=\"_blank\" rel=\"nofollow noopener\">Centennial Water</a>)."
+      ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "Douglas County clay",
+      "h2": "Rolling ground on Douglas County's swelling clay.",
+      "paras": [
+        "The Colorado Geological Survey flags Douglas County as especially vulnerable to expansive soils, with designated Dipping Bedrock Overlay Districts. Those clays can swell by a fifth when wet and exert as much as 30,000 psf, cracking foundations, driveways and sidewalks, and about one in ten homes built on them suffers significant damage over its lifetime (<a href=\"https://coloradogeologicalsurvey.org/water/expansive-soil/\" target=\"_blank\" rel=\"nofollow noopener\">Colorado Geological Survey</a>).",
+        "Highlands Ranch sits at 5,817 feet on rolling ground, with real grade changes between neighborhoods. If you have a soils report from your purchase, have it handy at the free visit; the base depth, the compaction and the drainage we plan all follow the ground it describes."
+      ]
     }
   ],
   "services": [
@@ -43,7 +72,24 @@
     "putting-greens"
   ],
   "servicesNote": "Compare a lawn, dedicated dog area or green around the way you use your yard.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Highlands Ranch, CO?",
+      "a": "We install artificial turf, pet turf and backyard putting greens in Highlands Ranch, CO. As of 3 September 2026, Highlands Ranch Water is in Stage 1: odd addresses water Wednesday and Saturday, even addresses Thursday and Sunday, never from 10 a.m. to 6 p.m., with fines up to $500. Centennial Water no longer rebates artificial turf. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "When does Centennial Water's rebate reopen, and what does it pay for?",
+      "a": "It reopens on 1 March 2027 and pays $2.50 a square foot for ColoradoScape and $1.50 for low-water turf grasses such as Dog Tuff and Tahoma 31 (<a href=\"https://www.centennialwater.org/turf-replacement-program\" target=\"_blank\" rel=\"nofollow noopener\">Centennial Water</a>). Resource Central's lawn program, which Highlands Ranch Water partners with, needs half the new area in waterwise plants and has closed for 2026 (<a href=\"https://resourcecentral.org/lawn/\" target=\"_blank\" rel=\"nofollow noopener\">Resource Central</a>)."
+    },
+    {
+      "q": "Can HOAs and schools in Highlands Ranch put in artificial turf?",
+      "a": "Under Stage 1, HOAs, government and schools are asked to cut water use by 15 to 20% (<a href=\"https://www.highlandsranchwater.org/drought-resource-center\" target=\"_blank\" rel=\"nofollow noopener\">Highlands Ranch Water</a>). State law now keeps new non-functional turf out of HOA common areas such as entry monuments and medians, but ball fields are left out (<a href=\"https://leg.colorado.gov/bills/sb24-005\" target=\"_blank\" rel=\"nofollow noopener\">SB24-005</a>)."
+    },
+    {
+      "q": "Which Highlands Ranch yards suit a putting green?",
+      "a": "The sunnier south-end yards from the 2000s have the room and the light for one. Under north-end trees, a green fits where the canopy leaves an opening, and either way it sits on the same clay-ready base as the lawn."
+    }
+  ],
   "nearby": [
     "lone-tree-co",
     "centennial-co",

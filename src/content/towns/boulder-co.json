@@ -35,6 +35,35 @@
         "Boulder’s published standards prohibit artificial turf in new development unless it is functional turf. Where the residential standards apply to a lot with three units or fewer, turf is limited to the smaller of 25% of the lot or 1,000 square feet. That makes the intended use and combined lawn-and-green footprint early decisions.",
         "Ask the City whether your renovation or extension triggers those standards, and how it classifies the proposed use. Bring its response and any association conditions to the estimate. For a sports or equipment area, include the activity, layout and required product documentation in the scope."
       ]
+    },
+    {
+      "icon": "shield",
+      "kicker": "Boulder's turf rule",
+      "h2": "Since 7 March 2026, new development in Boulder gets functional turf only.",
+      "paras": [
+        "Boulder's water-wise landscape standards took effect on 7 March 2026, and they say it plainly: \"Artificial turf is prohibited in all new development, unless it is functional artificial turf\" (<a href=\"https://bouldercolorado.gov/landscape-manual\" target=\"_blank\" rel=\"nofollow noopener\">City of Boulder</a>). Knowing where that line falls is what lets a Boulder project go ahead.",
+        "On a home lot of three units or fewer, turf of either kind is capped at 25% of the lot or 1,000 square feet, whichever is less. Non-functional turf is out entirely on residential lots with more than three units, on commercial, industrial, public and institutional property, in the public right-of-way and in new HOA common areas.",
+        "Turf laid before 7 March 2026 is exempt unless changes to it bring it under the rules. If you already have turf and want to extend or rework it, that's the question to settle with the city first."
+      ]
+    },
+    {
+      "icon": "flag",
+      "kicker": "Flatirons Golf Course",
+      "h2": "The city counts a golf course's playing area as functional turf.",
+      "paras": [
+        "Flatirons Golf Course, the city's own at 57th and Arapahoe, was built in 1938 with WPA support to a Willie Tucker design, and it hosts more than 50,000 rounds a year (<a href=\"https://bouldercolorado.gov/flatirons-golf-course/golf-course\" target=\"_blank\" rel=\"nofollow noopener\">City of Boulder</a>). It's a Certified Audubon Cooperative Sanctuary, too, and Boulder Country Club sits out in Gunbarrel.",
+        "At home, where the standards apply, a putting green counts toward the same cap as a lawn on a lot of three units or fewer. So the green and the lawn get planned together, inside the 25% or 1,000 square feet."
+      ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "Terraces and cobble",
+      "h2": "Clay over cobble on the south Boulder mesas.",
+      "paras": [
+        "Around Table Mesa and Martin Acres, the USDA maps Valmont, Nunn, Kutch and Hargreave soils. Valmont is the telling one: swelling clay over a bed of cobble and gravel, left by old terraces shed off the Flatirons, with terrace escarpments of 12 to 60% where the mesas drop away (<a href=\"https://sdmdataaccess.nrcs.usda.gov/\" target=\"_blank\" rel=\"nofollow noopener\">USDA Soil Data Access</a>).",
+        "In practice, digs often hit cobble near the surface and need handwork, terrace edges give real grade breaks, and water can perch where the clay meets the gravel. The base is planned around that drainage, and the free visit is where we find out which of those your lot has.",
+        "Much of Boulder's housing dates from the 1960s to the 80s: ranches, tri-levels and split-levels in Martin Acres, Table Mesa, Frasier Meadows and Gunbarrel on flat to gently sloping lots. The Victorians and bungalows of Mapleton Hill, Whittier and Newlands sit on small lots under big trees."
+      ]
     }
   ],
   "services": [
@@ -43,7 +72,24 @@
     "putting-greens"
   ],
   "servicesNote": "Discuss the intended lawn, green or sports use first, with the allowable layout confirmed for your project.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Boulder, CO?",
+      "a": "We install artificial turf, putting greens and sports field turf in Boulder, CO. Since 7 March 2026, Boulder allows only functional artificial turf in new development, such as sports fields, playgrounds and the playing area of a golf course, and caps turf on home lots of three units or fewer at 25% of the lot or 1,000 square feet, whichever is less. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Can I replace my back lawn with artificial turf in Boulder?",
+      "a": "It depends on whether your project triggers the city's standards. They apply when a project needs a landscape or irrigation plan under the city code, such as a building permit for new development or redevelopment (<a href=\"https://bouldercolorado.gov/landscape-manual\" target=\"_blank\" rel=\"nofollow noopener\">City of Boulder</a>). Ask the city whether yours does, and if so, plan within the cap of 25% of the lot or 1,000 square feet."
+    },
+    {
+      "q": "How hot does artificial turf get in a Boulder summer?",
+      "a": "In full sun it runs hotter than grass, the way a patio does. Shade is the biggest fix, so give play areas and dog runs a spot the house or trees shade after lunch; our <a href=\"/blog/how-hot-does-artificial-turf-get/\">turf heat article</a> has the numbers."
+    },
+    {
+      "q": "Can Boulder schools, parks or businesses use artificial turf?",
+      "a": "On functional ground, yes: the city's definition covers turf regularly used for recreation or civic life, including playgrounds, sports fields, picnic grounds, amphitheaters, parts of parks and the playing area of a golf course (<a href=\"https://bouldercolorado.gov/landscape-manual\" target=\"_blank\" rel=\"nofollow noopener\">City of Boulder</a>). State law, for its part, exempts turf on fields of play (<a href=\"https://leg.colorado.gov/bills/sb24-005\" target=\"_blank\" rel=\"nofollow noopener\">SB24-005</a>)."
+    }
+  ],
   "nearby": [
     "gunbarrel-co",
     "louisville-co",

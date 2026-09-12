@@ -35,6 +35,36 @@
         "Julington Creek Plantation has both a property association and a community development district. Confirm who controls the exact work area, especially beside common ground, sidewalks or drainage features. Obtain the current submission instructions for your lot rather than assuming a general CDD page grants permission.",
         "Show the turf boundary, surrounding planting and any grading or irrigation changes. Bring confirmed conditions to the estimate so removal, preparation and finishing can be priced against the actual layout."
       ]
+    },
+    {
+      "icon": "home",
+      "kicker": "Your POA and CDD",
+      "h2": "Two boards run the community. The POA reviews your lot.",
+      "paras": [
+        "Julington Creek Plantation has both a community development district and a property association, the POA, and each has its own job. The CDD, a special district with five elected supervisors, owns the amenities and the landscaping between Race Track Road and the sidewalks (<a href=\"https://www.jcpcdd.org/182/District-Overview\" target=\"_blank\" rel=\"nofollow noopener\">JCP CDD</a>). The POA looks after interior common ground and enforces the covenants, so plan on an architectural submittal for turf on your lot.",
+        "Some older neighbourhoods inside Julington Creek voted to opt out of the district, so check which side of that line your street is on. The custom layout you sign off on before any work begins is the drawing to send with your application.",
+        "State law does less here than people assume. The Florida-Friendly Landscaping statute never names synthetic turf (<a href=\"https://www.flsenate.gov/Laws/Statutes/2025/0373.185\" target=\"_blank\" rel=\"nofollow noopener\">Fla. Stat. 373.185</a>), so it won't override the covenants, and the law that does name turf protects only what can't be seen from outside the lot. Our <a href=\"/guides/florida-friendly-landscaping-and-hoas/\">guide to HOAs and Florida-Friendly law</a> sets out both."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Water",
+      "h2": "Resodding is prohibited right now.",
+      "paras": [
+        "St. Johns County's notice of the Phase III order, issued 11 May 2026 and still in effect on 7 September 2026, prohibits new sod installation and new plantings, along with aesthetic water uses and pressure washing (<a href=\"https://www.sjcfl.us/phase-iii-extreme-water-shortage-declaration-may-2026/\" target=\"_blank\" rel=\"nofollow noopener\">St. Johns County</a>). By the county's account, it's the most severe drought level in Florida since the U.S. Drought Monitor began in 2000.",
+        "Irrigation is down to a single day: Saturday for odd-numbered or unnumbered addresses, Sunday for even, Tuesday for non-residential property, with none from 8 a.m. to 6 p.m. and no more than an hour per zone. A lawn already fighting shade and roots can't recover on that.",
+        "JEA supplies this corner of the county from its Major Grid (<a href=\"https://www.jea.com/about/water_supply/water_facilities/\" target=\"_blank\" rel=\"nofollow noopener\">JEA</a>). Reclaimed water is outside the one-day rule, but the county's reclaimed service covers just Twin Creeks and SilverLeaf, and Julington Creek Plantation isn't among them (<a href=\"https://www.sjcfl.us/reclaimed-water/\" target=\"_blank\" rel=\"nofollow noopener\">St. Johns County</a>). Turf needs no water from any of them."
+      ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "Sand and shade",
+      "h2": "Myakka sand below, thirty years of canopy above.",
+      "paras": [
+        "The ground here is flatwoods sand, mostly Myakka fine sand, Florida's state soil: gray sand to about 26 inches, then an organic-stained hardpan that can run to roughly 60 inches. Water moves quickly through the top and only moderately through that layer, and the water table can sit within 10 inches of the surface for one to five months of the year.",
+        "In the wet season, then, water under a lawn goes sideways rather than down. With more than 100 lakes and 1,200 acres of preserve inside the community, plenty of back yards sit low beside standing water. Base depth and a drainage plane that falls the right way count for more here than anything else under the turf, and we set both after checking your ground on the free visit.",
+        "Overhead, the slash pines and live oaks planted at build-out have grown big enough to shade a north-facing back yard completely. That's why the St. Augustine in so many of these yards is on its third or fourth generation, thin and root-bound, and why a lawn that needs no sun is the one that lasts."
+      ]
     }
   ],
   "services": [
@@ -43,7 +73,28 @@
     "pet-turf"
   ],
   "servicesNote": "Compare a lawn, pet area or practice green around the trees and property requirements already in place.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Julington Creek Plantation, FL?",
+      "a": "We install artificial lawns and practice greens, plus pet turf, in Julington Creek Plantation, FL. Here the POA reviews changes on each lot, so the plan goes to its architectural review first. And under the Phase III drought order in force since 11 May 2026, St. Johns County prohibits installing new sod, while lawns may be watered on only one day in seven. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Does the POA have to approve artificial turf in Julington Creek Plantation?",
+      "a": "Plan on it. The POA enforces the covenants, so turf on your lot goes through its architectural review first (<a href=\"https://www.jcpcdd.org/m/faq?cat=15\" target=\"_blank\" rel=\"nofollow noopener\">JCP CDD</a>). Florida law limits what an association can do about turf that's out of sight from outside the lot (<a href=\"https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&amp;Search_String=&amp;URL=0700-0799/0720/Sections/0720.3045.html\" target=\"_blank\" rel=\"nofollow noopener\">Fla. Stat. 720.3045</a>), but a front yard or a lot facing the golf course is in view."
+    },
+    {
+      "q": "Can I just lay new sod instead?",
+      "a": "Not while the Phase III order stands: St. Johns County lists new sod installation among the prohibited uses (<a href=\"https://www.sjcfl.us/phase-iii-extreme-water-shortage-declaration-may-2026/\" target=\"_blank\" rel=\"nofollow noopener\">St. Johns County</a>). Even after it lifts, sod in a shaded yard here competes with the trees for light and water. Turf doesn't."
+    },
+    {
+      "q": "Does turf count against the impervious surface limit?",
+      "a": "The county caps impervious surface at 70% of the lot in its residential districts (<a href=\"https://www.sjcfl.us/wp-content/uploads/2024/01/article-vi.pdf\" target=\"_blank\" rel=\"nofollow noopener\">St. Johns County</a>), and its definition lists buildings, concrete, pools, wet retention or detention areas, pavement and compacted parking or roadway materials, not lawns. Julington Creek Plantation's own standards come first, and our <a href=\"/guides/is-artificial-turf-impervious/\">impervious-surface guide</a> covers the rest."
+    },
+    {
+      "q": "Is there a golf course in Julington Creek Plantation?",
+      "a": "Yes: the 18-hole, par-72 Julington Creek Golf Club, remodelled in 2022, sits inside the community, with Cimarrone Golf Club next door off CR 210 (<a href=\"https://www.pga.com/play/fl/st-johns/julington-creek-golf-club/1100611\" target=\"_blank\" rel=\"nofollow noopener\">PGA of America</a>). A <a href=\"/services/putting-greens/\">backyard putting green</a> keeps your stroke sharp between rounds."
+    }
+  ],
   "nearby": [
     "fruit-cove-fl",
     "st-johns-fl",

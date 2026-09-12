@@ -35,6 +35,36 @@
         "Those edges determine how turf meets the existing surfaces and how materials reach the yard. Include known low spots and irrigation in the estimate so removal and preparation are defined.",
         "Englewood has its own utility and local requirements. Use your actual provider when comparing ongoing water costs, and ask the City about relevant property or alley restrictions before drawing the turf boundary to the edge of the lot."
       ]
+    },
+    {
+      "icon": "sun",
+      "kicker": "Shade and small yards",
+      "h2": "Where the bluegrass gave up under the trees.",
+      "paras": [
+        "Englewood was mostly built out by 1960, so its back yards sit behind 1920s to 1950s bungalows and brick ranches on flat grid lots, often closed in by a detached garage on the alley (<a href=\"https://en.wikipedia.org/wiki/Englewood,_Colorado\" target=\"_blank\" rel=\"nofollow noopener\">Wikipedia</a>). Mature trees shade many of them, and on the north side of the house the bluegrass has often thinned to packed dirt and roots.",
+        "Turf doesn't need sunlight, so a shaded corner stays as green as the open middle of the yard. Shade also keeps the surface cooler on a hot afternoon; our note on <a href=\"/blog/how-hot-does-artificial-turf-get/\">how hot artificial turf gets</a> explains why.",
+        "On a small lot every foot counts. The custom layout, which you sign off before we start, works around the garage apron, the tree trunks and the gate to the alley, and the dog gets a patch with no mud to track in."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Water",
+      "h2": "Englewood has its own water, and its own rules.",
+      "paras": [
+        "Englewood owns its water supply rather than buying from Denver Water. In 1948 the city bought 2,500 acres in Platte Canyon and created McLellan Reservoir, and over time it became a wholesale supplier to other parts of the south metro (<a href=\"https://en.wikipedia.org/wiki/Englewood,_Colorado\" target=\"_blank\" rel=\"nofollow noopener\">Wikipedia</a>).",
+        "So Denver Water's Stage 1 rules, including its end to lawn watering after 30 September, don't automatically cover an Englewood address. Englewood Utilities sets the rules here: ask it for this year's watering days, and whether it offers any landscape rebate, before you plan around either.",
+        "Whatever schedule the city sets, turf takes that part of the yard off it for good."
+      ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "The ground",
+      "h2": "There's a soil that shares Englewood's name, and it's clay.",
+      "paras": [
+        "The USDA describes an Englewood soil series: a fine clay loam of 35 to 60% clay, formed in alluvium on fans and valley side slopes, with slow permeability and high shrink-swell (<a href=\"https://soilseries.sc.egov.usda.gov/OSD_Docs/E/ENGLEWOOD.html\" target=\"_blank\" rel=\"nofollow noopener\">USDA</a>). Its type location is in Douglas County, and it's mapped across eastern Colorado and Wyoming.",
+        "Near the South Platte and Little Dry Creek the ground turns to deeper alluvial and terrace soils. Away from the river it's Front Range clay again, which by the Colorado Geological Survey's figures can push upward at up to 30,000 pounds a square foot as it swells (<a href=\"https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/\" target=\"_blank\" rel=\"nofollow noopener\">Colorado Geological Survey</a>).",
+        "On a small lot, drainage is the hard part: clay that drains slowly, roots near the surface, an alley behind and a neighbor's fence close by. The base goes in built for that soil, so the water ends up where it should, not against the house or next door."
+      ]
     }
   ],
   "services": [
@@ -43,7 +73,28 @@
     "putting-greens"
   ],
   "servicesNote": "Compare a lawn, pet area or compact putting green around the trees and routes you want to retain.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Englewood, CO?",
+      "a": "We install artificial turf, pet turf and backyard putting greens in Englewood, CO. Most yards here are small, shaded and backed by an alley, which suits turf that needs no sun. Englewood also owns its own water supply, so Denver Water's rules don't automatically apply to your address; ask Englewood Utilities what does. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Do Denver Water's watering rules apply in Englewood?",
+      "a": "Not automatically. Englewood has owned its own water supply since it created McLellan Reservoir in 1948 (<a href=\"https://en.wikipedia.org/wiki/Englewood,_Colorado\" target=\"_blank\" rel=\"nofollow noopener\">Wikipedia</a>), so Englewood Utilities sets the rules for your address. Ask it for this year's schedule before you plan a lawn around one."
+    },
+    {
+      "q": "Will turf work in a yard that gets almost no sun?",
+      "a": "Yes. Artificial turf doesn't need sunlight, so a north-facing yard under mature trees stays as green as an open one. The shade also keeps the surface cooler in summer."
+    },
+    {
+      "q": "What is the Englewood soil series?",
+      "a": "It's a USDA-described clay loam of 35 to 60% clay, with slow permeability and high shrink-swell, found on alluvial fans and valley side slopes (<a href=\"https://soilseries.sc.egov.usda.gov/OSD_Docs/E/ENGLEWOOD.html\" target=\"_blank\" rel=\"nofollow noopener\">USDA</a>). Its type location is in Douglas County. Clay like it is why we build each base for the ground under that yard."
+    },
+    {
+      "q": "Can turf go right up to the alley or the property line?",
+      "a": "Check with the city before you decide. On a small Englewood lot, setbacks, lot coverage and where the water drains can all matter, so get the city's answer on paper before the plan is drawn."
+    }
+  ],
   "nearby": [
     "cherry-hills-village-co",
     "littleton-co",

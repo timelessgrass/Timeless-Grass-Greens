@@ -34,6 +34,35 @@
         "Show the seawall or bulkhead, service access and any water collecting after rain. Bring recorded property and drainage information so the intended work can be assessed without assuming a new surface will resolve canal-side water problems.",
         "Jacksonville Beach is separate from Jacksonville and has its own local review. Ask about the complete proposal, including grading and lot coverage. For a community such as The Sanctuary, obtain its current requirements separately and include any delivery restrictions in the estimate."
       ]
+    },
+    {
+      "icon": "flag",
+      "kicker": "The city course",
+      "h2": "Jacksonville Beach owns its golf course. Your short game can live out back.",
+      "paras": [
+        "Jacksonville Beach Golf Club is public and city-owned: the city bought the club, expanded it to 18 holes, and began an extensive renovation in January 2018 (<a href=\"https://www.golfdigest.com/courses/fl/jax-beach-golf-club-jacksonville-beach\" target=\"_blank\" rel=\"nofollow noopener\">Golf Digest</a>). Atlantic Beach Country Club is just to the north, and Marsh Landing and the Ponte Vedra Inn & Club courses are just to the south.",
+        "About 40 courses sit within 20 miles of Jacksonville Beach: 13 public, 3 municipal and 23 private (<a href=\"https://www.golfpass.com/travel-advisor/course-directory/9012-jacksonville-beach/\" target=\"_blank\" rel=\"nofollow noopener\">GolfPass</a>). Putting is the part of any of them you can work on at home, on a green with slopes to read and several cups, sketched for your yard and built only once you've approved it."
+      ]
+    },
+    {
+      "icon": "home",
+      "kicker": "Four kinds of yard",
+      "h2": "Four kinds of Jacksonville Beach yard, and each one needs a different job.",
+      "paras": [
+        "The old Pablo Beach grid by the boardwalk and pier holds small cottages and bungalows from the 1920s to the 1950s on tight lots, many since rebuilt taller, with little back yard left (<a href=\"https://www.jacksonvillebeach.org/360/History\" target=\"_blank\" rel=\"nofollow noopener\">City of Jacksonville Beach</a>). A small green or a pet pad fits where a lawn never had room.",
+        "West of 3rd Street, the mid-century ranch neighborhoods sit on more generous lots under mature live oaks and cabbage palms, where St. Augustine grass thins in the shade. Isle of Palms, platted from 1960, is roughly 500 homes on man-made canals off the Intracoastal, most with private docks, so the yard runs down to a seawall or bulkhead (<a href=\"https://movewithmomentum.com/neighborhoods/isle-of-palms-jacksonville-beach\" target=\"_blank\" rel=\"nofollow noopener\">Momentum</a>).",
+        "The Sanctuary, begun in 1990, is gated: 218 homes with a community pool, tennis courts and nature trails, and an HOA that approves architectural changes (<a href=\"https://www.neighborhoods.com/the-sanctuary-jacksonville-beach-fl\" target=\"_blank\" rel=\"nofollow noopener\">Neighborhoods.com</a>). There, the board sees your plan before anything else happens."
+      ]
+    },
+    {
+      "icon": "shield",
+      "kicker": "City rules",
+      "h2": "The beach city's own code applies here, not Jacksonville's.",
+      "paras": [
+        "Jacksonville Beach kept its independence through the 1968 consolidation of Duval County, so its own Land Development Code and building department govern, not the City of Jacksonville's ordinance code (<a href=\"https://en.wikipedia.org/wiki/Jacksonville_Beach,_Florida\" target=\"_blank\" rel=\"nofollow noopener\">Wikipedia</a>). Lot coverage, setbacks and landscaping sit in the code's zoning and site development articles (<a href=\"https://www.zoneomics.com/code/jacksonville-beach-FL/chapter_1\" target=\"_blank\" rel=\"nofollow noopener\">Jacksonville Beach LDC</a>).",
+        "Ask the city's planning department how turf counts toward coverage on your lot while the plan is still a drawing. State law sets a floor: since 19 May 2026, the city can't outlaw turf that's built to Florida's standard in a single-family yard (<a href=\"https://www.flsenate.gov/Session/Bill/2025/683\" target=\"_blank\" rel=\"nofollow noopener\">HB 683 (2025)</a>), and our <a href=\"/guides/florida-turf-infill-rules/\">guide to the state standard</a> explains what meeting it takes.",
+        "In The Sanctuary or any other association, the HOA can't restrict turf if nobody can see it from the street, from next door, from a common area or from a golf course in the community (<a href=\"https://www.flsenate.gov/Laws/Statutes/2024/720.3045\" target=\"_blank\" rel=\"nofollow noopener\">Fla. Stat. 720.3045</a>). Anything in view still goes to the board."
+      ]
     }
   ],
   "services": [
@@ -42,7 +71,28 @@
     "pet-turf"
   ],
   "servicesNote": "Compare a green, lawn or pet area within the usable part of your beach or canal property.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Jacksonville Beach, FL?",
+      "a": "We install backyard putting greens, artificial turf and pet turf in Jacksonville Beach, FL. The city owns an 18-hole course, Jacksonville Beach Golf Club, and runs its own water utility rather than JEA, with watering cut to one day a week under the 2026 shortage order. Yards range from tight Pablo Beach lots to Isle of Palms canal frontage. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "The city says 10 to 4 and the district says 8 to 6. Which watering window do I follow?",
+      "a": "Follow the district's 8 a.m. to 6 p.m. window: it's the stricter of the two, and it comes from the Phase III order issued in May 2026 (<a href=\"https://www.sjrwmd.com/wateringrestrictions/\" target=\"_blank\" rel=\"nofollow noopener\">St. Johns River Water Management District</a>). The city's own page still shows the Modified Phase II hours of 10 a.m. to 4 p.m., in effect from 2 March 2026 (<a href=\"https://www.jacksonvillebeach.org/337/Watering-Restrictions\" target=\"_blank\" rel=\"nofollow noopener\">City of Jacksonville Beach</a>)."
+    },
+    {
+      "q": "Can I put a putting green on an Isle of Palms canal lot?",
+      "a": "Yes. A canal lot's back yard ends at the seawall or bulkhead, so the green usually runs across the width of the lot. Low ground by the water holds rain, so the base gets built for drainage first."
+    },
+    {
+      "q": "Do I need a building permit for turf in Jacksonville Beach?",
+      "a": "Maybe not. Florida's HB 803 (2026) exempts single-family work valued under $7,500 from a building permit, but not on property in a flood hazard area (<a href=\"https://www.nassaucountyfl.com/DocumentCenter/View/31830/Chapter-2026-63-HB803\" target=\"_blank\" rel=\"nofollow noopener\">Ch. 2026-63</a>). Check your address with the city's building department before you count on it."
+    },
+    {
+      "q": "Does the shortage order cover new sod?",
+      "a": "Yes. Phase III tightened the watering allowance for new plantings, sod included (<a href=\"https://www.sjrwmd.com/wateringrestrictions/\" target=\"_blank\" rel=\"nofollow noopener\">St. Johns River Water Management District</a>), so a fresh lawn gets less water to take hold than it used to."
+    }
+  ],
   "nearby": [
     "neptune-beach-fl",
     "atlantic-beach-fl",

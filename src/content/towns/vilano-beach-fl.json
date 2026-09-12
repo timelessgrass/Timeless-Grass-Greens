@@ -35,6 +35,36 @@
         "Florida’s Coastal Construction Control Line can affect work near the dune. Check the property and complete proposal with the responsible coastal staff, including preparation and any grade changes. Turf does not provide storm or flood protection.",
         "Vilano Beach is unincorporated St. Johns County. For a hotel, condo or restaurant courtyard, establish the authorized representative and any required planting that must remain; an activity surface should not simply replace planting required by the approved plan."
       ]
+    },
+    {
+      "icon": "sun",
+      "kicker": "The island",
+      "h2": "Full sun, salt spray and sand that won't hold water.",
+      "paras": [
+        "Vilano Beach sits on the southern tip of San Pablo Island, just north of the St. Augustine Inlet, with the Atlantic on one side and the Tolomato and Matanzas rivers on the other, about 1.8 square miles in all (<a href=\"https://en.wikipedia.org/wiki/Vilano_Beach,_Florida\" target=\"_blank\" rel=\"nofollow noopener\">Wikipedia</a>). The ground is shelly dune sand rich in coquina, with almost no topsoil and a shallow, salty water table.",
+        "Water runs straight through that sand, so a lawn needs constant irrigation just to survive, and fertilizer washes out within days. Salt spray and the onshore wind burn St. Augustine grass, and there's no oak canopy to shelter it. Turf needs none of that water, and its base drains straight down, the way the island already does.",
+        "Much of Vilano lies in a FEMA flood zone, and newer homes stand on pilings, so a lot of outdoor space is a deck, a terrace or the ground under the house. Blowing sand finds every yard near the dune; when we finish, we walk you through the care the turf needs, sand included."
+      ]
+    },
+    {
+      "icon": "shield",
+      "kicker": "The rules",
+      "h2": "No city hall, but the state watches the dune.",
+      "paras": [
+        "Vilano Beach has no city government, so St. Johns County's Land Development Code applies, and it has no provision on artificial turf. For a home, the limits that matter are the 70% impervious surface ratio and the district setbacks (<a href=\"https://www.sjcfl.us/wp-content/uploads/2024/01/article-vi.pdf\" target=\"_blank\" rel=\"nofollow noopener\">LDC Article VI</a>). In the town center, condos and townhomes add an association's approval.",
+        "On the ocean side, the state's Coastal Construction Control Line decides more. Florida DEP regulates structures and activities seaward of that line that could erode the beach, destabilize the dune, damage upland property or block public access, and its permits protect sea turtles and dune plants too (<a href=\"https://floridadep.gov/water/coastal-construction-control-line\" target=\"_blank\" rel=\"nofollow noopener\">Florida DEP</a>). DEP publishes no plain answer for landscaping, so check your lot with DEP before you plan anything near the dune, and check your flood zone at the same time.",
+        "One county rule makes the case for turf on its own: fertilizer is capped at 5 pounds of nitrogen per 1,000 square feet a year, and none may go down under a storm watch or warning (<a href=\"https://www.sjcfl.us/protect-our-water/\" target=\"_blank\" rel=\"nofollow noopener\">St. Johns County</a>). Turf needs none."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Water",
+      "h2": "JEA water, one day a week, and nobody home to watch it.",
+      "paras": [
+        "Vilano is on JEA's coastal grid, which carries water from Ponte Vedra south to Vilano Beach along A1A, rather than on the county's inland system (<a href=\"https://www.jea.com/about/water_supply/water_facilities/\" target=\"_blank\" rel=\"nofollow noopener\">JEA</a>).",
+        "Under the Phase III water shortage order, declared on 11 May 2026 and still in force in September 2026, you get one irrigation day a week: Saturday for odd or unnumbered addresses, Sunday for even, nothing from 8 a.m. to 6 p.m. New sod and new plantings are prohibited, and so is water used just for looks (<a href=\"https://www.sjcfl.us/phase-iii-extreme-water-shortage-declaration-may-2026/\" target=\"_blank\" rel=\"nofollow noopener\">St. Johns County</a>).",
+        "A one-day schedule assumes someone is home to notice a broken sprinkler head or a controller that reset itself. If the house sits empty for months, nobody is. Turf needs no controller, and it looks the same in November as it did when you left in April."
+      ]
     }
   ],
   "services": [
@@ -43,7 +73,28 @@
     "commercial-turf"
   ],
   "servicesNote": "Compare a home lawn, compact green or commercial courtyard with the property’s coastal and maintenance needs.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Vilano Beach, FL?",
+      "a": "We install artificial turf, backyard putting greens and commercial turf in Vilano Beach, FL. Vilano has no city government, so St. Johns County's code applies, and on the ocean side the state regulates work seaward of its Coastal Construction Control Line. New sod is banned under the 2026 water shortage order. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Is Vilano Beach part of the City of St. Augustine?",
+      "a": "No. Vilano is an unincorporated community in St. Johns County, and the city's rules stop at the far side of the Usina Bridge (<a href=\"https://en.wikipedia.org/wiki/Vilano_Beach,_Florida\" target=\"_blank\" rel=\"nofollow noopener\">Wikipedia</a>). The historic district's approvals don't apply here; the county's code does."
+    },
+    {
+      "q": "Can a condo or hotel count turf toward its required landscaping?",
+      "a": "No. The county code says artificial plants can't be used to meet any of its landscaping requirements, so turf can't count toward the planting a permitted condo or hotel project must have (<a href=\"https://www.sjcfl.us/wp-content/uploads/2024/01/article-vi.pdf\" target=\"_blank\" rel=\"nofollow noopener\">LDC Article VI</a>). A homeowner's yard isn't affected."
+    },
+    {
+      "q": "Does my HOA or condo association get a say?",
+      "a": "It depends where you are. The town center's condos and townhomes have associations, some newer subdivisions carry covenants, and many older cottage lots have none. Where an HOA governs, Florida law stops it restricting turf that's out of sight of the street, the neighbors, the common areas and any community golf course (<a href=\"https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&amp;Search_String=&amp;URL=0700-0799/0720/Sections/0720.3045.html\" target=\"_blank\" rel=\"nofollow noopener\">Fla. Stat. 720.3045</a>)."
+    },
+    {
+      "q": "Is Vilano Beach on reclaimed water?",
+      "a": "No. St. Johns County's reclaimed water reaches only Twin Creeks and SilverLeaf, not the island (<a href=\"https://www.sjcfl.us/reclaimed-water/\" target=\"_blank\" rel=\"nofollow noopener\">St. Johns County</a>). Reclaimed water is exempt from the one-day rule, so Vilano gets no break there."
+    }
+  ],
   "nearby": [
     "st-augustine-fl",
     "anastasia-island-fl",

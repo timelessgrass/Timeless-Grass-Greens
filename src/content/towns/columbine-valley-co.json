@@ -35,6 +35,35 @@
         "Mark the boundary and any shared drainage features beside the course. Show us water that arrives from outside the proposed area so it is considered separately from the surface choice.",
         "At the street, confirm the Town’s right-of-way boundary before drawing turf to the curb. Bring any Town or community conditions to the visit; the visible lawn edge is not always the property line."
       ]
+    },
+    {
+      "icon": "flag",
+      "kicker": "The course",
+      "h2": "The golf course came first. The town grew around it.",
+      "paras": [
+        "Columbine Valley began in 1955, when a golf course and homesites were laid out on the 295-acre Heckendorf Farm in the South Platte River Valley west of Littleton, with open views of the mountains, a plateau and the winding river (<a href=\"https://columbinevalley.org/community/\" target=\"_blank\" rel=\"nofollow noopener\">Town of Columbine Valley</a>). The town grew out of the homeowners association its first residents formed, and incorporated in 1959.",
+        "Columbine Country Club's original 18 is a Henry Hughes design, with a links-style 9-hole par-3 added by von Hagge, Smelak and Baril and a full Rees Jones renovation in 2018. It hosted the 1967 PGA Championship, won by Don January in an 18-hole playoff (<a href=\"https://en.wikipedia.org/wiki/Columbine_Country_Club\" target=\"_blank\" rel=\"nofollow noopener\">Wikipedia</a>).",
+        "About 600 homes sit on and between its fairways today, and a backyard green there can take its cues from the course over the fence."
+      ]
+    },
+    {
+      "icon": "leaf",
+      "kicker": "Fairway-side yards",
+      "h2": "Thin grass under old trees, and new houses on bare ground.",
+      "paras": [
+        "The town's original core is 1960s and '70s ranches, and sixty years of tree growth, along with the course's own irrigation and canopy, have thinned the bluegrass in a lot of those yards. Turf gives a fairway-side lawn that stays even and green without the watering.",
+        "The town also has a run of new houses built since 2010, landscaping from bare ground with no old lawn to tear out. For those, we can plan the whole yard at once, and you approve the layout before anything starts: a lawn, a green and a corner for the dog."
+      ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "The ground",
+      "h2": "River-valley ground that stays damp.",
+      "paras": [
+        "Columbine Valley sits at 5,358 feet on old irrigated farm ground in the South Platte valley, where river alluvium mixes with the region's swelling clay (<a href=\"https://coloradogeologicalsurvey.org/geologic-hazards/expansive-soil-rock/\" target=\"_blank\" rel=\"nofollow noopener\">Colorado Geological Survey</a>). The locally named Englewood soil series runs 35 to 60% clay, with slow permeability (<a href=\"https://soilseries.sc.egov.usda.gov/OSD_Docs/E/ENGLEWOOD.html\" target=\"_blank\" rel=\"nofollow noopener\">USDA</a>).",
+        "The Town runs stormwater and mosquito management programs, and next to the course its irrigation, drainage and tree canopy shape how wet the neighboring lots stay (<a href=\"https://columbinevalley.org/public-works-2/\" target=\"_blank\" rel=\"nofollow noopener\">Town of Columbine Valley</a>). A base with real drainage matters more here than on high, dry ground.",
+        "Out front, check where your lot ends. The Town keeps a right of way along its streets that often looks like part of the front yard, so ask the Town where its strip begins before turf runs to the curb (<a href=\"https://www.columbinevalley.org/136/Public-Works\" target=\"_blank\" rel=\"nofollow noopener\">Town of Columbine Valley</a>)."
+      ]
     }
   ],
   "services": [
@@ -43,7 +72,28 @@
     "pet-turf"
   ],
   "servicesNote": "Compare a lawn, practice green or pet area within the usable part of your own lot.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Columbine Valley, CO?",
+      "a": "We install artificial turf, backyard putting greens and pet turf in Columbine Valley, CO. The town grew up around Columbine Country Club, which hosted the 1967 PGA Championship, and many yards sit on or between its fairways, where old shade trees have thinned the bluegrass. The Town runs streets and stormwater but not water, so check your bill for your provider. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Who supplies water in Columbine Valley?",
+      "a": "Not the Town: its public works department covers Town Hall, parks, streets and stormwater (<a href=\"https://columbinevalley.org/public-works-2/\" target=\"_blank\" rel=\"nofollow noopener\">Town of Columbine Valley</a>). Your water bill names your provider, and that provider's rules are the ones that apply."
+    },
+    {
+      "q": "Where does my front yard end?",
+      "a": "Often short of the curb. The Town keeps a right of way along its streets that can look like part of your front yard, so ask the Town where your lot line sits before turf goes to the street (<a href=\"https://www.columbinevalley.org/136/Public-Works\" target=\"_blank\" rel=\"nofollow noopener\">Town of Columbine Valley</a>)."
+    },
+    {
+      "q": "Can I put a putting green on a fairway-side lot?",
+      "a": "As far as state law goes, yes. HB25-1113 lists putting greens among the kinds of functional artificial turf (<a href=\"https://content.leg.colorado.gov/sites/default/files/2025a_1113_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">HB25-1113</a>), and an HOA can't forbid turf outright behind a detached home (<a href=\"https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SB23-178</a>). Get your HOA's design rules in writing first."
+    },
+    {
+      "q": "Will turf hold up on damp ground near the river?",
+      "a": "Yes, if the base drains. Ground near the South Platte and the course's irrigation can stay wet, so drainage goes into the base, and we look at the ground in person when we come out to measure."
+    }
+  ],
   "nearby": [
     "bow-mar-co",
     "littleton-co",

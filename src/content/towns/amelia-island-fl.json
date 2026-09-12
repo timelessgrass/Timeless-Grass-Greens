@@ -35,6 +35,35 @@
         "The island includes Fernandina Beach and unincorporated Nassau County. Confirm the parcel’s jurisdiction, then obtain current community or architectural-review instructions where they apply. A villa, common lawn and detached yard may have different decision-makers.",
         "Show the turf boundary, surrounding planting, edges and intended use in the plan. On a marsh-front, dune-side or golf-facing property, bring relevant restrictions and maintenance access into the discussion before the footprint is finalized."
       ]
+    },
+    {
+      "icon": "flag",
+      "kicker": "Putting greens",
+      "h2": "Greens judged against Oak Marsh and Long Point.",
+      "paras": [
+        "Golf sets the bar on this island. At the Omni, Pete Dye's Oak Marsh plays 6,471 yards through tidal marsh and moss-draped oaks, with small greens and water on 14 holes, and its renovation by Beau Welling was completed in 2025 (<a href=\"https://www.golfpass.com/travel-advisor/articles/oak-marsh-omni-amelia-island-resort-golf-course-renovation-reopening\" target=\"_blank\" rel=\"nofollow noopener\">GolfPass</a>). Tom Fazio's Long Point, from 1987, is the private, member-owned course of The Amelia Island Club, and the resort's new Little Sandy adds a 10-hole short course and an 18-hole putting course (<a href=\"https://www.omnihotels.com/hotels/amelia-island/golf\" target=\"_blank\" rel=\"nofollow noopener\">Omni Amelia Island</a>).",
+        "Off the resort, the private Amelia River Club plays TifEagle greens, and more courses line Amelia Island Parkway (<a href=\"https://www.ameliaisland.com/travel-guides/golf/\" target=\"_blank\" rel=\"nofollow noopener\">Amelia Island</a>). If that's your weekly round, a flat mat out back won't do. A <a href=\"/services/putting-greens/\">backyard putting green</a> on this island should roll like the real thing, with contour you can read, a collar of longer fringe and a spot to chip from."
+      ]
+    },
+    {
+      "icon": "home",
+      "kicker": "Gates and ARBs",
+      "h2": "Behind the gate, the ARB reviews the yard.",
+      "paras": [
+        "Nearly every address on the south end sits inside a gated community with an architectural review board: the Amelia Island Plantation Community Association and its villa and neighbourhood associations, Amelia Surf & Racquet Club, Summer Beach, The Amelia Island Club. Turf goes through that board like any other change to the yard, and the plan you sign off with us becomes the heart of the submission.",
+        "State law is less help here than people hope. Florida's HOA statute protects turf only where it's out of view from the frontage, next door, shared ground or a golf course the community shares (<a href=\"https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&amp;Search_String=&amp;URL=0700-0799/0720/Sections/0720.3045.html\" target=\"_blank\" rel=\"nofollow noopener\">Fla. Stat. 720.3045</a>), and on an island of fairways, marsh views and shared paths, plenty of yards are in view. Our <a href=\"/guides/florida-friendly-landscaping-and-hoas/\">HOA guide</a> has the rest.",
+        "Where the city ends matters too. Inside Fernandina Beach, the city's code and, in its historic districts, the Historic District Council apply; south of the city line the island is unincorporated Nassau County (<a href=\"https://www.nassaucountyfl.com/DocumentCenter/View/18158/12--Background-DA--Future-Land-Use-Element\" target=\"_blank\" rel=\"nofollow noopener\">Nassau County</a>). Oceanfront lots add the coastal construction control line and dune protection rules."
+      ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "Island ground",
+      "h2": "Salt on the dune side, marsh on the river side, oaks in between.",
+      "paras": [
+        "It's barrier-island sand throughout, but not uniform. Dune-side lots take salt spray and onshore wind, which burn turfgrass and keep sprinklers running. Interior Plantation lots sit in deep maritime-forest shade under live oak and pine. West-facing lots on the tidal marsh sit over a shallow water table, and salt gets into the soil.",
+        "Sugar sand drains fast but holds no nutrient, which is half of why sod struggles, and near the marsh the base depth and drainage design, not the turf, decide whether an install still looks right in year three. Shell and root plates limit trenching on many lots, so we look for them during the free visit, then plan the base around them.",
+        "Lots here are rarely rectangular: courtyard gardens, small pool decks, dune-side terraces and marsh-front lawns on wooded, irregular parcels from the 1970s resort era onward. Each one gets its own custom layout."
+      ]
     }
   ],
   "services": [
@@ -43,7 +72,24 @@
     "commercial-turf"
   ],
   "servicesNote": "Compare a backyard putting green with courtyard or commercial turf for the spaces you manage.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Amelia Island, FL?",
+      "a": "We install putting greens, courtyard turf and commercial turf on Amelia Island, FL. Greens here get measured against Oak Marsh, Long Point and the new 18-hole putting course at Little Sandy, so contour and a fringe matter. Nearly every south-island address sits behind a gate with an architectural review board, which looks at turf color, pile height and edging. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Is Amelia Island one town?",
+      "a": "No. It's a barrier island about 13 miles long and 4 miles wide, the southernmost of the Sea Islands. Fernandina Beach is its only incorporated city; Amelia City, American Beach and Franklintown are unincorporated communities under Nassau County (<a href=\"https://en.wikipedia.org/wiki/Amelia_Island\" target=\"_blank\" rel=\"nofollow noopener\">Amelia Island</a>)."
+    },
+    {
+      "q": "What will my ARB want to see?",
+      "a": "Expect questions on turf color, pile height, blade shape, infill, edging and how the turf meets your existing beds. The state's residential turf rule limits infill to clean silica sand, rock, shell or other natural material, and keeps rubber to the area under play equipment (<a href=\"https://www.flrules.org/gateway/ruleNo.asp?id=62-308.100\" target=\"_blank\" rel=\"nofollow noopener\">DEP Rule 62-308.100</a>), which settles one of those questions before the board asks it."
+    },
+    {
+      "q": "When can lawns be watered on Amelia Island?",
+      "a": "Once a week for as long as the Phase III order lasts: Saturday if your street number is odd or missing, Sunday if it's even, with a cap of 3/4 inch per zone (<a href=\"https://www.sjrwmd.com/wateringrestrictions/\" target=\"_blank\" rel=\"nofollow noopener\">SJRWMD</a>). Outside the shortage, summer brings a second weekly day and winter stays at one."
+    }
+  ],
   "nearby": [
     "fernandina-beach-fl",
     "amelia-city-fl",

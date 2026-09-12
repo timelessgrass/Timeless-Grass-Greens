@@ -35,6 +35,36 @@
         "Bring your community’s current landscape requirements if an association applies. Ask the City about the actual work, particularly front-yard changes, grading or drainage. A private backyard and a shared common area should not be treated as the same proposal.",
         "Artificial turf removes routine lawn irrigation from the converted area. It still needs care; discuss cleaning and debris removal while comparing it with the lawn you have now."
       ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Watering rules",
+      "h2": "Arvada fines lawns watered on the wrong day.",
+      "paras": [
+        "Arvada runs its own water utility, and it has been under Stage 1 mandatory restrictions since 15 April 2026, aiming for about a 20% cut in water use. Lawns get two assigned days a week and no water from 10 a.m. to 6 p.m.: even-numbered houses on Sunday and Thursday, odd-numbered houses on Wednesday and Saturday, and multifamily, commercial and HOA properties on Tuesday and Friday (<a href=\"https://arvadaco.gov/drought\" target=\"_blank\" rel=\"nofollow noopener\">City of Arvada</a>).",
+        "The penalties climb: a warning notice first, then $100, $250 and $500. Anyone can report a violation at any hour through the city's Ask Arvada service, and lawn watering ends for the year on 1 October 2026.",
+        "One rule catches people out. New sod and seed follow the same two-day schedule, with no grace period while the roots take hold. Turf arrives green, and it needs none of those days."
+      ]
+    },
+    {
+      "icon": "shield",
+      "kicker": "Who signs off",
+      "h2": "East Arvada answers to the city. West Arvada, usually to an HOA as well.",
+      "paras": [
+        "Olde Town, platted in 1870, and the post-war ranch streets around it mostly have no HOA, so the city's code is the rule that counts. Before you plan turf in a front yard, ask the city what its landscaping code allows, and keep the answer in writing.",
+        "West of Ward Road, most homes were built from the 1990s on, in master-planned neighborhoods run by HOAs and metro districts. Candelas, off McIntyre Street, covers nearly 1,500 acres in six villages of detached houses, patio homes and townhomes (<a href=\"https://candelaslife.com/\" target=\"_blank\" rel=\"nofollow noopener\">Candelas</a>).",
+        "Colorado law bars HOA design guidelines from prohibiting nonvegetative turf in the back yard of a detached single-family home (<a href=\"https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SB23-178</a>). A townhome is outside that protection, and a patio home may be too, so read your covenants and send the HOA your plan. Our <a href=\"/guides/colorado-hoa-turf-rules/\">guide to Colorado HOA turf rules</a> covers the rest."
+      ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "The ground",
+      "h2": "Celery bottomland in the east, shallow bedrock toward the hogback.",
+      "paras": [
+        "All of Arvada sits on Front Range clay that swells when it gets wet, with pressure of up to 30,000 pounds per square foot. Cracked driveways, sidewalks and basement slabs are the usual sign (<a href=\"https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/\" target=\"_blank\" rel=\"nofollow noopener\">Colorado Geological Survey</a>).",
+        "The east side is flat bottomland along Ralston Creek, where Arvada grew celery in the early twentieth century, with heavier, darker topsoil over the clay. A century of flood irrigation left old ditch laterals and uneven fill on some lots. We look for both on the free visit and build the base to suit.",
+        "The west side climbs toward the hogback and the Ralston Valley, with more slope, shallower bedrock and view lots, and its runoff heads to Standley Lake and Ralston Reservoir. On those lots, base depth and drainage decide how the turf performs."
+      ]
     }
   ],
   "services": [
@@ -43,7 +73,28 @@
     "putting-greens"
   ],
   "servicesNote": "Choose a lawn, pet area or green with the preparation and finishing included in a written estimate.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Arvada, CO?",
+      "a": "We install artificial turf, pet turf and backyard putting greens in Arvada, CO. Two local facts shape the job: the city's Stage 1 rules keep lawns to two assigned watering days, with fines that climb to $500, and new sod gets no extra days to root. West of Ward Road, most homes also answer to an HOA. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Can I water new sod more often in Arvada?",
+      "a": "No. Under the city's Stage 1 rules, new sod and seed get the same two assigned days a week as an established lawn, and no water between 10 a.m. and 6 p.m. (<a href=\"https://arvadaco.gov/drought\" target=\"_blank\" rel=\"nofollow noopener\">City of Arvada</a>). Artificial turf needs no time to establish and no water at all."
+    },
+    {
+      "q": "What does a watering violation cost in Arvada?",
+      "a": "The first brings a warning notice. After that the fines are $100, $250 and $500 for the second, third and fourth violations (<a href=\"https://arvadaco.gov/drought\" target=\"_blank\" rel=\"nofollow noopener\">City of Arvada</a>)."
+    },
+    {
+      "q": "Can my HOA in Candelas stop turf in my back yard?",
+      "a": "If your home is detached, not outright: SB23-178 took that power away from HOAs for the back yard (<a href=\"https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SB23-178</a>). Attached homes aren't covered, and the front yard is a separate question, so get your plan approved in writing."
+    },
+    {
+      "q": "Can I put turf in an Olde Town front yard?",
+      "a": "Ask the city first. Most Olde Town streets have no HOA, which leaves the city's landscaping code as the rule to check, so get its answer in writing before you commit to a design."
+    }
+  ],
   "nearby": [
     "wheat-ridge-co",
     "westminster-co",

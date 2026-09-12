@@ -35,6 +35,35 @@
         "An alley-served yard and a lot reached by steps can require different installation plans. Show us gates, turns and where materials could be staged. Include the existing slope and any known drainage issues in the quote.",
         "For a historic property or a project changing grading or landscape, ask Golden Planning about the applicable requirements. Bring any association conditions too. A Golden postal address should be checked against the actual property jurisdiction."
       ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "Golden's clay",
+      "h2": "Golden was built on clay good enough to mine.",
+      "paras": [
+        "Golden sits where Clear Creek cuts through the hogback, on steeply tilted bedrock whose Laramie Formation clays were once mined for brick and pottery. You can still see it at Fossil Trace, the city's golf course, where old clay-mining equipment stands among the holes (<a href=\"https://www.fossiltrace.com/\" target=\"_blank\" rel=\"nofollow noopener\">Fossil Trace Golf Club</a>).",
+        "Tilted, montmorillonite-rich clay near the surface is the condition the Colorado Geological Survey links to differential heave, the kind that gives roads a roller-coaster ripple, with swelling pressure of up to 30,000 psf behind it (<a href=\"https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/\" target=\"_blank\" rel=\"nofollow noopener\">Colorado Geological Survey</a>).",
+        "So in Golden, the base is the job. A shallow install over dipping clay shows every movement, so we dig to depth, build the sub-base for the clay that's there and plan the drainage before any turf goes down."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "One utility, one order",
+      "h2": "One water provider, one drought order, and higher rates.",
+      "paras": [
+        "The City of Golden is your water utility, so there's one set of rules. Its Stage 1 drought order took effect on 1 May 2026, with an amended order from 19 July: two irrigation events per calendar week, each running from 6:00 p.m. to 10:00 the next morning, and no outdoor irrigation from 10:00 a.m. to 6:00 p.m. (<a href=\"https://www.cityofgolden.gov/community/sustainable_golden/water_conservation.php\" target=\"_blank\" rel=\"nofollow noopener\">City of Golden</a>).",
+        "Washing your car at home is banned for now, leaks must be repaired within 10 days, and sprinklers have to be set so they don't overspray. Water rates also rose 6.2% on 1 January 2026 (<a href=\"https://www.cityofgolden.gov/services/water_service.php\" target=\"_blank\" rel=\"nofollow noopener\">City of Golden</a>).",
+        "Resource Central handles Golden's lawn replacement, and it funds conversions only when plants cover at least half of them, which leaves artificial turf out (<a href=\"https://resourcecentral.org/lawn/\" target=\"_blank\" rel=\"nofollow noopener\">Resource Central</a>). The city's free AquaHawk usage monitoring will show you what the old lawn was drinking."
+      ]
+    },
+    {
+      "icon": "building",
+      "kicker": "Zoning and HOAs",
+      "h2": "A form-based code, midway through a rewrite.",
+      "paras": [
+        "Golden runs a form-based code: use zones set what a property can be used for, and a form zone overlay sets building types, setbacks and lot standards, with property-specific zoning on the city's planning map (<a href=\"https://www.cityofgolden.gov/business/land_use_development/zoning_criteria_guide.php\" target=\"_blank\" rel=\"nofollow noopener\">City of Golden</a>). As of 2026 the city is in phase 3 of a full zoning code rewrite, so ask Planning what the code says for your lot while the plan is still a sketch.",
+        "HOAs are rare in the historic core and more common in the newer hillside tracts. Where there is one, Colorado law keeps it from ruling out nonvegetative turf in a detached home's rear yard, and it must sign off in advance on three water-wise designs for the front (<a href=\"https://codes.findlaw.com/co/title-38-property-real-and-personal/co-rev-st-sect-38-33-3-106-5.html\" target=\"_blank\" rel=\"nofollow noopener\">Colorado's HOA law</a>)."
+      ]
     }
   ],
   "services": [
@@ -43,7 +72,24 @@
     "residential-turf"
   ],
   "servicesNote": "Compare a green, pet area or lawn with the access and usable grade your property offers.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Golden, CO?",
+      "a": "We install artificial turf, pet turf and backyard putting greens in Golden, CO. Golden sits on steeply tilted Laramie Formation clay, the kind once mined at what's now Fossil Trace, so the base does most of the work. The City of Golden's Stage 1 order allows two irrigation events a week, and turf needs none. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Is artificial turf allowed at a historic downtown Golden home?",
+      "a": "Ask the city before you plan. Historic downtown properties may need design approval on top of zoning, and with the code rewrite under way in 2026, the answer you get in writing now is the one to build to (<a href=\"https://www.cityofgolden.gov/business/land_use_development/zoning_criteria_guide.php\" target=\"_blank\" rel=\"nofollow noopener\">City of Golden</a>)."
+    },
+    {
+      "q": "Can a Golden business or HOA use artificial turf?",
+      "a": "On a new commercial or institutional site, or new HOA common land, only functional turf is allowed now, and sports fields of play are exempt (<a href=\"https://leg.colorado.gov/bills/sb24-005\" target=\"_blank\" rel=\"nofollow noopener\">SB24-005</a>; <a href=\"https://content.leg.colorado.gov/sites/default/files/2025a_1113_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">HB25-1113</a>). That law doesn't reach single-family yards."
+    },
+    {
+      "q": "If I keep some lawn, how long should the sprinklers run in Golden?",
+      "a": "The city's timing chart suggests 12 to 18 minutes for fixed spray heads and 24 to 36 minutes for rotors in peak months, split into cycle-and-soak runs (<a href=\"https://www.cityofgolden.gov/community/sustainable_golden/water_conservation.php\" target=\"_blank\" rel=\"nofollow noopener\">City of Golden</a>). Any turf you add comes off that chart entirely."
+    }
+  ],
   "nearby": [
     "applewood-co",
     "fairmount-co",

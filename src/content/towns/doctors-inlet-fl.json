@@ -27,6 +27,17 @@
         "For a dog run, keep a practical route from the door and access for waste pickup and cleaning. If water comes from a well, account for the cleaning supply and applicable water-use requirements. For a green, reserve useful putting lines and walking room while keeping waterfront and service areas clear.",
         "Ask for removal, preparation, edging and any proposed drainage work to be described in the written estimate. Bring current property or association conditions so the layout can reflect them."
       ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Plan the yard",
+      "h2": "Bring the wet spots and the water supply into the discussion.",
+      "paras": [
+        "Before the visit, take photos of any standing water and note where it collects after rain. Mark downspouts, drains and the edge of the area you want to change. If the yard borders Doctors Lake or a creek, include the property plan and any known drainage or easement information.",
+        "The <a href=\"https://sdmdataaccess.sc.egov.usda.gov/\" target=\"_blank\" rel=\"nofollow noopener\">USDA soil survey</a> is a starting point for understanding the ground. Use it alongside an inspection of the work area, and ask the estimate to describe the proposed base, ground preparation and drainage.",
+        "If the house uses a well, check water-use requirements as well as the pump. The published <a href=\"https://clayutility.org/phase-iii-water-shortage-restrictions-now-in-effect/\" target=\"_blank\" rel=\"nofollow noopener\">Clay County Utility Authority shortage notice</a> includes private wells among the water sources it addresses. Check the current guidance for your address rather than assuming well water is outside the rules.",
+        "A lawn conversion removes routine irrigation for living grass in that area; cleaning and pet use still need a care plan. Keep a practical route for rinsing and cleanup in a dog-run layout. For a putting green, reserve space for the putts, fringe and walking route you want."
+      ]
     }
   ],
   "services": [
@@ -35,7 +46,12 @@
     "pet-turf"
   ],
   "servicesNote": "Choose the lawn, pet area or green you want, then work through the usable space and installation scope.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "What matters when planning artificial turf in Doctors Inlet?",
+      "a": "Plan the yard’s access, drainage and intended use before choosing the layout. Show us areas that stay wet, the route into the yard and any available property plans. We provide free estimates for artificial lawns, pet areas and putting greens in Doctors Inlet."
+    }
+  ],
   "nearby": [
     "lakeside-fl",
     "fleming-island-fl",

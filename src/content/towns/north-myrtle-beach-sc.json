@@ -44,6 +44,26 @@
         "North Myrtle Beach has requirements governing how surfaces count toward lot coverage. Ask the City what applies to your property type and whether it needs product information or construction details for the proposed turf system.",
         "Treat grading, drainage and associated work as part of that discussion. Bring the written requirements to the estimate; turf’s product description alone does not establish how the City will classify the finished installation."
       ]
+    },
+    {
+      "icon": "shield",
+      "kicker": "The city's rule",
+      "h2": "Impervious until you show otherwise.",
+      "paras": [
+        "Since 6 October 2025, North Myrtle Beach treats a surface on a house or duplex lot as impervious unless it passes Sec. 23-129.4. To count as pervious it must let water through into the ground, show an infiltration rate of at least two inches per hour on manufacturer testing or accepted industry standards, go in to the manufacturer's specification, pass inspection and be maintained. Miss any of those and it counts as impervious, \"regardless of material type or labeling\" (<a href=\"https://library.municode.com/sc/north_myrtle_beach/codes/code_of_ordinances?nodeId=COOR_CH23ZO_ARTVIIGESURE_S23-129.4STPESUIMSUSIMIDURENOSUSIECDEPLRE\" target=\"_blank\" rel=\"nofollow noopener\">City of North Myrtle Beach code</a>).",
+        "The rule never says artificial turf, but it decides how turf is counted. The permit application has to include the manufacturer's specifications and construction details, and the city inspects the base materials (<a href=\"https://www.nmb.us/AgendaCenter/ViewFile/Item/1281?fileID=3993\" target=\"_blank\" rel=\"nofollow noopener\">ordinance text, first reading</a>). At the second reading, planning staff told council it only affects a permit once a lot's pervious ratio would be exceeded (<a href=\"https://www.nmb.us/AgendaCenter/ViewFile/Item/1308?fileID=4116\" target=\"_blank\" rel=\"nofollow noopener\">council minutes, 6 October 2025</a>).",
+        "It covers single-family and duplex lots that don't go through a site-specific development plan. Before you apply, ask whoever installs your turf for the manufacturer's infiltration data and a drawing of the base, since both go in with the application."
+      ]
+    },
+    {
+      "icon": "building",
+      "kicker": "Commercial sites",
+      "h2": "On a commercial lot, hard surface shows up on the bill.",
+      "paras": [
+        "Commercial, multifamily and institutional sites sit outside that test. They go through the city's site-plan process, which carries its own, more rigorous stormwater requirements (<a href=\"https://www.nmb.us/AgendaCenter/ViewFile/Item/1281?fileID=3993\" target=\"_blank\" rel=\"nofollow noopener\">City of North Myrtle Beach</a>).",
+        "From 1 July 2026, the city's stormwater fee is $10.00 a month for a house, $7.50 for a condo and $10.00 per ERU for commercial property (<a href=\"https://www.nmb.us/DocumentCenter/View/6299\" target=\"_blank\" rel=\"nofollow noopener\">City of North Myrtle Beach</a>). An ERU works out to roughly 3,500 square feet of impervious area (<a href=\"https://www.nmb.us/documentcenter/view/4197\" target=\"_blank\" rel=\"nofollow noopener\">city budget sheet</a>). For a house the fee is flat, so turf won't change it. On a commercial site, every ERU the city counts as hard surface is on the monthly bill.",
+        "So before a daycare play yard, a hotel lawn or an HOA common area goes in, ask the city in writing how it will count the turf. We install <a href=\"/services/commercial-turf/\">commercial turf</a> for all three."
+      ]
     }
   ],
   "services": [
@@ -52,7 +72,24 @@
     "putting-greens"
   ],
   "servicesNote": "Compare a lawn, putting green or commercial surface with the property’s intended use and installation requirements.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in North Myrtle Beach, SC?",
+      "a": "We install artificial turf, putting greens and commercial turf in North Myrtle Beach, SC. Since October 2025 the city counts a surface as impervious unless it shows an infiltration rate of at least two inches per hour, goes in to the manufacturer's specification and is kept up. Commercial stormwater is billed per ERU of hard surface. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Does my pool count toward lot coverage in North Myrtle Beach?",
+      "a": "The pool basin doesn't. Sec. 23-129.4 leaves swimming pool basins out of the impervious calculation on single-family and duplex lots, but the decks, patios and hardscape around them still count (<a href=\"https://www.nmb.us/AgendaCenter/ViewFile/Item/1281?fileID=3993\" target=\"_blank\" rel=\"nofollow noopener\">ordinance text</a>). So the surround is where the choice of surface matters."
+    },
+    {
+      "q": "Does the city's rule apply in Atlantic Beach?",
+      "a": "No. Atlantic Beach is its own town, chartered in 1966, and most of the land around it is part of North Myrtle Beach (<a href=\"https://horrycountyhistory.org/horry-county-historical-markers/atlantic-beach/\" target=\"_blank\" rel=\"nofollow noopener\">Horry County history: Atlantic Beach marker</a>, <a href=\"https://en.wikipedia.org/wiki/Atlantic_Beach,_South_Carolina\" target=\"_blank\" rel=\"nofollow noopener\">Wikipedia</a>). It keeps its own code, so ask its Town Hall, at 717 Atlantic Street, what applies before you plan work there."
+    },
+    {
+      "q": "When did the pervious rule pass?",
+      "a": "The Planning Commission recommended it unanimously after a public hearing on 22 July 2025, with no public comment. Council passed first reading on 18 August 2025 and second reading, 6-0, on 6 October 2025 (<a href=\"https://www.nmb.us/AgendaCenter/ViewFile/Item/1281?fileID=3993\" target=\"_blank\" rel=\"nofollow noopener\">staff report</a>, <a href=\"https://www.nmb.us/AgendaCenter/ViewFile/Item/1308?fileID=4116\" target=\"_blank\" rel=\"nofollow noopener\">council minutes</a>)."
+    }
+  ],
   "nearby": [
     "briarcliffe-acres-sc",
     "little-river-sc",

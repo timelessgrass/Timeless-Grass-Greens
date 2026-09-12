@@ -35,6 +35,35 @@
         "Longs properties include rural lots and subdivision yards, so the work starts with the actual property. If you have a septic system, show us its recorded location and get guidance before proposing work over or near it. Identify irrigation and access routes too.",
         "For dogs, a separate area by the door can keep pet use apart from the putting surface. Include access for waste pickup and cleaning. The estimate should identify turf area, preparation, edges and any additional work rather than relying on one unexplained square-foot price."
       ]
+    },
+    {
+      "icon": "flag",
+      "kicker": "Golf",
+      "h2": "Four courses in Longs, and one out back.",
+      "paras": [
+        "Longs has four golf courses of its own: Long Bay Club, a Jack Nicklaus design; Aberdeen Country Club, Tom Jackson's 27 holes in Meadows, Highlands and Woodlands nines; Colonial Charters, open to the public on Charter Drive; and Crown Park (<a href=\"https://www.golfpass.com/travel-advisor/course-directory/6747-longs/\" target=\"_blank\" rel=\"nofollow noopener\">GolfPass</a>, <a href=\"https://www.mbgolf.com/golf-courses/aberdeen\" target=\"_blank\" rel=\"nofollow noopener\">MBGolf</a>, <a href=\"https://www.colonialchartersgolf.com/\" target=\"_blank\" rel=\"nofollow noopener\">Colonial Charters</a>). River Hills is next door in Little River.",
+        "A backyard green lets you work on the three-footers any evening, without a tee time. With a bigger lot you can go past a single cup: several holes on different slopes, a fringe around the edge, and a spot far enough out to hit a real pitch.",
+        "We draw a custom layout for your yard, and nothing starts until you approve it. Then we build the base, lay and seam the turf, and set the cups."
+      ]
+    },
+    {
+      "icon": "home",
+      "kicker": "Three kinds of lot",
+      "h2": "Rural acreage, golf lots and new builds.",
+      "paras": [
+        "Longs has three kinds of yard. Along SC 9, SC 905 and the county roads between them are older homes on half-acre and bigger lots, many on well and septic. Then the golf subdivisions of the 1980s and 1990s, such as Colonial Charters, Long Bay and Aberdeen; Colonial Charters alone mixes houses, townhomes, patio homes and condos around its course. And the newest builder communities: the Bluffs at Sun Colony, Chestnut Farms and The Village at Longs.",
+        "On a new build, grading can leave hard-packed ground that grass struggles to root in. On a well-and-septic lot, show us the drain field when we come out, so the layout keeps clear of it. Either way, the base is built for the ground you actually have.",
+        "A big lawn takes a lot of water, and out here that often means running the well through the dry weeks. Turf takes none, so the well is left for the house."
+      ]
+    },
+    {
+      "icon": "shield",
+      "kicker": "Who says yes",
+      "h2": "County requirements and covenants are separate.",
+      "paras": [
+        "For a Longs property, confirm the jurisdiction and ask Horry County about the proposed turf, excavation, grading, drains and related construction. A private-yard project still needs that scope checked.",
+        "If the property belongs to an association, request its current covenants and architectural review requirements before finalizing the layout. If there is no association, county requirements and any property easements still need to be considered."
+      ]
     }
   ],
   "services": [
@@ -43,7 +72,24 @@
     "pet-turf"
   ],
   "servicesNote": "Choose a green, lawn or dedicated pet area, with the size and preparation priced for your property.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Longs, SC?",
+      "a": "We install backyard putting greens, artificial lawns and pet turf in Longs, SC. Four courses sit in Longs, including Long Bay and Aberdeen’s 27 holes. Ask Horry County about the full work scope and check any association requirements before construction. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Do I need a permit for a backyard putting green in Longs?",
+      "a": "Ask <a href=\"https://www.horrycountysc.gov/departments/stormwater/engineers/construction/storm-water-permitting/\" target=\"_blank\" rel=\"nofollow noopener\">Horry County Stormwater</a> to determine the requirements for the actual scope. Describe excavation, imported base, grading, drainage and any related construction. Do not infer an exemption from the size of the green alone. Association requirements are a separate check."
+    },
+    {
+      "q": "Can my HOA in Sun Colony or Chestnut Farms stop me putting in turf?",
+      "a": "Its covenants can, if they're on file: under South Carolina law an HOA's governing documents have no force until the county Register of Deeds has recorded them (<a href=\"https://www.scstatehouse.gov/code/t27c030.php\" target=\"_blank\" rel=\"nofollow noopener\">S.C. Code 27-30-130</a>). Pull the covenants, read what they say about ground cover, and send the plan to the board before work starts."
+    },
+    {
+      "q": "How big should a backyard putting green be?",
+      "a": "As big as the yard and your game call for. A single cup with a fringe fits a small patio yard; on a Longs half-acre you can lay out several holes on different slopes, with a chipping area off to one side. Each extra cup on its own slope is another putt to learn. We measure on the free visit and draw it to scale."
+    }
+  ],
   "nearby": [
     "little-river-sc",
     "north-myrtle-beach-sc",

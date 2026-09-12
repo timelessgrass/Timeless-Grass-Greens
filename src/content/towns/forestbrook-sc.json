@@ -35,6 +35,36 @@
         "A shallow channel, inlet or strip beside a pond may be part of the drainage system. Mark it on the plan instead of assuming it can be leveled or covered. Ask about any easement or shared maintenance access that crosses the proposed work.",
         "Behind an attached home, confirm whether the space is private or shared and who can authorize a change. Bring any association conditions and county guidance for grading or drainage work so these can be considered before the layout is finalized."
       ]
+    },
+    {
+      "icon": "home",
+      "kicker": "Name the property",
+      "h2": "Forestbrook is the area; your documents identify the yard.",
+      "paras": [
+        "The <a href=\"https://www.census.gov/quickfacts/fact/table/forestbrookcdpsouthcarolina/PST045225\" target=\"_blank\" rel=\"nofollow noopener\">Census Bureau identifies Forestbrook as a census-designated place</a>. Forestbrook Village is a townhome community marketed by <a href=\"https://www.lennar.com/new-homes/south-carolina/myrtle-beach/myrtle-beach/forestbrook-village/tidewater\" target=\"_blank\" rel=\"nofollow noopener\">Lennar</a>, while <a href=\"https://www.horrycountysc.gov/media/nhqe3dpj/171549-final-ecert.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Horry County property documentation</a> separately names Forestbrook Estates. Give the installer the street address and exact subdivision or association name. Do not borrow an approval rule because another community sounds similar.",
+        "For an attached home, establish whether the proposed patch belongs to your lot, is a limited-use area, or is common property. Ask who can authorize a change and who maintains it. For a detached home, check the documents rather than assuming a fenced yard is unrestricted. This page does not establish blanket turf approval for either development.",
+        "If an application is required, ask the association what to submit. A marked plan, product information, edge details and a description of preparation are useful starting materials. Get the current instructions for your property."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Shared drainage",
+      "h2": "A low channel may have a job to do.",
+      "paras": [
+        "<a href=\"https://horrycountysc.gov/departments/stormwater/hoa/\" target=\"_blank\" rel=\"nofollow noopener\">Horry County’s homeowner guidance</a> asks residents to preserve planned drainage patterns and avoid regrading that blocks swales or ditches. The attractive place for a green or dog run may overlap the route water already follows. Locate that route before drawing the final boundary.",
+        "Ask for the recorded plat and any available drainage plan. Mark pipes, inlets, swales, pond edges and maintenance access. The county explains that <a href=\"https://horrycountysc.gov/departments/stormwater/major-initiatives/drainage/\" target=\"_blank\" rel=\"nofollow noopener\">drainage easements provide access for maintenance</a>. Ownership of the ground does not settle what work is allowed in an easement; ask the easement holder to review any proposed encroachment.",
+        "A county-hosted elevation certificate for Forestbrook Estates records different supplemental-flood-zone observations for units in the same townhome building. Check the actual property rather than assigning one flood condition to all of Forestbrook. Show persistent wet areas during the visit and identify who must address a larger drainage problem. Turf alone does not resolve standing water or flooding."
+      ]
+    },
+    {
+      "icon": "layout",
+      "kicker": "Choose the work area",
+      "h2": "Start with the part of the yard you use most.",
+      "paras": [
+        "For a dog area, mark the route from the door, the turning area and access for regular cleaning. For putting practice, choose the direction of play and room to stand before adding cups or fringe. A lawn conversion can be limited to a defined area while keeping planting beds and drainage features outside the scope.",
+        "Walk the delivery route. Note shared paths, gates, steps and association limits on contractor access or material storage. Settle permission to use shared land before treating it as the crew’s route. Include edges beside patios and fences in the estimate so the finished layout is clear.",
+        "For changes involving a community drainage system or a larger development plan, <a href=\"https://www.horrycountysc.gov/departments/stormwater/engineers/construction/plan-requirements/\" target=\"_blank\" rel=\"nofollow noopener\">Horry County’s plan guidance</a> addresses drainage patterns, outfalls and easements. It is not a universal permit checklist for a small lawn. Use it to identify questions for the responsible reviewer. Ask the quote to list the agreed turf area and preparation, with any approvals or drainage decisions still outstanding."
+      ]
     }
   ],
   "services": [
@@ -43,7 +73,28 @@
     "putting-greens"
   ],
   "servicesNote": "Discuss a defined lawn, pet area or putting green during the free visit.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "How do I plan artificial turf installation in Forestbrook, SC?",
+      "a": "Identify your subdivision and the ownership of the proposed work area, then check association requirements, drainage easements and installation access. Forestbrook, Forestbrook Village and Forestbrook Estates are not interchangeable property descriptions. Timeless installs lawns, pet turf and putting greens in the Forestbrook area, starting with a free visit and a written estimate for the space you want to use."
+    },
+    {
+      "q": "Can I replace the grass behind my townhome?",
+      "a": "First ask who owns and maintains that exact area and who can authorize changes. Bring the relevant plan and association response to the estimate. Outdoor access from your home does not establish permission to alter shared property."
+    },
+    {
+      "q": "Can turf cover a drainage swale?",
+      "a": "Do not price it as ordinary lawn replacement until its drainage function and any easement have been reviewed. Keep the route available and ask the responsible authority or easement holder what changes, if any, can be made."
+    },
+    {
+      "q": "Is an HOA decision the only approval I need?",
+      "a": "Check both the property documents and county requirements for the actual scope. Excavation, grading, drainage changes and work in easements may raise different questions. This page does not claim that an ordinary yard is automatically exempt."
+    },
+    {
+      "q": "What should I have ready for a free estimate?",
+      "a": "Your address, the area you want to use, a survey or site plan if available, and any association instructions. Point out access restrictions, existing drains and wet spots so the written estimate can define the proposed work."
+    }
+  ],
   "nearby": [
     "carolina-forest-sc",
     "conway-sc",

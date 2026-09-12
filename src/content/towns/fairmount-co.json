@@ -35,6 +35,35 @@
         "If a ditch or lateral crosses the property, locate it and establish any access requirements before proposing excavation. Point out known wet areas and keep any unresolved drainage work separate in the estimate.",
         "Fairmount is unincorporated Jefferson County, despite many Golden mailing addresses. Confirm applicable county requirements for the work and use the provider on your bill when comparing water costs or incentives."
       ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "The water bill",
+      "h2": "In Fairmount, a thirsty lawn now carries a drought surcharge.",
+      "paras": [
+        "Fairmount's water comes from the North Table Mountain Water and Sanitation District, which has served more than 10,000 residents, businesses and industries for over 65 years and names the Fairmount community first in its service area (<a href=\"https://www.ntmwater.org/\" target=\"_blank\" rel=\"nofollow noopener\">North Table Mountain Water</a>).",
+        "Since 1 May 2026, a drought surcharge has been added to every quarterly bill, per 1,000 gallons: nothing on the first 12,000 gallons, $1.10 from 13,000 to 50,000, $2.20 from 51,000 to 90,000, and $6.60 for every thousand over 90,000 (<a href=\"https://www.ntmwater.org/restrictions-conservation/\" target=\"_blank\" rel=\"nofollow noopener\">North Table Mountain Water</a>). The more lawn you water, the further up those tiers a summer quarter climbs.",
+        "Turf takes that part of the bill to zero. No irrigated grass means no gallons for it, and no tier to climb."
+      ]
+    },
+    {
+      "icon": "shield",
+      "kicker": "The local rules",
+      "h2": "Two watering days, and no city code on top.",
+      "paras": [
+        "Lawn watering is allowed two days a week: even-numbered homes on Sunday and Thursday, odd-numbered on Saturday and Wednesday, multi-family and commercial on Tuesday and Friday, and never from 10 a.m. to 6 p.m. Hand-watering trees and gardens is fine at any hour (<a href=\"https://www.ntmwater.org/restrictions-conservation/\" target=\"_blank\" rel=\"nofollow noopener\">North Table Mountain Water</a>).",
+        "Fairmount is unincorporated Jefferson County, so there's no city landscaping code; the water district's rules are the ones that bind a home yard. Shared ground is different: under SB24-005 and HB25-1113, an HOA common area or a new commercial site can't get non-functional turf, while a sports field still can (<a href=\"https://content.leg.colorado.gov/sites/default/files/2024a_005_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SB24-005</a>, <a href=\"https://content.leg.colorado.gov/sites/default/files/2025a_1113_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">HB25-1113</a>)."
+      ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "The ground",
+      "h2": "Clay and shale below North Table Mountain, on old farm ground.",
+      "paras": [
+        "Below North Table Mountain's basalt cap, the ground grades into clay and shale slopes and then onto the Clear Creek terrace. It's Front Range clay; by the Colorado Geological Survey's account it can swell as much as 20% and push back at up to 30,000 pounds a square foot (<a href=\"https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/\" target=\"_blank\" rel=\"nofollow noopener\">Colorado Geological Survey</a>).",
+        "This is old farm and ditch country, and many big lots here were flood-irrigated for years, which can leave heavy, compacted soil that drains slowly. If a ditch easement or lateral crosses your lot, find it on the plat before any digging; the free site visit checks the ground and the slope.",
+        "Slopes run gentle to moderate. Site work here means a base set for the clay and for the fall of your lot, so water runs off the turf and away from the house."
+      ]
     }
   ],
   "services": [
@@ -43,7 +72,24 @@
     "putting-greens"
   ],
   "servicesNote": "Discuss a green, lawn or pet area as a defined part of the land you already have.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Fairmount, CO?",
+      "a": "We install artificial lawns, pet turf and backyard greens in Fairmount, CO. North Table Mountain Water adds a drought surcharge to each quarterly bill, up to $6.60 per 1,000 gallons over 90,000, and offers no rebate because it buys raw water. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Why is there no turf rebate in Fairmount?",
+      "a": "Because of where the water comes from. North Table Mountain explains that Denver Water's rebates are only available to entities that buy treated water from Denver, and it buys raw water, so there's no rebate to claim here (<a href=\"https://www.ntmwater.org/restrictions-conservation/\" target=\"_blank\" rel=\"nofollow noopener\">North Table Mountain Water</a>). Other providers' rules are in our <a href=\"/guides/colorado-water-rebates-and-turf/\">metro rebates rundown</a>."
+    },
+    {
+      "q": "What happens if I water on the wrong day?",
+      "a": "A first violation costs nothing, a second $250 and every one after that $500. The rules last until both Denver Water and North Table Mountain decide the drought has eased (<a href=\"https://www.ntmwater.org/restrictions-conservation/\" target=\"_blank\" rel=\"nofollow noopener\">North Table Mountain Water</a>)."
+    },
+    {
+      "q": "Can my HOA stop turf in my Fairmount back yard?",
+      "a": "It can set rules, not a ban. Colorado's HB21-1229 lists artificial turf among the drought-tolerant landscaping an HOA may regulate but not prohibit in the backyard area of a home (<a href=\"https://leg.colorado.gov/bills/hb21-1229\" target=\"_blank\" rel=\"nofollow noopener\">HB21-1229</a>). Older Fairmount parcels often have no HOA at all; in newer subdivisions, send the board your plan first."
+    }
+  ],
   "nearby": [
     "applewood-co",
     "golden-co",

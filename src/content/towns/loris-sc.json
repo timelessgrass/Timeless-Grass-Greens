@@ -35,6 +35,36 @@
         "Show us where water stands after rain and how materials can reach the work area. Note fences, gates and any buried systems you know about. Keep drainage work and unresolved ground conditions visible in the installation scope.",
         "Confirm whether the property is in Loris or unincorporated Horry County before checking requirements. For fields or equipment areas, ask about the intended turf system and relevant product documentation; the surface choice alone does not establish suitability for every activity."
       ]
+    },
+    {
+      "icon": "trophy",
+      "kicker": "Ball fields",
+      "h2": "Ball fields that don't close for mud.",
+      "paras": [
+        "The City of Loris maintains the park at Heniford Field, with a children's playground, picnic shelters, tennis courts and several baseball and soccer fields (<a href=\"https://lorischamber.com/attractions\" target=\"_blank\" rel=\"nofollow noopener\">Loris Chamber of Commerce</a>). Ground like that gets used hard: practices on weeknights, games on weekends, and every rainout comes out of the schedule.",
+        "Grass wears thin in front of the plate and in the goalmouth first. A synthetic field plays soon after a storm, keeps the same footing through a season, and needs grooming and infill top-ups instead of mowing. We install <a href=\"/services/sports-field-turf/\">sports field turf</a> for parks, schools and practice grounds.",
+        "On your own land, the same turf makes a batting-cage floor or a bullpen that doesn't wash out, ready any evening you want to throw."
+      ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "The ground",
+      "h2": "Highest ground, wettest sand: the hardpan at Goretown.",
+      "paras": [
+        "Loris grew up on tobacco. In 1909 the Horry Herald called it the largest tobacco market in its section of the state, and by 1914 it was known as the Gate City (<a href=\"https://lorischamber.com/history-of-loris\" target=\"_blank\" rel=\"nofollow noopener\">Loris Chamber of Commerce</a>). The farm ground around it is flat, but it doesn't all drain alike. Toward the Waccamaw River and its swamps to the west, low parcels sit wetter still.",
+        "Just east of town, at Goretown, USDA soil data maps the ground as 100 percent Leon fine sand, poorly drained, with the water table as shallow as 15 centimeters, about six inches, even though it sits at 104 feet (<a href=\"https://sdmdataaccess.sc.egov.usda.gov/\" target=\"_blank\" rel=\"nofollow noopener\">USDA NRCS soil data</a>). A cemented layer under the clean sand holds the water up (<a href=\"https://soilseries.sc.egov.usda.gov/OSD_Docs/L/LEON.html\" target=\"_blank\" rel=\"nofollow noopener\">USDA</a>).",
+        "Dig eight inches of loose white sand and it looks like it drains beautifully. The pan beneath is why a yard like that can hold water all winter. When we come out, we find what's under yours, and the base is built to move water off the pan instead of trusting the sand on top."
+      ]
+    },
+    {
+      "icon": "shield",
+      "kicker": "Property review",
+      "h2": "Start with the property’s jurisdiction.",
+      "paras": [
+        "For a practice green, dog run or hitting area around Loris, first determine whether the property is inside city limits or in unincorporated Horry County. The absence of an HOA does not settle the public requirements for the work.",
+        "For unincorporated property, ask <a href=\"https://www.horrycountysc.gov/departments/stormwater/engineers/construction/storm-water-permitting/\" target=\"_blank\" rel=\"nofollow noopener\">Horry County Stormwater</a> which reviews apply to the specific proposal. Include the disturbed area, grading, drainage and related work. Do not treat a residential address or agricultural setting as an automatic exemption for every change.",
+        "Inside the city limits it's different: the city has its own ordinances, so check with City Hall before you plan."
+      ]
     }
   ],
   "services": [
@@ -43,7 +73,24 @@
     "pet-turf"
   ],
   "servicesNote": "Discuss a putting green, pet area or sports surface with a layout and scope specific to its use.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Loris, SC?",
+      "a": "We install sports field turf, backyard putting greens and pet turf in Loris, SC. The city maintains baseball and soccer fields at Heniford Field, and much of the rural acreage around town has no HOA covenants. East of town at Goretown, the USDA maps Leon fine sand with the water table as shallow as six inches. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Do you come out to Loris?",
+      "a": "Yes. Loris is the inland end of the Grand Strand area we cover, and the free visit to measure and check the ground works the same here as on the coast. We'll walk the field, the yard or the back acreage with you and talk through what you want there. Call 303-349-2368 to set it up."
+    },
+    {
+      "q": "Does salt air matter this far inland?",
+      "a": "No. Loris is well inland, so salt spray doesn't shape the job the way it does on the oceanfront. Drainage does, which is why the ground gets checked before anything is priced."
+    },
+    {
+      "q": "Is a turf field safe for the kids who play on it?",
+      "a": "Yes: we install non-toxic, lead-free turf that's safe for kids. Any field in full summer sun runs hotter than grass, so shade and water breaks matter; our <a href=\"/blog/how-hot-does-artificial-turf-get/\">article on turf heat</a> has the numbers."
+    }
+  ],
   "nearby": [
     "longs-sc",
     "nixonville-sc",

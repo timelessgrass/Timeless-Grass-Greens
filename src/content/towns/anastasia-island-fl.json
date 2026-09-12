@@ -35,6 +35,35 @@
         "Davis Shores and Lighthouse Park, the beach city and county areas south of it follow different local review paths. Confirm where your parcel sits before relying on a coverage or approval requirement.",
         "For a waterfront or low-lying property, bring flood, shoreline and drainage information you already have. Turf is not flood protection. Keep coastal, tree and community conditions visible in the plan and any unresolved work separate in the estimate."
       ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "The ground",
+      "h2": "The island the rock is named for.",
+      "paras": [
+        "Anastasia Island gave its name to the Anastasia Formation, a coquina of shell and sand bound into rock. The Spanish and then the British cut it from quarries here for the Castillo de San Marcos, and the old pits can still be seen in Anastasia State Park (<a href=\"https://en.wikipedia.org/wiki/Anastasia_Formation\" target=\"_blank\" rel=\"nofollow noopener\">Wikipedia</a>).",
+        "For a yard, that means you can hit shell rock at a shallow, unpredictable depth, with the water table only inches down in a wet season and the ground sloping less than 2%. On the free visit we find out what's under your yard, so the base is planned for the rock and the water before any work starts.",
+        "Above ground, salt blows in off the Atlantic and sand drifts on the wind. The island has three ways on and off, and its bridges can close when winds top 40 mph."
+      ]
+    },
+    {
+      "icon": "shield",
+      "kicker": "Three sets of rules",
+      "h2": "Which rules apply depends on your side of the street.",
+      "paras": [
+        "An Anastasia Island address can fall under three governments. Davis Shores and Lighthouse Park are inside the City of St. Augustine, where the historic districts need a certificate of appropriateness and the city's tree rules apply. The incorporated beach is the City of St. Augustine Beach, with an impervious cap of 0.40 on low-density lots and a permit needed to remove a tree (<a href=\"https://www.zoneomics.com/code/st-augustine-beach-FL/chapter_6\" target=\"_blank\" rel=\"nofollow noopener\">St. Augustine Beach code</a>).",
+        "Butler Beach, Crescent Beach and the rest of the island are unincorporated St. Johns County, with no city architectural board and no city impervious cap. Gated communities add a layer of their own: Marsh Creek and Sea Colony carry private deed restrictions. Find out which applies to your address first; it changes the paperwork more than the turf.",
+        "One state law holds across all three: a city or county can't ban turf that meets Florida's standard on a single-family parcel up to an acre (<a href=\"https://www.flsenate.gov/Laws/Statutes/2025/0125.572\" target=\"_blank\" rel=\"nofollow noopener\">Fla. Stat. 125.572</a>)."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Water",
+      "h2": "Three water providers, one watering day.",
+      "paras": [
+        "Water comes from one of three places. The City of St. Augustine's utility serves Davis Shores and Lighthouse Park. The Anastasia Sanitary District, a special district set up in 1951, serves from the city limits at the ocean south to the county line, between the ocean and the Matanzas River (<a href=\"http://www.co.st-johns.fl.us/SpecialDistricts/Anastasia.aspx\" target=\"_blank\" rel=\"nofollow noopener\">St. Johns County</a>). St. Johns County Utility covers other pockets.",
+        "All three answer to the same order. Since 11 May 2026 the island has been under the St. Johns River Water Management District's Phase III shortage: one day a week, Saturday for odd addresses and Sunday for even, no irrigation from 8 a.m. to 6 p.m., and a limit of 3/4 inch and one hour per zone (<a href=\"https://www.sjcfl.us/phase-iii-extreme-water-shortage-declaration-may-2026/\" target=\"_blank\" rel=\"nofollow noopener\">St. Johns County</a>)."
+      ]
     }
   ],
   "services": [
@@ -43,7 +72,24 @@
     "pet-turf"
   ],
   "servicesNote": "Discuss a lawn, pet area or practice green for your particular island property.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Anastasia Island, FL?",
+      "a": "We install artificial turf, pet turf and backyard putting greens on Anastasia Island, FL. The island sits on coquina shell rock that can lie close under the sand, and an address here can fall under the City of St. Augustine, the City of St. Augustine Beach or St. Johns County, each with different rules. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Is my Anastasia Island address inside a city?",
+      "a": "It may be. Davis Shores and Lighthouse Park are in the City of St. Augustine, the beach grid is the City of St. Augustine Beach, and Butler Beach, Crescent Beach, Coquina Gables and canal-front Treasure Beach are unincorporated county land (<a href=\"https://www.homes.com/local-guide/saint-augustine-fl/anastasia-island-neighborhood/\" target=\"_blank\" rel=\"nofollow noopener\">Homes.com</a>). Each has its own permit counter, so start with the right one."
+    },
+    {
+      "q": "Are there HOAs on the island?",
+      "a": "Some. Coverage runs from none in Davis Shores, Lighthouse Park and most of Butler Beach to strict rules in Marsh Creek and Sea Colony. Where an HOA governs, Florida law bars it from restricting turf that no one can see from the frontage, the lot next door, a common area or a community golf course (<a href=\"https://www.flsenate.gov/Laws/Statutes/2025/720.3045\" target=\"_blank\" rel=\"nofollow noopener\">Fla. Stat. 720.3045</a>)."
+    },
+    {
+      "q": "When the shortage order ends, how often can I water?",
+      "a": "Twice a week in daylight saving time: odd-numbered addresses on Wednesday and Saturday, even-numbered on Thursday and Sunday, and inside the city never between 10 a.m. and 4 p.m. (<a href=\"https://www.sjrwmd.com/wateringrestrictions/\" target=\"_blank\" rel=\"nofollow noopener\">SJRWMD</a>). In winter it drops to once a week. Turf needs neither schedule."
+    }
+  ],
   "nearby": [
     "st-augustine-fl",
     "st-augustine-beach-fl",

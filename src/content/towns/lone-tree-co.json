@@ -34,6 +34,36 @@
         "For a condo or townhome, identify who can authorize the work and any restrictions on delivery or access. On a terrace, have the responsible building professional confirm loading, waterproofing and drainage before ordering turf.",
         "Lone Tree properties have different water providers and property requirements. Use the exact address when checking City requirements or incentives, and bring applicable association conditions to the estimate."
       ]
+    },
+    {
+      "icon": "home",
+      "kicker": "What kind of home",
+      "h2": "The kind of home you have decides what the law gives you.",
+      "paras": [
+        "Lone Tree has more homes in multi-unit buildings than detached houses, and its newest neighborhoods are its densest. That matters for turf, because SB23-178 protects back-yard turf only on a single-family detached home. Its bar on HOA design guidelines that prohibit nonvegetative turf doesn't reach a condominium, or an attached home that shares one or more walls with another (<a href=\"https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SB23-178</a>).",
+        "In a detached house in Heritage Hills, Carriage Club, the Fairways or Acres Green, the back-yard protection is yours, though the front yard is still your HOA's call. In a townhome or condo, the association's rules decide, and the patio or strip outside may well be common property.",
+        "Shared ground carries a second limit under Colorado's newer turf law, set out in our <a href=\"/guides/colorado-turf-law/\">guide to the state turf law</a>. The city's own code is the other place a landscaping standard could sit, so ask Lone Tree before you design a front yard."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Water",
+      "h2": "Which side of I-25 sets your watering days.",
+      "paras": [
+        "Three districts serve one small city (<a href=\"https://cityoflonetree.com/historic-warm-temperatures-and-low-snowpack-prompt-watering-restrictions/\" target=\"_blank\" rel=\"nofollow noopener\">City of Lone Tree</a>). West of I-25, Southgate Water and Sanitation District has declared Stage 1 drought: single-family homes water two days a week, Sunday and Thursday at even addresses and Wednesday and Saturday at odd ones, and only between 6 p.m. and 10 a.m. Multifamily and commercial properties water on Tuesday and Friday.",
+        "East of I-25, Parker Water and Sanitation District assigns three days: Sunday, Tuesday and Thursday for even addresses, Monday, Wednesday and Saturday for odd, with no watering from 10 a.m. to 6 p.m. (<a href=\"https://www.pwsd.org/3366/Watering-Restrictions\" target=\"_blank\" rel=\"nofollow noopener\">Parker Water</a>). Select Terra Ridge homes on Indian Wells Drive are served by Northern Douglas County Water and Sanitation District, also at Stage 1, with two days a week and no irrigation from 10 a.m. to 6 p.m. between 1 May and 30 September.",
+        "East-side homes on Parker Water can use Resource Central's lawn replacement discount of up to $750, but Resource Central requires the replaced area to be at least 50% waterwise plants (<a href=\"https://resourcecentral.org/lawn/\" target=\"_blank\" rel=\"nofollow noopener\">Resource Central</a>), so an all-turf yard won't qualify. Turf doesn't need a watering day on any of the three calendars."
+      ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "The ground",
+      "h2": "Bluffs, clay and tilted bedrock at 6,280 feet.",
+      "paras": [
+        "Lone Tree sits at 6,280 feet, rising from built-out suburban ground in the north to grassland bluffs in the south with views of the Front Range. Bluffs Regional Park, 235 acres of open space and trails, is where you can see the change.",
+        "Beneath it is Douglas County's swelling clay: bentonite and montmorillonite that can grow by up to 20% in volume and press on a foundation with over 30,000 pounds per square foot (<a href=\"https://coloradogeologicalsurvey.org/hazards/expansive-soil/\" target=\"_blank\" rel=\"nofollow noopener\">Colorado Geological Survey</a>). The county also maps a Dipping Bedrock Overlay District for its steeply tilted bedrock (<a href=\"https://coloradogeologicalsurvey.org/hazards/heaving-bedrock/\" target=\"_blank\" rel=\"nofollow noopener\">Colorado Geological Survey</a>).",
+        "On ground like that, the base is what keeps a lawn flat from one season to the next, and on the bluffs grade and drainage matter as much as depth. On the free visit we measure the yard and look at the ground, then plan a base that suits it."
+      ]
     }
   ],
   "services": [
@@ -42,7 +72,28 @@
     "pet-turf"
   ],
   "servicesNote": "Discuss lawn, pet and putting options for the outdoor area your property allows you to change.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Lone Tree, CO?",
+      "a": "We install artificial turf, pet turf and backyard putting greens in Lone Tree, CO. The first question here is what kind of home you have: Colorado's protection for back-yard turf covers detached single-family homes, not condos or attached homes that share a wall. The second is your side of I-25, because three water districts set different watering days. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Does the state's back-yard turf law cover my Lone Tree condo or townhome?",
+      "a": "No. SB23-178 applies only to a single-family detached home, and expressly not to a condominium or an attached home that shares a wall (<a href=\"https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SB23-178</a>). Your association's rules decide, so put the question to the board in writing."
+    },
+    {
+      "q": "Which water district serves my Lone Tree home?",
+      "a": "It depends on your side of I-25. Southgate serves the west, Parker Water the east, and Northern Douglas County Water and Sanitation District serves select Terra Ridge homes on Indian Wells Drive, each with its own watering days (<a href=\"https://cityoflonetree.com/historic-warm-temperatures-and-low-snowpack-prompt-watering-restrictions/\" target=\"_blank\" rel=\"nofollow noopener\">City of Lone Tree</a>)."
+    },
+    {
+      "q": "Is there a rebate for artificial turf in Lone Tree?",
+      "a": "Don't plan on one. The Resource Central discount open to Parker Water customers requires at least 50% waterwise plants in the replaced area (<a href=\"https://resourcecentral.org/lawn/\" target=\"_blank\" rel=\"nofollow noopener\">Resource Central</a>). If you're on Southgate, ask the district directly what it offers."
+    },
+    {
+      "q": "Does Lone Tree have its own landscaping rules?",
+      "a": "Check with the city before drawing up a front yard. Lone Tree's municipal code is where any landscaping or materials standard would sit, and a written answer from the city settles it before anything is designed."
+    }
+  ],
   "nearby": [
     "highlands-ranch-co",
     "centennial-co",

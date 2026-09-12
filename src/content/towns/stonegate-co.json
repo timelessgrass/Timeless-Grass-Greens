@@ -35,6 +35,35 @@
         "Stonegate’s published standards allow artificial-turf proposals in the rear yard and require committee approval. When rear-yard turf is proposed, the remaining rear-yard area is limited to 30% non-living material. Keep living beds in the layout and confirm the calculation and current submission requirements with the committee before finalizing it.",
         "The standards also require existing drainage patterns to be preserved and call for approval of excavation deeper than 18 inches. Show the proposed preparation on the plan and bring the original drainage information. Any needed grade or drainage change should be resolved before the surface is installed."
       ]
+    },
+    {
+      "icon": "shield",
+      "kicker": "The local rules",
+      "h2": "Rear yard only, and 30% non-living for the rest of it.",
+      "paras": [
+        "Stonegate's covenant is unusually clear about turf. The SVOA's Community-Wide Standards of 2 October 2023 let you submit artificial turf, as a xeric option, for the rear yard only, and if you do, the parts of that rear yard the turf doesn't cover can be no more than 30% non-living material (<a href=\"https://pcms.net/wp-content/uploads/2023/10/10.2.23-SVOA-Community-Wide-Standards.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SVOA Community-Wide Standards</a>).",
+        "A wider cap sits behind it: no more than 30% of a front, side or rear yard may be covered with non-living material. On a corner lot, the side yard needs irrigated sod held no more than 5 feet back from the foundation. The Standards even sketch the look they want, with turf in smaller outlined areas and beds of living plants around it, and your custom layout can follow that from the first drawing."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Water",
+      "h2": "Stage 1 in Stonegate: three days a week, never on Wednesday.",
+      "paras": [
+        "Stonegate Village Metropolitan District is your water and wastewater utility, and its Stage 1 drought restrictions took effect on 22 April 2026 (<a href=\"https://www.svmd.org/files/85a0f0637/Stage+1-+Drought+Restrictions.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SVMD</a>). Addresses ending in an even number water on Sunday, Tuesday and Friday; odd numbers get Monday, Thursday and Saturday, the same days as multi-family, commercial and irrigation accounts. Nobody waters on Wednesday, and watering happens before 10:00 a.m. or after 6:00 p.m. only.",
+        "The district warns that continued dry weather could bring Stage 2 and tighter limits. A new sod lawn needs a 21-Day Watering Exemption Permit to get established; a synthetic one needs no watering permit and no water (<a href=\"https://www.svmd.org/\" target=\"_blank\" rel=\"nofollow noopener\">SVMD</a>).",
+        "There's no turf rebate to chase. The district offers none, and the state's turf-replacement grant program closed to new applications in March 2025 and only ever funded living landscape (<a href=\"https://cwcb.colorado.gov/turf-replacement-program\" target=\"_blank\" rel=\"nofollow noopener\">CWCB</a>)."
+      ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "The ground",
+      "h2": "Your lot keeps draining the way the builder graded it.",
+      "paras": [
+        "Stonegate sits at 5,896 feet on the gently rolling plains of the Cherry Creek drainage, over clay-rich soils from the Dawson and Denver formations, the swelling kind the Front Range is known for. The Colorado Geological Survey names poor surface drainage, and sprinkler water reaching the soil by a foundation, among the ways a landscape can damage a house (<a href=\"https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/\" target=\"_blank\" rel=\"nofollow noopener\">Colorado Geological Survey</a>).",
+        "The Standards put drainage on you: it shouldn't be changed from the builder's original grading, and no landscape change may alter how the lot drains. They also treat any digging deeper than 18 inches as excavation that needs approval, so put the depth of the turf base on the plan you submit.",
+        "We prepare the ground and build the base to follow the lot's existing fall, so water keeps leaving the yard the way the builder sent it."
+      ]
     }
   ],
   "services": [
@@ -43,7 +72,24 @@
     "putting-greens"
   ],
   "servicesNote": "Discuss a lawn, pet area or compact green with the required surrounding landscape.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Stonegate, CO?",
+      "a": "We install rear-yard turf, putting greens for small yards and pet turf in Stonegate, CO. The SVOA's Community-Wide Standards allow artificial turf in the rear yard only, with committee approval, and cap the rest of that back yard at 30% non-living material; the Modifications Committee can take up to 45 days. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Can I put artificial turf in my Stonegate front yard?",
+      "a": "Not under the current Standards. Artificial turf may be submitted for the rear yard only, and a front yard is meant to read as mostly sod, or sod and shrubs, unless the committee approves a xeriscape plan; every front yard also needs a sprinkler system (<a href=\"https://pcms.net/wp-content/uploads/2023/10/10.2.23-SVOA-Community-Wide-Standards.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SVOA Community-Wide Standards</a>)."
+    },
+    {
+      "q": "Does Colorado law override the SVOA's rear-yard-only rule?",
+      "a": "There's no clash out back. Colorado's SB23-178 says HOA design guidelines can't prohibit nonvegetative turf in a detached single-family home's backyard, and Stonegate's already allow it there, with approval (<a href=\"https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SB23-178</a>). Front yards get no such protection, so the SVOA's line stands."
+    },
+    {
+      "q": "How long does the committee take, and what does it need?",
+      "a": "Up to 45 days. The Modifications Committee wants a submitted plan and your neighbors' signatures on the request, and the pre-approved xeriscape plans on svoacommunity.com still need a formal submission before anything is installed (<a href=\"https://pcms.net/wp-content/uploads/2023/10/10.2.23-SVOA-Community-Wide-Standards.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SVOA Community-Wide Standards</a>). Collect the signatures while the committee has the plan."
+    }
+  ],
   "nearby": [
     "meridian-co",
     "foxfield-co",

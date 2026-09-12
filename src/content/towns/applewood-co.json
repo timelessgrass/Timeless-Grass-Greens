@@ -34,6 +34,36 @@
         "On a tree-lined Applewood property, mark mature trees, roots and irrigation before discussing preparation. Avoid assuming that an open patch above ground is clear for excavation below it. Point out settled paving or known wet areas as well.",
         "If reducing lawn irrigation is part of your decision, check the provider on your bill and compare your own costs. Allow for turf cleaning, especially for pets, and confirm any rebate eligibility before counting it in the budget."
       ]
+    },
+    {
+      "icon": "flag",
+      "kicker": "Putting greens",
+      "h2": "A golf course inside Applewood, and room for a green at home.",
+      "paras": [
+        "Applewood has its own course. Applewood Golf Course, at 14001 W. 32nd Ave, is a par-71 layout under the foothills that has been open since the 1960s, managed by KemperSports and open daily from 6 a.m. to sunset (<a href=\"https://www.applewoodgc.com/\" target=\"_blank\" rel=\"nofollow noopener\">Applewood Golf Course</a>). It's associated with the Prospect Recreation and Park District.",
+        "Rolling Hills Country Club, a private club, sits immediately west in Golden, and Fossil Trace Golf Club, the City of Golden's course at 3050 Illinois St, opened in 2003 (<a href=\"https://www.fossiltrace.com/\" target=\"_blank\" rel=\"nofollow noopener\">Fossil Trace Golf Club</a>).",
+        "With a course this close, a backyard green earns its space: several holes, contour to read, and a collar of longer turf for chipping. On a flat Applewood lot it goes down without the cut-and-fill a slope would need."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Water",
+      "h2": "Consolidated Mutual ends irrigation for 2026 on 1 October.",
+      "paras": [
+        "Applewood's water comes from Consolidated Mutual Water Company, a customer-owned utility serving since 1926 across about 24 square miles and some 100,000 people, through about 400 miles of pipe in parts of Lakewood, Wheat Ridge and unincorporated central Jefferson County. Applewood is named on its service map (<a href=\"https://cmwc.net/service-area-map/\" target=\"_blank\" rel=\"nofollow noopener\">Consolidated Mutual Water</a>).",
+        "Its homepage says that, because of drought, allowed irrigation ends on 1 October 2026. Moderate-to-severe drought, below-normal snowpack and low reservoirs are behind the call, and a Drought Management Plan sets the rules (<a href=\"https://cmwc.net/\" target=\"_blank\" rel=\"nofollow noopener\">Consolidated Mutual Water</a>).",
+        "That's a different utility with different rules from Denver Water, and from the North Table Mountain district a mile north in Fairmount, so read Consolidated Mutual's own restrictions rather than a neighbor's. A synthetic lawn needs none of them."
+      ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "The ground",
+      "h2": "Flat terrace ground, orchard soil and big old trees.",
+      "paras": [
+        "Applewood sits on flat to gently sloping Clear Creek terrace deposits east of South Table Mountain, with none of the hogback or steep bedrock found farther south. The clay is still Front Range clay, which the Colorado Geological Survey calls Colorado's most significant geologic hazard (<a href=\"https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/\" target=\"_blank\" rel=\"nofollow noopener\">Colorado Geological Survey</a>), so drainage and the base still decide how the turf lasts.",
+        "The name is literal: this was apple orchard ground before it was divided into lots, and most homes went up from the 1950s to the 1970s, ranches, split-levels and mid-century two-stories among them (<a href=\"https://en.wikipedia.org/wiki/Applewood,_Colorado\" target=\"_blank\" rel=\"nofollow noopener\">Applewood</a>). Seventy years of canopy means big root plates to work around, shady patches where grass has already given up, and old orchard soils that can be compacted and slow to drain.",
+        "A flat, open yard lets turf go down in wide pieces with fewer seams. Under the trees, see <a href=\"/blog/how-hot-does-artificial-turf-get/\">how shade changes turf's surface temperature</a>; around them, the free site visit maps the roots before any digging."
+      ]
     }
   ],
   "services": [
@@ -42,7 +72,28 @@
     "pet-turf"
   ],
   "servicesNote": "Discuss a practice green first, or compare a lawn and pet area for the space around it.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Applewood, CO?",
+      "a": "We install backyard putting greens, artificial lawns and pet turf in Applewood, CO, where Applewood Golf Course sits at 32nd Avenue and Youngfield Street. Consolidated Mutual Water, Applewood's utility, ends allowed irrigation for 2026 on 1 October because of drought. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Do I need a Jefferson County permit for artificial turf in Applewood?",
+      "a": "Ask before a large install. Applewood is unincorporated, so Jefferson County, not a city, is the authority for your yard. Whether a grading or drainage permit applies to a big residential job is a question to put to the County, in writing, while the layout is still a drawing."
+    },
+    {
+      "q": "Can an HOA stop turf in an Applewood back yard?",
+      "a": "Most Applewood subdivisions predate HOAs, so many addresses don't have one. Where covenants exist, a detached home's back yard is protected: SB23-178 bars HOA design rules from prohibiting nonvegetative turf there (<a href=\"https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SB23-178</a>). Front yards aren't covered, so read your covenants before planning one."
+    },
+    {
+      "q": "Can I get a water rebate for turf in Applewood?",
+      "a": "Don't count on one. Water-wise rebates around the metro fund living plants, and Colorado's own turf-replacement grants barred artificial turf before they closed in March 2025 (<a href=\"https://cwcb.colorado.gov/turf-replacement-program\" target=\"_blank\" rel=\"nofollow noopener\">CWCB</a>). The <a href=\"/guides/colorado-water-rebates-and-turf/\">rebate rules, provider by provider</a>, are in our guide."
+    },
+    {
+      "q": "Where does Applewood start and stop?",
+      "a": "South Table Mountain forms the western edge; Fairmount lies north, Wheat Ridge northeast, Lakewood southeast and West Pleasant View southwest (<a href=\"https://en.wikipedia.org/wiki/Applewood,_Colorado\" target=\"_blank\" rel=\"nofollow noopener\">Applewood</a>). Locals find their way by 32nd Avenue, the golf course and the mountain, with Maple Grove Park and its reservoir, the Clear Creek trail and the Applewood Village shops close by."
+    }
+  ],
   "nearby": [
     "golden-co",
     "wheat-ridge-co",

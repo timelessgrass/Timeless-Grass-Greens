@@ -35,6 +35,36 @@
         "In a new SilverLeaf or TrailMark yard, include future beds, shade and remaining contractor access before finishing the surface. Obtain current community requirements and retain existing drainage routes.",
         "On rural acreage, mark septic, utilities, trees and access to outbuildings. Mill Creek is a corridor name rather than a separate municipality; confirm the exact address and county requirements. For larger projects, turf should not be assumed to replace planting required by the approved landscape plan."
       ]
+    },
+    {
+      "icon": "trophy",
+      "kicker": "Ball fields",
+      "h2": "Where the corridor plays ball.",
+      "paras": [
+        "St. Johns County opened Mill Creek Park at 4881 SR 16 on 1 March 2025, with two baseball fields, two softball fields, four batting cages and a multipurpose field. It was built with the Villages Baseball Association, and it's the county's second major athletic park in ten years (<a href=\"https://www.sjcfl.us/sjc-hosting-ribbon-cutting-mill-creek-park/\" target=\"_blank\" rel=\"nofollow noopener\">St. Johns County</a>). Tocoi Creek High, up the road, sits on 68.79 acres of former Pacetti family land (<a href=\"https://en.wikipedia.org/wiki/Tocoi_Creek_High_School\" target=\"_blank\" rel=\"nofollow noopener\">Wikipedia</a>).",
+        "With that much baseball and softball nearby, the backyard version follows: a hitting cage, a bullpen or a short practice strip that's playable the day after a storm. We install sports field turf for cages, bullpens and practice areas, with the lines and colors you want.",
+        "On a permitted sports project, the county's Florida-Friendly planting rules don't reach the field itself: the code exempts golf courses, sports fields, agriculture and silviculture. Turf can't count toward any landscaping the code requires, though (<a href=\"https://www.sjcfl.us/wp-content/uploads/2024/01/article-vi.pdf\" target=\"_blank\" rel=\"nofollow noopener\">LDC Article VI</a>)."
+      ]
+    },
+    {
+      "icon": "pin",
+      "kicker": "A corridor, not a town",
+      "h2": "Mill Creek is a name, a school, a park and a road.",
+      "paras": [
+        "Mill Creek isn't a city or a census place. It's the old name for the rural corridor of western St. Johns County around SR 16, Pacetti Road (CR 13A) and International Golf Parkway, west of St. Augustine, and it overlaps World Golf Village: Mill Creek Academy sits at 3750 International Golf Parkway, inside the World Golf Village area.",
+        "The name runs deep. Mill Creek Academy traces its line to an 1879 log schoolhouse with a fireplace, rebuilt after a fire in 1893, again as a one-room school with a wood stove in 1914, and as a six-classroom building with an auditorium in 1928. The area had no electricity until 1948, and Mrs. Pacetti taught there from 1926 to 1975 (<a href=\"https://www-mca.stjohns.k12.fl.us/about/\" target=\"_blank\" rel=\"nofollow noopener\">Mill Creek Academy</a>).",
+        "Two kinds of lot sit side by side. New SilverLeaf, Grand Oaks, TrailMark and Mill Creek Forest homes come with young HOAs and CDDs whose architectural boards are active and strict, so ask yours for its turf standard in writing. The rural acreage around them, on one-acre-minimum Open Rural zoning with up to 35% lot coverage, usually has no HOA at all (<a href=\"https://www.sjcfl.us/wp-content/uploads/2024/01/article-vi.pdf\" target=\"_blank\" rel=\"nofollow noopener\">LDC Article VI</a>)."
+      ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "The ground",
+      "h2": "Builder fill that looks like a base, and isn't.",
+      "paras": [
+        "This corridor is turning from Pacetti-family farm and timber ground into subdivisions, and builder lots here are fill-graded and machine-compacted. The sand looks like a ready-made base. It's a compacted layer sitting over the natural flatwoods hardpan, and after a storm it holds water at the surface. The county starts out wet: on 75.7% of its mapped acres, the water table comes within six inches of the surface at some point in a normal year (<a href=\"https://sdmdataaccess.nrcs.usda.gov/\" target=\"_blank\" rel=\"nofollow noopener\">USDA soil survey data</a>).",
+        "So the work here is under the turf. On the free visit we check how your lot drains and what the builder left, and we build the base to give the water somewhere to go. On rural parcels the job starts sooner, with old live oak and pine roots, root mats and leaf litter to clear before any base goes down.",
+        "The creek itself is old wet ground. West of SR 13, archaeological site 8SJ2458, the Historic Mill Site, survives as an earthen dam thought to date from the late 18th or early 19th century (<a href=\"https://bartramscenichighway.com/experiences/archaeological/archaeological-sites/\" target=\"_blank\" rel=\"nofollow noopener\">Bartram Scenic Highway</a>). The low ground here has been wet, and dammed, for two centuries."
+      ]
     }
   ],
   "services": [
@@ -43,7 +73,24 @@
     "pet-turf"
   ],
   "servicesNote": "Compare sports practice turf, a lawn or pet area with the actual use and property plan.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Mill Creek, FL?",
+      "a": "We install sports field turf, artificial turf and pet turf around Mill Creek, FL. Mill Creek is a corridor rather than a town: new SilverLeaf, Grand Oaks and TrailMark yards on compacted builder fill, next to rural acreage that usually has no HOA. SilverLeaf has reclaimed water; the rest of the corridor waters one day a week under the 2026 order. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Is Mill Creek the same as World Golf Village?",
+      "a": "They overlap, but they aren't the same. Mill Creek is the older name for the rural corridor along SR 16 and Pacetti Road, and Mill Creek Academy sits inside the World Golf Village area. Our <a href=\"/northeast-florida/world-golf-village-fl/\">World Golf Village page</a> covers the golf side."
+    },
+    {
+      "q": "Does St. Johns County restrict turf on a Mill Creek lot?",
+      "a": "Its code has no turf provision. What it sets are district numbers: a 70% impervious cap in every residential district, and on RS-E lots an acre minimum with yards of 30, 20 and 20 feet (<a href=\"https://www.sjcfl.us/wp-content/uploads/2024/01/article-vi.pdf\" target=\"_blank\" rel=\"nofollow noopener\">LDC Article VI</a>). On a new-build lot, your HOA's board is the bigger gate."
+    },
+    {
+      "q": "Can I put a turf batting cage in my back yard?",
+      "a": "Yes. We install sports field turf for cages, bullpens and practice strips at home as well as on fields. On a rural lot with no HOA it's your call; in a new subdivision, send the plan to your architectural board first."
+    }
+  ],
   "nearby": [
     "world-golf-village-fl",
     "st-augustine-fl",

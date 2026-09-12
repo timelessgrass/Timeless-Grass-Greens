@@ -35,6 +35,36 @@
         "Describe the sport, traffic, equipment and maintenance routine before selecting a system. Include the required product documentation and any operational access during installation. The same turf is not automatically suitable for every field or activity.",
         "Check the applicable City and state landscape requirements for the intended project, particularly on shared or commercial property. A decorative area and a surface used for sport raise different planning questions."
       ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "The ground",
+      "h2": "Sand, not clay, and almost no fall.",
+      "paras": [
+        "Commerce City's ground is unlike most of the metro. USDA soil data puts Vona sandy loam at the top of the list: about 66.6% sand and 10% clay, well drained, on slopes of 0 to 1%. Weld and Stoneham loams sit alongside it, and wide areas are mapped simply as urban land, or as pits from the sand and gravel workings along the South Platte (<a href=\"https://sdmdataaccess.nrcs.usda.gov/\" target=\"_blank\" rel=\"nofollow noopener\">USDA</a>).",
+        "Swelling clay isn't the problem here. Loose sand under a builder-graded yard is: it settles unevenly, and a base that's too thin shows it within a couple of seasons as dips, low spots and seams pulling apart.",
+        "The flatness is the other half. With next to no natural fall, water has nowhere to go unless the base is built to move it, and a pet-turf yard that can't drain starts to smell. We build the drainage into the base, so a rinse with the hose carries everything away."
+      ]
+    },
+    {
+      "icon": "home",
+      "kicker": "The yards",
+      "h2": "Post-war cottages in the south, new subdivisions in the north.",
+      "paras": [
+        "The old south city, incorporated as Commerce Town in 1952, is small post-war cottages on flat, deep lots near the refinery and the rail lines (<a href=\"https://en.wikipedia.org/wiki/Commerce_City,_Colorado\" target=\"_blank\" rel=\"nofollow noopener\">Wikipedia</a>). Most of the city's homes are newer, built since 2000 in the Northern Range north of I-76: Reunion, Buffalo Run and Second Creek. On the city's edge, the Rocky Mountain Arsenal National Wildlife Refuge keeps 27 square miles of lakes, wetlands and grassland, bison herd included.",
+        "The northern subdivisions are builder-graded and governed by HOAs, with small, dead-flat back yards behind the patio. In Reunion and Buffalo Run the HOA's design guidelines are the real gatekeeper, and state law draws one line for them: those guidelines can't prohibit nonvegetative turf behind a detached home (<a href=\"https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SB23-178</a>).",
+        "The Buffalo Run neighborhood wraps around Buffalo Run Golf Course, the city's own 18-hole, par-72 course designed by Keith Foster, with six sets of tees (<a href=\"https://www.buffalorungolfcourse.com/\" target=\"_blank\" rel=\"nofollow noopener\">Buffalo Run Golf Course</a>). A green on a flat lot nearby is practice without booking a tee time."
+      ]
+    },
+    {
+      "icon": "trophy",
+      "kicker": "Sports fields",
+      "h2": "The state's turf law still leaves room for fields.",
+      "paras": [
+        "Commerce City is home to DICK'S Sporting Goods Park on Victory Way, the Colorado Rapids' stadium, with a Fields Complex that can be rented (<a href=\"https://www.dickssportinggoodspark.com/\" target=\"_blank\" rel=\"nofollow noopener\">DICK'S Sporting Goods Park</a>).",
+        "Since January 2026, state law has barred local governments from letting nonfunctional artificial turf into new commercial, institutional or HOA common-area landscaping. HB25-1113 defines functional artificial turf to include sports fields and playgrounds, so those stay open to it (<a href=\"https://content.leg.colorado.gov/sites/default/files/2025a_1113_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">HB25-1113</a>); our <a href=\"/guides/colorado-turf-law/\">Colorado turf law guide</a> has the rest.",
+        "A decorative turf lawn outside a new store is off the table, while fields, practice areas and play space are not. We install <a href=\"/services/sports-field-turf/\">sports field turf</a>, and <a href=\"/services/indoor-turf/\">indoor facility turf</a> for training spaces."
+      ]
     }
   ],
   "services": [
@@ -43,7 +73,28 @@
     "sports-field-turf"
   ],
   "servicesNote": "Compare a pet area or lawn for the home, or discuss a sports surface with its own use and maintenance requirements.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Commerce City, CO?",
+      "a": "We install pet turf, artificial lawns and sports field turf in Commerce City, CO. Much of the ground here is Vona sandy loam on slopes of 0 to 1%, so the job turns on compaction and drainage rather than clay, and the newer subdivisions north of I-76 follow HOA design guidelines. State law still leaves sports fields open to artificial turf. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Who supplies water in Commerce City?",
+      "a": "Not the city. Its water-service page points to South Adams County Water and Sanitation District (<a href=\"https://www.c3gov.com/Residents/Water-Service\" target=\"_blank\" rel=\"nofollow noopener\">City of Commerce City</a>), and your bill shows which provider serves your address. That provider can give you this year's schedule."
+    },
+    {
+      "q": "Why does turf sometimes dip on a sandy yard?",
+      "a": "Loose sand settles unevenly under a thin base, and on ground with slopes of 0 to 1% the water has nowhere to run (<a href=\"https://sdmdataaccess.nrcs.usda.gov/\" target=\"_blank\" rel=\"nofollow noopener\">USDA</a>). A base built and compacted for that ground, with drainage built in, keeps the surface level."
+    },
+    {
+      "q": "Can a school or club still put in a turf field under the new state law?",
+      "a": "Yes. The prohibition reaches only nonfunctional artificial turf, and HB25-1113 counts sports fields and playgrounds as functional (<a href=\"https://content.leg.colorado.gov/sites/default/files/2025a_1113_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">HB25-1113</a>). A decorative commercial lawn is what the law now keeps out."
+    },
+    {
+      "q": "Can my Reunion or Buffalo Run HOA stop turf out back?",
+      "a": "Not with a flat ban on a detached home (<a href=\"https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SB23-178</a>). The association can still set design rules and decide the front yard, so get the board's sign-off on paper."
+    }
+  ],
   "nearby": [
     "denver-co",
     "thornton-co",

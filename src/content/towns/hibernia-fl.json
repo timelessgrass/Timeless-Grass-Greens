@@ -34,6 +34,34 @@
         "Mark the tree canopy and obtain any required arborist advice before proposing work beneath it. Near the St. Johns, bring shoreline and drainage information and show any low areas or existing retaining structures.",
         "Hibernia is in unincorporated Clay County. Confirm applicable county and property requirements; an absence of a town government does not establish that no review is needed. Ask for any unresolved drainage or ground work to be separate from the turf installation price."
       ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "The ground",
+      "h2": "Blanton sand: deep, clean and well drained.",
+      "paras": [
+        "USDA mapping at the heart of Hibernia returns Blanton fine sand on 0 to 5 percent slopes, rated well drained and in hydrologic group A, with no flooding or ponding and the water table no closer than about 165 centimetres, some 5.4 feet (<a href=\"https://sdmdataaccess.sc.egov.usda.gov/\" target=\"_blank\" rel=\"nofollow noopener\">USDA</a>). The deep sand sits over a loamy subsoil more than four feet down.",
+        "That's ground a golf architect would ask for. Digging is easy, water genuinely percolates, and a compacted, open-graded base stays stable, which is what lets a green carry real undulation, tiered shelves and a fringe collar instead of lying flat on the lawn.",
+        "The river bluff is the exception. Parcels dropping toward the St. Johns have real grade, so retaining and edge detail matter there, and the old plantation frontage carries live oak, magnolia and cypress canopy dense enough that grass won't hold under it. Just south, Black Creek and Peters Creek meet at Camp Chowenwaw Park."
+      ]
+    },
+    {
+      "icon": "flag",
+      "kicker": "Putting greens",
+      "h2": "Fleming Island's two clubs are minutes from St. Margaret's.",
+      "paras": [
+        "Hibernia has no course of its own, but The Golf Club at Fleming Island on Town Center Boulevard, with its driving range, is about 1.2 miles from the St. Margaret's site, and Eagle Harbor Golf Club is about 3.5 miles north. The Country Club of Orange Park and Magnolia Point are each within about 8 miles.",
+        "A <a href=\"/services/putting-greens/\">backyard putting green</a> here can be the full thing: a green with tiers and a fringe collar, a chipping approach from the lawn, and cups set where the break gets interesting. River lots here run from half an acre up, so there's room for all of it."
+      ]
+    },
+    {
+      "icon": "home",
+      "kicker": "Approvals",
+      "h2": "On Hibernia Road, there's often nobody to ask.",
+      "paras": [
+        "Hibernia is unincorporated, with no town government or review board of its own, and nothing in the Clay County code prohibits artificial turf (<a href=\"https://library.municode.com/fl/clay_county/codes/code_of_ordinances\" target=\"_blank\" rel=\"nofollow noopener\">Clay County code</a>). Only two overlay areas bring homes under the county's landscaping requirements, and Hibernia sits outside both.",
+        "The gatekeepers here are private covenants. The master-planned Fleming Island communities, Eagle Harbor, Fleming Island Plantation and Pace Island, carry HOAs, while the historic Hibernia Road and river-frontage parcels are largely unplatted and covenant-free. On Hibernia Road or the river side of US 17 you very likely need no approval at all; inside Eagle Harbor or the Plantation, read your covenant before any design work."
+      ]
     }
   ],
   "services": [
@@ -42,7 +70,24 @@
     "pet-turf"
   ],
   "servicesNote": "Compare a practice green, lawn or pet area around the trees, grade and access your property provides.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Hibernia, FL?",
+      "a": "We install putting greens, artificial lawns and pet turf for Hibernia's river lots, on the St. Johns' west bank below Fleming Island. The ground here is Blanton fine sand, rated well drained, its water table some 65 inches down, which suits a green with real contour. Clay County's code has no turf prohibition, and many river parcels carry no covenants. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Where exactly is Hibernia?",
+      "a": "Off US 17 on the St. Johns' western shore, at the southern end of what is now Fleming Island. It began as the 1790 Hibernia Plantation, George Fleming's 1,000-acre Spanish land grant, named for the Latin word for Ireland, and it had its own post office from 1849 to 1931 (<a href=\"https://en.wikipedia.org/wiki/Hibernia,_Florida\" target=\"_blank\" rel=\"nofollow noopener\">Hibernia, Florida</a>)."
+    },
+    {
+      "q": "Can I water more often from my own well or the river?",
+      "a": "No. Clay County's Sec. 18.5-77 puts wells, pumps, ground water and surface water under the same irrigation limits as utility water, so the river gets you no extra days (<a href=\"https://library.municode.com/fl/clay_county/codes/code_of_ordinances\" target=\"_blank\" rel=\"nofollow noopener\">Clay County code</a>). Drip, micro-spray and bubbler systems, and a hand-held hose with an automatic shut-off nozzle, are exempt."
+    },
+    {
+      "q": "Does St. Margaret's historic listing limit what I can do with my yard?",
+      "a": "No. St. Margaret's Episcopal Church and Cemetery went on the National Register in 1973, the oldest listing in Clay County, but the listing is honorary and puts no design controls on neighbouring private property (<a href=\"https://en.wikipedia.org/wiki/National_Register_of_Historic_Places_listings_in_Clay_County,_Florida\" target=\"_blank\" rel=\"nofollow noopener\">National Register listings, Clay County</a>)."
+    }
+  ],
   "nearby": [
     "fleming-island-fl",
     "doctors-inlet-fl",

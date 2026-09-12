@@ -43,6 +43,26 @@
       "paras": [
         "Ask Myrtle Beach Planning & Zoning about applicable requirements, particularly if the project changes grading, drainage or lot coverage. For a condo or association property, obtain the relevant property approval separately. Bring any conditions to the estimate so the scope can account for them."
       ]
+    },
+    {
+      "icon": "trophy",
+      "kicker": "City fields",
+      "h2": "Myrtle Beach already plays on turf.",
+      "paras": [
+        "The city made the switch on its own fields years ago. Styers Athletic Complex has seven large multipurpose fields and two youth fields, all synthetic and all lit (<a href=\"https://www.officialmyrtlebeachsports.com/styers-athletic-complex.html\" target=\"_blank\" rel=\"nofollow noopener\">Official Myrtle Beach Sports</a>). Doug Shaw Memorial Stadium on 33rd Avenue North reopened in September 2017 on synthetic turf, with permanent lines for football, soccer and lacrosse (<a href=\"https://www.officialmyrtlebeachsports.com/doug-shaw-memorial-stadium.html\" target=\"_blank\" rel=\"nofollow noopener\">Official Myrtle Beach Sports</a>).",
+        "On the same block, the Ned Donkle Athletic Field Complex at 704 33rd Ave N still plays on natural grass: seven fields for baseball, fastpitch softball and kickball events (<a href=\"https://www.officialmyrtlebeachsports.com/ned-donkle-athletic-field-complex.html\" target=\"_blank\" rel=\"nofollow noopener\">Official Myrtle Beach Sports</a>).",
+        "If you run a field, a school ground or a practice area, synthetic turf means games back on soon after a storm and the same footing from the first pitch of a tournament to the last. We install <a href=\"/services/sports-field-turf/\">sports field turf</a> for ball fields, practice areas and school grounds."
+      ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "The ground",
+      "h2": "Dune sand by the ocean, a hardpan inland.",
+      "paras": [
+        "Myrtle Beach sits on two very different soils. The oceanfront and beach-ridge blocks are dune sand of the Newhan type, excessively drained and very rapidly permeable, with shell fragments making up as much as 35 percent of it (<a href=\"https://soilseries.sc.egov.usda.gov/OSD_Docs/N/NEWHAN.html\" target=\"_blank\" rel=\"nofollow noopener\">USDA</a>). Water leaves fast there. The challenges are a firm base over loose, shelly sand, blown sand settling into the turf, and salt spray on the first few blocks.",
+        "Inland, on flats such as The Market Common and west of the bypass, the ground is closer to Leon: poorly drained sand over a hardpan that starts within 30 inches, with the water rising to between 6 and 18 inches below the surface for one to four months in most years (<a href=\"https://soilseries.sc.egov.usda.gov/OSD_Docs/L/LEON.html\" target=\"_blank\" rel=\"nofollow noopener\">USDA</a>). A base laid on top of that pan turns the yard into a shallow tub.",
+        "When we come out to measure, we check which ground you're on. The base is then built for it, so the surface stays level and the rain has somewhere to go."
+      ]
     }
   ],
   "services": [
@@ -51,7 +71,24 @@
     "residential-turf"
   ],
   "servicesNote": "Compare residential, commercial and sports-turf options according to who will use the space and how.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Myrtle Beach, SC?",
+      "a": "We install sports field turf, commercial turf and back lawns in Myrtle Beach, SC. The city already plays on turf at Styers and at Doug Shaw Memorial Stadium, and the ground changes across town: fast-draining dune sand by the ocean, and wetter flats over a hardpan inland. We build the base for whichever you have. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Can players wear metal cleats on the city's turf fields?",
+      "a": "Not at Styers. Since 15 April 2022, metal cleats have been prohibited on all its turf fields, and molded cleats are recommended (<a href=\"https://www.officialmyrtlebeachsports.com/styers-athletic-complex.html\" target=\"_blank\" rel=\"nofollow noopener\">Official Myrtle Beach Sports</a>). On a field of your own, the cleat rule is yours to set."
+    },
+    {
+      "q": "Do I need a permit for backyard turf in Myrtle Beach?",
+      "a": "Ask the city's Planning and Zoning office before you start, especially on a small lot that is near its coverage limit. If your home is in a condo regime or an HOA, its board may want to see the plan as well. We draw a layout you can take to either one."
+    },
+    {
+      "q": "Does sand blow into turf near the beach?",
+      "a": "On the oceanfront blocks it does, because the ground there is loose dune sand and the wind moves it. A stiff brush and a leaf blower after a windy stretch clear it, and we walk you through that care when the job is done."
+    }
+  ],
   "nearby": [
     "carolina-forest-sc",
     "briarcliffe-acres-sc",

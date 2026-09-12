@@ -35,6 +35,35 @@
         "On a yard above Standley Lake or another sloped site, discuss the actual grade and access rather than assuming a flat installation. Point out runoff and any existing retaining structures. Ask for preparation and unresolved drainage issues to be clear in the quote.",
         "For a sports or shared-property project, describe the intended activity and check applicable landscape requirements before selecting the system. A private backyard and a commercial surface need different planning conversations."
       ]
+    },
+    {
+      "icon": "refresh",
+      "kicker": "The original lawn",
+      "h2": "The lawn that came with the house is worn out.",
+      "paras": [
+        "A big share of Westminster's homes went up in the 1970s and 80s, and plenty of yards still run on the lawn and sprinkler system that came with the house. Four decades on, zones fail one at a time, and the maples and ashes that shade the yard have already thinned the bluegrass beneath them.",
+        "Artificial turf ends that cycle: no sprinkler heads to replace, no dry zone to chase and nothing to reseed under the trees. The city is pulling out thirsty lawn too, having converted 21 acres of its own non-essential turf to native grass, including 2.6 acres at City Hall (<a href=\"https://www.westminsterco.gov/880/Turf-Conversion\" target=\"_blank\" rel=\"nofollow noopener\">City of Westminster</a>)."
+      ]
+    },
+    {
+      "icon": "ruler",
+      "kicker": "West-side grades",
+      "h2": "On the west side, the slope decides the job.",
+      "paras": [
+        "USDA soil data shows Nunn clay loam across much of Westminster, around 31% clay with moderate shrink-swell on gentle slopes, with Platner loam alongside it. On the west side, the Jefferson County part of the city around Standley Lake, Legacy Ridge and Westmoor, Ulm soils run on 5 to 9% slopes (<a href=\"https://sdmdataaccess.nrcs.usda.gov/\" target=\"_blank\" rel=\"nofollow noopener\">USDA soil survey</a>).",
+        "A slope asks more of the base than a flat yard does. The ground has to be cut and compacted so the surface doesn't creep, the low edge needs restraint, and water has to cross the yard without washing out what's underneath. All of that gets planned on the free visit and drawn into the layout before you sign off.",
+        "Newer neighborhoods on that side, like Legacy Ridge and Westmoor, also have HOAs with design guidelines, so the plan goes to the board as well."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Drought Watch",
+      "h2": "Voluntary limits, and no rebate for turf.",
+      "paras": [
+        "Westminster declared a Drought Watch on 31 March 2026, effective 15 April, after record-low snowpack in the Clear Creek Basin (<a href=\"https://westy.news/drought/\" target=\"_blank\" rel=\"nofollow noopener\">City of Westminster</a>). As of September 2026 it is voluntary, and mandatory restrictions are not in place.",
+        "The city's help is aimed at plants. Through Resource Central it offers lawn replacement, Garden in a Box, Slow the Flow sprinkler checks and waterwise yard seminars (<a href=\"https://www.westminsterco.gov/915/Conservation\" target=\"_blank\" rel=\"nofollow noopener\">City of Westminster</a>). None of it pays for artificial turf.",
+        "So the case for turf in Westminster isn't a rebate. It's the end of watering, sprinkler repairs and reseeding on a lawn that has needed all three for decades."
+      ]
     }
   ],
   "services": [
@@ -43,7 +72,28 @@
     "sports-field-turf"
   ],
   "servicesNote": "Compare a lawn or backyard green, or discuss sports turf for a clearly defined activity.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Westminster, CO?",
+      "a": "We install artificial turf, putting greens and sports field turf in Westminster, CO. Many yards here still run on lawns and sprinklers from the 1970s and 80s, and west-side lots sit on 5 to 9% slopes. The city's rebates pay only for low-water planting, so turf's value is the end of watering and repairs. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "How often can I water in Westminster this year?",
+      "a": "Under the voluntary Drought Watch, the city asks for no more than three days a week, before 10 a.m. or after 6 p.m. (<a href=\"https://westy.news/drought/\" target=\"_blank\" rel=\"nofollow noopener\">City of Westminster</a>). A turf lawn needs none of those days."
+    },
+    {
+      "q": "Does SB23-178 cover my Westminster home?",
+      "a": "It does if the home is detached: the law stops HOA rules from banning nonvegetative turf in that back yard (<a href=\"https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SB23-178</a>). Many Westminster homes are townhomes or condos, which that protection doesn't reach, and front yards stay under HOA rules, so read your covenants before you plan."
+    },
+    {
+      "q": "What about artificial turf on Westminster HOA common ground?",
+      "a": "Only for a use, not for looks. Colorado's 2024 turf law, amended in 2025, stops local governments allowing new non-functional turf in HOA common areas, as well as on commercial and institutional sites (<a href=\"https://content.leg.colorado.gov/sites/default/files/2024a_005_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SB24-005</a>, <a href=\"https://content.leg.colorado.gov/sites/default/files/2025a_1113_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">HB25-1113</a>). For common areas, Westminster offers HOAs irrigation audits and a turf-to-native program instead (<a href=\"https://www.westminsterco.gov/365/Neighborhood-Sustainability-Program\" target=\"_blank\" rel=\"nofollow noopener\">City of Westminster</a>)."
+    },
+    {
+      "q": "Will turf work under our big maples and ashes?",
+      "a": "Yes. Turf needs no sun, so the trees that thinned the bluegrass can stay, and under them it runs far cooler on a summer afternoon, because <a href=\"/blog/how-hot-does-artificial-turf-get/\">sun or shade is the biggest factor in how hot turf gets</a>."
+    }
+  ],
   "nearby": [
     "arvada-co",
     "northglenn-co",

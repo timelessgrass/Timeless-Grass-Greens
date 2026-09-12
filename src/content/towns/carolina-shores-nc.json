@@ -35,6 +35,33 @@
         "Carolina Shores includes several communities, and Carolina Shores Subdivision is only one of them. Use the exact community and property address when requesting documents; a nearby development’s turf policy may not apply.",
         "Confirm ownership of the work area and any association requirements. Ask Town Planning & Zoning about the complete proposal, including grading or drainage changes. Bring the responses to the estimate so the scope can reflect the conditions that apply."
       ]
+    },
+    {
+      "icon": "shield",
+      "kicker": "Which community?",
+      "h2": "Carolina Shores is a town; Carolina Shores Subdivision is one community.",
+      "paras": [
+        "The <a href=\"https://www.carolinashoresnc.com/communities\" target=\"_blank\" rel=\"nofollow noopener\">Town’s community directory</a> identifies eight communities: Carolina Shores Subdivision, The Farm at Brunswick, Calabash Lakes, Beacon Townes, The Village at Calabash, Lighthouse Cove, Eagle Run and River Rock at Shingletree. Start with the correct community name when looking for governing documents or contacting a manager.",
+        "That directory establishes community identity. It does not establish a uniform artificial-turf policy, or prove that the same review process applies everywhere. Ask for the current documents covering your particular property and proposed change. A neighbor’s experience can suggest a useful question, but does not establish permission for your own project."
+      ]
+    },
+    {
+      "icon": "flag",
+      "kicker": "Which space?",
+      "h2": "A lawn beside a home may have more than one decision-maker.",
+      "paras": [
+        "The Town describes <a href=\"https://www.carolinashoresnc.com/carolinashoressubdivision\" target=\"_blank\" rel=\"nofollow noopener\">Carolina Shores Subdivision</a> as including detached houses, patio homes and villas, with larger lots in The Acreage. Its <a href=\"https://www.carolinashoresnc.com/calabashlakes\" target=\"_blank\" rel=\"nofollow noopener\">Calabash Lakes page</a> describes detached homes, paired ranches and townhomes. These different property types make ownership and maintenance responsibility useful early questions.",
+        "Check the survey, deed and applicable community documents for the exact area you want to replace. Establish whether it belongs to the homeowner, is shared, or carries an easement; a maintenance arrangement alone may not answer that. If the proposal includes a common area, involve the authorized association representative before seeking a construction scope."
+      ]
+    },
+    {
+      "icon": "shield",
+      "kicker": "Two reviews",
+      "h2": "Association guidance does not replace the Town’s review.",
+      "paras": [
+        "<a href=\"https://www.carolinashoresnc.com/planningzoning\" target=\"_blank\" rel=\"nofollow noopener\">Carolina Shores Planning & Zoning</a> handles zoning, subdivision and floodplain matters within the Town and its extra-territorial jurisdiction. Give staff the address and a description of the proposed turf, grading, drainage and any related construction so they can identify applicable requirements.",
+        "For fences, the <a href=\"https://www.carolinashoresnc.com/faq\" target=\"_blank\" rel=\"nofollow noopener\">Town’s FAQ</a> specifically tells residents to check with their HOA or POA first, then contact the Town about whether and where a permit is needed. That is relevant when a pet-turf proposal includes a new fence. It is not a published turf approval rule; ask about the turf work itself rather than extending the fence answer to every landscaping change."
+      ]
     }
   ],
   "services": [
@@ -43,7 +70,28 @@
     "putting-greens"
   ],
   "servicesNote": "Choose a lawn, pet area or putting green to suit the usable space around your home.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "What should Carolina Shores homeowners check before installing artificial turf?",
+      "a": "Identify the correct community and confirm who controls the proposed area. Obtain current association guidance where it applies, and ask Carolina Shores Planning & Zoning about the specific work. An association response does not resolve Town requirements. TIMELESS Grass & Greens offers lawn, pet-turf and putting-green installation estimates in Carolina Shores."
+    },
+    {
+      "q": "Does Carolina Shores have one artificial-turf rule for all eight communities?",
+      "a": "The Town’s directory does not provide a shared turf policy. Obtain the current requirements for the specific property and ask the Town about the proposed work separately."
+    },
+    {
+      "q": "Is Carolina Shores Subdivision the same as the Town of Carolina Shores?",
+      "a": "No. Carolina Shores Subdivision is one of the communities the Town lists. Use the specific community name when requesting property or association documents."
+    },
+    {
+      "q": "If my association agrees, can installation begin?",
+      "a": "First establish that you have authority over the area and resolve any applicable Town requirements for the complete scope. Association agreement does not by itself answer zoning, drainage or related construction questions."
+    },
+    {
+      "q": "Can a townhome owner replace the grass outside the home?",
+      "a": "The answer depends on the property documents and who controls that area. Confirm ownership, easements and maintenance responsibilities with the appropriate representative before treating it as a private-yard project."
+    }
+  ],
   "nearby": [
     "shallotte-nc",
     "little-river-sc",

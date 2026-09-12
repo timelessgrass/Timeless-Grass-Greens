@@ -35,6 +35,36 @@
         "On a Rural Homestead property, bring known well, utility and drainage information. Where ditches or valley pans serve the lot, mark them before drawing the turf boundary. On a managed courtyard property, confirm who can authorize the change and use of shared access.",
         "Ask Greenwood Village and the relevant association about the complete landscape proposal. Check the name on your water bill before using another neighborhood’s cost or incentive in your comparison."
       ]
+    },
+    {
+      "icon": "shield",
+      "kicker": "Your HOA",
+      "h2": "About 40 HOAs, and one state law on your side.",
+      "paras": [
+        "Greenwood Village has roughly 40 registered homeowners associations and about ten metro districts, so for most yards the sign-off that matters comes from a board, not the city (<a href=\"https://www.greenwoodvillage.com/1083/Community-Resources\" target=\"_blank\" rel=\"nofollow noopener\">City of Greenwood Village</a>).",
+        "Colorado's SB23-178 takes one option away from every board: on a detached single-family home, it can't forbid nonvegetative turf in the back yard, though it can still adopt and enforce design rules for that turf (<a href=\"https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SB23-178</a>). A back lawn of turf is protected; the front yard stays the board's call.",
+        "Boards decide on what they can see. Send yours a drawing of the layout, with the edging and the line where turf meets the planting beds, and have its decision on paper before work starts."
+      ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "The ground",
+      "h2": "From horse pastures to courtyard lots, over the same clay.",
+      "paras": [
+        "The city's 2018 Comprehensive Plan divides it into planning areas that behave like different towns (<a href=\"https://greenwoodvillage.com/DocumentCenter/View/18538/2018-Final-Comprehensive-Plan\" target=\"_blank\" rel=\"nofollow noopener\">City of Greenwood Village</a>). Rural Homestead allows one home per 2.5 acres, on gravel roads with horse pastures. The West End runs about one home an acre, with valley pans and drainage ditches instead of curb and gutter. The Preserve was platted between 1990 and 2000, and Cottonwood Grove holds 8 to 12 homes an acre.",
+        "Under all of it is Front Range clay that can expand up to 20% by volume when wet, with pressures above 30,000 pounds per square foot, and engineers treat a 3% swell as potentially damaging (<a href=\"https://coloradogeologicalsurvey.org/geologic-hazards/expansive-soil-rock/\" target=\"_blank\" rel=\"nofollow noopener\">Colorado Geological Survey</a>). Greenwood, Prentice and Goldsmith gulches cut through the rolling yards, with floodplain along Cherry Creek and the High Line Canal.",
+        "The city has its own 2022 Storm Drainage Criteria Manual and a Construction Site Management Manual for grading and erosion control (<a href=\"https://www.greenwoodvillage.com/2501/Adopted-Codes-Manuals\" target=\"_blank\" rel=\"nofollow noopener\">City of Greenwood Village</a>). Our base is matched to the soil and the slope; on the larger acreage, ask the city early whether the grading needs its approval."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Water",
+      "h2": "Seven water districts, one source, and some private wells.",
+      "paras": [
+        "Greenwood Village runs no water utility. Its Comprehensive Plan names seven water providers inside the city: Castlewood, Cherry Hills Village Water, Cherry Creek Village, Greenwood Village Water, Havana, South East Englewood and Southgate (<a href=\"https://greenwoodvillage.com/DocumentCenter/View/18538/2018-Final-Comprehensive-Plan\" target=\"_blank\" rel=\"nofollow noopener\">City of Greenwood Village</a>). Some Rural Homestead homes have no municipal water at all and rely on private wells.",
+        "Most of that water traces back to Denver Water; nearby Willows Water District says plainly that Denver Water is its source (<a href=\"https://willowswater.org/\" target=\"_blank\" rel=\"nofollow noopener\">Willows Water District</a>). Denver Water's Stage 1 drought has run since 25 March 2026, and on 26 August 2026 its board ended the lawn watering season: from 1 October, watering grass or running spray irrigation is prohibited, hand-watering of grass included (<a href=\"https://www.denverwater.org/drought\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>). Your district can tell you how it enforces that.",
+        "Denver Water's turfgrass removal discount won't fund turf in the new landscape (<a href=\"https://www.denverwater.org/tap/ditching-useless-turf-coloradoscape-we-can-help\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>). So turf earns no rebate, but it ends the two-day watering routine for good, and on a well it takes the lawn off the pump."
+      ]
     }
   ],
   "services": [
@@ -43,7 +73,28 @@
     "pet-turf"
   ],
   "servicesNote": "Start with a practice green, or compare a lawn and pet area for the space beside it.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Greenwood Village, CO?",
+      "a": "We install backyard putting greens, artificial turf and pet turf in Greenwood Village, CO. Here the HOA is usually the gatekeeper: the city has about 40 registered associations and ten metro districts, and state law stops an HOA banning back-yard turf on a detached home. Seven water districts serve the city, and some Rural Homestead homes run on private wells. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Can my Greenwood Village HOA stop me putting turf in my back yard?",
+      "a": "Not outright, if the house is detached (<a href=\"https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SB23-178</a>). The board can still hold that turf to design and aesthetic rules, and the front yard remains its call, so get approval in writing first."
+    },
+    {
+      "q": "My house is on a private well. Is turf worth it?",
+      "a": "It takes the lawn off the well entirely, since turf needs no irrigation. The city's 2018 Comprehensive Plan notes that some Rural Homestead properties have no municipal water and rely on private wells (<a href=\"https://greenwoodvillage.com/DocumentCenter/View/18538/2018-Final-Comprehensive-Plan\" target=\"_blank\" rel=\"nofollow noopener\">City of Greenwood Village</a>)."
+    },
+    {
+      "q": "When does lawn watering stop in Greenwood Village this year?",
+      "a": "If your water traces to Denver Water, its board ended the lawn watering season on 26 August 2026: from 1 October, watering grass or using spray irrigation is prohibited, hand-watering of grass included (<a href=\"https://www.denverwater.org/drought\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>). Check with your own district for how it applies the rule."
+    },
+    {
+      "q": "Do I need the city's approval to regrade a large lot?",
+      "a": "Ask before you dig. Greenwood Village has adopted a 2022 Storm Drainage Criteria Manual and a Construction Site Management Manual that govern grading and erosion control (<a href=\"https://www.greenwoodvillage.com/2501/Adopted-Codes-Manuals\" target=\"_blank\" rel=\"nofollow noopener\">City of Greenwood Village</a>). They matter most on the acreage lots."
+    }
+  ],
   "nearby": [
     "cherry-hills-village-co",
     "centennial-co",

@@ -35,6 +35,36 @@
         "Some Wheat Ridge properties have a history of garden or greenhouse use. If you know of old footings, irrigation laterals or buried remnants, show us where. Include wet areas and any existing drainage information so preparation can be planned for the actual work area.",
         "Confirm applicable City or property requirements and ask for removal, preparation and unresolved conditions to be stated in the estimate. Use the provider on your water bill for any cost or incentive comparison."
       ]
+    },
+    {
+      "icon": "layout",
+      "kicker": "The lots",
+      "h2": "Carnation City left Wheat Ridge its deep back yards.",
+      "paras": [
+        "Wheat Ridge began as a rest stop in the Gold Rush of the late 1850s, turned into truck-farm and greenhouse country, and later took the nickname Carnation City from its carnation growers (<a href=\"https://en.wikipedia.org/wiki/Wheat_Ridge,_Colorado\" target=\"_blank\" rel=\"nofollow noopener\">Wikipedia</a>). Those gardens and greenhouse parcels were split up piece by piece rather than laid out as tracts, so lots are irregular and many back yards run unusually deep.",
+        "Most of the houses are brick ranches and bungalows from the 1940s to the 1960s. The city didn't incorporate until 17 June 1969, long after they were built, and few of its streets have an HOA.",
+        "A deep, oddly shaped yard is rarely a rectangle. The layout you approve before work starts follows your fence lines, your trees and the path the dog has already worn across the grass."
+      ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "The ground",
+      "h2": "What turns up when you dig an old Wheat Ridge garden.",
+      "paras": [
+        "The ground along and north of Clear Creek is alluvial soil, good enough that carnations, greenhouse crops and vegetables grew here for decades. Swelling clay is a smaller part of the story than in much of the metro, though it is still there on the higher ground away from the creek bottom (<a href=\"https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/\" target=\"_blank\" rel=\"nofollow noopener\">Colorado Geological Survey</a>).",
+        "What a Wheat Ridge dig does find is farm history: buried irrigation ditch laterals, old greenhouse footings, glass and debris on redeveloped parcels, and a fairly high water table near the creek. The free visit is when we find out what's down there, and the base is built around it.",
+        "The grades are kind. Most yards are flat to gently sloping, which keeps the grading simple, and the base still has to carry rain away from the house."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Water",
+      "h2": "Two water providers, two calendars.",
+      "paras": [
+        "Wheat Ridge has no single water utility. Consolidated Mutual Water Company and Denver Water both serve parts of the city, so check the name on your bill before you copy a neighbor's watering days.",
+        "Consolidated Mutual is under drought restrictions this year, citing moderate-to-severe drought, and allowed irrigation ends on 1 October 2026 (<a href=\"https://www.cmwc.net/\" target=\"_blank\" rel=\"nofollow noopener\">Consolidated Mutual Water</a>). Denver Water's Stage 1 rules give lawns two assigned days a week, before 10 a.m. or after 6 p.m., and end all lawn watering after 30 September 2026 (<a href=\"https://www.denverwater.org/residential/rebates-and-conservation-tips/summer-watering-rules\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>).",
+        "Don't count on a rebate: Denver Water's own turfgrass removal program rules artificial turf out of the new landscape (<a href=\"https://www.denverwater.org/tap/ditching-useless-turf-coloradoscape-we-can-help\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>). What turf gives back is every watering day you no longer keep."
+      ]
     }
   ],
   "services": [
@@ -43,7 +73,28 @@
     "pet-turf"
   ],
   "servicesNote": "Compare a lawn, putting green and pet area as separate parts of a usable deep yard.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Wheat Ridge, CO?",
+      "a": "We install artificial turf, pet turf and backyard putting greens in Wheat Ridge, CO. The lots are the story here: many are deep, irregular former market-garden parcels near Clear Creek, where old irrigation ditches and greenhouse footings can turn up when we dig. Consolidated Mutual and Denver Water both serve the city, each on its own 2026 calendar. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Who supplies water in Wheat Ridge?",
+      "a": "It depends on your street. Consolidated Mutual Water Company serves part of the city and Denver Water serves other parts, so the name at the top of your bill decides your watering days (<a href=\"https://www.cmwc.net/\" target=\"_blank\" rel=\"nofollow noopener\">Consolidated Mutual Water</a>)."
+    },
+    {
+      "q": "When does lawn watering end in Wheat Ridge this year?",
+      "a": "On Consolidated Mutual, allowed irrigation ends on 1 October 2026 (<a href=\"https://www.cmwc.net/\" target=\"_blank\" rel=\"nofollow noopener\">Consolidated Mutual Water</a>). On Denver Water, lawn watering and spray irrigation stop after 30 September 2026 (<a href=\"https://www.denverwater.org/residential/rebates-and-conservation-tips/summer-watering-rules\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>). Turf needs none of it."
+    },
+    {
+      "q": "Can I put artificial turf in my front yard in Wheat Ridge?",
+      "a": "Ask the city before you design it. Few Wheat Ridge homes have an HOA, so the city's landscaping code is the rule that matters most for a front yard, and a written answer from Community Development settles it."
+    },
+    {
+      "q": "Is there a golf course in Wheat Ridge?",
+      "a": "Not inside the city. Applewood Golf Course, a public par-71 course operating since the 1960s, sits just west at 14001 W. 32nd Avenue in Golden (<a href=\"https://www.applewoodgc.com/\" target=\"_blank\" rel=\"nofollow noopener\">Applewood Golf Course</a>). A green on a deep Wheat Ridge lot puts practice a few steps from the back door."
+    }
+  ],
   "nearby": [
     "arvada-co",
     "applewood-co",

@@ -35,6 +35,35 @@
         "For a property near Coal Creek or Waneka Lake, bring any recorded site or flood information rather than assuming a particular condition from the neighborhood name. Elsewhere, point out wet spots in the same way.",
         "Confirm the City and applicable association requirements for any landscape or grading changes. Ask the estimate to identify removal, preparation and unresolved drainage concerns so the proposed surface is not mistaken for a promise to dry out the property."
       ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Mandatory in Lafayette",
+      "h2": "Lafayette's drought rules are mandatory, not a request.",
+      "paras": [
+        "Lafayette moved to a mandatory Stage 1 drought response on 10 April 2026, with increased enforcement (<a href=\"https://www.lafayetteco.gov/4302/Drought-Planning-Response\" target=\"_blank\" rel=\"nofollow noopener\">City of Lafayette</a>). The city is aiming for a 10% cut in overall demand and up to 17% less outdoor watering, because both of its sources, Boulder Creek and the Upper Colorado River, peaked nearly a month early, and Boulder Creek ran at less than half its historical average.",
+        "Irrigation systems are capped at two days a week, with a third only when absolutely necessary, and landscapes get no water from 10 in the morning until 6 at night.",
+        "Artificial turf fits those rules without trying: no watering days to plan, no sprinkler water to keep off the pavement, and nothing browning while you wait for the next allowed day."
+      ]
+    },
+    {
+      "icon": "home",
+      "kicker": "HOAs",
+      "h2": "In the newer neighborhoods, the HOA can't say no out back.",
+      "paras": [
+        "Much of Lafayette built since the 1990s, in neighborhoods like Indian Peaks, Silver Creek, Coal Creek Village and Beacon Hill, sits under an HOA; Old Town, where coal-miner cottages sit on small lots around Public Road, generally doesn't. Where there is one, state law keeps it from barring nonvegetative turf behind a detached home or pushing hardscape past 20% of your landscaping without good reason (<a href=\"https://codes.findlaw.com/co/title-38-property-real-and-personal/co-rev-st-sect-38-33-3-106-5.html\" target=\"_blank\" rel=\"nofollow noopener\">the state's HOA statute</a>).",
+        "Front yards and attached homes are outside that protection, and Lafayette has plenty of townhomes and duplexes. If yours is one, get the board's answer in writing before the design is set."
+      ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "Low, wet ground",
+      "h2": "Flat, clay and a high water table: drainage decides it.",
+      "paras": [
+        "Around Indian Peaks, the USDA maps Colby, Heldt, Nunn and Hargreave soils, with montmorillonite and smectite clays among them, on gentle ground (<a href=\"https://sdmdataaccess.nrcs.usda.gov/\" target=\"_blank\" rel=\"nofollow noopener\">USDA Soil Data Access</a>). It also maps two poorly drained soils, Calkins and Loveland, in the low ground along Coal Creek and around Waneka Lake and Baseline Reservoir.",
+        "Flat ground, swelling clay and a high water table are the mix that leaves standing water and soft spots under a poorly built lawn. So a Lafayette base is about drainage: a sub-base that lets water through and a surface with positive fall, so rain leaves the yard instead of sitting under the turf.",
+        "That's what the free visit is for. We measure, check the ground and see where water sits on your lot today, and the layout you approve accounts for it."
+      ]
     }
   ],
   "services": [
@@ -43,7 +72,24 @@
     "pet-turf"
   ],
   "servicesNote": "Discuss a lawn, pet area or putting green with the site conditions and intended use in view.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Lafayette, CO?",
+      "a": "We install artificial turf, putting greens and pet turf in Lafayette, CO. The city's Stage 1 drought response has been mandatory since 10 April 2026, with a two-day watering cap, and it offers no turf or lawn-removal rebate. Low ground along Coal Creek and Waneka Lake is poorly drained, so we build the base to drain. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Does Lafayette give a rebate for turf or lawn removal?",
+      "a": "No. Its outdoor rebates cover high-efficiency sprinkler nozzles at $3 each, drip equipment up to $50, and free smart controllers and rain sensors after a Slow the Flow check, with no turf replacement or lawn removal rebate and nothing for artificial turf (<a href=\"https://www.lafayetteco.gov/3849/Outdoor-Water-Efficiency-Rebates\" target=\"_blank\" rel=\"nofollow noopener\">City of Lafayette</a>). What turf saves is the watering itself, every week the limits last."
+    },
+    {
+      "q": "Besides watering days, what does Lafayette's Stage 1 ban?",
+      "a": "Runoff onto sidewalks, driveways and streets, and cleaning paved surfaces with a hose or power washer (<a href=\"https://www.lafayetteco.gov/4302/Drought-Planning-Response\" target=\"_blank\" rel=\"nofollow noopener\">City of Lafayette</a>). A turf lawn sends no sprinkler water across the pavement to begin with."
+    },
+    {
+      "q": "Can a Lafayette business or HOA put turf on its common areas?",
+      "a": "Only where the turf is functional, such as a playing field. Since 1 January 2026, Colorado has stopped local governments from permitting non-functional turf in the landscaping of new commercial and institutional grounds or HOA common land (<a href=\"https://content.leg.colorado.gov/sites/default/files/2024a_005_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SB24-005</a>, with changes from <a href=\"https://content.leg.colorado.gov/sites/default/files/2025a_1113_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">HB25-1113</a>)."
+    }
+  ],
   "nearby": [
     "louisville-co",
     "erie-co",

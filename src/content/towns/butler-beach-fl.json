@@ -35,6 +35,35 @@
         "Keep stairs, entry routes and service access available around a raised home. For a condo, confirm who controls the proposed ground and whether the association must authorize work or delivery through shared areas.",
         "Butler Beach is unincorporated St. Johns County, separate from the City of St. Augustine Beach. Check county, community and any coastal conditions for the actual parcel before finalizing the boundary."
       ]
+    },
+    {
+      "icon": "clock",
+      "kicker": "While you're away",
+      "h2": "A yard that doesn't need you there.",
+      "paras": [
+        "If Butler Beach is where you spend part of the year, or a house you rent out, the lawn is the thing that goes wrong while you're gone. An invoice from the lawn service arrives all winter. A dead patch of St. Augustine greets the next guest. A watering day nobody keeps turns into a notice from code enforcement.",
+        "Turf takes all three off the list. It stays green through the months you're away, needs no watering day and no mowing, and the yard you left in spring is the yard you come back to in the fall. When the job is done, we go over the care it needs with you, or with whoever checks on the house.",
+        "Re-sodding isn't a quick fix right now, either. Under the district's Phase III order, the rules for watering in new sod and new plantings were tightened in mid-May 2026 (<a href=\"https://www.sjrwmd.com/2026/05/district-declares-phase-iii-extreme-water-shortage/\" target=\"_blank\" rel=\"nofollow noopener\">the district's declaration</a>)."
+      ]
+    },
+    {
+      "icon": "shield",
+      "kicker": "The rules",
+      "h2": "No city hall, so the county and your covenants decide.",
+      "paras": [
+        "Butler Beach is a census-designated place, not a city. There's no city building department, no city turf ordinance and no city impervious cap; St. Johns County's code and permitting apply, and nowhere in the county's Land Development Code do the words artificial turf appear (<a href=\"https://www.sjcfl.us/wp-content/uploads/2024/01/entire-ldc-march-4-2025.pdf\" target=\"_blank\" rel=\"nofollow noopener\">St. Johns County LDC</a>). That sets it apart from St. Augustine Beach, the incorporated city just north, with a code of its own.",
+        "The approvals that count here are private: condo documents and subdivision covenants. HOA coverage is patchy on this unincorporated land, and a condo association's documents often matter more than a single-family HOA's. Where an HOA does govern, Florida law keeps it from restricting turf that can't be seen from outside the lot, meaning from the frontage, a neighbor's parcel, a common area or a community golf course (<a href=\"https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&amp;Search_String=&amp;URL=0700-0799/0720/Sections/0720.3045.html\" target=\"_blank\" rel=\"nofollow noopener\">Fla. Stat. 720.3045</a>).",
+        "State law also shields turf from local bans. Now that DEP has adopted its standard, the county can't prohibit compliant synthetic turf on a single-family property no larger than an acre (<a href=\"https://www.flsenate.gov/Laws/Statutes/2025/0125.572\" target=\"_blank\" rel=\"nofollow noopener\">Fla. Stat. 125.572</a>); the standard itself is in our <a href=\"/guides/florida-turf-infill-rules/\">Florida turf rules guide</a>."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Water",
+      "h2": "County water, and one day a week to use it.",
+      "paras": [
+        "The St. Johns County Utility Department supplies the water here (<a href=\"https://www.sjcfl.us/protect-our-water/\" target=\"_blank\" rel=\"nofollow noopener\">St. Johns County</a>). The Phase III shortage order, in force since mid-May 2026 across St. Johns and five other counties, allows lawns one day a week: Saturday for odd addresses, Sunday for even, only before 8 a.m. or after 6 p.m., and no more than 3/4 inch and an hour per zone (<a href=\"https://www.sjrwmd.com/wateringrestrictions/\" target=\"_blank\" rel=\"nofollow noopener\">SJRWMD</a>).",
+        "The order reaches private wells and pumps as well as county water. Drip lines and a hand-held hose are exempt, and the county's water page lists no rebate for artificial turf."
+      ]
     }
   ],
   "services": [
@@ -43,7 +72,24 @@
     "pet-turf"
   ],
   "servicesNote": "Compare a courtyard lawn, compact putting green or pet area with the care and access the property needs.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Butler Beach, FL?",
+      "a": "We install artificial turf, backyard putting greens and pet turf in Butler Beach, FL. There's no city hall here, only county code, so the approvals that matter come from condo documents and subdivision covenants. If you're away for months at a time, turf needs no watering day and no mowing while you're gone. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Is there golf in Butler Beach?",
+      "a": "There's no course here. The nearest are several miles north on Anastasia Island or across the Matanzas on the mainland, which is why a two-hole green at home gets used."
+    },
+    {
+      "q": "Do I need my condo association's approval?",
+      "a": "Check its documents first. With no city code in the way, condo rules and subdivision covenants are where most Butler Beach approvals start, so ask the association for its landscape rules in writing before you plan anything."
+    },
+    {
+      "q": "What's under a Butler Beach yard?",
+      "a": "We don't guess. On the free visit we check what's under your yard and plan the base for it, whether your lot sits near the dune or down by the river, and you approve the layout before any work starts."
+    }
+  ],
   "nearby": [
     "st-augustine-beach-fl",
     "anastasia-island-fl",

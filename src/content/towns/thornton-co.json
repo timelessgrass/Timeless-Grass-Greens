@@ -35,6 +35,35 @@
         "Thornton Water’s published 2026 program offers up to $2 per square foot for qualifying artificial-turf projects, with a $2,000 lifetime maximum per residential lot. Confirm account and project eligibility, including the existing surface being replaced, before including a payment in your budget. The application and permit steps come before installation.",
         "Bring the program conditions and any association response to the estimate. Ask which product documents are available for the selected system and what the rebate application requires, so eligibility and the installation scope are clear before you decide."
       ]
+    },
+    {
+      "icon": "file",
+      "kicker": "The rebate",
+      "h2": "Thornton pays up to $2 a square foot toward turf.",
+      "paras": [
+        "Thornton is the exception in the metro: its water utility pays toward artificial turf. The Water-Wise Landscape Rebate covers up to $2 a square foot on qualifying projects of 200 to 1,000 square feet, with a lifetime maximum of $2,000 per residential lot (<a href=\"https://www.thorntonwater.com/wp-content/uploads/2026/02/2026-residential_artificial_turf_info__rules-1.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Thornton Water</a>).",
+        "The turf has to replace thirsty lawn, such as Kentucky bluegrass, on an existing lot, or bare ground on a new-construction lot. Turf over an existing patio or side-yard concrete doesn't qualify.",
+        "The paperwork comes first. A Minor Development Permit is required before installation, and the product needs documentation that it's PFAS-free; 'PFC-free' isn't enough. Your custom layout is drawn to those rules before you approve it."
+      ]
+    },
+    {
+      "icon": "ruler",
+      "kicker": "The city's turf rules",
+      "h2": "No limit out back, 25% out front, and buffers.",
+      "paras": [
+        "The city's code allows artificial turf with no limit in rear yards and enclosed side yards. In front yards and unenclosed side yards it can't exceed 25% of the landscape area, and it needs living plants beside it: one tree equivalent for the first 750 square feet, and half of one for every 250 after that (<a href=\"https://www.thorntonwater.com/wp-content/uploads/2026/02/2026-residential_artificial_turf_info__rules-1.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Thornton Water</a>).",
+        "Buffers keep turf off the edges: 3 feet from property lines, 8 feet from the front wall of a building, 3 feet from other walls and hard surfaces outside the rear yard, and 3 feet from a deciduous tree's trunk, with nothing inside an evergreen's dripline. The buffers must be permeable, such as wood mulch or gravel no bigger than 2 inches.",
+        "The build is specified too: sod removed, at least 3 inches of compacted aggregate that holds half an inch of rain before it runs off, backing that drains at least 2 inches an hour, seams glued rather than sewn, and a product its maker covers against fading for at least 8 years. Indoor-outdoor carpet isn't allowed."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Stage 1",
+      "h2": "Two lawn days a week, and fines from $100.",
+      "paras": [
+        "Thornton's Stage 1 drought took effect on 15 March 2026, after the lowest snowpack in 20 years in the Upper South Platte and Clear Creek watersheds (<a href=\"https://www.thorntonwater.com/restrictions-drought/\" target=\"_blank\" rel=\"nofollow noopener\">Thornton Water</a>). Lawns are limited to two days a week and face a midday ban from 10 a.m. until 6 p.m., while trees, shrubs, flowers and vegetable gardens can be watered any day.",
+        "After a courtesy warning, fines start at $100 for homes, $250 for businesses and $1,000 for construction, and climb from there. Leaks get 10 days to be fixed. A rebated turf lawn comes off that schedule for good."
+      ]
     }
   ],
   "services": [
@@ -43,7 +72,24 @@
     "putting-greens"
   ],
   "servicesNote": "Compare a lawn, pet area or green after confirming the requirements for your Thornton project.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Thornton, CO?",
+      "a": "We install artificial turf, pet turf and backyard putting greens in Thornton, CO. Thornton Water is the rare provider that pays toward artificial turf, up to $2 a square foot with a $2,000 lifetime cap, if the job meets its rules: a Minor Development Permit first, PFAS-free turf, and turf on no more than 25% of the front landscape. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Do I need HOA approval for a Thornton rebate project?",
+      "a": "If your home has an HOA, yes: Thornton's rebate rules call for HOA approval where it applies (<a href=\"https://www.thorntonwater.com/hoa-rebates-and-free-services/\" target=\"_blank\" rel=\"nofollow noopener\">Thornton Water</a>). On a detached home, the HOA may regulate turf out back but not ban it outright (<a href=\"https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SB23-178</a>)."
+    },
+    {
+      "q": "Does Thornton's rebate cover a business or an HOA's common ground?",
+      "a": "No. Thornton's artificial turf rules and rebate cover single-family detached and attached homes (<a href=\"https://www.thorntonwater.com/wp-content/uploads/2026/02/2026-residential_artificial_turf_info__rules-1.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Thornton Water</a>). Business and HOA common landscapes also face the state's rule against new non-functional turf (<a href=\"https://content.leg.colorado.gov/sites/default/files/2024a_005_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SB24-005</a>, since amended by <a href=\"https://content.leg.colorado.gov/sites/default/files/2025a_1113_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">HB25-1113</a>)."
+    },
+    {
+      "q": "Where can a putting green go in a Thornton yard?",
+      "a": "Anywhere out back that keeps the buffers, since the city puts no limit on turf in rear yards (<a href=\"https://www.thorntonwater.com/wp-content/uploads/2026/02/2026-residential_artificial_turf_info__rules-1.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Thornton Water</a>). Thorncreek, the city-owned course on Washington Street, is there for the full game (<a href=\"https://www.thorntonco.gov/community-culture/thorncreek-golf-course\" target=\"_blank\" rel=\"nofollow noopener\">City of Thornton</a>)."
+    }
+  ],
   "nearby": [
     "northglenn-co",
     "westminster-co",

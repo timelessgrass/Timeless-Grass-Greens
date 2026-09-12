@@ -35,6 +35,35 @@
         "Confirm the property jurisdiction before asking about grading or landscape requirements. For a visible change at a historic property, ask the City whether design review applies. For an association property, get its current requirements separately.",
         "Use the provider on the water bill for cost and incentive questions. Bring confirmed conditions to the estimate so the installation scope reflects the actual property, not a rule inferred from the postal name."
       ]
+    },
+    {
+      "icon": "pin",
+      "kicker": "Which Littleton",
+      "h2": "A Littleton address doesn't always mean the City of Littleton.",
+      "paras": [
+        "The Littleton mailing address covers far more ground than the city. The 80120 core is the city itself, with its old downtown and 1950s ranches on flat terrace lots. Ken Caryl, in 80127, is a separate community in Jefferson County under the Ken-Caryl Ranch Master Association (<a href=\"https://en.wikipedia.org/wiki/Ken_Caryl,_Colorado\" target=\"_blank\" rel=\"nofollow noopener\">Wikipedia</a>). Roxborough and Sterling Ranch use 80125, and Columbine Valley, around its country club, uses 80123.",
+        "Each one is a different yard under different rules. Inside the city limits, Denver Water sets the watering calendar and the city sets the code. In Ken Caryl the master association's architectural controls come first, and the ground climbs toward the hogback. So the first thing to settle is which Littleton your address is really in."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Water",
+      "h2": "Inside the city, grass watering stops on 1 October.",
+      "paras": [
+        "The city puts it plainly: all City of Littleton residents are served by Denver Water (<a href=\"https://www.littletonco.gov/Government/City-Services/Utilities\" target=\"_blank\" rel=\"nofollow noopener\">City of Littleton</a>). That puts you under Denver Water's Stage 1 drought, declared on 25 March 2026 and running to 30 April 2027, with every customer asked to cut total use by at least 20%.",
+        "Lawns get two assigned days a week until 30 September, with nothing between 10 a.m. and 6 p.m. From 1 October 2026, grass may not be watered and spray systems must stay off; only trees and shrubs can be hand-watered, with a shutoff nozzle (<a href=\"https://www.denverwater.org/residential/rebates-and-conservation-tips/summer-watering-rules\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>).",
+        "The city promotes Resource Central's lawn replacement program and a Garden In A Box discount, both built around living, low-water plants (<a href=\"https://www.littletonco.gov/Community/Sustainability/Residential-Programs\" target=\"_blank\" rel=\"nofollow noopener\">City of Littleton</a>), and Denver Water's turfgrass removal discount says outright that artificial turf is not allowed (<a href=\"https://www.denverwater.org/tap/ditching-useless-turf-coloradoscape-we-can-help\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>). The rebate pays for plants. Turf is what stays green through the ban."
+      ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "The ground",
+      "h2": "River gravel, shale clay and the hogback, all under one name.",
+      "paras": [
+        "Along the South Platte and the old ditches, the soil is deep alluvium and gravelly terrace that generally drains well, though the water table runs high near the river, Chatfield Reservoir and the chain of lakes beside it.",
+        "Away from the river, smectitic clay loams sit over Denver, Dawson and Pierre Shale bedrock. The Colorado Geological Survey treats this as core swelling-soil country: clay that takes on water can exert up to 30,000 pounds of pressure on each square foot, enough to split a driveway or a basement floor (<a href=\"https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/\" target=\"_blank\" rel=\"nofollow noopener\">Colorado Geological Survey</a>).",
+        "Toward Ken Caryl and Roxborough you reach the hogback, sedimentary beds pushed up around 70 million years ago and now steeply tilted. A flat terrace lot in old Littleton and a hogback-side lot in Ken Caryl are different builds, and we plan the base for the one you have."
+      ]
     }
   ],
   "services": [
@@ -43,7 +72,28 @@
     "putting-greens"
   ],
   "servicesNote": "Compare a lawn, pet area or backyard green for your particular Littleton address.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Littleton, CO?",
+      "a": "We install artificial turf, pet turf and backyard putting greens in Littleton, CO. First we work out which Littleton you're in: inside the city limits every home is on Denver Water, whose drought rules stop grass watering from 1 October 2026, while Ken Caryl, Roxborough and Columbine Valley addresses have their own districts. The ground varies just as much. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Is every Littleton address on Denver Water?",
+      "a": "Every address inside the City of Littleton is (<a href=\"https://www.littletonco.gov/Government/City-Services/Utilities\" target=\"_blank\" rel=\"nofollow noopener\">City of Littleton</a>). Ken Caryl, Roxborough and Columbine Valley carry Littleton mailing addresses but have their own water districts, so look at who sends your bill."
+    },
+    {
+      "q": "Is lawn watering allowed in Littleton in October?",
+      "a": "Not inside the city. Denver Water's Stage 1 rules prohibit watering grass and running spray irrigation from 1 October 2026, and Stage 1 itself runs to 30 April 2027 (<a href=\"https://www.denverwater.org/residential/rebates-and-conservation-tips/summer-watering-rules\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>). Turf skips all of that."
+    },
+    {
+      "q": "Will Littleton's lawn replacement rebate pay for artificial turf?",
+      "a": "No. The lawn replacement and Garden In A Box programs the city promotes pay for living, water-wise plants (<a href=\"https://www.littletonco.gov/Community/Sustainability/Residential-Programs\" target=\"_blank\" rel=\"nofollow noopener\">City of Littleton</a>). Denver Water's own discount excludes artificial turf by name (<a href=\"https://www.denverwater.org/tap/ditching-useless-turf-coloradoscape-we-can-help\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>)."
+    },
+    {
+      "q": "Does the Ken-Caryl Ranch Master Association get a say over my turf?",
+      "a": "Yes, through its covenants and architectural controls. State law won't let an association ban nonvegetative turf outright behind a detached house (<a href=\"https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SB23-178</a>), but the front yard and the design details stay with the association. Put the plan to the association on paper and keep its reply."
+    }
+  ],
   "nearby": [
     "columbine-valley-co",
     "englewood-co",

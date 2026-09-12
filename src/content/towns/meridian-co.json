@@ -35,6 +35,36 @@
         "Meridian has separate covenant sets for its different areas. Ask the Design Control Committee which apply to the parcel and what the proposal must include. Describe the actual activity; naming a product as recreational does not settle how the project is classified.",
         "For a rooftop, pool or podium setting, involve the building’s responsible professional for loading, waterproofing and drainage. Keep those requirements and any unresolved decisions visible in the estimate."
       ]
+    },
+    {
+      "icon": "shield",
+      "kicker": "The local rules",
+      "h2": "Every Meridian parcel answers to the Design Control Committee first.",
+      "paras": [
+        "Meridian's protective covenants apply to all land in Meridian, whoever holds it, and stand apart from local zoning. Any plan to build, change or demolish improvements, maintenance work and changes of use included, needs the Design Control Committee's approval before work begins, and the DCC inspects sites during and after the work (<a href=\"https://www.meridiandistrict.com/design-control-committee\" target=\"_blank\" rel=\"nofollow noopener\">Meridian Metropolitan District</a>).",
+        "The covenants come in separate sets for Meridian International Business Center, Meridian North, Meridian Commons and Meridian Village. Find the set that covers your parcel, and have the DCC's approval of the turf layout in hand before the ground is touched.",
+        "Colorado's turf law sits on top. Since the start of 2026, the state has barred local entities, metropolitan districts among them, from allowing non-functional turf when commercial, institutional or common-interest property is newly developed or redeveloped (<a href=\"https://content.leg.colorado.gov/sites/default/files/2024a_005_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SB24-005</a>, <a href=\"https://content.leg.colorado.gov/sites/default/files/2025a_1113_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">HB25-1113</a>). Putting greens, play areas and sports fields are functional under the law. For anything else, settle how your project is classed before you design it; <a href=\"/guides/colorado-turf-law/\">the functional and non-functional definitions</a> are in our guide."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Water",
+      "h2": "Three watering days, reclaimed water on the golf course, and no drought stage.",
+      "paras": [
+        "Meridian Metropolitan District, created in 1980, supplies drinking water, wastewater service and reclaimed water for irrigation (<a href=\"https://www.meridiandistrict.com/\" target=\"_blank\" rel=\"nofollow noopener\">Meridian Metropolitan District</a>). As of September 2026 it has declared no drought stage: its main supply is groundwater that it says remains reliable, it belongs to the WISE partnership, and it holds two emergency interconnects with neighboring utilities.",
+        "Its 2026 summer rules: no irrigating before May 1, watering only in the hours before 6 a.m. and after 6 p.m., and three assigned days a week set by whether your address ends in an even or an odd number (<a href=\"https://www.meridiandistrict.com/summer-watering-guide\" target=\"_blank\" rel=\"nofollow noopener\">Meridian Metropolitan District</a>). The district says it reuses 100% of its water, with treated effluent irrigating parks and open space.",
+        "So in Meridian, turf isn't about beating a drought order. It's about surfaces that take heavy use, deep shade and dogs without being torn up and re-sodded."
+      ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "The ground",
+      "h2": "Rolling grassland, now courtyards, dog runs and podium decks.",
+      "paras": [
+        "Meridian sits at 5,932 feet on what was naturally rolling hills and grassland, along I-25 between Inverness Parkway and Lincoln Avenue (<a href=\"https://en.wikipedia.org/wiki/Meridian,_Colorado\" target=\"_blank\" rel=\"nofollow noopener\">Meridian</a>). Its plains soils come from the Dawson Formation, and the Colorado Geological Survey counts swelling clay as a Front Range hazard, warning that irrigation water soaking in beside a foundation is one way landscaping causes damage (<a href=\"https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/\" target=\"_blank\" rel=\"nofollow noopener\">Colorado Geological Survey</a>).",
+        "The site work here is commercial: compacted subgrade around buildings, amenity lawns that take heavy foot traffic, north-facing courtyards where grass never fills in, and pet areas where drainage and odor decide whether the surface works. We prepare each area and build its base to move water away from the buildings, then the turf is laid, seamed and edged.",
+        "Pool decks, rooftops and podium decks bring their own weight and drainage limits, so those start with the building's engineer."
+      ]
     }
   ],
   "services": [
@@ -43,7 +73,24 @@
     "putting-greens"
   ],
   "servicesNote": "Discuss commercial, pet-area or putting-green turf according to how the property will use and maintain it.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Meridian, CO?",
+      "a": "We install commercial turf, pet turf and putting greens in Meridian, CO. Every parcel here answers to the Design Control Committee, which approves plans before work begins, and Meridian Metropolitan District's 2026 rules allow three watering days a week with no drought stage declared. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Can an apartment community in Meridian put turf in a dog run?",
+      "a": "Check before you design it. HB25-1113 brought multifamily housing with more than twelve units back into the reach of Colorado's turf law, and whether a pet area counts as functional turns on the statute's definitions (<a href=\"https://content.leg.colorado.gov/sites/default/files/2025a_1113_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">HB25-1113</a>). The date that rule starts for larger communities is disputed, so ask which one applies. The DCC's approval comes on top."
+    },
+    {
+      "q": "Can I irrigate my home lawn with Meridian's reclaimed water?",
+      "a": "No. Meridian Metropolitan District's reclaimed water goes to the golf course, commercial properties, parks and common areas, and it isn't delivered to residential customers (<a href=\"https://www.meridiandistrict.com/faqs\" target=\"_blank\" rel=\"nofollow noopener\">Meridian Metropolitan District</a>)."
+    },
+    {
+      "q": "Does Meridian's water district pay anything toward turf?",
+      "a": "No. The district offers no turf rebate, and Colorado's turf-replacement grant program, which paid only for living landscape, stopped accepting applications in March 2025 (<a href=\"https://cwcb.colorado.gov/turf-replacement-program\" target=\"_blank\" rel=\"nofollow noopener\">CWCB</a>)."
+    }
+  ],
   "nearby": [
     "inverness-co",
     "lone-tree-co",

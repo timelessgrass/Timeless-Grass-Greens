@@ -95,7 +95,7 @@ for (const file of files) {
   for (const k of ['title', 'description', 'h1', 'lede', 'checked']) need(typeof d[k] === 'string' && d[k].trim(), `missing ${k}`);
   need(d.answer?.question && d.answer?.answer, 'missing answer.question or answer.answer');
   need(Array.isArray(d.wins) && d.wins.length === 3, `wins must be exactly 3 (has ${d.wins?.length ?? 0})`);
-  need(Array.isArray(d.blocks) && d.blocks.length >= 1 && d.blocks.length <= 4, `blocks must be 1–4 (has ${d.blocks?.length ?? 0})`);
+  need(Array.isArray(d.blocks) && d.blocks.length >= 1 && d.blocks.length <= 5, `blocks must be 1–5 (has ${d.blocks?.length ?? 0})`);
   for (const b of d.blocks || []) {
     need(ICONS.has(b.icon), `block icon "${b.icon}" doesn't exist`);
     need(b.kicker && b.h2 && Array.isArray(b.paras) && b.paras.length, `block "${b.h2 || b.kicker}" is missing its kicker, h2 or paras`);

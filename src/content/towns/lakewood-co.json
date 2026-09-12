@@ -35,6 +35,35 @@
         "Lakewood has several water providers, so use the name and usage on your bill when comparing costs. Verify any incentive directly before treating it as part of the installation budget.",
         "Bring applicable City and association requirements, including for front-yard or grading changes. Ask for preparation and drainage work to be clear in the quote; the quote should identify the preparation proposed for your yard."
       ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Three water providers",
+      "h2": "First, find out who sends your water bill.",
+      "paras": [
+        "Lakewood has no single water utility. Depending on your street, the bill comes from Denver Water, from Consolidated Mutual Water Company, or from Green Mountain Water and Sanitation District, which buys its water from Denver Water. In 2026 all three are in drought, each on its own calendar.",
+        "Denver Water's Stage 1 rules give even addresses Sunday and Thursday and odd addresses Wednesday and Saturday, with watering limited to before 10 a.m. and after 6 p.m. Drought pricing on outdoor use lasts until 30 April 2027, and leaks must be fixed within 10 days (<a href=\"https://www.denverwater.org/residential/rebates-and-conservation-tips/summer-watering-rules\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>).",
+        "Green Mountain passes Denver Water's drought surcharge straight through to its Lakewood customers and asks for a 20% cut (<a href=\"https://www.greenmountainwater.org/\" target=\"_blank\" rel=\"nofollow noopener\">Green Mountain Water and Sanitation District</a>). Consolidated Mutual, based in Lakewood, cites moderate to severe drought, with snowpack and reservoirs well below normal (<a href=\"https://www.cmwc.net/\" target=\"_blank\" rel=\"nofollow noopener\">Consolidated Mutual</a>). Artificial turf needs no irrigation for growth, but cleaning and occasional cooling can still use water."
+      ]
+    },
+    {
+      "icon": "home",
+      "kicker": "Your HOA",
+      "h2": "The back yard is protected; the front is your HOA's call.",
+      "paras": [
+        "State law puts three limits on Lakewood HOAs for a detached home: no ban on nonvegetative turf out back, no unreasonable demand for hardscape across more than 20% of the landscaping, and a duty to preapprove at least three water-wise front-yard designs (<a href=\"https://codes.findlaw.com/co/title-38-property-real-and-personal/co-rev-st-sect-38-33-3-106-5.html\" target=\"_blank\" rel=\"nofollow noopener\">C.R.S. 38-33.3-106.5</a>, as amended by <a href=\"https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SB23-178</a>). That protection stops at the back yard, and it doesn't cover townhomes or condos.",
+        "How much it matters depends on where you live. HOAs are rare among the post-war homes on the east side and common in the newer Solterra and Rooney Valley band, so out west, get your board's written sign-off before the crew arrives."
+      ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "Hogback to Bear Creek",
+      "h2": "Slope on the west side, shade on the east.",
+      "paras": [
+        "Expansive clay is a regional hazard described by the Colorado Geological Survey; its regional findings do not identify the soil or required preparation at every Lakewood property (<a href=\"https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/\" target=\"_blank\" rel=\"nofollow noopener\">Colorado Geological Survey</a>).",
+        "Out west, against the hogback and Green Mountain, dipping bedrock adds movement, and many 1970s and 80s split-levels sit on real cross-slope. There, drainage and base depth decide how a lawn holds up, and the base has to carry water off the slope rather than toward the house.",
+        "The east side, along Bear Creek and Weir Gulch, is flatter alluvial ground, and the 1950s and 60s ranches around Belmar and Alameda sit under heavy, mature shade. Turf there needs no sun, and the work goes carefully around the roots of the trees you want to keep."
+      ]
     }
   ],
   "services": [
@@ -43,7 +72,28 @@
     "putting-greens"
   ],
   "servicesNote": "Choose a lawn, pet area or green with its layout, care and preparation considered together.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Lakewood, CO?",
+      "a": "We install artificial lawns, pet turf and backyard putting greens in Lakewood, CO. Start with a free visit, turf options, a custom layout and written price. Check the water provider and property requirements for your address before relying on a rebate or approval assumption."
+    },
+    {
+      "q": "Will Denver Water pay toward turf in Lakewood?",
+      "a": "No. Its discount for taking out turfgrass requires a plan for the new water-wise landscape and says, in the same breath, that artificial turf isn't allowed (<a href=\"https://www.denverwater.org/tap/ditching-useless-turf-coloradoscape-we-can-help\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>). Its other programs, from ColoradoScape to Garden In A Box, pay for plants as well (<a href=\"https://www.denverwater.org/residential/rebates-and-conservation-tips\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>)."
+    },
+    {
+      "q": "When does lawn watering end for the season in Lakewood?",
+      "a": "It depends on your provider. Denver Water's sprinkler season for lawns closes after 30 September 2026, though hand-watering and drip for trees and plants can go on (<a href=\"https://www.denverwater.org/residential/rebates-and-conservation-tips/summer-watering-rules\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>). Consolidated Mutual's allowed irrigation ends on 1 October 2026 (<a href=\"https://www.cmwc.net/\" target=\"_blank\" rel=\"nofollow noopener\">Consolidated Mutual</a>)."
+    },
+    {
+      "q": "Can a Lakewood business or HOA common area use artificial turf?",
+      "a": "Not as new decorative lawn. When a business, an institution or an HOA puts in a new common landscape, the state now stops local governments approving turf that has no function (<a href=\"https://leg.colorado.gov/bills/sb24-005\" target=\"_blank\" rel=\"nofollow noopener\">SB24-005</a>; <a href=\"https://content.leg.colorado.gov/sites/default/files/2025a_1113_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">HB25-1113</a>). Sports fields are exempt."
+    },
+    {
+      "q": "Does the City of Lakewood have its own turf rules?",
+      "a": "Ask before you build. Lakewood sets zoning by district, and the city's Development Review team can tell you whether anything applies to turf on your lot. Get that answer in writing, then finalize the layout."
+    }
+  ],
   "nearby": [
     "wheat-ridge-co",
     "edgewater-co",

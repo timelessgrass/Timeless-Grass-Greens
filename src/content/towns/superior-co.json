@@ -35,6 +35,35 @@
         "In Rock Creek or another association property, obtain the current requirements before choosing a final product. For a Downtown Superior townhome or flat, confirm who controls the courtyard or terrace and any building conditions that apply.",
         "Show us any site reports, wet spots and grade changes. Ask for preparation and unresolved conditions to be clear in the estimate. Turf installation does not correct subsidence or establish compliance with fire-related landscape requirements."
       ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "Rebuild ground",
+      "h2": "Ground that's been scraped, driven on and built over.",
+      "paras": [
+        "The Marshall Fire destroyed 398 structures in Superior on 30 December 2021, 393 of them homes, and Sagamore was lost entirely (<a href=\"https://en.wikipedia.org/wiki/Marshall_Fire\" target=\"_blank\" rel=\"nofollow noopener\">Wikipedia</a>). Many of those lots now carry new houses on ground that was scraped bare, compacted by construction traffic and often left with debris buried in it.",
+        "That's hard ground for builder sod, and much of it is already thinning. A turf lawn starts by digging it out: excavating to a proper depth, clearing what's buried, and building a base that drains away from the new foundation instead of toward it.",
+        "Beneath the fill lie Laramie Formation clays on Pierre Shale: heavy, swelling, slow to shed water and on the move with the seasons. The town is also built over part of the Boulder-Weld coal field, and the state's geological survey maps the undermined ground and warns that the old mining records can't predict subsidence with certainty (<a href=\"https://coloradogeologicalsurvey.org/hazards/subsidence/coal-mine-subsidence/\" target=\"_blank\" rel=\"nofollow noopener\">Colorado Geological Survey</a>)."
+      ]
+    },
+    {
+      "icon": "home",
+      "kicker": "Rock Creek and the HOA",
+      "h2": "Rock Creek's HOA can't keep turf out of a detached home's back yard.",
+      "paras": [
+        "Nearly all of Superior sits under an HOA, most of it the Rock Creek Master HOA (<a href=\"https://www.rockcreekhoa.com/\" target=\"_blank\" rel=\"nofollow noopener\">Rock Creek HOA</a>). Colorado took the backyard ban off the table for detached homes in 2023, when it barred association guidelines from outlawing nonvegetative turf out back (<a href=\"https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SB23-178</a>).",
+        "The protection has limits. It doesn't reach townhomes, duplexes or condos, which make up a real share of Rock Creek, and the front yard remains the association's to decide, so have the HOA sign off on your plan in writing before any digging.",
+        "Rock Creek was built from 1987 on, so many of its lawns are 30-year-old bluegrass on 30-year-old sprinklers. Those yards are due the same fresh start as the rebuilt ones."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Water",
+      "h2": "No mandatory limits right now, and no turf rebate.",
+      "paras": [
+        "Superior is at Drought Stage 0 as of September 2026: voluntary restrictions began on 30 March 2026 and were lifted on 30 April (<a href=\"https://www.superiorcolorado.gov/Community/News/Voluntary-Water-Restrictions\" target=\"_blank\" rel=\"nofollow noopener\">Town of Superior</a>). The Town still asks you to water only in the morning until 10 and in the evening from 6, and to go easy on the sprinklers. It adopted a Drought Mitigation Plan on 22 June and says it may bring in further or mandatory limits (<a href=\"https://www.superiorcolorado.gov/Transparency/Drought-Mitigation\" target=\"_blank\" rel=\"nofollow noopener\">Town of Superior</a>).",
+        "Its Water Efficiency Rebate Program covers fixtures and irrigation hardware such as sprinkler nozzles, smart controllers and drip parts, not turf (<a href=\"https://www.superiorcolorado.gov/Government/Departments/Sustainability/Sustainable-Water/Water-Efficiency-Rebate-Program\" target=\"_blank\" rel=\"nofollow noopener\">Town of Superior</a>). So in Superior, turf is about a yard built once, not a water emergency."
+      ]
     }
   ],
   "services": [
@@ -43,7 +72,24 @@
     "pet-turf"
   ],
   "servicesNote": "Compare a lawn, pet area or green as part of the landscape you want around your home.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Superior, CO?",
+      "a": "We install artificial turf, putting greens and pet turf in Superior, CO. Many Superior lots were scraped bare after the 2021 Marshall Fire and rebuilt on compacted ground where builder sod struggles, so we dig out and build a base that drains away from the new foundation. The Town's water rebates cover fixtures and irrigation parts, not turf. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Can the Town or an HOA lay turf on athletic fields and common areas?",
+      "a": "Athletic fields, yes; decorative common areas, no. Since 1 January 2026, local governments may not approve non-functional turf for a new HOA common area or a new business or institutional site, and fields of play are left out of the ban (<a href=\"https://content.leg.colorado.gov/sites/default/files/2024a_005_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SB24-005</a> and <a href=\"https://content.leg.colorado.gov/sites/default/files/2025a_1113_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">HB25-1113</a>). The Town runs its own athletic fields and courts (<a href=\"https://www.superiorcolorado.gov/Community/Recreation/Athletic-Fields-Courts\" target=\"_blank\" rel=\"nofollow noopener\">Town of Superior</a>)."
+    },
+    {
+      "q": "What about a townhome or flat in Downtown Superior?",
+      "a": "Downtown's flats and townhomes have little or no private yard, so turf there means a courtyard or a balcony. The state's backyard protection covers detached homes only (<a href=\"https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SB23-178</a>), so check your association's rules first."
+    },
+    {
+      "q": "Is Original Town different?",
+      "a": "It was the old coal-town core, and only seven of its historic homes survived the fire. Rebuilt lots there are small and irregular, which suits a compact lawn or a green drawn to fit the lot's odd corners."
+    }
+  ],
   "nearby": [
     "louisville-co",
     "boulder-co",

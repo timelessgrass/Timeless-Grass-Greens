@@ -34,6 +34,35 @@
         "For a manufactured home, preserve the necessary access to skirting, tie-downs and services. On a septic-served lot, locate system components and obtain appropriate guidance before nearby excavation or compaction. Do not assume every open patch is available for a base.",
         "Show us roadside ditches, runoff from slabs and any wet areas. Confirm applicable Nassau County and property requirements, especially for a larger parcel. The estimate should identify the proposed surface work and unresolved drainage concerns separately."
       ]
+    },
+    {
+      "icon": "layout",
+      "kicker": "Big lots",
+      "h2": "On half an acre or more, turf the part you actually use.",
+      "paras": [
+        "Many homes here sit on lots from half an acre to several acres, with room for workshops, RV parking and gardens (<a href=\"https://bestrealtorjacksonville.com/neighborhoods/nassau-village-ratliff\" target=\"_blank\" rel=\"nofollow noopener\">a local neighborhood guide</a>). Nobody waters all of that, so what grows on it is mowed sand and weeds, with sandspurs, pine straw and fire ants to go with them.",
+        "So turf the zones instead: a dog run beside the carport, a play area that stays usable in July, a clean pad at the back steps, a surround for the RV slab, or a small chipping green. We draw each zone to fit your yard, nothing starts until you've signed off the layout, and the rest of the lot stays as it is.",
+        "Shade decides where some of those zones go. Pine and scrub oak thin any grass on the north side of a house, and turf doesn't care how much sun it gets."
+      ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "The ground",
+      "h2": "Flat flatwoods sand, a hardpan below, and the water table close.",
+      "paras": [
+        "The community covers 14.68 square miles of flat, sandy pine flatwoods (<a href=\"https://en.wikipedia.org/wiki/Nassau_Village-Ratliff,_Florida\" target=\"_blank\" rel=\"nofollow noopener\">Wikipedia</a>). Much of it is Leon fine sand and its relatives: deep, acid sand that takes water fast at the surface, over a slower, organic-stained hardpan (<a href=\"https://soilseries.sc.egov.usda.gov/OSD_Docs/L/LEON.html\" target=\"_blank\" rel=\"nofollow noopener\">USDA</a>).",
+        "In the wet season the water table commonly sits half a foot to a foot and a half down, and within a foot in the wettest ground. Drainage runs to roadside ditches and swales rather than pipes, and carport and RV slabs send sheets of water across the yard when it rains.",
+        "Around a manufactured home the ground is uneven, often under-drained, and inclined to wash out along the skirting. A septic drainfield sits somewhere on every lot and has to be found before anyone digs. The free visit is when we find all of that, and the base gets built for the ground you have."
+      ]
+    },
+    {
+      "icon": "shield",
+      "kicker": "County rules",
+      "h2": "No town hall and no HOA: Nassau County's code is the rulebook.",
+      "paras": [
+        "Nassau Village-Ratliff is unincorporated, with no HOA and no CDD, so the county's Land Development Code applies. Its landscaping section says synthetic trees, shrubs, groundcovers or vines are not acceptable substitutes (<a href=\"http://nassaucounty-fl.elaws.us/code/coor_apxa_florida_art37_sec37.05\" target=\"_blank\" rel=\"nofollow noopener\">Nassau County code, Sec. 37.05</a>). That line governs required landscaping on plans the county has to approve, such as commercial, multi-family and subdivision work. It doesn't stop turf in your own yard.",
+        "Out here, the rules that shape the work are the setbacks around the septic system and the well, and the tie-downs on a manufactured home. Plan the zones around those first and the turf fits in after."
+      ]
     }
   ],
   "services": [
@@ -42,7 +71,28 @@
     "putting-greens"
   ],
   "servicesNote": "Compare a focused lawn, pet area or practice green near the parts of the property you use most.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Nassau Village-Ratliff, FL?",
+      "a": "We install artificial turf, pet turf and backyard putting greens in Nassau Village-Ratliff, FL. On lots of half an acre and more, you don't need to cover everything: a dog run, a play area or a pad by the back steps does the job. Private wells fall under the same one-day watering order as utility water. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Does Nassau County's landscaping code ask anything of my yard?",
+      "a": "Its residential tree rule asks for one tree per 3,000 square feet for the first quarter acre and one per quarter acre after that, and existing canopy trees, sabal palms and pines all count (<a href=\"http://nassaucounty-fl.elaws.us/code/coor_apxa_florida_art37_sec37.05\" target=\"_blank\" rel=\"nofollow noopener\">Nassau County code, Sec. 37.05</a>). On lots this wooded it's usually met already, and turf zones don't change it."
+    },
+    {
+      "q": "Does Florida's turf law cover a lot bigger than an acre?",
+      "a": "No. Fla. Stat. 125.572 protects compliant turf on single-family property of one acre or less, and since the state standard took effect on 19 May 2026 a county can't ban it there (<a href=\"https://www.flsenate.gov/Laws/Statutes/2025/0125.572\" target=\"_blank\" rel=\"nofollow noopener\">section 125.572</a>). Many parcels here are larger, but Nassau County's code has no residential ban either. Our guide covers <a href=\"/guides/florida-turf-infill-rules/\">what the state standard asks for</a>."
+    },
+    {
+      "q": "Is reclaimed water an option in Nassau Village-Ratliff?",
+      "a": "Not here. Reclaimed water sits outside the one-day schedule where it's available, but it doesn't reach this area, so wells and utility water both follow the order (<a href=\"https://www.sjrwmd.com/wateringrestrictions/\" target=\"_blank\" rel=\"nofollow noopener\">St. Johns River Water Management District</a>)."
+    },
+    {
+      "q": "Is there a golf course near Nassau Village-Ratliff?",
+      "a": "Not in the community, and not close. The nearest courses are out on Amelia Island and along SR 200, a drive to the northeast. A compact chipping and putting green by the house puts practice a few steps away."
+    }
+  ],
   "nearby": [
     "jacksonville-fl",
     "baldwin-fl",

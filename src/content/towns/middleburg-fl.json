@@ -35,6 +35,36 @@
         "Show creek-side, low or eroded areas and any existing flood or drainage information. The usable playing grade and the route for water need to be considered together; turf is not a flood-control or structural-ground solution.",
         "Middleburg includes properties with different community and overlay conditions. Check the parcel rather than assuming rural land has no review. Keep required planting, protected trees and septic access in the plan before the installation is priced."
       ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Wells count",
+      "h2": "On a well, the watering days still apply.",
+      "paras": [
+        "A lot of rural Middleburg waters from private wells, and it's easy to assume the rules stop at the utility meter. They don't. Clay County's irrigation ordinance applies to each person located within the county, Sec. 18.5-77, private wells and pumps included (<a href=\"https://library.municode.com/fl/clay_county/codes/code_of_ordinances\" target=\"_blank\" rel=\"nofollow noopener\">Clay County code</a>).",
+        "Right now that means the Phase III shortage order in force since 11 May 2026: one day a week, Saturday for odd or unnumbered addresses and Sunday for even, no sprinklers from 8 a.m. through 6 p.m., three-quarters of an inch and an hour per zone at most (<a href=\"https://clayutility.org/phase-iii-water-shortage-restrictions-now-in-effect/\" target=\"_blank\" rel=\"nofollow noopener\">Clay County Utility Authority</a>). The utility's headquarters is on Old Jennings Road, here in Middleburg.",
+        "Get it wrong and Sec. 18.5-79 applies: a first violation is a category 2 civil infraction and later ones category 10, with up to $500 if you contest and lose, and every day counts as a separate offense. Officials give one written warning at most."
+      ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "The ground",
+      "h2": "Quartz sand that drains fast and holds almost nothing.",
+      "paras": [
+        "In central Middleburg the USDA maps Ortega fine sand, 85% of the map unit: moderately well drained, no flooding, no ponding, and the water table stays at least 4.3 feet down (<a href=\"https://sdmdataaccess.sc.egov.usda.gov/\" target=\"_blank\" rel=\"nofollow noopener\">USDA Soil Data Access</a>). Its class, Quartzipsamments, means clean quartz sand with almost no clay or organic matter to hold water.",
+        "That's why St. Augustine and Bahia go straw-colored between waterings here, and why one day a week is so hard on them. For turf the same sand is an easy start: water goes straight down through it, and a base built for that soil keeps the surface even.",
+        "The Black Creek ravines are the exception. Around the Black Creek Ravines Conservation Area, and where the North Fork runs past the historic district on Main Street, lots have real slope, erosion and shade, and they take more care to build on."
+      ]
+    },
+    {
+      "icon": "layout",
+      "kicker": "Who has a say",
+      "h2": "Acreage with no HOA, subdivisions with covenants, and Lake Asbury in between.",
+      "paras": [
+        "Middleburg is unincorporated: no town council, no town ordinance and no town architectural board. Clay County's code governs, and nothing in it prohibits artificial turf. Outside the platted subdivisions most of Middleburg has no HOA at all, so wooded acreage along Blanding Boulevard, CR 218 and CR 220 has no board to ask before a dog run, a green or a full lawn goes in.",
+        "Inside The Ravines, Ridaught Landing and the Lake Asbury communities, read your covenants before you plan. The Greater Lake Asbury District is also one of two places where the county's landscaping article reaches homes, under Sec. 18.5-51, so a house there has landscape obligations a house on CR 218 doesn't.",
+        "State law sets a floor under all of it. Since 19 May 2026, Clay County can't prohibit turf built to the state's standard at a house on an acre or less (<a href=\"https://www.flrules.org/gateway/ruleNo.asp?id=62-308.100\" target=\"_blank\" rel=\"nofollow noopener\">DEP Rule 62-308.100</a>); our <a href=\"/guides/florida-turf-infill-rules/\">guide to the state standard</a> covers what it asks for."
+      ]
     }
   ],
   "services": [
@@ -43,7 +73,24 @@
     "putting-greens"
   ],
   "servicesNote": "Compare a lawn, dog area or green as a purposeful part of the property.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Middleburg, FL?",
+      "a": "We install artificial turf, pet turf and backyard putting greens in Middleburg, FL. Clay County's watering rules cover private wells as well as utility water, and under the 2026 shortage order that means one day a week. In central Middleburg the soil is Ortega fine sand, clean quartz that holds almost no water between waterings. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Can I get a water district rebate for turf in Middleburg?",
+      "a": "No. The St. Johns River Water Management District's cost-share program, launched in October 2024, covers items such as Florida Water Star certification, WaterSense smart controllers, irrigation conversions and evaluations, and it's open to local governments, small utilities, HOAs and multi-family properties rather than single-family homes (<a href=\"https://www.greencovesprings.com/448/Water-Conservation\" target=\"_blank\" rel=\"nofollow noopener\">Green Cove Springs</a>). Artificial turf isn't an eligible item."
+    },
+    {
+      "q": "What is Clay County's normal watering schedule?",
+      "a": "Outside a shortage order, Sec. 18.5-73 allows two days a week in daylight saving time: Wednesday and Saturday for odd addresses, Thursday and Sunday for even, and Tuesday and Friday for nonresidential. In Eastern Standard Time it drops to one day (<a href=\"https://library.municode.com/fl/clay_county/codes/code_of_ordinances\" target=\"_blank\" rel=\"nofollow noopener\">Clay County code</a>)."
+    },
+    {
+      "q": "Can commercial turf count toward Clay County's required landscaping?",
+      "a": "Plan on no. On a commercial site the county wants screening and internal landscaping to total at least 10 percent of the developed area, Sec. 18.5-54, it defines ground cover as low-growing plants, and it wants landscaped areas irrigated or near a ready water supply (<a href=\"https://library.municode.com/fl/clay_county/codes/code_of_ordinances\" target=\"_blank\" rel=\"nofollow noopener\">Clay County code</a>). Treat turf as extra amenity space on top of that minimum."
+    }
+  ],
   "nearby": [
     "asbury-lake-lake-asbury-fl",
     "oakleaf-plantation-fl",

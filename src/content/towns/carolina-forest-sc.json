@@ -35,6 +35,24 @@
         "If the area sits beside a pond, ditch or drain, bring the property plan if you have it. Mark drainage features and any shared access before choosing the turf boundary.",
         "For a property with an association, check its requirements for the proposed change. Ask Horry County about any grading or drainage work that accompanies the installation. Having those answers early helps avoid redesigning a layout around an overlooked restriction."
       ]
+    },
+    {
+      "icon": "layout",
+      "kicker": "Your layout",
+      "h2": "Keep the parts of the yard you already use.",
+      "paras": [
+        "Start with the route from the house, the seating area and the space you want for pets or putting. The turf can be one part of the yard, with planting beds and paths kept in the layout. For a green, think about the putts you want to practice and whether you want a fringe for chipping.",
+        "If the proposed area is near a pond, ditch or drain, bring the property plan if you have it. <a href=\"https://horrycountysc.gov/departments/stormwater/hoa/\" target=\"_blank\" rel=\"nofollow noopener\">Horry County’s homeowner guidance</a> explains why planned drainage routes and access to drainage systems need to be kept clear. Mark those features before choosing the turf boundary."
+      ]
+    },
+    {
+      "icon": "shield",
+      "kicker": "Before installation",
+      "h2": "Check the county requirements and your community documents.",
+      "paras": [
+        "Ask <a href=\"https://www.horrycountysc.gov/departments/stormwater/engineers/construction/storm-water-permitting/\" target=\"_blank\" rel=\"nofollow noopener\">Horry County Stormwater</a> about the complete proposal, including excavation, grading and drainage changes. The size of the finished lawn alone does not settle the requirements for the work.",
+        "If an association governs your property, request its current requirements for the proposed change. Identify any shared area or easement before finalizing the layout. Bring the written response to the estimate so those conditions can be considered alongside the installation options."
+      ]
     }
   ],
   "services": [
@@ -43,7 +61,12 @@
     "putting-greens"
   ],
   "servicesNote": "Compare a lawn, a dedicated pet area or a putting green. The free visit helps define the area and work to be priced.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Carolina Forest, SC?",
+      "a": "TIMELESS Grass & Greens installs artificial lawns, pet areas and putting greens in Carolina Forest. The free estimate includes a visit, a custom layout, turf options and a written price. Bring any association requirements and point out wet spots or drainage features when we look at the yard."
+    }
+  ],
   "nearby": [
     "forestbrook-sc",
     "conway-sc",

@@ -35,6 +35,36 @@
         "On a flatter yard, decide how the turf will meet existing patios and planting. On a sloped or wooded lot, include walking access, tree roots and any known drainage or ground concerns before choosing the green’s outline.",
         "Mark the private property boundary beside open space. A green or pet area needs to fit inside the available yard and leave required access or landscape buffers intact. Ask for the proposed preparation and any unresolved conditions to be stated in the price."
       ]
+    },
+    {
+      "icon": "file",
+      "kicker": "The Ranch's turf spec",
+      "h2": "Ken-Caryl Ranch has written down how backyard turf must look.",
+      "paras": [
+        "The Ken-Caryl Ranch Master Association's architectural guidelines include a written standard for artificial turf: backyard use only, a pile height of at least 1.75 inches, blades in two, three or four tones that match natural grass, and a landscape buffer around the turf (<a href=\"https://ken-carylranch.org/community/exterior-improvements/\" target=\"_blank\" rel=\"nofollow noopener\">Ken-Caryl Ranch</a>).",
+        "The remaining yard has to strike what the guidelines call a balance of planting and hardscape on the lot. Xeriscape is allowed with approval, and rock, mulch and block must stay a natural color, so no red or black mulch.",
+        "We plan the layout to that spec from the first visit, with the pile height, the blend of blade colors and a planted buffer at the edges, so the layout you approve is ready to go to the committee."
+      ]
+    },
+    {
+      "icon": "clock",
+      "kicker": "Approval",
+      "h2": "Twice-monthly approvals, and a state law behind you.",
+      "paras": [
+        "The Architectural Committee takes up applications twice a month. Most decisions come within two weeks and complex projects can take up to 30 days; the neighbors next door must be notified, permits are the homeowner's job, and one of the 11 subassociations may need to sign off too (<a href=\"https://ken-carylranch.org/community/subassociations/\" target=\"_blank\" rel=\"nofollow noopener\">Ken-Caryl Ranch</a>).",
+        "State law is on your side out back. HB21-1229, in force since September 2021, lets an HOA regulate nonvegetative turf out back but not prohibit it (<a href=\"https://leg.colorado.gov/bills/hb21-1229\" target=\"_blank\" rel=\"nofollow noopener\">HB21-1229</a>), and SB23-178 carries that protection for detached homes today (<a href=\"https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SB23-178</a>). So the committee shapes how your turf looks; it can't turn it down.",
+        "The Ranch's shared open space is a different matter: new non-functional turf is off the table for common grounds under SB24-005 as amended in 2025, while school and district playing fields are exempt (<a href=\"https://leg.colorado.gov/bills/sb24-005\" target=\"_blank\" rel=\"nofollow noopener\">SB24-005</a>)."
+      ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "Plains and Valley",
+      "h2": "The hogback splits the Ranch, and the ground changes with it.",
+      "paras": [
+        "The Dakota Hogback divides Ken Caryl into the Plains to the east and the Valley to the west, where Dakota Sandstone caps softer shales tilted at about 45 degrees (<a href=\"https://en.wikipedia.org/wiki/Dakota_Hogback\" target=\"_blank\" rel=\"nofollow noopener\">Wikipedia</a>). Plains homes from the 1970s and 80s sit on flatter lots; Valley homes from the 80s and 90s sit on larger, sloped lots inside the private open space.",
+        "According to the Colorado Geological Survey, expansive clay can grow by up to 20% in volume when wet, and heaving bedrock is its own, more severe hazard, capable of exceptional damage to houses, roads and utilities (<a href=\"https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/heaving-bedrock/\" target=\"_blank\" rel=\"nofollow noopener\">Colorado Geological Survey</a>).",
+        "On the Valley side, base depth, compaction and drainage under the turf are the whole job: the ground moves with the seasons, and a thin base will ripple and split at the seams within a few years. We build deeper where the ground calls for it."
+      ]
     }
   ],
   "services": [
@@ -43,7 +73,24 @@
     "pet-turf"
   ],
   "servicesNote": "Compare backyard lawn, pet and putting-green options with the current requirements for your property.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Ken Caryl, CO?",
+      "a": "We install artificial turf, pet turf and backyard putting greens in Ken Caryl, CO. The Ken-Caryl Ranch Master Association allows artificial turf in back yards only, with at least 1.75 inches of pile, multi-tone blades and a landscape buffer, and state law lets it regulate backyard turf but not prohibit it. The Ranch has no golf course, so a backyard green fills the gap. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "What are the watering rules in Ken Caryl?",
+      "a": "They're set by your water provider, so look at who bills you and ask it for this year's rules before you plan. Across the Denver metro, lawn-removal rebates almost all leave artificial turf out, and our <a href=\"/guides/colorado-water-rebates-and-turf/\">water rebates guide</a> lists which providers say so."
+    },
+    {
+      "q": "Can artificial turf go in a Ken Caryl front yard?",
+      "a": "Not under the Ranch's guidelines, which limit artificial turf to backyard applications (<a href=\"https://ken-carylranch.org/community/exterior-improvements/\" target=\"_blank\" rel=\"nofollow noopener\">Ken-Caryl Ranch</a>). State law protects the back yard only, so the front stays the association's call."
+    },
+    {
+      "q": "Who approves landscaping changes in Ken Caryl?",
+      "a": "The Master Association does, with requests routed by which side of the hogback you're on, Plains or Valley (<a href=\"https://ken-carylranch.org/kcr_faq/who-do-i-contact-to-approve-landscaping-changes/\" target=\"_blank\" rel=\"nofollow noopener\">Ken-Caryl Ranch</a>). North Ranch has its own association around Bradford Park, and a subassociation may add its own approval step (<a href=\"https://www.kencaryl.org/\" target=\"_blank\" rel=\"nofollow noopener\">The North Ranch at Ken-Caryl</a>)."
+    }
+  ],
   "nearby": [
     "columbine-co",
     "littleton-co",

@@ -34,6 +34,36 @@
         "On a property sloping toward the lakes, point out existing water routes and neighboring boundaries. Changes in level belong in the preparation discussion, with any required drainage advice resolved separately from turf selection.",
         "Ask the Town’s design review board and your association what they require for the proposed work. Describe excavation and landscape changes as well as the visible surface. We can consider written conditions when discussing the layout; the estimate does not replace those reviews."
       ]
+    },
+    {
+      "icon": "shield",
+      "kicker": "The local rules",
+      "h2": "In Bow Mar, the Town's design board sees the plan first.",
+      "paras": [
+        "Bow Mar's design board, the DRB, was set up by Ordinance 323 in 2018, and its guidelines of 24 June 2019 cover most of what happens to a yard here. Landscaping needs DRB approval when it comes with a new home or a major remodel, when it may affect a neighbor's view, and when it substantially changes the landscaping already in place (<a href=\"https://www.townofbowmar.org/ordinances-and-policies\" target=\"_blank\" rel=\"nofollow noopener\">Town of Bow Mar</a>).",
+        "Grade is the rule most likely to catch a turf job. Section XII of the guidelines sends any change of grade, landscape berms included, that disturbs more than 4 cubic yards of soil to the DRB. Leveling part of a sloping acre can pass that mark, so allow time for approval before the dig.",
+        "Sport courts must sit inside the building envelope unless the Town grants a variance, and they can't be lit. Ask the DRB in writing whether it treats a putting green the same way before you settle where one goes. The Town code also limits planting that would unreasonably block another lot's view of the lake, the mountains or the city lights."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Water",
+      "h2": "Your bill comes from the district. The watering rules come from Denver Water.",
+      "paras": [
+        "Bow Mar Water and Sanitation District serves 296 residences (<a href=\"https://www.townofbowmar.org/bow-mar-water-sanitation-district\" target=\"_blank\" rel=\"nofollow noopener\">Town of Bow Mar</a>). It buys Denver Water's supply through a master meter and bills you on its own rate schedule, which is why a waste report goes to the district and not to Denver Water (<a href=\"https://www.denverwater.org/about-us/how-we-operate/service-area/distributors\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>).",
+        "Denver Water's supply conditions still set the schedule. It declared Stage 1 drought on 25 March 2026, running to 30 April 2027, with a target of cutting total use by 20%. Lawns get two assigned days a week, Sunday and Thursday for even addresses and Wednesday and Saturday for odd ones, and only before 10 a.m. or after 6 p.m. (<a href=\"https://www.denverwater.org/residential/rebates-and-conservation-tips/summer-watering-rules\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>).",
+        "Then the season closes. On 26 August 2026 Denver Water's board ended lawn watering for the year: after 30 September, no lawn watering and no spray irrigation, with hand-watering and drip still allowed for trees and plants. On an acre, turf takes the biggest thirsty surface off that calendar in every month."
+      ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "The ground",
+      "h2": "Swelling clay on a slope that runs down to the lakes.",
+      "paras": [
+        "USDA soil maps put Bow Mar on Renohill-Buick loams, 3 to 9 percent slopes. Renohill, about 65% of that ground, is a loam over a subsoil that runs 45% clay from 4 to 18 inches down. It rates high for shrink-swell and sits in hydrologic group D, the slowest class for taking in water, and Buick, most of the rest, is group C (<a href=\"https://sdmdataaccess.sc.egov.usda.gov/\" target=\"_blank\" rel=\"nofollow noopener\">USDA Soil Data Access</a>).",
+        "Put together, that's ground that swells when it's wet, sheds rain instead of soaking it up, and falls toward the water. We prepare the site and build the base for this clay, and set the fall so rain leaves the pad and heads away from the house.",
+        "Lots here run to an acre, with mature trees and views the Town protects. The first house went up in 1947 (<a href=\"https://en.wikipedia.org/wiki/Bow_Mar,_Colorado\" target=\"_blank\" rel=\"nofollow noopener\">Bow Mar</a>), and many of the low, prairie-style originals have since been rebuilt, so one street can mix old trees with brand-new grades. Under those trees, see <a href=\"/blog/how-hot-does-artificial-turf-get/\">how much cooler turf runs in shade</a>."
+      ]
     }
   ],
   "services": [
@@ -42,7 +72,24 @@
     "pet-turf"
   ],
   "servicesNote": "Compare a practice green, lawn area or pet zone with the existing landscape and access.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Bow Mar, CO?",
+      "a": "We install artificial turf, backyard putting greens and pet turf in Bow Mar, CO. Two rulebooks shape the job here: the Town's design board must approve any change in grade that disturbs more than 4 cubic yards of soil, and BMOI's covenants require written approval before structures, fences, shrubs or trees go in. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Does BMOI have to approve turf as well as the Town?",
+      "a": "Ask before you build. BMOI, the private association behind the town's covenants and its lake beach and marina, requires written approval under its Amended and Restated Declaration before any building, fence, wall or other structure goes in, and even before shrubs and trees are planted (<a href=\"https://www.townofbowmar.org/files/2e0f44ef5/Amended+and+Restated+Declaration+of+Covenants.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Bow Mar covenants</a>). Send BMOI the plan you give the DRB, and keep both answers."
+    },
+    {
+      "q": "Is there a rebate for artificial turf in Bow Mar?",
+      "a": "No. Denver Water's turfgrass removal discount, worth up to $750 through Resource Central, pays toward a living water-wise landscape and doesn't allow artificial turf, and its 2026 discounts were fully allocated in March (<a href=\"https://www.denverwater.org/residential/rebates-and-conservation-tips/remodel-your-yard/turfgrass-removal\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>). Colorado's state turf-replacement grants stopped taking applications in March 2025 (<a href=\"https://cwcb.colorado.gov/turf-replacement-program\" target=\"_blank\" rel=\"nofollow noopener\">CWCB</a>)."
+    },
+    {
+      "q": "Could new turf change how water drains onto the next lot?",
+      "a": "It can if the grade changes, and on this sloping clay that's worth planning for. The DRB can require a stamped engineer's drainage plan, and the Town says it makes no representation about how a change of grade affects the lots next door (<a href=\"https://www.townofbowmar.org/ordinances-and-policies\" target=\"_blank\" rel=\"nofollow noopener\">Town of Bow Mar</a>). Settle the drainage in the plan, before the turf goes down."
+    }
+  ],
   "nearby": [
     "denver-co",
     "littleton-co",

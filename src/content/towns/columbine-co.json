@@ -35,6 +35,36 @@
         "Confirm the parcel’s county before checking land-use, grading or drainage requirements. Use the current documents for your own neighborhood association rather than a nearby Columbine community with a similar name.",
         "Bring any written conditions to the visit and ask for the turf area, preparation, edging and disposal to be clear in the price. That makes different layouts easier to compare."
       ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "The ground",
+      "h2": "Clay over fill, graded flat half a century ago.",
+      "paras": [
+        "The USDA maps the Columbine area as Denver-Urban land complex on 0 to 2 percent slopes (<a href=\"https://sdmdataaccess.sc.egov.usda.gov/\" target=\"_blank\" rel=\"nofollow noopener\">USDA</a>). The Denver soil, about 65% of the unit, is 33.5% clay at the surface over subsoil of about 50% clay, with slow drainage and high shrink-swell. Another 20% of the unit is mapped simply as urban land: the cut, fill and disturbed ground left when these subdivisions were mass-graded in the 1960s and '70s.",
+        "That is why patios heave, flatwork cracks and low spots pond. It also means nobody can say what's under a given yard without looking, because fill of unknown compaction can sit anywhere. So the free visit includes a look at the ground itself, and the base is designed around what turns up.",
+        "The lots are flat, with almost no natural fall, and decades of sprinkler water have been soaking into that clay. Turf needs no sprinklers at all, so that water stops."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Water",
+      "h2": "Many Columbine water bills come straight from Denver Water.",
+      "paras": [
+        "Columbine is split among several Denver Water distributors. Columbine Water and Sanitation District is a Total Service distributor: Denver Water owns the system, reads each meter and bills each customer directly. Southwest Plaza Metropolitan District is Total Service too (<a href=\"https://www.denverwater.org/about-us/how-we-operate/service-area/distributors\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>), and Southwest Metropolitan Water and Sanitation District, another distributor, serves homes across western Arapahoe, eastern Jefferson and northern Douglas counties (<a href=\"https://swmetrowsdco.gov/district-information\" target=\"_blank\" rel=\"nofollow noopener\">Southwest Metro Water</a>).",
+        "Stage 1 allows two assigned days a week, outside the 10 a.m. to 6 p.m. window, with no watering in rain or high wind and none running onto pavement. Single-family violations go from a warning to $250, then $500, then $1,000, and on 26 August 2026 the board called an end to the lawn season: from 1 October, sprinklers and lawn watering stop entirely (<a href=\"https://www.denverwater.org/residential/rebates-and-conservation-tips/summer-watering-rules\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>).",
+        "Don't wait on a rebate. The $750 turfgrass-removal discount run through Resource Central closed to new applications in March 2026, and it funds a living ColoradoScape rather than turf (<a href=\"https://www.denverwater.org/residential/rebates-and-conservation-tips/remodel-your-yard/turfgrass-removal\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>). The state's Turf Replacement Program stopped taking applications in March 2025, and homeowners couldn't apply to it directly anyway (<a href=\"https://cwcb.colorado.gov/turf-replacement-program\" target=\"_blank\" rel=\"nofollow noopener\">Colorado Water Conservation Board</a>)."
+      ]
+    },
+    {
+      "icon": "shield",
+      "kicker": "HOAs",
+      "h2": "No town hall. Your HOA's committee decides.",
+      "paras": [
+        "Columbine is unincorporated. Jefferson County governs most of it and Arapahoe County the eastern part, so county land-use and grading rules apply, and they differ across that county line (<a href=\"https://en.wikipedia.org/wiki/Columbine,_Colorado\" target=\"_blank\" rel=\"nofollow noopener\">Wikipedia</a>).",
+        "For most homes the approval that matters comes from the neighborhood association. Columbine Knolls, Columbine West, Columbine Hills, Burning Tree, Leawood, Wynetka Ponds and the rest each run their own architectural committee, and Southwest Metro even keeps an HOA outreach page of newsletter copy for the associations it serves (<a href=\"https://swmetrowsdco.gov/hoa-outreach\" target=\"_blank\" rel=\"nofollow noopener\">Southwest Metro Water</a>).",
+        "On a detached house, state law bars an association's design guidelines from ruling out nonvegetative turf in the back yard (<a href=\"https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SB23-178</a>), so the committee's say is over the front yard and the details. Common ground is another matter; our <a href=\"/guides/colorado-hoa-turf-rules/\">guide to HOA turf rules</a> explains where the line falls."
+      ]
     }
   ],
   "services": [
@@ -43,7 +73,28 @@
     "putting-greens"
   ],
   "servicesNote": "Discuss a lawn, pet area or putting green around the parts of your yard you want to keep.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Columbine, CO?",
+      "a": "We install artificial turf, pet turf and backyard putting greens in Columbine, CO. The ground here is Denver clay, with a fifth of the mapped soil unit classed as fill and disturbed land from the grading of the 1960s and '70s. Many homes are Denver Water Total Service customers, so its watering rules and fines come in your own name. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Does Columbine have a town government that approves turf?",
+      "a": "No. Columbine is unincorporated: Jefferson County covers most of it and Arapahoe County the east (<a href=\"https://en.wikipedia.org/wiki/Columbine,_Colorado\" target=\"_blank\" rel=\"nofollow noopener\">Wikipedia</a>). Your HOA's architectural committee is usually the approval that matters."
+    },
+    {
+      "q": "Why would a watering fine come in my name rather than my district's?",
+      "a": "If your provider is Columbine Water and Sanitation District, you're a Denver Water Total Service customer, and Denver Water reads your meter and bills you directly (<a href=\"https://www.denverwater.org/about-us/how-we-operate/service-area/distributors\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>). Its single-family penalties run from a warning to $250, $500 and $1,000 (<a href=\"https://www.denverwater.org/residential/rebates-and-conservation-tips/summer-watering-rules\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>)."
+    },
+    {
+      "q": "Can I still get a turf removal rebate in Columbine?",
+      "a": "Not for 2026, and not for turf. Resource Central's discount stopped taking applications in March 2026 and pays for a living ColoradoScape (<a href=\"https://www.denverwater.org/residential/rebates-and-conservation-tips/remodel-your-yard/turfgrass-removal\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>). The state's program closed in March 2025 (<a href=\"https://cwcb.colorado.gov/turf-replacement-program\" target=\"_blank\" rel=\"nofollow noopener\">Colorado Water Conservation Board</a>)."
+    },
+    {
+      "q": "Why does my patio heave?",
+      "a": "The Denver soil under Columbine is about 50% clay in the subsoil, with high shrink-swell, and a fifth of the mapped unit is fill from the original grading (<a href=\"https://sdmdataaccess.sc.egov.usda.gov/\" target=\"_blank\" rel=\"nofollow noopener\">USDA</a>). Water from old sprinklers keeps that clay moving, and a turf lawn needs none."
+    }
+  ],
   "nearby": [
     "ken-caryl-co",
     "columbine-valley-co",

@@ -34,6 +34,35 @@
         "A condominium’s outdoor space may be common property, so confirm who controls it before requesting an installation scope. For a house, obtain the applicable association requirements and identify any tree certification needed for work inside a canopy.",
         "Bring pond, shoreline and drainage information where relevant. The required water separation and maintenance access need to be identified before choosing the usable green or lawn area. Turf should not be treated as a way to fill a low drainage strip."
       ]
+    },
+    {
+      "icon": "flag",
+      "kicker": "The course next door",
+      "h2": "A par-70 course inside the neighborhood, and room for a green behind the house.",
+      "paras": [
+        "St. Augustine Shores Golf Club sits inside the community: 18 holes, par 70, 5,956 yards, open to the public, with water in play on nine holes (<a href=\"https://staugustineexperiences.com/st-augustine-golf/\" target=\"_blank\" rel=\"nofollow noopener\">St. Augustine Experiences</a>). It's laid out to be forgiving, the kind of course people here play often.",
+        "A backyard green gives you the part of the game you can work on every day: break to read, a fringe around the edge and the cups placed where you choose, laid out for your yard and approved by you before we start. On a golf-frontage lot, plan the course side of the yard for cart-path traffic and the odd stray ball."
+      ]
+    },
+    {
+      "icon": "home",
+      "kicker": "Your HOA",
+      "h2": "The golf-course clause decides how much say the HOA has.",
+      "paras": [
+        "Single-family homes in the Shores share a homeowners association known for a light touch, and the condominiums have separate associations whose dues pay for their landscaping (<a href=\"https://yourkeytostaugustine.com/get-to-know-st-augustine-shores/\" target=\"_blank\" rel=\"nofollow noopener\">Your Key to St. Augustine</a>).",
+        "Florida law is unusually specific here. Fla. Stat. 720.3045 says an association may not restrict items, artificial turf named among them, that can't be seen from the frontage, an adjacent parcel, an adjacent common area or a community golf course (<a href=\"https://www.flsenate.gov/Laws/Statutes/2025/720.3045\" target=\"_blank\" rel=\"nofollow noopener\">Fla. Stat. 720.3045</a>). A fenced interior back yard is usually protected. A back yard that opens onto a fairway is in view of the course, so the HOA can still weigh in there.",
+        "Either way, read your association's recorded covenants first, and if the course or the street can see the turf, get the board's answer before work starts. Our guide covers <a href=\"/guides/florida-friendly-landscaping-and-hoas/\">what an HOA can and can't stop</a>."
+      ]
+    },
+    {
+      "icon": "leaf",
+      "kicker": "Oaks and pines",
+      "h2": "The developer kept the trees, and the grass has struggled ever since.",
+      "paras": [
+        "St. Augustine Shores was platted in the late 1960s to keep the native live oaks and pines standing, and more than 50 miles of walking paths run under that canopy today (<a href=\"https://www.visitstaugustine.com/community/st-augustine-shores\" target=\"_blank\" rel=\"nofollow noopener\">Visit St. Augustine</a>).",
+        "It's why the community looks the way it does, and why St. Augustine grass here thins, goes weedy and never recovers under the shade. Turf needs no sunlight, and a shaded yard is the most comfortable place for it in a Florida summer (<a href=\"/blog/how-hot-does-artificial-turf-get/\">why shade matters</a>).",
+        "The ground sits higher than much of the coast, at 26 feet (<a href=\"https://en.wikipedia.org/wiki/St._Augustine_Shores,_Florida\" target=\"_blank\" rel=\"nofollow noopener\">Wikipedia</a>), on fine sandy soil with slopes under 2%, though the water table can rise to within a foot of the surface in wet spells (<a href=\"https://edit.sc.egov.usda.gov/catalogs/esd/155X/R155XY030FL\" target=\"_blank\" rel=\"nofollow noopener\">USDA</a>). Your lot gets measured and its ground checked on the free visit, and the base is built to suit."
+      ]
     }
   ],
   "services": [
@@ -42,7 +71,28 @@
     "pet-turf"
   ],
   "servicesNote": "Compare a practice green, lawn or pet area within the property’s usable outdoor space.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in St. Augustine Shores, FL?",
+      "a": "We install backyard putting greens, artificial turf and pet turf in St. Augustine Shores, FL. The community has its own 18-hole golf course, and Florida law bars the HOA from restricting turf that can't be seen from the frontage, a neighbor, a common area or the course. On a lot facing a fairway, check with the board first. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Does St. Johns County count artificial turf as impervious?",
+      "a": "The county's code defines impervious surfaces as buildings, concrete, pools, wet retention or detention areas, pavement, and compacted materials used for parking or roads, and it doesn't mention artificial turf anywhere (<a href=\"https://www.sjcfl.us/wp-content/uploads/2024/01/entire-ldc-march-4-2025.pdf\" target=\"_blank\" rel=\"nofollow noopener\">St. Johns County Land Development Code</a>). A back lawn isn't a parking area, and with no city here there's no municipal cap on top."
+    },
+    {
+      "q": "Can St. Johns County ban artificial turf in the Shores?",
+      "a": "Not on a single-family lot of one acre or less, if the turf meets the state standard; that protection has been in force since 19 May 2026 (<a href=\"https://www.flsenate.gov/Laws/Statutes/2025/0125.572\" target=\"_blank\" rel=\"nofollow noopener\">Fla. Stat. 125.572</a>). It doesn't reach your HOA's covenants, which is why the golf-course clause matters more here."
+    },
+    {
+      "q": "Can I put turf outside my condo in St. Augustine Shores?",
+      "a": "That's your condominium association's decision. The state's turf standard, and the protection from local bans that comes with it, doesn't cover condominiums at all (<a href=\"https://floridadep.gov/sites/default/files/SyntheticTurfFAQ%20final.pdf\" target=\"_blank\" rel=\"nofollow noopener\">DEP</a>), so take the idea to your association's board."
+    },
+    {
+      "q": "Where else can I play golf near St. Augustine Shores?",
+      "a": "Marsh Creek Country Club, a private Mark McCumber course, is across the Intracoastal on Anastasia Island. Royal St. Augustine is public, par 72, and World Golf Village has the King & Bear and the Slammer & Squire (<a href=\"https://staugustineexperiences.com/st-augustine-golf/\" target=\"_blank\" rel=\"nofollow noopener\">St. Augustine Experiences</a>)."
+    }
+  ],
   "nearby": [
     "butler-beach-fl",
     "st-augustine-beach-fl",

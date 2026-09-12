@@ -35,6 +35,36 @@
         "The Branan Field Corridor has residential landscape and tree requirements. Check the applicable boundary and conditions for your parcel; required planting does not become optional when a turf area is added. Work affecting protected trees can need an approved preservation plan.",
         "Obtain the current instructions from the appropriate neighborhood association and check any CDD or shared-area conditions. The Oakleaf commercial area across the Duval line has a different jurisdiction, so use the exact work address rather than the area name alone."
       ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "The ground",
+      "h2": "Boulogne sand holds water a foot below your yard.",
+      "paras": [
+        "A USDA soil query along Oakleaf Plantation Parkway returns Boulogne fine sand: poorly drained, with the water table about a foot down at its highest and a hydrologic rating of C/D, meaning water soaks in slowly (<a href=\"https://sdmdataaccess.sc.egov.usda.gov/\" target=\"_blank\" rel=\"nofollow noopener\">USDA</a>). Its first organic-stained layer can start just 10 to 13 inches below the surface. Rain here doesn't vanish into the sand the way people expect in Florida.",
+        "Along Double Branch Creek and its tributaries the survey adds Pamlico muck and Rutlege mucky fine sand, with pockets of Yulee clay in the low spots. Put that under a small fenced yard the dog uses every day and you get the familiar Oakleaf complaint: mud after every afternoon storm, and grass the dog finishes off.",
+        "So the base is built for drainage rather than laid on grade: the right excavation depth, drainage aggregate and, where the yard needs it, a subsurface drain tied out. We test the ground when we come out for the free visit, then design the base for your lot. The county's code names the same risk: Sec. 18.5-53(4)(g) calls for solid sod in swales and other areas subject to erosion."
+      ]
+    },
+    {
+      "icon": "shield",
+      "kicker": "County rules",
+      "h2": "Here, Clay County's landscaping code follows you home.",
+      "paras": [
+        "Oakleaf Plantation sits inside the Branan Field Corridor, which Sec. 18.5-52(22) draws from the Duval line along Little Black Creek, Black Creek and North Fork Black Creek to the eastern edge of Jennings State Forest. Inside it, Sec. 18.5-51 applies the county's landscaping article to residential buildings as well as businesses, and Sec. 18.5-53(4)(h) bars artificial turf as a substitute for the plants the article requires (<a href=\"https://library.municode.com/fl/clay_county/codes/code_of_ordinances\" target=\"_blank\" rel=\"nofollow noopener\">Clay County code</a>). Where your lot carries required plantings, keep them, and put the turf around them.",
+        "Trees matter most on a turf job. Within the corridor, Secs. 18.5-27 to 18.5-32 make it unlawful to cut, remove, damage, root-disturb or even trim a protected tree without an approved tree preservation plan, and trenching a base edge beside a street tree is exactly that kind of work. Along rights-of-way the corridor also asks for a wider landscaped yard, 10 feet instead of 5. Check your parcel against the corridor's boundary before anything is designed.",
+        "Above the county sit two community development districts, Double Branch and Middle Village, and under them each neighbourhood's POA with its own architectural review (<a href=\"https://doublebranchcdd.com/\" target=\"_blank\" rel=\"nofollow noopener\">Double Branch CDD</a>). Oakleaf Town Center, meanwhile, lies across the line in Jacksonville, so commercial work there follows Duval's code, not Clay's."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Water",
+      "h2": "Irrigation once a week, and fines that count by the day.",
+      "paras": [
+        "Oakleaf's water comes from Clay County Utility Authority. The district's Phase III Order 2026-017 was in force at our 7 September 2026 check, and it cuts lawn irrigation to a single weekly day, set by your address, from every source including private wells (<a href=\"https://clayutility.org/phase-iii-water-shortage-restrictions-now-in-effect/\" target=\"_blank\" rel=\"nofollow noopener\">Clay County Utility Authority</a>).",
+        "The county writes the schedule into its own code at Sec. 18.5-73 and enforces it under Sec. 18.5-79, where every day of watering on the wrong day counts as a new offense.",
+        "CCUA runs a reclaimed water program, so ask whether your phase is on it, but it offers no rebate for artificial turf (<a href=\"https://clayutility.org/community/conservation-programs/\" target=\"_blank\" rel=\"nofollow noopener\">CCUA</a>). The case for turf in Oakleaf is the mud and the dog, not the water bill."
+      ]
     }
   ],
   "services": [
@@ -43,7 +73,28 @@
     "putting-greens"
   ],
   "servicesNote": "Compare pet turf, a lawn or a compact green around the planting and drainage features that need to remain.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Oakleaf Plantation, FL?",
+      "a": "We install pet turf, artificial lawns and backyard putting greens in Oakleaf Plantation, FL. Oakleaf asks two things of a turf job: a base for Boulogne fine sand, which drains poorly and holds its water table about a foot down, and a layout that respects Clay County's Branan Field Corridor, where the county's landscaping and tree rules reach homes. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Is my Oakleaf home inside the Branan Field Corridor?",
+      "a": "Oakleaf Plantation sits inside it: the corridor reaches west to Jennings State Forest, which Eagle Landing borders. Check your own parcel against the boundary in Sec. 18.5-52(22) before you plan the yard (<a href=\"https://library.municode.com/fl/clay_county/codes/code_of_ordinances\" target=\"_blank\" rel=\"nofollow noopener\">Clay County code</a>). Inside it, the county's landscaping and tree rules apply to homes, not only businesses."
+    },
+    {
+      "q": "Do I need a tree preservation plan to put in turf?",
+      "a": "Only if the work would cut, damage, root-disturb or trim a protected tree. Within the corridor, Secs. 18.5-27 to 18.5-32 require an approved tree preservation plan before any of that (<a href=\"https://library.municode.com/fl/clay_county/codes/code_of_ordinances\" target=\"_blank\" rel=\"nofollow noopener\">Clay County code</a>). Keep the base edge clear of protected roots, or get the plan approved first."
+    },
+    {
+      "q": "What happens if I water on the wrong day in Oakleaf?",
+      "a": "A first violation is a category 2 civil infraction under Sec. 18.5-79, and later ones are category 10, up to $500 if you contest and lose (<a href=\"https://library.municode.com/fl/clay_county/codes/code_of_ordinances\" target=\"_blank\" rel=\"nofollow noopener\">Clay County code</a>). Each day is a separate offense, and the county gives no more than one written warning."
+    },
+    {
+      "q": "Does my CDD or POA have to approve turf?",
+      "a": "Your neighbourhood POA's architectural review does, and the two CDDs, Double Branch and Middle Village, set the rules for the amenities they run (<a href=\"https://middlevillagecdd.com/\" target=\"_blank\" rel=\"nofollow noopener\">Middle Village CDD</a>). Send the POA the layout you approve with us before any work starts."
+    }
+  ],
   "nearby": [
     "lakeside-fl",
     "doctors-inlet-fl",

@@ -43,6 +43,25 @@
       "paras": [
         "For a field or training area, bring the dimensions, activities and equipment needs to the conversation. Ask for the proposed turf system, preparation, maintenance and any required product documentation to be part of the scope. A backyard green and a sports field need different plans."
       ]
+    },
+    {
+      "icon": "flag",
+      "kicker": "Golf",
+      "h2": "Tee times all around, and a green at home.",
+      "paras": [
+        "Little River's own courses include Eagle Nest, set among Carolina pines and lakes; Glen Dornoch, 260 acres of lakes, live oaks and marsh with views of the Intracoastal Waterway; and River Hills, a Tom Jackson design with frequent 40-foot elevation changes (<a href=\"https://www.playgolfmyrtlebeach.com/news/little-river-golf-courses-deliver-big-fun/\" target=\"_blank\" rel=\"nofollow noopener\">Play Golf Myrtle Beach</a>). The Valley at Eastport, Tidewater and Surf Golf & Beach Club all sit within about two miles of Nixons Crossroads.",
+        "A backyard green keeps your stroke sharp between rounds. On a patio-home lot, a single-cup green with a collar fits; on a bigger lot, add holes on their own slopes. We lay it out to your yard, and you sign off before anything is dug."
+      ]
+    },
+    {
+      "icon": "trophy",
+      "kicker": "Sports fields",
+      "h2": "A 160-acre complex with a Little River address.",
+      "paras": [
+        "The North Myrtle Beach Park & Sports Complex is 160 acres built for baseball, softball, soccer, lacrosse and flag football, with 25 fields between its diamonds and its soccer and lacrosse pitches (<a href=\"https://www.visitmyrtlebeach.com/listings/north-myrtle-beach-park-sports-complex\" target=\"_blank\" rel=\"nofollow noopener\">Visit Myrtle Beach</a>, <a href=\"https://nmbpark.com/Facilities/Facility/Details/North-Myrtle-Beach-Park-Sports-Complex-13\" target=\"_blank\" rel=\"nofollow noopener\">North Myrtle Beach Parks and Recreation</a>).",
+        "Fields that host that much play wear fast on grass, and a wet week costs games. Synthetic turf is back in use soon after rain, and it plays the same on Sunday evening as it did on Saturday morning. We install <a href=\"/services/sports-field-turf/\">sports field turf</a> for complexes, schools and practice areas.",
+        "For a field in unincorporated Horry County, include stormwater review in the planning process and confirm the applicable requirements for the full project scope with the county (<a href=\"https://www.horrycountysc.gov/media/4wqkxbxg/horry-county-sw-design-manual_rev2024.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Horry County design guidance</a>)."
+      ]
     }
   ],
   "services": [
@@ -51,7 +70,24 @@
     "sports-field-turf"
   ],
   "servicesNote": "Compare a lawn or putting green for the home, or discuss a sports practice area with its own installation scope.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Little River, SC?",
+      "a": "We install artificial lawns, backyard putting greens and sports field turf in Little River, SC. The North Myrtle Beach Park & Sports Complex has a Little River address, and lots near the inlet and the Intracoastal Waterway take salt air that burns grass. Around Nixons Crossroads the sand drains so fast that water runs straight through. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Will my yard look the same when I'm back from months away?",
+      "a": "Turf needs no watering, mowing or feeding while you're gone, so nothing browns or grows out. Expect some leaves, sand and salt to clear when you're back: a brush, a blower and a rinse, and it's done."
+    },
+    {
+      "q": "Is my lot in North Myrtle Beach or the county?",
+      "a": "Around Nixons Crossroads it can be either, because the city line runs through there and neighboring lots can fall on different sides. Inside the city, turf has to pass the <a href=\"/grand-strand/north-myrtle-beach-sc/\">city's pervious-surface test</a>, and the city's own rules apply. Ask the city or the county which one covers your address before you plan."
+    },
+    {
+      "q": "How close does tidal water come to Nixons Crossroads?",
+      "a": "Close. The USGS keeps a tidal gauge on the Intracoastal Waterway at Highway 9, named for Nixons Crossroads, with daily records going back to 1986 (<a href=\"https://waterdata.usgs.gov/monitoring-location/USGS-02110777/\" target=\"_blank\" rel=\"nofollow noopener\">USGS</a>). That's why salt air reaches yards well back from the beach."
+    }
+  ],
   "nearby": [
     "north-myrtle-beach-sc",
     "longs-sc",

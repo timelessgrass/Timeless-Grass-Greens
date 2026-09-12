@@ -35,6 +35,36 @@
         "A longer putting line may fit where a wide green will not. Decide which putts matter to you and leave walking room beside the surface. Keep the route to the garage useful after the work is finished.",
         "Older city yards can have changed levels and buried remnants from past work. Show us known issues and ask for preparation and unresolved conditions to be stated in the estimate. Check City and any association requirements for the actual proposal."
       ]
+    },
+    {
+      "icon": "paw",
+      "kicker": "Shade and dogs",
+      "h2": "Where the grass gave up, turf stays green.",
+      "paras": [
+        "By August, plenty of Denver back yards look alike: a detached garage off the alley, an elm or honeylocust shading most of what's left, and a dog wearing a track through the rest. Bluegrass wants sun and a rest from traffic, and a small shaded yard gives it neither, so it thins to dirt and turns to mud after rain.",
+        "Artificial turf doesn't need sun, so the tree can stay and the lawn still looks like one. Pet turf drains where the dog goes and rinses clean with a hose, which ends the muddy paws at the back door.",
+        "A small yard leaves no room for guesswork. On a free visit we measure the space and check the ground, then draw a custom layout around the garage, the trunk and the gate, and you approve it before any work starts."
+      ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "Under the yard",
+      "h2": "Old Denver sits on fill, so the ground check comes first.",
+      "paras": [
+        "Around Washington Park and Congress Park, the USDA soil survey maps the ground as urban land and two soils, Elyria and Racas, both classed as spolic: material moved there by people. Beneath that fill lies smectitic clay, the kind that swells when it gets wet (<a href=\"https://sdmdataaccess.nrcs.usda.gov/\" target=\"_blank\" rel=\"nofollow noopener\">USDA Soil Data Access</a>).",
+        "Fill is uneven. Its depth can change from one side of a yard to the other, it can hide old brick, ash and rubble, and the survey rates the Elyria soil somewhat poorly drained. The lots are close to flat, so the work here is in the base, not the grade.",
+        "So we open the ground before we build on it: site prep and a base made for what's actually there, which keeps the surface level over swelling clay and sends rain down and away rather than across the top."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Denver Water",
+      "h2": "Two watering days, drought pricing and no turf rebate.",
+      "paras": [
+        "Denver Water declared a Stage 1 drought on 25 March 2026 (<a href=\"https://www.denverwater.org/tap/denver-board-water-commissioners-declares-stage-1-drought-implements-mandatory-watering\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>). Single-family homes water on two assigned days a week, even addresses on Sunday and Thursday and odd addresses on Wednesday and Saturday, and never between 10 a.m. and 6 p.m. Apartments, businesses and HOAs get Tuesday and Friday only.",
+        "For 2026 the board has also ended the lawn-watering season, with no lawn watering or spray irrigation after 30 September (<a href=\"https://www.denverwater.org/residential/rebates-and-conservation-tips/summer-watering-rules\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>). Temporary drought pricing adds a charge to higher water use through 30 April 2027 (<a href=\"https://www.denverwater.org/residential/billing-and-rates/2026-rates\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>).",
+        "Don't count on a rebate to pay for turf. Denver Water's lawn-removal discount, up to $750 through Resource Central for taking out at least 200 square feet, needs a planted water-wise design, and artificial turf is not allowed (<a href=\"https://www.denverwater.org/tap/ditching-useless-turf-coloradoscape-we-can-help\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>). What turf buys you is a yard that's off the schedule for good; the <a href=\"/guides/colorado-water-rebates-and-turf/\">water rebates guide</a> covers the rest of the metro."
+      ]
     }
   ],
   "services": [
@@ -43,7 +73,28 @@
     "putting-greens"
   ],
   "servicesNote": "Compare a pet area, lawn and compact putting green for the space you have.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Denver, CO?",
+      "a": "We install artificial turf, pet turf and backyard putting greens in Denver, CO. Two things set Denver yards apart: old shade trees that starve a lawn of sun, and ground the USDA maps as fill over swelling clay. Denver Water's rebates leave artificial turf out, so the payoff is a yard that stays green without a watering day. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Is artificial turf a good fit for a dog in a small Denver yard?",
+      "a": "Yes. Pet turf drains where the dog goes and hoses clean, and a dog can't turn it to mud the way it does a shaded lawn. Put the dog's area where the afternoon shade falls, because <a href=\"/blog/how-hot-does-artificial-turf-get/\">shade does more than anything else to keep turf cool</a>."
+    },
+    {
+      "q": "Does Denver Water pay anything toward turf for an HOA or a business?",
+      "a": "No. Its Landscape Transformation Assistance Program won't fund HOA or commercial designs that include artificial turf, landscape fabric or hardscape (<a href=\"https://www.denverwater.org/business/rebates-and-conservation-tips/landscape-transformation-assistance-program/hoa-commercial\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>). The state's limit on non-functional turf also covers a business's new landscaping and an HOA's new common areas, though turf for fields of play is exempt (<a href=\"https://leg.colorado.gov/bills/sb24-005\" target=\"_blank\" rel=\"nofollow noopener\">SB24-005</a>)."
+    },
+    {
+      "q": "Can I fit a putting green in a Denver back yard?",
+      "a": "A green with real break and a few cups can fit between a garage and a patio. Denver's public courses, from City Park and Wellshire to Kennedy's 18 holes and the Harvard Gulch par 3, are there for the long game. Under state law a putting green counts as functional turf (<a href=\"https://content.leg.colorado.gov/sites/default/files/2025a_1113_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">HB25-1113</a>)."
+    },
+    {
+      "q": "Do I need anyone's permission for turf in my Denver back yard?",
+      "a": "In most older neighborhoods there's no HOA to ask. In Central Park or Lowry, send your plan to the board in writing: a covenant that bans nonvegetative turf in a back yard is unenforceable (<a href=\"https://codes.findlaw.com/co/title-37-water-and-irrigation/co-rev-st-sect-37-60-126/\" target=\"_blank\" rel=\"nofollow noopener\">C.R.S. 37-60-126</a>). Front-yard and design details are still the HOA's call."
+    }
+  ],
   "nearby": [
     "lakewood-co",
     "aurora-co",

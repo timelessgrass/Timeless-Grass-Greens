@@ -35,6 +35,36 @@
         "Do not assume a nearby Thornton turf program applies to a Northglenn address. Confirm your provider and any incentive eligibility directly before including it in the budget.",
         "Check the City and any applicable property requirements for the actual work. The absence of an association does not settle front-yard, grading or drainage questions. Ask for preparation and any unresolved site conditions to be stated in the estimate."
       ]
+    },
+    {
+      "icon": "shield",
+      "kicker": "Who signs off",
+      "h2": "A planned 1960s suburb, mostly built before HOAs.",
+      "paras": [
+        "Northglenn began in 1959 as a master-planned community by developer Jordon Perlmutter and incorporated on 19 April 1969 (<a href=\"https://en.wikipedia.org/wiki/Northglenn,_Colorado\" target=\"_blank\" rel=\"nofollow noopener\">Wikipedia</a>). More of its housing went up in the 1960s than in any other decade, the median home dates from 1974, and its north end was never redeveloped.",
+        "The typical house is an original ranch or split-level with a small, square back yard, a carport or a single detached garage, and big trees. Because those streets predate the HOA era, many have no design committee at all: no approval packet, just a layout you approve and a start date.",
+        "Where a street does have an HOA, state law says its design guidelines can't rule out nonvegetative turf behind a detached house (<a href=\"https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SB23-178</a>). Either way the city's own code applies, so check with Northglenn about front-yard rules before planning one."
+      ]
+    },
+    {
+      "icon": "leaf",
+      "kicker": "The yards",
+      "h2": "Fifty years of shade, roots and packed soil.",
+      "paras": [
+        "A Northglenn back yard has had half a century to wear out. The subsoil has been compacting under the lawn since it was laid, mature 1960s street and yard trees compete for every drop of water, old utility trenches have settled, and in the shade the bluegrass has been losing for decades.",
+        "Grass that has already failed is the easy case for turf. It needs no sun and no water, the roots can't thin it, and the shade that beat the lawn keeps the turf cooler on a hot day (<a href=\"/blog/how-hot-does-artificial-turf-get/\">more on turf and heat</a>).",
+        "A small square yard also makes for a clean job: a dog run along the fence, a shaded side yard, or the whole back lawn, laid, seamed and edged. Tuck a short green into one corner and the nearest course is your back door."
+      ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "The ground",
+      "h2": "Loam over shale, not the metro's worst clay.",
+      "paras": [
+        "USDA soil data for Northglenn shows Platner loam, about 19% clay on 3 to 5% slopes, along with Ulm at 23.5% clay and Renohill at 23%, and Shingle and Apishapa in smaller patches (<a href=\"https://sdmdataaccess.nrcs.usda.gov/\" target=\"_blank\" rel=\"nofollow noopener\">USDA</a>). Shrink-swell runs low to moderate, so swelling clay isn't the Northglenn story.",
+        "Renohill is shallow to shale, which can limit how deep a dig goes in places. The free visit shows how deep we can go, and the packed soil is prepared before any base goes in.",
+        "The slopes are gentle, so a yard drains without much reshaping, as long as the base lets the water through."
+      ]
     }
   ],
   "services": [
@@ -43,7 +73,28 @@
     "putting-greens"
   ],
   "servicesNote": "Compare a lawn, dog area or compact green with the landscape and access already in place.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Northglenn, CO?",
+      "a": "We install artificial turf, pet turf and backyard putting greens in Northglenn, CO. Northglenn was planned from 1959, and more of it went up in the 1960s than in any other decade, so many yards share a profile: small, square and shaded by trees that have beaten the bluegrass, on streets that often predate HOAs. Ask the city for this year's watering rules. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Do I need HOA approval for turf in Northglenn?",
+      "a": "Often not. Much of Northglenn was built in the 1960s and '70s, before HOAs were standard, so many streets have no association. If yours does, SB23-178 lets it set design rules for back-yard turf on a detached home, but not ban it (<a href=\"https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SB23-178</a>)."
+    },
+    {
+      "q": "Does Thornton's turf rebate apply in Northglenn?",
+      "a": "Don't count on it. Thornton's rebate is a Thornton Water program with its own rules, including a permit before installation (<a href=\"https://www.thorntonwater.com/wp-content/uploads/2026/02/2026-residential_artificial_turf_info__rules-1.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Thornton Water</a>). Ask Northglenn what, if anything, it offers."
+    },
+    {
+      "q": "Is there a golf course in Northglenn?",
+      "a": "No, there's no municipal or private course inside the city. The nearest are Thorncreek in Thornton, and Legacy Ridge and Walnut Creek in Westminster, which is one good reason for a green in the back yard."
+    },
+    {
+      "q": "What's under a Northglenn lawn?",
+      "a": "Mostly loam: Platner, Ulm and Renohill soils of roughly 19 to 23.5% clay, with low to moderate shrink-swell (<a href=\"https://sdmdataaccess.nrcs.usda.gov/\" target=\"_blank\" rel=\"nofollow noopener\">USDA</a>). The bigger problem is fifty years of compaction and tree roots, which the site prep deals with."
+    }
+  ],
   "nearby": [
     "thornton-co",
     "westminster-co",

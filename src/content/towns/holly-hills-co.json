@@ -35,6 +35,35 @@
         "Ask Arapahoe County about the actual scope if the proposal includes grading, drainage or other landscape changes. Check any recorded property or association requirements as well.",
         "Use the provider on your water bill when comparing ongoing costs. A nearby Denver program should not be assumed to apply simply because the address is written the same way."
       ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Water",
+      "h2": "From 1 October, Denver Water's rules turn the sprinklers off.",
+      "paras": [
+        "Start with the name on your water bill. Some Arapahoe County enclaves buy Denver Water through a local distributor rather than straight from Denver Water, so confirm who serves your address before you plan around any rule.",
+        "If the bill says Denver Water, you're under its 2026 Stage 1 drought rules, which ask customers to use at least 20% less. Through 30 September, even-numbered houses water on Sundays and Thursdays and odd-numbered houses on Wednesdays and Saturdays, and never between 10 a.m. and 6 p.m. (<a href=\"https://www.denverwater.org/residential/rebates-and-conservation-tips\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>).",
+        "From 1 October, watering grass and running spray irrigation are prohibited, and breaking the rule brings violations and charges. A synthetic lawn looks the same on 2 October as it did in July, with no controller to shut down and no brown patches to wait out."
+      ]
+    },
+    {
+      "icon": "shield",
+      "kicker": "The local rules",
+      "h2": "Arapahoe County sets the rules here, not Denver.",
+      "paras": [
+        "Holly Hills is 371 acres of unincorporated Arapahoe County with the City and County of Denver on every side (<a href=\"https://en.wikipedia.org/wiki/Holly_Hills,_Colorado\" target=\"_blank\" rel=\"nofollow noopener\">Holly Hills</a>). Your address may read Denver, 80222, but the County, not the city, is the land-use authority for your yard.",
+        "The state's turf law doesn't touch a home lawn either. SB24-005, as amended by HB25-1113, bars local governments from allowing non-functional turf in new commercial, institutional and HOA common-area projects, and single-family yards sit outside it (<a href=\"https://content.leg.colorado.gov/sites/default/files/2024a_005_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SB24-005</a>, <a href=\"https://content.leg.colorado.gov/sites/default/files/2025a_1113_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">HB25-1113</a>). Our <a href=\"/guides/colorado-turf-law/\">guide to Colorado's turf law</a> walks through it."
+      ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "The ground",
+      "h2": "Flat ground, Front Range clay, and whatever the lawn left behind.",
+      "paras": [
+        "Holly Hills sits at 5,476 feet on flat to very gently sloping ground, so grading is simple. The clay underneath is the Front Range kind: the Colorado Geological Survey says its montmorillonite and bentonite clays can expand by up to 20% when wet, at pressures to 30,000 psf, and about one in ten homes built on expansive soils is damaged over its life (<a href=\"https://coloradogeologicalsurvey.org/water/expansive-soil/\" target=\"_blank\" rel=\"nofollow noopener\">Colorado Geological Survey</a>).",
+        "What's under the grass matters too. A lawn that's been watered for years can leave old sprinkler lines, deep thatch and big surface roots from shade trees, so the free site visit looks for all of it before the old lawn comes out.",
+        "Then comes the base, built for this clay and graded to carry water away from the house, since cracked drives, walks and foundations are what the Survey says swelling clay usually breaks."
+      ]
     }
   ],
   "services": [
@@ -43,7 +72,24 @@
     "pet-turf"
   ],
   "servicesNote": "Compare a lawn, pet area or green for the part of the yard you want to improve.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Holly Hills, CO?",
+      "a": "We install artificial lawns, putting greens for practice and pet turf in Holly Hills, CO. Holly Hills is unincorporated Arapahoe County, even with Denver on every side, and if your water comes from Denver Water, its 2026 drought rules end grass watering on 1 October. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Does any water rebate cover turf in Holly Hills?",
+      "a": "Not for turf. Denver Water's published residential rebates cover toilets, up to $100, and qualifying sprinkler heads, and its Landscape Transformation Assistance Program is for business customers (<a href=\"https://www.denverwater.org/residential/rebates-and-conservation-tips/residential-rebates\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>). Resource Central's lawn replacement program, a Denver Water partner, requires the new landscape to be at least 50% waterwise plants, which turf can't meet (<a href=\"https://resourcecentral.org/lawn/\" target=\"_blank\" rel=\"nofollow noopener\">Resource Central</a>)."
+    },
+    {
+      "q": "Can I still water my trees after 1 October?",
+      "a": "Yes. Denver Water's 2026 Stage 1 rules keep hand-watering with a shutoff nozzle and drip irrigation legal for trees and shrubs after 1 October; it's grass watering and spray systems that stop (<a href=\"https://www.denverwater.org/residential/rebates-and-conservation-tips\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>)."
+    },
+    {
+      "q": "Do I need a permit or HOA approval for turf in Holly Hills?",
+      "a": "Ask the County first. Holly Hills is unincorporated, so Arapahoe County's planning staff can tell you whether anything in its code touches artificial turf; get that answer in writing before the layout is final. Then check your title papers for an HOA or plat covenants. If there is an HOA, Colorado law bars its design guidelines from prohibiting nonvegetative turf in the back yard of a detached single-family home (<a href=\"https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SB23-178</a>)."
+    }
+  ],
   "nearby": [
     "denver-co",
     "cherry-hills-village-co",

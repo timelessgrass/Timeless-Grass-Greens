@@ -35,6 +35,36 @@
         "Removal, access, preparation, edges and the selected turf all affect the installation price. Ask for those items to be clear in the quote rather than comparing an unexplained rate per square foot.",
         "Confirm your water provider and any landscape-program eligibility directly before using a rebate or water saving in your budget. Check applicable City and association requirements for the intended use; turf’s lack of a growing-in period does not establish permission to install it."
       ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Stage 1 in Aurora",
+      "h2": "No new bluegrass, two watering days, real fines.",
+      "paras": [
+        "Aurora declared a Stage 1 water shortage in April 2026, with City Council approving the measures on 7 April (<a href=\"https://www.cbsnews.com/colorado/news/aurora-city-council-stage-1-drought-water-conservation-measures-outdoor-watering-2-days-week/\" target=\"_blank\" rel=\"nofollow noopener\">CBS News Colorado</a>). While it lasts, new plantings of Kentucky bluegrass and fescue are banned, lawns get two watering days a week, and during the 10-to-6 daytime window only vegetable and flower gardens may be watered, by hand (<a href=\"https://www.auroragov.org/residents/water/drought\" target=\"_blank\" rel=\"nofollow noopener\">Aurora Water</a>).",
+        "Even-numbered homes water Sunday and Thursday, odd-numbered homes Wednesday and Saturday, and apartments, HOAs and businesses Tuesday and Friday (<a href=\"https://www.auroragov.org/residents/water/watering_times\" target=\"_blank\" rel=\"nofollow noopener\">City of Aurora</a>). After a warning, fines run $125, then $250, then $500 for the fourth violation and every one after, with water service interrupted as a last resort.",
+        "When the city declared Stage 1, its reservoirs were about half full. The city wants a 20% cut in total use and says getting back to normal will likely take several winters, in a place that sees under 15 inches of precipitation a year. A lawn of artificial turf needs none of that water, now or after the rules lift."
+      ]
+    },
+    {
+      "icon": "file",
+      "kicker": "Permits and rebates",
+      "h2": "Ask about the permit. Skip the rebate.",
+      "paras": [
+        "Aurora requires a Lawn & Irrigation Permit to install or replace sod or seed at any time of year, and to put in or replace a sprinkler system, with compost worked into the soil (<a href=\"https://www.auroragov.org/cms/One.aspx?portalId=16242704&amp;pageId=16533647\" target=\"_blank\" rel=\"nofollow noopener\">City of Aurora</a>). The permit pages don't say whether artificial turf needs one, so put that question to Aurora Water in writing first.",
+        "Aurora Water's Grass Replacement Incentive Program pays $3.00 per square foot for a water-wise landscape and $0.50 for low-water grasses. Its 2026 manual requires living plants on 50% or more of the new landscape and lists artificial turf as prohibited, so turf earns nothing there (<a href=\"https://www.auroragov.org/UserFiles/Servers/Server_1881137/File/Residents/Water/Water%20Conservation/Landscape%20rebate/GRIP_Residential_Manual_2026_web_accessible.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Aurora Water</a>).",
+        "The city does offer free water-wise landscape design to every customer (<a href=\"https://www.auroragov.org/cms/One.aspx?portalId=16242704&amp;pageId=16534576\" target=\"_blank\" rel=\"nofollow noopener\">City of Aurora</a>). It's worth using if you want planted beds around the turf."
+      ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "Plains clay",
+      "h2": "Clay that cracks driveways, and sprinklers that feed it.",
+      "paras": [
+        "Aurora sits on the plains side of the metro, on clays from the Denver Formation and Pierre Shale, and its typical soils are Nunn clay loams: heavy, smectitic and slow to drain. The Colorado Geological Survey says swelling soils can push with up to 30,000 pounds per square foot, and that the yearly losses they cause regularly exceed those from tornadoes, floods, earthquakes and hurricanes combined (<a href=\"https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/\" target=\"_blank\" rel=\"nofollow noopener\">Colorado Geological Survey</a>).",
+        "The survey's advice is to keep soil moisture even and to avoid planting or watering right against the house. A spray head soaking bluegrass by the basement wall does the opposite, and turf in that strip ends the spray.",
+        "South-east Aurora rolls, with real fall toward Piney Creek and Senac Creek and engineered grading on newer lots; the north and center are flatter, on clay that percolates slowly. The free visit settles which ground you have, and the base is built to match, so the surface stays level and water leaves the yard."
+      ]
     }
   ],
   "services": [
@@ -43,7 +73,28 @@
     "pet-turf"
   ],
   "servicesNote": "Compare a lawn, pet area or backyard green and get a written installation scope.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Aurora, CO?",
+      "a": "We install artificial turf, putting greens and pet turf in Aurora, CO. Under the city's Stage 1 water shortage, new Kentucky bluegrass and fescue plantings are banned and lawns get two watering days a week, with fines up to $500. Aurora Water's rebate program excludes artificial turf; what you gain is a lawn that needs no water at all. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Can I plant a new grass lawn in Aurora during Stage 1?",
+      "a": "Not with Kentucky bluegrass or fescue, which are banned as new plantings while Stage 1 lasts (<a href=\"https://www.auroragov.org/residents/water/drought\" target=\"_blank\" rel=\"nofollow noopener\">Aurora Water</a>). If you're planning a drought-resistant grass instead, Aurora asks you to contact its conservation inspectors before you apply for the Lawn & Irrigation Permit. Artificial turf isn't a planting at all."
+    },
+    {
+      "q": "Does an Aurora HOA get a say over backyard turf?",
+      "a": "A say, but not a veto, on a detached home: Colorado law gives the HOA no power to ban nonvegetative turf from your back yard (<a href=\"https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SB23-178</a>). The front yard, and any attached home, is a different matter, so ask for the board's decision in writing."
+    },
+    {
+      "q": "Can our HOA or business put turf on common areas and medians?",
+      "a": "Not for looks alone. From 1 January 2026, Colorado bars local governments from letting non-functional turf into new commercial or institutional landscapes, HOA common areas, medians and parking lots (<a href=\"https://content.leg.colorado.gov/sites/default/files/2024a_005_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SB24-005</a> and its 2025 amendment, <a href=\"https://content.leg.colorado.gov/sites/default/files/2025a_1113_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">HB25-1113</a>). Athletic fields are the exception."
+    },
+    {
+      "q": "Is Aurora Water my provider?",
+      "a": "Most Aurora homes are on Aurora Water, whose Stage 1 rules are above. Some homes in south-east Aurora are served by East Cherry Creek Valley Water and Sanitation District instead, so check the name on your bill before you plan around a watering schedule (<a href=\"https://www.eccv.org/\" target=\"_blank\" rel=\"nofollow noopener\">ECCV</a>)."
+    }
+  ],
   "nearby": [
     "denver-co",
     "centennial-co",

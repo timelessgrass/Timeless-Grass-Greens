@@ -34,6 +34,34 @@
         "For a creek-side or low-lying lot, bring drainage and shoreline information and photos after rain. A wet patch needs its cause understood; changing the visible surface does not make a wider water problem disappear.",
         "Lakeside is unincorporated Clay County. Confirm the requirements for the property and any association, including if a proposed project also involves commercial or required landscape areas. Ask for the work and any unresolved conditions to be clear in the estimate."
       ]
+    },
+    {
+      "icon": "leaf",
+      "kicker": "Shade",
+      "h2": "Under Lakeside's live oaks, the shade beats new sod every time.",
+      "paras": [
+        "Lakeside is settled Clay County. Its streets grew up along Kingsley Avenue and around the old Yerkes primate lab tract, where the lab buildings from 1930 still stand at Foxwood Center, and the live oaks have had decades to close over the yards (<a href=\"https://en.wikipedia.org/wiki/Lakeside,_Clay_County,_Florida\" target=\"_blank\" rel=\"nofollow noopener\">Wikipedia</a>).",
+        "St. Augustine grass thins under that canopy, goes patchy, and gets re-sodded every few years. The new sod meets the same shade and goes the same way.",
+        "Turf doesn't need sun, so the ground under the canopy stays as green as the open lawn. The shade even helps: turf under trees stays much cooler underfoot than turf in the open (<a href=\"/blog/how-hot-does-artificial-turf-get/\">how hot turf gets</a>)."
+      ]
+    },
+    {
+      "icon": "shield",
+      "kicker": "Who has a say",
+      "h2": "Clay County's turf clause stops short of your back yard. Your HOA may not.",
+      "paras": [
+        "Clay County's landscaping article has a line against synthetic turf standing in for its planting requirements, but the article only reaches homes inside two overlay districts, and Lakeside is in neither. That leaves your subdivision's HOA as the real gatekeeper, and many older Lakeside plats don't have one.",
+        "Where there is one, it can't restrict turf that nobody sees from your frontage, the houses beside you, a common area or a community golf course (<a href=\"https://www.flsenate.gov/Laws/Statutes/2024/720.3045\" target=\"_blank\" rel=\"nofollow noopener\">Florida's HOA statute, 720.3045</a>). Don't lean on Florida-Friendly Landscaping law with the board: it protects living landscapes, and turf isn't one (<a href=\"/guides/florida-friendly-landscaping-and-hoas/\">why it doesn't help</a>)."
+      ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "The ground",
+      "h2": "Fast sand in the middle of Lakeside, muck along the creeks.",
+      "paras": [
+        "At Lakeside's core the USDA maps Ortega fine sand, moderately well drained, with the water table no closer than about 51 inches (<a href=\"https://sdmdataaccess.sc.egov.usda.gov/\" target=\"_blank\" rel=\"nofollow noopener\">USDA Soil Data Access</a>). It drains well, but loose sand settles unless the base is compacted and stable, and a stable base is what keeps seams from moving.",
+        "The rest of Lakeside is less forgiving. Leon and Sapelo fine sands hold the water table much nearer the surface (<a href=\"https://soilseries.sc.egov.usda.gov/OSD_Docs/L/LEON.html\" target=\"_blank\" rel=\"nofollow noopener\">USDA</a>), and the ground along the Doctors Lake tributaries is muck that floods often. Which one sits under your yard is the first thing we look at on the free visit, and the base follows from it."
+      ]
     }
   ],
   "services": [
@@ -42,7 +70,28 @@
     "putting-greens"
   ],
   "servicesNote": "Compare a lawn, pet area or green within the usable part of your established yard.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Lakeside, FL?",
+      "a": "We install artificial turf, pet turf and backyard putting greens in Lakeside, FL. Clay County's turf clause in its landscaping code doesn't reach a Lakeside back yard, because Lakeside sits outside both of the county's landscaping overlay districts. The bigger issue here is shade: decades-old live oaks that St. Augustine grass can't grow under. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Does Clay County's synthetic turf rule apply to my Lakeside yard?",
+      "a": "Not to a typical back yard. Sec. 18.5-53(4)(h) says synthetic or artificial turf shall not be used in lieu of the article's plant requirements, but Sec. 18.5-51 applies the article to homes only in the Branan Field Corridor and the Greater Lake Asbury District, or with more than 4,500 square feet of contiguous parking (<a href=\"https://library.municode.com/fl/clay_county/codes/code_of_ordinances\" target=\"_blank\" rel=\"nofollow noopener\">Clay County code</a>). Lakeside lies east of Little Black Creek and north of Black Creek, outside both."
+    },
+    {
+      "q": "What about turf on a commercial lot in Lakeside?",
+      "a": "There the county's landscaping article does apply, to the paved areas of nonresidential buildings, and turf can't count toward its planting requirements (<a href=\"https://library.municode.com/fl/clay_county/codes/code_of_ordinances\" target=\"_blank\" rel=\"nofollow noopener\">Clay County code</a>). Plan commercial turf as space beyond the required planting, not in place of it."
+    },
+    {
+      "q": "Does CCUA offer a rebate for artificial turf?",
+      "a": "No. CCUA's conservation programs promote reclaimed water and Florida-Friendly Landscaping, and none of them covers artificial turf (<a href=\"https://clayutility.org/community/conservation-programs/\" target=\"_blank\" rel=\"nofollow noopener\">CCUA conservation programs</a>)."
+    },
+    {
+      "q": "Is there a golf course in Lakeside?",
+      "a": "Not inside Lakeside itself. The Country Club of Orange Park sits right on its northern edge, and Eagle Harbor Golf Club, a Clyde Johnston course, is across Doctors Lake on Fleming Island (<a href=\"https://www.eagleharborgc.com/\" target=\"_blank\" rel=\"nofollow noopener\">Eagle Harbor Golf Club</a>). A practice green out back covers the days in between."
+    }
+  ],
   "nearby": [
     "orange-park-fl",
     "doctors-inlet-fl",

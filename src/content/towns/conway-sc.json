@@ -35,6 +35,36 @@
         "If water collects beside the house or comes across from another property, show us where and when it happens. Rain photos can explain something a dry-day visit misses. Ask for any drainage work and unresolved conditions to be identified in the estimate.",
         "Check whether the parcel is inside Conway or in unincorporated Horry County before asking about requirements. If the property has floodplain concerns, grading or drainage changes need their own review; turf is a surface choice, not a flood-control solution."
       ]
+    },
+    {
+      "icon": "pin",
+      "kicker": "The address",
+      "h2": "City limits change who reviews the project.",
+      "paras": [
+        "Use the address and parcel number when checking jurisdiction. The <a href=\"https://www.conwaysc.gov/departments/planning___development/conway_gis.php\" target=\"_blank\" rel=\"nofollow noopener\">City of Conway GIS page</a> links separate city-limit, zoning and flood maps. Start there instead of treating a Conway mailing address as proof that every city rule applies.",
+        "Inside the city, <a href=\"https://www.conwaysc.gov/departments/planning___development/index.php\" target=\"_blank\" rel=\"nofollow noopener\">Planning and Development</a> handles land-use questions and tree protection, while <a href=\"https://www.conwaysc.gov/departments/building/index.php\" target=\"_blank\" rel=\"nofollow noopener\">Construction Services</a> handles building permits. For an unincorporated address, start with <a href=\"https://www.horrycountysc.gov/Departments/Planning-and-Zoning\" target=\"_blank\" rel=\"nofollow noopener\">Horry County Planning and Zoning</a>. Describe the whole job: turf area, excavation, imported base, grading, drains and any fence changes. Ask which reviews apply. An answer about replacing a surface may not cover a separate drainage alteration.",
+        "If an association also governs the property, ask whether the proposed change requires an application or approval, and obtain any required response before work starts. City or county review does not establish what an individual association will approve."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Water before turf",
+      "h2": "Show the wet area and where water can leave.",
+      "paras": [
+        "Conway publishes <a href=\"https://www.conwaysc.gov/departments/building/flood_plain_information1.php\" target=\"_blank\" rel=\"nofollow noopener\">property-level floodplain guidance</a>, including maps and a Building Department contact. Its definition of development includes filling, grading and excavating. If the work area is in a mapped flood hazard area, take the proposed preparation to that department before assuming a yard project falls outside review.",
+        "For the estimate, point out water collecting beside the patio, runoff arriving from another property, and downspout discharge. Photos taken after ordinary rain can explain a problem that is invisible during a dry visit. Mark drains and low channels on the plan. The useful question is where water from the finished area is intended to go, and whether that route is available.",
+        "Treat a turf conversion and a flood-control project as different scopes. Ask for drainage work, exclusions and unresolved site conditions to be written down. Avoid choosing a base depth from a town-wide soil description or assuming a new surface makes a flood-prone property flood-proof."
+      ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "Layout and access",
+      "h2": "Fit the installation around what stays.",
+      "paras": [
+        "Measure the route from the unloading point to the back yard as well as the turf area. Gates, steps, fences and material-storage space affect how work can be carried out. Identify irrigation, utility routes, patio edges and trees you want to keep. Conway Planning is the city contact for tree-protection questions; raise them before including excavation or removal in the layout.",
+        "For a putting green, mark the standing area, cup locations and room for any chipping you want to practice. For a dog run, show the exit from the house and access for cleaning. For a lawn, decide whether the whole yard needs conversion or a smaller, heavily used area solves the problem.",
+        "Bring any survey or approved site plan to the free visit. Ask the written estimate to distinguish turf, preparation, edging and cleanup from work needing another decision. Compare layouts against the same scope instead of comparing square-foot prices that cover different jobs."
+      ]
     }
   ],
   "services": [
@@ -43,7 +73,28 @@
     "putting-greens"
   ],
   "servicesNote": "Compare a lawn, a dog run and a putting green against the part of the property you want to improve.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "What should I check before installing artificial turf in Conway, SC?",
+      "a": "Start with the parcel: confirm whether it is inside Conway city limits, identify drainage and floodplain questions, and show how crews can reach the work area. Timeless installs artificial lawns, pet turf and putting greens in the Conway area. A free visit and written estimate let you compare the proposed layout and preparation before work begins."
+    },
+    {
+      "q": "Does a Conway postal address prove I am inside the city?",
+      "a": "Confirm the parcel using the city-limit information linked from Conway GIS or ask city staff. Use the actual work location when requesting guidance; a mailing label is not a project review."
+    },
+    {
+      "q": "Does every Conway turf job need the same permit?",
+      "a": "No single permit answer is established here. Give the responsible city or county department your address and complete scope, including changes to grade, drainage, fences or trees, and ask what applies before work starts."
+    },
+    {
+      "q": "What if my yard has flooded before?",
+      "a": "Tell us what happened and bring photographs or existing reports. Check the city flood information for an in-city property. Keep flood-related questions separate from choosing a lawn surface, and identify any further assessment needed before committing to installation."
+    },
+    {
+      "q": "Can I get a price before deciding on the entire back yard?",
+      "a": "Yes. Start with the area you are considering and explain its use. Timeless offers a free visit and written estimate. Ask for the smaller project to be defined clearly so you can decide whether it meets your needs."
+    }
+  ],
   "nearby": [
     "carolina-forest-sc",
     "forestbrook-sc",

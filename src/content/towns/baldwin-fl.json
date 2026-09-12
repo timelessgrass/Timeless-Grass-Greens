@@ -35,6 +35,35 @@
         "Baldwin retains its own Town government. Confirm whether the work is within Town limits or elsewhere in Duval County before seeking local guidance. Larger parcels may require a different review from the single-family properties covered by Florida’s turf standard.",
         "Mark septic lids, wells and known utilities before discussing preparation. If the lawn stays wet, bring rain photos and identify any further drainage advice needed separately from the turf quote."
       ]
+    },
+    {
+      "icon": "building",
+      "kicker": "Town rules",
+      "h2": "Baldwin writes its own rules, and Town Hall is the one to ask.",
+      "paras": [
+        "Baldwin kept its own government through the 1968 consolidation of Jacksonville and Duval County (<a href=\"https://en.wikipedia.org/wiki/Baldwin,_Florida\" target=\"_blank\" rel=\"nofollow noopener\">Wikipedia</a>). So it has its own town hall on US 90, its own water and wastewater plants, and its own Code of Ordinances, codified through Ordinance 2025-03 of 16 September 2025 (<a href=\"https://library.municode.com/FL/Baldwin\" target=\"_blank\" rel=\"nofollow noopener\">Baldwin Code of Ordinances</a>). Chapter 22 covers zoning, land use and landscaping.",
+        "What you won't find is an HOA. Nobody out here files an architectural application before a lawn goes in; the limits that shape the work are the septic tank and the well. That leaves the town's code and the ground itself as the two things to plan around."
+      ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "Mud and hardpan",
+      "h2": "Flat sand that holds water all summer and blows dry in spring.",
+      "paras": [
+        "Baldwin sits in pine flatwoods and hardwood uplands on Leon-type fine sands. The USDA classes Leon as poorly to very poorly drained, with a hardpan within 30 inches and the water table 6 to 18 inches down for months of the year (<a href=\"https://soilseries.sc.egov.usda.gov/OSD_Docs/L/LEON.html\" target=\"_blank\" rel=\"nofollow noopener\">USDA</a>).",
+        "So big, flat lots hold water through the wet season and turn to loose, dry sand in spring. Dog yards and the ground around sheds and equipment churn to mud, and that, more than looks, is the problem turf solves here.",
+        "We check the ground on the free visit, find the tank and the wet spots, and build the base for your soil so the yard drains through the wet months."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Water",
+      "h2": "Two watering windows on the books, and wells past the town line.",
+      "paras": [
+        "Baldwin posts the water management district's schedule on its own site. As posted in April 2026, odd-numbered homes water on Saturday, even on Sunday and non-residential on Tuesday, with no watering between 10 a.m. and 4 p.m. (<a href=\"https://baldwinfl.govoffice2.com/\" target=\"_blank\" rel=\"nofollow noopener\">Town of Baldwin</a>).",
+        "The district's Phase III order, in force across Duval County since 11 May 2026, is stricter: it limits lawns to one day a week and bars watering after 8 a.m. and before 6 p.m. (<a href=\"https://www.sjrwmd.com/water-supply/water-shortage/\" target=\"_blank\" rel=\"nofollow noopener\">St. Johns River Water Management District</a>). Until Town Hall confirms which window it enforces, water outside the wider one.",
+        "Beyond town limits, most places run on a private well and septic, with no water bill to cut. The reason for turf out there is the mud and the mowing, and no one offers a rebate for it."
+      ]
     }
   ],
   "services": [
@@ -43,7 +72,24 @@
     "putting-greens"
   ],
   "servicesNote": "Compare a pet area, lawn or green as a defined part of the land around your home.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Baldwin, FL?",
+      "a": "We install artificial turf, pet turf and backyard putting greens in Baldwin, FL. Baldwin keeps its own town government, water plant and code, and on lots over an acre the state's turf protection doesn't reach, so local code decides. On septic-served lots, Florida's turf standard also requires access to the tank for pumpout. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "I have five acres outside Baldwin. Which rules apply to my turf?",
+      "a": "Local ones. The state's protection for compliant turf, in force since 19 May 2026, covers single-family lots no bigger than an acre (<a href=\"https://laws.flrules.org/files/Ch_2025-140.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Ch. 2025-140, Laws of Florida</a>). On a bigger parcel the town's code governs inside town limits and Jacksonville's outside them, so ask the right office before you plan a big lawn."
+    },
+    {
+      "q": "Can artificial turf go over a septic tank?",
+      "a": "Florida's turf standard says an installation must provide access to the septic tank for routine pumpout (<a href=\"https://www.flrules.org/gateway/readFile.asp?sid=0&amp;tid=30839130&amp;type=1&amp;file=62-308.100.doc\" target=\"_blank\" rel=\"nofollow noopener\">DEP Rule 62-308.100</a>). So the layout works around the lid, and the tank gets marked before any digging starts."
+    },
+    {
+      "q": "Is Baldwin on JEA water?",
+      "a": "Not inside town limits. Baldwin runs its own water and wastewater treatment plants and publishes its own annual drinking water report (<a href=\"https://baldwinfl.govoffice2.com/\" target=\"_blank\" rel=\"nofollow noopener\">Town of Baldwin</a>). Outside the limits, across the 32234 area, many properties draw from private wells instead."
+    }
+  ],
   "nearby": [
     "jacksonville-fl",
     "oakleaf-plantation-fl",

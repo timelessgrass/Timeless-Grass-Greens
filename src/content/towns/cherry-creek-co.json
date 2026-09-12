@@ -34,6 +34,36 @@
         "If your yard backs onto a greenbelt or detention area, bring the property plan and mark any drainage channel or easement. Do not assume a low strip can be filled or used as part of the turf area.",
         "Confirm the parcel’s jurisdiction and your association’s requirements rather than relying on the mailing address. Describe any grading or drainage changes along with the surface, and bring written conditions to the estimate."
       ]
+    },
+    {
+      "icon": "pin",
+      "kicker": "Which Cherry Creek",
+      "h2": "The Cherry Creek by the state park, not the one in Denver.",
+      "paras": [
+        "This page is for the Cherry Creek in unincorporated Arapahoe County: about 1.67 square miles running roughly from Dayton Street east almost to Peoria Street, and from just north of Belleview Avenue south toward Arapahoe Road, with Greenwood Village mailing addresses (<a href=\"https://en.wikipedia.org/wiki/Cherry_Creek,_Colorado\" target=\"_blank\" rel=\"nofollow noopener\">Wikipedia</a>). Cherry Creek North is a different place, in Denver, in a different county and on a different water utility.",
+        "Cherry Creek State Park forms the northeast edge: 3,346 acres established in 1959 around an 880-acre reservoir, with 35 miles of multi-use trail and a marina (<a href=\"https://en.wikipedia.org/wiki/Cherry_Creek_State_Park\" target=\"_blank\" rel=\"nofollow noopener\">Wikipedia</a>). Golf rings the rest, from Family Sports to the south to Meadow Hills to the northeast.",
+        "Because it's unincorporated, there's no town code of its own. County land-use and grading rules apply, and Greenwood Village's code starts one street to the north, which catches people out."
+      ]
+    },
+    {
+      "icon": "shield",
+      "kicker": "HOAs and the district",
+      "h2": "Your association's committee comes first.",
+      "paras": [
+        "Cherry Creek Vista, Hills West, Huntington Acres, Orchard Hills and Arapahoe Lake all have covenant-controlled associations with architectural committees, and most neighborhoods keep their own pool and tennis courts. State law keeps an association from forbidding nonvegetative turf in a detached home's rear yard (<a href=\"https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SB23-178</a>), though the committee keeps its say over the front yard and how the job looks.",
+        "The Cherry Creek Vista Park and Recreation District runs seven tennis courts, a pool and six parks, and maintains 2.6 miles of county rights-of-way along Havana Street, Orchard Road and parts of Cherry Creek Drive (<a href=\"https://www.ccvprd.org/\" target=\"_blank\" rel=\"nofollow noopener\">Cherry Creek Vista Park and Recreation District</a>).",
+        "Strips like those are where Colorado's turf law now bites. Since 1 January 2026, <a href=\"https://content.leg.colorado.gov/sites/default/files/2024a_005_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SB24-005</a>, as amended by <a href=\"https://content.leg.colorado.gov/sites/default/files/2025a_1113_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">HB25-1113</a>, has kept local governments from allowing nonfunctional artificial turf on new common-interest property, rights-of-way and medians. Single-family back yards aren't touched by it."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Water",
+      "h2": "Denver Water's rules, delivered by a small district.",
+      "paras": [
+        "Water here comes through small special districts rather than a city utility. Cherry Creek Village Water District is the likely provider for much of the area, with Southgate and Willows next door, and all of them buy their water from Denver Water (<a href=\"https://www.denverwater.org/about-us/how-we-operate/service-area/distributors\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>). The name on your bill settles which one is yours.",
+        "Denver Water's Stage 1 drought runs from 25 March 2026 to 30 April 2027: two assigned days a week, watering only before 10 a.m. or after 6 p.m., no water on pavement, and leaks fixed within 10 days. After its board's declaration of 26 August 2026, there is no lawn watering and no spray irrigation at all after 30 September (<a href=\"https://www.denverwater.org/residential/rebates-and-conservation-tips/summer-watering-rules\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>). Master-meter districts handle their own enforcement.",
+        "The rebates are spent. Resource Central's turfgrass-removal discount of up to $750 was fully allocated for 2026 in March, and it pays for a living, water-wise landscape rather than turf (<a href=\"https://www.denverwater.org/residential/rebates-and-conservation-tips/remodel-your-yard/turfgrass-removal\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>). The state's Turf Replacement Program is closed too (<a href=\"https://cwcb.colorado.gov/turf-replacement-program\" target=\"_blank\" rel=\"nofollow noopener\">Colorado Water Conservation Board</a>)."
+      ]
     }
   ],
   "services": [
@@ -42,7 +72,28 @@
     "putting-greens"
   ],
   "servicesNote": "Compare a lawn, pet area and putting green for the usable space around your home.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Cherry Creek, CO?",
+      "a": "We install artificial turf, pet turf and backyard putting greens in Cherry Creek, CO, the unincorporated Arapahoe County neighborhoods around Cherry Creek State Park, not the Cherry Creek neighborhood in Denver. Most streets here have an HOA with an architectural committee, and the clay under your yard drains slowly on a slope toward the park. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Is Cherry Creek part of Greenwood Village?",
+      "a": "No. It's unincorporated Arapahoe County with Greenwood Village mailing addresses, so county land-use and grading rules apply rather than the city's code (<a href=\"https://en.wikipedia.org/wiki/Cherry_Creek,_Colorado\" target=\"_blank\" rel=\"nofollow noopener\">Wikipedia</a>). In practice, your HOA's architectural committee gives the approval that matters."
+    },
+    {
+      "q": "Does Colorado's new turf law affect my back yard?",
+      "a": "No. SB24-005, as amended by HB25-1113, stops local governments allowing nonfunctional artificial turf on new commercial, institutional and HOA common-area landscapes, and on rights-of-way and medians (<a href=\"https://content.leg.colorado.gov/sites/default/files/2024a_005_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SB24-005</a>). Single-family yards aren't covered."
+    },
+    {
+      "q": "Can I still get Denver Water's turfgrass removal discount?",
+      "a": "Not in 2026. The discount of up to $750 was fully allocated in March, and it funds a living ColoradoScape rather than artificial turf (<a href=\"https://www.denverwater.org/residential/rebates-and-conservation-tips/remodel-your-yard/turfgrass-removal\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>). The state's grant program has closed as well (<a href=\"https://cwcb.colorado.gov/turf-replacement-program\" target=\"_blank\" rel=\"nofollow noopener\">Colorado Water Conservation Board</a>)."
+    },
+    {
+      "q": "Where does the rain go from my yard?",
+      "a": "Mostly across the surface. Renohill clay sits in hydrologic group D, the slowest to take in water, and yards here slope 3 to 9 percent toward greenbelts and detention areas (<a href=\"https://sdmdataaccess.sc.egov.usda.gov/\" target=\"_blank\" rel=\"nofollow noopener\">USDA</a>). The base has to allow for that before the turf goes down."
+    }
+  ],
   "nearby": [
     "greenwood-village-co",
     "centennial-co",

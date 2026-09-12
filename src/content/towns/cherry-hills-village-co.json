@@ -35,6 +35,35 @@
         "Cherry Hills Village reviews recreational structures and drainage work. Ask Community Development how it classifies your proposed green and which details it needs, particularly for a larger footprint or work near a waterway. Do not assume a putting green is treated exactly like a sport court.",
         "Bring any applicable property or association requirements to the estimate. Keep excavation, grading and unresolved drainage questions visible in the written scope."
       ]
+    },
+    {
+      "icon": "flag",
+      "kicker": "Putting greens",
+      "h2": "Three U.S. Opens were played here. Practice at home.",
+      "paras": [
+        "Cherry Hills Country Club, founded in 1922 to a William Flynn design and renovated by Tom Doak in 2008, has hosted three U.S. Opens (1938, 1960 and 1978), two PGA Championships (1941 and 1985), the 2005 U.S. Women's Open, the 1993 U.S. Senior Open and the 2014 BMW Championship (<a href=\"https://en.wikipedia.org/wiki/Cherry_Hills_Country_Club\" target=\"_blank\" rel=\"nofollow noopener\">Wikipedia</a>). It has a championship 18 and a 9-hole par-3, and Glenmoor Country Club sits inside the Village as well.",
+        "With lots this size, a backyard green can be far more than a practice strip: slopes that break, a collar of longer turf, several cups and room to chip in from the side. Village zoning sets the minimum lot at 16,000 square feet in R-5 and 2.5 acres in R-1 (<a href=\"https://www.cherryhillsvillage.com/DocumentCenter/View/4334/Accessory-and-Recreational-Structure-Requirements\" target=\"_blank\" rel=\"nofollow noopener\">Cherry Hills Village</a>)."
+      ]
+    },
+    {
+      "icon": "file",
+      "kicker": "Village permits",
+      "h2": "Here the Village signs off, not an HOA.",
+      "paras": [
+        "Most of the Village is governed by city zoning rather than a master association; Buell Mansion and Glenmoor are the gated exceptions. The Village requires an Accessory and Recreational Structure permit for sport courts, pools and similar structures, and Planning must approve a project before any Building or Civil Engineering sign-off, with up to 10 business days for each cycle (<a href=\"https://www.cherryhillsvillage.com/DocumentCenter/View/4334/Accessory-and-Recreational-Structure-Requirements\" target=\"_blank\" rel=\"nofollow noopener\">Cherry Hills Village</a>).",
+        "An unenclosed recreational structure such as a sport court has to sit 75 feet back from the front lot line in R-1, with 25 feet at the rear and sides. The smaller zones step down, to 25 feet in front and 7.5 at the rear and sides in R-5. Enclose one with walls or a fence on more than two sides and the Village treats it as an accessory structure, pool safety fences aside.",
+        "The fee schedule includes a service expansion fee of $0.10 a square foot for sport courts. The requirements don't say whether a putting green counts as a sport court, so put that question to Community Development early."
+      ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "Ground and drainage",
+      "h2": "Big lots, creek edges and the 2,500-square-foot line.",
+      "paras": [
+        "Village lots sit on swelling clay, the smectitic kind that heaves slabs, cracks foundations and buckles flatwork when it gets wet (<a href=\"https://coloradogeologicalsurvey.org/geologic-hazards/expansive-soil-rock/\" target=\"_blank\" rel=\"nofollow noopener\">Colorado Geological Survey</a>). Slopes are gentle to rolling, with hilltop view lots in R-1.",
+        "The Village's permit rules make drainage part of the paperwork. Adding more than 2,500 square feet of impervious surface calls for a Phase III Drainage Report, and disturbing an acre or more, or working next to a waterway or floodplain, calls for a stormwater plan and a Stormwater Construction Permit (<a href=\"https://www.cherryhillsvillage.com/421/Building-Permits\" target=\"_blank\" rel=\"nofollow noopener\">Cherry Hills Village</a>). Little Dry Creek and the High Line Canal both run through the Village.",
+        "Whether the Village counts artificial turf toward that 2,500 square feet isn't stated, and on a large green it's the question that decides the paperwork. Settle it before sizing the green; our guide to <a href=\"/guides/is-artificial-turf-impervious/\">whether artificial turf counts as impervious</a> sets out the arguments."
+      ]
     }
   ],
   "services": [
@@ -43,7 +72,28 @@
     "pet-turf"
   ],
   "servicesNote": "Plan a practice green first, or compare it with a lawn or pet area for the remaining space.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Cherry Hills Village, CO?",
+      "a": "We install backyard putting greens, artificial turf and pet turf in Cherry Hills Village, CO. In the Village, the city's permits matter more than any HOA: sport courts need an Accessory and Recreational Structure permit, and adding more than 2,500 square feet of impervious surface calls for a Phase III Drainage Report. Most homes are on Denver Water. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Do I need a permit for a backyard putting green in Cherry Hills Village?",
+      "a": "Sport courts need the Village's Accessory and Recreational Structure permit, and its requirements don't say whether a putting green counts as one (<a href=\"https://www.cherryhillsvillage.com/DocumentCenter/View/4334/Accessory-and-Recreational-Structure-Requirements\" target=\"_blank\" rel=\"nofollow noopener\">Cherry Hills Village</a>). Ask Community Development at the start, and keep the green inside the setbacks either way."
+    },
+    {
+      "q": "Does turf count toward the 2,500 square feet that triggers a drainage report?",
+      "a": "The Village requires a Phase III Drainage Report when a project adds more than 2,500 square feet of impervious surface (<a href=\"https://www.cherryhillsvillage.com/421/Building-Permits\" target=\"_blank\" rel=\"nofollow noopener\">Cherry Hills Village</a>), but it doesn't say how it treats artificial turf. Ask for the Village's position in writing before you size a large lawn or green."
+    },
+    {
+      "q": "When can outdoor work happen in the Village?",
+      "a": "Exterior construction runs from 7 a.m. to 6 p.m. on weekdays and 8 a.m. to 4 p.m. on Saturdays, with none on Sundays or federal holidays (<a href=\"https://www.cherryhillsvillage.com/DocumentCenter/View/4334/Accessory-and-Recreational-Structure-Requirements\" target=\"_blank\" rel=\"nofollow noopener\">Cherry Hills Village</a>). Install days are planned inside that window."
+    },
+    {
+      "q": "Does the October watering ban reach Cherry Hills Village?",
+      "a": "No. Under Denver Water's Stage 1 declaration, which the Village has posted, lawn watering and spray irrigation are prohibited from 1 October 2026, including watering grass by hand (<a href=\"https://www.cherryhillsvillage.com/310/Denver-Water\" target=\"_blank\" rel=\"nofollow noopener\">Cherry Hills Village</a>). A turf lawn looks the same in October as it does in June."
+    }
+  ],
   "nearby": [
     "englewood-co",
     "greenwood-village-co",

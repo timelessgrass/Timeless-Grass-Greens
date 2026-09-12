@@ -35,6 +35,35 @@
         "On a Coal Creek Ranch or older Louisville yard, bring current property requirements and show existing trees, irrigation and wet areas. Site conditions should be described for the actual lot rather than inferred from a neighborhood label.",
         "Ask City staff about relevant landscape and material requirements, especially near buildings. Keep structural ground concerns and any necessary specialist advice separate from the turf estimate."
       ]
+    },
+    {
+      "icon": "home",
+      "kicker": "After the rebuild",
+      "h2": "A new house on a bare lot: the yard comes last, and only once.",
+      "paras": [
+        "The Marshall Fire destroyed 550 homes in Louisville on 30 December 2021, and as of the city's August 2026 update, 532 have been rebuilt or are under way (<a href=\"https://www.louisvilleco.gov/departments/planning/marshall-fire-rebuilding/\" target=\"_blank\" rel=\"nofollow noopener\">City of Louisville</a>). On many of those lots, the yard is the last thing left to finish.",
+        "A rebuilt house on a freshly graded lot is a clean start for turf: no old sod to strip, no root mat and no old sprinkler lines to chase, and often clear access while other trades are still wrapping up. The free visit measures the new grade and checks the ground before the base is planned.",
+        "It's also the moment to plan the whole yard at once, from a play lawn or a batting and chipping strip to a green beside the patio, so every part sits on the same base and nothing has to be dug up later."
+      ]
+    },
+    {
+      "icon": "shield",
+      "kicker": "Fire-hardening code",
+      "h2": "The fire code covers fences, decks and junipers. It doesn't mention turf.",
+      "paras": [
+        "Louisville's fire-hardening code sets materials for new construction, accessory structures and some repairs: Class A roofing, Class A or metal, masonry or stone fences within 5 feet of buildings, Class A decks with a flame-spread rating of 25, and metal gutters with guards. Since 21 January 2026 it also bars planting new junipers (<a href=\"https://www.louisvilleco.gov/departments/building-safety/building-codes/fire-hardening-code/\" target=\"_blank\" rel=\"nofollow noopener\">City of Louisville</a>).",
+        "The code doesn't address artificial turf either way. If you want turf close to the house, ask the city's building staff what they expect in those first few feet before you settle the layout, and keep their answer in writing.",
+        "HOAs cover the 1980s and 90s subdivisions, such as Coal Creek Ranch, Takoda and Sundance, but not Old Town. Where there is one, it can't close the back yard of a detached home to nonvegetative turf (<a href=\"https://codes.findlaw.com/co/title-38-property-real-and-personal/co-rev-st-sect-38-33-3-106-5.html\" target=\"_blank\" rel=\"nofollow noopener\">C.R.S. 38-33.3-106.5</a>)."
+      ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "Mesa, creek and coal",
+      "h2": "Clay, creek bottom and old coal ground under one town.",
+      "paras": [
+        "Around Coal Creek Ranch the USDA maps Valmont and Nunn soils, swelling clays of the montmorillonite and smectite kind, plus poorly drained Calkins soil near Coal Creek and terrace escarpments where the mesa drops at 12 to 60% slopes (<a href=\"https://sdmdataaccess.nrcs.usda.gov/\" target=\"_blank\" rel=\"nofollow noopener\">USDA Soil Data Access</a>).",
+        "The survey even maps a unit of gravel pits and mine dumps. Louisville sat on the Northern Coal Field, and undermined ground is a known land-use question in Boulder County. Clay, a wet creek-side corner and a mesa edge each ask something different of the base, which is why we look at the ground before planning one."
+      ]
     }
   ],
   "services": [
@@ -43,7 +72,24 @@
     "pet-turf"
   ],
   "servicesNote": "Compare a lawn, pet area or putting green as part of the complete landscape plan.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Louisville, CO?",
+      "a": "We install artificial turf, play lawns and backyard putting greens in Louisville, CO. Most Louisville homes lost in the 2021 Marshall Fire have been rebuilt or are under way, and a newly graded lot is a clean start for a yard. The city's fire-hardening code covers fences, decks and junipers but doesn't address artificial turf, so ask the city about turf near the house. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Can we put a putting green behind a Coal Creek Ranch home?",
+      "a": "Yes. Coal Creek Golf Course is the city's own, 18 holes and par 72 from 4,825 to 7,017 yards, and Coal Creek Ranch homes back onto it (<a href=\"https://www.coalcreekgolf.com/\" target=\"_blank\" rel=\"nofollow noopener\">Coal Creek Golf Course</a>). A green out back lets you work on putting whenever the course is booked."
+    },
+    {
+      "q": "Will turf work as a play area for kids?",
+      "a": "Yes, and on a rebuilt lot you can plan it from scratch: a play lawn, a batting or chipping strip, or both. Site the play space on the side of the yard that's shaded in the afternoon, because <a href=\"/blog/how-hot-does-artificial-turf-get/\">turf in full sun gets hot, like a patio</a>."
+    },
+    {
+      "q": "Can Louisville businesses and HOAs use turf on shared grounds?",
+      "a": "Not decorative turf on a new landscape. Colorado's turf law, as amended in 2025, keeps local governments from approving non-functional turf where a business, an institution such as a school, or an HOA common ground is newly landscaped (<a href=\"https://content.leg.colorado.gov/sites/default/files/2025a_1113_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">HB25-1113</a>). Playing fields for sport aren't affected (<a href=\"https://leg.colorado.gov/bills/sb24-005\" target=\"_blank\" rel=\"nofollow noopener\">SB24-005</a>)."
+    }
+  ],
   "nearby": [
     "superior-co",
     "lafayette-co",

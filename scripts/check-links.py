@@ -76,7 +76,7 @@ def normalise(href, origin_host):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('out', nargs='?', default='dist')
-    ap.add_argument('--min-words', type=int, default=0, help='Optional editorial length hint; does not fail the build.')
+    ap.add_argument('--min-words', type=int, default=600, help='Word floor for an indexable page; under it the build fails.')
     ap.add_argument('--max-depth', type=int, default=3)
     ap.add_argument('--warn-only', action='store_true')
     a = ap.parse_args()
@@ -153,10 +153,12 @@ def main():
                 depth[got] = depth[cur] + 1
                 q.append(got)
 
+    # the section indexes route the reader on; the floor is for pages that explain something
+    HUBS = {'/services/', '/guides/', '/blog/'}
     for route in sorted(indexable):
         p = pages[route]
-        if p['words'] < a.min_words:
-            warns.append(f'LENGTH-1 {route} — {p["words"]} words in <main>; review usefulness, not padding')
+        if p['words'] < a.min_words and route not in HUBS:
+            fails.append(f'THIN-1 {route} — {p["words"]} words in <main>, floor is {a.min_words}')
         if route != '/' and not inbound[route]:
             fails.append(f'ORPHAN-1 {route} — no inbound link from the body of any page')
         d = depth.get(route)
@@ -165,13 +167,13 @@ def main():
         elif d > a.max_depth:
             fails.append(f'DEPTH-1 {route} — {d} clicks from /, max is {a.max_depth}')
 
-    n_thin = sum(1 for r in indexable if pages[r]['words'] < a.min_words)
+    n_thin = sum(1 for r in indexable if pages[r]['words'] < a.min_words and r not in HUBS)
     words = [pages[r]['words'] for r in indexable]
     words.sort()
     print(f'{len(pages)} pages · {len(indexable)} indexable · '
           f'words in <main>: min {words[0]}, median {words[len(words)//2]}, max {words[-1]}')
     if a.min_words:
-        print(f'{n_thin} below the optional {a.min_words}-word review threshold\n')
+        print(f'{n_thin} under the {a.min_words}-word floor\n')
 
     for f_ in fails:
         print(f'  x FAIL {f_}')

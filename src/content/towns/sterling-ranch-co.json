@@ -35,6 +35,36 @@
         "Where a chase drain crosses the yard, locate it on the property plan and confirm how it must remain accessible. Bring any builder or CAB drainage conditions before considering a change in grade.",
         "Ask the CAB for the current requirements and applicable written approval for the proposed landscape. A water-wise planting plan does not by itself establish acceptance of a turf product or layout. Bring the conditions to the estimate."
       ]
+    },
+    {
+      "icon": "home",
+      "kicker": "The new-build yard",
+      "h2": "Builder dirt out back, and an approval to get before anyone digs.",
+      "paras": [
+        "Sterling Ranch is still being built. Construction began in early 2016, and the plan runs to nine villages on 3,400 acres over about 20 years (<a href=\"https://en.wikipedia.org/wiki/Sterling_Ranch,_Colorado\" target=\"_blank\" rel=\"nofollow noopener\">Sterling Ranch</a>). Yards are often handed over raw or barely landscaped at closing, so turf here is usually a first landscape rather than a replacement.",
+        "Every lot sits under the Sterling Ranch Community Authority Board and one of seven metropolitan districts, and any change to the outside of the home or the lot needs the CAB's written approval before work starts, drawn to its Code of Rules Guidebook (<a href=\"https://sterlingranchcab.com/198/Architectural-Community-Standards\" target=\"_blank\" rel=\"nofollow noopener\">Sterling Ranch CAB</a>). Ask the CAB in writing whether its standards limit artificial turf, and where, before the layout is settled.",
+        "For a detached house, state law sets a floor under the CAB's rules: Colorado's SB23-178 keeps HOA design guidelines from ruling nonvegetative turf out of the back yard (<a href=\"https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SB23-178</a>)."
+      ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "The ground",
+      "h2": "Compacted fill, chase drains and a builder grade to keep.",
+      "paras": [
+        "Sterling Ranch sits at 5,709 feet on the bench between the plains and the foothills, west of Chatfield and just below Waterton Canyon and Roxborough State Park. Its clay carries the swelling risk of bentonite and montmorillonite that the Colorado Geological Survey describes along the Front Range (<a href=\"https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/\" target=\"_blank\" rel=\"nofollow noopener\">Colorado Geological Survey</a>).",
+        "A new lot adds its own problems: heavily compacted construction subgrade and imported fill that drains poorly and settles unevenly, debris in the top layers, and a builder's rough grade that shouldn't be changed. If a chase drain installed by Douglas County or the CAB runs through your yard, the base has to leave it working.",
+        "Narrow side yards and tight rear setbacks make access the other half of the job. The free site visit measures the way in, checks the ground and finds the drains before the layout is drawn."
+      ]
+    },
+    {
+      "icon": "leaf",
+      "kicker": "Water",
+      "h2": "A community built around saving water, with room for turf in the plan.",
+      "paras": [
+        "Dominion Water and Sanitation District, set up in 2004, supplies water and wastewater service across some 33,000 acres of northwest Douglas County and built a treatment plant inside Sterling Ranch. It broke ground on the Chatfield Basin Water Reclamation Facility in August 2025, and its supply comes through partnerships with Denver Water, Aurora Water and Douglas County systems, from sources up to 85 miles away (<a href=\"https://www.dominionwsd.org/\" target=\"_blank\" rel=\"nofollow noopener\">Dominion Water and Sanitation District</a>).",
+        "Sterling Ranch runs Colorado's first community-wide rainwater harvesting program, managed by Dominion, and its homes come with advanced water metering and smart irrigation controls. With Denver Botanic Gardens, the community also publishes a list of drought-tolerant plants for residents (<a href=\"https://sterlingranch.com/sustainability/\" target=\"_blank\" rel=\"nofollow noopener\">Sterling Ranch</a>).",
+        "Turf fits that plan as the part of the yard that uses no water at all, set among plants from that list. Don't count on a rebate for it: the state's turf-replacement grants excluded artificial turf and then closed in March 2025 (<a href=\"https://cwcb.colorado.gov/turf-replacement-program\" target=\"_blank\" rel=\"nofollow noopener\">CWCB</a>)."
+      ]
     }
   ],
   "services": [
@@ -43,7 +73,24 @@
     "pet-turf"
   ],
   "servicesNote": "Compare a first lawn, pet area or compact green within the complete plan for your new yard.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Sterling Ranch, CO?",
+      "a": "We install first-landscape turf, small-yard putting greens and turf for pets in Sterling Ranch, CO. New back yards here often start as builder dirt, and every lot sits under the Sterling Ranch Community Authority Board, which wants written approval for changes to the home or lot before work starts. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "What are the watering rules in Sterling Ranch?",
+      "a": "Ask Dominion Water and Sanitation District for its current rules before you plant anything that needs water; homes here already carry smart irrigation controls (<a href=\"https://www.dominionwsd.org/\" target=\"_blank\" rel=\"nofollow noopener\">Dominion Water and Sanitation District</a>). Turf needs no watering at all."
+    },
+    {
+      "q": "What's a chase drain, and does it matter for turf?",
+      "a": "It's a drain that Douglas County or the CAB put in, and some run through back yards; the CAB publishes a page about them (<a href=\"https://sterlingranchcab.com/\" target=\"_blank\" rel=\"nofollow noopener\">Sterling Ranch CAB</a>). A turf base has to leave it working, so it gets located before the layout is drawn."
+    },
+    {
+      "q": "Which parts of Sterling Ranch are built so far?",
+      "a": "Providence Village, the first of the nine villages, holds just under 800 homes with a recreation center, church, school, civic center and parks, and Ascent Village and Parkvale are underway. The Sterling Ranch Community Library is due to open in Providence Village in 2027 (<a href=\"https://sterlingranch.com/\" target=\"_blank\" rel=\"nofollow noopener\">Sterling Ranch</a>)."
+    }
+  ],
   "nearby": [
     "highlands-ranch-co",
     "ken-caryl-co",

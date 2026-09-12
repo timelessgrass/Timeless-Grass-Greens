@@ -35,6 +35,36 @@
         "King & Bear, Murabella, Samara Lakes and Cascades should not be treated as one association with a shared turf policy. Obtain the current property and architectural-review instructions, including any relevant CDD conditions.",
         "Bring pond, drainage and tree information before sizing the green. Required shoreline separation, canopy conditions and maintenance access still need to be considered on a golf-facing property. Keep any unresolved drainage work clear in the written estimate."
       ]
+    },
+    {
+      "icon": "flag",
+      "kicker": "The game stayed",
+      "h2": "The museum moved out. The golf didn't.",
+      "paras": [
+        "The World Golf Hall of Fame opened here in May 1998 and closed its World Golf Village campus in 2023, moving back to Pinehurst, North Carolina. The IMAX theater closed in 2024 and Murray Brothers Caddyshack on 27 June 2026, and as of September 2025 the county was weighing proposals for the empty Hall of Fame site (<a href=\"https://en.wikipedia.org/wiki/World_Golf_Village\" target=\"_blank\" rel=\"nofollow noopener\">Wikipedia</a>).",
+        "The courses stayed. King & Bear is the only course Jack Nicklaus and Arnold Palmer designed together, with Bobby Weed: par 72 over 7,279 yards, fully restored in a five-month project. Slammer & Squire, by Bobby Weed with Sam Snead and Gene Sarazen, plays par 72 over 6,939 yards (<a href=\"https://www.stjohnsmag.com/golf-courses.html\" target=\"_blank\" rel=\"nofollow noopener\">St. Johns Magazine</a>).",
+        "With two championship courses at the center of the community, the practice that counts happens between rounds. A backyard green with real break, a fringe and a few cups puts it steps from the lanai. On a golf-frontage lot, plan the green around the cart traffic, the overspray and the wear your own short game puts around the cups."
+      ]
+    },
+    {
+      "icon": "shield",
+      "kicker": "Approvals",
+      "h2": "A CDD, an HOA and a board for nearly every yard.",
+      "paras": [
+        "Almost every home in World Golf Village sits inside a community development district and an HOA. Turnbull Creek CDD, set up in 2004, covers Murabella, with its amenity center on Positano Avenue (<a href=\"https://turnbullcreekcdd.com/\" target=\"_blank\" rel=\"nofollow noopener\">Turnbull Creek CDD</a>). Plan on sending your architectural board a plan for any turf, and get its answer in writing.",
+        "On a fairway lot, Florida law gives you less cover than you might think. An HOA can't restrict turf that isn't visible from the frontage, the neighbors, a common area or a community golf course (<a href=\"https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&amp;Search_String=&amp;URL=0700-0799/0720/Sections/0720.3045.html\" target=\"_blank\" rel=\"nofollow noopener\">Fla. Stat. 720.3045</a>), and a green that a King &amp; Bear or Slammer &amp; Squire fairway looks onto fails that last test. The board decides.",
+        "A 2026 change matters too: from 1 July, a community development district enforcing deed restrictions sits outside the state law that bars local turf bans (<a href=\"https://www.flsenate.gov/Session/Bill/2026/1180/Analyses/2026s01180.fp.PDF\" target=\"_blank\" rel=\"nofollow noopener\">SB 1180</a>). And Florida's law protecting Florida-Friendly landscaping never mentions artificial turf, so it won't override a board either (<a href=\"https://www.flsenate.gov/Laws/Statutes/2025/0373.185\" target=\"_blank\" rel=\"nofollow noopener\">Fla. Stat. 373.185</a>); <a href=\"/guides/florida-friendly-landscaping-and-hoas/\">our HOA guide</a> explains both."
+      ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "The ground",
+      "h2": "A hardpan under the sand, and a pond out back.",
+      "paras": [
+        "World Golf Village sits on flatwoods sand of the Myakka type: dark gray sand on top, gray sand down to roughly 26 inches, and below that an organic-stained hardpan reaching about 60 inches, with the water table within 10 inches of the surface for one to five months a year. Across St. Johns County, USDA soil survey data rates 78.5% of mapped acres poorly or very poorly drained (<a href=\"https://sdmdataaccess.nrcs.usda.gov/\" target=\"_blank\" rel=\"nofollow noopener\">USDA NRCS</a>).",
+        "Ponds, wet preserves and golf drainage swales run through the plats, so a lot of back yards end at water. The usual result is a rear corner that stays soggy after a storm and bakes bare in a drought. On the free visit we look at the slope and the ground, and we build the base to move that water through and away.",
+        "Shade depends on the street. The older lots around the resort core and King &amp; Bear keep mature live oaks and pines, while Murabella and the newer sections are open to the sun. Turf works in both, and <a href=\"/blog/how-hot-does-artificial-turf-get/\">shade keeps it cooler</a> in summer."
+      ]
     }
   ],
   "services": [
@@ -43,7 +73,24 @@
     "pet-turf"
   ],
   "servicesNote": "Compare a practice green, lawn or pet area within the usable part of your property.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in World Golf Village, FL?",
+      "a": "We install backyard putting greens, artificial turf and pet turf in World Golf Village, FL. King & Bear and Slammer & Squire are at the heart of the community, and on a lot the course can see, your HOA's architectural board decides. World Golf Village isn't on reclaimed water, so lawns here get one potable watering day a week under the 2026 order. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Does the county limit how much of my lot I can cover?",
+      "a": "The county's residential districts allow up to 70% impervious surface and require at least a 10-foot rear yard, though most of World Golf Village runs on its own planned-development plats (<a href=\"https://www.sjcfl.us/wp-content/uploads/2024/01/article-vi.pdf\" target=\"_blank\" rel=\"nofollow noopener\">LDC Article VI</a>). The code has no turf provision; your plat and your board are the limits to check."
+    },
+    {
+      "q": "Can an amenity center count turf toward its required landscaping?",
+      "a": "Not toward what the county requires. Its code bars artificial plants from satisfying any required landscaping on development that needs a permit, and it exempts golf courses and sports fields from its Florida-Friendly planting rules (<a href=\"https://www.sjcfl.us/wp-content/uploads/2024/01/article-vi.pdf\" target=\"_blank\" rel=\"nofollow noopener\">LDC Article VI</a>). A back yard is outside that rule."
+    },
+    {
+      "q": "Once the order lifts, how long can new plantings be watered in?",
+      "a": "Under the normal rules, new landscaping may be watered daily for its first 30 days, then every other day for 30 more (<a href=\"https://www.sjcfl.us/protect-our-water/\" target=\"_blank\" rel=\"nofollow noopener\">St. Johns County</a>). Under Phase III, new sod and new plantings aren't allowed at all."
+    }
+  ],
   "nearby": [
     "mill-creek-fl",
     "st-johns-fl",

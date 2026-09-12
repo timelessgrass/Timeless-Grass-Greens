@@ -35,6 +35,35 @@
         "Todd Creek includes unincorporated Adams County properties and neighborhoods within Thornton. Confirm jurisdiction directly before relying on a permit or rebate rule. The utility bill identifies the water provider but is not the only check for the boundary.",
         "Bring current association conditions and any known drainage or ground information. Obtain appropriate advice for foundation movement or other structural concerns before finalizing the surface work."
       ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "The ground",
+      "h2": "Montmorillonite clay on a real slope, so the green is built, not rolled out.",
+      "paras": [
+        "USDA soil maps put Todd Creek, at 5,036 feet, on Renohill loam, 3 to 9 percent slopes. About 85% of it is Renohill, a fine, montmorillonitic soil formed in material weathered from soft calcareous shale, with shallow shale-derived Samsil and Shingle soils mixed in (<a href=\"https://sdmdataaccess.sc.egov.usda.gov/\" target=\"_blank\" rel=\"nofollow noopener\">USDA Soil Data Access</a>).",
+        "In plain terms: a stiff clay that swells when wet and shrinks and cracks when dry, weathered shale not far below it that takes in very little water, and a real fall across the lot. Rain on that grade sheets off, and a base laid without a plan can creep downhill.",
+        "So a green here starts with cut-and-fill and a designed subgrade rather than a leveling pass, and its drainage has to move water clear of the house, where heaving clay is a structural problem as well. Site prep and a base made for this ground come first; the green goes on top."
+      ]
+    },
+    {
+      "icon": "flag",
+      "kicker": "Putting greens",
+      "h2": "An Arthur Hills course and a Pete Dye course, both close to home.",
+      "paras": [
+        "Todd Creek Golf Club, at 8455 Heritage Drive in Thornton, is an 18-hole, par-72 Arthur Hills design that plays to 7,435 yards (<a href=\"https://www.toddcreekgolfclub.com/\" target=\"_blank\" rel=\"nofollow noopener\">Todd Creek Golf Club</a>). Riverdale Dunes, a Pete Dye design, and its parkland partner Riverdale Knolls, with canals running through it, are Adams County's public courses at 13300 Riverdale Road (<a href=\"https://www.riverdalegolf.com/\" target=\"_blank\" rel=\"nofollow noopener\">Riverdale Golf Club</a>).",
+        "On an acreage lot there's room for more than a putting strip: a multi-hole green with a chipping area, built on a graded pad, so the break is the break you chose and not the lot's."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Water",
+      "h2": "Non-potable irrigation on one side of the line, Thornton's drought rules on the other.",
+      "paras": [
+        "Most of Todd Creek gets its water from the Todd Creek Village Metropolitan District, which produces its own supply and runs a dual-pipe system: potable water to the house, separate non-potable water for irrigation. As of 5 March 2026, every property it serves can use non-potable irrigation water (<a href=\"https://www.toddcreekvillage.org/\" target=\"_blank\" rel=\"nofollow noopener\">Todd Creek Village Metropolitan District</a>). Turf on this side is about the ground and the upkeep more than the water bill.",
+        "Thornton water comes with Thornton's Stage 1 drought rules, in force since 15 March 2026: lawn watering on two days a week of the customer's choosing, no lawn watering from 10 a.m. until 6 p.m., and new sod or seed only on a 21-day permit issued in May, June, September and October (<a href=\"https://www.thorntonwater.com/restrictions-drought/\" target=\"_blank\" rel=\"nofollow noopener\">Thornton Water</a>).",
+        "Thornton is also the exception among metro providers: it pays toward artificial turf on qualifying single-family projects, with a permit first, and its rules call for PFAS-free turf and infill (<a href=\"https://www.thorntonwater.com/wp-content/uploads/2026/02/2026-residential_artificial_turf_info__rules-1.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Thornton Water</a>)."
+      ]
     }
   ],
   "services": [
@@ -43,7 +72,24 @@
     "pet-turf"
   ],
   "servicesNote": "Plan a green and chipping area, or compare a lawn and pet area for the ground nearer the house.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Todd Creek, CO?",
+      "a": "We install backyard putting greens, acreage lawns and pet turf in Todd Creek, CO. The ground is Renohill loam on 3 to 9 percent slopes, a shale-derived swelling clay, so a green is built on a graded pad; and homes on the Thornton side of the line fall under Thornton's Stage 1 watering rules and its turf rebate. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "How does Thornton's turf rebate work for Todd Creek homes?",
+      "a": "It covers homes on the Thornton side: up to $2 a square foot for qualifying projects of 200 to 1,000 square feet, with a lifetime cap of $2,000 per residential lot. The turf has to replace high-water lawn such as Kentucky bluegrass, turf over existing patios or concrete doesn't qualify, and the application needs the design, a W-9, a copy of your driver's license, receipts for every material, and photos before, during and after (<a href=\"https://www.thorntonwater.com/wp-content/uploads/2026/02/2026-residential_artificial_turf_info__rules-1.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Thornton Water</a>)."
+    },
+    {
+      "q": "How do I tell which side of the line my house is on?",
+      "a": "Your water bill is the quick check: Todd Creek Village Metropolitan District on the unincorporated side, Thornton Water on the annexed side. A few acreage parcels at the fringe run on small groundwater systems, such as Riverdale Peaks II Metropolitan District, or on their own domestic wells."
+    },
+    {
+      "q": "Will turf help with the clay near my foundation?",
+      "a": "It helps in one way that matters: with no lawn to water, no sprinkler keeps soaking the clay beside the house, and the base can be graded to send rain away from it. On Renohill clay, crack and heave is what happens when water sits against the foundation."
+    }
+  ],
   "nearby": [
     "brighton-co",
     "thornton-co",

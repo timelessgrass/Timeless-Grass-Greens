@@ -35,6 +35,36 @@
         "Leaves and other tree debris still need to be removed from turf. For a practice green, compare locations by access, shade and how much debris lands there, as well as the shape of the available space.",
         "On a lake-side or low-lying property, show us where water collects after rain. The estimate should identify preparation and any drainage work separately; a new surface alone does not solve a wet-yard problem."
       ]
+    },
+    {
+      "icon": "sun",
+      "kicker": "Shade and salt",
+      "h2": "Why grass won't hold here.",
+      "paras": [
+        "Briarcliffe Acres was laid out inside the maritime forest, and the canopy stayed. Mature live oak and yaupon shade most lots, and warm-season grasses like St. Augustine and centipede go thin and patchy under them. The sand below drains fast and holds little organic matter, and the oak roots take what water there is.",
+        "The oceanfront row adds salt spray, which burns whatever the shade has left. Turf needs no sun to stay green and has nothing for salt to kill, so the yard looks the same under the trees as it does in the open.",
+        "Shade is a plus for turf, too: it runs much cooler under a canopy than in open sun, as our <a href=\"/blog/how-hot-does-artificial-turf-get/\">turf heat article</a> shows."
+      ]
+    },
+    {
+      "icon": "shield",
+      "kicker": "The town's rules",
+      "h2": "The town issues the permit. The Association isn't an HOA.",
+      "paras": [
+        "The Briarcliffe Acres Association manages the common and community areas and says plainly that it is not an HOA. Building permits, the lakes, roads and utilities are handled by the town (<a href=\"https://briarcliffeacresassociation.org/\" target=\"_blank\" rel=\"nofollow noopener\">Briarcliffe Acres Association</a>). There's no architectural committee to satisfy; questions go to Town Hall.",
+        "The town has a Public Tree Ordinance, No. 2022.04, with a list of replacement trees updated in March 2026 (<a href=\"http://www.townofbriarcliffe.us\" target=\"_blank\" rel=\"nofollow noopener\">Town of Briarcliffe Acres</a>). Before any digging near a big oak, ask Town Hall whether the ordinance covers the trees on your lot and what distance it wants kept from them.",
+        "Keeping the dig out of the root zone keeps the canopy, and the canopy keeps the shade. When we visit, we mark the big trees and plan around them, and you approve the layout before work starts."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Water",
+      "h2": "Two spring-fed lakes, and sand that drains fast.",
+      "paras": [
+        "Inside the town are two spring-fed freshwater lakes: North Lake, about 5.2 acres, and South Lake, about 3.4 (<a href=\"https://briarcliffeacresassociation.org/history/\" target=\"_blank\" rel=\"nofollow noopener\">Briarcliffe Acres Association</a>). Around them the water table sits higher and moves with the seasons; toward the beach, the dune sand drains quickly.",
+        "Hurricane Hazel came ashore at high tide in October 1954 and took the original palm-thatched beach cabana with it (<a href=\"https://briarcliffeacresassociation.org/history/\" target=\"_blank\" rel=\"nofollow noopener\">Briarcliffe Acres Association</a>). Storms and wet seasons are why the base gets built for the ground on your lot, whichever end of town it's on.",
+        "On the lake side, the free visit shows how high the water sits in your yard; toward the beach, how loose the sand is. Either answer shapes the base."
+      ]
     }
   ],
   "services": [
@@ -43,7 +73,28 @@
     "pet-turf"
   ],
   "servicesNote": "Compare lawn, pet-turf and putting-green options for the clearings and access available on your property.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Briarcliffe Acres, SC?",
+      "a": "We install artificial turf, putting greens and pet turf in Briarcliffe Acres, SC. Most lots here sit under mature live oak and yaupon, where warm-season grass thins, and the town, not the Association, handles building permits and has its own Public Tree Ordinance, No. 2022.04. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Who do I ask before putting in turf in Briarcliffe Acres?",
+      "a": "The town. Building permits come from the town rather than the Association, and the town posts its building permit application online (<a href=\"http://www.townofbriarcliffe.us\" target=\"_blank\" rel=\"nofollow noopener\">Town of Briarcliffe Acres</a>). Ask there before the layout is settled."
+    },
+    {
+      "q": "Does turf work on the oceanfront row?",
+      "a": "Yes. The salt spray that burns grass does nothing to turf, and the dune sand under it drains fast. Hose it down after a stretch of onshore wind to wash the salt off, and brush out any sand that blows in."
+    },
+    {
+      "q": "Can a putting green go under the trees?",
+      "a": "It can, though falling leaves and pine straw mean more brushing and blowing off. Many lots here have a sunnier clearing, and a green there stays cleaner for less work."
+    },
+    {
+      "q": "Can pet turf go on a shaded lot?",
+      "a": "Yes. Pet turf drains the same in shade as in sun, and it won't go bald where the dog runs under the oaks. Rinse the dog's favorite spot with a hose now and then to keep it fresh."
+    }
+  ],
   "nearby": [
     "north-myrtle-beach-sc",
     "myrtle-beach-sc",

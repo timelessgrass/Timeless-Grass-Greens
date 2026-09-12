@@ -35,6 +35,16 @@
         "Centennial addresses are served by different water providers. Centennial Water and Sanitation District serves Highlands Ranch, so its similar name should not be used to assume an offer or rule applies to your City of Centennial address.",
         "Check program eligibility directly before using a rebate in your budget. A turf area no longer needs routine irrigation for living grass, but it still needs cleaning and care, particularly with pets. Compare the change against your own use."
       ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Your water provider",
+      "h2": "Use the name on the bill when comparing water costs.",
+      "paras": [
+        "Centennial is served by separate water providers, including <a href=\"https://www.acwwa.com/\" target=\"_blank\" rel=\"nofollow noopener\">Arapahoe County Water and Wastewater Authority</a>. Check the company or district on your bill before applying a watering schedule or rebate to the property.",
+        "The similar name can be confusing: <a href=\"https://www.centennialwater.org/turf-replacement-program\" target=\"_blank\" rel=\"nofollow noopener\">Centennial Water and Sanitation District</a> serves Highlands Ranch. Its program should not be assumed to cover a City of Centennial address. Ask your provider whether a proposed landscape change qualifies before including an incentive in your budget.",
+        "Artificial turf removes routine irrigation for living grass from the converted area. Allow for the water and time used to clean the surface, particularly with pets, and compare the change using your own bills and planned use."
+      ]
     }
   ],
   "services": [
@@ -43,7 +53,16 @@
     "pet-turf"
   ],
   "servicesNote": "Explore a backyard green, residential lawn or pet area for the space you want to use.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "What should I consider when planning artificial turf in Centennial?",
+      "a": "Start with how you want to use the yard, then consider access, shade and existing drainage. Check the provider printed on your water bill before relying on a watering schedule or rebate. TIMELESS Grass & Greens offers free installation estimates for lawns, pet turf and backyard putting greens in Centennial."
+    },
+    {
+      "q": "What should I bring if my property has an HOA?",
+      "a": "Bring the current requirements covering the proposed landscape change and any written response to your layout. Association requirements should be considered alongside the applicable public requirements before installation."
+    }
+  ],
   "nearby": [
     "greenwood-village-co",
     "littleton-co",

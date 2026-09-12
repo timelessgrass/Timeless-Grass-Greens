@@ -35,6 +35,36 @@
         "For a duplex, townhome or condo, confirm whether the proposed area is private or shared and who can authorize the change. A new infill project can also have landscape requirements that differ from an established detached yard.",
         "Ask Edgewater Community Development about the complete proposal where needed, including front-yard, grading or drainage changes. Bring written conditions to the estimate so the work is priced around the actual property."
       ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Water",
+      "h2": "From 1 October, Edgewater lawns get no water at all.",
+      "paras": [
+        "Edgewater is one of Denver Water's master-meter distributors, on the same list as Lakewood and Wheat Ridge, so Denver Water's drought order applies to Edgewater addresses (<a href=\"https://www.denverwater.org/about-us/how-we-operate/service-area/distributors\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>). Stage 1 was declared on 25 March 2026 and runs through 30 April 2027, with a 20% cut in total use as the goal.",
+        "Through 30 September, houses water on two assigned days a week and never between 10 a.m. and 6 p.m.: even addresses on Sunday and Thursday, odd addresses on Wednesday and Saturday. From 1 October 2026, watering grass and running spray irrigation are prohibited outright. Only hand-held hoses with shutoff nozzles and drip lines for trees, shrubs and perennials stay legal (<a href=\"https://www.denverwater.org/drought\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>).",
+        "The rebates won't pay for the switch. The state's Turf Replacement Program defines the replacement as water-wise landscaping built on lower-water plants (<a href=\"https://leg.colorado.gov/bills/hb22-1151\" target=\"_blank\" rel=\"nofollow noopener\">HB22-1151</a>), and Denver Water's turfgrass removal discount says artificial turf is not allowed (<a href=\"https://www.denverwater.org/tap/ditching-useless-turf-coloradoscape-we-can-help\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>). Turf gets through the ban without a drop of water; it just doesn't earn a rebate."
+      ]
+    },
+    {
+      "icon": "home",
+      "kicker": "Small lots",
+      "h2": "A tight city grid, with small yards behind it.",
+      "paras": [
+        "Edgewater covers just 445 acres, bordered by Denver to the east, Lakewood to the south and west and Wheat Ridge to the north, with Sloan's Lake across Sheridan Boulevard. Its grid dates from the streetcar era: frame bungalows and small cottages from before 1960 on narrow lots served by alleys.",
+        "Many of those houses are being scraped, popped-top or replaced with duplexes, townhomes and apartments, and a rebuild is a natural moment to redo the yard. Back yards behind the detached houses are small, and behind the new attached homes smaller still, so the whole yard is usually one job: the base built, the turf laid, seamed and edged, and the site left clean.",
+        "The older single-family streets have no HOA, while most new townhome and condo buildings come with a small association. State law shields back-yard turf from HOA bans on detached single-family homes only, so an attached home needs its association's approval (<a href=\"https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SB23-178</a>)."
+      ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "The ground",
+      "h2": "Clay under the grid, so the base carries the load.",
+      "paras": [
+        "Edgewater sits on the plains side of the Front Range, where the Colorado Geological Survey says swelling clays underlie many populated areas and crack foundations, driveways and basement floors. The survey also names inappropriate landscaping among the things that make that damage worse (<a href=\"https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/\" target=\"_blank\" rel=\"nofollow noopener\">Colorado Geological Survey</a>).",
+        "On clay like this, a thin base lets every seasonal swell show through the turf. We dig to the depth your soil needs, compact the base and grade it so water runs away from the house.",
+        "The lots are flat to gently sloped toward Sloan's Lake, so drainage here is a matter of the alley and the fence line rather than a hillside."
+      ]
     }
   ],
   "services": [
@@ -43,7 +73,28 @@
     "putting-greens"
   ],
   "servicesNote": "Choose a lawn, pet area or compact green without losing the access a small yard needs.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Edgewater, CO?",
+      "a": "We install artificial turf, pet turf and backyard putting greens in Edgewater, CO. Two things set Edgewater apart: it gets its water through Denver Water, whose drought rules stop all watering of grass from 1 October 2026, and its streetcar-era lots are small, so a whole back yard is often one tidy job. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Can I water my lawn in Edgewater after September?",
+      "a": "Not the grass. From 1 October 2026, Denver Water's Stage 1 order prohibits watering grass and using spray irrigation, while trees, shrubs and perennials can still get a hand-held hose with a shutoff nozzle or drip (<a href=\"https://www.denverwater.org/drought\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>). Artificial turf needs no water in any month."
+    },
+    {
+      "q": "Will a rebate help pay for artificial turf in Edgewater?",
+      "a": "No. Denver Water's discount for removing turfgrass excludes artificial turf from the landscape that replaces it (<a href=\"https://www.denverwater.org/tap/ditching-useless-turf-coloradoscape-we-can-help\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>). The state's Turf Replacement Program pays for water-wise plantings instead (<a href=\"https://leg.colorado.gov/bills/hb22-1151\" target=\"_blank\" rel=\"nofollow noopener\">HB22-1151</a>)."
+    },
+    {
+      "q": "Does Edgewater have its own rules on artificial turf?",
+      "a": "Ask before you plan a front yard. The city's Community Development department can tell you what its code allows, and a written answer is worth having before any digging starts."
+    },
+    {
+      "q": "My townhome has an HOA. Can it say no to turf?",
+      "a": "Yes. SB23-178 covers detached single-family houses, not townhomes, so your association keeps its say (<a href=\"https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SB23-178</a>). Send your plan to the board in writing and get its answer the same way."
+    }
+  ],
   "nearby": [
     "lakewood-co",
     "wheat-ridge-co",

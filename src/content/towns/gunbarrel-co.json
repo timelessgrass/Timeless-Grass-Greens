@@ -35,6 +35,35 @@
         "The City of Boulder and unincorporated Boulder County have different review paths. Confirm your address and intended project with the responsible office, including any landscape or grading work.",
         "For a townhome or association property, obtain the current requirements and establish who controls the work area. Bring written conditions to the estimate so the layout reflects the property rather than a nearby neighbor’s installation."
       ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Water",
+      "h2": "Which water system are you on? In Gunbarrel, it decides your rules.",
+      "paras": [
+        "Parts of Gunbarrel have been annexed into the City of Boulder and take Boulder water; the unincorporated Boulder County parts are served by Left Hand Water District. Neighbors can be on different systems, so check who bills you for water first.",
+        "On Boulder water, the city has been on a Drought Watch since 1 April 2026: grass may be watered only in the morning before 10 or the evening after 6, and the city recommends no more than twice a week. Its permanent landscaping code already holds watering from 1 May to 30 September to those hours, drought or no drought, and the city sets each account a yearly water budget for irrigation (<a href=\"https://bouldercolorado.gov/services/water-conservation\" target=\"_blank\" rel=\"nofollow noopener\">City of Boulder</a>).",
+        "On Left Hand water, the district declared a Stage 1, or mild, water shortage in April 2026 (<a href=\"https://lefthandwater.gov/conservation/drought/\" target=\"_blank\" rel=\"nofollow noopener\">Left Hand Water District</a>). Either way, turf sits outside every one of those rules."
+      ]
+    },
+    {
+      "icon": "shield",
+      "kicker": "The local rules",
+      "h2": "City code on one parcel, county code on the next.",
+      "paras": [
+        "Annexed parcels fall under the City of Boulder's municipal code; unincorporated ones fall under Boulder County's Land Use Code, with no municipal landscaping ordinance on top. Gunbarrel has its own civic streak, too: residents formed the Gunbarrel Public Improvement District in 1993 out of concern about development next door (<a href=\"https://en.wikipedia.org/wiki/Gunbarrel,_Colorado\" target=\"_blank\" rel=\"nofollow noopener\">Gunbarrel</a>).",
+        "HOAs are mixed. The older tract sections are largely free of them, while the newer infill has associations. At a detached single-family home, an HOA's design guidelines may regulate nonvegetative turf in the rear yard but not prohibit it (<a href=\"https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SB23-178</a>). The townhomes along Spine Road and Lookout Road are attached, so ask their associations before you plan."
+      ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "The ground",
+      "h2": "Decades-old lawns on shale clay, with farm ground at the edges.",
+      "paras": [
+        "Gunbarrel sits at 5,282 feet on the plains northeast of Boulder, on Boulder County's Pierre Shale and Laramie Formation clays, which a turf base should treat as swelling clay. The ground is flat to gently rolling, with easy access for machines.",
+        "Most yards here are 45 to 60 years old: thick thatch, clay compacted by decades of sprinklers, and big trees whose roots will lift an under-built base. Near the open space and farmland at the edges, some ground was ditch-irrigated for years and can carry a high seasonal water table and old ditch laterals, so check before digging deep.",
+        "The site gets prepared and the base built for that clay and those roots, with water led away from the house, and then the turf goes down, seamed and edged."
+      ]
     }
   ],
   "services": [
@@ -43,7 +72,24 @@
     "putting-greens"
   ],
   "servicesNote": "Compare a lawn, pet area or green that works around the landscape you want to retain.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Gunbarrel, CO?",
+      "a": "We install putting greens, pet turf and turf for tired old lawns in Gunbarrel, CO. Which side of the Boulder line your house is on decides your water rules: Boulder's Drought Watch limits grass watering to early and late hours, and Left Hand Water District declared a Stage 1 shortage in April 2026. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Will Boulder's lawn rebate pay for artificial turf?",
+      "a": "No. Boulder's lawn replacement runs through Resource Central, worth up to $750 for replacing 200 square feet or more of lawn, and it pays for conversion to water-wise plants, not synthetic grass (<a href=\"https://bouldercolorado.gov/services/water-conservation\" target=\"_blank\" rel=\"nofollow noopener\">City of Boulder</a>). Left Hand also runs a rebate program with Resource Central; it doesn't publish whether turf qualifies, so ask before counting on it (<a href=\"https://lefthandwater.gov/conservation/\" target=\"_blank\" rel=\"nofollow noopener\">Left Hand Water District</a>)."
+    },
+    {
+      "q": "How do I find out if my Gunbarrel home is in the city or the county?",
+      "a": "Start with the water bill: City of Boulder water usually means an annexed parcel, and Left Hand Water District the unincorporated side. Boulder's published service maps don't spell out Gunbarrel's boundaries, so confirm your address with the city or the county before you plan around either set of rules."
+    },
+    {
+      "q": "Does Gunbarrel sit over old coal mines, like parts of Erie?",
+      "a": "No. Gunbarrel isn't on the Boulder-Weld coalfield undermining that Erie and Superior have to plan around, so the ground questions here are clay, tree roots and, near the farmland, the water table."
+    }
+  ],
   "nearby": [
     "boulder-co",
     "louisville-co",

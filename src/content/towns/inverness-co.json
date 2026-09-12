@@ -35,6 +35,35 @@
         "On a terrace or roof deck, obtain the building team’s requirements for loading, membrane protection and water access to drains. Those decisions need to be resolved before the surface is priced as suitable.",
         "For ground-level commercial or shared property, check the applicable landscape requirements with the responsible local authority. Do not assume the rules for a private backyard apply to an office campus or condominium common area."
       ]
+    },
+    {
+      "icon": "flag",
+      "kicker": "Putting greens",
+      "h2": "An office park with a golf course in it, and room for a green.",
+      "paras": [
+        "Inverness covers 1.117 square miles of unincorporated Arapahoe County along I-25, and The Club at Inverness sits inside it, among the offices of the business park (<a href=\"https://en.wikipedia.org/wiki/Inverness,_Colorado\" target=\"_blank\" rel=\"nofollow noopener\">Inverness</a>).",
+        "Colorado's turf law has a word for a putting green: functional. HB25-1113 wrote a definition of functional artificial turf that names driving ranges, tee boxes and chipping and putting greens outright (<a href=\"https://content.leg.colorado.gov/sites/default/files/2025a_1113_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">HB25-1113</a>). That keeps a green open to an office campus where a purely decorative lawn is not.",
+        "At home, a green scales to the space: a single cup on a patio, or a few cups with some break where there's more room. We draw the layout for your space and you approve it before any work starts."
+      ]
+    },
+    {
+      "icon": "shield",
+      "kicker": "The local rules",
+      "h2": "Office grounds fall under the 2026 turf rules. Greens and private yards don't.",
+      "paras": [
+        "Most of Inverness is office campus and shared grounds, which is exactly what Colorado's turf law reaches. From 1 January 2026, no local government may allow non-functional turf in a new HOA common-area, commercial or institutional project (<a href=\"https://content.leg.colorado.gov/sites/default/files/2024a_005_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SB24-005</a>, since amended by HB25-1113). A strip of green by a lobby, there only to look nice, is what the rule targets; a putting green, a playground or a sports field is not.",
+        "Arapahoe County, not a city, applies that law in Inverness. If your home is in a condominium or townhome association, its board, and your building's management, will want to approve turf too, so have both approvals on paper before you commit to a layout. The definitions are in our <a href=\"/guides/colorado-turf-law/\">guide to the 2026 turf rules</a>."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Water",
+      "h2": "A small water district with no published watering calendar.",
+      "paras": [
+        "Inverness Water and Sanitation District serves the area from offices in Englewood, across parts of Arapahoe and Douglas counties (<a href=\"https://www.invernesswater.org/\" target=\"_blank\" rel=\"nofollow noopener\">Inverness Water and Sanitation District</a>). As of September 2026 its public site lists no drought stage, no watering-day schedule and no conservation rebate. What it does offer is the free EyeOnWater app for watching use and catching leaks.",
+        "Rebates won't cover turf here. Resource Central's regional lawn replacement program only funds landscapes that are half or more waterwise plants, and synthetic grass isn't a plant (<a href=\"https://resourcecentral.org/lawn/\" target=\"_blank\" rel=\"nofollow noopener\">Resource Central</a>).",
+        "So the case for turf in Inverness isn't a watering rule or a check in the mail. It's a lawn or a green that looks the same in August as it did in May, without an irrigation line to run."
+      ]
     }
   ],
   "services": [
@@ -43,7 +72,24 @@
     "residential-turf"
   ],
   "servicesNote": "Discuss a putting green or other turf area with the property, surface and intended use clearly identified.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Inverness, CO?",
+      "a": "We install putting greens, office-campus turf and artificial lawns for homes in Inverness, CO, the office park along I-25 with The Club at Inverness inside it. Colorado's 2026 turf rules count putting greens as functional turf, so a green can still go in on an office campus. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Can my condo association stop turf on my terrace in Inverness?",
+      "a": "It can. Colorado's SB23-178 stops HOA design guidelines from banning nonvegetative turf in a detached home's backyard, and condominiums and attached homes are outside that protection (<a href=\"https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SB23-178</a>). Put the plan to the board and keep its reply in writing."
+    },
+    {
+      "q": "Where is Inverness, exactly?",
+      "a": "It's an unincorporated area of Arapahoe County in ZIP 80112, built around Inverness Exchange and East Panorama Circle, where Arrow Electronics has its headquarters at 9151 East Panorama Circle (<a href=\"https://en.wikipedia.org/wiki/Arrow_Electronics\" target=\"_blank\" rel=\"nofollow noopener\">Arrow Electronics</a>). Mail often says Centennial or Englewood, but locals say Inverness or Panorama Circle. Centennial Airport is about two miles east."
+    },
+    {
+      "q": "Can a putting green go indoors?",
+      "a": "Yes. We install indoor turf as well as outdoor greens, so a practice green can go in an office or a training space, with a custom layout you approve before work starts."
+    }
+  ],
   "nearby": [
     "meridian-co",
     "dove-valley-co",

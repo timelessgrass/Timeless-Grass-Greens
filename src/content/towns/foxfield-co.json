@@ -35,6 +35,36 @@
         "Show us well and septic records, known utilities and any existing drainage features. Ask the appropriate authority or system professional about proposed work nearby. A large lot does not make every open area available for excavation or compaction.",
         "Foxfield has Town requirements for grading and lot coverage. Ask how they apply to the whole proposal and bring the response to the estimate. If you rely on a well, check its permitted use when planning cleaning and the planting that will remain."
       ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Water",
+      "h2": "In Foxfield, a green lawn starts with your well permit.",
+      "paras": [
+        "Most homes in Foxfield have private wells. The State Engineer issues the permits, and each well has its own limit on water use depending on when its permit was granted; the Town's advice is to ask the Colorado Division of Water Resources what yours allows (<a href=\"https://townoffoxfield.colorado.gov/residents/utilities/water-and-septic\" target=\"_blank\" rel=\"nofollow noopener\">Town of Foxfield</a>).",
+        "That limit can be tight. Under Colorado's exempt-well rules, most wells drilled after May 1972 on parcels under 35 acres are permitted for household use only, which rules out watering lawns and gardens (<a href=\"https://extension.colostate.edu/topic-areas/natural-resources/private-wells-for-home-use-6-700/\" target=\"_blank\" rel=\"nofollow noopener\">Colorado State University Extension</a>). If your well is one of them, a bluegrass lawn isn't on the table at all.",
+        "Central water is available through the Arapahoe County Water and Wastewater Authority, ACWWA, at a price. In 2024 a tap cost $32,228, plus $204 to $335 in meter and inspection fees and $1,500 to $4,000 for the contractor's line from the meter pit to the house, and your deep water rights must first move to ACWWA, contracted at about $4,000 a lot (<a href=\"https://townoffoxfield.colorado.gov/residents/utilities/water-and-septic\" target=\"_blank\" rel=\"nofollow noopener\">Town of Foxfield</a>). Turf needs neither the well nor the tap."
+      ]
+    },
+    {
+      "icon": "shield",
+      "kicker": "The local rules",
+      "h2": "Grading takes a Town permit, and hard cover stops at 25%.",
+      "paras": [
+        "Foxfield issues overlot grading permits and berm permits as permit types of their own, alongside building, fence and driveway permits. It also notes that its building rules differ from Arapahoe County's, so read the Town's before a project starts (<a href=\"https://townoffoxfield.colorado.gov/government/land-use-and-master-plan\" target=\"_blank\" rel=\"nofollow noopener\">Town of Foxfield</a>).",
+        "The whole town is zoned Large Lot Rural Residential: one home per 105,000 square feet, or 2.41 acres, with 50-foot front setbacks, 25-foot side and rear setbacks, and impervious coverage capped at 25% of the lot (<a href=\"http://foxfield-co.elaws.us/code/mc_ch16_art2_sec16-2-50\" target=\"_blank\" rel=\"nofollow noopener\">Foxfield Municipal Code</a>).",
+        "Sport courts, tennis courts, pools and similar structures are allowed as accessory uses in the side or rear yard. There's no suburban HOA layered on top; in a town this size, the Town's own code is the rulebook."
+      ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "The ground",
+      "h2": "Flat, heavy Heldt clay, with a leach field to work around.",
+      "paras": [
+        "USDA soil maps put Foxfield on Heldt clay, 0 to 3 percent slopes. It runs about 47.5% clay from the surface down to 60 inches, carries a high shrink-swell rating and takes in water slowly (<a href=\"https://sdmdataaccess.sc.egov.usda.gov/\" target=\"_blank\" rel=\"nofollow noopener\">USDA Soil Data Access</a>). Ground like this doesn't drain well, and it doesn't hold still through a freeze and a thaw.",
+        "Every home in Foxfield is on septic, permitted by Arapahoe County Public Health. A leach field is no place to compact a turf base, so on the free site visit we find yours first, along with the gravel drives, fences and paddocks that shape the layout.",
+        "Site prep comes next, then a base made for Heldt clay, sloped just enough that rain runs off the turf instead of standing on the flat."
+      ]
     }
   ],
   "services": [
@@ -43,7 +73,28 @@
     "putting-greens"
   ],
   "servicesNote": "Compare a lawn near the house, a dedicated dog area and a practice green around the property’s existing uses.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Foxfield, CO?",
+      "a": "We install artificial turf, pet turf and backyard putting greens in Foxfield, CO. Most homes here draw on private wells whose State Engineer permits cap water use, and the Town sets a 25% limit on impervious coverage, so ask the Town Clerk how it counts turf before a large layout. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Do Denver Water's watering rules apply in Foxfield?",
+      "a": "No. Foxfield isn't a Denver Water customer. If you're on ACWWA, it began two-day-a-week watering restrictions in its Main Service Area and Elkhorn Ranch on 15 June 2026, so check which of its schedules covers your address (<a href=\"https://www.acwwa.com/31/Water-Efficiency\" target=\"_blank\" rel=\"nofollow noopener\">ACWWA</a>). About 60% of ACWWA's supply now comes from its renewable ACWWA Flow project, as Denver Basin groundwater levels fall (<a href=\"https://www.acwwa.com/27/Our-Water\" target=\"_blank\" rel=\"nofollow noopener\">ACWWA</a>)."
+    },
+    {
+      "q": "Does ACWWA give a rebate for artificial turf?",
+      "a": "ACWWA runs a rebate program, but its terms aren't published online, so call it on 303-790-4830 and ask whether turf qualifies before you count on anything (<a href=\"https://www.acwwa.com/31/Water-Efficiency\" target=\"_blank\" rel=\"nofollow noopener\">ACWWA</a>). Our guide to <a href=\"/guides/colorado-water-rebates-and-turf/\">water rebates and turf</a> covers the rest of the metro."
+    },
+    {
+      "q": "Does artificial turf count toward the 25% impervious limit?",
+      "a": "That's the Town's call, so ask before you plan a large area. The code caps impervious coverage at 25% of a lot (<a href=\"http://foxfield-co.elaws.us/code/mc_ch16_art2_sec16-2-50\" target=\"_blank\" rel=\"nofollow noopener\">Foxfield Municipal Code</a>). Get the Town Clerk's answer in writing, on 303-680-1544, before the layout is final; our guide to <a href=\"/guides/is-artificial-turf-impervious/\">whether turf is impervious</a> covers the wider question."
+    },
+    {
+      "q": "If I connect to ACWWA, can I still irrigate from my well?",
+      "a": "Yes, outdoors. Foxfield's zoning lets a property on the public system keep using any properly permitted well for exterior irrigation only (<a href=\"http://foxfield-co.elaws.us/code/mc_ch16_art2_sec16-2-50\" target=\"_blank\" rel=\"nofollow noopener\">Foxfield Municipal Code</a>). How much that well may pump still depends on its permit."
+    }
+  ],
   "nearby": [
     "centennial-co",
     "aurora-co",

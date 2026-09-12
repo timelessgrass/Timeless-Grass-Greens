@@ -35,6 +35,35 @@
         "On a new-build lot with little shade, consider where the dog or family can get out of full sun. Artificial turf can become hot, so a convenient location needs to be considered alongside when and how the space will be used.",
         "Point out low corners, drains and any wetland or shared-area boundary shown on your property plan. Bring current association requirements if they apply, and ask the county about grading or drainage changes included in the proposal. Do not level an existing drainage route just to make the turf outline simpler."
       ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "The wet corner",
+      "h2": "Loam, a little clay, and water 18 inches down.",
+      "paras": [
+        "Nixonville sits at 23 feet, and the USDA's soil survey data puts the ground at its crossroads in Yauhannah fine sandy loam: moderately well drained, in hydrologic group B/D, with small inclusions of Ogeechee, which is poorly drained, and Bladen, a clayey, poorly drained soil rated C/D. The water table can rise to 46 centimeters, about 18 inches (<a href=\"https://sdmdataaccess.sc.egov.usda.gov/\" target=\"_blank\" rel=\"nofollow noopener\">USDA NRCS soil data</a>).",
+        "That's slower ground than the sands nearer the coast. Run a builder's heavy equipment over it and you can get water standing in the back corner, sod dying in the low spot, and mud where the dog turns and under the swing set.",
+        "We find the low spots when we come to measure and check how the ground takes water. Then the base goes in for that ground, so the yard dries out after rain instead of holding it."
+      ]
+    },
+    {
+      "icon": "home",
+      "kicker": "New subdivisions",
+      "h2": "Builder lots, builder HOAs, not much shade yet.",
+      "paras": [
+        "Most of the houses going up around Nixonville are in production-builder subdivisions: Heritage Oaks, Heritage Downs, Astoria Park, Chestnut Ridge, Glenmoor, Rivers Edge Plantation and several phases of Auberon Woods. Lots are small, sod goes down over graded ground, and the trees are young. Older homesteads and manufactured homes sit on the timber and farm parcels between them.",
+        "Builder communities like these usually come with an HOA. Ask for the architectural committee's form and the recorded covenants, and send your plan in before any work starts.",
+        "Without shade, a new yard takes full sun, and turf in full sun gets hot. Plan a shaded corner for the dog and the play area; our article on <a href=\"/blog/how-hot-does-artificial-turf-get/\">how hot turf gets</a> shows how much shade matters."
+      ]
+    },
+    {
+      "icon": "shield",
+      "kicker": "County rules",
+      "h2": "Wetlands next door, and a buffer rule on the county's desk.",
+      "paras": [
+        "Tilly Swamp and the Waccamaw wetlands run through this part of the county, with the river about two miles west. In April 2026, Horry County Council was weighing a landscape ordinance that would require developers to keep a 15-foot buffer from all wetlands; first reading was set for 21 April after a deferral from 17 March (<a href=\"https://www.yahoo.com/news/articles/horry-county-considers-changing-development-090000563.html\" target=\"_blank\" rel=\"nofollow noopener\">Yahoo News</a>).",
+        "It was written for developers rather than for a homeowner's back yard. If your lot backs onto a wetland, ask the county whether it passed, and what it would mean for you, before you plan anything along that edge."
+      ]
     }
   ],
   "services": [
@@ -43,7 +72,28 @@
     "commercial-turf"
   ],
   "servicesNote": "Compare pet turf, a defined lawn and shared-space options, with preparation and care included in the discussion.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Nixonville, SC?",
+      "a": "We install pet turf, artificial lawns and commercial turf in Nixonville, SC. The ground along this stretch of Highway 90 is Yauhannah fine sandy loam, slower-draining than the sands nearer the coast, with the water table as high as 18 inches, so a new lot's low corner can stay wet. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Do I need a county permit for turf in Nixonville?",
+      "a": "Confirm the property’s jurisdiction and ask the county about the full proposal, including excavation, grading and drainage (<a href=\"https://www.horrycountysc.gov/media/4wqkxbxg/horry-county-sw-design-manual_rev2024.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Horry County design guidance</a>). Do not assume that a small lawn or dog run is exempt. Obtain any required association response separately."
+    },
+    {
+      "q": "Is pet turf safe for my kids too?",
+      "a": "Yes. The turf we install is non-toxic and lead-free, and it's made for dogs and kids alike. Pick up after the dog, rinse the spot with a hose, and the same patch works as a play area."
+    },
+    {
+      "q": "Can turf go under a swing set or play set?",
+      "a": "Yes. Under play equipment, turf can go over a shock pad matched to the equipment's fall height, and it stays dry after rain where grass turned to mud. Ask for the fall-height test results on the full system before you choose."
+    },
+    {
+      "q": "How do I keep a dog run from smelling on slow ground?",
+      "a": "Drainage and a rinse. On loam like this, what sits under the turf matters more than usual: the base has to carry liquid down and away from the surface. We build it for your soil and cover the rinse routine at the walkthrough."
+    }
+  ],
   "nearby": [
     "carolina-forest-sc",
     "briarcliffe-acres-sc",

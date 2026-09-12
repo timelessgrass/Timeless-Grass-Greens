@@ -35,6 +35,35 @@
         "On an Amelia River-facing lot, bring known shoreline and drainage information and show where water collects. Near the beach, identify any coastal or dune restrictions before placing the work area. A surface replacement alone will not resolve a wet-yard problem.",
         "Use Nassau County requirements for an unincorporated parcel, plus the current rules of any private community. Do not assume Fernandina Beach’s historic review applies to the entire island or that a south-island address has no review at all."
       ]
+    },
+    {
+      "icon": "file",
+      "kicker": "Whose rules",
+      "h2": "County rules here, not the city's design review.",
+      "paras": [
+        "Amelia City is an unincorporated community on the south half of Amelia Island, so the City of Fernandina Beach's Land Development Code and its Historic District Council, with its Certificate of Appropriateness process, don't apply (<a href=\"https://en.wikipedia.org/wiki/Amelia_City,_Florida\" target=\"_blank\" rel=\"nofollow noopener\">Amelia City</a>). Your turf job answers to Nassau County's development code and building department instead, a simpler path than a homeowner in the National Register district six miles north faces.",
+        "That doesn't mean nobody reviews the yard. Plenty of south-end addresses sit inside private communities, Summer Beach, Amelia Island Plantation and Amelia Surf & Racquet Club among them, whose boards have a say on the color, height and edging of any turf, and on the beach side, state coastal-construction and dune-protection limits apply. Florida's Florida-Friendly Landscaping law won't override any of it, since it doesn't clearly protect synthetic turf (<a href=\"/guides/florida-friendly-landscaping-and-hoas/\">our guide to Florida-Friendly law and HOAs</a>)."
+      ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "Marsh side, ocean side",
+      "h2": "Two kinds of ground, either side of A1A.",
+      "paras": [
+        "West of A1A, toward the Amelia River, lots run down to tidal marsh on the poorly drained west-side soils that Nassau County's comprehensive plan calls out, with a high water table and salt intrusion (<a href=\"https://www.nassaucountyfl.com/DocumentCenter/View/18158/12--Background-DA--Future-Land-Use-Element\" target=\"_blank\" rel=\"nofollow noopener\">Nassau County</a>). Those lots need an engineered base depth and positive drainage, and that's where a shallow base gives out.",
+        "East of A1A, toward the ocean, the sand sits higher and drains better, but salt spray and wind burn anything grassy, and dune rules limit how close to the beach you can work. Everywhere on the south end, maritime forest of live oak, palmetto and pine means permanent shade, shallow root plates and yards where turfgrass has never held.",
+        "The county's plan names the underlying problem: almost no topographic relief and plenty of poorly drained soil. So we read the ground first on the free visit, because the drainage under the turf, more than the turf itself, decides whether a south-end install lasts."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Water",
+      "h2": "One day a week, whatever the water source.",
+      "paras": [
+        "The Phase III order that took effect on 11 May 2026 covers all of Nassau County, the unincorporated south island included: a single irrigation day each week, Saturday or Sunday by street number, none during the 8-to-6 daytime window, and aesthetic water use banned (<a href=\"https://www.actionnewsjax.com/news/local/phase-iii-extreme-water-shortage-declaration-issued-by-st-johns-river-water-management-district/QAIYQ7AZPFCQNJG37B3DU5XPBU/\" target=\"_blank\" rel=\"nofollow noopener\">Action News Jax</a>).",
+        "Service on the unincorporated south end comes from the county, JEA or a private or community system rather than the City of Fernandina Beach utility, so check the provider on your own bill; some parcels are on wells, which the order covers as well. Outside a shortage, the district allows twice-weekly watering in daylight saving time and once-weekly in winter (<a href=\"https://www.sjrwmd.com/wateringrestrictions/\" target=\"_blank\" rel=\"nofollow noopener\">SJRWMD</a>).",
+        "No rebate is available for artificial turf from the water management district or JEA. Turf simply drops off the watering schedule."
+      ]
     }
   ],
   "services": [
@@ -43,7 +72,24 @@
     "pet-turf"
   ],
   "servicesNote": "Compare a lawn, pet area and putting green for the usable space among the existing landscape.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Amelia City, FL?",
+      "a": "We install artificial lawns, pet turf and putting greens in Amelia City, FL, on the south end of Amelia Island. Amelia City is unincorporated, so Nassau County's code applies rather than Fernandina Beach's and its Historic District Council. Many lots face the Amelia River across tidal marsh, where the water table runs high, so the base and drainage decide the job. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Is Amelia City part of Fernandina Beach?",
+      "a": "No. Amelia City is an unincorporated community on the south half of Amelia Island, along A1A near the Amelia River, so Nassau County, not the city, sets the rules (<a href=\"https://en.wikipedia.org/wiki/Amelia_City,_Florida\" target=\"_blank\" rel=\"nofollow noopener\">Amelia City</a>). Fernandina Beach is the island's only incorporated city."
+    },
+    {
+      "q": "Will turf drain on a lot that backs onto the marsh?",
+      "a": "Yes, with a base designed for a high water table. West-side lots near the Amelia River sit on the poorly drained soils Nassau County's comprehensive plan flags, so base depth and drainage matter more than the turf you choose (<a href=\"https://www.nassaucountyfl.com/DocumentCenter/View/18158/12--Background-DA--Future-Land-Use-Element\" target=\"_blank\" rel=\"nofollow noopener\">Nassau County</a>). We check the lot on the free visit."
+    },
+    {
+      "q": "Do trees on my lot need a permit before turf goes in?",
+      "a": "Possibly. Nassau County's Amelia Island Tree Commission deals with tree protection on the unincorporated island, so ask the county what it covers before any tree or root near the work is disturbed (<a href=\"https://www.nassaucountyfl.com/DocumentCenter/View/27568/052224-WORKSHOP---Agenda---Amelia-Island-Tree-Commission\" target=\"_blank\" rel=\"nofollow noopener\">Nassau County</a>)."
+    }
+  ],
   "nearby": [
     "amelia-island-fl",
     "fernandina-beach-fl",

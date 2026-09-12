@@ -35,6 +35,35 @@
         "Around Old Town, an irregular lot, mature trees or a narrow gate can shape the job. Bring those details to the visit with any known site reports. Structural ground concerns need their own advice; turf preparation is not a treatment for subsidence.",
         "Check Town and applicable association requirements, and verify any rebate eligibility directly before including it in the budget. Compare the installation scope and ongoing care as well as the finished look."
       ]
+    },
+    {
+      "icon": "file",
+      "kicker": "Erie's rebate",
+      "h2": "Erie's turf rebate rules out artificial turf in eight words.",
+      "paras": [
+        "The Town of Erie runs a 2026 Turf Replacement Rebate: $2 a square foot for low-water garden plantings and $1 for low-water grasses, up to $2,000 per water account a year. Its requirements open with a plain line: \"Artificial Turf is not eligible for this rebate\" (<a href=\"https://www.erieco.gov/1962/2026-Turf-Replacement-Rebate-Program\" target=\"_blank\" rel=\"nofollow noopener\">Town of Erie</a>).",
+        "The rest of the rules show what it's for. A project has to replace 200 square feet or more of irrigated turf, living plants must cover 70% of the new area, the irrigation has to be upgraded, and the design needs the Town's approval before work begins. As of 18 August 2026 the year's funding is fully committed and new applications are closed.",
+        "So the choice is plain. The rebate pays once, for a planted yard that still needs water. Turf earns nothing from it, and the turfed ground never needs irrigation again."
+      ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "New-build ground",
+      "h2": "Builder sod on scraped fill, over clay and old mines.",
+      "paras": [
+        "Much of Erie is new: two-story homes on flat, fenced lots in Colliers Hill, Erie Highlands, Westerly, Compass and the other new subdivisions, handed over with builder-grade sod on scraped, compacted subsoil and a basic pop-up sprinkler system. That sod often sits on almost nothing, which is why so much of it struggles.",
+        "Under it is the Laramie Formation over Pierre Shale, so swelling clay is the starting assumption. Erie also sits on the old Boulder-Weld coalfield, where the Colorado Geological Survey maps coal-mine subsidence and notes that development has spread onto undermined ground (<a href=\"https://coloradogeologicalsurvey.org/hazards/subsidence/coal-mine-subsidence/\" target=\"_blank\" rel=\"nofollow noopener\">Colorado Geological Survey</a>).",
+        "The yards are dead flat, which helps. The job is won below the surface: dig out to a proper depth, build a free-draining base, and send water to the street and the sump the way the lot was graded."
+      ]
+    },
+    {
+      "icon": "home",
+      "kicker": "HOAs in Erie",
+      "h2": "Nearly every subdivision has an HOA, and the back yard is still yours.",
+      "paras": [
+        "Outside Old Town, almost every Erie home sits in an HOA, and most sit inside a metro district too. For detached homes, Colorado law is clear on three points: nonvegetative turf out back can't be banned, hardscape can't be pushed past 20% of the landscaped area without good reason, and a mostly drought-tolerant option has to be offered (<a href=\"https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SB23-178</a>). Attached homes and condos aren't covered.",
+        "Most Erie HOAs want an architectural submission before any landscape change. The custom layout you approve before work starts is the drawing to send them, so the board sees exactly what's going in."
+      ]
     }
   ],
   "services": [
@@ -43,7 +72,24 @@
     "pet-turf"
   ],
   "servicesNote": "Compare a lawn, green or pet area with the larger landscape plan for your property.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Erie, CO?",
+      "a": "We install artificial turf, putting greens and pet turf in Erie, CO. Erie's 2026 Turf Replacement Rebate states outright that artificial turf is not eligible, and its funding is fully committed for the year. What turf does instead is replace the builder sod on a new-build lot with a surface that needs no irrigation. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Which drought stage is Erie in?",
+      "a": "The Town runs a four-stage Drought and Water Supply Shortage Plan, and as of September 2026 its drought page doesn't name the current stage, so check with the Town before you count on a schedule (<a href=\"https://www.erieco.gov/1991/Drought-Information\" target=\"_blank\" rel=\"nofollow noopener\">Town of Erie</a>). Erie is its own water utility, drawing on Colorado-Big Thompson, Windy Gap and the South Boulder Canyon Ditch (<a href=\"https://www.erieco.gov/1058/Water-Sources\" target=\"_blank\" rel=\"nofollow noopener\">Town of Erie</a>)."
+    },
+    {
+      "q": "Can an Erie HOA or business put artificial turf on common grounds?",
+      "a": "Not as a new decorative lawn. Colorado now stops local governments permitting non-functional turf when business, institutional or common-interest landscapes are built, while fields of play stay exempt (<a href=\"https://content.leg.colorado.gov/sites/default/files/2024a_005_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SB24-005</a>, amended by <a href=\"https://content.leg.colorado.gov/sites/default/files/2025a_1113_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">HB25-1113</a>). The Town's own parks are cutting back too, aiming for 20% less irrigation in 2026 (<a href=\"https://www.erieco.gov/1519/Parks-Recreation\" target=\"_blank\" rel=\"nofollow noopener\">Town of Erie</a>)."
+    },
+    {
+      "q": "Does turf suit an Old Town Erie yard?",
+      "a": "Yes, though the job differs from a new-build lot. Around Briggs Street the lots are older and irregular, with mature trees, and there's usually no HOA to ask. Turf needs no sun under those trees, and the layout follows the lot's own shape."
+    }
+  ],
   "nearby": [
     "lafayette-co",
     "louisville-co",

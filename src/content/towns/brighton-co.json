@@ -35,6 +35,35 @@
         "For a property toward the river or Barr Lake, bring any known drainage or flood information for the lot. Elsewhere in Brighton, the same practical check applies: show where water collects rather than assuming a particular soil from the address.",
         "Check the City and any association requirements for the complete proposal. Turf does not need to grow roots, but that does not make it exempt from landscape or grading review. Ask for unresolved site conditions to be written down before work begins."
       ]
+    },
+    {
+      "icon": "clock",
+      "kicker": "The sod ban",
+      "h2": "Through 30 September, new sod is off the table.",
+      "paras": [
+        "Brighton's Stage 1 drought order prohibits installing or replacing sod on more than 200 square feet through 30 September 2026 (<a href=\"https://www.brightonco.gov/578/Watering-Restrictions\" target=\"_blank\" rel=\"nofollow noopener\">City of Brighton</a>). The ban is on sod. Artificial turf isn't sod, so a new lawn can still go in while the order stands.",
+        "From 1 October the city issues free sod permits, and each one comes with a strict six-week schedule: up to three waterings a day of no more than 10 minutes for the first two weeks, up to two a day for the next two, outside the 10-to-6 window, then once a day, and after that the full restrictions again. A turf lawn skips all six weeks, because there's nothing to root."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Stage 1 in Brighton",
+      "h2": "Two watering days, and fines up to $1,500.",
+      "paras": [
+        "City Council approved Brighton's Stage 1 restrictions on 7 April 2026, and they run through 15 November 2026. Your house number's last digit sets your two sprinkler days: even on Tuesday and Friday, odd on Wednesday and Saturday, unassigned addresses on Monday and Friday, with no irrigation for any customer in the 10 a.m.–6 p.m. window (<a href=\"https://www.brightonco.gov/578/Watering-Restrictions\" target=\"_blank\" rel=\"nofollow noopener\">City of Brighton</a>).",
+        "Hand watering of ornamental grasses, shrubs, young trees and flowers is allowed, with the hose held in your hand. Two warnings come first; a third violation costs $125, $500 or $1,500 depending on the size of your water tap, and a fourth means a municipal summons and a court date.",
+        "There's no rebate for artificial turf here; the city's landscape help runs to $25 off a Garden in a Box through Resource Central (<a href=\"https://www.brightonco.gov/308/Water-Conservation-and-Efficiency\" target=\"_blank\" rel=\"nofollow noopener\">City of Brighton</a>). Its xeriscape advice goes further than the rules: to save water, don't water the lawn at all, and put trees ahead of grass (<a href=\"https://www.brightonco.gov/380/Xeriscaping\" target=\"_blank\" rel=\"nofollow noopener\">City of Brighton</a>)."
+      ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "Loam and river bottom",
+      "h2": "Most of Brighton drains well. The river side doesn't.",
+      "paras": [
+        "Across most of town the USDA maps Dacono loam and Vona sandy loam: level, free-draining ground with little shrink-swell, Vona about two-thirds sand (<a href=\"https://sdmdataaccess.nrcs.usda.gov/\" target=\"_blank\" rel=\"nofollow noopener\">USDA Soil Data Access</a>). Swelling clay isn't the Brighton problem it is on Thornton's shale breaks.",
+        "Toward the South Platte and the Barr Lake side, the survey maps Aquolls instead: poorly drained ground with a high water table. A turf base there needs a proper drainage layer, or the lawn sits wet.",
+        "So the first question on a Brighton visit is which side of that line your yard is on. The base follows the answer: simple on the loam, with a drainage layer on the river ground."
+      ]
     }
   ],
   "services": [
@@ -43,7 +72,24 @@
     "pet-turf"
   ],
   "servicesNote": "Compare a backyard green, lawn or pet area with the space and access your property provides.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Brighton, CO?",
+      "a": "We install artificial turf, putting greens and pet turf in Brighton, CO. Through 30 September 2026 the city's drought order bans new sod over 200 square feet, and sod after that needs a permit and a six-week watering schedule, while artificial turf needs no grow-in at all. Brighton's deep back yards also have room for a real putting green near Riverdale Dunes. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Can a Brighton HOA say no to backyard turf?",
+      "a": "Not behind a detached house: an HOA's design guidelines can't rule out nonvegetative turf there (<a href=\"https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SB23-178</a>). Many homes in Brighton's old town aren't in an HOA at all."
+    },
+    {
+      "q": "Can my HOA fine me for a brown lawn during the drought?",
+      "a": "Not while the restrictions last. Once a water provider declares drought restrictions, state law pauses HOA enforcement over brown lawns (<a href=\"https://codes.findlaw.com/co/title-37-water-and-irrigation/co-rev-st-sect-37-60-126/\" target=\"_blank\" rel=\"nofollow noopener\">C.R.S. 37-60-126</a>), and Brighton's run through 15 November 2026."
+    },
+    {
+      "q": "Does Brighton have its own rules for artificial turf?",
+      "a": "Brighton's landscape standards sit in its Land Use & Development Code (<a href=\"https://www.brightonco.gov/363/Land-Use-Development-Code\" target=\"_blank\" rel=\"nofollow noopener\">City of Brighton</a>). Ask the city whether anything in it applies to your turf plan, and get the answer in writing before you sign off on a design."
+    }
+  ],
   "nearby": [
     "todd-creek-co",
     "thornton-co",

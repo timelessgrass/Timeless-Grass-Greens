@@ -35,6 +35,36 @@
         "For a contributing River Road historic property, ask the Town about the required review before a site change. Elsewhere, confirm whether the parcel is within Orange Park or in unincorporated Clay County; the mailing name alone is not enough.",
         "For a courtyard, dog run or other commercial use along the Blanding corridor, identify the authorized property representative and intended care routine. In county-regulated commercial landscaping, synthetic turf does not substitute for required planting. Keep that planting and the activity surface separate in the plan."
       ]
+    },
+    {
+      "icon": "leaf",
+      "kicker": "Trees first",
+      "h2": "In most Orange Park yards, the tree is the gatekeeper.",
+      "paras": [
+        "Few streets in town answer to an HOA, because most of Orange Park was built before covenanted subdivisions. What shapes a layout instead is Florida's turf standard. Since 19 May 2026 an installation can't compromise the health of nearby trees, roots included, and turf can't sit within a drip line on your lot or the next one unless a certified arborist, working from the site itself, certifies it won't be harmful to the tree (<a href=\"https://www.flrules.org/gateway/readFile.asp?sid=0&amp;tid=30839130&amp;type=1&amp;file=62-308.100.doc\" target=\"_blank\" rel=\"nofollow noopener\">Florida's turf rule</a>).",
+        "With 70-to-100-year-old oaks spread over whole back yards, that takes in most of the shady ground that most needs turf. So the arborist's letter comes first and the layout second. Without a letter, the turf is planned around the canopy rather than under it.",
+        "Two more lines in the rule matter on older lots. Where a house is on septic, the tank has to stay reachable for routine pumpout, and no in-ground irrigation can run under turf, so those heads come out and the pipe is capped. The Town can't ban turf that meets the standard on a home lot of one acre or smaller (<a href=\"https://laws.flrules.org/files/Ch_2025-140.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Ch. 2025-140</a>), but it keeps its own code, including historic review for contributing properties in the River Road Historic District."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Water",
+      "h2": "The Town pumps its own water and posts its own schedule.",
+      "paras": [
+        "Inside town limits, water comes from the Town of Orange Park's own plants, run by its Public Works Department, while Clay County Utility Authority serves the unincorporated land around it (<a href=\"https://www.townoforangepark.com/p/town-government/public-works\" target=\"_blank\" rel=\"nofollow noopener\">Town of Orange Park</a>).",
+        "The Town publishes the district's normal schedule. In daylight saving time, odd-numbered addresses water Wednesday and Saturday, even-numbered Thursday and Sunday, non-residential Tuesday and Friday; in winter it's Saturday, Sunday and Tuesday; never 10 a.m. to 4 p.m., with a one-hour limit per zone (<a href=\"https://www.townoforangepark.com/p/residents/utility-services/watering-restrictions\" target=\"_blank\" rel=\"nofollow noopener\">Town of Orange Park</a>). It has also posted the Phase III order, which cuts that to a single day with no watering from 8 in the morning to 6 in the evening.",
+        "Turf skips every one of those days, though no rebate is offered for switching."
+      ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "The ground",
+      "h2": "Sand ridges by the river, wetter flatwoods toward Blanding.",
+      "paras": [
+        "Orange Park sits on the St. Johns River bluff. Near River Road and the waterfront the ground is better-drained relict sand ridge, and inland toward Wells Road and Blanding Boulevard it turns to wetter flatwoods. On the lowest river lots brackish water reaches the soil: the tidal range here is about 0.7 feet, and salinity at the Buckman Bridge averages 2.9 parts per thousand (<a href=\"https://en.wikipedia.org/wiki/St._Johns_River\" target=\"_blank\" rel=\"nofollow noopener\">St. Johns River</a>).",
+        "West of town, along Blanding and Wells Road, much of the ground is mapped as urban land: decades of fill, old utility trenches and compacted subgrade over Meadowbrook and Scranton sands, with the water table less than a foot down (<a href=\"https://sdmdataaccess.sc.egov.usda.gov/\" target=\"_blank\" rel=\"nofollow noopener\">USDA</a>). Digging there is slower than in clean sand, and the base has to allow for the fill.",
+        "The canopy is the town's signature. At Clarke House Park, around the 1912 Clarke House, the playground sits beneath live oaks (<a href=\"https://exploreclay.com/activities/clarke-house-park/\" target=\"_blank\" rel=\"nofollow noopener\">Explore Clay</a>). Leaves and acorns fall all year under trees like these, so the free visit is where we map the roots and the drip lines before anything is drawn."
+      ]
     }
   ],
   "services": [
@@ -43,7 +73,28 @@
     "pet-turf"
   ],
   "servicesNote": "Compare a shaded-yard lawn, pet area or commercial courtyard with the relevant property and tree requirements.",
-  "faq": [],
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Orange Park, FL?",
+      "a": "We install shade-proof artificial lawns, commercial turf and pet turf in Orange Park, FL. Most back yards that want turf here sit under a live oak, and since 19 May 2026 the state standard puts every drip line, yours or a neighbour's, off limits without a certified arborist's written finding that the work won't damage the tree. The Town also runs its own water utility. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Is turf allowed beneath the live oak in my Orange Park yard?",
+      "a": "Yes, if a certified arborist puts it in writing. The state standard covers every drip line, including a neighbour's tree that overhangs your yard, and allows turf inside one only when the arborist certifies it won't be harmful to the tree (<a href=\"https://www.flrules.org/gateway/readFile.asp?sid=0&amp;tid=30839130&amp;type=1&amp;file=62-308.100.doc\" target=\"_blank\" rel=\"nofollow noopener\">Florida's turf rule</a>). Without it, plan the turf around the canopy rather than under it."
+    },
+    {
+      "q": "Who supplies water in Orange Park?",
+      "a": "Inside town limits, the Town of Orange Park runs its own water and sewer plants; the unincorporated land around it, including the Blanding Boulevard and Wells Road corridor outside the limits, is on Clay County Utility Authority (<a href=\"https://www.townoforangepark.com/p/town-government/public-works\" target=\"_blank\" rel=\"nofollow noopener\">Town of Orange Park</a>). Both are bound by the Phase III restrictions."
+    },
+    {
+      "q": "Does a historic house in Orange Park need approval for turf?",
+      "a": "If it's a contributing property in the River Road Historic District, the Town's historic review applies, so ask the Town before anything is drawn up. Elsewhere, the Town can't prohibit turf that meets the state standard on a single-family home site up to one acre (<a href=\"https://laws.flrules.org/files/Ch_2025-140.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Ch. 2025-140</a>)."
+    },
+    {
+      "q": "Can a business count turf toward its required landscaping?",
+      "a": "Not in unincorporated Clay County, which takes in the Orange Park Mall area: Sec. 18.5-53(4)(h) rules out synthetic turf in lieu of the required plants (<a href=\"https://library.municode.com/fl/clay_county/codes/code_of_ordinances\" target=\"_blank\" rel=\"nofollow noopener\">Clay County code</a>). Turf goes in as an amenity surface beside the required plantings, not instead of them."
+    }
+  ],
   "nearby": [
     "lakeside-fl",
     "fleming-island-fl",
