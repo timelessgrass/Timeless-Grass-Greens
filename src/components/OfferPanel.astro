@@ -9,8 +9,8 @@ import Thumb from './Thumb.astro';
 import { phone, phoneHref } from '../data/brief';
 interface Props { heading?: string; sub?: string; preset?: string; cta?: string; band?: boolean; pics?: string[] }
 const {
-  heading = 'Stop maintaining it. Start using it.',
-  sub = 'Answer five quick questions and we’ll call to set up your free visit.',
+  heading = 'See the plan before you decide.',
+  sub = 'Tell us about your project and we’ll call to arrange a free visit.',
   preset = '',
   cta = 'offer',
   band = false,
@@ -34,8 +34,8 @@ const {
         <li><Icon name="check" />Turf options, side by side</li>
         <li><Icon name="check" />A written price, with no pressure to sign</li>
       </ul>
-      <a class="btn btn--primary btn--lg" href="/estimate/" data-estimate={preset} data-cta={`quote-${cta}`}>Get my free estimate<Icon name="arrow" /></a>
-      <p class="offer__note">Five quick questions. About a minute.</p>
+      <a class="btn btn--primary btn--lg" href="/estimate/" data-estimate={preset} data-cta={`quote-${cta}`}>Request a free estimate<Icon name="arrow" /></a>
+      <p class="offer__note">Five short steps. We’ll call to arrange your visit.</p>
     </div>
   </div>
 </section>

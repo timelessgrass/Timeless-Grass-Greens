@@ -1,6 +1,7 @@
 ---
 import Base from '../../layouts/Base.astro';
 import OfferPanel from '../../components/OfferPanel.astro';
+import PublicReferences from '../../components/PublicReferences.astro';
 import { GUIDES } from '../../data/guides';
 import { marketBySlug } from '../../data/markets';
 
@@ -8,6 +9,8 @@ export function getStaticPaths() {
   return GUIDES.map((g) => ({ params: { slug: g.slug }, props: { g } }));
 }
 const { g } = Astro.props;
+const sections = g.sections.map((section, i) => ({ ...section, id: `section-${i + 1}` }));
+const checklist = sections.find((section) => /checklist/i.test(section.h2));
 const m = g.market === 'all' ? null : marketBySlug(g.market);
 const crumbs = [
   { name: 'Home', item: `${Astro.site}` },
@@ -30,7 +33,7 @@ const crumbs = [
         <p class="micro micro--accent">{m ? m.name : 'All markets'}</p>
         <h1>{g.h1}</h1>
         <hr class="rule-ribbon" />
-        <p class="doc__meta">Last checked {g.updated}</p>
+        <p class="doc__meta">Updated {g.updated}</p>
       </div>
     </header>
 
@@ -39,14 +42,19 @@ const crumbs = [
         <p class="micro">The short version</p>
         <h2 class="answer-box__q">{g.answer.question}</h2>
         <p class="answer-box__a">{g.answer.answer}</p>
+        {checklist && <p class="doc__jump"><a href={`#${checklist.id}`}>Jump to the checklist</a></p>}
+        {sections.length > 1 && <nav class="doc__toc" aria-label="On this page">
+          <p>On this page</p>
+          <ol>{sections.map((s) => <li><a href={`#${s.id}`}>{s.h2}</a></li>)}</ol>
+        </nav>}
       </div>
     </div>
 
     <div class="sec doc__body">
       <div class="wrap">
-        {g.sections.map((s) => (
+        {sections.map((s) => (
           <section class="doc__sec" data-reveal>
-            <h2>{s.h2}</h2>
+            <h2 id={s.id}>{s.h2}</h2>
             {s.body.map((p) => <p set:html={p} />)}
           </section>
         ))}
@@ -73,19 +81,7 @@ const crumbs = [
           </p>
         </aside>
 
-        <section class="doc__sec doc__sources" data-reveal>
-          <h2>Sources</h2>
-          <ol class="srcs">
-            {g.sources.map((s) => (
-              <li>
-                <span class="srcs__l">{s.label}</span>
-                <span class="srcs__c">{s.cite}</span>
-                {s.url && <a class="srcs__u" href={s.url} rel="nofollow noopener">{s.url}</a>}
-                <span class="srcs__d">checked {s.checked}</span>
-              </li>
-            ))}
-          </ol>
-        </section>
+        <PublicReferences sources={g.sources} selected={g.publicReferences} />
       </div>
     </div>
   </article>

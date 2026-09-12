@@ -1,0 +1,94 @@
+{
+  "status": "published",
+  "market": "northeast-florida",
+  "name": "Vilano Beach",
+  "state": "FL",
+  "county": "St. Johns",
+  "title": "Artificial Turf in Vilano Beach, FL | TIMELESS Grass & Greens",
+  "description": "A courtyard lawn or putting green in Vilano Beach. Plan a compact green, home lawn or commercial courtyard with its care and access considered.",
+  "h1": "A courtyard lawn or putting green in Vilano Beach.",
+  "lede": "Plan a compact green, home lawn or commercial courtyard with its care and access considered. Start with a free visit and written estimate.",
+  "wins": [
+    "Choose a useful area beside the house",
+    "Keep coastal and building conditions in view",
+    "Plan maintenance between visits"
+  ],
+  "answer": {
+    "question": "What should I confirm before turf on a Vilano Beach coastal property?",
+    "answer": "Identify the Coastal Construction Control Line and any dune, flood or building requirements for the proposed work. Ask the responsible authority about excavation and surfacing near those boundaries before choosing the footprint. A deck or terrace also needs the building team’s requirements checked."
+  },
+  "blocks": [
+    {
+      "icon": "home",
+      "kicker": "Around a raised or part-time home",
+      "h2": "Keep stairs and service routes available.",
+      "paras": [
+        "A compact lawn or putting line may fit beside a deck or within a courtyard. Leave access around the building and define how turf meets existing paving or planting. For a rental or part-time property, agree who will clear sand and debris and handle any cleaning between visits.",
+        "On a terrace or deck, obtain the responsible building professional’s requirements for loading, waterproofing and drainage. Do not price it as an ordinary ground-level lawn before those conditions are established."
+      ]
+    },
+    {
+      "icon": "shield",
+      "kicker": "Coastal work",
+      "h2": "Confirm the line before the layout is final.",
+      "paras": [
+        "Florida’s Coastal Construction Control Line can affect work near the dune. Check the property and complete proposal with the responsible coastal staff, including preparation and any grade changes. Turf does not provide storm or flood protection.",
+        "Vilano Beach is unincorporated St. Johns County. For a hotel, condo or restaurant courtyard, establish the authorized representative and any required planting that must remain; an activity surface should not simply replace planting required by the approved plan."
+      ]
+    }
+  ],
+  "services": [
+    "residential-turf",
+    "putting-greens",
+    "commercial-turf"
+  ],
+  "servicesNote": "Compare a home lawn, compact green or commercial courtyard with the property’s coastal and maintenance needs.",
+  "faq": [],
+  "nearby": [
+    "st-augustine-fl",
+    "anastasia-island-fl",
+    "south-ponte-vedra-beach-fl"
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia: Vilano Beach, Florida",
+      "url": "https://en.wikipedia.org/wiki/Vilano_Beach,_Florida"
+    },
+    {
+      "label": "St. Johns County Land Development Code, Article VI (Table 6.01; Sec. 6.06.02)",
+      "url": "https://www.sjcfl.us/wp-content/uploads/2024/01/article-vi.pdf"
+    },
+    {
+      "label": "Florida DEP: Coastal Construction Control Line program",
+      "url": "https://floridadep.gov/water/coastal-construction-control-line"
+    },
+    {
+      "label": "St. Johns County: protect our water (watering and fertilizer rules)",
+      "url": "https://www.sjcfl.us/protect-our-water/"
+    },
+    {
+      "label": "JEA: water facilities",
+      "url": "https://www.jea.com/about/water_supply/water_facilities/"
+    },
+    {
+      "label": "St. Johns County: Phase III extreme water shortage declaration (May 2026)",
+      "url": "https://www.sjcfl.us/phase-iii-extreme-water-shortage-declaration-may-2026/"
+    },
+    {
+      "label": "Visit St. Augustine: Vilano Beach",
+      "url": "https://www.visitstaugustine.com/thing-to-do/vilano-beach"
+    },
+    {
+      "label": "Fla. Stat. 720.3045: items not visible from the frontage, a neighbor or a common area",
+      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0700-0799/0720/Sections/0720.3045.html"
+    },
+    {
+      "label": "St. Johns County: reclaimed water",
+      "url": "https://www.sjcfl.us/reclaimed-water/"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": [
+    "https://floridadep.gov/water/coastal-construction-control-line"
+  ]
+}

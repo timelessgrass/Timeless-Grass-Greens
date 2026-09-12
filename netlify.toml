@@ -49,14 +49,10 @@
   to = "/estimate/"
   status = 301
 
-[[redirects]]
-  from = "/blog"
-  to = "/guides/"
-  status = 301
 
 [[redirects]]
   from = "/blog/*"
-  to = "/guides/"
+  to = "/blog/"
   status = 301
 
 [[redirects]]
@@ -134,7 +130,33 @@
   to = "/"
   status = 301
 
-# The old /areas/{city}-co pages were all Denver-metro towns.
+# The old /areas/{city}-co pages were all Denver-metro towns. The five with a town page of their
+# own go to it; any other (Broomfield) goes to the area page.
+[[redirects]]
+  from = "/areas/aurora-co"
+  to = "/denver-metro/aurora-co/"
+  status = 301
+
+[[redirects]]
+  from = "/areas/denver-co"
+  to = "/denver-metro/denver-co/"
+  status = 301
+
+[[redirects]]
+  from = "/areas/lakewood-co"
+  to = "/denver-metro/lakewood-co/"
+  status = 301
+
+[[redirects]]
+  from = "/areas/thornton-co"
+  to = "/denver-metro/thornton-co/"
+  status = 301
+
+[[redirects]]
+  from = "/areas/westminster-co"
+  to = "/denver-metro/westminster-co/"
+  status = 301
+
 [[redirects]]
   from = "/areas/*"
   to = "/denver-metro/"

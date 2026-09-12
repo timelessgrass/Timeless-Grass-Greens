@@ -1,0 +1,97 @@
+{
+  "status": "published",
+  "market": "denver-metro",
+  "name": "Lakewood",
+  "state": "CO",
+  "county": "Jefferson",
+  "title": "Artificial Turf in Lakewood, CO | TIMELESS Grass & Greens",
+  "description": "A lawn or putting green planned for your Lakewood yard. Choose the lawn, pet area or practice green you want to use, then plan the layout around your property.",
+  "h1": "A lawn or putting green planned for your Lakewood yard.",
+  "lede": "Choose the lawn, pet area or practice green you want to use, then plan the layout around your property. A free visit includes turf options and a written price.",
+  "wins": [
+    "A layout that keeps useful paths and planting",
+    "Preparation defined for the work area",
+    "Care considered alongside the finished look"
+  ],
+  "answer": {
+    "question": "How should a Lakewood yard’s slope or shade affect the turf plan?",
+    "answer": "Point out slopes, roots, existing paths and wet areas before choosing the footprint. A yard near Green Mountain may raise different access questions from an established shaded property near Belmar, but the actual lot determines the work. Bring any site reports and property requirements to the visit."
+  },
+  "blocks": [
+    {
+      "icon": "flag",
+      "kicker": "Practice near the patio",
+      "h2": "Plan the line you want to putt.",
+      "paras": [
+        "Choose putting distances and where you will stand before adding cups or fringe. A green can share the yard with a separate lawn or pet area, leaving beds and seating intact. The route around it matters as much as the outline.",
+        "On a hillside property, discuss walking access and the intended playing grade. Under mature trees, include roots and leaf cleanup in the conversation."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "The property and the bill",
+      "h2": "Compare the work and care for your own address.",
+      "paras": [
+        "Lakewood has several water providers, so use the name and usage on your bill when comparing costs. Verify any incentive directly before treating it as part of the installation budget.",
+        "Bring applicable City and association requirements, including for front-yard or grading changes. Ask for preparation and drainage work to be clear in the quote; the quote should identify the preparation proposed for your yard."
+      ]
+    }
+  ],
+  "services": [
+    "residential-turf",
+    "pet-turf",
+    "putting-greens"
+  ],
+  "servicesNote": "Choose a lawn, pet area or green with its layout, care and preparation considered together.",
+  "faq": [],
+  "nearby": [
+    "wheat-ridge-co",
+    "edgewater-co",
+    "golden-co",
+    "denver-co"
+  ],
+  "sources": [
+    {
+      "label": "Denver Water: summer watering rules",
+      "url": "https://www.denverwater.org/residential/rebates-and-conservation-tips/summer-watering-rules"
+    },
+    {
+      "label": "Denver Water: rebates and conservation tips",
+      "url": "https://www.denverwater.org/residential/rebates-and-conservation-tips"
+    },
+    {
+      "label": "Denver Water: turfgrass removal discount",
+      "url": "https://www.denverwater.org/tap/ditching-useless-turf-coloradoscape-we-can-help"
+    },
+    {
+      "label": "Green Mountain Water and Sanitation District",
+      "url": "https://www.greenmountainwater.org/"
+    },
+    {
+      "label": "Consolidated Mutual Water Company",
+      "url": "https://www.cmwc.net/"
+    },
+    {
+      "label": "C.R.S. 38-33.3-106.5",
+      "url": "https://codes.findlaw.com/co/title-38-property-real-and-personal/co-rev-st-sect-38-33-3-106-5.html"
+    },
+    {
+      "label": "Colorado SB23-178, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf"
+    },
+    {
+      "label": "Colorado Geological Survey: expansive soil and rock",
+      "url": "https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/"
+    },
+    {
+      "label": "Colorado HB25-1113, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2025a_1113_signed.pdf"
+    },
+    {
+      "label": "Colorado General Assembly: SB24-005",
+      "url": "https://leg.colorado.gov/bills/sb24-005"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

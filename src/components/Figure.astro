@@ -38,9 +38,11 @@ const KIND: Record<string, string> = {
 ---
 {img ? (
   <figure class="fig" style={`--ratio:${shot.ratio}`} data-parallax={parallax ? '' : undefined} data-reveal={reveal ? 'photo' : undefined}>
+    <div class="fig__media">
     <Image src={img} alt={shot.alt ?? shot.caption ?? ''} width={1280}
            widths={[320, 480, 640, 960, 1280]} quality={66} sizes={sizes}
            loading="lazy" decoding="async" />
+    </div>
     {shot.caption && <figcaption>{shot.caption}</figcaption>}
   </figure>
 ) : DEV && shot.stock ? (

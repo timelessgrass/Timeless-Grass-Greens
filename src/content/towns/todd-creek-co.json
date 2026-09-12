@@ -1,0 +1,89 @@
+{
+  "status": "published",
+  "market": "denver-metro",
+  "name": "Todd Creek",
+  "state": "CO",
+  "county": "Adams",
+  "title": "Artificial Turf in Todd Creek, CO | TIMELESS Grass & Greens",
+  "description": "Putting greens for Todd Creek properties. Use available room for putting and chipping, with lawn and pet-turf options nearby.",
+  "h1": "Putting greens for Todd Creek properties.",
+  "lede": "Use available room for putting and chipping, with lawn and pet-turf options nearby. Start with a free visit to discuss the layout and written price.",
+  "wins": [
+    "Choose useful practice shots for the acreage",
+    "Consider the playing grade and walking access",
+    "Confirm the parcel before applying local requirements"
+  ],
+  "answer": {
+    "question": "How should a Todd Creek putting green work with a sloping lot?",
+    "answer": "Choose the intended putting lines and comfortable standing space before following the existing slope. Discuss any proposed grading, surrounding access and water routes separately. Bring site information and property requirements so the preparation can be defined for the actual lot."
+  },
+  "blocks": [
+    {
+      "icon": "flag",
+      "kicker": "Room for practice",
+      "h2": "Let the shots decide the outline.",
+      "paras": [
+        "An acreage property can allow a longer putt or a separate chipping position without turfing the whole yard. Pick the practice you want and the route from the house. Leave room around the surface for walking and ordinary property access.",
+        "The natural slope does not have to become the putting break. Discuss the intended playing surface and the work needed to create it before approving the layout."
+      ]
+    },
+    {
+      "icon": "pin",
+      "kicker": "County or Thornton",
+      "h2": "Confirm which requirements apply to the parcel.",
+      "paras": [
+        "Todd Creek includes unincorporated Adams County properties and neighborhoods within Thornton. Confirm jurisdiction directly before relying on a permit or rebate rule. The utility bill identifies the water provider but is not the only check for the boundary.",
+        "Bring current association conditions and any known drainage or ground information. Obtain appropriate advice for foundation movement or other structural concerns before finalizing the surface work."
+      ]
+    }
+  ],
+  "services": [
+    "putting-greens",
+    "residential-turf",
+    "pet-turf"
+  ],
+  "servicesNote": "Plan a green and chipping area, or compare a lawn and pet area for the ground nearer the house.",
+  "faq": [],
+  "nearby": [
+    "brighton-co",
+    "thornton-co",
+    "commerce-city-co",
+    "northglenn-co"
+  ],
+  "sources": [
+    {
+      "label": "USDA Soil Data Access (SSURGO): Renohill loam, 3 to 9 percent slopes",
+      "url": "https://sdmdataaccess.sc.egov.usda.gov/"
+    },
+    {
+      "label": "Todd Creek Golf Club",
+      "url": "https://www.toddcreekgolfclub.com/"
+    },
+    {
+      "label": "Riverdale Golf Club (Riverdale Dunes and Riverdale Knolls)",
+      "url": "https://www.riverdalegolf.com/"
+    },
+    {
+      "label": "Todd Creek Village Metropolitan District",
+      "url": "https://www.toddcreekvillage.org/"
+    },
+    {
+      "label": "Thornton Water: restrictions and drought",
+      "url": "https://www.thorntonwater.com/restrictions-drought/"
+    },
+    {
+      "label": "Thornton Water: 2026 artificial turf rules for the water-wise landscape rebate",
+      "url": "https://www.thorntonwater.com/wp-content/uploads/2026/02/2026-residential_artificial_turf_info__rules-1.pdf"
+    },
+    {
+      "label": "Wikipedia: Todd Creek, Colorado",
+      "url": "https://en.wikipedia.org/wiki/Todd_Creek,_Colorado"
+    },
+    {
+      "label": "Colorado SB23-178, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

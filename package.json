@@ -5,9 +5,13 @@
   "private": true,
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build && node scripts/md-mirrors.mjs dist && python3 scripts/check-links.py dist && python3 scripts/check-consistency.py dist",
+    "build": "node scripts/check-local-content.mjs && node scripts/check-articles.mjs && astro build && node scripts/md-mirrors.mjs dist && python3 scripts/check-links.py dist && python3 scripts/check-consistency.py dist",
     "preview": "astro preview",
     "check": "astro check",
+    "test:unit": "node --test tests/content-policy.test.mjs",
+    "test:publication": "node --test tests/publication-build.test.mjs",
+    "test:e2e": "playwright test",
+    "test": "npm run check && npm run test:unit && npm run test:publication && npm run test:e2e",
     "verify": "python3 scripts/check-links.py dist && python3 scripts/check-consistency.py dist"
   },
   "dependencies": {
@@ -16,6 +20,9 @@
     "gsap": "^3.15.0"
   },
   "devDependencies": {
-    "turndown": "^7.2.4"
+    "@astrojs/check": "^0.9.10",
+    "@playwright/test": "^1.63.0",
+    "turndown": "^7.2.4",
+    "typescript": "^5.9.3"
   }
 }

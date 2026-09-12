@@ -1,0 +1,98 @@
+{
+  "status": "published",
+  "market": "denver-metro",
+  "name": "Ken Caryl",
+  "state": "CO",
+  "county": "Jefferson",
+  "title": "Artificial Turf in Ken Caryl, CO | TIMELESS Grass & Greens",
+  "description": "Backyard turf planned for your Ken Caryl property. Compare a lawn, pet area or putting green with the Ranch requirements and existing landscape in view.",
+  "h1": "Backyard turf planned for your Ken Caryl property.",
+  "lede": "Compare a lawn, pet area or putting green with the Ranch requirements and existing landscape in view. Start with a free visit and written installation estimate.",
+  "wins": [
+    "Keep the required landscape around the turf",
+    "Choose the use before the product",
+    "Plan access across the actual yard"
+  ],
+  "answer": {
+    "question": "What should a Ken Caryl homeowner obtain before selecting turf?",
+    "answer": "Get the current artificial-turf guidelines and submission requirements from the applicable association, including any subassociation. The Ranch has written standards for backyard turf and surrounding landscape. Bring those documents to the estimate so the product and layout can be considered against the actual requirements."
+  },
+  "blocks": [
+    {
+      "icon": "file",
+      "kicker": "The Ranch guidelines",
+      "h2": "Choose the product and edges together.",
+      "paras": [
+        "The Ranch’s published standard allows artificial-turf proposals in backyards, with a minimum 1.75-inch pile, blended blade colors and a landscape buffer. Plan the lawn turf and surrounding planting together instead of choosing a sample and drawing it to every fence. Check the current specification before selecting the product.",
+        "A putting surface is different from lawn turf. Ask the association how it treats a putting-green proposal and which product specification applies before choosing one; the lawn standard alone does not establish approval for a short-pile green. Bring the required application response to the estimate."
+      ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "Plains, Valley and North Ranch",
+      "h2": "Let the lot shape the work.",
+      "paras": [
+        "On a flatter yard, decide how the turf will meet existing patios and planting. On a sloped or wooded lot, include walking access, tree roots and any known drainage or ground concerns before choosing the green’s outline.",
+        "Mark the private property boundary beside open space. A green or pet area needs to fit inside the available yard and leave required access or landscape buffers intact. Ask for the proposed preparation and any unresolved conditions to be stated in the price."
+      ]
+    }
+  ],
+  "services": [
+    "residential-turf",
+    "putting-greens",
+    "pet-turf"
+  ],
+  "servicesNote": "Compare backyard lawn, pet and putting-green options with the current requirements for your property.",
+  "faq": [],
+  "nearby": [
+    "columbine-co",
+    "littleton-co",
+    "sterling-ranch-co"
+  ],
+  "sources": [
+    {
+      "label": "Ken-Caryl Ranch: exterior improvements and architectural guidelines",
+      "url": "https://ken-carylranch.org/community/exterior-improvements/"
+    },
+    {
+      "label": "Ken-Caryl Ranch: subassociations",
+      "url": "https://ken-carylranch.org/community/subassociations/"
+    },
+    {
+      "label": "Colorado General Assembly: HB21-1229",
+      "url": "https://leg.colorado.gov/bills/hb21-1229"
+    },
+    {
+      "label": "Colorado SB23-178, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf"
+    },
+    {
+      "label": "Colorado General Assembly: SB24-005",
+      "url": "https://leg.colorado.gov/bills/sb24-005"
+    },
+    {
+      "label": "Wikipedia: Dakota Hogback",
+      "url": "https://en.wikipedia.org/wiki/Dakota_Hogback"
+    },
+    {
+      "label": "Colorado Geological Survey: heaving bedrock",
+      "url": "https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/heaving-bedrock/"
+    },
+    {
+      "label": "Raccoon Creek Golf Course",
+      "url": "https://www.raccooncreek.com/"
+    },
+    {
+      "label": "Ken-Caryl Ranch: who approves landscaping changes",
+      "url": "https://ken-carylranch.org/kcr_faq/who-do-i-contact-to-approve-landscaping-changes/"
+    },
+    {
+      "label": "The North Ranch at Ken-Caryl",
+      "url": "https://www.kencaryl.org/"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": [
+    "https://ken-carylranch.org/community/exterior-improvements/"
+  ]
+}

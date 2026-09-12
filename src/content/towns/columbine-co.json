@@ -1,0 +1,93 @@
+{
+  "status": "published",
+  "market": "denver-metro",
+  "name": "Columbine",
+  "state": "CO",
+  "county": "Jefferson",
+  "title": "Artificial Turf in Columbine, CO | TIMELESS Grass & Greens",
+  "description": "A more useful back yard in Columbine. Compare an artificial lawn, pet area and putting green for the space around your patio.",
+  "h1": "A more useful back yard in Columbine.",
+  "lede": "Compare an artificial lawn, pet area and putting green for the space around your patio. A free visit helps define the layout and installation price.",
+  "wins": [
+    "Keep established beds and paths in the plan",
+    "Choose a green or pet area that fits",
+    "Discuss existing surfaces before preparation"
+  ],
+  "answer": {
+    "question": "What should I show an installer in an established Columbine yard?",
+    "answer": "Point out settled paving, wet patches, old irrigation and the route through the gate. Explain which landscape features will stay. Those details help define the preparation and edges instead of assuming the original yard grading is still suitable."
+  },
+  "blocks": [
+    {
+      "icon": "home",
+      "kicker": "An established yard",
+      "h2": "Work between the patio, trees and fence.",
+      "paras": [
+        "A putting green does not need to take over a suburban back yard. Choose the putting line that matters, then leave room for walking and other uses. A pet area can be separate, particularly when its cleanup routine differs from how you want to use the lawn.",
+        "Show us existing patio edges and low spots. A turf installation should account for those conditions; it does not fix moving paving or structural ground problems."
+      ]
+    },
+    {
+      "icon": "shield",
+      "kicker": "The right property documents",
+      "h2": "Columbine crosses a county line.",
+      "paras": [
+        "Confirm the parcel’s county before checking land-use, grading or drainage requirements. Use the current documents for your own neighborhood association rather than a nearby Columbine community with a similar name.",
+        "Bring any written conditions to the visit and ask for the turf area, preparation, edging and disposal to be clear in the price. That makes different layouts easier to compare."
+      ]
+    }
+  ],
+  "services": [
+    "residential-turf",
+    "pet-turf",
+    "putting-greens"
+  ],
+  "servicesNote": "Discuss a lawn, pet area or putting green around the parts of your yard you want to keep.",
+  "faq": [],
+  "nearby": [
+    "ken-caryl-co",
+    "columbine-valley-co",
+    "littleton-co",
+    "bow-mar-co"
+  ],
+  "sources": [
+    {
+      "label": "USDA Soil Data Access (SSURGO): Denver-Urban land complex, 0 to 2 percent slopes",
+      "url": "https://sdmdataaccess.sc.egov.usda.gov/"
+    },
+    {
+      "label": "Denver Water: distributors in its service area",
+      "url": "https://www.denverwater.org/about-us/how-we-operate/service-area/distributors"
+    },
+    {
+      "label": "Denver Water: summer watering rules and drought stage",
+      "url": "https://www.denverwater.org/residential/rebates-and-conservation-tips/summer-watering-rules"
+    },
+    {
+      "label": "Denver Water: turfgrass removal",
+      "url": "https://www.denverwater.org/residential/rebates-and-conservation-tips/remodel-your-yard/turfgrass-removal"
+    },
+    {
+      "label": "Colorado Water Conservation Board: Turf Replacement Program",
+      "url": "https://cwcb.colorado.gov/turf-replacement-program"
+    },
+    {
+      "label": "Columbine, Colorado (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Columbine,_Colorado"
+    },
+    {
+      "label": "Southwest Metropolitan Water and Sanitation District: HOA outreach",
+      "url": "https://swmetrowsdco.gov/hoa-outreach"
+    },
+    {
+      "label": "Southwest Metropolitan Water and Sanitation District: district information",
+      "url": "https://swmetrowsdco.gov/district-information"
+    },
+    {
+      "label": "Colorado SB23-178, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

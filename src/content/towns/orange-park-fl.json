@@ -1,0 +1,102 @@
+{
+  "status": "published",
+  "market": "northeast-florida",
+  "name": "Orange Park",
+  "state": "FL",
+  "county": "Clay",
+  "title": "Artificial Turf in Orange Park, FL | TIMELESS Grass & Greens",
+  "description": "Lawns and pet areas among Orange Park’s trees. Plan a lawn, dog area or courtyard surface while keeping the mature landscape you value.",
+  "h1": "Lawns and pet areas among Orange Park’s trees.",
+  "lede": "Plan a lawn, dog area or courtyard surface while keeping the mature landscape you value. Start with a free visit and written installation scope.",
+  "wins": [
+    "Keep tree canopy in the layout",
+    "Plan cleaning and access for pet areas",
+    "Use the right Town or county requirements"
+  ],
+  "answer": {
+    "question": "Can turf go beneath an Orange Park live oak?",
+    "answer": "Where Florida’s residential standard applies, installation inside a tree’s drip line requires a certified arborist’s finding that it will not harm the tree, including an overhanging neighbor’s tree. Without the required certification, plan turf outside that area and retain suitable landscape beneath the canopy."
+  },
+  "blocks": [
+    {
+      "icon": "leaf",
+      "kicker": "The tree comes first",
+      "h2": "Choose the turf boundary after marking the canopy.",
+      "paras": [
+        "Include the drip line and known roots before discussing removal or base work. A shaded patch can be an appealing place for a lawn or pet area, but it does not remove tree-protection requirements. Keep leaves and acorns in the care plan.",
+        "On a septic-served property, retain pumpout access and obtain appropriate advice before nearby preparation."
+      ]
+    },
+    {
+      "icon": "building",
+      "kicker": "Town yards and commercial properties",
+      "h2": "Give the proposal to the right reviewer.",
+      "paras": [
+        "For a contributing River Road historic property, ask the Town about the required review before a site change. Elsewhere, confirm whether the parcel is within Orange Park or in unincorporated Clay County; the mailing name alone is not enough.",
+        "For a courtyard, dog run or other commercial use along the Blanding corridor, identify the authorized property representative and intended care routine. In county-regulated commercial landscaping, synthetic turf does not substitute for required planting. Keep that planting and the activity surface separate in the plan."
+      ]
+    }
+  ],
+  "services": [
+    "residential-turf",
+    "commercial-turf",
+    "pet-turf"
+  ],
+  "servicesNote": "Compare a shaded-yard lawn, pet area or commercial courtyard with the relevant property and tree requirements.",
+  "faq": [],
+  "nearby": [
+    "lakeside-fl",
+    "fleming-island-fl",
+    "doctors-inlet-fl",
+    "jacksonville-fl"
+  ],
+  "sources": [
+    {
+      "label": "Rule 62-308.100, F.A.C.: adopted rule text",
+      "url": "https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc"
+    },
+    {
+      "label": "Chapter 2025-140, Laws of Florida (HB 683)",
+      "url": "https://laws.flrules.org/files/Ch_2025-140.pdf"
+    },
+    {
+      "label": "Town of Orange Park: Public Works",
+      "url": "https://www.townoforangepark.com/p/town-government/public-works"
+    },
+    {
+      "label": "Town of Orange Park: watering restrictions",
+      "url": "https://www.townoforangepark.com/p/residents/utility-services/watering-restrictions"
+    },
+    {
+      "label": "Wikipedia: St. Johns River",
+      "url": "https://en.wikipedia.org/wiki/St._Johns_River"
+    },
+    {
+      "label": "USDA NRCS Soil Data Access (survey area FL019)",
+      "url": "https://sdmdataaccess.sc.egov.usda.gov/"
+    },
+    {
+      "label": "Explore Clay: Clarke House Park",
+      "url": "https://exploreclay.com/activities/clarke-house-park/"
+    },
+    {
+      "label": "Wikipedia: Orange Park Mall",
+      "url": "https://en.wikipedia.org/wiki/Orange_Park_Mall"
+    },
+    {
+      "label": "Clay County Code of Ordinances, Ch. 18.5 (Municode)",
+      "url": "https://library.municode.com/fl/clay_county/codes/code_of_ordinances"
+    },
+    {
+      "label": "Clay County Utility Authority: Phase III water shortage restrictions",
+      "url": "https://clayutility.org/phase-iii-water-shortage-restrictions-now-in-effect/"
+    }
+  ],
+  "checked": "2026-09-07",
+  "foldedFrom": [
+    "bellair-meadowbrook-terrace-fl"
+  ],
+  "publicReferences": [
+    "https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc"
+  ]
+}

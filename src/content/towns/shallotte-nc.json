@@ -1,0 +1,67 @@
+{
+  "status": "published",
+  "market": "grand-strand",
+  "name": "Shallotte",
+  "state": "NC",
+  "county": "Brunswick",
+  "title": "Artificial Turf in Shallotte, NC | TIMELESS Grass & Greens",
+  "description": "Artificial turf installation in Shallotte. Turn part of your yard into a lawn, pet area or putting green.",
+  "h1": "Artificial turf installation in Shallotte.",
+  "lede": "Turn part of your yard into a lawn, pet area or putting green. Start with a free site visit, a custom layout and a written estimate.",
+  "wins": [
+    "Choose the area and use that fit your yard",
+    "See a custom layout before work starts",
+    "Compare turf options with a written price"
+  ],
+  "answer": {
+    "question": "What should I have ready for a Shallotte turf estimate?",
+    "answer": "Show us the area you want to change, the narrowest access into the yard and any places that hold water. For a putting green, tell us which putts you want to practice. Bring any property or association requirements so the proposed work can be priced around them."
+  },
+  "blocks": [
+    {
+      "icon": "flag",
+      "kicker": "A yard you’ll use",
+      "h2": "Choose the job for each part of the yard.",
+      "paras": [
+        "A putting green can leave room for a pet area, planting beds and the path from the house. Start with how you want to spend time outside, then choose the turf boundary. For a green, decide which putt lengths matter to you and whether you want room to chip.",
+        "At the visit, we’ll discuss the layout and turf options. The written estimate should make the installation scope clear, including removal, preparation and finishing. Show us gates, steps and wet spots that could affect the work."
+      ]
+    },
+    {
+      "icon": "shield",
+      "kicker": "Your Shallotte property",
+      "h2": "Use the parcel address when checking requirements.",
+      "paras": [
+        "A Shallotte mailing address alone does not settle which requirements apply to the work. Ask Town Planning & Zoning to confirm the jurisdiction for your parcel, and check any association requirements before finalizing the layout.",
+        "That check is particularly useful if the project includes grading or drainage changes. Bring any written conditions to the visit so the turf layout and installation scope can take them into account."
+      ]
+    }
+  ],
+  "services": [
+    "residential-turf",
+    "pet-turf",
+    "putting-greens"
+  ],
+  "servicesNote": "Choose a lawn, pet area or putting green, then request a visit to discuss the layout and installation options.",
+  "faq": [],
+  "nearby": [
+    "carolina-shores-nc",
+    "little-river-sc",
+    "north-myrtle-beach-sc"
+  ],
+  "sources": [
+    {
+      "label": "Town of Shallotte: Planning & Zoning",
+      "url": "https://www.townofshallotte.org/planning_zoning"
+    },
+    {
+      "label": "Town of Shallotte: jurisdiction and zoning maps",
+      "url": "https://www.townofshallotte.org/index.asp?SEC=C206CE57-2C55-45E6-88CB-08032F3785DD"
+    }
+  ],
+  "checked": "2026-09-11",
+  "placeType": "City",
+  "publicReferences": [
+    "https://www.townofshallotte.org/planning_zoning"
+  ]
+}

@@ -13,7 +13,7 @@ green is blown clean. Every colour, weight and motion decision traces back to th
 
 Every line says what the customer gets; Ty's test is "would a homeowner care?". Order: dark
 hero (Call + free estimate, three proof points) → services → photographs → before/after
-(gated) → why choose us (four benefits, zoom photo) → how it works (pinned) → areas → FAQ →
+(gated) → why choose us (four benefits, zoom photo) → how it works (four static steps) → areas → FAQ →
 close + form. "Who shows up", "what goes wrong", "the written quote" and "the finish" were cut
 the same day: business structure, soil science and process philosophy no buyer asked about.
 The numbers ledger, the answer box and the close fold into the hero, the areas section and the
@@ -32,7 +32,7 @@ count-up or homeowner count — neither is sourced here.
 | **Accent (the only one)** | `--accent` | `#307408` | ribbon's deep stop, away from Murphy's sage |
 | Accent on dark | `--accent-on-dark` | `#8ACF35` | ribbon's light stop; dark ground only |
 | Ribbon | `--ribbon` | `#48A008 → #80D028 → #409800` | the mark's own gradient — hairlines and the process bar |
-| Ink | `--ink` | `#15150F` at 1 / .68 / .56 / .14 | one text colour, four opacities, no second grey |
+| Ink | `--ink` | `#15150F` at 1 / .68 / .14 | one text colour, four opacities, no second grey |
 
 The wordmark gold (`#DEBA1F`) lives in the logo and is **never** a system colour.
 Section rhythm alternates **dark → ground → band → ground → deep green → …** so no two
@@ -65,7 +65,7 @@ Grep the built CSS for a second `cubic-bezier` before shipping.
 | Count-up on **true** numbers | `[data-count]` | ships the final number in HTML |
 | Ken-burns on scroll | `.hero__img` | any hero with an image |
 | Gallery drift | `.strip__track` | wide + pointer only; narrow/touch gets native swipe |
-| Pinned steps | `.proc` | ≥ 900px only |
+| Readable process | `.proc` | static at every width; no pinning, stacking or dimming |
 | Before/after wipe | `.wipe` | scroll-scrubbed |
 | Stripe drift | `.turf-marks--drift` | dark bands |
 | Stroke under "no mud." | `.scribble` | homepage intro, drawn with `stroke-dashoffset` |
@@ -115,7 +115,7 @@ Check orientation by eye on every new batch: one file arrived rotated 90° with 
 
 ## Copy
 
-- Every claim → receipt within one element. No claim without a source in `.site/truth/`.
+- Business claims retain support in `.site/truth/`; consequential technical and local claims retain their scoped evidence records. Source storage does not require a citation in every public paragraph.
 - The client's vocabulary ("blown clean", "anything that's turf", "you get what you pay
   for") over marketing vocabulary.
 - **Never:** a rating or review count except beside a live third-party link; a founding
@@ -136,7 +136,7 @@ Every rule below was seen, fixed, then re-measured — not inferred.
 
 | Rule | Where it lives |
 |---|---|
-| The pinned process section arrives with step 1 lit and the bar at 1/n; the scroll timeline covers steps 2..n | `motion.ts` §5 |
+| Process displays all four steps in normal flow; no progress animation or dimmed steps | `Process.astro`, `components.css` |
 | Mixed-ratio galleries align to `start` so every caption sits on its own image | `.strip__track`, `.proof__grid` |
 | Proof sections are dark on every page type (home strip, hub "Jobs in…", service "…we've installed") | `sec--dark on-dark` |
 | The standard band carries one photo slot (fin-1); with no photo on file it collapses to one column via `:has(.band__fig:empty)` | `.band`, `index.astro` |
@@ -147,15 +147,14 @@ Every rule below was seen, fixed, then re-measured — not inferred.
 
 The accent was deepened from the measured ribbon stop `#3F8C0A` to `#307408` so it passes
 WCAG AA everywhere it is used as text or as a fill under warm-white text. Hover goes
-deeper (`#245A05`), never lighter. Faint ink is 56% (kickers and hairline labels only);
-anything a person reads — captions, breadcrumbs, notes, form hints — uses `--ink-dim`.
+deeper (`#245A05`), never lighter. Faint and dim ink both use 68% on light surfaces. Readable labels do not get a contrast exception. Form labels are 14px, normal case; regular body copy remains at least 16px. Dark-surface secondary ink uses 70%.
 
 | Pair | Ratio |
 |---|---|
 | Brand green text on chalk / band | 4.9 / 4.6 |
 | Primary button: green fill + warm white | 5.1 (hover 6.7) |
-| Faint ink on chalk / band | 3.9 / 3.6 (labels only) |
-| Dim ink on chalk / band | 7.2 / 6.6 |
+| Faint ink on chalk / band | 5.91 / 5.69 |
+| Dim ink on chalk / band | 5.91 / 5.69 |
 | Bright green on dark / deep green | 10.2 / 7.3 |
 | Warm white on dark / deep green | 16.9 / 12.2 |
 
@@ -183,14 +182,34 @@ that ground and 16.9:1 on the dark. Every call to action on a dark section uses 
   `[data-estimate]` opens it; a value presets step one. Without JavaScript it is a plain form
   posting to `/thanks/`. Motion: the sheet slides up on phones, steps slide, the done seal draws.
 - **Every page ends on the offer** (`OfferPanel`): what the free estimate includes, one button.
-- **Service pages** follow the buyer: hero → what you get (icon cards) → the work → options and
-  "every install includes" → how it works → FAQ (sourced links, FAQPage schema) → the fine print
-  (extra.json, collapsed) → areas → offer. Copy lives in `services.ts`.
+- **Service pages** follow the buyer: hero → concise benefits → the work → service-specific
+  inclusions and options → how it works → useful questions → areas → offer. Any extra questions
+  in `extra.json` must help a customer plan the work. Copy lives in `services.ts`.
 - **Market pages** (`/denver-metro/`, `/grand-strand/`, `/northeast-florida/`) use the same order
-  for one place: hero → why turf works here (four local reasons, each linking its guide) → what we
-  install (every service, in the order that market asks) → the work → how it works → local FAQ
-  (sourced links) → the fine print (collapsed) → where we work (every place the client named, and
+  for one place: hero → concise reasons and relevant work → what we
+  install → how it works → practical local questions → where we work (every place the client named, and
   the map) → offer. Copy lives in `markets.ts`. Only places named on the call or the old site ship:
   no photograph is captioned as a market, because no photograph's location is on file.
 - Every page ends on the offer: guides, the guides index and the 404 included. The thanks page ends
   on "what happens next" instead — the lead is already in.
+
+
+## Audit implementation, September 11, 2026
+
+These decisions supersede the earlier pinned/stacked Process and overlay-gallery-caption specifications.
+
+- Homepage leads with artificial turf installation, the free visit, turf options and written price. Estimate is the primary action; phone is the alternative. Layout approval and supported material facts replace the unattributed experience badge.
+- Process stays in document flow with all four steps legible. There is no fixed viewport height, progress bar, pin spacer, card stacking or drifting pattern behind it.
+- Gallery photographs have a separate `.fig__media` frame with captions below. Mobile gets a full-width lead photograph; related views follow in a smaller grid. Lightbox geometry comes from the image frame, while keyboard focus returns to the opening figure.
+- Desktop navigation shows the business name, Services, Our work and Areas. Mobile retains the dialog menu. Its modal state must end when switching to desktop navigation.
+- Service and market primary benefits form a concise ruled list. Each service has its own installation inclusions; indoor flooring does not inherit a soil-base promise.
+- Guide and article contents links are generated from their real headings. Optional FAQs render no empty heading or schema.
+- Micro styling remains for secondary section labels; form labels use normal case at 14px and dim ink. Test real text contrast and reflow at 320px.
+
+## Site-wide editorial direction, September 11, 2026
+
+- Sales copy explains use, options, scope, price factors, relevant limitations and the estimate. Remove lab-study tables, research-process narration, irrelevant legal history and local trivia from the sales journey.
+- Each page must earn its detail. A short town page still needs a meaningful local decision; guides need an answer and useful steps rather than an archive of discarded research.
+- `sources` is internal evidence. `publicReferences` deliberately selects useful external links; an empty selection renders nothing. PublicReferences uses descriptive labels and never prints internal source annotations or checked-date logs.
+- Revised HTML, metadata, FAQ/schema and Markdown mirrors describe the same public answer. Internal research stays out of hidden public appendices and machine-only content.
+- Preserve real limitations and evidence. Do not replace technical padding with invented testimonials, prices, project locations, credentials or performance promises.

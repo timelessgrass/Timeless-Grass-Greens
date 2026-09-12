@@ -1,0 +1,72 @@
+{
+  "status": "published",
+  "market": "grand-strand",
+  "name": "Briarcliffe Acres",
+  "state": "SC",
+  "county": "Horry",
+  "title": "Artificial Turf in Briarcliffe Acres, SC | TIMELESS Grass & Greens",
+  "description": "A lawn or putting green among the Briarcliffe Acres trees. Keep the wooded setting and choose the part of the yard you want to use more.",
+  "h1": "A lawn or putting green among the Briarcliffe Acres trees.",
+  "lede": "Keep the wooded setting and choose the part of the yard you want to use more. We install artificial lawns, pet areas and putting greens, starting with a free visit.",
+  "wins": [
+    "Plan around trees you want to keep",
+    "Choose a lawn, pet area or practice green",
+    "See the layout and written installation price"
+  ],
+  "answer": {
+    "question": "What matters when planning turf on a wooded Briarcliffe Acres lot?",
+    "answer": "Start with the trees, roots and existing paths. Choose an open area for turf rather than forcing the layout into a root zone. Consider leaf cleanup and show us any low or wet ground, especially near the lakes."
+  },
+  "blocks": [
+    {
+      "icon": "sun",
+      "kicker": "Under the canopy",
+      "h2": "Leave the trees room; give the turf a purpose.",
+      "paras": [
+        "A small lawn beside the patio or a pet area near the door can change how you use a wooded yard without covering every clearing. A putting green needs space for the intended putting lines as well as a route to reach it.",
+        "Mark the trees you want to keep before discussing excavation. Ask the Town about any tree-related requirements, and get suitable advice where preparation could affect roots. Turf selection does not answer those questions."
+      ]
+    },
+    {
+      "icon": "flag",
+      "kicker": "A green in the clearing",
+      "h2": "Think about cleanup as well as the view.",
+      "paras": [
+        "Leaves and other tree debris still need to be removed from turf. For a practice green, compare locations by access, shade and how much debris lands there, as well as the shape of the available space.",
+        "On a lake-side or low-lying property, show us where water collects after rain. The estimate should identify preparation and any drainage work separately; a new surface alone does not solve a wet-yard problem."
+      ]
+    }
+  ],
+  "services": [
+    "residential-turf",
+    "putting-greens",
+    "pet-turf"
+  ],
+  "servicesNote": "Compare lawn, pet-turf and putting-green options for the clearings and access available on your property.",
+  "faq": [],
+  "nearby": [
+    "north-myrtle-beach-sc",
+    "myrtle-beach-sc",
+    "carolina-forest-sc"
+  ],
+  "sources": [
+    {
+      "label": "Briarcliffe Acres Association (common areas; not an HOA)",
+      "url": "https://briarcliffeacresassociation.org/"
+    },
+    {
+      "label": "Briarcliffe Acres Association: history",
+      "url": "https://briarcliffeacresassociation.org/history/"
+    },
+    {
+      "label": "Town of Briarcliffe Acres (Ordinance 2022.04, replacement tree list, building permit application)",
+      "url": "http://www.townofbriarcliffe.us"
+    },
+    {
+      "label": "Wikipedia: Briarcliffe Acres, South Carolina",
+      "url": "https://en.wikipedia.org/wiki/Briarcliffe_Acres,_South_Carolina"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

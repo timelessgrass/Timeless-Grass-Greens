@@ -1,0 +1,65 @@
+{
+  "status": "published",
+  "market": "denver-metro",
+  "name": "Centennial",
+  "state": "CO",
+  "county": "Arapahoe",
+  "title": "Artificial Turf in Centennial, CO | TIMELESS Grass & Greens",
+  "description": "Artificial turf for your Centennial yard. Plan a backyard green, pet area or lawn without routine mowing.",
+  "h1": "Artificial turf for your Centennial yard.",
+  "lede": "Plan a backyard green, pet area or lawn without routine mowing. Start with a free visit to compare the layout, turf options and written price.",
+  "wins": [
+    "Keep paths and planting areas in view",
+    "Choose putting practice or everyday lawn use",
+    "Get the installation price after a free visit"
+  ],
+  "answer": {
+    "question": "What should I consider when planning artificial turf in Centennial?",
+    "answer": "Start with how you want to use the yard, then consider access, shade and existing drainage. Show us the area that is difficult to use now and the landscape you want to retain. If water cost is part of the decision, use the provider and usage on your own bill."
+  },
+  "blocks": [
+    {
+      "icon": "layout",
+      "kicker": "At the free visit",
+      "h2": "Show us the space that is difficult to use now.",
+      "paras": [
+        "It may be a worn path from the patio, a shaded patch or the area you would like to turn into a putting green. Point out the problem and the parts of the yard you want to keep. A useful layout leaves room for walking, seating, planting and access as well as turf.",
+        "Show us downspouts, low spots and existing drainage routes. Include any proposed fence or gate changes in the discussion. The estimate should make the proposed preparation and drainage work clear."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Comparing costs",
+      "h2": "Use the provider on your bill.",
+      "paras": [
+        "Centennial addresses are served by different water providers. Centennial Water and Sanitation District serves Highlands Ranch, so its similar name should not be used to assume an offer or rule applies to your City of Centennial address.",
+        "Check program eligibility directly before using a rebate in your budget. A turf area no longer needs routine irrigation for living grass, but it still needs cleaning and care, particularly with pets. Compare the change against your own use."
+      ]
+    }
+  ],
+  "services": [
+    "residential-turf",
+    "putting-greens",
+    "pet-turf"
+  ],
+  "servicesNote": "Explore a backyard green, residential lawn or pet area for the space you want to use.",
+  "faq": [],
+  "nearby": [
+    "greenwood-village-co",
+    "littleton-co",
+    "highlands-ranch-co",
+    "lone-tree-co"
+  ],
+  "sources": [
+    {
+      "label": "Arapahoe County Water and Wastewater Authority (ACWWA)",
+      "url": "https://www.acwwa.com/"
+    },
+    {
+      "label": "Centennial Water and Sanitation District: turf replacement program",
+      "url": "https://www.centennialwater.org/turf-replacement-program"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

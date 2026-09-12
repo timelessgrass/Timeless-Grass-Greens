@@ -1,0 +1,100 @@
+{
+  "status": "published",
+  "market": "denver-metro",
+  "name": "Superior",
+  "state": "CO",
+  "county": null,
+  "title": "Artificial Turf in Superior, CO | TIMELESS Grass & Greens",
+  "description": "A finished yard for your Superior home. Plan a lawn, pet area or putting green around an existing garden or a landscape still taking shape.",
+  "h1": "A finished yard for your Superior home.",
+  "lede": "Plan a lawn, pet area or putting green around an existing garden or a landscape still taking shape. Start with a free visit and written estimate.",
+  "wins": [
+    "Keep the whole landscape in view",
+    "Coordinate access with other work",
+    "Compare the turf and preparation for your lot"
+  ],
+  "answer": {
+    "question": "What changes when turf is part of a Superior rebuild landscape?",
+    "answer": "Bring the current property plan and identify work that still needs access before the surface is finished. Show any known drainage or ground information. Material requirements near the home and structural site concerns should be resolved with the appropriate professionals before the turf plan is finalized."
+  },
+  "blocks": [
+    {
+      "icon": "home",
+      "kicker": "A yard still taking shape",
+      "h2": "Leave room for the next part of the landscape.",
+      "paras": [
+        "Paths, planting, shade and utility access should sit on the same plan as the lawn or green. If other work is continuing, discuss the sequence so it does not need to cross a newly finished surface. A raw-looking lot is not proof that there is nothing beneath it to account for.",
+        "A compact green can be designed around useful putting lines rather than leftover space. For family or pet use, include shade and cleanup access in the layout."
+      ]
+    },
+    {
+      "icon": "shield",
+      "kicker": "Existing and shared yards",
+      "h2": "Use the requirements for your property type.",
+      "paras": [
+        "In Rock Creek or another association property, obtain the current requirements before choosing a final product. For a Downtown Superior townhome or flat, confirm who controls the courtyard or terrace and any building conditions that apply.",
+        "Show us any site reports, wet spots and grade changes. Ask for preparation and unresolved conditions to be clear in the estimate. Turf installation does not correct subsidence or establish compliance with fire-related landscape requirements."
+      ]
+    }
+  ],
+  "services": [
+    "residential-turf",
+    "putting-greens",
+    "pet-turf"
+  ],
+  "servicesNote": "Compare a lawn, pet area or green as part of the landscape you want around your home.",
+  "faq": [],
+  "nearby": [
+    "louisville-co",
+    "boulder-co",
+    "lafayette-co"
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia: Marshall Fire",
+      "url": "https://en.wikipedia.org/wiki/Marshall_Fire"
+    },
+    {
+      "label": "Colorado Geological Survey: coal mine subsidence",
+      "url": "https://coloradogeologicalsurvey.org/hazards/subsidence/coal-mine-subsidence/"
+    },
+    {
+      "label": "Rock Creek HOA",
+      "url": "https://www.rockcreekhoa.com/"
+    },
+    {
+      "label": "Colorado SB23-178, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf"
+    },
+    {
+      "label": "Town of Superior: voluntary water restrictions",
+      "url": "https://www.superiorcolorado.gov/Community/News/Voluntary-Water-Restrictions"
+    },
+    {
+      "label": "Town of Superior: drought mitigation",
+      "url": "https://www.superiorcolorado.gov/Transparency/Drought-Mitigation"
+    },
+    {
+      "label": "Town of Superior: Water Efficiency Rebate Program",
+      "url": "https://www.superiorcolorado.gov/Government/Departments/Sustainability/Sustainable-Water/Water-Efficiency-Rebate-Program"
+    },
+    {
+      "label": "Coal Creek Golf Course",
+      "url": "https://www.coalcreekgolf.com/"
+    },
+    {
+      "label": "Colorado SB24-005, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2024a_005_signed.pdf"
+    },
+    {
+      "label": "Colorado HB25-1113, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2025a_1113_signed.pdf"
+    },
+    {
+      "label": "Town of Superior: athletic fields and courts",
+      "url": "https://www.superiorcolorado.gov/Community/Recreation/Athletic-Fields-Courts"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

@@ -1,0 +1,89 @@
+{
+  "status": "published",
+  "market": "denver-metro",
+  "name": "Fairmount",
+  "state": "CO",
+  "county": "Jefferson",
+  "title": "Artificial Turf in Fairmount, CO | TIMELESS Grass & Greens",
+  "description": "A lawn or putting green on your Fairmount property. Keep the space you value and convert the area you want to use differently.",
+  "h1": "A lawn or putting green on your Fairmount property.",
+  "lede": "Keep the space you value and convert the area you want to use differently. We install artificial lawns, pet areas and backyard greens with free estimates.",
+  "wins": [
+    "A green without crowding the rest of the lot",
+    "A defined lawn or pet area near the house",
+    "A plan that accounts for existing property systems"
+  ],
+  "answer": {
+    "question": "What should a larger Fairmount turf project leave clear?",
+    "answer": "Mark any ditch, lateral, easement and existing drainage route before placing the turf boundary. Show us paths, trees and the access into the work area. A larger lot can support a focused green or lawn near the house without converting all the land."
+  },
+  "blocks": [
+    {
+      "icon": "flag",
+      "kicker": "Room around the green",
+      "h2": "Choose a practice area, not a full-lot conversion.",
+      "paras": [
+        "A larger Fairmount property can offer longer putting lines and a separate place to chip. Choose which shots matter and leave walking room around them. A pet area or lawn near the house can be a separate part of the plan.",
+        "Access may run past drives, outbuildings or established trees. Walk that route during the visit so the quote reflects how materials will reach the work."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Old irrigation routes",
+      "h2": "Bring the plat before changing the ground.",
+      "paras": [
+        "If a ditch or lateral crosses the property, locate it and establish any access requirements before proposing excavation. Point out known wet areas and keep any unresolved drainage work separate in the estimate.",
+        "Fairmount is unincorporated Jefferson County, despite many Golden mailing addresses. Confirm applicable county requirements for the work and use the provider on your bill when comparing water costs or incentives."
+      ]
+    }
+  ],
+  "services": [
+    "residential-turf",
+    "pet-turf",
+    "putting-greens"
+  ],
+  "servicesNote": "Discuss a green, lawn or pet area as a defined part of the land you already have.",
+  "faq": [],
+  "nearby": [
+    "applewood-co",
+    "golden-co",
+    "arvada-co",
+    "wheat-ridge-co"
+  ],
+  "sources": [
+    {
+      "label": "North Table Mountain Water and Sanitation District",
+      "url": "https://www.ntmwater.org/"
+    },
+    {
+      "label": "North Table Mountain Water: restrictions and conservation",
+      "url": "https://www.ntmwater.org/restrictions-conservation/"
+    },
+    {
+      "label": "Colorado SB24-005, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2024a_005_signed.pdf"
+    },
+    {
+      "label": "Colorado HB25-1113, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2025a_1113_signed.pdf"
+    },
+    {
+      "label": "Colorado Geological Survey: expansive soil and rock",
+      "url": "https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/"
+    },
+    {
+      "label": "Wikipedia: Fairmount, Colorado",
+      "url": "https://en.wikipedia.org/wiki/Fairmount,_Colorado"
+    },
+    {
+      "label": "Fossil Trace Golf Club",
+      "url": "https://www.fossiltrace.com/"
+    },
+    {
+      "label": "Colorado HB21-1229",
+      "url": "https://leg.colorado.gov/bills/hb21-1229"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

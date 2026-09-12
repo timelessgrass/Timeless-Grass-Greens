@@ -5,7 +5,7 @@ import '../styles/components.css';
 import '../styles/home.css';
 import '../styles/wizard.css';
 import '../styles/service.css';
-import { businessName, phone, phoneHref, email, serviceAreas, foundedYear } from '../data/brief';
+import { businessName, phone, phoneHref, email, foundedYear } from '../data/brief';
 import { MARKETS } from '../data/markets';
 import { SERVICES } from '../data/services';
 import { Image } from 'astro:assets';
@@ -45,8 +45,8 @@ const graph: any[] = [
     ...(phone ? { telephone: phone } : {}),
     ...(email ? { email } : {}),
     knowsAbout: SERVICES.map((s) => s.name),
-    /* the three markets, each with the places the client named: the same lists the pages show */
-    areaServed: MARKETS.map((m) => ({ '@type': 'Place', name: m.name, containsPlace: m.places.map((p) => ({ '@type': 'Place', name: p })) })),
+    /* the three markets by name, as the header shows them; each area and town page names its own places */
+    areaServed: MARKETS.map((m) => ({ '@type': 'Place', name: m.name })),
   },
   {
     '@type': 'WebSite',
@@ -118,15 +118,15 @@ if (schema?.length) graph.push(...schema);
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=Instrument+Sans:wght@400;500;600&display=swap" />
-<script type="application/ld+json" set:html={JSON.stringify({ '@context': 'https://schema.org', '@graph': graph })} />
+<script is:inline type="application/ld+json" set:html={JSON.stringify({ '@context': 'https://schema.org', '@graph': graph })} />
 </head>
-<body>
+<body class:list={{ 'has-inline-estimate': noEstimate }}>
   <div class="progress" aria-hidden="true"><span></span></div>
   <a class="skip" href="#main">Skip to content</a>
 
   <div class="util"><div class="util__in">
     <span>Denver · Myrtle Beach · Jacksonville</span>
-    <span>13 years&rsquo; experience · Free estimates</span>
+    <span>Free visits · Written quotes</span>
     {phoneHref && <span><a class="util__tel" href={phoneHref} data-cta="call-util">{phone}</a></span>}
   </div></div>
 
@@ -134,14 +134,20 @@ if (schema?.length) graph.push(...schema);
     <div class="chrome__in">
       <a class="chrome__mark" href="/" aria-label={`${businessName} — home`}>
         <Image src={logo} alt="" width={140} densities={[1, 2]} class="chrome__logo" loading="eager" />
+        <span class="chrome__wordmark">{businessName}</span>
       </a>
+      <nav class="chrome__nav" aria-label="Main navigation">
+        <a href="/services/">Services</a>
+        <a href="/#work">Our work</a>
+        <a href="/#markets">Areas</a>
+      </nav>
       <button class="chrome__menu" type="button" aria-expanded="false" aria-controls="menu" data-menu-toggle>
         <span class="chrome__menu-ico" aria-hidden="true"></span><span class="chrome__menu-lbl">Menu</span>
       </button>
     </div>
   </header>
 
-  <div class="menu turf-marks turf-marks--dark" id="menu" hidden>
+  <dialog class="menu turf-marks turf-marks--dark" id="menu" aria-label="Site menu">
     <div class="menu__in">
       <div class="menu__head">
         <Image src={logoRev} alt={businessName} width={160} densities={[1, 2]} class="menu__logo" loading="lazy" />
@@ -157,17 +163,17 @@ if (schema?.length) graph.push(...schema);
           <ul>{MARKETS.map((m) => <li><a href={`/${m.slug}/`}>{m.name}</a></li>)}</ul>
         </div>
         <div>
-          <p class="micro">The rules</p>
-          <ul><li><a href="/guides/">Turf rules by state</a></li></ul>
+          <p class="micro">Learn</p>
+          <ul><li><a href="/blog/">Turf questions</a></li><li><a href="/guides/">Turf rules by state</a></li></ul>
         </div>
       </nav>
       <div class="menu__cta">
-        <a class="btn btn--light btn--lg" href="/estimate/" data-estimate data-cta="quote-menu">Get a free estimate</a>
+        <a class="btn btn--light btn--lg" href="/estimate/" data-estimate data-cta="quote-menu">Request a free estimate</a>
         {phoneHref && <a class="btn btn--primary btn--lg" href={phoneHref} data-cta="call-menu">Call {phone}</a>}
       </div>
       <p class="menu__foot">Denver Metro · The Grand Strand · Northeast Florida</p>
     </div>
-  </div>
+  </dialog>
 
   <main id="main">
     <slot />
@@ -187,8 +193,8 @@ if (schema?.length) graph.push(...schema);
           <ul>{SERVICES.map((s) => <li><a href={`/services/${s.slug}/`}>{s.name}</a></li>)}</ul>
         </div>
         <div>
-          <p class="micro">The rules</p>
-          <ul><li><a href="/guides/">Turf rules by state</a></li></ul>
+          <p class="micro">Learn</p>
+          <ul><li><a href="/blog/">Turf questions</a></li><li><a href="/guides/">Turf rules by state</a></li></ul>
         </div>
       </nav>
       {phoneHref && <a class="foot__tel" href={phoneHref} data-cta="call-footer">{phone}</a>}

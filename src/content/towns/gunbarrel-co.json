@@ -1,0 +1,77 @@
+{
+  "status": "published",
+  "market": "denver-metro",
+  "name": "Gunbarrel",
+  "state": "CO",
+  "county": "Boulder",
+  "title": "Artificial Turf in Gunbarrel, CO | TIMELESS Grass & Greens",
+  "description": "Lawns and putting greens for Gunbarrel yards. Replace a tired patch while keeping established trees, paths and planting.",
+  "h1": "Lawns and putting greens for Gunbarrel yards.",
+  "lede": "Replace a tired patch while keeping established trees, paths and planting. Request a free visit to compare turf options and a written installation price.",
+  "wins": [
+    "Plan around mature trees and useful paths",
+    "Choose lawn, pet or putting use",
+    "Confirm the property before finalizing the scope"
+  ],
+  "answer": {
+    "question": "Does a Gunbarrel turf project follow City of Boulder or county requirements?",
+    "answer": "Confirm the parcel with the City or County before planning around either set of requirements. Gunbarrel includes both jurisdictions. The water bill helps identify your utility, but it should not be used as the only proof of the property’s jurisdiction."
+  },
+  "blocks": [
+    {
+      "icon": "home",
+      "kicker": "An established yard",
+      "h2": "Keep the features that make it worth using.",
+      "paras": [
+        "Start with the patio, trees and routes across the yard. A worn lawn can become a defined turf area while beds remain, or part of the space can be used for a putting green. For pets, keep cleanup access and the door-to-yard route in the plan.",
+        "On a property beside farmland or open space, bring any known ditch or drainage information. Identify tree roots, old irrigation and wet patches before discussing removal."
+      ]
+    },
+    {
+      "icon": "shield",
+      "kicker": "Both sides of the Boulder line",
+      "h2": "Use the right requirements from the start.",
+      "paras": [
+        "The City of Boulder and unincorporated Boulder County have different review paths. Confirm your address and intended project with the responsible office, including any landscape or grading work.",
+        "For a townhome or association property, obtain the current requirements and establish who controls the work area. Bring written conditions to the estimate so the layout reflects the property rather than a nearby neighbor’s installation."
+      ]
+    }
+  ],
+  "services": [
+    "residential-turf",
+    "pet-turf",
+    "putting-greens"
+  ],
+  "servicesNote": "Compare a lawn, pet area or green that works around the landscape you want to retain.",
+  "faq": [],
+  "nearby": [
+    "boulder-co",
+    "louisville-co",
+    "lafayette-co",
+    "erie-co"
+  ],
+  "sources": [
+    {
+      "label": "City of Boulder: water conservation",
+      "url": "https://bouldercolorado.gov/services/water-conservation"
+    },
+    {
+      "label": "Left Hand Water District: drought",
+      "url": "https://lefthandwater.gov/conservation/drought/"
+    },
+    {
+      "label": "Left Hand Water District: conservation",
+      "url": "https://lefthandwater.gov/conservation/"
+    },
+    {
+      "label": "Wikipedia: Gunbarrel, Colorado",
+      "url": "https://en.wikipedia.org/wiki/Gunbarrel,_Colorado"
+    },
+    {
+      "label": "Colorado SB23-178, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

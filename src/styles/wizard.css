@@ -30,12 +30,12 @@
 html.estimate-open { overflow: hidden; }
 
 /* --- the wizard ------------------------------------------------------------------ */
-.wiz { position: relative; padding: clamp(1.4rem, 5vw, 2.3rem); }
-.wiz__head { display: grid; grid-template-columns: 1fr auto; align-items: center; gap: .55rem 1rem; margin: 0 0 1.5rem; }
+.wiz { position: relative; min-width: 0; padding: clamp(1.4rem, 5vw, 2.3rem); }
+.wiz__head { display: flex; flex-wrap: wrap; align-items: center; gap: .55rem 1rem; margin: 0 0 1.5rem; }
 .wiz--modal .wiz__head { padding-right: 3.2rem; } /* clear of the close button */
-.wiz__title { margin: 0; font-size: .69rem; letter-spacing: var(--track-micro); text-transform: uppercase; font-weight: 600; color: var(--accent); }
+.wiz__title { margin: 0; font-size: .875rem; font-weight: 600; color: var(--ink); }
 .wiz__count { margin: 0; font-size: .8rem; color: var(--ink-dim); font-variant-numeric: tabular-nums; }
-.wiz__bar { grid-column: 1 / -1; height: 5px; border-radius: 5px; background: var(--rule); overflow: hidden; }
+.wiz__bar { flex: 0 0 100%; height: 5px; border-radius: 5px; background: var(--rule); overflow: hidden; }
 .wiz__fill { display: block; height: 100%; border-radius: inherit; background: var(--ribbon); transform-origin: left;
   transform: scaleX(var(--p, .2)); transition: transform .6s var(--ease); }
 .wiz:not(.is-wizard) .wiz__count, .wiz:not(.is-wizard) .wiz__bar { display: none; } /* no JS: one long form, no step counter */
@@ -61,10 +61,10 @@ html.estimate-open { overflow: hidden; }
 
 /* answers are cards you tap; the radio stays the real control underneath */
 .wiz__opts { display: grid; gap: .6rem; }
-.wiz__opts--tiles { grid-template-columns: repeat(2, 1fr); }
-.wiz__opts--tiles > :last-child:nth-child(odd) { grid-column: span 2; } /* five answers: the last takes the row instead of sitting alone */
+.wiz__opts--tiles { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.wiz__opts--tiles > :last-child:nth-child(odd) { grid-column: 1 / -1; }
 @media (min-width: 540px) {
-  /* three across on a six-column grid, so the second row of two can sit centred */
+  /* Three choices across; an odd final choice uses the full final row. */
   .wiz__opts--tiles { grid-template-columns: repeat(6, 1fr); }
   .wiz__opts--tiles > .opt { grid-column: span 2; }
   .wiz__opts--tiles > .opt:nth-child(4):nth-last-child(2) { grid-column: 2 / span 2; }
@@ -92,9 +92,13 @@ html.estimate-open { overflow: hidden; }
 .wiz .fld + .fld { margin-top: .95rem; }
 .wiz .fld > span i { font-style: normal; font-weight: 500; letter-spacing: 0; text-transform: none; }
 
-.wiz__nav { display: flex; gap: .7rem; margin-top: 1.7rem; }
-.wiz__nav .btn { flex: 1 1 auto; padding-inline: 1.1rem; white-space: nowrap; } /* "Get my free estimate" on one line beside Back at 390px */
+.wiz__nav { display: flex; flex-wrap: wrap; gap: .7rem; margin-top: 1.7rem; }
+.wiz__nav .btn { min-width: 0; flex: 1 1 auto; padding-inline: 1.1rem; white-space: normal; }
 .wiz__nav .wiz__back { flex: 0 0 auto; }
+@media (max-width: 420px) {
+  .wiz__nav .btn { flex-basis: 100%; }
+  .wiz__nav .wiz__back { order: 1; }
+}
 /* in the sheet the buttons stay under the thumb however long the step */
 .wiz--modal .wiz__nav { position: sticky; bottom: 0; z-index: 2; margin: 1.2rem calc(clamp(1.4rem, 5vw, 2.3rem) * -1) 0;
   padding: 1rem clamp(1.4rem, 5vw, 2.3rem) calc(.9rem + env(safe-area-inset-bottom));
@@ -118,6 +122,7 @@ html.estimate-open { overflow: hidden; }
 
 /* --- /estimate/ page: the wizard on its own ------------------------------------------ */
 .estimate-page { min-height: 72vh; display: grid; align-items: center; }
+.has-inline-estimate .bar { display: none; }
 .estimate-page__card { width: 100%; max-width: 640px; margin-inline: auto; background: var(--ground); border: 1px solid var(--rule);
   border-radius: var(--radius-card); box-shadow: 0 18px 40px rgba(14, 14, 12, .08); }
 

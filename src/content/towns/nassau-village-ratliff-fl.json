@@ -1,0 +1,83 @@
+{
+  "status": "published",
+  "market": "northeast-florida",
+  "name": "Nassau Village-Ratliff",
+  "state": "FL",
+  "county": "Nassau",
+  "title": "Artificial Turf, Nassau Village-Ratliff, FL | TIMELESS Grass & Greens",
+  "description": "Less to mow, more to use in Nassau Village-Ratliff. Choose a lawn near the house, a dog area or a compact practice green on your larger lot.",
+  "h1": "Less to mow, more to use in Nassau Village-Ratliff.",
+  "lede": "Choose a lawn near the house, a dog area or a compact practice green on your larger lot. Get a free visit and a written installation estimate.",
+  "wins": [
+    "Turf the part you use, leaving the rest alone",
+    "Keep workshop and vehicle access available",
+    "Plan around known septic and utility locations"
+  ],
+  "answer": {
+    "question": "Where does turf make sense on a larger Nassau Village-Ratliff lot?",
+    "answer": "Start with the area used every day: beside the back steps, near the dog’s route or around a patio. Leave access to workshops, vehicles and property systems. A smaller defined installation may serve the purpose without converting the whole lot."
+  },
+  "blocks": [
+    {
+      "icon": "layout",
+      "kicker": "Several jobs on one lot",
+      "h2": "Give each area a clear purpose.",
+      "paras": [
+        "A dog area near the door, a short putting line and the route to a workshop need not share one continuous surface. Choose which patch you want to improve and how its edges meet the surrounding ground. Keep parking and vehicle routes separate from turf selected for lawn use."
+      ]
+    },
+    {
+      "icon": "home",
+      "kicker": "Around the home and its systems",
+      "h2": "Leave access before choosing the outline.",
+      "paras": [
+        "For a manufactured home, preserve the necessary access to skirting, tie-downs and services. On a septic-served lot, locate system components and obtain appropriate guidance before nearby excavation or compaction. Do not assume every open patch is available for a base.",
+        "Show us roadside ditches, runoff from slabs and any wet areas. Confirm applicable Nassau County and property requirements, especially for a larger parcel. The estimate should identify the proposed surface work and unresolved drainage concerns separately."
+      ]
+    }
+  ],
+  "services": [
+    "pet-turf",
+    "residential-turf",
+    "putting-greens"
+  ],
+  "servicesNote": "Compare a focused lawn, pet area or practice green near the parts of the property you use most.",
+  "faq": [],
+  "nearby": [
+    "jacksonville-fl",
+    "baldwin-fl",
+    "nassauville-fl"
+  ],
+  "sources": [
+    {
+      "label": "Jacksonville realtor's neighborhood guide: Nassau Village-Ratliff",
+      "url": "https://bestrealtorjacksonville.com/neighborhoods/nassau-village-ratliff"
+    },
+    {
+      "label": "Wikipedia: Nassau Village-Ratliff, Florida",
+      "url": "https://en.wikipedia.org/wiki/Nassau_Village-Ratliff,_Florida"
+    },
+    {
+      "label": "USDA Official Series Description: Leon series",
+      "url": "https://soilseries.sc.egov.usda.gov/OSD_Docs/L/LEON.html"
+    },
+    {
+      "label": "Nassau County Land Development Code, Appendix A, Art. 37, Sec. 37.05 (landscaping)",
+      "url": "http://nassaucounty-fl.elaws.us/code/coor_apxa_florida_art37_sec37.05"
+    },
+    {
+      "label": "St. Johns River Water Management District: watering restrictions",
+      "url": "https://www.sjrwmd.com/wateringrestrictions/"
+    },
+    {
+      "label": "Nassau County Chamber of Commerce: resident guide",
+      "url": "https://www.nassaucountyflchamber.com/resident-guide/"
+    },
+    {
+      "label": "Fla. Stat. 125.572: regulation of synthetic turf",
+      "url": "https://www.flsenate.gov/Laws/Statutes/2025/0125.572"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

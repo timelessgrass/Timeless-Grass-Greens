@@ -1,0 +1,104 @@
+{
+  "status": "published",
+  "market": "northeast-florida",
+  "name": "Jacksonville Beach",
+  "state": "FL",
+  "county": "Duval",
+  "title": "Artificial Turf in Jacksonville Beach, FL | TIMELESS Grass & Greens",
+  "description": "A backyard green or lawn in Jacksonville Beach. Plan putting practice, a pet area or a lawn around the outdoor space you have.",
+  "h1": "A backyard green or lawn in Jacksonville Beach.",
+  "lede": "Plan putting practice, a pet area or a lawn around the outdoor space you have. Start with a free visit and written installation estimate.",
+  "wins": [
+    "Fit useful putting lines into the available yard",
+    "Keep canal and shared access in the plan",
+    "Compare the preparation and finished edges"
+  ],
+  "answer": {
+    "question": "How should turf fit a Jacksonville Beach cottage or canal lot?",
+    "answer": "On a tight beach lot, preserve the route around the house and choose a simple lawn, pet area or putting line. On a canal property, bring shoreline, seawall and drainage information before placing the boundary. Confirm City and applicable association requirements for the actual project."
+  },
+  "blocks": [
+    {
+      "icon": "flag",
+      "kicker": "A green at home",
+      "h2": "Practice without crowding the yard.",
+      "paras": [
+        "Choose the putts you want and room to stand before adding cups. In a compact yard near the pier, a longer narrow line may be more useful than a wide green. In an established yard west of 3rd Street, trees and the patio may set the usable space."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Isle of Palms and other waterfront lots",
+      "h2": "Start above the shoreline conditions.",
+      "paras": [
+        "Show the seawall or bulkhead, service access and any water collecting after rain. Bring recorded property and drainage information so the intended work can be assessed without assuming a new surface will resolve canal-side water problems.",
+        "Jacksonville Beach is separate from Jacksonville and has its own local review. Ask about the complete proposal, including grading and lot coverage. For a community such as The Sanctuary, obtain its current requirements separately and include any delivery restrictions in the estimate."
+      ]
+    }
+  ],
+  "services": [
+    "putting-greens",
+    "residential-turf",
+    "pet-turf"
+  ],
+  "servicesNote": "Compare a green, lawn or pet area within the usable part of your beach or canal property.",
+  "faq": [],
+  "nearby": [
+    "neptune-beach-fl",
+    "atlantic-beach-fl",
+    "ponte-vedra-beach-fl",
+    "palm-valley-fl"
+  ],
+  "sources": [
+    {
+      "label": "Golf Digest: Jax Beach Golf Club",
+      "url": "https://www.golfdigest.com/courses/fl/jax-beach-golf-club-jacksonville-beach"
+    },
+    {
+      "label": "GolfPass: golf courses near Jacksonville Beach",
+      "url": "https://www.golfpass.com/travel-advisor/course-directory/9012-jacksonville-beach/"
+    },
+    {
+      "label": "City of Jacksonville Beach: history",
+      "url": "https://www.jacksonvillebeach.org/360/History"
+    },
+    {
+      "label": "Momentum: Isle of Palms, Jacksonville Beach",
+      "url": "https://movewithmomentum.com/neighborhoods/isle-of-palms-jacksonville-beach"
+    },
+    {
+      "label": "Neighborhoods.com: The Sanctuary, Jacksonville Beach",
+      "url": "https://www.neighborhoods.com/the-sanctuary-jacksonville-beach-fl"
+    },
+    {
+      "label": "Wikipedia: Jacksonville Beach, Florida",
+      "url": "https://en.wikipedia.org/wiki/Jacksonville_Beach,_Florida"
+    },
+    {
+      "label": "Jacksonville Beach Land Development Code (Zoneomics)",
+      "url": "https://www.zoneomics.com/code/jacksonville-beach-FL/chapter_1"
+    },
+    {
+      "label": "Florida Senate: HB 683 (2025), creating Fla. Stat. 125.572",
+      "url": "https://www.flsenate.gov/Session/Bill/2025/683"
+    },
+    {
+      "label": "Fla. Stat. 720.3045: items not visible from the frontage, including artificial turf",
+      "url": "https://www.flsenate.gov/Laws/Statutes/2024/720.3045"
+    },
+    {
+      "label": "City of Jacksonville Beach: watering restrictions",
+      "url": "https://www.jacksonvillebeach.org/337/Watering-Restrictions"
+    },
+    {
+      "label": "St. Johns River Water Management District: watering restrictions",
+      "url": "https://www.sjrwmd.com/wateringrestrictions/"
+    },
+    {
+      "label": "Ch. 2026-63, Laws of Florida (HB 803)",
+      "url": "https://www.nassaucountyfl.com/DocumentCenter/View/31830/Chapter-2026-63-HB803"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

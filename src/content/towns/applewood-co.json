@@ -1,0 +1,88 @@
+{
+  "status": "published",
+  "market": "denver-metro",
+  "name": "Applewood",
+  "state": "CO",
+  "county": "Jefferson",
+  "title": "Artificial Turf in Applewood, CO | TIMELESS Grass & Greens",
+  "description": "A backyard putting green in Applewood. Make space for putting practice, a lawn or a pet area among the parts of your yard you want to keep.",
+  "h1": "A backyard putting green in Applewood.",
+  "lede": "Make space for putting practice, a lawn or a pet area among the parts of your yard you want to keep. Start with a free visit and written estimate.",
+  "wins": [
+    "Choose the putts you want to practice",
+    "Work around established trees and paths",
+    "Compare turf options and installation scope"
+  ],
+  "answer": {
+    "question": "Where should a putting green go in an established Applewood yard?",
+    "answer": "Look for usable putting lines, a convenient route from the house and room to stand. Keep existing trees and roots in the plan, and consider leaf cleanup. We can compare the green with lawn or pet-turf options during the free visit."
+  },
+  "blocks": [
+    {
+      "icon": "flag",
+      "kicker": "Practice at home",
+      "h2": "Useful putting lines come before extra cups.",
+      "paras": [
+        "Choose the distances you want to work on and whether chipping matters to you. A green near the patio may get more use than a larger one at the far end of the yard. Leave walking room around it and keep beds or other garden features that you enjoy."
+      ]
+    },
+    {
+      "icon": "home",
+      "kicker": "An established yard",
+      "h2": "Plan around what has been there for years.",
+      "paras": [
+        "On a tree-lined Applewood property, mark mature trees, roots and irrigation before discussing preparation. Avoid assuming that an open patch above ground is clear for excavation below it. Point out settled paving or known wet areas as well.",
+        "If reducing lawn irrigation is part of your decision, check the provider on your bill and compare your own costs. Allow for turf cleaning, especially for pets, and confirm any rebate eligibility before counting it in the budget."
+      ]
+    }
+  ],
+  "services": [
+    "putting-greens",
+    "residential-turf",
+    "pet-turf"
+  ],
+  "servicesNote": "Discuss a practice green first, or compare a lawn and pet area for the space around it.",
+  "faq": [],
+  "nearby": [
+    "golden-co",
+    "wheat-ridge-co",
+    "lakewood-co",
+    "fairmount-co"
+  ],
+  "sources": [
+    {
+      "label": "Applewood Golf Course",
+      "url": "https://www.applewoodgc.com/"
+    },
+    {
+      "label": "Fossil Trace Golf Club",
+      "url": "https://www.fossiltrace.com/"
+    },
+    {
+      "label": "Consolidated Mutual Water Company: service area map",
+      "url": "https://cmwc.net/service-area-map/"
+    },
+    {
+      "label": "Consolidated Mutual Water Company",
+      "url": "https://cmwc.net/"
+    },
+    {
+      "label": "Colorado Geological Survey: expansive soil and rock",
+      "url": "https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/"
+    },
+    {
+      "label": "Wikipedia: Applewood, Colorado",
+      "url": "https://en.wikipedia.org/wiki/Applewood,_Colorado"
+    },
+    {
+      "label": "Colorado SB23-178, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf"
+    },
+    {
+      "label": "Colorado Water Conservation Board: turf replacement program",
+      "url": "https://cwcb.colorado.gov/turf-replacement-program"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

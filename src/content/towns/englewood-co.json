@@ -1,0 +1,73 @@
+{
+  "status": "published",
+  "market": "denver-metro",
+  "name": "Englewood",
+  "state": "CO",
+  "county": "Arapahoe",
+  "title": "Artificial Turf in Englewood, CO | TIMELESS Grass & Greens",
+  "description": "Turf for the space under your Englewood trees. Keep the shade and choose a lawn, pet area or compact green around it.",
+  "h1": "Turf for the space under your Englewood trees.",
+  "lede": "Keep the shade and choose a lawn, pet area or compact green around it. Request a free visit for a layout and written installation estimate.",
+  "wins": [
+    "Work around the garage and alley gate",
+    "Keep mature trees in the plan",
+    "Compare lawn, pet and putting surfaces"
+  ],
+  "answer": {
+    "question": "What should I consider for turf in a shaded Englewood yard?",
+    "answer": "Include tree roots and cleanup as well as the visible shade. Plan a route to the alley or garage, and show any water collecting beside the house or fence. A small lawn, pet area or green can then be compared against the space that is actually available."
+  },
+  "blocks": [
+    {
+      "icon": "sun",
+      "kicker": "Under established trees",
+      "h2": "Shade is a feature worth keeping.",
+      "paras": [
+        "A north-facing patch or the ground beneath a tree may be the area you most want to change. Turf does not need light to grow, but preparation still needs to respect roots and the surface still needs leaves and debris cleared. Discuss those constraints before deciding how close the turf should come to a trunk.",
+        "For pets, leave a convenient cleaning route and a water source. For putting, think about which lines remain useful once the tree and walking space are accounted for."
+      ]
+    },
+    {
+      "icon": "home",
+      "kicker": "Small lot details",
+      "h2": "Show us the garage apron and the alley edge.",
+      "paras": [
+        "Those edges determine how turf meets the existing surfaces and how materials reach the yard. Include known low spots and irrigation in the estimate so removal and preparation are defined.",
+        "Englewood has its own utility and local requirements. Use your actual provider when comparing ongoing water costs, and ask the City about relevant property or alley restrictions before drawing the turf boundary to the edge of the lot."
+      ]
+    }
+  ],
+  "services": [
+    "pet-turf",
+    "residential-turf",
+    "putting-greens"
+  ],
+  "servicesNote": "Compare a lawn, pet area or compact putting green around the trees and routes you want to retain.",
+  "faq": [],
+  "nearby": [
+    "cherry-hills-village-co",
+    "littleton-co",
+    "denver-co",
+    "greenwood-village-co"
+  ],
+  "sources": [
+    {
+      "label": "Englewood, Colorado (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Englewood,_Colorado"
+    },
+    {
+      "label": "USDA: Englewood soil series",
+      "url": "https://soilseries.sc.egov.usda.gov/OSD_Docs/E/ENGLEWOOD.html"
+    },
+    {
+      "label": "Colorado Geological Survey: expansive soil and rock",
+      "url": "https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/"
+    },
+    {
+      "label": "Colorado SB23-178, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

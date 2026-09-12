@@ -1,0 +1,102 @@
+{
+  "status": "published",
+  "market": "northeast-florida",
+  "name": "Nocatee",
+  "state": "FL",
+  "county": "St. Johns",
+  "title": "Artificial Turf in Nocatee, FL | TIMELESS Grass & Greens",
+  "description": "Put your Nocatee back yard to work. Choose a lawn, pet area or compact putting green between the lanai and the landscape you want to keep.",
+  "h1": "Put your Nocatee back yard to work.",
+  "lede": "Choose a lawn, pet area or compact putting green between the lanai and the landscape you want to keep. Start with a free visit and written estimate.",
+  "wins": [
+    "Use the space for the activity you choose",
+    "Keep pond and preserve boundaries clear",
+    "Plan shade and cleaning alongside pet use"
+  ],
+  "answer": {
+    "question": "How does a pond affect a small Nocatee turf layout?",
+    "answer": "Where Florida’s residential standard applies, turf generally needs a 10-foot separation from the pond’s high-water line, with an exception for a separating seawall or bulkhead. Swales and pond littoral areas stay clear. Establish that boundary and any maintenance access before deciding how much yard can be turfed."
+  },
+  "blocks": [
+    {
+      "icon": "layout",
+      "kicker": "Between the lanai and the boundary",
+      "h2": "Choose the most useful area first.",
+      "paras": [
+        "A pet area close to the door, a lawn for everyday use and a compact green each need different space. On a narrow lot, compare one primary use before trying to fit all three. For putting, leave standing room and a clear route around the surface.",
+        "Many newer yards have limited shade. Think about when the area will be used and how people or pets can get out of full sun; turf can become hot."
+      ]
+    },
+    {
+      "icon": "shield",
+      "kicker": "The neighborhood and the pond",
+      "h2": "Confirm who controls each part of the plan.",
+      "paras": [
+        "Nocatee has different neighborhood associations and CDDs, and spans St. Johns and Duval counties. Use the exact property and community when requesting the applicable requirements. An architectural committee’s response and CDD conditions should be checked for the actual work area.",
+        "Mark pond edges, swales, easements and preserve boundaries on the plan. A rear fence does not establish permission to use every strip within it. Bring the written conditions to the estimate, together with existing irrigation and drainage information."
+      ]
+    }
+  ],
+  "services": [
+    "pet-turf",
+    "residential-turf",
+    "putting-greens"
+  ],
+  "servicesNote": "Compare a lawn, pet area or small green within the available part of your back yard.",
+  "faq": [],
+  "nearby": [
+    "palm-valley-fl",
+    "sawgrass-fl",
+    "ponte-vedra-beach-fl",
+    "south-ponte-vedra-beach-fl"
+  ],
+  "sources": [
+    {
+      "label": "Nocatee: neighborhoods",
+      "url": "https://www.nocatee.com/neighborhoods/"
+    },
+    {
+      "label": "Tolomato Community Development District",
+      "url": "https://mytcdd.com/"
+    },
+    {
+      "label": "Fla. Stat. 720.3045 (2025)",
+      "url": "https://www.flsenate.gov/Laws/Statutes/2025/720.3045"
+    },
+    {
+      "label": "SB 1180 (2026): community development district carve-out, Senate Fiscal Policy analysis",
+      "url": "https://www.flsenate.gov/Session/Bill/2026/1180/Analyses/2026s01180.fp.PDF"
+    },
+    {
+      "label": "JEA: improving reclaimed water availability in Nocatee (March 2025)",
+      "url": "https://www.jea.com/about/media_relations/2025_03_19_jea_works_to_improve_reclaimed_water_availability_in_nocatee/"
+    },
+    {
+      "label": "JEA: Nocatee watering schedule",
+      "url": "https://www.jea.com/nocateewatering"
+    },
+    {
+      "label": "St. Johns County: Phase III extreme water shortage declaration (May 2026)",
+      "url": "https://www.sjcfl.us/phase-iii-extreme-water-shortage-declaration-may-2026/"
+    },
+    {
+      "label": "Wikipedia: Nocatee, Florida",
+      "url": "https://en.wikipedia.org/wiki/Nocatee,_Florida"
+    },
+    {
+      "label": "Florida Rule 62-308.100, F.A.C.: synthetic turf",
+      "url": "https://www.flrules.org/gateway/ruleNo.asp?id=62-308.100"
+    },
+    {
+      "label": "GolfPass: Palm Valley Golf Club",
+      "url": "https://www.golfpass.com/travel-advisor/courses/2443-palm-valley-golf-club"
+    }
+  ],
+  "checked": "2026-09-07",
+  "foldedFrom": [
+    "ponte-vedra-fl"
+  ],
+  "publicReferences": [
+    "https://www.flrules.org/gateway/ruleNo.asp?id=62-308.100"
+  ]
+}

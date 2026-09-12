@@ -5,7 +5,7 @@
  * frame. Native <dialog>: focus is trapped and returned. Reduced motion: a plain fade.
  */
 const dlg = document.querySelector<HTMLDialogElement>('dialog.lightbox');
-const figs = Array.from(document.querySelectorAll<HTMLElement>('.mosaic .fig, .workgrid .fig'));
+const figs = Array.from(document.querySelectorAll<HTMLElement>('.mosaic .fig, .workgrid .fig, .local__intro .fig'));
 
 if (dlg && figs.length && typeof dlg.showModal === 'function') {
   const big = dlg.querySelector<HTMLImageElement>('.lightbox__img')!;
@@ -14,7 +14,10 @@ if (dlg && figs.length && typeof dlg.showModal === 'function') {
   const reduce = window.matchMedia('(prefers-reduced-motion: reduce)');
   const ease = getComputedStyle(document.documentElement).getPropertyValue('--ease').trim() || 'ease-out';
   let cur = -1;
+  let opener: HTMLElement | null = null;
+  let closing = false;
 
+  const frame = (i: number) => figs[i].querySelector<HTMLElement>('.fig__media') ?? figs[i];
   const thumb = (i: number) => figs[i].querySelector<HTMLImageElement>('img')!;
   const sharpest = (img: HTMLImageElement) => {
     const cands = (img.getAttribute('srcset') || '').split(',')
@@ -44,21 +47,24 @@ if (dlg && figs.length && typeof dlg.showModal === 'function') {
     text.textContent = figs[cur].querySelector('figcaption')?.textContent ?? '';
   };
   const open = (i: number) => {
+    if (dlg.open || closing) return;
+    opener = figs[i];
     show(i);
     dlg.showModal();
     document.documentElement.classList.add('lightbox-open');
-    const r = figs[cur].getBoundingClientRect();
+    const r = frame(cur).getBoundingClientRect();
     if (!reduce.matches) {
       big.animate([{ transform: fromFrame(r), opacity: .6 }, { transform: 'none', opacity: 1 }], { duration: 500, easing: ease });
     }
     requestAnimationFrame(() => dlg.classList.add('is-open'));
   };
   const close = () => {
-    if (!dlg.open) return;
-    const r = figs[cur].getBoundingClientRect();
+    if (!dlg.open || closing) return;
+    closing = true;
+    const r = frame(cur).getBoundingClientRect();
     dlg.classList.remove('is-open');
     document.documentElement.classList.remove('lightbox-open');
-    const done = () => dlg.close();
+    const done = () => { dlg.close(); closing = false; opener?.focus({ preventScroll: true }); };
     if (!reduce.matches && inView(r)) {
       big.animate([{ transform: 'none', opacity: 1 }, { transform: fromFrame(r), opacity: .4 }], { duration: 380, easing: ease }).onfinish = done;
     } else {
@@ -66,6 +72,7 @@ if (dlg && figs.length && typeof dlg.showModal === 'function') {
     }
   };
   const step = (d: 1 | -1) => {
+    if (closing) return;
     show(cur + d);
     if (!reduce.matches) big.animate([{ transform: `translateX(${d * 40}px)`, opacity: 0 }, { transform: 'none', opacity: 1 }], { duration: 320, easing: ease });
   };

@@ -36,34 +36,16 @@
 .scribble { position: absolute; left: -3%; bottom: -.04em; width: 106%; height: auto; aspect-ratio: 220 / 18; overflow: visible; pointer-events: none; }
 .scribble path { fill: none; stroke: var(--accent-on-dark); stroke-width: 3; stroke-linecap: round; stroke-dasharray: 1 2; stroke-dashoffset: 0; }  /* gap longer than the path: no dot at its end before it draws */
 
-/* --- mosaic: the photographs, at three sizes -------------------------------------- */
-.mosaic { display: grid; grid-template-columns: repeat(2, 1fr); gap: clamp(.5rem, 1.4vw, 1rem); margin-top: clamp(2rem, 5vw, 3rem); }
-@media (min-width: 900px) { .mosaic { grid-template-columns: repeat(6, 1fr); } }
-.mosaic .fig { position: relative; margin: 0; overflow: hidden; border-radius: var(--radius-card); background: rgba(242, 240, 232, .04); }
-/* Absolute, so a portrait photograph can never stretch its row: the frame's size comes from
-   the grid and the aspect ratio alone, and the picture fills it. */
-.mosaic .fig img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; display: block; }
-.mosaic .fig figcaption { position: absolute; inset: auto 0 0 0; margin: 0; padding: 2.6rem .9rem .8rem; font-size: .78rem; color: var(--ink-on-dark);
-  background: linear-gradient(transparent, rgba(14,14,12,.82)); opacity: 0; transition: opacity var(--dur-ui-slow) var(--ease); }
-.mosaic .fig:hover figcaption, .mosaic .fig:focus-within figcaption { opacity: 1; }
-/* Spans. The lead frame is twice everything, then the rhythm breaks on purpose so no two
-   rows read the same — a uniform grid is the thing this replaced. */
-.mosaic > *      { grid-column: span 1; aspect-ratio: 4/5; }
-.mosaic > *:nth-child(1) { grid-column: span 2; aspect-ratio: 4/3; }
+/* --- project photographs: a lead image, then related views ----------------------- */
+.mosaic { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); align-items: start; gap: clamp(1.2rem, 3vw, 2rem); margin-top: clamp(2rem, 5vw, 3rem); }
+.mosaic .fig { min-width: 0; margin: 0; }
+.mosaic .fig__media { display: block; position: relative; overflow: hidden; border-radius: var(--radius-card); aspect-ratio: 4/3; }
+.mosaic .fig img { position: absolute; inset: 0; width: 100%; height: 100%; aspect-ratio: auto; object-fit: cover; display: block; border-radius: 0; }
+.mosaic .fig figcaption { margin: .7rem 0 0; max-width: 58ch; font-size: .9rem; line-height: 1.5; color: var(--ink-on-dark-dim); }
+.mosaic > :first-child { grid-column: 1 / -1; }
+.mosaic > :first-child .fig__media { aspect-ratio: 16/9; }
 @media (max-width: 899px) {
-  .mosaic > :last-child:nth-child(even) { grid-column: span 2; aspect-ratio: 4/3; } /* an even count leaves the last frame alone in its row; it takes the row */
-  .mosaic.is-clamped > :nth-child(n+8) { display: none; } /* phones: the lead frame and three pairs, then the button */
-}
-@media (min-width: 900px) {
-  .mosaic > *              { grid-column: span 2; aspect-ratio: 4/3; }
-  .mosaic > *:nth-child(1) { grid-column: span 4; aspect-ratio: 16/9; }
-  .mosaic > *:nth-child(2) { grid-column: span 2; aspect-ratio: auto; } /* takes the height of the frame beside it */
-  .mosaic > *:nth-child(6) { grid-column: span 3; aspect-ratio: 16/10; }
-  .mosaic > *:nth-child(7) { grid-column: span 3; aspect-ratio: 16/10; }
-  .mosaic > *:nth-child(11){ grid-column: span 4; aspect-ratio: 2/1; }
-  .mosaic > *:nth-child(12){ grid-column: span 2; aspect-ratio: auto; }
-  .mosaic > *:nth-child(13),
-  .mosaic > *:nth-child(14){ grid-column: span 3; aspect-ratio: 16/10; } /* the last row fills all six columns */
+  .mosaic.is-clamped > :nth-child(n+8) { display: none; }
 }
 .mosaic__actions { display: flex; flex-wrap: wrap; justify-content: center; gap: .8rem; margin-top: 1.8rem; }
 @media (min-width: 900px) { .mosaic__more { display: none; } }
@@ -137,10 +119,10 @@ html:not(.js-motion) .svcrow__go { opacity: 1; transform: none; }
 .areas { list-style: none; margin: clamp(1.6rem, 4vw, 2.6rem) 0 0; padding: 0; border-top: 1px solid var(--rule); }
 .arearow { border-bottom: 1px solid var(--rule); }
 .arearow > a { display: grid; gap: .5rem 2rem; align-items: baseline; padding: clamp(1.1rem, 2.4vw, 1.5rem) 0; text-decoration: none; color: inherit; }
-@media (min-width: 800px) { .arearow > a { grid-template-columns: minmax(11rem, 15rem) 1fr auto; } }
+@media (min-width: 800px) { .arearow > a { grid-template-columns: minmax(10rem, 14rem) minmax(0, 1fr) minmax(0, 15rem); } }
 .arearow__n { font-family: var(--font-display); font-size: clamp(1.35rem, 2.8vw, 1.95rem); letter-spacing: -.02em; line-height: 1.1; }
 .arearow__t { color: var(--ink-dim); font-size: .95rem; line-height: 1.55; }
-.arearow__g { font-size: .82rem; letter-spacing: .12em; text-transform: uppercase; color: var(--accent); white-space: nowrap; transition: color var(--dur-ui) var(--ease); }
+.arearow__g { font-size: .82rem; letter-spacing: .12em; text-transform: uppercase; color: var(--accent); overflow-wrap: anywhere; transition: color var(--dur-ui) var(--ease); }
 @media (hover: hover) and (pointer: fine) { .arearow:hover .arearow__g { color: var(--accent-hover); } }
 
 /* --- the close and the form, side by side ------------------------------------------ */
@@ -211,3 +193,15 @@ html:not(.js-motion) .svcrow__go { opacity: 1; transform: none; }
   .marquee__list { flex-wrap: wrap; gap: .6rem 2rem; padding: 0 var(--bleed); }
   .marquee__list[aria-hidden] { display: none; }
 }
+
+/* --- the ask card hands the reader on to the articles ------------------------------------------ */
+.askcard__more { display: inline-flex; align-items: center; gap: .4rem; min-height: 44px; margin-top: .4rem; font-size: .92rem; font-weight: 600; color: var(--accent); text-decoration: none; }
+.askcard__more .ico { width: 1em; height: 1em; transition: transform var(--dur-ui-slow) var(--ease); }
+@media (hover: hover) and (pointer: fine) { .askcard__more:hover .ico { transform: translateX(4px); } }
+
+/* The offer stays visible without an oversized hero or a compulsory benefit list. */
+.hero--home { min-height: 0; padding-top: clamp(3rem, 6vw, 5rem); }
+.hero--home h1 { font-size: clamp(2.5rem, 7.4vw, 5.8rem); }
+.hero--home .hero__lede { margin-inline: auto; max-width: 52ch; }
+#work, #markets { scroll-margin-top: calc(var(--chrome-h, 84px) + 1.5rem); }
+.arearow > a > * { min-width: 0; }

@@ -1,0 +1,83 @@
+{
+  "status": "published",
+  "market": "northeast-florida",
+  "name": "Nassauville",
+  "state": "FL",
+  "county": "Nassau",
+  "title": "Artificial Turf in Nassauville, FL | TIMELESS Grass & Greens",
+  "description": "A putting green or lawn on your Nassauville property. Use available room for a green, pet area or lawn while keeping the property working around it.",
+  "h1": "A putting green or lawn on your Nassauville property.",
+  "lede": "Use available room for a green, pet area or lawn while keeping the property working around it. Start with a free visit and written estimate.",
+  "wins": [
+    "Choose putting and chipping space with a purpose",
+    "Keep septic and waterfront access available",
+    "Include the actual grade and wet areas"
+  ],
+  "answer": {
+    "question": "What should I check before choosing a Nassauville putting-green location?",
+    "answer": "Locate septic components and required access, then identify trees, shoreline conditions and the usable grade. Bring any recorded drainage or flood information. Choose the intended putting and chipping lines within the area available rather than assuming the entire lot is suitable."
+  },
+  "blocks": [
+    {
+      "icon": "flag",
+      "kicker": "A larger practice area",
+      "h2": "Keep the green useful and close enough to use.",
+      "paras": [
+        "Decide which putts and chips you want to practice and how you will reach the surface. A well-placed green can leave most of the lot intact. Keep walking room around it and separate pet use if it calls for a different care routine."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "From the house toward the marsh",
+      "h2": "Plan around systems and changing ground.",
+      "paras": [
+        "On a river or creek-front property near Holly Point, bring shoreline and drainage information and show where the ground stays wet. Turf is not protection against tidal water or flooding. Ask for any wider drainage assessment to be distinguished from surface preparation.",
+        "Locate the septic tank and drainfield before proposing excavation or compaction. Obtain suitable advice about work nearby and retain servicing access. Check county and applicable property requirements; a larger parcel should not be assumed to have the same review as a small residential yard."
+      ]
+    }
+  ],
+  "services": [
+    "putting-greens",
+    "residential-turf",
+    "pet-turf"
+  ],
+  "servicesNote": "Compare a green, pet area or lawn inside the usable part of your property.",
+  "faq": [],
+  "nearby": [
+    "amelia-city-fl",
+    "amelia-island-fl",
+    "fernandina-beach-fl"
+  ],
+  "sources": [
+    {
+      "label": "USDA Official Series Description: Leon series",
+      "url": "https://soilseries.sc.egov.usda.gov/OSD_Docs/L/LEON.html"
+    },
+    {
+      "label": "The Golf Club at North Hampton",
+      "url": "https://gcnorthhampton.com/"
+    },
+    {
+      "label": "Nassau County Code, Appendix A, Art. 37, Sec. 37.05 (Landscaping)",
+      "url": "http://nassaucounty-fl.elaws.us/code/coor_apxa_florida_art37_sec37.05"
+    },
+    {
+      "label": "HB 683 (2025): Construction Regulations",
+      "url": "https://www.flsenate.gov/Session/Bill/2025/683"
+    },
+    {
+      "label": "St. Johns River Water Management District: watering restrictions",
+      "url": "https://www.sjrwmd.com/wateringrestrictions/"
+    },
+    {
+      "label": "UF/IFAS Florida-Friendly Landscaping: FAQs",
+      "url": "https://ffl.ifas.ufl.edu/about-ffl/faqs/"
+    },
+    {
+      "label": "Wikipedia: Nassauville, Florida",
+      "url": "https://en.wikipedia.org/wiki/Nassauville,_Florida"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

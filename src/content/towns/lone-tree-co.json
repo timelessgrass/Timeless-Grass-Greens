@@ -1,0 +1,80 @@
+{
+  "status": "published",
+  "market": "denver-metro",
+  "name": "Lone Tree",
+  "state": "CO",
+  "county": "Douglas",
+  "title": "Artificial Turf in Lone Tree, CO | TIMELESS Grass & Greens",
+  "description": "A lawn or putting green for your Lone Tree home. Choose a useful outdoor area beside the patio or back door.",
+  "h1": "A lawn or putting green for your Lone Tree home.",
+  "lede": "Choose a useful outdoor area beside the patio or back door. We’ll discuss lawn, pet and putting options during a free site visit.",
+  "wins": [
+    "Plan the area you actually control",
+    "Keep walking room around a compact green",
+    "Compare turf options with a written scope"
+  ],
+  "answer": {
+    "question": "Can a Lone Tree townhome owner request a turf estimate?",
+    "answer": "Yes. First confirm who owns or controls the proposed outdoor area and obtain the applicable association requirements. A patio or strip beside an attached home may be shared. Bring the plan and any building conditions to the consultation so the surface can be considered for that space."
+  },
+  "blocks": [
+    {
+      "icon": "flag",
+      "kicker": "Home practice",
+      "h2": "Start with a useful putting line.",
+      "paras": [
+        "For a detached yard in the Fairways or Heritage Hills, compare where a green would sit beside the patio and planting. Decide on putt lengths, walking space and any chipping before selecting its size. A lawn or pet area can remain separate."
+      ]
+    },
+    {
+      "icon": "home",
+      "kicker": "Private yard or shared space",
+      "h2": "Confirm the boundary before choosing the footprint.",
+      "paras": [
+        "For a condo or townhome, identify who can authorize the work and any restrictions on delivery or access. On a terrace, have the responsible building professional confirm loading, waterproofing and drainage before ordering turf.",
+        "Lone Tree properties have different water providers and property requirements. Use the exact address when checking City requirements or incentives, and bring applicable association conditions to the estimate."
+      ]
+    }
+  ],
+  "services": [
+    "residential-turf",
+    "putting-greens",
+    "pet-turf"
+  ],
+  "servicesNote": "Discuss lawn, pet and putting options for the outdoor area your property allows you to change.",
+  "faq": [],
+  "nearby": [
+    "highlands-ranch-co",
+    "centennial-co",
+    "meridian-co",
+    "castle-pines-co"
+  ],
+  "sources": [
+    {
+      "label": "Colorado SB23-178, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf"
+    },
+    {
+      "label": "City of Lone Tree: watering restrictions by district",
+      "url": "https://cityoflonetree.com/historic-warm-temperatures-and-low-snowpack-prompt-watering-restrictions/"
+    },
+    {
+      "label": "Parker Water and Sanitation District: watering restrictions",
+      "url": "https://www.pwsd.org/3366/Watering-Restrictions"
+    },
+    {
+      "label": "Resource Central: lawn replacement program",
+      "url": "https://resourcecentral.org/lawn/"
+    },
+    {
+      "label": "Colorado Geological Survey: expansive soil",
+      "url": "https://coloradogeologicalsurvey.org/hazards/expansive-soil/"
+    },
+    {
+      "label": "Colorado Geological Survey: heaving bedrock",
+      "url": "https://coloradogeologicalsurvey.org/hazards/heaving-bedrock/"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

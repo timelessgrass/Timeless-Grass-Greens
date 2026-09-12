@@ -1,0 +1,85 @@
+{
+  "status": "published",
+  "market": "denver-metro",
+  "name": "Littleton",
+  "state": "CO",
+  "county": "Arapahoe",
+  "title": "Artificial Turf in Littleton, CO | TIMELESS Grass & Greens",
+  "description": "Artificial lawns and greens for your Littleton property. Make a lawn, pet area or putting green part of the yard you use.",
+  "h1": "Artificial lawns and greens for your Littleton property.",
+  "lede": "Make a lawn, pet area or putting green part of the yard you use. Start with a free visit to discuss the layout and written installation price.",
+  "wins": [
+    "Keep mature trees and paths in the plan",
+    "Choose a compact or larger practice area",
+    "Price the work for the correct property"
+  ],
+  "answer": {
+    "question": "Why does the exact address matter for a Littleton turf estimate?",
+    "answer": "A Littleton mailing address can refer to the City or to communities with different local and association requirements, including Ken Caryl and Sterling Ranch. Give the street address and community name so the layout, access and property checks apply to the right place."
+  },
+  "blocks": [
+    {
+      "icon": "home",
+      "kicker": "An established yard",
+      "h2": "Keep the character while changing the worn patch.",
+      "paras": [
+        "Around the City’s older homes, trees, patio edges and alley access can shape a useful lawn or pet area. For a putting green, choose a clear line and room to walk before filling an awkward corner with extra cups.",
+        "Show us known irrigation, low spots and any limits on material access. A smaller project can leave the rest of the garden in place."
+      ]
+    },
+    {
+      "icon": "pin",
+      "kicker": "Which Littleton",
+      "h2": "Use the parcel and community documents.",
+      "paras": [
+        "Confirm the property jurisdiction before asking about grading or landscape requirements. For a visible change at a historic property, ask the City whether design review applies. For an association property, get its current requirements separately.",
+        "Use the provider on the water bill for cost and incentive questions. Bring confirmed conditions to the estimate so the installation scope reflects the actual property, not a rule inferred from the postal name."
+      ]
+    }
+  ],
+  "services": [
+    "residential-turf",
+    "pet-turf",
+    "putting-greens"
+  ],
+  "servicesNote": "Compare a lawn, pet area or backyard green for your particular Littleton address.",
+  "faq": [],
+  "nearby": [
+    "columbine-valley-co",
+    "englewood-co",
+    "centennial-co",
+    "columbine-co"
+  ],
+  "sources": [
+    {
+      "label": "Ken Caryl, Colorado (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Ken_Caryl,_Colorado"
+    },
+    {
+      "label": "City of Littleton: utilities",
+      "url": "https://www.littletonco.gov/Government/City-Services/Utilities"
+    },
+    {
+      "label": "Denver Water: summer watering rules and drought stage",
+      "url": "https://www.denverwater.org/residential/rebates-and-conservation-tips/summer-watering-rules"
+    },
+    {
+      "label": "City of Littleton: residential sustainability programs",
+      "url": "https://www.littletonco.gov/Community/Sustainability/Residential-Programs"
+    },
+    {
+      "label": "Denver Water: turfgrass removal discount",
+      "url": "https://www.denverwater.org/tap/ditching-useless-turf-coloradoscape-we-can-help"
+    },
+    {
+      "label": "Colorado Geological Survey: expansive soil and rock",
+      "url": "https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/"
+    },
+    {
+      "label": "Colorado SB23-178, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

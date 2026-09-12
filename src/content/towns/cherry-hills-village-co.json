@@ -1,0 +1,81 @@
+{
+  "status": "published",
+  "market": "denver-metro",
+  "name": "Cherry Hills Village",
+  "state": "CO",
+  "county": "Arapahoe",
+  "title": "Artificial Turf in Cherry Hills Village, CO | TIMELESS Grass & Greens",
+  "description": "Putting practice at home in Cherry Hills Village. Use the space for the green you want to practice on, with room left for the rest of the yard.",
+  "h1": "Putting practice at home in Cherry Hills Village.",
+  "lede": "Use the space for the green you want to practice on, with room left for the rest of the yard. Start with a free site visit and written estimate.",
+  "wins": [
+    "Choose useful putting lines and chipping space",
+    "Plan the footprint before adding cups",
+    "Include access and preparation in the scope"
+  ],
+  "answer": {
+    "question": "How do I begin a larger putting green in Cherry Hills Village?",
+    "answer": "Tell us the putting distances and chipping shots you want, then consider where that play area fits among the trees, paths and other uses of the property. Ask Village Community Development how it will review the proposal before finalizing the footprint."
+  },
+  "blocks": [
+    {
+      "icon": "flag",
+      "kicker": "A purposeful green",
+      "h2": "More land gives you choices, not a required size.",
+      "paras": [
+        "A long putting line, several approaches to one cup or a separate chipping position may be more useful than a large surface with many holes. Bring the shots you want to practice to the visit. We’ll discuss contours, fringe and the route from the house.",
+        "Leave room around the green for standing, walking and landscape care. If you want to retain the view from the home or patio, include that in the conversation before deciding on raised contours or surrounding features."
+      ]
+    },
+    {
+      "icon": "file",
+      "kicker": "Village review",
+      "h2": "Describe the preparation as well as the playing surface.",
+      "paras": [
+        "Cherry Hills Village reviews recreational structures and drainage work. Ask Community Development how it classifies your proposed green and which details it needs, particularly for a larger footprint or work near a waterway. Do not assume a putting green is treated exactly like a sport court.",
+        "Bring any applicable property or association requirements to the estimate. Keep excavation, grading and unresolved drainage questions visible in the written scope."
+      ]
+    }
+  ],
+  "services": [
+    "putting-greens",
+    "residential-turf",
+    "pet-turf"
+  ],
+  "servicesNote": "Plan a practice green first, or compare it with a lawn or pet area for the remaining space.",
+  "faq": [],
+  "nearby": [
+    "englewood-co",
+    "greenwood-village-co",
+    "denver-co",
+    "centennial-co"
+  ],
+  "sources": [
+    {
+      "label": "Cherry Hills Country Club (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Cherry_Hills_Country_Club"
+    },
+    {
+      "label": "Cherry Hills Village: Accessory and Recreational Structure Requirements (PDF)",
+      "url": "https://www.cherryhillsvillage.com/DocumentCenter/View/4334/Accessory-and-Recreational-Structure-Requirements"
+    },
+    {
+      "label": "Colorado Geological Survey: expansive soil and rock",
+      "url": "https://coloradogeologicalsurvey.org/geologic-hazards/expansive-soil-rock/"
+    },
+    {
+      "label": "Cherry Hills Village: building permits",
+      "url": "https://www.cherryhillsvillage.com/421/Building-Permits"
+    },
+    {
+      "label": "Cherry Hills Village: water and sewer districts in the city (PDF)",
+      "url": "https://www.cherryhillsvillage.com/documentcenter/view/174"
+    },
+    {
+      "label": "Cherry Hills Village: Denver Water and the Stage 1 declaration",
+      "url": "https://www.cherryhillsvillage.com/310/Denver-Water"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

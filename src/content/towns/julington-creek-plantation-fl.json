@@ -1,0 +1,93 @@
+{
+  "status": "published",
+  "market": "northeast-florida",
+  "name": "Julington Creek Plantation",
+  "state": "FL",
+  "county": "St. Johns",
+  "title": "Artificial Turf in Julington Creek Plantation, FL | TIMELESS",
+  "description": "A lawn or putting green for your Julington Creek Plantation yard. Keep the trees and paths you enjoy while changing the worn patch.",
+  "h1": "A lawn or putting green for your Julington Creek Plantation yard.",
+  "lede": "Keep the trees and paths you enjoy while changing the worn patch. Compare lawn, pet-turf and putting-green options during a free visit.",
+  "wins": [
+    "Plan around mature canopy and existing beds",
+    "Choose putting lines or a dedicated pet area",
+    "Get the installation scope in writing"
+  ],
+  "answer": {
+    "question": "Who should review a turf plan in Julington Creek Plantation?",
+    "answer": "Use the POA’s current requirements for changes to your lot, and confirm any separate CDD or shared-property conditions. The bodies have different responsibilities. Bring the applicable instructions and property plan to the estimate before finalizing the turf area."
+  },
+  "blocks": [
+    {
+      "icon": "leaf",
+      "kicker": "An established yard",
+      "h2": "Keep the canopy and rethink the ground around it.",
+      "paras": [
+        "The lawn may have become more shaded as the trees matured. Turf does not need light to grow, but work inside a tree’s drip line still needs any certification required by the applicable Florida standard. Mark the canopy before choosing the lawn or green footprint.",
+        "A pet area needs waste pickup and cleaning access; a green needs standing room and useful putting lines. Keep those uses distinct if they ask different things of the space."
+      ]
+    },
+    {
+      "icon": "file",
+      "kicker": "POA and CDD",
+      "h2": "Send the proposal to the right place.",
+      "paras": [
+        "Julington Creek Plantation has both a property association and a community development district. Confirm who controls the exact work area, especially beside common ground, sidewalks or drainage features. Obtain the current submission instructions for your lot rather than assuming a general CDD page grants permission.",
+        "Show the turf boundary, surrounding planting and any grading or irrigation changes. Bring confirmed conditions to the estimate so removal, preparation and finishing can be priced against the actual layout."
+      ]
+    }
+  ],
+  "services": [
+    "residential-turf",
+    "putting-greens",
+    "pet-turf"
+  ],
+  "servicesNote": "Compare a lawn, pet area or practice green around the trees and property requirements already in place.",
+  "faq": [],
+  "nearby": [
+    "fruit-cove-fl",
+    "st-johns-fl",
+    "switzerland-fl",
+    "nocatee-fl"
+  ],
+  "sources": [
+    {
+      "label": "Julington Creek Plantation CDD: district overview",
+      "url": "https://www.jcpcdd.org/182/District-Overview"
+    },
+    {
+      "label": "Julington Creek Plantation CDD: FAQ",
+      "url": "https://www.jcpcdd.org/m/faq?cat=15"
+    },
+    {
+      "label": "Fla. Stat. 373.185: Florida-friendly landscaping",
+      "url": "https://www.flsenate.gov/Laws/Statutes/2025/0373.185"
+    },
+    {
+      "label": "Fla. Stat. 720.3045: installation, display and storage of items",
+      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0700-0799/0720/Sections/0720.3045.html"
+    },
+    {
+      "label": "St. Johns County: Phase III extreme water shortage declaration, May 2026",
+      "url": "https://www.sjcfl.us/phase-iii-extreme-water-shortage-declaration-may-2026/"
+    },
+    {
+      "label": "JEA: water facilities",
+      "url": "https://www.jea.com/about/water_supply/water_facilities/"
+    },
+    {
+      "label": "St. Johns County: reclaimed water",
+      "url": "https://www.sjcfl.us/reclaimed-water/"
+    },
+    {
+      "label": "St. Johns County Land Development Code, Article VI (Table 6.01)",
+      "url": "https://www.sjcfl.us/wp-content/uploads/2024/01/article-vi.pdf"
+    },
+    {
+      "label": "PGA of America: Julington Creek Golf Club",
+      "url": "https://www.pga.com/play/fl/st-johns/julington-creek-golf-club/1100611"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

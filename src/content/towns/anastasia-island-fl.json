@@ -1,0 +1,101 @@
+{
+  "status": "published",
+  "market": "northeast-florida",
+  "name": "Anastasia Island",
+  "state": "FL",
+  "county": "St. Johns",
+  "title": "Artificial Turf in Anastasia Island, FL | TIMELESS Grass & Greens",
+  "description": "Lawns and putting greens on Anastasia Island. Make part of your island yard a lawn, pet area or practice green.",
+  "h1": "Lawns and putting greens on Anastasia Island.",
+  "lede": "Make part of your island yard a lawn, pet area or practice green. Request a free visit to discuss the layout, preparation and written installation price.",
+  "wins": [
+    "Use the available yard without losing access",
+    "Keep tree and shoreline constraints in view",
+    "Confirm the right jurisdiction for the parcel"
+  ],
+  "answer": {
+    "question": "Which office reviews a turf project on Anastasia Island?",
+    "answer": "The property can be within St. Augustine, St. Augustine Beach or unincorporated St. Johns County. Confirm the parcel first, then ask the responsible office about the actual work. Community, tree and coastal conditions should be considered alongside that public review."
+  },
+  "blocks": [
+    {
+      "icon": "layout",
+      "kicker": "An island yard",
+      "h2": "Make a small area useful every day.",
+      "paras": [
+        "A lawn beside the house, a pet area or a practice green can leave paths and planting in place. For a green, choose putting distances and standing room before its outline. Include the route for materials and any steps around the home.",
+        "Show us known ground conditions, shell or rock from earlier work and any wet patches. Those details should inform the proposed preparation; show the ground conditions at the actual work area."
+      ]
+    },
+    {
+      "icon": "pin",
+      "kicker": "One island, several jurisdictions",
+      "h2": "Check the property before borrowing a neighbor’s rule.",
+      "paras": [
+        "Davis Shores and Lighthouse Park, the beach city and county areas south of it follow different local review paths. Confirm where your parcel sits before relying on a coverage or approval requirement.",
+        "For a waterfront or low-lying property, bring flood, shoreline and drainage information you already have. Turf is not flood protection. Keep coastal, tree and community conditions visible in the plan and any unresolved work separate in the estimate."
+      ]
+    }
+  ],
+  "services": [
+    "residential-turf",
+    "putting-greens",
+    "pet-turf"
+  ],
+  "servicesNote": "Discuss a lawn, pet area or practice green for your particular island property.",
+  "faq": [],
+  "nearby": [
+    "st-augustine-fl",
+    "st-augustine-beach-fl",
+    "butler-beach-fl",
+    "vilano-beach-fl"
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia: Anastasia Formation",
+      "url": "https://en.wikipedia.org/wiki/Anastasia_Formation"
+    },
+    {
+      "label": "St. Augustine Beach code, via Zoneomics (Article VI)",
+      "url": "https://www.zoneomics.com/code/st-augustine-beach-FL/chapter_6"
+    },
+    {
+      "label": "Fla. Stat. 125.572 (2025): regulation of synthetic turf",
+      "url": "https://www.flsenate.gov/Laws/Statutes/2025/0125.572"
+    },
+    {
+      "label": "St. Johns County: Anastasia Sanitary District",
+      "url": "http://www.co.st-johns.fl.us/SpecialDistricts/Anastasia.aspx"
+    },
+    {
+      "label": "St. Johns County: Phase III extreme water shortage declaration (May 2026)",
+      "url": "https://www.sjcfl.us/phase-iii-extreme-water-shortage-declaration-may-2026/"
+    },
+    {
+      "label": "Wikipedia: Anastasia Island",
+      "url": "https://en.wikipedia.org/wiki/Anastasia_Island"
+    },
+    {
+      "label": "City of St. Augustine: coastal vulnerability",
+      "url": "https://www.citystaug.com/948/Coastal-Vulnerability"
+    },
+    {
+      "label": "Invited: Marsh Creek Country Club",
+      "url": "https://www.invitedclubs.com/clubs/marsh-creek-country-club/"
+    },
+    {
+      "label": "Homes.com: Anastasia Island neighborhood guide",
+      "url": "https://www.homes.com/local-guide/saint-augustine-fl/anastasia-island-neighborhood/"
+    },
+    {
+      "label": "Fla. Stat. 720.3045 (2025)",
+      "url": "https://www.flsenate.gov/Laws/Statutes/2025/720.3045"
+    },
+    {
+      "label": "St. Johns River Water Management District: watering restrictions",
+      "url": "https://www.sjrwmd.com/wateringrestrictions/"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

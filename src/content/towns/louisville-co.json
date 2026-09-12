@@ -1,0 +1,96 @@
+{
+  "status": "published",
+  "market": "denver-metro",
+  "name": "Louisville",
+  "state": "CO",
+  "county": "Boulder",
+  "title": "Artificial Turf in Louisville, CO | TIMELESS Grass & Greens",
+  "description": "Finish the yard you want to use in Louisville. Plan a lawn, putting green or pet area around your home and outdoor routine.",
+  "h1": "Finish the yard you want to use in Louisville.",
+  "lede": "Plan a lawn, putting green or pet area around your home and outdoor routine. Request a free site visit and written installation estimate.",
+  "wins": [
+    "Plan turf and planting together",
+    "Coordinate with remaining landscape work",
+    "Keep material and property requirements in view"
+  ],
+  "answer": {
+    "question": "When should turf be planned during a Louisville rebuild or renovation?",
+    "answer": "Plan its footprint alongside paths, planting and remaining work, before the final surface goes in. Bring the approved property plan and any relevant building or landscape conditions. Verify material requirements near the house with the responsible local staff instead of assuming turf meets fire-related requirements."
+  },
+  "blocks": [
+    {
+      "icon": "layout",
+      "kicker": "A new landscape",
+      "h2": "Decide what goes where before finishing the surface.",
+      "paras": [
+        "If the yard is still being completed, mark future beds, shade, paths and utilities alongside the lawn or green. Discuss which trades still need access and where materials can be stored. That can avoid disturbing a new surface for later work.",
+        "For a green beside the patio, choose useful putting lines and standing space. For family or pet use, consider time in full sun and leave room for shade."
+      ]
+    },
+    {
+      "icon": "home",
+      "kicker": "An established property",
+      "h2": "Retain the features that already work.",
+      "paras": [
+        "On a Coal Creek Ranch or older Louisville yard, bring current property requirements and show existing trees, irrigation and wet areas. Site conditions should be described for the actual lot rather than inferred from a neighborhood label.",
+        "Ask City staff about relevant landscape and material requirements, especially near buildings. Keep structural ground concerns and any necessary specialist advice separate from the turf estimate."
+      ]
+    }
+  ],
+  "services": [
+    "residential-turf",
+    "putting-greens",
+    "pet-turf"
+  ],
+  "servicesNote": "Compare a lawn, pet area or putting green as part of the complete landscape plan.",
+  "faq": [],
+  "nearby": [
+    "superior-co",
+    "lafayette-co",
+    "boulder-co"
+  ],
+  "sources": [
+    {
+      "label": "City of Louisville: Marshall Fire rebuilding",
+      "url": "https://www.louisvilleco.gov/departments/planning/marshall-fire-rebuilding/"
+    },
+    {
+      "label": "City of Louisville: fire hardening code",
+      "url": "https://www.louisvilleco.gov/departments/building-safety/building-codes/fire-hardening-code/"
+    },
+    {
+      "label": "C.R.S. 38-33.3-106.5",
+      "url": "https://codes.findlaw.com/co/title-38-property-real-and-personal/co-rev-st-sect-38-33-3-106-5.html"
+    },
+    {
+      "label": "USDA Soil Data Access",
+      "url": "https://sdmdataaccess.nrcs.usda.gov/"
+    },
+    {
+      "label": "City of Louisville: water restrictions",
+      "url": "https://www.louisvilleco.gov/departments/public-works/water-and-sewer/water-restrictions/"
+    },
+    {
+      "label": "City of Louisville: voluntary water restrictions notice",
+      "url": "https://www.louisvilleco.gov/news/posts/louisville-residents-encouraged-to-observe-voluntary-water-restrictions-keep-sprinklers-off/"
+    },
+    {
+      "label": "Resource Central: Lawn Replacement Program",
+      "url": "https://resourcecentral.org/lawn/"
+    },
+    {
+      "label": "Coal Creek Golf Course",
+      "url": "https://www.coalcreekgolf.com/"
+    },
+    {
+      "label": "Colorado HB25-1113, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2025a_1113_signed.pdf"
+    },
+    {
+      "label": "Colorado General Assembly: SB24-005",
+      "url": "https://leg.colorado.gov/bills/sb24-005"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

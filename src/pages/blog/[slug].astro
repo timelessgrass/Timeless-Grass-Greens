@@ -1,0 +1,97 @@
+---
+/* One article: the question, the short answer first, the long answer, a FAQ, where to go next,
+   and selected useful references. Research records remain internal by default. */
+import Base from '../../layouts/Base.astro';
+import OfferPanel from '../../components/OfferPanel.astro';
+import PublicReferences from '../../components/PublicReferences.astro';
+import { render } from 'astro:content';
+import { getPublishedCollection } from '../../lib/published-content';
+import { MARKETS } from '../../data/markets';
+import { SERVICES } from '../../data/services';
+import { GUIDES } from '../../data/guides';
+
+export async function getStaticPaths() {
+  const posts = await getPublishedCollection('blog');
+  return posts.map((p) => ({ params: { slug: p.id }, props: { p } }));
+}
+const { p } = Astro.props;
+const d = p.data;
+const { Content, headings } = await render(p);
+const contents = headings.filter((h) => h.depth === 2);
+const checklist = contents.find((h) => /checklist/i.test(h.text));
+const url = `${Astro.site}blog/${p.id}/`;
+const crumbs = [
+  { name: 'Home', item: `${Astro.site}` },
+  { name: 'Turf questions', item: `${Astro.site}blog/` },
+  { name: d.h1, item: url },
+];
+const next = [
+  ...d.related.services.map((s) => SERVICES.find((x) => x.slug === s)).filter((x): x is NonNullable<typeof x> => !!x).map((s) => ({ href: `/services/${s.slug}/`, label: s.name, cta: `svc-${s.slug}` })),
+  ...d.related.markets.map((m) => MARKETS.find((x) => x.slug === m)).filter((x): x is NonNullable<typeof x> => !!x).map((m) => ({ href: `/${m.slug}/`, label: `Turf in ${m.name}`, cta: `market-${m.slug}` })),
+  ...d.related.guides.map((g) => GUIDES.find((x) => x.slug === g)).filter((x): x is NonNullable<typeof x> => !!x).map((g) => ({ href: `/guides/${g.slug}/`, label: g.h1, cta: `guide-${g.slug}` })),
+];
+---
+<Base title={d.title} description={d.description} answer={d.answer} crumbs={crumbs} faq={d.faq} schema={[{
+  '@type': 'Article', '@id': `${url}#article`, headline: d.h1, description: d.description,
+  datePublished: d.published, dateModified: d.updated, mainEntityOfPage: url,
+  author: { '@id': `${Astro.site}#organization` }, publisher: { '@id': `${Astro.site}#organization` },
+}]}>
+  <article class="doc">
+    <header class="sec doc__head turf-marks turf-marks--dark">
+      <div class="wrap">
+        <nav class="crumbs" aria-label="Breadcrumb">
+          <a href="/">Home</a> <span aria-hidden="true">/</span>
+          <a href="/blog/">Turf questions</a> <span aria-hidden="true">/</span>
+          <span>{d.h1}</span>
+        </nav>
+        <p class="micro micro--accent">{d.topic}</p>
+        <h1>{d.h1}</h1>
+        <hr class="rule-ribbon" />
+        <p class="doc__meta">Updated {d.updated}</p>
+      </div>
+    </header>
+
+    <div class="sec sec--band answer-box">
+      <div class="wrap">
+        <p class="micro">The short answer</p>
+        <h2 class="answer-box__q">{d.answer.question}</h2>
+        <p class="answer-box__a">{d.answer.answer}</p>
+        {checklist && <p class="doc__jump"><a href={`#${checklist.slug}`}>Jump to the checklist</a></p>}
+        {contents.length > 1 && <nav class="doc__toc" aria-label="On this page">
+          <p>On this page</p>
+          <ol>{contents.map((h) => <li><a href={`#${h.slug}`}>{h.text}</a></li>)}</ol>
+        </nav>}
+      </div>
+    </div>
+
+    <div class="sec doc__body">
+      <div class="wrap">
+        <div class="doc__sec doc__prose" data-reveal><Content /></div>
+
+        {d.faq.length > 0 && (
+          <section class="doc__sec" data-reveal>
+            <h2>Common questions</h2>
+            <div class="faq">
+              {d.faq.map((qa) => (
+                <details class="qa"><summary><h3>{qa.q}</h3></summary><p set:html={qa.a} /></details>
+              ))}
+            </div>
+          </section>
+        )}
+
+        {next.length > 0 && (
+          <section class="doc__sec" data-reveal>
+            <h2>Where to go next</h2>
+            <ul class="lawlinks lawlinks--light">
+              {next.map((n) => <li><a href={n.href} data-cta={n.cta}>{n.label}</a></li>)}
+            </ul>
+          </section>
+        )}
+
+        <PublicReferences sources={d.sources} selected={d.publicReferences} />
+      </div>
+    </div>
+  </article>
+
+  <OfferPanel band cta={`blog-${p.id}`} heading="Planning a turf installation?" sub="Tell us about the area you want to install or replace. We’ll call to arrange a free site visit." />
+</Base>

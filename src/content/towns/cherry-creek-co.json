@@ -1,0 +1,100 @@
+{
+  "status": "published",
+  "market": "denver-metro",
+  "name": "Cherry Creek",
+  "state": "CO",
+  "county": "Arapahoe",
+  "title": "Artificial Turf in Cherry Creek, CO | TIMELESS Grass & Greens",
+  "description": "Turf for yards near Cherry Creek State Park. Plan a lawn, pet area or putting green in the Cherry Creek communities of Arapahoe County.",
+  "h1": "Turf for yards near Cherry Creek State Park.",
+  "lede": "Plan a lawn, pet area or putting green in the Cherry Creek communities of Arapahoe County. We’ll discuss the layout and installation scope during a free visit.",
+  "wins": [
+    "Use the yard for the activities you choose",
+    "Keep greenbelt and drainage access in the plan",
+    "Compare turf options and a written price"
+  ],
+  "answer": {
+    "question": "Which Cherry Creek area does this installation page cover?",
+    "answer": "This page covers the Cherry Creek communities near the state park in Arapahoe County, rather than Cherry Creek North in Denver. Give us the street address and community name when requesting a visit so the layout and property requirements are considered for the right location."
+  },
+  "blocks": [
+    {
+      "icon": "layout",
+      "kicker": "Backyard uses",
+      "h2": "Give pets, putting and the patio room to work together.",
+      "paras": [
+        "A dedicated dog area can sit near the house while a green uses a different part of the yard. Choose how much lawn you need between them, and retain beds or seating that already work. Bring the intended putting distances and any chipping plans to the visit."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Beside a greenbelt",
+      "h2": "Keep the property boundary and water routes clear.",
+      "paras": [
+        "If your yard backs onto a greenbelt or detention area, bring the property plan and mark any drainage channel or easement. Do not assume a low strip can be filled or used as part of the turf area.",
+        "Confirm the parcel’s jurisdiction and your association’s requirements rather than relying on the mailing address. Describe any grading or drainage changes along with the surface, and bring written conditions to the estimate."
+      ]
+    }
+  ],
+  "services": [
+    "pet-turf",
+    "residential-turf",
+    "putting-greens"
+  ],
+  "servicesNote": "Compare a lawn, pet area and putting green for the usable space around your home.",
+  "faq": [],
+  "nearby": [
+    "greenwood-village-co",
+    "centennial-co",
+    "aurora-co",
+    "inverness-co"
+  ],
+  "sources": [
+    {
+      "label": "Cherry Creek, Colorado (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Cherry_Creek,_Colorado"
+    },
+    {
+      "label": "Cherry Creek State Park (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Cherry_Creek_State_Park"
+    },
+    {
+      "label": "Colorado SB23-178, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf"
+    },
+    {
+      "label": "Cherry Creek Vista Park and Recreation District",
+      "url": "https://www.ccvprd.org/"
+    },
+    {
+      "label": "Colorado SB24-005, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2024a_005_signed.pdf"
+    },
+    {
+      "label": "Colorado HB25-1113, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2025a_1113_signed.pdf"
+    },
+    {
+      "label": "Denver Water: distributors in its service area",
+      "url": "https://www.denverwater.org/about-us/how-we-operate/service-area/distributors"
+    },
+    {
+      "label": "Denver Water: summer watering rules and drought stage",
+      "url": "https://www.denverwater.org/residential/rebates-and-conservation-tips/summer-watering-rules"
+    },
+    {
+      "label": "Denver Water: turfgrass removal",
+      "url": "https://www.denverwater.org/residential/rebates-and-conservation-tips/remodel-your-yard/turfgrass-removal"
+    },
+    {
+      "label": "Colorado Water Conservation Board: Turf Replacement Program",
+      "url": "https://cwcb.colorado.gov/turf-replacement-program"
+    },
+    {
+      "label": "USDA Soil Data Access (SSURGO): Renohill-Buick loams, 3 to 9 percent slopes",
+      "url": "https://sdmdataaccess.sc.egov.usda.gov/"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

@@ -49,11 +49,11 @@ const ANSWER = {
 };
 
 const SVC = [
-  { slug: 'putting-greens',    name: 'Putting greens',    line: 'Practice your putting any day of the week, right outside your back door.' },
-  { slug: 'residential-turf',  name: 'Lawns',             line: 'Get your weekends back. Your lawn stays green and even, with nothing to mow or water.' },
-  { slug: 'pet-turf',          name: 'Pet turf',          line: 'Tired of muddy paws and dead spots? Pet turf drains fast, so the yard stays fresh.' },
-  { slug: 'commercial-turf',   name: 'Commercial',        line: 'Daycares, pet daycares and common areas that stay green without a maintenance crew.' },
-  { slug: 'sports-field-turf', name: 'Sports fields',     line: 'Play all season in any weather. No mud, no bare patches.' },
+  { slug: 'putting-greens',    name: 'Putting greens',    line: 'Practice putting without leaving home, on a green planned for your yard.' },
+  { slug: 'residential-turf',  name: 'Lawns',             line: 'A green lawn without routine mowing, with a care plan for the way you use it.' },
+  { slug: 'pet-turf',          name: 'Pet turf',          line: 'Pet areas designed around drainage, cleaning access and daily use.' },
+  { slug: 'commercial-turf',   name: 'Commercial',        line: 'Daycares, pet daycares and common areas, with upkeep planned around your operation.' },
+  { slug: 'sports-field-turf', name: 'Sports fields',     line: 'A playing surface planned around the sport, site drainage and maintenance needs.' },
   { slug: 'indoor-turf',       name: 'Indoor facilities', line: 'Turf for gyms and training facilities, so your athletes can train all year.' },
 ];
 
@@ -70,26 +70,21 @@ const SVCFIG = [
   { shot: null },            // indoor facilities — no photograph on file
 ].map((f) => ({ shot: f.shot && f.shot.file ? f.shot : null }));
 
-/* Why choose us — four things a buyer gets. Sources: premium American-made turf (Brian,
-   00:33:22); non-toxic, lead-free, safe for kids and pets (old site — the README clears that
-   positioning); the base built for the soil (services.ts) and "stays level, clean, and tight
-   for years" (old site); precise seaming, edging and cleanup (old site). */
+/* Reasons to enquire, grounded in the existing estimate and installation scope. */
 const WHY = [
-  { icon: 'leaf',    h: 'Looks like real grass',   p: 'Premium turf that stays full and green, all year long.' },
-  { icon: 'shield',  h: 'Safe for kids and pets',  p: 'Non-toxic, lead-free turf, made to be played on.' },
-  { icon: 'drop',    h: 'Stays flat, drains fast', p: 'We prep the base for your soil before the turf goes down.' },
-  { icon: 'sparkle', h: 'Clean, finished work',    p: 'Tight seams, clean edges, and we clean up when we’re done.' },
+  { icon: 'leaf', h: 'Compare the turf options', p: 'See the choices for your lawn, dog run or putting green before deciding.' },
+  { icon: 'ruler', h: 'A layout for your space', p: 'We measure the area and draw a layout for you to approve before installation.' },
+  { icon: 'drop', h: 'Preparation before turf', p: 'The site visit covers the ground, drainage and access the work will need.' },
+  { icon: 'sparkle', h: 'Seams, edges and cleanup', p: 'Your installation includes finishing the edges, cleaning up and a care walkthrough.' },
 ];
 
 /* The photographs. Phones show the first seven and a button for the rest: fourteen frames in a
    two-up grid was two thousand pixels of scrolling between the services and the form. Without
    JavaScript every frame shows. `sizes` follows the desktop spans in home.css. */
 const MOSAIC = [...shotsBy('finished').slice(1), ...shotsBy('context'), ...shotsBy('detail')].filter((s) => s.file);
-const span = (i: number) => (i === 0 || i === 10 ? 4 : [5, 6, 12, 13].includes(i) ? 3 : 2);
-const mosaicSizes = (i: number) => {
-  const desk = { 4: '(min-width: 1180px) 780px, (min-width: 900px) 64vw', 3: '(min-width: 1180px) 580px, (min-width: 900px) 48vw', 2: '(min-width: 1180px) 380px, (min-width: 900px) 31vw' }[span(i)];
-  return `${desk}, ${i === 0 ? '92vw' : '46vw'}`;
-};
+const mosaicSizes = (i: number) => i === 0
+  ? '(min-width: 1180px) 1180px, 92vw'
+  : '(min-width: 1180px) 580px, (min-width: 900px) 46vw, 44vw';
 
 const pair = (id: string) => ({ b: SHOTS.find((s) => s.pairId === id && s.kind === 'before')!, a: SHOTS.find((s) => s.pairId === id && s.kind === 'after')! });
 /* A wipe scrubs an AFTER photograph across a BEFORE photograph. Only pairs where BOTH
@@ -98,7 +93,7 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
 ---
 <Base
   title="TIMELESS Grass & Greens — Artificial Turf & Putting Greens"
-  description={`Artificial turf, pet turf and backyard putting greens in Denver, the Grand Strand and northeast Florida. 13 years' experience. Free estimates: call ${phone}.`}
+  description={`Artificial turf, pet turf and backyard putting greens in Denver, the Grand Strand and northeast Florida. Free site visits and written estimates. Call ${phone}.`}
   answer={ANSWER}
 >
 
@@ -106,22 +101,18 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
   <section class="hero hero--home">
     <div class="hero__media"><HeroImage file={hero} /></div>
     <div class="wrap">
-      <p class="hero__eyebrow">Turf · Pet turf · Putting greens</p>
+      <p class="hero__eyebrow">Artificial turf installation</p>
       <h1>
-        <span class="line"><span>Green all year.</span></span>
-        <span class="line"><span>No mower, <em>no&nbsp;mud.<svg class="scribble" viewBox="0 0 220 18" aria-hidden="true" focusable="false"><path d="M3 12.5C48 6 112 3.5 217 9.5" pathLength="1" /></svg></em></span></span>
+        <span class="line"><span>A lawn, dog run</span></span>
+        <span class="line"><span>or putting green.</span></span>
       </h1>
-      <ul class="hero__wins">
-        <li>No mowing, no watering, no reseeding</li>
-        <li>Green in July and green in February</li>
-        <li>Made for kids, pets and backyard putting</li>
-      </ul>
+      <p class="hero__lede">Planned for your space. Serving the Denver metro, the Grand Strand and northeast Florida, with a free visit, turf options and a written price.</p>
       <div class="hero__cta">
-        {phoneHref && <a class="btn btn--primary btn--lg" href={phoneHref} data-cta="call-hero"><Icon name="phone" />Call <span class="nowrap">{phone}</span></a>}
-        <a class="btn btn--ghost btn--lg" href="/estimate/" data-estimate data-cta="quote-hero">Get a free estimate<Icon name="arrow" /></a>
+        <a class="btn btn--primary btn--lg" href="/estimate/" data-estimate data-cta="quote-hero">Request a free estimate<Icon name="arrow" /></a>
+        {phoneHref && <a class="btn btn--ghost btn--lg" href={phoneHref} data-cta="call-hero"><Icon name="phone" />Call <span class="nowrap">{phone}</span></a>}
       </div>
       <ul class="hero__trust">
-        <li><Icon name="check" />13 years&rsquo; experience</li>
+        <li><Icon name="check" />Layout approved before installation</li>
         {materials && <li><Icon name="check" />American-made turf</li>}
         <li><Icon name="check" />Free estimates, no pressure</li>
       </ul>
@@ -135,7 +126,7 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
     <div class="wrap">
       <div class="kick kick--left" data-reveal>
         <p class="micro">What we install</p>
-        <h2>Anything that&rsquo;s turf.</h2>
+        <h2>What do you have in mind?</h2>
       </div>
       <div class="svcwrap">
         <ol class="svclist" data-svclist>
@@ -168,18 +159,18 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
 
   <Marquee />
   <!-- 3 · OUR WORK — the client's own photographs, each drifting inside its frame -->
-  <section class="sec sec--dark on-dark mosaicsec">
+  <section class="sec sec--dark on-dark mosaicsec" id="work">
     <div class="wrap">
       <div class="kick kick--left" data-reveal>
         <p class="micro">Our work</p>
         <h2>Real yards we&rsquo;ve installed.</h2>
       </div>
       <div class="mosaic" data-mosaic>
-        {MOSAIC.map((shot, i) => <Figure shot={shot} sizes={mosaicSizes(i)} parallax reveal />)}
+        {MOSAIC.map((shot, i) => <Figure shot={shot} sizes={mosaicSizes(i)} reveal />)}
       </div>
       <div class="mosaic__actions">
         <button class="btn btn--ghost mosaic__more" type="button" data-mosaic-more hidden>See all {MOSAIC.length} photos</button>
-        <a class="btn btn--light" href="/estimate/" data-estimate data-cta="quote-work">Get a free estimate<Icon name="arrow" /></a>
+        <a class="btn btn--light" href="/estimate/" data-estimate data-cta="quote-work">Request a free estimate<Icon name="arrow" /></a>
       </div>
     </div>
   </section>
@@ -217,18 +208,18 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
     <div class="wrap zoomband">
       <div class="zoomband__copy" data-reveal>
         <p class="micro">Why choose us</p>
-        <h2>Looks great. Lasts for years.</h2>
+        <h2>See the plan before you decide.</h2>
         <div class="diffs">
           {WHY.map((w) => <div class="diff diff--ico" data-reveal><span class="diff__ico"><Icon name={w.icon} /></span><div><h3>{w.h}</h3><p>{w.p}</p></div></div>)}
         </div>
-        <a class="btn btn--primary" href="/estimate/" data-estimate data-cta="quote-why">Get a free estimate<Icon name="arrow" /></a>
+        <a class="btn btn--primary" href="/estimate/" data-estimate data-cta="quote-why">Request a free estimate<Icon name="arrow" /></a>
       </div>
       <div class="zoomfig" data-zoom>{shotsBy('finished').slice(5, 6).map((shot) => <Figure shot={shot} sizes="(min-width: 950px) 56vw, 100vw" />)}</div>
     </div>
   </section>
 
 
-  <!-- 6 · HOW IT WORKS — pinned on wide screens, scroll advances the steps -->
+  <!-- 6 · HOW IT WORKS — four readable steps -->
   <Process />
 
 
@@ -273,14 +264,14 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
           <p>Yes. There&rsquo;s no cost and no pressure to sign.</p>
         </details>
         <details class="qa"><summary><h3>Will pet turf smell?</h3></summary>
-          <p>Not when it&rsquo;s installed right. We build pet areas to drain, so nothing sits under the turf.</p>
+          <p>Pet urine can leave an odor even on well-installed turf. We plan pet areas around drainage and cleaning access, and explain the ongoing care the surface needs. <a href="/blog/why-does-artificial-turf-smell-like-dog-pee/">Read what causes pet-turf odor.</a></p>
           <p class="qa__links"><a href="/services/pet-turf/" data-cta="svc-pet-turf-faq">More about pet turf</a></p>
         </details>
         <details class="qa"><summary><h3>Does artificial turf get hot?</h3></summary>
-          <p>In direct summer sun it gets warmer than grass. Shoes are fine; bare feet and paws feel it most. Shade helps, and we&rsquo;ll point out the best spots in your yard.</p>
+          <p>Turf can get hot in direct summer sun. Discuss shade and how children or pets will use the area when planning the layout. <a href="/blog/how-hot-does-artificial-turf-get/">Read about turf heat and planning for it.</a></p>
         </details>
         <details class="qa"><summary><h3>Can you replace old turf?</h3></summary>
-          <p>Yes. We pull up the old turf and check what&rsquo;s underneath. If the base is still good, we can reuse it, which costs you a lot less.</p>
+          <p>Yes. We pull up the old turf and check what&rsquo;s underneath. If the base is suitable for reuse, we can include that option in the quote.</p>
           <p class="qa__links"><a href="/services/turf-removal-and-replacement/" data-cta="svc-turf-removal-faq">More about turf replacement</a></p>
         </details>
       </div>
@@ -288,8 +279,9 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
         <Thumb id="fin-7" size={320} class="askcard__img" />
         <p class="askcard__h">Still have a question?</p>
         <p class="askcard__p">Call and ask, or send us a few photos of your space.</p>
+        <a class="askcard__more" href="/blog/" data-cta="guide-blog-home">More turf questions, answered<Icon name="arrow" /></a>
         {phoneHref && <a class="btn btn--primary" href={phoneHref} data-cta="call-faq"><Icon name="phone" />Call <span class="nowrap">{phone}</span></a>}
-        <a class="btn btn--ghost" href="/estimate/" data-estimate data-cta="quote-faq">Get a free estimate<Icon name="arrow" /></a>
+        <a class="btn btn--ghost" href="/estimate/" data-estimate data-cta="quote-faq">Request a free estimate<Icon name="arrow" /></a>
       </aside>
       </div>
     </div>

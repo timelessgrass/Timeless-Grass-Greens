@@ -1,0 +1,93 @@
+{
+  "status": "published",
+  "market": "denver-metro",
+  "name": "Holly Hills",
+  "state": "CO",
+  "county": "Arapahoe",
+  "title": "Artificial Turf in Holly Hills, CO | TIMELESS Grass & Greens",
+  "description": "Artificial lawns and putting greens in Holly Hills. Plan a lawn, pet area or practice green around your existing yard.",
+  "h1": "Artificial lawns and putting greens in Holly Hills.",
+  "lede": "Plan a lawn, pet area or practice green around your existing yard. We offer free visits and written installation estimates for Holly Hills homes.",
+  "wins": [
+    "Keep established trees and patio routes",
+    "Choose a useful turf area",
+    "See the preparation and finishing in the quote"
+  ],
+  "answer": {
+    "question": "What should I know before requesting turf for a Holly Hills address?",
+    "answer": "Holly Hills is in unincorporated Arapahoe County even when the mailing address says Denver. Confirm the parcel and applicable county requirements, then bring any property documents to the estimate. Show us the space you want to change and the landscape that will stay."
+  },
+  "blocks": [
+    {
+      "icon": "layout",
+      "kicker": "An existing back yard",
+      "h2": "Change the part that is hardest to use.",
+      "paras": [
+        "A patch beside the patio, a dog’s route or a putting line can define a useful project without replacing all the planting. Mark trees, roots and irrigation before the old lawn comes out. Include any low spots and the route for materials in the visit.",
+        "For a green, choose the putts you want and leave room to stand and walk. For pets, consider cleanup access and shade alongside the turf boundary."
+      ]
+    },
+    {
+      "icon": "pin",
+      "kicker": "County property",
+      "h2": "Use the parcel, not the mailing label.",
+      "paras": [
+        "Ask Arapahoe County about the actual scope if the proposal includes grading, drainage or other landscape changes. Check any recorded property or association requirements as well.",
+        "Use the provider on your water bill when comparing ongoing costs. A nearby Denver program should not be assumed to apply simply because the address is written the same way."
+      ]
+    }
+  ],
+  "services": [
+    "residential-turf",
+    "putting-greens",
+    "pet-turf"
+  ],
+  "servicesNote": "Compare a lawn, pet area or green for the part of the yard you want to improve.",
+  "faq": [],
+  "nearby": [
+    "denver-co",
+    "cherry-hills-village-co",
+    "greenwood-village-co",
+    "englewood-co"
+  ],
+  "sources": [
+    {
+      "label": "Denver Water: rebates and conservation tips (2026 Stage 1 drought rules)",
+      "url": "https://www.denverwater.org/residential/rebates-and-conservation-tips"
+    },
+    {
+      "label": "Denver Water: residential rebates",
+      "url": "https://www.denverwater.org/residential/rebates-and-conservation-tips/residential-rebates"
+    },
+    {
+      "label": "Resource Central: lawn replacement",
+      "url": "https://resourcecentral.org/lawn/"
+    },
+    {
+      "label": "Wikipedia: Holly Hills, Colorado",
+      "url": "https://en.wikipedia.org/wiki/Holly_Hills,_Colorado"
+    },
+    {
+      "label": "Colorado SB24-005, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2024a_005_signed.pdf"
+    },
+    {
+      "label": "Colorado HB25-1113, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2025a_1113_signed.pdf"
+    },
+    {
+      "label": "Colorado SB23-178, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf"
+    },
+    {
+      "label": "Colorado Geological Survey: expansive soil",
+      "url": "https://coloradogeologicalsurvey.org/water/expansive-soil/"
+    },
+    {
+      "label": "Wikipedia: Cherry Hills Country Club",
+      "url": "https://en.wikipedia.org/wiki/Cherry_Hills_Country_Club"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

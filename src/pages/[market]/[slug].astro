@@ -1,0 +1,173 @@
+---
+/* Town pages (/denver-metro/castle-rock-co/) and the market × service pages
+   (/denver-metro/putting-greens/). Both are written from research on file: the town's record in
+   src/data/cities/, or the market's cited rules. The page's own copy is most of it and the shared
+   parts stay small, so no two pages read alike; scripts/check-local-content.mjs holds that line and
+   checks every number against the research. Photographs are our work, never captioned as the town:
+   no photograph's location is on file. */
+import Base from '../../layouts/Base.astro';
+import HeroImage from '../../components/HeroImage.astro';
+import Figure from '../../components/Figure.astro';
+import Icon from '../../components/Icon.astro';
+import OfferPanel from '../../components/OfferPanel.astro';
+import PublicReferences from '../../components/PublicReferences.astro';
+import { getPublishedCollection } from '../../lib/published-content';
+import { assertUniqueRoutes } from '../../lib/content-policy.mjs';
+import { STATE_NAMES } from '../../data/service-territory.mjs';
+import { MARKETS } from '../../data/markets';
+import { SERVICES } from '../../data/services';
+import { SHOTS } from '../../data/shotlist';
+import { phone, phoneHref, positioning, fact } from '../../data/brief';
+
+export async function getStaticPaths() {
+  const towns = await getPublishedCollection('towns');
+  const local = await getPublishedCollection('localServices');
+  const paths = [
+    ...towns.map((t) => ({ params: { market: t.data.market, slug: t.id }, props: { kind: 'town' as const, id: t.id } })),
+    ...local.map((l) => ({ params: { market: l.data.market, slug: l.data.service }, props: { kind: 'service' as const, id: l.id } })),
+  ];
+  assertUniqueRoutes(paths.map((p) => `/${p.params.market}/${p.params.slug}/`));
+  return paths;
+}
+const { kind, id } = Astro.props;
+const towns = await getPublishedCollection('towns');
+const local = await getPublishedCollection('localServices');
+const town = kind === 'town' ? towns.find((t) => t.id === id)! : null;
+const ls = kind === 'service' ? local.find((l) => l.id === id)! : null;
+const d = (town ?? ls)!.data;
+const m = MARKETS.find((x) => x.slug === d.market)!;
+const slug = Astro.params.slug as string;
+const url = `${Astro.site}${d.market}/${slug}/`;
+const materials = fact<string>(positioning?.materials);
+
+/* the hero: one of the market's photographs, picked by the address so neighbouring towns differ */
+const pool = m.work.map((w) => SHOTS.find((x) => x.id === w && x.file)).filter((x): x is NonNullable<typeof x> => !!x);
+const pick = [...slug].reduce((a, c) => a + c.charCodeAt(0), 0);
+const heroFile = pool.length ? pool[pick % pool.length].file! : null;
+const pics = [0, 1, 2].map((k) => pool[(pick + k) % pool.length]?.id).filter((x): x is string => !!x);
+
+const svcSlugs = town ? town.data.services : [ls!.data.service];
+const svcs = svcSlugs.map((s) => SERVICES.find((x) => x.slug === s)).filter((x): x is NonNullable<typeof x> => !!x);
+const svc = ls ? svcs[0] : null;
+const introShotId = svc ? ({ 'commercial-turf': 'fin-4', 'pet-turf': 'fin-3', 'putting-greens': 'fin-1' } as Record<string, string>)[svc.slug] : undefined;
+const introShot = SHOTS.find((shot) => shot.id === introShotId && shot.file);
+/* a town's service cards go to that service's page for this area, where there is one */
+const areaSvc = new Set(local.filter((l) => l.data.market === d.market).map((l) => l.data.service));
+const svcHref = (s: string) => (town && areaSvc.has(s) ? `/${d.market}/${s}/` : `/services/${s}/`);
+const place = town ? `${town.data.name}, ${town.data.state}` : m.name;
+const crumbs = [
+  { name: 'Home', item: `${Astro.site}` },
+  { name: m.name, item: `${Astro.site}${m.slug}/` },
+  { name: town ? town.data.name : svc!.name, item: url },
+];
+const org = { '@id': `${Astro.site}#organization` };
+const schema = town
+  ? [{ '@type': 'Service', '@id': `${url}#service`, name: `Artificial turf installation in ${place}`, serviceType: 'Artificial turf installation', url, provider: org,
+       areaServed: { '@type': town.data.placeType, name: town.data.name, containedInPlace: { '@type': 'State', name: STATE_NAMES[town.data.state] } } }]
+  : [{ '@type': 'Service', '@id': `${url}#service`, name: `${svc!.name}, ${m.name}`, serviceType: svc!.name, url, provider: org,
+       areaServed: { '@type': 'Place', name: m.name } }];
+
+/* grounds alternate from the answer band down, so no two neighbours match */
+const nearby = (town ? town.data.nearby : ls!.data.towns).map((s) => towns.find((t) => t.id === s)).filter((x): x is NonNullable<typeof x> => !!x);
+const ground = (i: number) => (i % 2 === 0 ? 'sec sec--band' : 'sec');
+const nBlocks = d.blocks.length;
+const gServices = ground(1 + nBlocks), gFaq = ground(2 + nBlocks);
+const offerBand = gFaq === 'sec';
+---
+<Base title={d.title} description={d.description} answer={d.answer} crumbs={crumbs} faq={d.faq} schema={schema}>
+
+  <section class={`hero hero--svc${heroFile ? '' : ' turf-marks turf-marks--dark'}`}>
+    <HeroImage file={heroFile} />
+    <div class="wrap">
+      <nav class="crumbs" aria-label="Breadcrumb">
+        <a href="/">Home</a> <span aria-hidden="true">/</span>
+        <a href={`/${m.slug}/`}>{m.name}</a> <span aria-hidden="true">/</span>
+        <span>{town ? town.data.name : svc!.name}</span>
+      </nav>
+      <p class="hero__eyebrow"><Icon name="pin" />{place}</p>
+      <h1>{d.h1}</h1>
+      <p class="hero__lede">{d.lede}</p>
+      <ul class="hero__wins">{d.wins.map((w) => <li>{w}</li>)}</ul>
+      <div class="hero__cta">
+        <a class="btn btn--primary btn--lg" href="/estimate/" data-estimate={svc ? svc.preset : ''} data-cta={`quote-hero-${slug}`}>Request a free estimate<Icon name="arrow" /></a>
+        {phoneHref && <a class="btn btn--ghost btn--lg" href={phoneHref} data-cta={`call-hero-${slug}`}><Icon name="phone" />Call <span class="nowrap">{phone}</span></a>}
+      </div>
+      <ul class="hero__trust">
+        <li><Icon name="check" />Layout approved before installation</li>
+        {materials && <li><Icon name="check" />American-made turf</li>}
+        <li><Icon name="check" />Free estimates, no pressure</li>
+      </ul>
+    </div>
+  </section>
+
+  <section class={`${ground(0)} answer-box`}>
+    <div class:list={['wrap', { 'local__intro': introShot }]} data-reveal>
+      <div>
+      <p class="micro">The short answer</p>
+      <h2 class="answer-box__q">{d.answer.question}</h2>
+      <p class="answer-box__a">{d.answer.answer}</p>
+      </div>
+      {introShot && <Figure shot={introShot} sizes="(min-width: 1180px) 550px, (min-width: 900px) 45vw, 92vw" />}
+    </div>
+  </section>
+
+  {d.blocks.map((b, i) => (
+    <section class={ground(1 + i)}>
+      <div class="wrap doc__sec local__block" data-reveal>
+        <p class="micro local__kick"><Icon name={b.icon} />{b.kicker}</p>
+        <h2>{b.h2}</h2>
+        {b.paras.map((p) => <p set:html={p} />)}
+      </div>
+    </section>
+  ))}
+
+  <section class={gServices}>
+    <div class="wrap">
+      <div class="kick kick--left" data-reveal>
+        <p class="micro">What we install{town ? ` in ${town.data.name}` : ''}</p>
+        <h2>{town ? 'Choose your turf project.' : `${svc!.name} for your space.`}</h2>
+        {town && <p class="local__note">{town.data.servicesNote}</p>}
+      </div>
+      <ul class="benefits">
+        {svcs.map((s) => (
+          <li class="benefit benefit--link" data-reveal>
+            <a href={svcHref(s.slug)} data-cta={`svc-${s.slug}-${slug}`}>
+              <span class="benefit__ico"><Icon name={s.icon} /></span>
+              <h3 class="benefit__h">{s.name}</h3>
+              <p>{s.line}</p>
+              <span class="benefit__go">See {s.name.toLowerCase()}<Icon name="arrow" /></span>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </div>
+  </section>
+
+  <section class={gFaq}>
+    <div class="wrap">
+      {d.faq.length > 0 && <>
+      <div class="kick" data-reveal>
+        <p class="micro">FAQ</p>
+        <h2>{town ? `Turf questions in ${town.data.name}.` : `Questions about ${svc!.name.toLowerCase()} in ${m.name}.`}</h2>
+      </div>
+      <div class="faq" data-reveal>
+        {d.faq.map((f, i) => (
+          <details class="qa" open={i === 0}><summary><h3>{f.q}</h3></summary><p set:html={f.a} /></details>
+        ))}
+      </div>
+      </>}
+      {nearby.length > 0 && (
+        <div class="rules" data-reveal>
+          <p class="micro">{town ? 'Nearby areas we cover' : `Areas we cover in ${m.name}`}</p>
+          <ul class="lawlinks lawlinks--light">
+            {nearby.map((t) => <li><a href={`/${t.data.market}/${t.id}/`} data-cta={`market-${t.id}`}>{t.data.name}, {t.data.state}</a></li>)}
+            <li><a href={`/${m.slug}/`} data-cta={`market-${m.slug}`}>Everywhere we work in {m.name}</a></li>
+          </ul>
+        </div>
+      )}
+      <PublicReferences sources={d.sources} selected={d.publicReferences} />
+    </div>
+  </section>
+
+  <OfferPanel band={offerBand} cta={slug} heading={town ? `Your free estimate in ${town.data.name}.` : undefined} preset={svc ? svc.preset : ''} pics={pics} />
+</Base>

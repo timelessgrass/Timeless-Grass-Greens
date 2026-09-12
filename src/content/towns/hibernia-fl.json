@@ -1,0 +1,84 @@
+{
+  "status": "published",
+  "market": "northeast-florida",
+  "name": "Hibernia",
+  "state": "FL",
+  "county": "Clay",
+  "title": "Artificial Turf in Hibernia, FL | TIMELESS Grass & Greens",
+  "description": "Putting greens and lawns for Hibernia properties. Plan a practice green, lawn or pet area on your river-side or wooded property.",
+  "h1": "Putting greens and lawns for Hibernia properties.",
+  "lede": "Plan a practice green, lawn or pet area on your river-side or wooded property. We’ll discuss the layout and installation scope during a free visit.",
+  "wins": [
+    "Use available room for putting and chipping",
+    "Keep mature trees and property access",
+    "Consider river-side conditions before the boundary"
+  ],
+  "answer": {
+    "question": "What should a Hibernia river property consider for a putting green?",
+    "answer": "Choose the putting and chipping space you want, then check the usable grade, tree constraints and shoreline boundary. Bring any known site or drainage information. The river view does not establish that the entire open area is suitable for excavation or turf."
+  },
+  "blocks": [
+    {
+      "icon": "flag",
+      "kicker": "A green with a purpose",
+      "h2": "Let the available room serve the shots you want.",
+      "paras": [
+        "A larger yard can allow several putting approaches and a chipping position without converting every open space. Decide how you will reach the green from the house and keep ordinary property access around it. Contours should be chosen for practice rather than assumed from the existing slope."
+      ]
+    },
+    {
+      "icon": "leaf",
+      "kicker": "River frontage and old trees",
+      "h2": "Keep the setting in the plan.",
+      "paras": [
+        "Mark the tree canopy and obtain any required arborist advice before proposing work beneath it. Near the St. Johns, bring shoreline and drainage information and show any low areas or existing retaining structures.",
+        "Hibernia is in unincorporated Clay County. Confirm applicable county and property requirements; an absence of a town government does not establish that no review is needed. Ask for any unresolved drainage or ground work to be separate from the turf installation price."
+      ]
+    }
+  ],
+  "services": [
+    "putting-greens",
+    "residential-turf",
+    "pet-turf"
+  ],
+  "servicesNote": "Compare a practice green, lawn or pet area around the trees, grade and access your property provides.",
+  "faq": [],
+  "nearby": [
+    "fleming-island-fl",
+    "doctors-inlet-fl",
+    "asbury-lake-lake-asbury-fl",
+    "switzerland-fl"
+  ],
+  "sources": [
+    {
+      "label": "USDA NRCS Soil Data Access (SSURGO, survey area FL019)",
+      "url": "https://sdmdataaccess.sc.egov.usda.gov/"
+    },
+    {
+      "label": "Clay County Code of Ordinances, Ch. 18.5 (Municode)",
+      "url": "https://library.municode.com/fl/clay_county/codes/code_of_ordinances"
+    },
+    {
+      "label": "Clay County Utility Authority: Phase III water shortage restrictions",
+      "url": "https://clayutility.org/phase-iii-water-shortage-restrictions-now-in-effect/"
+    },
+    {
+      "label": "Clay County Utility Authority: irrigation information",
+      "url": "https://clayutility.org/residents-business/irrigation-information/"
+    },
+    {
+      "label": "City of Green Cove Springs: water conservation (SJRWMD cost-share list)",
+      "url": "https://www.greencovesprings.com/448/Water-Conservation"
+    },
+    {
+      "label": "Wikipedia: Hibernia, Florida",
+      "url": "https://en.wikipedia.org/wiki/Hibernia,_Florida"
+    },
+    {
+      "label": "Wikipedia: National Register of Historic Places listings in Clay County, Florida",
+      "url": "https://en.wikipedia.org/wiki/National_Register_of_Historic_Places_listings_in_Clay_County,_Florida"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

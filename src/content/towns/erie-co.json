@@ -1,0 +1,92 @@
+{
+  "status": "published",
+  "market": "denver-metro",
+  "name": "Erie",
+  "state": "CO",
+  "county": null,
+  "title": "Artificial Turf in Erie, CO | TIMELESS Grass & Greens",
+  "description": "Turn your Erie back yard into space you use. Plan an artificial lawn, pet area or putting green, from an unfinished subdivision yard to an established Old Town lot.",
+  "h1": "Turn your Erie back yard into space you use.",
+  "lede": "Plan an artificial lawn, pet area or putting green, from an unfinished subdivision yard to an established Old Town lot. Start with a free visit and written price.",
+  "wins": [
+    "Choose the use before filling the yard",
+    "Keep future beds and shade in the layout",
+    "Define preparation before selecting the surface"
+  ],
+  "answer": {
+    "question": "What should I decide before turf goes into a new Erie yard?",
+    "answer": "Choose the lawn, pet or putting area you want, then leave space for future trees, beds, paths and access. Bring the property plan and association requirements. Include known ground or drainage information in the estimate rather than treating a recently graded yard as ready for turf."
+  },
+  "blocks": [
+    {
+      "icon": "layout",
+      "kicker": "A new yard",
+      "h2": "Draw the whole yard, even if you build one part first.",
+      "paras": [
+        "In a newer Erie community, turf can be one part of the landscape alongside planting and seating. Decide where future trees or structures might go so you are not paying to remove a new surface later. Show us existing irrigation and where it will still serve living plants.",
+        "For a Vista Ridge practice green, choose the shots you want and how you will reach the surface. The layout should serve your routine rather than copy the outline of the neighboring fairway."
+      ]
+    },
+    {
+      "icon": "home",
+      "kicker": "An existing yard",
+      "h2": "Keep the character and address the worn area.",
+      "paras": [
+        "Around Old Town, an irregular lot, mature trees or a narrow gate can shape the job. Bring those details to the visit with any known site reports. Structural ground concerns need their own advice; turf preparation is not a treatment for subsidence.",
+        "Check Town and applicable association requirements, and verify any rebate eligibility directly before including it in the budget. Compare the installation scope and ongoing care as well as the finished look."
+      ]
+    }
+  ],
+  "services": [
+    "residential-turf",
+    "putting-greens",
+    "pet-turf"
+  ],
+  "servicesNote": "Compare a lawn, green or pet area with the larger landscape plan for your property.",
+  "faq": [],
+  "nearby": [
+    "lafayette-co",
+    "louisville-co",
+    "superior-co"
+  ],
+  "sources": [
+    {
+      "label": "Town of Erie: 2026 Turf Replacement Rebate Program",
+      "url": "https://www.erieco.gov/1962/2026-Turf-Replacement-Rebate-Program"
+    },
+    {
+      "label": "Colorado Geological Survey: coal mine subsidence",
+      "url": "https://coloradogeologicalsurvey.org/hazards/subsidence/coal-mine-subsidence/"
+    },
+    {
+      "label": "Colorado SB23-178, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf"
+    },
+    {
+      "label": "Colorado National Golf Club",
+      "url": "https://www.coloradonationalgolfclub.com/"
+    },
+    {
+      "label": "Colorado HB25-1113, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2025a_1113_signed.pdf"
+    },
+    {
+      "label": "Town of Erie: drought information",
+      "url": "https://www.erieco.gov/1991/Drought-Information"
+    },
+    {
+      "label": "Town of Erie: water sources",
+      "url": "https://www.erieco.gov/1058/Water-Sources"
+    },
+    {
+      "label": "Colorado SB24-005, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2024a_005_signed.pdf"
+    },
+    {
+      "label": "Town of Erie: Parks & Recreation",
+      "url": "https://www.erieco.gov/1519/Parks-Recreation"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

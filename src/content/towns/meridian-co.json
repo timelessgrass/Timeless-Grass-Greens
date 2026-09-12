@@ -1,0 +1,93 @@
+{
+  "status": "published",
+  "market": "denver-metro",
+  "name": "Meridian",
+  "state": "CO",
+  "county": "Douglas",
+  "title": "Artificial Turf in Meridian, CO | TIMELESS Grass & Greens",
+  "description": "Turf for the spaces people use in Meridian. Plan an apartment dog area, putting green or other activity space with its use and upkeep clearly defined.",
+  "h1": "Turf for the spaces people use in Meridian.",
+  "lede": "Plan an apartment dog area, putting green or other activity space with its use and upkeep clearly defined. Start with a consultation and written installation scope.",
+  "wins": [
+    "Define traffic, cleaning and daily use",
+    "Include property management and access",
+    "Select the system for the intended activity"
+  ],
+  "answer": {
+    "question": "What should a Meridian property manager resolve before choosing turf?",
+    "answer": "Identify the intended use and the representative authorized to approve the work. Confirm the applicable covenant and Design Control Committee requirements for the parcel, as well as public landscape requirements. Bring traffic, cleaning, access and any building constraints to the consultation."
+  },
+  "blocks": [
+    {
+      "icon": "building",
+      "kicker": "Managed properties",
+      "h2": "Plan around the people using the space.",
+      "paras": [
+        "An apartment pet area needs a cleanup routine and convenient access; a workplace green needs usable putting lines and standing room. Decide who will maintain the surface and where residents or staff need to pass during installation.",
+        "If odor or standing water is already a problem, describe it before asking for a replacement surface. The cause and any additional drainage or cleaning work need to be considered separately."
+      ]
+    },
+    {
+      "icon": "file",
+      "kicker": "The property plan",
+      "h2": "Get the right requirements before the final design.",
+      "paras": [
+        "Meridian has separate covenant sets for its different areas. Ask the Design Control Committee which apply to the parcel and what the proposal must include. Describe the actual activity; naming a product as recreational does not settle how the project is classified.",
+        "For a rooftop, pool or podium setting, involve the building’s responsible professional for loading, waterproofing and drainage. Keep those requirements and any unresolved decisions visible in the estimate."
+      ]
+    }
+  ],
+  "services": [
+    "commercial-turf",
+    "pet-turf",
+    "putting-greens"
+  ],
+  "servicesNote": "Discuss commercial, pet-area or putting-green turf according to how the property will use and maintain it.",
+  "faq": [],
+  "nearby": [
+    "inverness-co",
+    "lone-tree-co",
+    "dove-valley-co",
+    "stonegate-co"
+  ],
+  "sources": [
+    {
+      "label": "Meridian Metropolitan District: Design Control Committee",
+      "url": "https://www.meridiandistrict.com/design-control-committee"
+    },
+    {
+      "label": "Meridian Metropolitan District",
+      "url": "https://www.meridiandistrict.com/"
+    },
+    {
+      "label": "Meridian Metropolitan District: summer watering guide",
+      "url": "https://www.meridiandistrict.com/summer-watering-guide"
+    },
+    {
+      "label": "Meridian Metropolitan District: FAQs",
+      "url": "https://www.meridiandistrict.com/faqs"
+    },
+    {
+      "label": "Colorado SB24-005, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2024a_005_signed.pdf"
+    },
+    {
+      "label": "Colorado HB25-1113, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2025a_1113_signed.pdf"
+    },
+    {
+      "label": "Wikipedia: Meridian, Colorado",
+      "url": "https://en.wikipedia.org/wiki/Meridian,_Colorado"
+    },
+    {
+      "label": "Colorado Geological Survey: expansive soil and rock",
+      "url": "https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/"
+    },
+    {
+      "label": "Colorado Water Conservation Board: turf replacement program",
+      "url": "https://cwcb.colorado.gov/turf-replacement-program"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

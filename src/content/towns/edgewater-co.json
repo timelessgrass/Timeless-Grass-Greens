@@ -1,0 +1,84 @@
+{
+  "status": "published",
+  "market": "denver-metro",
+  "name": "Edgewater",
+  "state": "CO",
+  "county": "Jefferson",
+  "title": "Artificial Turf in Edgewater, CO | TIMELESS Grass & Greens",
+  "description": "A useful lawn or putting green in your Edgewater yard. Make the space behind the house work around your patio and alley gate.",
+  "h1": "A useful lawn or putting green in your Edgewater yard.",
+  "lede": "Make the space behind the house work around your patio and alley gate. Compare lawn, pet-turf and putting-green options during a free visit.",
+  "wins": [
+    "A layout for a narrow back yard",
+    "Keep everyday access to the alley",
+    "A written price for preparation and finishing"
+  ],
+  "answer": {
+    "question": "Can I fit a putting green in a small Edgewater yard?",
+    "answer": "A compact green can be considered around the putting lines that fit, with room left to stand and reach the alley or garage. Compare it with a lawn or dedicated pet area during the free visit rather than assuming extra cups will make a small green more useful."
+  },
+  "blocks": [
+    {
+      "icon": "home",
+      "kicker": "A narrow city lot",
+      "h2": "Keep the gate and patio working together.",
+      "paras": [
+        "The route from the house to the alley is part of the finished yard. Leave that access clear while choosing where turf should meet paving, planting and the fence. Measure the narrowest gate and tell us if materials would need to pass through shared space.",
+        "A pet area should allow cleanup without taking over the seating area. Include leaves from existing trees and the available shade in the care discussion."
+      ]
+    },
+    {
+      "icon": "shield",
+      "kicker": "Renovation or new infill",
+      "h2": "Check who controls the outdoor space.",
+      "paras": [
+        "For a duplex, townhome or condo, confirm whether the proposed area is private or shared and who can authorize the change. A new infill project can also have landscape requirements that differ from an established detached yard.",
+        "Ask Edgewater Community Development about the complete proposal where needed, including front-yard, grading or drainage changes. Bring written conditions to the estimate so the work is priced around the actual property."
+      ]
+    }
+  ],
+  "services": [
+    "residential-turf",
+    "pet-turf",
+    "putting-greens"
+  ],
+  "servicesNote": "Choose a lawn, pet area or compact green without losing the access a small yard needs.",
+  "faq": [],
+  "nearby": [
+    "lakewood-co",
+    "wheat-ridge-co",
+    "denver-co"
+  ],
+  "sources": [
+    {
+      "label": "Denver Water: distributors in its service area",
+      "url": "https://www.denverwater.org/about-us/how-we-operate/service-area/distributors"
+    },
+    {
+      "label": "Denver Water: drought and Stage 1 restrictions",
+      "url": "https://www.denverwater.org/drought"
+    },
+    {
+      "label": "Colorado HB22-1151: Turf Replacement Program",
+      "url": "https://leg.colorado.gov/bills/hb22-1151"
+    },
+    {
+      "label": "Denver Water: turfgrass removal discount",
+      "url": "https://www.denverwater.org/tap/ditching-useless-turf-coloradoscape-we-can-help"
+    },
+    {
+      "label": "Colorado SB23-178, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf"
+    },
+    {
+      "label": "Colorado Geological Survey: expansive soil and rock",
+      "url": "https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/"
+    },
+    {
+      "label": "Fossil Trace Golf Club",
+      "url": "https://www.fossiltrace.com/"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

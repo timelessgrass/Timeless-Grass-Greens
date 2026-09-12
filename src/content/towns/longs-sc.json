@@ -1,0 +1,81 @@
+{
+  "status": "published",
+  "market": "grand-strand",
+  "name": "Longs",
+  "state": "SC",
+  "county": "Horry",
+  "title": "Artificial Turf in Longs, SC | TIMELESS Grass & Greens",
+  "description": "Room for your putting green, in Longs. Plan a backyard green, lawn or pet area around the land you have.",
+  "h1": "Room for your putting green, in Longs.",
+  "lede": "Plan a backyard green, lawn or pet area around the land you have. A free visit helps turn the idea into a layout and a written price.",
+  "wins": [
+    "Choose the putts and chipping space you want",
+    "Keep useful lawn and pet areas separate",
+    "Plan around access and existing property systems"
+  ],
+  "answer": {
+    "question": "How should I use a larger Longs yard for putting practice?",
+    "answer": "Start with the shots you want to practice, rather than filling the available land. Choose putting distances, cup locations and any chipping area. Keep room for walking and other yard uses, and mark septic, utility or drainage areas before the layout is finalized."
+  },
+  "blocks": [
+    {
+      "icon": "flag",
+      "kicker": "Your practice space",
+      "h2": "Extra room should give you useful shots.",
+      "paras": [
+        "A larger yard can allow more putting lines and a separate chipping position, but every cup should have a purpose. Tell us what you want to practice and how you’ll reach the green from the house. We’ll discuss the shape, contours and turf options during the visit.",
+        "In a smaller golf-community yard, a simple green with clear walking room may be a better fit. Bring association requirements early so the proposed footprint can take them into account."
+      ]
+    },
+    {
+      "icon": "home",
+      "kicker": "Around the property",
+      "h2": "Leave existing systems and everyday routes in the plan.",
+      "paras": [
+        "Longs properties include rural lots and subdivision yards, so the work starts with the actual property. If you have a septic system, show us its recorded location and get guidance before proposing work over or near it. Identify irrigation and access routes too.",
+        "For dogs, a separate area by the door can keep pet use apart from the putting surface. Include access for waste pickup and cleaning. The estimate should identify turf area, preparation, edges and any additional work rather than relying on one unexplained square-foot price."
+      ]
+    }
+  ],
+  "services": [
+    "putting-greens",
+    "residential-turf",
+    "pet-turf"
+  ],
+  "servicesNote": "Choose a green, lawn or dedicated pet area, with the size and preparation priced for your property.",
+  "faq": [],
+  "nearby": [
+    "little-river-sc",
+    "north-myrtle-beach-sc",
+    "briarcliffe-acres-sc",
+    "nixonville-sc"
+  ],
+  "sources": [
+    {
+      "label": "GolfPass: golf courses in Longs, SC",
+      "url": "https://www.golfpass.com/travel-advisor/course-directory/6747-longs/"
+    },
+    {
+      "label": "MBGolf: Aberdeen Country Club",
+      "url": "https://www.mbgolf.com/golf-courses/aberdeen"
+    },
+    {
+      "label": "Colonial Charters Golf Club",
+      "url": "https://www.colonialchartersgolf.com/"
+    },
+    {
+      "label": "Horry County Stormwater: storm water permitting",
+      "url": "https://www.horrycountysc.gov/departments/stormwater/engineers/construction/storm-water-permitting/"
+    },
+    {
+      "label": "Horry County stormwater management and sediment control ordinance, as enacted July 2017",
+      "url": "https://horrycountysc.gov/media/uzqhn5z2/horry-county-ordinance-final-enacted-july-2017.pdf"
+    },
+    {
+      "label": "South Carolina Homeowners Association Act, S.C. Code Title 27, Chapter 30",
+      "url": "https://www.scstatehouse.gov/code/t27c030.php"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

@@ -1,0 +1,86 @@
+{
+  "status": "published",
+  "market": "denver-metro",
+  "name": "Castle Rock",
+  "state": "CO",
+  "county": "Douglas",
+  "title": "Artificial Turf in Castle Rock, CO | TIMELESS Grass & Greens",
+  "description": "Artificial turf for your Castle Rock yard. Plan a back lawn, pet area or putting green with the preparation clearly defined.",
+  "h1": "Artificial turf for your Castle Rock yard.",
+  "lede": "Plan a back lawn, pet area or putting green with the preparation clearly defined. Start with a free visit and written installation estimate.",
+  "wins": [
+    "Choose a useful footprint for your yard",
+    "Plan around grade, access and existing beds",
+    "See turf options before approving the work"
+  ],
+  "answer": {
+    "question": "What should a Castle Rock homeowner confirm before finalizing a turf layout?",
+    "answer": "Ask the Town and any association which landscape requirements apply to the property and proposed change, particularly for a newer home. Then compare the usable turf area, access, preparation and finishing in the written estimate. Check incentives directly before counting one in the budget."
+  },
+  "blocks": [
+    {
+      "icon": "home",
+      "kicker": "A yard with a purpose",
+      "h2": "Decide what needs turf and what should stay planted.",
+      "paras": [
+        "A lawn near the patio, a dog area by the door or a putting green can each be a defined part of the yard. Mark beds, walking routes and the space you want for other uses before choosing a final footprint.",
+        "For a practice green, discuss putting lengths and any chipping area. On a sloped property, include how you will reach and walk around the green in the design conversation."
+      ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "The installation scope",
+      "h2": "Make the ground work visible in the price.",
+      "paras": [
+        "Point out known wet areas, changes in grade and access restrictions. Removal and preparation can differ between an established downtown yard and a new subdivision property; the estimate should explain the proposed work for yours.",
+        "Castle Rock’s published ColoradoScape rule for homes permitted and built after January 1, 2023 allows no turf in front and limits turf in back to 500 square feet. The cited homeowner guidance does not settle whether synthetic turf is included in that limit. Obtain the Town’s answer for your property before sizing a lawn or green, then check the applicable community conditions separately."
+      ]
+    }
+  ],
+  "services": [
+    "putting-greens",
+    "residential-turf",
+    "pet-turf"
+  ],
+  "servicesNote": "Compare a back lawn, pet area or putting green with a layout and price for the actual property.",
+  "faq": [],
+  "nearby": [
+    "castle-pines-co",
+    "lone-tree-co",
+    "highlands-ranch-co"
+  ],
+  "sources": [
+    {
+      "label": "Town of Castle Rock: landscape design for homeowners (ColoradoScape, Ordinance 2022-025)",
+      "url": "https://www.crgov.com/3902/Landscape-Design-for-Homeowners"
+    },
+    {
+      "label": "Castle Rock Water: ColoradoScape renovation rebates",
+      "url": "https://www.crconserve.com/153/Rebates"
+    },
+    {
+      "label": "Castle Rock Water: watering schedule",
+      "url": "https://crconserve.com/waterschedule"
+    },
+    {
+      "label": "Colorado Geological Survey: expansive soil",
+      "url": "https://coloradogeologicalsurvey.org/hazards/expansive-soil/"
+    },
+    {
+      "label": "Colorado Geological Survey: heaving bedrock",
+      "url": "https://coloradogeologicalsurvey.org/hazards/heaving-bedrock/"
+    },
+    {
+      "label": "Colorado SB23-178",
+      "url": "https://leg.colorado.gov/bills/sb23-178"
+    },
+    {
+      "label": "Red Hawk Ridge Golf Course",
+      "url": "https://www.redhawkridge.com/"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": [
+    "https://www.crgov.com/3902/Landscape-Design-for-Homeowners"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "status": "published",
+  "market": "denver-metro",
+  "name": "Stonegate",
+  "state": "CO",
+  "county": "Douglas",
+  "title": "Artificial Turf in Stonegate, CO | TIMELESS Grass & Greens",
+  "description": "A backyard turf plan for your Stonegate home. Compare a lawn, pet area or practice green with the surrounding planting kept in view.",
+  "h1": "A backyard turf plan for your Stonegate home.",
+  "lede": "Compare a lawn, pet area or practice green with the surrounding planting kept in view. Request a free visit and written installation estimate.",
+  "wins": [
+    "Plan the turf and living beds together",
+    "Keep the existing drainage routes",
+    "Use current community requirements for the layout"
+  ],
+  "answer": {
+    "question": "What should I check before planning turf in Stonegate?",
+    "answer": "Obtain the current SVOA standards and submission instructions for the proposed backyard change. They address turf placement and the surrounding landscape. Bring the property plan and requirements to the estimate, including any conditions about grade, drainage and excavation."
+  },
+  "blocks": [
+    {
+      "icon": "layout",
+      "kicker": "The whole back yard",
+      "h2": "Keep turf and planting in balance.",
+      "paras": [
+        "A compact lawn, pet area or putting green can leave room for living beds and walking routes. Choose the use first, then compare the surface and the way its edges meet the landscape. Do not assume the entire fenced rectangle should become turf.",
+        "For a green, start with a useful putting line and room to stand. For pets, plan the route from the door and access for regular cleaning."
+      ]
+    },
+    {
+      "icon": "file",
+      "kicker": "Before submission",
+      "h2": "Use the current standards and the property plan.",
+      "paras": [
+        "Stonegate’s published standards allow artificial-turf proposals in the rear yard and require committee approval. When rear-yard turf is proposed, the remaining rear-yard area is limited to 30% non-living material. Keep living beds in the layout and confirm the calculation and current submission requirements with the committee before finalizing it.",
+        "The standards also require existing drainage patterns to be preserved and call for approval of excavation deeper than 18 inches. Show the proposed preparation on the plan and bring the original drainage information. Any needed grade or drainage change should be resolved before the surface is installed."
+      ]
+    }
+  ],
+  "services": [
+    "residential-turf",
+    "pet-turf",
+    "putting-greens"
+  ],
+  "servicesNote": "Discuss a lawn, pet area or compact green with the required surrounding landscape.",
+  "faq": [],
+  "nearby": [
+    "meridian-co",
+    "foxfield-co",
+    "dove-valley-co",
+    "aurora-co"
+  ],
+  "sources": [
+    {
+      "label": "SVOA Community-Wide Standards, 2 October 2023 (PCMS)",
+      "url": "https://pcms.net/wp-content/uploads/2023/10/10.2.23-SVOA-Community-Wide-Standards.pdf"
+    },
+    {
+      "label": "Stonegate Village Metropolitan District: Stage 1 drought restrictions",
+      "url": "https://www.svmd.org/files/85a0f0637/Stage+1-+Drought+Restrictions.pdf"
+    },
+    {
+      "label": "Stonegate Village Metropolitan District",
+      "url": "https://www.svmd.org/"
+    },
+    {
+      "label": "Colorado Water Conservation Board: turf replacement program",
+      "url": "https://cwcb.colorado.gov/turf-replacement-program"
+    },
+    {
+      "label": "Colorado Geological Survey: expansive soil and rock",
+      "url": "https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/"
+    },
+    {
+      "label": "Colorado SB23-178, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": [
+    "https://pcms.net/wp-content/uploads/2023/10/10.2.23-SVOA-Community-Wide-Standards.pdf"
+  ]
+}

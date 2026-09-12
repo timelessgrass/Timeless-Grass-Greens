@@ -18,7 +18,7 @@ export type Shot = {
   caption?: string;
   /** Alt text. Describes the frame for a screen reader; never keyword stuffing. */
   alt?: string;
-  ratio: '4/3' | '3/2' | '16/9' | '1/1';
+  ratio: '4/3' | '3/4' | '3/2' | '16/9' | '1/1';
   /** Filename in src/assets/photos/. Astro optimizes it; only this renders in production. */
   file?: string;
   /** A licensed stock stand-in for DESIGN REVIEW ONLY. Renders in dev with a visible
@@ -30,7 +30,7 @@ export const SHOTS: Shot[] = [
   { id: 'fin-1', kind: 'finished', ratio: '3/2', stock: { src: 'https://images.pexels.com/photos/4475691/pexels-photo-4475691.jpeg?auto=compress&cs=tinysrgb&w=1600', credit: 'Pexels #4475691' },
     brief: 'Finished putting green, wide. Whole surface in frame, flag in, cup visible. Blown clean before the shutter — that is the standard the page claims.',
     file: 'backyard-putting-green-landscaped-boulders.jpg', alt: 'A backyard putting green ringed with boulders and planting beds, flag in the cup, house behind',
-    caption: 'A backyard green with the flag in, cut into boulder landscaping.' },
+    caption: 'A backyard putting green fitted between boulders and planting beds.' },
   { id: 'fin-2', kind: 'finished', ratio: '3/2', stock: { src: 'https://images.pexels.com/photos/23070382/pexels-photo-23070382.jpeg?auto=compress&cs=tinysrgb&w=1600', credit: 'Pexels #23070382' },
     brief: 'Finished residential lawn, low and raking. Show the edge where turf meets hardscape — that seam is where a bad install shows.',
     file: 'artificial-turf-backyard-patio.jpg', alt: 'A finished artificial turf back lawn with a covered patio and fenced yard',
@@ -38,7 +38,7 @@ export const SHOTS: Shot[] = [
   { id: 'fin-3', kind: 'finished', ratio: '3/2', stock: { src: 'https://images.pexels.com/photos/16630711/pexels-photo-16630711.jpeg?auto=compress&cs=tinysrgb&w=1600', credit: 'Pexels #16630711' },
     brief: 'Finished pet area. Include the drainage edge if it is visible.',
     file: 'pet-turf-dog-resting-under-deck.jpg', alt: 'Two dogs lying on pet turf in a fenced back yard, seen from the deck above',
-    caption: 'Pet turf, with the dogs on it.' }, // the file arrived rotated 90° with no EXIF orientation; turned upright 2026-09-10
+    caption: 'Two dogs resting on turf in a fenced back yard.' }, // the file arrived rotated 90° with no EXIF orientation; turned upright 2026-09-10
   { id: 'fin-4', kind: 'finished', ratio: '3/4', stock: { src: 'https://images.pexels.com/photos/39222204/pexels-photo-39222204.jpeg?auto=compress&cs=tinysrgb&w=1600', credit: 'Pexels #39222204' },
     brief: 'Finished commercial or sports surface. Wide enough to read the scale of the job.',
     file: 'putting-green-shared-amenity-lawn.jpg', alt: 'A putting green on a shared lawn beside a residential building',
@@ -80,7 +80,7 @@ export const SHOTS: Shot[] = [
     brief: 'Finished green at dusk with the landscape lighting on.',
     file: 'putting-green-landscape-lighting-at-dusk.jpg',
     alt: 'A putting green at dusk with landscape lighting on the flagstone and two flags in',
-    caption: 'A green at dusk, lit, with the flags in.' },
+    caption: 'Putting cups and landscape lighting beside the flagstone edge.' },
   { id: 'fin-6', kind: 'finished', ratio: '4/3',
     brief: 'Finished green beside a fire pit and seat wall.',
     file: 'putting-green-fire-pit-stone-wall.jpg',
@@ -90,22 +90,22 @@ export const SHOTS: Shot[] = [
     brief: 'Lawn and green with a playset.',
     file: 'artificial-lawn-with-playset.jpg',
     alt: 'Artificial lawn and green with a wooden playset, open ground beyond',
-    caption: 'Lawn and green with the playset on it.' },
+    caption: 'Artificial lawn and a putting green around a wooden playset.' },
   { id: 'fin-8', kind: 'finished', ratio: '3/4',
     brief: 'Fenced back lawn with a rock border.',
     file: 'artificial-lawn-fenced-yard-rock-border.jpg',
     alt: 'A fenced artificial lawn with a rock border along the fence line',
-    caption: 'A fenced lawn, rock border along the fence.' },
+    caption: 'A finished lawn with a rock border along the fence.' },
   { id: 'det-2', kind: 'detail', ratio: '4/3',
     brief: 'Turf set between concrete pavers.',
     file: 'artificial-turf-between-concrete-pavers.jpg',
     alt: 'Artificial turf set in the joints between a grid of square concrete pavers',
-    caption: 'Turf run between concrete pavers.' },
+    caption: 'Turf fitted into the joints between square concrete pavers.' },
   { id: 'det-3', kind: 'detail', ratio: '4/3',
     brief: 'Turf meeting a concrete path down a side yard.',
     file: 'artificial-turf-side-yard-concrete-edge.jpg',
     alt: 'Artificial turf running down a side yard, meeting the concrete path along its edge',
-    caption: 'The edge against a concrete path.' },
+    caption: 'A side-yard turf edge following the concrete path.' },
   { id: 'fin-9', kind: 'finished', ratio: '4/3',
     brief: 'The green from the driveway.',
     file: 'backyard-putting-green-driveway-view.jpg',

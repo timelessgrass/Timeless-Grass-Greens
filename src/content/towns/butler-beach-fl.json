@@ -1,0 +1,88 @@
+{
+  "status": "published",
+  "market": "northeast-florida",
+  "name": "Butler Beach",
+  "state": "FL",
+  "county": "St. Johns",
+  "title": "Artificial Turf in Butler Beach, FL | TIMELESS Grass & Greens",
+  "description": "A lawn or compact green for your Butler Beach home. Plan a courtyard, side-yard lawn or pet area that works between visits.",
+  "h1": "A lawn or compact green for your Butler Beach home.",
+  "lede": "Plan a courtyard, side-yard lawn or pet area that works between visits. Start with a free consultation and written installation estimate.",
+  "wins": [
+    "A defined area beside the porch or patio",
+    "Care explained for you or the property manager",
+    "Keep access around raised homes and shared spaces"
+  ],
+  "answer": {
+    "question": "What care does turf need at a part-time Butler Beach home?",
+    "answer": "Turf removes routine mowing from the converted area, but it still needs debris removal and cleaning. Agree who will handle that between visits, especially for rentals or pet use. Bring the property’s access and community requirements to the consultation."
+  },
+  "blocks": [
+    {
+      "icon": "clock",
+      "kicker": "Between visits",
+      "h2": "Give the caretaker a clear routine.",
+      "paras": [
+        "Discuss leaves, blown sand and pet cleanup before choosing the area to convert. A property manager should know which surface was selected and what care it needs. An unattended turf yard should not be expected to look freshly maintained after months away.",
+        "A compact green near the porch can offer useful short putting practice. A side-yard lawn or pet area may make better use of the same space; compare them against how you use the home."
+      ]
+    },
+    {
+      "icon": "home",
+      "kicker": "Cottage, raised home or condo",
+      "h2": "Work around the access the property needs.",
+      "paras": [
+        "Keep stairs, entry routes and service access available around a raised home. For a condo, confirm who controls the proposed ground and whether the association must authorize work or delivery through shared areas.",
+        "Butler Beach is unincorporated St. Johns County, separate from the City of St. Augustine Beach. Check county, community and any coastal conditions for the actual parcel before finalizing the boundary."
+      ]
+    }
+  ],
+  "services": [
+    "residential-turf",
+    "putting-greens",
+    "pet-turf"
+  ],
+  "servicesNote": "Compare a courtyard lawn, compact putting green or pet area with the care and access the property needs.",
+  "faq": [],
+  "nearby": [
+    "st-augustine-beach-fl",
+    "anastasia-island-fl",
+    "st-augustine-shores-fl"
+  ],
+  "sources": [
+    {
+      "label": "St. Johns River Water Management District: Phase III extreme water shortage declared (May 2026)",
+      "url": "https://www.sjrwmd.com/2026/05/district-declares-phase-iii-extreme-water-shortage/"
+    },
+    {
+      "label": "St. Johns County Land Development Code (edition of 4 March 2025)",
+      "url": "https://www.sjcfl.us/wp-content/uploads/2024/01/entire-ldc-march-4-2025.pdf"
+    },
+    {
+      "label": "Fla. Stat. 720.3045: items not visible from the frontage, a neighbor or a common area",
+      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0700-0799/0720/Sections/0720.3045.html"
+    },
+    {
+      "label": "Fla. Stat. 125.572 (2025): regulation of synthetic turf",
+      "url": "https://www.flsenate.gov/Laws/Statutes/2025/0125.572"
+    },
+    {
+      "label": "St. Johns County: protect our water",
+      "url": "https://www.sjcfl.us/protect-our-water/"
+    },
+    {
+      "label": "St. Johns River Water Management District: watering restrictions",
+      "url": "https://www.sjrwmd.com/wateringrestrictions/"
+    },
+    {
+      "label": "Wikipedia: Frank B. Butler",
+      "url": "https://en.wikipedia.org/wiki/Frank_B._Butler"
+    },
+    {
+      "label": "Florida's Historic Coast: Butler Beach",
+      "url": "https://www.floridashistoriccoast.com/beaches/butler-beach/"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

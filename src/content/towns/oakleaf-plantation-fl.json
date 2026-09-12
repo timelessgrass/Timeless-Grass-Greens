@@ -1,0 +1,85 @@
+{
+  "status": "published",
+  "market": "northeast-florida",
+  "name": "Oakleaf Plantation",
+  "state": "FL",
+  "county": "Clay",
+  "title": "Artificial Turf in Oakleaf Plantation, FL | TIMELESS Grass & Greens",
+  "description": "Lawns and pet areas for Oakleaf Plantation yards. Plan a lawn, dedicated dog area or short-game green around your home.",
+  "h1": "Lawns and pet areas for Oakleaf Plantation yards.",
+  "lede": "Plan a lawn, dedicated dog area or short-game green around your home. Request a free visit for turf options and a written installation estimate.",
+  "wins": [
+    "Choose a defined pet or lawn area",
+    "Keep required planting and protected trees",
+    "Discuss wet spots before surface replacement"
+  ],
+  "answer": {
+    "question": "What should an Oakleaf turf plan keep from the existing landscape?",
+    "answer": "Confirm the parcel’s Branan Field Corridor requirements and retain any required planting; synthetic turf cannot simply replace those plants. Identify protected trees and resolve any necessary tree-preservation review before preparation affects roots. Bring community requirements and the property plan to the estimate."
+  },
+  "blocks": [
+    {
+      "icon": "paw",
+      "kicker": "A busy fenced yard",
+      "h2": "Plan around the dog’s routine.",
+      "paras": [
+        "Start with the path from the door and the spots your dog uses most. A dedicated area can leave room for a patio, planting or a compact green. Include a water source and access for waste pickup and cleaning.",
+        "If the yard stays wet, show us rain photos and existing drains. The cause of a water or odor problem needs to be considered separately from replacing the visible surface."
+      ]
+    },
+    {
+      "icon": "leaf",
+      "kicker": "County and community conditions",
+      "h2": "Leave the required landscape in place.",
+      "paras": [
+        "The Branan Field Corridor has residential landscape and tree requirements. Check the applicable boundary and conditions for your parcel; required planting does not become optional when a turf area is added. Work affecting protected trees can need an approved preservation plan.",
+        "Obtain the current instructions from the appropriate neighborhood association and check any CDD or shared-area conditions. The Oakleaf commercial area across the Duval line has a different jurisdiction, so use the exact work address rather than the area name alone."
+      ]
+    }
+  ],
+  "services": [
+    "pet-turf",
+    "residential-turf",
+    "putting-greens"
+  ],
+  "servicesNote": "Compare pet turf, a lawn or a compact green around the planting and drainage features that need to remain.",
+  "faq": [],
+  "nearby": [
+    "lakeside-fl",
+    "doctors-inlet-fl",
+    "middleburg-fl",
+    "jacksonville-fl"
+  ],
+  "sources": [
+    {
+      "label": "USDA NRCS Soil Data Access (survey area FL019)",
+      "url": "https://sdmdataaccess.sc.egov.usda.gov/"
+    },
+    {
+      "label": "Clay County Code of Ordinances, Ch. 18.5 (Municode)",
+      "url": "https://library.municode.com/fl/clay_county/codes/code_of_ordinances"
+    },
+    {
+      "label": "Double Branch CDD",
+      "url": "https://doublebranchcdd.com/"
+    },
+    {
+      "label": "Middle Village CDD",
+      "url": "https://middlevillagecdd.com/"
+    },
+    {
+      "label": "Clay County Utility Authority: Phase III water shortage restrictions",
+      "url": "https://clayutility.org/phase-iii-water-shortage-restrictions-now-in-effect/"
+    },
+    {
+      "label": "Clay County Utility Authority: conservation programs",
+      "url": "https://clayutility.org/community/conservation-programs/"
+    },
+    {
+      "label": "Eagle Landing at Oakleaf Plantation",
+      "url": "https://www.eaglelandingfl.com/"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

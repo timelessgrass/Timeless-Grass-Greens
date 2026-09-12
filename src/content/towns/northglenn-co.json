@@ -1,0 +1,76 @@
+{
+  "status": "published",
+  "market": "denver-metro",
+  "name": "Northglenn",
+  "state": "CO",
+  "county": "Adams",
+  "title": "Artificial Turf in Northglenn, CO | TIMELESS Grass & Greens",
+  "description": "A useful lawn or green in your Northglenn back yard. Work around mature trees, the patio and the route to the garage.",
+  "h1": "A useful lawn or green in your Northglenn back yard.",
+  "lede": "Work around mature trees, the patio and the route to the garage. We offer free visits for artificial lawns, pet areas and putting greens.",
+  "wins": [
+    "Keep the established landscape you value",
+    "Choose a defined pet or putting area",
+    "Price removal, preparation and finishing"
+  ],
+  "answer": {
+    "question": "What should I consider when replacing an older Northglenn lawn?",
+    "answer": "Show us tree roots, settled areas and any original irrigation you want to remove or retain. Keep walking routes and the patio in the plan. A lawn, pet area or short putting green can then be compared against the space and care routine you want."
+  },
+  "blocks": [
+    {
+      "icon": "home",
+      "kicker": "A compact established yard",
+      "h2": "Make the square yard do more than one job.",
+      "paras": [
+        "A pet area along the route from the door can be separate from seating or a small green. Leave clear walking space and planting that you want to keep. Under established trees, discuss roots and debris cleanup before deciding the turf boundary.",
+        "For putting, choose the distances that fit and where you will stand. Extra cups are not useful if they leave no comfortable route around the surface."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Costs and requirements",
+      "h2": "Use Northglenn’s information for your property.",
+      "paras": [
+        "Do not assume a nearby Thornton turf program applies to a Northglenn address. Confirm your provider and any incentive eligibility directly before including it in the budget.",
+        "Check the City and any applicable property requirements for the actual work. The absence of an association does not settle front-yard, grading or drainage questions. Ask for preparation and any unresolved site conditions to be stated in the estimate."
+      ]
+    }
+  ],
+  "services": [
+    "residential-turf",
+    "pet-turf",
+    "putting-greens"
+  ],
+  "servicesNote": "Compare a lawn, dog area or compact green with the landscape and access already in place.",
+  "faq": [],
+  "nearby": [
+    "thornton-co",
+    "westminster-co",
+    "commerce-city-co"
+  ],
+  "sources": [
+    {
+      "label": "Northglenn, Colorado (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Northglenn,_Colorado"
+    },
+    {
+      "label": "Colorado SB23-178, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf"
+    },
+    {
+      "label": "USDA Soil Data Access (SSURGO)",
+      "url": "https://sdmdataaccess.nrcs.usda.gov/"
+    },
+    {
+      "label": "City of Westminster: Standley Lake history",
+      "url": "https://www.westminsterco.gov/285/Standley-Lake-History"
+    },
+    {
+      "label": "Thornton Water: 2026 artificial turf rules for the water-wise landscape rebate (PDF)",
+      "url": "https://www.thorntonwater.com/wp-content/uploads/2026/02/2026-residential_artificial_turf_info__rules-1.pdf"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

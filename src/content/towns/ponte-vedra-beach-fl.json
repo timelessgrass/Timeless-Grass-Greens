@@ -1,0 +1,103 @@
+{
+  "status": "published",
+  "market": "northeast-florida",
+  "name": "Ponte Vedra Beach",
+  "state": "FL",
+  "county": "St. Johns",
+  "title": "Artificial Turf in Ponte Vedra Beach, FL | TIMELESS Grass & Greens",
+  "description": "A backyard putting green in Ponte Vedra Beach. Bring short-game practice home, with lawn and pet-turf options for the space around it.",
+  "h1": "A backyard putting green in Ponte Vedra Beach.",
+  "lede": "Bring short-game practice home, with lawn and pet-turf options for the space around it. Request a free visit, custom layout and written estimate.",
+  "wins": [
+    "Choose putting lines you want to practice",
+    "Keep lagoon, tree and access conditions in view",
+    "Plan the work for your property’s requirements"
+  ],
+  "answer": {
+    "question": "What should I decide before choosing a Ponte Vedra Beach putting green?",
+    "answer": "Choose the putts, chipping space and walking room you want, then identify the usable area around trees and water. Confirm any Ponte Vedra zoning-district requirements and your community’s architectural-review process before finalizing the footprint."
+  },
+  "blocks": [
+    {
+      "icon": "flag",
+      "kicker": "Practice between rounds",
+      "h2": "Build around the shots you want to repeat.",
+      "paras": [
+        "A few useful putting lines close to the house can make regular practice easy. Discuss contours, cups and fringe after choosing the distances that matter to you. Select the roll and breaks for the practice you want to repeat.",
+        "On a golf- or lagoon-facing lot, keep the property boundary, water setback and walking access in the plan. A lawn or pet area can remain separate from the putting surface."
+      ]
+    },
+    {
+      "icon": "file",
+      "kicker": "Boulevard and community properties",
+      "h2": "Check the zoning district and private requirements.",
+      "paras": [
+        "The Ponte Vedra Boulevard corridor includes properties within the county’s Ponte Vedra Zoning District, with its own yard and open-space rules. Confirm the parcel and intended work with county planning before using a general county limit to size the project.",
+        "In Sawgrass, Marsh Landing or The Plantation, obtain the current architectural instructions as well. Private review does not replace applicable public requirements. Bring the written conditions, tree information and any drainage concerns to the estimate."
+      ]
+    }
+  ],
+  "services": [
+    "putting-greens",
+    "residential-turf",
+    "pet-turf"
+  ],
+  "servicesNote": "Compare a practice green, lawn or pet area with the actual property and intended use.",
+  "faq": [],
+  "nearby": [
+    "palm-valley-fl",
+    "sawgrass-fl",
+    "jacksonville-beach-fl",
+    "neptune-beach-fl"
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia: TPC at Sawgrass",
+      "url": "https://en.wikipedia.org/wiki/TPC_at_Sawgrass"
+    },
+    {
+      "label": "Wikipedia: Sawgrass Country Club",
+      "url": "https://en.wikipedia.org/wiki/Sawgrass_Country_Club"
+    },
+    {
+      "label": "Wikipedia: Ponte Vedra Beach, Florida",
+      "url": "https://en.wikipedia.org/wiki/Ponte_Vedra_Beach,_Florida"
+    },
+    {
+      "label": "Ponte Vedra Zoning District Regulations (Ordinance 2020-38)",
+      "url": "https://www.sjcfl.us/wp-content/uploads/2023/08/pvzdr-code-update-jan25.withtitlepage.pdf"
+    },
+    {
+      "label": "St. Johns County: planning and zoning boards and agencies",
+      "url": "https://www.sjcfl.us/planning-and-zoning-boards-and-agencies-2/"
+    },
+    {
+      "label": "St. Johns County: Phase III Extreme Water Shortage declaration, May 2026",
+      "url": "https://www.sjcfl.us/phase-iii-extreme-water-shortage-declaration-may-2026/"
+    },
+    {
+      "label": "St. Johns County: Protect Our Water (reclaimed water)",
+      "url": "https://www.sjcfl.us/protect-our-water/"
+    },
+    {
+      "label": "St. Johns County Land Development Code (edition of 4 March 2025)",
+      "url": "https://www.sjcfl.us/wp-content/uploads/2024/01/entire-ldc-march-4-2025.pdf"
+    },
+    {
+      "label": "Fla. Stat. 125.572: regulation of synthetic turf",
+      "url": "https://www.flsenate.gov/Laws/Statutes/2025/0125.572"
+    },
+    {
+      "label": "Florida DEP: Synthetic Turf FAQ",
+      "url": "https://floridadep.gov/sites/default/files/SyntheticTurfFAQ%20final.pdf"
+    },
+    {
+      "label": "Fla. Stat. 720.3045: items not visible from the frontage, including artificial turf",
+      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0700-0799/0720/Sections/0720.3045.html"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": [
+    "https://www.sjcfl.us/wp-content/uploads/2023/08/pvzdr-code-update-jan25.withtitlepage.pdf"
+  ]
+}

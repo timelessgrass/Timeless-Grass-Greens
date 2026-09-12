@@ -1,0 +1,85 @@
+{
+  "status": "published",
+  "market": "denver-metro",
+  "name": "Commerce City",
+  "state": "CO",
+  "county": "Adams",
+  "title": "Artificial Turf in Commerce City, CO | TIMELESS Grass & Greens",
+  "description": "Pet areas, lawns and sports turf in Commerce City. Replace a worn yard or plan a surface for training.",
+  "h1": "Pet areas, lawns and sports turf in Commerce City.",
+  "lede": "Replace a worn yard or plan a surface for training. We’ll discuss the intended use, site conditions and written installation scope during a free visit.",
+  "wins": [
+    "Define the space around its daily use",
+    "Include care and access in the plan",
+    "Compare the proposed turf and preparation"
+  ],
+  "answer": {
+    "question": "What should a Commerce City pet-turf estimate include?",
+    "answer": "Show us the route from the door, the dog’s usual area and access for cleaning. Point out low spots or uneven ground. The estimate should describe removal, preparation and finishing as well as the selected turf, without assuming that a surface change alone resolves drainage."
+  },
+  "blocks": [
+    {
+      "icon": "paw",
+      "kicker": "Backyard routines",
+      "h2": "Start with the dog’s path.",
+      "paras": [
+        "A dedicated pet area can leave room for seating or a general lawn. Put cleanup access and a water source in the plan, and discuss the proposed product’s care requirements before choosing it.",
+        "In a newer community such as Reunion or Buffalo Run, bring the current association requirements. On an older property, show us the actual access and existing landscape rather than assuming the whole lot is ready for new surfacing."
+      ]
+    },
+    {
+      "icon": "trophy",
+      "kicker": "Training and play",
+      "h2": "A sports area needs its own scope.",
+      "paras": [
+        "Describe the sport, traffic, equipment and maintenance routine before selecting a system. Include the required product documentation and any operational access during installation. The same turf is not automatically suitable for every field or activity.",
+        "Check the applicable City and state landscape requirements for the intended project, particularly on shared or commercial property. A decorative area and a surface used for sport raise different planning questions."
+      ]
+    }
+  ],
+  "services": [
+    "pet-turf",
+    "residential-turf",
+    "sports-field-turf"
+  ],
+  "servicesNote": "Compare a pet area or lawn for the home, or discuss a sports surface with its own use and maintenance requirements.",
+  "faq": [],
+  "nearby": [
+    "denver-co",
+    "thornton-co",
+    "brighton-co",
+    "aurora-co"
+  ],
+  "sources": [
+    {
+      "label": "USDA Soil Data Access (SSURGO)",
+      "url": "https://sdmdataaccess.nrcs.usda.gov/"
+    },
+    {
+      "label": "Commerce City, Colorado (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Commerce_City,_Colorado"
+    },
+    {
+      "label": "Colorado SB23-178, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf"
+    },
+    {
+      "label": "Buffalo Run Golf Course",
+      "url": "https://www.buffalorungolfcourse.com/"
+    },
+    {
+      "label": "DICK'S Sporting Goods Park",
+      "url": "https://www.dickssportinggoodspark.com/"
+    },
+    {
+      "label": "Colorado HB25-1113, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2025a_1113_signed.pdf"
+    },
+    {
+      "label": "City of Commerce City: water service",
+      "url": "https://www.c3gov.com/Residents/Water-Service"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

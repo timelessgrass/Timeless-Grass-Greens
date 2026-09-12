@@ -1,0 +1,88 @@
+{
+  "status": "published",
+  "market": "northeast-florida",
+  "name": "Mill Creek",
+  "state": "FL",
+  "county": "St. Johns",
+  "title": "Artificial Turf in Mill Creek, FL | TIMELESS Grass & Greens",
+  "description": "Backyard practice areas and lawns around Mill Creek. Plan a sports surface, pet area or lawn along the SR 16 and Pacetti Road corridor.",
+  "h1": "Backyard practice areas and lawns around Mill Creek.",
+  "lede": "Plan a sports surface, pet area or lawn along the SR 16 and Pacetti Road corridor. Start with a free visit to discuss use, access and installation scope.",
+  "wins": [
+    "Define the practice activity and equipment",
+    "Plan a new yard alongside future landscaping",
+    "Keep rural property systems and access clear"
+  ],
+  "answer": {
+    "question": "What should I plan for a backyard training area near Mill Creek?",
+    "answer": "Bring the activity, equipment layout and available dimensions. Include standing space, access and how the surface will be maintained. A cage, bullpen or training strip needs its own system and scope, with applicable property requirements confirmed before installation."
+  },
+  "blocks": [
+    {
+      "icon": "trophy",
+      "kicker": "Practice near home",
+      "h2": "Start with the movements and equipment.",
+      "paras": [
+        "Describe how the training space will be used and where equipment will sit. The turf, edges and surrounding access should fit that activity. Ask for relevant product information and maintenance requirements rather than assuming any lawn turf will serve a sports use.",
+        "A practice surface does not promise use immediately after every storm. Bring known drainage issues to the estimate so they can be considered separately."
+      ]
+    },
+    {
+      "icon": "home",
+      "kicker": "New subdivisions and rural lots",
+      "h2": "Two different starting points for the landscape.",
+      "paras": [
+        "In a new SilverLeaf or TrailMark yard, include future beds, shade and remaining contractor access before finishing the surface. Obtain current community requirements and retain existing drainage routes.",
+        "On rural acreage, mark septic, utilities, trees and access to outbuildings. Mill Creek is a corridor name rather than a separate municipality; confirm the exact address and county requirements. For larger projects, turf should not be assumed to replace planting required by the approved landscape plan."
+      ]
+    }
+  ],
+  "services": [
+    "sports-field-turf",
+    "residential-turf",
+    "pet-turf"
+  ],
+  "servicesNote": "Compare sports practice turf, a lawn or pet area with the actual use and property plan.",
+  "faq": [],
+  "nearby": [
+    "world-golf-village-fl",
+    "st-augustine-fl",
+    "st-johns-fl"
+  ],
+  "sources": [
+    {
+      "label": "St. Johns County: Mill Creek Park ribbon cutting",
+      "url": "https://www.sjcfl.us/sjc-hosting-ribbon-cutting-mill-creek-park/"
+    },
+    {
+      "label": "Wikipedia: Tocoi Creek High School",
+      "url": "https://en.wikipedia.org/wiki/Tocoi_Creek_High_School"
+    },
+    {
+      "label": "St. Johns County Land Development Code, Article VI (Table 6.01; Sec. 6.06.02)",
+      "url": "https://www.sjcfl.us/wp-content/uploads/2024/01/article-vi.pdf"
+    },
+    {
+      "label": "Mill Creek Academy: about the school",
+      "url": "https://www-mca.stjohns.k12.fl.us/about/"
+    },
+    {
+      "label": "USDA NRCS Soil Data Access (SSURGO): drainage class and depth to water table, St. Johns County",
+      "url": "https://sdmdataaccess.nrcs.usda.gov/"
+    },
+    {
+      "label": "Bartram Scenic Highway: archaeological sites",
+      "url": "https://bartramscenichighway.com/experiences/archaeological/archaeological-sites/"
+    },
+    {
+      "label": "St. Johns County: reclaimed water",
+      "url": "https://www.sjcfl.us/reclaimed-water/"
+    },
+    {
+      "label": "St. Johns County: Phase III extreme water shortage declaration (May 2026)",
+      "url": "https://www.sjcfl.us/phase-iii-extreme-water-shortage-declaration-may-2026/"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

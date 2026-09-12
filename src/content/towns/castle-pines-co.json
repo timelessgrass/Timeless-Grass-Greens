@@ -1,0 +1,111 @@
+{
+  "status": "published",
+  "market": "denver-metro",
+  "name": "Castle Pines",
+  "state": "CO",
+  "county": "Douglas",
+  "title": "Artificial Turf in Castle Pines, CO | TIMELESS Grass & Greens",
+  "description": "Castle Pines putting, without leaving the back yard. Plan a practice green among the parts of your wooded yard you want to keep.",
+  "h1": "Castle Pines putting, without leaving the back yard.",
+  "lede": "Plan a practice green among the parts of your wooded yard you want to keep. We also install lawns and pet areas, with free visits and written estimates.",
+  "wins": [
+    "Choose the putts and chipping space you want",
+    "Plan around slopes and established trees",
+    "Compare turf options with a written scope"
+  ],
+  "answer": {
+    "question": "What matters when placing a putting green in Castle Pines?",
+    "answer": "Look at the available grade, tree roots, access and intended putting lines together. Decide what you want to practice and what landscape will remain. Bring the requirements for your particular community; the City of Castle Pines and the Village at Castle Pines are separate jurisdictions."
+  },
+  "blocks": [
+    {
+      "icon": "flag",
+      "kicker": "Your practice routine",
+      "h2": "Fit the green to the yard and the shots.",
+      "paras": [
+        "Choose the direction and length of your putts, then discuss cups, contours and fringe. On a wooded or sloping property, a smaller accessible green may be more useful than one that requires major changes to the setting.",
+        "Plan for needles and leaves to be cleared, and identify trees or roots that could constrain preparation. Shade can affect how the area is used, but it does not remove the need for regular care."
+      ]
+    },
+    {
+      "icon": "shield",
+      "kicker": "City or Village",
+      "h2": "Use the requirements for the right property.",
+      "paras": [
+        "The City of Castle Pines and the Village at Castle Pines have different districts and property requirements. Give the exact address and association name when checking the proposed landscape change. Obtain written conditions before finalizing the layout.",
+        "Discuss grading, drainage and work near the home as well as the turf surface. If the property has wildfire-related landscape guidance, check material placement with the responsible local team rather than assuming synthetic turf satisfies it."
+      ]
+    }
+  ],
+  "services": [
+    "putting-greens",
+    "residential-turf",
+    "pet-turf"
+  ],
+  "servicesNote": "Compare a practice green, lawn or pet area that leaves the surrounding landscape in use.",
+  "faq": [],
+  "nearby": [
+    "castle-rock-co",
+    "lone-tree-co",
+    "highlands-ranch-co"
+  ],
+  "sources": [
+    {
+      "label": "The Ridge at Castle Pines North",
+      "url": "https://www.playtheridge.com/"
+    },
+    {
+      "label": "Wikipedia: Castle Pines Golf Club",
+      "url": "https://en.wikipedia.org/wiki/Castle_Pines_Golf_Club"
+    },
+    {
+      "label": "Wikipedia: Castle Pines, Colorado",
+      "url": "https://en.wikipedia.org/wiki/Castle_Pines,_Colorado"
+    },
+    {
+      "label": "Castle Pines North Metropolitan District: 2026 watering schedule",
+      "url": "https://cpnmd.specialdistrict.org/2026-watering-schedule"
+    },
+    {
+      "label": "Castle Pines North Metropolitan District: conservation rebates and discounts",
+      "url": "https://cpnmd.specialdistrict.org/conservation-rebates-discounts"
+    },
+    {
+      "label": "Castle Pines Village Metropolitan District: water",
+      "url": "https://www.cpvmetroco.gov/water"
+    },
+    {
+      "label": "Castle Pines Village Metropolitan District: water rates",
+      "url": "https://www.cpvmetroco.gov/water-rates"
+    },
+    {
+      "label": "Colorado SB23-178, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf"
+    },
+    {
+      "label": "The Village at Castle Pines: design committee",
+      "url": "https://thevillagecastlepines.com/living-in-the-village/design-review/"
+    },
+    {
+      "label": "Colorado General Assembly: SB24-005",
+      "url": "https://leg.colorado.gov/bills/sb24-005"
+    },
+    {
+      "label": "Colorado Geological Survey: expansive soil",
+      "url": "https://coloradogeologicalsurvey.org/hazards/expansive-soil/"
+    },
+    {
+      "label": "Colorado Geological Survey: heaving bedrock",
+      "url": "https://coloradogeologicalsurvey.org/hazards/heaving-bedrock/"
+    },
+    {
+      "label": "City of Castle Pines: wildfire mitigation",
+      "url": "https://www.castlepinesco.gov/wildfiremitigation/"
+    }
+  ],
+  "checked": "2026-09-07",
+  "foldedFrom": [
+    "castle-pines-village-co"
+  ],
+  "publicReferences": []
+}

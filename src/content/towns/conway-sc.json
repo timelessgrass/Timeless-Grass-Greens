@@ -1,0 +1,78 @@
+{
+  "status": "published",
+  "market": "grand-strand",
+  "name": "Conway",
+  "state": "SC",
+  "county": "Horry",
+  "title": "Artificial Turf in Conway, SC | TIMELESS Grass & Greens",
+  "description": "Artificial lawns, dog runs and putting greens in Conway. Tell us which part of your yard you want to change.",
+  "h1": "Artificial lawns, dog runs and putting greens in Conway.",
+  "lede": "Tell us which part of your yard you want to change. We’ll visit, discuss the layout and preparation, and provide a written estimate.",
+  "wins": [
+    "Start with one useful area or the whole lawn",
+    "Include access and preparation in the scope",
+    "Compare options during a free site visit"
+  ],
+  "answer": {
+    "question": "Can I price a smaller turf project in Conway before changing the whole yard?",
+    "answer": "Yes. A dog run, putting green or defined lawn area can be priced as its own project. Show us the intended space and access route, plus any wet areas. The written estimate lets you compare the work before committing to a larger conversion."
+  },
+  "blocks": [
+    {
+      "icon": "layout",
+      "kicker": "Choose the area",
+      "h2": "Keep what works and change the difficult patch.",
+      "paras": [
+        "A dog’s route from the back door, a worn patch beside the patio or the space for a practice green can be a better starting point than the entire yard. Mark the beds, trees and paths you want to retain. For putting, decide which distances and directions you want to practice.",
+        "Gates, steps and material access affect installation as well as the finished turf area. Bring any survey or site plan and include the route to the back yard in the visit."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Wet-yard questions",
+      "h2": "Bring photos from after the rain.",
+      "paras": [
+        "If water collects beside the house or comes across from another property, show us where and when it happens. Rain photos can explain something a dry-day visit misses. Ask for any drainage work and unresolved conditions to be identified in the estimate.",
+        "Check whether the parcel is inside Conway or in unincorporated Horry County before asking about requirements. If the property has floodplain concerns, grading or drainage changes need their own review; turf is a surface choice, not a flood-control solution."
+      ]
+    }
+  ],
+  "services": [
+    "residential-turf",
+    "pet-turf",
+    "putting-greens"
+  ],
+  "servicesNote": "Compare a lawn, a dog run and a putting green against the part of the property you want to improve.",
+  "faq": [],
+  "nearby": [
+    "carolina-forest-sc",
+    "forestbrook-sc",
+    "nixonville-sc",
+    "myrtle-beach-sc"
+  ],
+  "sources": [
+    {
+      "label": "City of Conway: GIS and city-limit, zoning and flood maps",
+      "url": "https://www.conwaysc.gov/departments/planning___development/conway_gis.php"
+    },
+    {
+      "label": "City of Conway: Planning and Development",
+      "url": "https://www.conwaysc.gov/departments/planning___development/index.php"
+    },
+    {
+      "label": "City of Conway: Construction Services",
+      "url": "https://www.conwaysc.gov/departments/building/index.php"
+    },
+    {
+      "label": "City of Conway: Floodplain Information",
+      "url": "https://www.conwaysc.gov/departments/building/flood_plain_information1.php"
+    },
+    {
+      "label": "Horry County: Planning and Zoning",
+      "url": "https://www.horrycountysc.gov/Departments/Planning-and-Zoning"
+    }
+  ],
+  "checked": "2026-09-11",
+  "placeType": "City",
+  "publicReferences": []
+}

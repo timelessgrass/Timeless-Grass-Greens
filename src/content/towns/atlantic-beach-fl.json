@@ -1,0 +1,94 @@
+{
+  "status": "published",
+  "market": "northeast-florida",
+  "name": "Atlantic Beach",
+  "state": "FL",
+  "county": "Duval",
+  "title": "Artificial Turf in Atlantic Beach, FL | TIMELESS Grass & Greens",
+  "description": "A lawn or putting green for your Atlantic Beach yard. Request a free site visit and written estimate.",
+  "h1": "A lawn or putting green for your Atlantic Beach yard.",
+  "lede": "Compare turf options for a lawn, pet area or practice green, with trees and installation requirements considered early. Start with a free visit and written price.",
+  "wins": [
+    "Keep mature trees and planting in the layout",
+    "Plan preparation before covering the base",
+    "Choose the area for the way you will use it"
+  ],
+  "answer": {
+    "question": "What should I check before turf installation in Atlantic Beach?",
+    "answer": "The City publishes turf-installation guidance covering product information, base preparation, trees and inspection. Ask which requirements apply to your property and proposed system, including lot coverage. Plan any required inspection before the turf covers the base."
+  },
+  "blocks": [
+    {
+      "icon": "flag",
+      "kicker": "A yard you will use",
+      "h2": "Choose putting lines, pet access or everyday lawn space.",
+      "paras": [
+        "In an established Atlantic Beach yard, keep the patio routes and mature trees in the plan. A green near the house can be designed around useful putts and walking room. A pet area needs cleaning access and a routine as well as a finished edge."
+      ]
+    },
+    {
+      "icon": "file",
+      "kicker": "Installation requirements",
+      "h2": "Do not bury a base that still needs inspection.",
+      "paras": [
+        "Atlantic Beach’s published guidance calls for product and permeability documentation, installation details and inspection of the exposed base. Confirm the currently applicable requirements with the City before materials are ordered or work is covered.",
+        "Its guidance also addresses work around trees, the public right-of-way and preserving drainage. Identify those features on the property plan. Ask how the proposed complete system counts toward lot coverage, particularly when other hard surfaces already use much of the lot."
+      ]
+    }
+  ],
+  "services": [
+    "residential-turf",
+    "putting-greens",
+    "pet-turf"
+  ],
+  "servicesNote": "Compare a lawn, pet area or green with the proposed system and required installation steps clearly identified.",
+  "faq": [],
+  "nearby": [
+    "neptune-beach-fl",
+    "jacksonville-beach-fl",
+    "jacksonville-fl",
+    "ponte-vedra-beach-fl"
+  ],
+  "sources": [
+    {
+      "label": "City of Atlantic Beach: Artificial Turf Installation Guidelines",
+      "url": "https://coab.us/DocumentCenter/View/15920/Turf-Installation-Guidelines"
+    },
+    {
+      "label": "News4Jax: Atlantic Beach adopts ordinance restricting add-ons (Ord. 90-19-238, 2019)",
+      "url": "https://www.news4jax.com/news/2019/02/27/atlantic-beach-adopts-ordinance-that-will-restrict-add-ons-for-some-homes/"
+    },
+    {
+      "label": "Atlantic Beach Code Sec. 24-17 and Sec. 24-89(c)(1)",
+      "url": "https://library.municode.com/fl/atlantic_beach/codes/code_of_ordinances?nodeId=PTIICOOR_CH24LADERE_ARTIILADE_S24-17DE"
+    },
+    {
+      "label": "Beaches Leader: Atlantic Beach tightens building limits",
+      "url": "https://www.beachesleader.com/news/atlantic-beach-tightens-building-limits"
+    },
+    {
+      "label": "Fla. Stat. 125.572: regulation of synthetic turf",
+      "url": "https://www.flsenate.gov/Laws/Statutes/2025/0125.572"
+    },
+    {
+      "label": "Golf Digest: Atlantic Beach Country Club",
+      "url": "https://www.golfdigest.com/courses/fl/atlantic-beach-country-club-atlantic-beach"
+    },
+    {
+      "label": "Neighborhoods.com: Selva Marina, Atlantic Beach",
+      "url": "https://www.neighborhoods.com/selva-marina-atlantic-beach-fl"
+    },
+    {
+      "label": "City of Atlantic Beach: Public Utilities Department",
+      "url": "https://www.coab.us/14/Public-Utilities-Department"
+    },
+    {
+      "label": "St. Johns River Water Management District: watering restrictions",
+      "url": "https://www.sjrwmd.com/wateringrestrictions/"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": [
+    "https://coab.us/DocumentCenter/View/15920/Turf-Installation-Guidelines"
+  ]
+}

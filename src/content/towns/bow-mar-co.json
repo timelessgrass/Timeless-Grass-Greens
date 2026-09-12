@@ -1,0 +1,96 @@
+{
+  "status": "published",
+  "market": "denver-metro",
+  "name": "Bow Mar",
+  "state": "CO",
+  "county": "Arapahoe",
+  "title": "Artificial Turf in Bow Mar, CO | TIMELESS Grass & Greens",
+  "description": "A lawn or putting green for your Bow Mar property. Make room for outdoor use while keeping the trees, views and paths you value.",
+  "h1": "A lawn or putting green for your Bow Mar property.",
+  "lede": "Make room for outdoor use while keeping the trees, views and paths you value. Request a free visit to discuss the layout and installation price.",
+  "wins": [
+    "Plan the green around useful putting lines",
+    "Keep trees and surrounding landscape in view",
+    "Identify preparation before approving the scope"
+  ],
+  "answer": {
+    "question": "What should a Bow Mar turf layout take into account?",
+    "answer": "Include the intended turf use, existing trees, views and changes in grade. Ask the Town’s design review board and the relevant association which requirements apply before finalizing the layout. Bring their responses to the estimate, especially where preparation may alter drainage."
+  },
+  "blocks": [
+    {
+      "icon": "flag",
+      "kicker": "Room to practice",
+      "h2": "An open acre does not have to become one large lawn.",
+      "paras": [
+        "Choose the part you want for a green, pet use or everyday lawn. For putting, start with the distances you want to practice and the route from the house. A well-placed green can leave most of the surrounding landscape intact."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "The setting matters",
+      "h2": "Plan the grade and the view together.",
+      "paras": [
+        "On a property sloping toward the lakes, point out existing water routes and neighboring boundaries. Changes in level belong in the preparation discussion, with any required drainage advice resolved separately from turf selection.",
+        "Ask the Town’s design review board and your association what they require for the proposed work. Describe excavation and landscape changes as well as the visible surface. We can consider written conditions when discussing the layout; the estimate does not replace those reviews."
+      ]
+    }
+  ],
+  "services": [
+    "putting-greens",
+    "residential-turf",
+    "pet-turf"
+  ],
+  "servicesNote": "Compare a practice green, lawn area or pet zone with the existing landscape and access.",
+  "faq": [],
+  "nearby": [
+    "denver-co",
+    "littleton-co",
+    "columbine-valley-co",
+    "lakewood-co"
+  ],
+  "sources": [
+    {
+      "label": "Town of Bow Mar: ordinances and policies",
+      "url": "https://www.townofbowmar.org/ordinances-and-policies"
+    },
+    {
+      "label": "Town of Bow Mar: design board guidelines, 24 June 2019",
+      "url": "https://townofbowmar.specialdistrict.org/files/4b8a7686a/Design+Review+Board+6.24.19+revised+guidelines+FINAL.pdf"
+    },
+    {
+      "label": "Bow Mar: Amended and Restated Declaration of Covenants",
+      "url": "https://www.townofbowmar.org/files/2e0f44ef5/Amended+and+Restated+Declaration+of+Covenants.pdf"
+    },
+    {
+      "label": "Town of Bow Mar: Bow Mar Water and Sanitation District",
+      "url": "https://www.townofbowmar.org/bow-mar-water-sanitation-district"
+    },
+    {
+      "label": "Denver Water: distributors and master meters",
+      "url": "https://www.denverwater.org/about-us/how-we-operate/service-area/distributors"
+    },
+    {
+      "label": "Denver Water: summer watering rules",
+      "url": "https://www.denverwater.org/residential/rebates-and-conservation-tips/summer-watering-rules"
+    },
+    {
+      "label": "Denver Water: turfgrass removal",
+      "url": "https://www.denverwater.org/residential/rebates-and-conservation-tips/remodel-your-yard/turfgrass-removal"
+    },
+    {
+      "label": "Colorado Water Conservation Board: turf replacement program",
+      "url": "https://cwcb.colorado.gov/turf-replacement-program"
+    },
+    {
+      "label": "USDA Soil Data Access (SSURGO): Renohill-Buick loams, 3 to 9 percent slopes",
+      "url": "https://sdmdataaccess.sc.egov.usda.gov/"
+    },
+    {
+      "label": "Wikipedia: Bow Mar, Colorado",
+      "url": "https://en.wikipedia.org/wiki/Bow_Mar,_Colorado"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

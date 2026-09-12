@@ -1,0 +1,120 @@
+{
+  "status": "published",
+  "market": "denver-metro",
+  "service": "putting-greens",
+  "title": "Putting Greens in the Denver Metro | TIMELESS Grass & Greens",
+  "description": "Backyard putting greens across the Denver metro. Choose cup positions, slopes and fringe with a free site visit, custom layout and written estimate.",
+  "h1": "Make room for your short game in Denver.",
+  "lede": "A few putts before work or a longer practice session at home. Timeless designs and installs backyard putting greens from Boulder to Castle Rock, with the shape, cup positions and written price agreed before work starts.",
+  "wins": [
+    "Choose the putts you want to practice",
+    "Fit the green around the rest of the yard",
+    "Review the layout and price before installation"
+  ],
+  "answer": {
+    "question": "What goes into planning a backyard putting green?",
+    "answer": "Begin with the available space and the shots you want to practice. Cup positions, slopes, fringe and any chipping area shape the layout. The site visit also covers installation access and ground conditions so the written estimate includes the preparation needed for that design."
+  },
+  "blocks": [
+    {
+      "icon": "flag",
+      "kicker": "Your practice",
+      "h2": "Choose useful putts before adding size.",
+      "paras": [
+        "Think about how you practice now: short putts around a cup, longer lines across the green or chips from the edge. Discuss where you would stand and how the cup positions could offer different putts within the available space.",
+        "Keep space for the patio, a walking route and other yard activities. If you want to chip, include the approach area and the direction of play in the first drawing. Product choice and the available space need to suit those shots."
+      ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "The installation",
+      "h2": "The shape starts underneath the turf.",
+      "paras": [
+        "The base establishes the contours. Putting turf, infill and brushing also affect the finished roll, so describe the speed and breaks you enjoy before selecting the system. Ask how those choices will affect routine care.",
+        "Point out settling, uneven ground and water that gathers in the proposed area. We review the work site before agreeing the preparation. The ground conditions found at the property guide the base work and any drainage changes included in the scope."
+      ]
+    },
+    {
+      "icon": "home",
+      "kicker": "Property requirements",
+      "h2": "Bring the landscape guidelines to the visit.",
+      "paras": [
+        "A green may be a different proposal from the artificial lawn described in a community’s guidelines. Ask the association, municipality or district which design requirements apply to your address and intended layout, including its location in the yard.",
+        "For a newer Castle Rock property or a Ken-Caryl community, resolve any questions about the proposed green before ordering materials. The local pages for <a href=\"/denver-metro/castle-rock-co/\">Castle Rock</a> and <a href=\"/denver-metro/ken-caryl-co/\">Ken Caryl</a> help identify the relevant planning questions. Confirm how the proposed green fits the requirements for that property."
+      ]
+    },
+    {
+      "icon": "ruler",
+      "kicker": "Your estimate",
+      "h2": "Price the contours, access and finishing together.",
+      "paras": [
+        "Removal, access through gates, base work, cups, fringe and any chipping area all affect the installation scope. On the free visit, we measure and discuss what fits; you receive a custom layout and written price to consider before work begins.",
+        "After installation, keep leaves and debris off the surface and follow the selected system’s brushing and infill guidance. Ask about changes in roll, seams or edges as they arise. See the main <a href=\"/services/putting-greens/\">putting-green service</a> for the available choices."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Can a small yard have a putting green?",
+      "a": "A compact green may fit, depending on access, the remaining yard and the putts you want to practice. Bring a sketch of the usable space to the visit."
+    },
+    {
+      "q": "Can I choose the speed?",
+      "a": "Discuss your preferred roll during design. Turf, shaping, infill and brushing work together, and the selected system has its own adjustment and maintenance limits."
+    },
+    {
+      "q": "Can I use it all winter?",
+      "a": "Use depends on surface and weather conditions. Follow the product’s care guidance, including how to handle snow or ice, and avoid treating the green as usable in every condition."
+    }
+  ],
+  "towns": [
+    "castle-rock-co",
+    "ken-caryl-co",
+    "castle-pines-co",
+    "lone-tree-co",
+    "cherry-hills-village-co",
+    "greenwood-village-co",
+    "golden-co",
+    "boulder-co"
+  ],
+  "sources": [
+    {
+      "label": "Colorado HB25-1113, signed act (2025)",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2025a_1113_signed.pdf"
+    },
+    {
+      "label": "City of Boulder: water-wise landscape manual",
+      "url": "https://bouldercolorado.gov/landscape-manual"
+    },
+    {
+      "label": "C.R.S. 37-60-126, current text",
+      "url": "https://codes.findlaw.com/co/title-37-water-and-irrigation/co-rev-st-sect-37-60-126/"
+    },
+    {
+      "label": "Colorado SB23-178, signed act (2023)",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf"
+    },
+    {
+      "label": "Town of Castle Rock: landscape design for homeowners (Ordinance 2022-025)",
+      "url": "https://www.crgov.com/3902/Landscape-Design-for-Homeowners"
+    },
+    {
+      "label": "Ken-Caryl Ranch Master Association: exterior improvements",
+      "url": "https://ken-carylranch.org/community/exterior-improvements/"
+    },
+    {
+      "label": "Colorado Geological Survey: expansive soil and rock",
+      "url": "https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/"
+    },
+    {
+      "label": "City of Boulder: Flatirons Golf Course",
+      "url": "https://bouldercolorado.gov/flatirons-golf-course/golf-course"
+    },
+    {
+      "label": "Denver Water: summer watering rules",
+      "url": "https://www.denverwater.org/residential/rebates-and-conservation-tips/summer-watering-rules"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

@@ -1,0 +1,87 @@
+{
+  "status": "published",
+  "market": "northeast-florida",
+  "name": "St. Augustine Beach",
+  "state": "FL",
+  "county": "St. Johns",
+  "title": "Artificial Turf in St. Augustine Beach, FL | TIMELESS Grass & Greens",
+  "description": "A lawn or putting green for your St. Augustine Beach home. Plan a compact lawn, pet area or green with its layout and care clearly defined.",
+  "h1": "A lawn or putting green for your St. Augustine Beach home.",
+  "lede": "Plan a compact lawn, pet area or green with its layout and care clearly defined. Start with a free visit and written estimate.",
+  "wins": [
+    "Keep narrow-yard access available",
+    "Check lot coverage before sizing the surface",
+    "Plan upkeep for a home or rental"
+  ],
+  "answer": {
+    "question": "How does lot coverage affect turf in St. Augustine Beach?",
+    "answer": "The City’s published low-density residential limit is 40% impervious coverage. Confirm the classification of the proposed turf and base with the City before assuming it leaves that allowance unchanged. Include other surfaces and any proposed pool or patio work in the same conversation."
+  },
+  "blocks": [
+    {
+      "icon": "layout",
+      "kicker": "A compact beach yard",
+      "h2": "Keep the route from the door useful.",
+      "paras": [
+        "On a narrow lot, choose the area for everyday lawn use, pets or a simple putting line before adding features. Leave room to stand, walk and reach services. The finished edges against paths, beds and fencing should be clear in the estimate.",
+        "For a rental or part-time home, plan who handles debris removal and pet cleanup. Full-sun areas can become hot, so consider when the space will be used and access to shade."
+      ]
+    },
+    {
+      "icon": "file",
+      "kicker": "City requirements",
+      "h2": "Check coverage and trees together.",
+      "paras": [
+        "St. Augustine Beach is a separate city from St. Augustine and has its own coverage and tree requirements. Its published code sets a 40% impervious limit for low-density residential property, but the wording does not alone establish how every synthetic-turf system is classified. Obtain the City’s answer for your proposal.",
+        "The City also requires review for tree removal. Keep existing trees in the layout and resolve any applicable root or drip-line requirements before preparation. Bring the City and community conditions to the visit before the footprint is finalized."
+      ]
+    }
+  ],
+  "services": [
+    "residential-turf",
+    "pet-turf",
+    "putting-greens"
+  ],
+  "servicesNote": "Compare a lawn, pet area or compact green with the usable space and property requirements.",
+  "faq": [],
+  "nearby": [
+    "anastasia-island-fl",
+    "butler-beach-fl",
+    "st-augustine-fl",
+    "st-augustine-shores-fl"
+  ],
+  "sources": [
+    {
+      "label": "St. Augustine Beach code, via Zoneomics (Article VI: impervious surface ratios)",
+      "url": "https://www.zoneomics.com/code/st-augustine-beach-FL/chapter_6"
+    },
+    {
+      "label": "St. Augustine Beach Code Sec. 15-17 (impervious area definition)",
+      "url": "https://library.municode.com/fl/st._augustine_beach/codes/code_of_ordinances?nodeId=PTIICOOR_CH15PLDE_ARTIICOSTMASYPROULI_S15-17DE"
+    },
+    {
+      "label": "Wikipedia: St. Augustine Beach, Florida",
+      "url": "https://en.wikipedia.org/wiki/St._Augustine_Beach,_Florida"
+    },
+    {
+      "label": "Fla. Stat. 720.3045 (2025)",
+      "url": "https://www.flsenate.gov/Laws/Statutes/2025/720.3045"
+    },
+    {
+      "label": "St. Johns County: Anastasia Sanitary District",
+      "url": "http://www.co.st-johns.fl.us/SpecialDistricts/Anastasia.aspx"
+    },
+    {
+      "label": "St. Johns County: Phase III extreme water shortage declaration (May 2026)",
+      "url": "https://www.sjcfl.us/phase-iii-extreme-water-shortage-declaration-may-2026/"
+    },
+    {
+      "label": "St. Johns River Water Management District: watering restrictions",
+      "url": "https://www.sjrwmd.com/wateringrestrictions/"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": [
+    "https://library.municode.com/fl/st._augustine_beach/codes/code_of_ordinances?nodeId=PTIICOOR_CH15PLDE_ARTIICOSTMASYPROULI_S15-17DE"
+  ]
+}

@@ -41,14 +41,15 @@ td.addRule('hidden', {
 td.addRule('line', { filter: (n) => n.nodeName === 'SPAN' && /\bline\b/.test(cls(n)), replacement: (c) => `${c} ` });
 // photographs are dropped, their captions kept and labelled
 td.addRule('caption', { filter: 'figcaption', replacement: (c) => (c.trim() ? `\n\nPhoto: ${c.trim()}\n\n` : '') });
-// every link absolute, so a mirror read on its own still resolves
+// Every link is absolute. Fragment/relative links resolve against the page being converted.
+let mirrorPageUrl = SITE;
 td.addRule('link', {
   filter: (n) => n.nodeName === 'A' && n.getAttribute('href'),
   replacement: (c, n) => {
     const text = c.trim();
     if (!text) return '';
     const href = n.getAttribute('href');
-    const url = /^(tel|mailto):/.test(href) ? href : new URL(href, SITE).href;
+    const url = /^(tel|mailto):/.test(href) ? href : new URL(href, mirrorPageUrl).href;
     return `[${text}](${url})`;
   },
 });
@@ -62,8 +63,10 @@ for (const file of walk(DIST)) {
   if (!main || !url) continue;
   const title = decode(pick(html, /<title>([^<]*)<\/title>/));
   const description = decode(pick(html, /<meta name="description" content="([^"]*)"/));
+  mirrorPageUrl = url;
   const body = td.turndown(main).replace(/[ \t]+\n/g, '\n').replace(/\n{3,}/g, '\n\n').trim();
-  const front = `---\ntitle: ${JSON.stringify(title)}\ndescription: ${JSON.stringify(description)}\nurl: ${url}\nupdated: ${TODAY}\n---\n\n`;
+  const stated = pick(main.replace(/<[^>]+>/g, ' '), /(?:Updated|Last checked|Checked)\s+(\d{4}-\d{2}-\d{2})/);
+  const front = `---\ntitle: ${JSON.stringify(title)}\ndescription: ${JSON.stringify(description)}\nurl: ${url}\n${stated ? `updated: ${stated}\n` : ''}---\n\n`;
   fs.writeFileSync(file.replace(/index\.html$/, 'index.html.md'), `${front}${body}\n`);
   pages.push({ url, md: `${url}index.html.md`, title: title.replace(/\s*\|\s*TIMELESS Grass & Greens$/, ''), description, body });
 }
@@ -71,18 +74,25 @@ if (pages.length === 0) { console.error('md-mirrors: no pages mirrored — has <
 
 /* llms.txt: what the business is, then every page by section, each pointing at its mirror */
 const rel = (u) => u.replace(SITE, '');
+// a town page ends in its state (/denver-metro/castle-rock-co/); a service's page for one area doesn't
+const AREA = /^\/(denver-metro|grand-strand|northeast-florida)\/$/;
+const LOCAL = /^\/(denver-metro|grand-strand|northeast-florida)\/[^/]+\/$/;
+const TOWN = /^\/(denver-metro|grand-strand|northeast-florida)\/[a-z0-9-]+-(co|sc|nc|fl)\/$/;
 const SECTIONS = [
   ['Services', (r) => r.startsWith('/services/')],
-  ['Areas we work in', (r) => /^\/(denver-metro|grand-strand|northeast-florida)\/$/.test(r)],
-  ['Local pages', (r) => /^\/(denver-metro|grand-strand|northeast-florida)\/[^/]+\/$/.test(r)],
+  ['Areas we work in', (r) => AREA.test(r)],
+  ['Services by area', (r) => LOCAL.test(r) && !TOWN.test(r)],
+  ['Towns in the Denver metro', (r) => TOWN.test(r) && r.startsWith('/denver-metro/')],
+  ['Towns on the Grand Strand', (r) => TOWN.test(r) && r.startsWith('/grand-strand/')],
+  ['Towns in northeast Florida', (r) => TOWN.test(r) && r.startsWith('/northeast-florida/')],
   ['Articles', (r) => r.startsWith('/blog/')],
-  ['Turf rules by state', (r) => r.startsWith('/guides/')],
+  ['Turf planning guides', (r) => r.startsWith('/guides/')],
 ];
 const line = (p) => `- [${p.title}](${p.md})${p.description ? `: ${p.description}` : ''}`;
 const home = pages.find((p) => rel(p.url) === '/');
 let llms = `# TIMELESS Grass & Greens
 
-> We install artificial turf, pet turf, backyard putting greens, commercial turf, sports field turf, indoor facility turf and turf replacement across the Denver metro (Colorado), the Grand Strand (Myrtle Beach, South Carolina) and northeast Florida (Jacksonville). 13 years' experience and premium American-made turf. Every estimate is free and starts with a visit to measure. Call 303-349-2368 or request an estimate at ${SITE}/estimate/.
+> We install artificial turf, pet turf, backyard putting greens, commercial turf, sports field turf, indoor facility turf and turf replacement across the Denver metro (Colorado), the Grand Strand (Shallotte, North Carolina, to Burgess, South Carolina, along the coast and inland through Loris and Conway) and northeast Florida (Jacksonville). 13 years' experience and premium American-made turf. Every estimate is free and starts with a visit to measure. Call 303-349-2368 or request an estimate at ${SITE}/estimate/.
 
 Every page below has a Markdown copy at its own address with \`index.html.md\` appended; the links point to those copies.
 ${home ? `\n- [Home](${home.md}): ${home.description}\n` : ''}`;

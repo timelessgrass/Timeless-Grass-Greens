@@ -1,0 +1,57 @@
+{
+  "status": "published",
+  "market": "northeast-florida",
+  "name": "Doctors Inlet",
+  "state": "FL",
+  "county": "Clay",
+  "title": "Artificial Turf in Doctors Inlet, FL | TIMELESS Grass & Greens",
+  "description": "A lawn, dog run or putting green in Doctors Inlet. Choose the part of your property you want to use differently.",
+  "h1": "A lawn, dog run or putting green in Doctors Inlet.",
+  "lede": "Choose the part of your property you want to use differently. A free visit includes a custom layout, turf options and a written installation price.",
+  "wins": [
+    "Plan a useful area without covering the whole yard",
+    "Keep lake, creek and drainage access in view",
+    "Discuss cleaning alongside pet use"
+  ],
+  "answer": {
+    "question": "What matters when planning turf beside Doctors Lake or a creek?",
+    "answer": "Bring the property plan and any shoreline, drainage or easement information you have. Mark wet areas before choosing the turf boundary, and keep any further drainage work separate in the estimate. A lawn or green can be planned for the usable part of the property."
+  },
+  "blocks": [
+    {
+      "icon": "drop",
+      "kicker": "Plan the usable ground",
+      "h2": "Keep the lake edge and the dog’s routine in the conversation.",
+      "paras": [
+        "If the yard borders Doctors Lake or a creek, identify the property boundary, shoreline conditions and drainage access before placing the turf area. Show where water collects after rain and bring photos if the visit happens on a dry day. Turf alone does not resolve a larger drainage problem.",
+        "For a dog run, keep a practical route from the door and access for waste pickup and cleaning. If water comes from a well, account for the cleaning supply and applicable water-use requirements. For a green, reserve useful putting lines and walking room while keeping waterfront and service areas clear.",
+        "Ask for removal, preparation, edging and any proposed drainage work to be described in the written estimate. Bring current property or association conditions so the layout can reflect them."
+      ]
+    }
+  ],
+  "services": [
+    "residential-turf",
+    "putting-greens",
+    "pet-turf"
+  ],
+  "servicesNote": "Choose the lawn, pet area or green you want, then work through the usable space and installation scope.",
+  "faq": [],
+  "nearby": [
+    "lakeside-fl",
+    "fleming-island-fl",
+    "oakleaf-plantation-fl",
+    "middleburg-fl"
+  ],
+  "sources": [
+    {
+      "label": "Clay County Utility Authority: Phase III water shortage restrictions",
+      "url": "https://clayutility.org/phase-iii-water-shortage-restrictions-now-in-effect/"
+    },
+    {
+      "label": "USDA NRCS Soil Data Access (survey area FL019)",
+      "url": "https://sdmdataaccess.sc.egov.usda.gov/"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

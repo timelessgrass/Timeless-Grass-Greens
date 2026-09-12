@@ -1,0 +1,817 @@
+{
+  "shallotte-nc": {
+    "intent": "What should I check before installing artificial turf in Shallotte, NC?",
+    "distinctValue": "Verify property jurisdiction and compare a fully described drainage/access scope instead of assuming a small surface replacement is exempt.",
+    "sources": [
+      {
+        "label": "Town of Shallotte: Planning & Zoning",
+        "url": "https://www.townofshallotte.org/planning_zoning",
+        "checked": "2026-09-11",
+        "supports": [
+          "The Town describes land-use jurisdiction in town limits and its ETJ, with building-inspection inquiries directed to Brunswick County."
+        ]
+      },
+      {
+        "label": "Town of Shallotte: jurisdiction and zoning maps",
+        "url": "https://www.townofshallotte.org/index.asp?SEC=C206CE57-2C55-45E6-88CB-08032F3785DD",
+        "checked": "2026-09-11",
+        "supports": [
+          "Official maps may lag zoning or annexation changes."
+        ]
+      }
+    ],
+    "claimEvidence": [
+      {
+        "id": "SH-1",
+        "candidate_paths": [
+          "blocks[1].paras[0]"
+        ],
+        "claim": "The Town describes land-use jurisdiction in town limits and its ETJ, with building-inspection inquiries directed to Brunswick County.",
+        "source_urls": [
+          "https://www.townofshallotte.org/planning_zoning"
+        ],
+        "evidence_type": "fresh primary-source verification",
+        "checked": "2026-09-11",
+        "source_locator": "Planning & Zoning body, jurisdiction and building inspection paragraphs.",
+        "limits": "No parcel was geocoded. Mailing-address caution is an inference from the jurisdiction/map distinction, not a determination for any address.",
+        "mappedClaim": "Confirm the parcel jurisdiction with Town Planning & Zoning; the mailing address alone does not determine it.",
+        "mappingUpdated": "2026-09-11"
+      }
+    ],
+    "reviewNotes": [
+      "Confirm parcel jurisdiction and service applicability when an address is supplied.",
+      "Obtain staff interpretation and any required association response for the actual construction scope.",
+      "Phase 4 mappings follow retained customer-facing statements. Original observations and checked dates are preserved; this edit is not a new source verification."
+    ],
+    "mappingHistory": [
+      {
+        "archived": "2026-09-11",
+        "reason": "Pre-editorial paragraph mappings retained for provenance; unmapped claims were removed from public copy, not reverified.",
+        "claimEvidence": [
+          {
+            "id": "SH-1",
+            "candidate_paths": [
+              "blocks[1].paras[0]"
+            ],
+            "claim": "The Town describes land-use jurisdiction in town limits and its ETJ, with building-inspection inquiries directed to Brunswick County.",
+            "source_urls": [
+              "https://www.townofshallotte.org/planning_zoning"
+            ],
+            "evidence_type": "fresh primary-source verification",
+            "checked": "2026-09-11",
+            "source_locator": "Planning & Zoning body, jurisdiction and building inspection paragraphs.",
+            "limits": "No parcel was geocoded. Mailing-address caution is an inference from the jurisdiction/map distinction, not a determination for any address."
+          },
+          {
+            "id": "SH-2",
+            "candidate_paths": [
+              "blocks[1].paras[1]"
+            ],
+            "claim": "Official maps may lag zoning or annexation changes.",
+            "source_urls": [
+              "https://www.townofshallotte.org/index.asp?SEC=C206CE57-2C55-45E6-88CB-08032F3785DD"
+            ],
+            "evidence_type": "fresh primary-source verification",
+            "checked": "2026-09-11",
+            "source_locator": "Maps introductory paragraph and jurisdiction/zoning map links.",
+            "limits": "A current boundary or approval cannot be established from an old map screenshot or town name alone."
+          }
+        ]
+      }
+    ]
+  },
+  "carolina-shores-nc": {
+    "intent": "What should Carolina Shores homeowners check before installing artificial turf?",
+    "distinctValue": "Identify the specific community and authority over the proposed area, then distinguish association guidance from Town review.",
+    "sources": [
+      {
+        "label": "Town of Carolina Shores: the eight communities",
+        "url": "https://www.carolinashoresnc.com/communities",
+        "checked": "2026-09-11",
+        "supports": [
+          "The official Town directory names eight communities, including Carolina Shores Subdivision as one of them."
+        ]
+      },
+      {
+        "label": "Town of Carolina Shores: Carolina Shores Subdivision",
+        "url": "https://www.carolinashoresnc.com/carolinashoressubdivision",
+        "checked": "2026-09-11",
+        "supports": [
+          "The two official community pages describe differing home types; The Acreage is within Carolina Shores Subdivision."
+        ]
+      },
+      {
+        "label": "Town of Carolina Shores: Calabash Lakes",
+        "url": "https://www.carolinashoresnc.com/calabashlakes",
+        "checked": "2026-09-11",
+        "supports": [
+          "The two official community pages describe differing home types; The Acreage is within Carolina Shores Subdivision."
+        ]
+      },
+      {
+        "label": "Town of Carolina Shores: Planning & Zoning",
+        "url": "https://www.carolinashoresnc.com/planningzoning",
+        "checked": "2026-09-11",
+        "supports": [
+          "Town Planning & Zoning covers zoning, subdivision and floodplain functions in town and ETJ."
+        ]
+      },
+      {
+        "label": "Town of Carolina Shores: frequently asked questions",
+        "url": "https://www.carolinashoresnc.com/faq",
+        "checked": "2026-09-11",
+        "supports": [
+          "The fence FAQ tells residents to check HOA/POA permission and then contact the Town about permitting."
+        ]
+      }
+    ],
+    "claimEvidence": [
+      {
+        "id": "CS-1",
+        "candidate_paths": [
+          "blocks[1].paras[0]"
+        ],
+        "claim": "The official Town directory names eight communities, including Carolina Shores Subdivision as one of them.",
+        "source_urls": [
+          "https://www.carolinashoresnc.com/communities"
+        ],
+        "evidence_type": "fresh primary-source verification",
+        "checked": "2026-09-11",
+        "source_locator": "Communities introductory paragraph and named community links.",
+        "limits": "Names establish identity only, not covenant text, HOA membership for a parcel, approval requirements, or coverage of an exact service polygon.",
+        "mappedClaim": "Carolina Shores contains several communities, with Carolina Shores Subdivision one of them.",
+        "mappingUpdated": "2026-09-11"
+      },
+      {
+        "id": "CS-3",
+        "candidate_paths": [
+          "blocks[1].paras[1]"
+        ],
+        "claim": "Town Planning & Zoning covers zoning, subdivision and floodplain functions in town and ETJ.",
+        "source_urls": [
+          "https://www.carolinashoresnc.com/planningzoning"
+        ],
+        "evidence_type": "fresh primary-source verification",
+        "checked": "2026-09-11",
+        "source_locator": "Planning division introduction and program descriptions.",
+        "limits": "No turf-specific code interpretation, universal Town permit requirement or exact parcel jurisdiction is claimed.",
+        "mappedClaim": "Ask Town Planning & Zoning about the complete proposal and any grading or drainage changes.",
+        "mappingUpdated": "2026-09-11"
+      }
+    ],
+    "reviewNotes": [
+      "Obtain current property/community documents and authorization for the particular area.",
+      "Confirm Town treatment of the actual turf, drainage and related construction scope.",
+      "Phase 4 mappings follow retained customer-facing statements. Original observations and checked dates are preserved; this edit is not a new source verification."
+    ],
+    "mappingHistory": [
+      {
+        "archived": "2026-09-11",
+        "reason": "Pre-editorial paragraph mappings retained for provenance; unmapped claims were removed from public copy, not reverified.",
+        "claimEvidence": [
+          {
+            "id": "CS-1",
+            "candidate_paths": [
+              "blocks[0].paras[0]",
+              "faq[0]",
+              "faq[1]"
+            ],
+            "claim": "The official Town directory names eight communities, including Carolina Shores Subdivision as one of them.",
+            "source_urls": [
+              "https://www.carolinashoresnc.com/communities"
+            ],
+            "evidence_type": "fresh primary-source verification",
+            "checked": "2026-09-11",
+            "source_locator": "Communities introductory paragraph and named community links.",
+            "limits": "Names establish identity only, not covenant text, HOA membership for a parcel, approval requirements, or coverage of an exact service polygon."
+          },
+          {
+            "id": "CS-2",
+            "candidate_paths": [
+              "blocks[1].paras[0]"
+            ],
+            "claim": "The two official community pages describe differing home types; The Acreage is within Carolina Shores Subdivision.",
+            "source_urls": [
+              "https://www.carolinashoresnc.com/carolinashoressubdivision",
+              "https://www.carolinashoresnc.com/calabashlakes"
+            ],
+            "evidence_type": "fresh primary-source verification",
+            "checked": "2026-09-11",
+            "source_locator": "Community overview paragraphs.",
+            "limits": "Housing form does not prove deed ownership, common-area boundaries or responsibility for any individual yard. The draft explicitly asks the homeowner to verify these."
+          },
+          {
+            "id": "CS-3",
+            "candidate_paths": [
+              "blocks[2].paras[0]",
+              "answer.answer",
+              "faq[2]"
+            ],
+            "claim": "Town Planning & Zoning covers zoning, subdivision and floodplain functions in town and ETJ.",
+            "source_urls": [
+              "https://www.carolinashoresnc.com/planningzoning"
+            ],
+            "evidence_type": "fresh primary-source verification",
+            "checked": "2026-09-11",
+            "source_locator": "Planning division introduction and program descriptions.",
+            "limits": "No turf-specific code interpretation, universal Town permit requirement or exact parcel jurisdiction is claimed."
+          },
+          {
+            "id": "CS-4",
+            "candidate_paths": [
+              "blocks[2].paras[1]"
+            ],
+            "claim": "The fence FAQ tells residents to check HOA/POA permission and then contact the Town about permitting.",
+            "source_urls": [
+              "https://www.carolinashoresnc.com/faq"
+            ],
+            "evidence_type": "fresh primary-source verification",
+            "checked": "2026-09-11",
+            "source_locator": "FAQ: “How do I get a fence approved?”",
+            "limits": "This applies to the stated fence question. It is used only for a turf proposal that also includes a fence and is expressly not represented as an artificial-turf rule."
+          }
+        ]
+      }
+    ]
+  },
+  "conway-sc": {
+    "intent": "What should I check before installing artificial turf in Conway, SC?",
+    "distinctValue": "A Conway turf project starts with your property.",
+    "sources": [
+      {
+        "label": "City of Conway: GIS and city-limit, zoning and flood maps",
+        "url": "https://www.conwaysc.gov/departments/planning___development/conway_gis.php",
+        "checked": "2026-09-11",
+        "supports": [
+          "City pages provide boundary, zoning and flood-map links and a jurisdiction lookup."
+        ]
+      },
+      {
+        "label": "City of Conway: Planning and Development",
+        "url": "https://www.conwaysc.gov/departments/planning___development/index.php",
+        "checked": "2026-09-11",
+        "supports": [
+          "City Planning addresses land use and tree protection; Construction Services handles building permits; county Planning coordinates county development review."
+        ]
+      },
+      {
+        "label": "City of Conway: Construction Services",
+        "url": "https://www.conwaysc.gov/departments/building/index.php",
+        "checked": "2026-09-11",
+        "supports": [
+          "City pages provide boundary, zoning and flood-map links and a jurisdiction lookup.",
+          "City Planning addresses land use and tree protection; Construction Services handles building permits; county Planning coordinates county development review."
+        ]
+      },
+      {
+        "label": "City of Conway: Floodplain Information",
+        "url": "https://www.conwaysc.gov/departments/building/flood_plain_information1.php",
+        "checked": "2026-09-11",
+        "supports": [
+          "City guidance provides flood tools and a definition of development including filling, grading and excavation."
+        ]
+      },
+      {
+        "label": "Horry County: Planning and Zoning",
+        "url": "https://www.horrycountysc.gov/Departments/Planning-and-Zoning",
+        "checked": "2026-09-11",
+        "supports": [
+          "City Planning addresses land use and tree protection; Construction Services handles building permits; county Planning coordinates county development review."
+        ]
+      }
+    ],
+    "claimEvidence": [
+      {
+        "fields": [
+          "blocks[1].paras[1]"
+        ],
+        "evidenceType": "observed_official",
+        "sourceUrls": [
+          "https://www.conwaysc.gov/departments/planning___development/conway_gis.php",
+          "https://www.conwaysc.gov/departments/building/index.php"
+        ],
+        "checked": "2026-09-11",
+        "observed": "City pages provide boundary, zoning and flood-map links and a jurisdiction lookup.",
+        "limits": "Mailing-address caution is an editorial inference; no parcel determination made.",
+        "mappedClaim": "Confirm whether the parcel is inside Conway or in unincorporated Horry County.",
+        "mappingUpdated": "2026-09-11"
+      },
+      {
+        "fields": [
+          "blocks[1].paras[1]"
+        ],
+        "evidenceType": "observed_official",
+        "sourceUrls": [
+          "https://www.conwaysc.gov/departments/building/flood_plain_information1.php"
+        ],
+        "checked": "2026-09-11",
+        "observed": "City guidance provides flood tools and a definition of development including filling, grading and excavation.",
+        "limits": "Not proof every turf project needs a permit or that all city land floods. Separating turf and flood-control scope is an editorial recommendation.",
+        "mappedClaim": "For a property with floodplain concerns, grading and drainage changes require their own review; turf is not a flood-control solution.",
+        "mappingUpdated": "2026-09-11"
+      },
+      {
+        "fields": [
+          "answer.answer",
+          "blocks[0].paras[0]"
+        ],
+        "evidenceType": "business_fact_and_editorial_recommendation",
+        "sourceUrls": [],
+        "checked": "2026-09-11",
+        "observed": "Free visit, written quote and installation services are existing brief/site positioning. Access and layout questions are recommendations.",
+        "limits": "No new claim of engineering, infiltration testing, permit handling or completed local projects.",
+        "mappedClaim": "A smaller installation can be discussed and priced at a free visit; layout, access and scope questions are editorial recommendations.",
+        "mappingUpdated": "2026-09-11"
+      }
+    ],
+    "reviewNotes": [
+      "Use current conwaysc.gov links instead of prior cityofconway.com 403 gap. Some current internal links duplicate directory paths; the source list contains corrected URLs successfully opened.",
+      "Discard old research demographic padding, flood-height figures, town-wide soil recipes and drainage-fix promises.",
+      "Root should retain only supported operational commitments and verify lead delivery separately.",
+      "Phase 4 mappings follow retained customer-facing statements. Original observations and checked dates are preserved; this edit is not a new source verification."
+    ],
+    "mappingHistory": [
+      {
+        "archived": "2026-09-11",
+        "reason": "Pre-editorial paragraph mappings retained for provenance; unmapped claims were removed from public copy, not reverified.",
+        "claimEvidence": [
+          {
+            "fields": [
+              "blocks[0]",
+              "faq[0]"
+            ],
+            "evidenceType": "observed_official",
+            "sourceUrls": [
+              "https://www.conwaysc.gov/departments/planning___development/conway_gis.php",
+              "https://www.conwaysc.gov/departments/building/index.php"
+            ],
+            "checked": "2026-09-11",
+            "observed": "City pages provide boundary, zoning and flood-map links and a jurisdiction lookup.",
+            "limits": "Mailing-address caution is an editorial inference; no parcel determination made."
+          },
+          {
+            "fields": [
+              "blocks[0]",
+              "blocks[2]"
+            ],
+            "evidenceType": "observed_official",
+            "sourceUrls": [
+              "https://www.conwaysc.gov/departments/planning___development/index.php",
+              "https://www.conwaysc.gov/departments/building/index.php",
+              "https://www.horrycountysc.gov/Departments/Planning-and-Zoning"
+            ],
+            "checked": "2026-09-11",
+            "observed": "City Planning addresses land use and tree protection; Construction Services handles building permits; county Planning coordinates county development review.",
+            "limits": "No turf-specific approval, permit exemption, tree threshold or historic-design rule established."
+          },
+          {
+            "fields": [
+              "blocks[1]",
+              "faq[2]"
+            ],
+            "evidenceType": "observed_official",
+            "sourceUrls": [
+              "https://www.conwaysc.gov/departments/building/flood_plain_information1.php"
+            ],
+            "checked": "2026-09-11",
+            "observed": "City guidance provides flood tools and a definition of development including filling, grading and excavation.",
+            "limits": "Not proof every turf project needs a permit or that all city land floods. Separating turf and flood-control scope is an editorial recommendation."
+          },
+          {
+            "fields": [
+              "answer",
+              "blocks[2]",
+              "faq[3]"
+            ],
+            "evidenceType": "business_fact_and_editorial_recommendation",
+            "sourceUrls": [],
+            "checked": "2026-09-11",
+            "observed": "Free visit, written quote and installation services are existing brief/site positioning. Access and layout questions are recommendations.",
+            "limits": "No new claim of engineering, infiltration testing, permit handling or completed local projects."
+          }
+        ]
+      }
+    ]
+  },
+  "forestbrook-sc": {
+    "intent": "How do I plan artificial turf installation in Forestbrook, SC?",
+    "distinctValue": "Turf that fits your Forestbrook property plan.",
+    "sources": [
+      {
+        "label": "U.S. Census Bureau: Forestbrook CDP, South Carolina",
+        "url": "https://www.census.gov/quickfacts/fact/table/forestbrookcdpsouthcarolina/PST045225",
+        "checked": "2026-09-11",
+        "supports": [
+          "Census names Forestbrook CDP; developer names Forestbrook Village townhomes; county-hosted survey records Forestbrook Estates Phase 7."
+        ]
+      },
+      {
+        "label": "Lennar: Tidewater at Forestbrook Village",
+        "url": "https://www.lennar.com/new-homes/south-carolina/myrtle-beach/myrtle-beach/forestbrook-village/tidewater",
+        "checked": "2026-09-11",
+        "supports": [
+          "Census names Forestbrook CDP; developer names Forestbrook Village townhomes; county-hosted survey records Forestbrook Estates Phase 7.",
+          "Ownership and association review are proposed property-specific questions."
+        ]
+      },
+      {
+        "label": "Horry County: Forestbrook Estates Phase 7 elevation certificate",
+        "url": "https://www.horrycountysc.gov/media/nhqe3dpj/171549-final-ecert.pdf",
+        "checked": "2026-09-11",
+        "supports": [
+          "Census names Forestbrook CDP; developer names Forestbrook Village townhomes; county-hosted survey records Forestbrook Estates Phase 7.",
+          "Signed 2024 surveyor comments distinguish supplemental-flood-zone observations among units within the same building."
+        ]
+      },
+      {
+        "label": "Horry County: Home Owner’s Association Corner",
+        "url": "https://horrycountysc.gov/departments/stormwater/hoa/",
+        "checked": "2026-09-11",
+        "supports": [
+          "Ownership and association review are proposed property-specific questions.",
+          "County guidance describes preserving drainage patterns and maintenance access in easements."
+        ]
+      },
+      {
+        "label": "Horry County: Drainage",
+        "url": "https://horrycountysc.gov/departments/stormwater/major-initiatives/drainage/",
+        "checked": "2026-09-11",
+        "supports": [
+          "County guidance describes preserving drainage patterns and maintenance access in easements."
+        ]
+      },
+      {
+        "label": "Horry County: Stormwater Plan Requirements",
+        "url": "https://www.horrycountysc.gov/departments/stormwater/engineers/construction/plan-requirements/",
+        "checked": "2026-09-11",
+        "supports": [
+          "County development-plan guidance addresses drainage patterns, outfalls and easements."
+        ]
+      }
+    ],
+    "claimEvidence": [
+      {
+        "fields": [
+          "blocks[0].paras[1]"
+        ],
+        "evidenceType": "observed_official_and_developer",
+        "sourceUrls": [
+          "https://www.census.gov/quickfacts/fact/table/forestbrookcdpsouthcarolina/PST045225",
+          "https://www.lennar.com/new-homes/south-carolina/myrtle-beach/myrtle-beach/forestbrook-village/tidewater",
+          "https://www.horrycountysc.gov/media/nhqe3dpj/171549-final-ecert.pdf"
+        ],
+        "checked": "2026-09-11",
+        "observed": "Census names Forestbrook CDP; developer names Forestbrook Village townhomes; county-hosted survey records Forestbrook Estates Phase 7.",
+        "limits": "Names verified, not geographic polygon inclusion or specific association rules.",
+        "mappedClaim": "Forestbrook, Forestbrook Village and Forestbrook Estates are distinct names; provide the street address and community.",
+        "mappingUpdated": "2026-09-11"
+      },
+      {
+        "fields": [
+          "answer.answer",
+          "blocks[1].paras[1]"
+        ],
+        "evidenceType": "editorial_recommendation",
+        "sourceUrls": [
+          "https://www.lennar.com/new-homes/south-carolina/myrtle-beach/myrtle-beach/forestbrook-village/tidewater",
+          "https://horrycountysc.gov/departments/stormwater/hoa/"
+        ],
+        "checked": "2026-09-11",
+        "observed": "Ownership and association review are proposed property-specific questions.",
+        "limits": "No blanket claim that all local townhomes have common yards or identical approval requirements.",
+        "mappedClaim": "Confirm ownership or control of the work area and any association requirements.",
+        "mappingUpdated": "2026-09-11"
+      },
+      {
+        "fields": [
+          "blocks[1].paras[0]"
+        ],
+        "evidenceType": "observed_official",
+        "sourceUrls": [
+          "https://horrycountysc.gov/departments/stormwater/hoa/",
+          "https://horrycountysc.gov/departments/stormwater/major-initiatives/drainage/"
+        ],
+        "checked": "2026-09-11",
+        "observed": "County guidance describes preserving drainage patterns and maintenance access in easements.",
+        "limits": "Does not establish permission for turf in any easement.",
+        "mappedClaim": "Identify drainage features, easements and shared maintenance access before setting the turf boundary.",
+        "mappingUpdated": "2026-09-11"
+      },
+      {
+        "fields": [
+          "answer.answer",
+          "blocks[0].paras[0]"
+        ],
+        "evidenceType": "business_fact_and_editorial_recommendation",
+        "sourceUrls": [],
+        "checked": "2026-09-11",
+        "observed": "Installation services, free visit and written quote exist in business positioning. Access and layout questions are editorial recommendations.",
+        "limits": "No local case study, dedicated office or engineering service claimed.",
+        "mappedClaim": "Choose layout by use and bring address, property plan and access conditions to the estimate.",
+        "mappingUpdated": "2026-09-11"
+      }
+    ],
+    "reviewNotes": [
+      "Existing carolina-forest-sc.json folds Forestbrook into its copy. Before publishing, remove foldedFrom forestbrook-sc and replace that Forestbrook block with a short link to this page.",
+      "No local association's turf approval policy verified. Similar names in TX/FL were rejected; no fees, deadlines, contact or approval policy asserted.",
+      "Prior research's claimed July 2025 Census population estimate is unsupported: current QuickFacts marks that estimate not applicable. No demographics retained.",
+      "Do not inherit aggregate recipes, universal no-permit statements or flood-prevention promises.",
+      "Phase 4 mappings follow retained customer-facing statements. Original observations and checked dates are preserved; this edit is not a new source verification."
+    ],
+    "mappingHistory": [
+      {
+        "archived": "2026-09-11",
+        "reason": "Pre-editorial paragraph mappings retained for provenance; unmapped claims were removed from public copy, not reverified.",
+        "claimEvidence": [
+          {
+            "fields": [
+              "answer",
+              "blocks[0]",
+              "blocks[0]"
+            ],
+            "evidenceType": "observed_official_and_developer",
+            "sourceUrls": [
+              "https://www.census.gov/quickfacts/fact/table/forestbrookcdpsouthcarolina/PST045225",
+              "https://www.lennar.com/new-homes/south-carolina/myrtle-beach/myrtle-beach/forestbrook-village/tidewater",
+              "https://www.horrycountysc.gov/media/nhqe3dpj/171549-final-ecert.pdf"
+            ],
+            "checked": "2026-09-11",
+            "observed": "Census names Forestbrook CDP; developer names Forestbrook Village townhomes; county-hosted survey records Forestbrook Estates Phase 7.",
+            "limits": "Names verified, not geographic polygon inclusion or specific association rules."
+          },
+          {
+            "fields": [
+              "blocks[0]",
+              "faq[0]",
+              "faq[2]"
+            ],
+            "evidenceType": "editorial_recommendation",
+            "sourceUrls": [
+              "https://www.lennar.com/new-homes/south-carolina/myrtle-beach/myrtle-beach/forestbrook-village/tidewater",
+              "https://horrycountysc.gov/departments/stormwater/hoa/"
+            ],
+            "checked": "2026-09-11",
+            "observed": "Ownership and association review are proposed property-specific questions.",
+            "limits": "No blanket claim that all local townhomes have common yards or identical approval requirements."
+          },
+          {
+            "fields": [
+              "blocks[1]",
+              "faq[1]"
+            ],
+            "evidenceType": "observed_official",
+            "sourceUrls": [
+              "https://horrycountysc.gov/departments/stormwater/hoa/",
+              "https://horrycountysc.gov/departments/stormwater/major-initiatives/drainage/"
+            ],
+            "checked": "2026-09-11",
+            "observed": "County guidance describes preserving drainage patterns and maintenance access in easements.",
+            "limits": "Does not establish permission for turf in any easement."
+          },
+          {
+            "fields": [
+              "blocks[1].paras[2]"
+            ],
+            "evidenceType": "observed_official_record",
+            "sourceUrls": [
+              "https://www.horrycountysc.gov/media/nhqe3dpj/171549-final-ecert.pdf"
+            ],
+            "checked": "2026-09-11",
+            "observed": "Signed 2024 surveyor comments distinguish supplemental-flood-zone observations among units within the same building.",
+            "limits": "Illustrates property variability only; not a current customer flood determination. Specific residential address omitted from page copy."
+          },
+          {
+            "fields": [
+              "blocks[2].paras[2]"
+            ],
+            "evidenceType": "observed_official",
+            "sourceUrls": [
+              "https://www.horrycountysc.gov/departments/stormwater/engineers/construction/plan-requirements/"
+            ],
+            "checked": "2026-09-11",
+            "observed": "County development-plan guidance addresses drainage patterns, outfalls and easements.",
+            "limits": "Explicitly qualified as development guidance, not requirements for every backyard."
+          },
+          {
+            "fields": [
+              "answer",
+              "blocks[2]",
+              "faq[3]"
+            ],
+            "evidenceType": "business_fact_and_editorial_recommendation",
+            "sourceUrls": [],
+            "checked": "2026-09-11",
+            "observed": "Installation services, free visit and written quote exist in business positioning. Access and layout questions are editorial recommendations.",
+            "limits": "No local case study, dedicated office or engineering service claimed."
+          }
+        ]
+      }
+    ]
+  },
+  "_horry-permit-review": {
+    "checked": "2026-09-11",
+    "intent": "Reconcile Horry County permit and drainage guidance across the site",
+    "distinctValue": "Remove blanket yard-size exemptions and separate county review from association permission.",
+    "sources": [
+      {
+        "url": "https://horrycountysc.gov/departments/stormwater/hoa/",
+        "checked": "2026-09-11",
+        "supports": [
+          "County homeowner guidance describes preservation of drainage patterns, neighborhood drainage inspections and easement permissions."
+        ]
+      },
+      {
+        "url": "https://www.horrycountysc.gov/departments/stormwater/engineers/construction/storm-water-permitting/",
+        "checked": "2026-09-11",
+        "supports": [
+          "Current county guidance must be applied to the specific construction scope; stormwater webpage contains inconsistent size thresholds."
+        ]
+      },
+      {
+        "url": "https://www.horrycountysc.gov/Departments/Planning-and-Zoning",
+        "checked": "2026-09-11",
+        "supports": [
+          "The county has a public development review role; association permission does not replace the applicable county review."
+        ]
+      }
+    ],
+    "affectedFiles": [
+      "src/content/towns/carolina-forest-sc.json",
+      "src/content/towns/longs-sc.json",
+      "src/content/towns/little-river-sc.json",
+      "src/content/towns/nixonville-sc.json",
+      "src/content/towns/loris-sc.json",
+      "src/content/local-services/grand-strand--sports-field-turf.json",
+      "src/content/local-services/grand-strand--commercial-turf.json",
+      "src/data/services.ts",
+      "src/data/guides.ts",
+      "src/data/extra.json",
+      "src/content/blog/can-my-hoa-stop-artificial-turf.md",
+      "src/content/blog/how-long-does-a-turf-field-last.md",
+      "src/content/blog/do-i-need-a-permit-for-artificial-turf.md"
+    ]
+  },
+  "_impervious-guide-prior-sources": {
+    "provenance": "src/data/guides.ts at a3f7bd7a41a556d950ee4d377f844260517dd876; source list for is-artificial-turf-impervious",
+    "status": "Prior research retained internally after the public guide was shortened; not reverified in this editorial pass.",
+    "limits": "Original citations and checked dates are preserved as historical research, not a new legal or parcel determination. Historical search-absence statements and proposed rules are not current publication authority. In particular, current Horry permitting guidance supersedes any blanket exemption inference from the old manual.",
+    "sources": [
+      {
+        "label": "21 NCAC 28B .0503(b) — NC Landscape Contractors' Licensing Board rules",
+        "cite": "Artificial turf workmanship standard: \"Ensure that the sub-grade is compacted and shall pitch properly to drain\", plus perimeter attachment, nap direction, an evenly weighted sand layer and manufacturer specifications.",
+        "url": "http://reports.oah.state.nc.us/ncac/title%2021%20-%20occupational%20licensing%20boards%20and%20commissions/chapter%2028%20-%20landscape%20contractors/chapter%2028%20rules.pdf",
+        "checked": "2026-09-07"
+      },
+      {
+        "label": "Brunswick County Stormwater Quality Management and Discharge Control Ordinance",
+        "cite": "Section 1.5(d) defines built-upon area with exclusions for slatted wood decks, pool water, #57 stone over geotextile and trails — artificial turf is not listed.",
+        "url": "https://www.brunswickcountync.gov/DocumentCenter/View/7215",
+        "checked": "2026-09-07"
+      },
+      {
+        "label": "Brunswick County Unified Development Ordinance",
+        "cite": "Impervious surface defined to include compacted earth and gravel. Full-text search of the 491-page UDO returns no occurrence of \"artificial turf\" or \"synthetic turf\". The Water Quality Protection Overlay at Sec. 4.8.7.E caps built-upon area at 25 percent of the lot.",
+        "url": "https://www.brunswickcountync.gov/DocumentCenter/View/5460",
+        "checked": "2026-09-07"
+      },
+      {
+        "label": "Town of Shallotte Unified Development Ordinance (amendments through April 2026)",
+        "cite": "Impervious surface at (126) covers compacted earth, gravel, concrete and asphalt; built-upon area covers \"buildings, pavement, gravel roads, and recreation facilities\". Neither definition has been conformed to G.S. 143-214.7D.",
+        "url": "https://www.townofshallotte.org/vertical/sites/%7B84A9E943-E9D6-4534-99F0-B6F654F25036%7D/uploads/2026-03-24_Shallotte_UDO_(1).pdf",
+        "checked": "2026-09-07"
+      },
+      {
+        "label": "Town of Sunset Beach Unified Development Ordinance",
+        "cite": "\"Alternative materials, not subject to the definition of impervious surface, may be proposed subject to certification of a licensed and certified North Carolina professional engineer of compliance with the hydraulic conductivity standard of 1.41 inches per hour or greater. Such certification shall be in the form of a letter under seal.\"",
+        "url": "https://rebuild-sunsetbeachnc.govoffice2.com/vertical/Sites/%7BC59DF5BC-1B90-44CB-AD2A-9DAE0D811CD0%7D/uploads/2023_ToSB_UDO_(Working_Copy)_Full.pdf",
+        "checked": "2026-09-07"
+      },
+      {
+        "label": "Horry County Code Sec. 17.7-16 (Stormwater Utility, Definitions)",
+        "cite": "\"Common impervious surfaces include, but are not limited to, rooftops, sidewalks, walkways, patio areas, driveways, parking lots, storage areas, compacted gravel and soil surfaces, awnings and other fabric or plastic coverings, and other surfaces which prevent or impede the natural infiltration of stormwater runoff which existed prior to development.\" Artificial turf is not named.",
+        "url": "https://library.municode.com/sc/horry_county/codes/code_of_ordinances?nodeId=COOR_CH17.7STMA_ARTIISTUTFE_S17.7-16DE",
+        "checked": "2026-09-07"
+      },
+      {
+        "label": "Horry County Code Sec. 17.7-17 (Stormwater service charge)",
+        "cite": "Non-single-family parcels are assigned a development intensity factor by impervious percentage — 90–100% = 0.95 down to less than 1% = 0.01 — billed per 20,000 square feet of land area.",
+        "url": "https://library.municode.com/sc/horry_county/codes/code_of_ordinances?nodeId=COOR_CH17.7STMA_ARTIISTUTFE_S17.7-17STSECHRA",
+        "checked": "2026-09-07"
+      },
+      {
+        "label": "Horry County Stormwater Management Design Manual (January 2024)",
+        "cite": "Sec. 2.3: a stormwater permit is required where one-half acre or more will be disturbed, or the construction is part of a Larger Common Plan. No mention of artificial turf, synthetic turf or synthetic grass appears in its 134 pages. Note: horrycountysc.gov was unreachable on the check date, so the document was read from the Internet Archive capture of this URL dated 2026-04-15.",
+        "url": "https://www.horrycountysc.gov/media/4wqkxbxg/horry-county-sw-design-manual_rev2024.pdf",
+        "checked": "2026-09-07"
+      },
+      {
+        "label": "Myrtle Beach Zoning Code, Appendix A Sec. 203",
+        "cite": "\"Impervious Surface: Any material that prevents, impedes, or slows infiltration or absorption of storm and surface water directly into the ground at the rate of absorption of vegetations-bearing soils.\" Impervious lot coverage expressly counts \"stone, shell or gravel surfacing\".",
+        "url": "https://library.municode.com/sc/myrtle_beach/codes/code_of_ordinances?nodeId=COOR_APXAZO_ART2DE_S203DE",
+        "checked": "2026-09-07"
+      },
+      {
+        "label": "Myrtle Beach Code Sec. 18-3 (Stormwater, Definitions)",
+        "cite": "\"The equivalent residential unit is 5,000 square feet of impervious surface area.\" The stormwater chapter's impervious definition is narrower than the zoning code's. North Myrtle Beach Sec. 15-92(c) sets its equivalent runoff unit at 3,500 square feet of impervious area.",
+        "url": "https://library.municode.com/sc/myrtle_beach/codes/code_of_ordinances?nodeId=COOR_CH18STMA_ARTIINGE_S18-3DE",
+        "checked": "2026-09-07"
+      },
+      {
+        "label": "Fla. Stat. 125.572 — Regulation of synthetic turf",
+        "cite": "Created by HB 683 (2025), ch. 2025-140. Subsection (3)(a) bars a local government from prohibiting compliant synthetic turf on single-family residential property, or regulating it inconsistently with DEP standards, once DEP adopts rules under the section.",
+        "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0100-0199%2F0125%2FSections%2F0125.572.html",
+        "checked": "2026-09-07"
+      },
+      {
+        "label": "Rule 62-308.100, F.A.C. — Synthetic Turf",
+        "cite": "Effective 19 May 2026, rule file date 29 April 2026, history note \"New 5-19-26\". This adoption is what triggered the s. 125.572 preemption.",
+        "url": "https://www.flrules.org/gateway/ruleNo.asp?id=62-308.100",
+        "checked": "2026-09-07"
+      },
+      {
+        "label": "Florida DEP proposed rule text for 62-308.100 (January 2026)",
+        "cite": "\"Synthetic turf must be permeable and affixed to permeable backing with a pervious subgrade. A local government may establish a quantifiable standard of a maximum of 10 inches per hour for all layers.\" Subgrade must be washed natural material; \"Soil beneath installed subgrade shall not be compacted to the extent that it adversely impacts percolation\"; installations must prevent pooling or an increase in the stormwater runoff volume, direction, or rates to adjacent properties, and may not be installed within a swale, ditch, stormwater pond or a pond's littoral zone. This is the proposed text as published in January 2026, not the adopted rule document.",
+        "url": "https://floridadep.gov/sites/default/files/Proposed%20Rule%20%28Jan%202026%29.doc",
+        "checked": "2026-09-07"
+      },
+      {
+        "label": "St. Johns County Land Development Code (edition of 4 March 2025)",
+        "cite": "Article XII: \"Impervious Surfaces: Any Building, concrete, pools, wet retention/detention areas, pavement or compacted materials utilized for parking or roadways.\" Full-text search of the consolidated LDC returns zero occurrences of artificial turf, synthetic turf, artificial grass or synthetic grass.",
+        "url": "https://www.sjcfl.us/wp-content/uploads/2024/01/entire-ldc-march-4-2025.pdf",
+        "checked": "2026-09-07"
+      },
+      {
+        "label": "Nassau County Code, Appendix D (Roadway and Drainage Standards), Art. 10 Sec. 10.8(4)",
+        "cite": "On-site stormwater storage is required for any addition or modification on a developed lot with more than 20 percent impervious area, subject to exemptions including \"(c) Pavers are allowed as pervious if shown as engineered with a detail submitted in the application permit\" and \"(f) Small scale development activities under two-hundred and fifty (250) square feet\".",
+        "url": "https://library.municode.com/fl/nassau_county/codes/code_of_ordinances?nodeId=APXDRODRST",
+        "checked": "2026-09-07"
+      },
+      {
+        "label": "Atlantic Beach Code Sec. 24-17 and Sec. 24-89(c)(1)",
+        "cite": "Impervious surface means surfaces \"made of concrete, asphalt, brick, plastic, or any solid surfacing material with a base or lining of an impervious material\". Development resulting in more than 35 percent impervious lot coverage must provide on-site stormwater storage for the entire impervious surface area, with a cumulative 400 square foot exemption.",
+        "url": "https://library.municode.com/fl/atlantic_beach/codes/code_of_ordinances?nodeId=PTIICOOR_CH24LADERE_ARTIILADE_S24-17DE",
+        "checked": "2026-09-07"
+      },
+      {
+        "label": "St. Augustine Beach Code Sec. 15-17",
+        "cite": "\"Impervious area means any part of any parcel of land that has been modified by the action of persons to reduce the land's natural ability to absorb and hold rainfall... Excluded are all lawns, landscape areas, and gardens or farming areas.\"",
+        "url": "https://library.municode.com/fl/st._augustine_beach/codes/code_of_ordinances?nodeId=PTIICOOR_CH15PLDE_ARTIICOSTMASYPROULI_S15-17DE",
+        "checked": "2026-09-07"
+      },
+      {
+        "label": "City of St. Augustine Code Sec. 29-2 and Sec. 19-16",
+        "cite": "Sec. 29-2 excludes \"all lawns, landscape areas, water and other areas designated by the city manager\" from impervious area. Sec. 19-16 lists \"artificial turf/sod\" among acceptable maintained yard surfaces, expressly contrasted with weeds, gravel and broken concrete.",
+        "url": "https://library.municode.com/fl/st._augustine/codes/code_of_ordinances?nodeId=PTIICOOR_CH19NU_ARTIIFORE_S19-16MARE",
+        "checked": "2026-09-07"
+      },
+      {
+        "label": "Fernandina Beach Land Development Code Sec. 1.07.00",
+        "cite": "\"Impervious surface means a surface that has been compacted or covered with a layer of material so that it is highly resistant to infiltration by water,\" including semi-impervious surfaces such as compacted clay. No reference to artificial or synthetic turf appears anywhere in the LDC.",
+        "url": "https://library.municode.com/fl/fernandina_beach/codes/land_development_code",
+        "checked": "2026-09-07"
+      },
+      {
+        "label": "Jacksonville Ordinance Code Sec. 654.129",
+        "cite": "Sets impervious surface ratios by zoning district at subdivision design stage (RR-Acre 30 percent through RHD 85 percent). The Ordinance Code contains no general definition of impervious surface; stormwater facility design is referred out to the Land Development Procedures Manual.",
+        "url": "https://library.municode.com/fl/jacksonville/codes/code_of_ordinances?nodeId=TITXVIILAUS_CH654COSURE_S654.129REIMSTDR",
+        "checked": "2026-09-07"
+      },
+      {
+        "label": "HB 803 (2026), ch. 2026-63 — amendment to Fla. Stat. 553.79",
+        "cite": "\"A local government that issues building permits shall exempt an owner of a single-family dwelling or the owner's contractor from the requirement to obtain a building permit to perform any work valued at less than $7,500 on the owner's property.\" The exemption does not apply to work on property partially or entirely located in a flood hazard area.",
+        "url": "https://www.nassaucountyfl.com/DocumentCenter/View/31830/Chapter-2026-63-HB803",
+        "checked": "2026-09-07"
+      },
+      {
+        "label": "Colorado HB25-1113 (2025), signed act",
+        "cite": "Amends C.R.S. Title 37 Article 99 to insert \"NONFUNCTIONAL\" before \"artificial turf\" in the prohibition, and adds C.R.S. 37-99-102(6.5) defining functional artificial turf to include playgrounds, sports fields and the playing area of a golf course. Article 99 governs water use; it does not classify turf for stormwater or built-upon-area purposes.",
+        "url": "https://content.leg.colorado.gov/sites/default/files/2025a_1113_signed.pdf",
+        "checked": "2026-09-07"
+      },
+      {
+        "label": "Thornton Water — 2026 Artificial Turf Rules for the Water-Wise Landscape Rebate",
+        "cite": "Requires a minor development permit before installation, backing that drains at a minimum of two inches per hour, a sub-base of at least three inches of compacted aggregate, glued rather than sewn seams, an eight-year fade warranty, and third-party or manufacturer documentation that the product is PFAS-free.",
+        "url": "https://www.thorntonwater.com/wp-content/uploads/2026/02/2026-residential_artificial_turf_info__rules-1.pdf",
+        "checked": "2026-09-07"
+      }
+    ]
+  },
+  "jacksonville-beach-fl": {
+    "intent": "What property and project conditions should be checked before relying on a Florida building-permit exemption?",
+    "distinctValue": "Retains the dated source already cited by the Jacksonville Beach page; it does not establish eligibility for a particular property.",
+    "status": "Prior research, not reverified in this editorial pass.",
+    "sources": [
+      {
+        "label": "HB 803 (2026), ch. 2026-63 — amendment to Fla. Stat. 553.79",
+        "url": "https://www.nassaucountyfl.com/DocumentCenter/View/31830/Chapter-2026-63-HB803",
+        "checked": "2026-09-07",
+        "supports": [
+          "\"A local government that issues building permits shall exempt an owner of a single-family dwelling or the owner's contractor from the requirement to obtain a building permit to perform any work valued at less than $7,500 on the owner's property.\" The exemption does not apply to work on property partially or entirely located in a flood hazard area."
+        ]
+      }
+    ],
+    "reviewNotes": [
+      "Confirm current applicability with the building department for the address and full scope, including the flood-hazard limitation. This record preserves an existing source and does not extend service territory."
+    ]
+  }
+}

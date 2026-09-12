@@ -1,0 +1,88 @@
+{
+  "status": "published",
+  "market": "northeast-florida",
+  "name": "Lakeside",
+  "state": "FL",
+  "county": "Clay",
+  "title": "Artificial Turf in Lakeside, FL | TIMELESS Grass & Greens",
+  "description": "A lawn or pet area for your Lakeside yard. Plan turf around the established trees, paths and patio you want to keep.",
+  "h1": "A lawn or pet area for your Lakeside yard.",
+  "lede": "Plan turf around the established trees, paths and patio you want to keep. We offer free visits for lawns, dog areas and backyard greens.",
+  "wins": [
+    "Choose the worn area that matters most",
+    "Keep tree canopy and cleanup access in view",
+    "Price preparation and finished edges"
+  ],
+  "answer": {
+    "question": "What should I consider when planning turf under Lakeside trees?",
+    "answer": "Mark the canopy and obtain any tree certification required for work inside the drip line before choosing the turf boundary. Consider leaf cleanup and the route through the yard. A pet area or small green can be compared with a lawn in the space that remains usable."
+  },
+  "blocks": [
+    {
+      "icon": "leaf",
+      "kicker": "Under established trees",
+      "h2": "Keep the shade without ignoring the roots.",
+      "paras": [
+        "A lawn that struggles under the canopy can prompt a surface change, but tree roots still constrain preparation. Discuss where turf would meet beds or mulch and what advice is required before proposing excavation. Include leaves and acorns in the maintenance routine."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Toward Doctors Lake",
+      "h2": "Show the actual water problem.",
+      "paras": [
+        "For a creek-side or low-lying lot, bring drainage and shoreline information and photos after rain. A wet patch needs its cause understood; changing the visible surface does not make a wider water problem disappear.",
+        "Lakeside is unincorporated Clay County. Confirm the requirements for the property and any association, including if a proposed project also involves commercial or required landscape areas. Ask for the work and any unresolved conditions to be clear in the estimate."
+      ]
+    }
+  ],
+  "services": [
+    "residential-turf",
+    "pet-turf",
+    "putting-greens"
+  ],
+  "servicesNote": "Compare a lawn, pet area or green within the usable part of your established yard.",
+  "faq": [],
+  "nearby": [
+    "orange-park-fl",
+    "doctors-inlet-fl",
+    "fleming-island-fl",
+    "oakleaf-plantation-fl"
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia: Lakeside, Clay County, Florida",
+      "url": "https://en.wikipedia.org/wiki/Lakeside,_Clay_County,_Florida"
+    },
+    {
+      "label": "Fla. Stat. 720.3045: items not visible from the frontage, including artificial turf",
+      "url": "https://www.flsenate.gov/Laws/Statutes/2024/720.3045"
+    },
+    {
+      "label": "USDA Soil Data Access (SSURGO), Clay County survey area",
+      "url": "https://sdmdataaccess.sc.egov.usda.gov/"
+    },
+    {
+      "label": "USDA Official Series Description: Leon series",
+      "url": "https://soilseries.sc.egov.usda.gov/OSD_Docs/L/LEON.html"
+    },
+    {
+      "label": "Clay County Utility Authority: Phase III water shortage restrictions",
+      "url": "https://clayutility.org/phase-iii-water-shortage-restrictions-now-in-effect/"
+    },
+    {
+      "label": "Clay County Code of Ordinances, Ch. 18.5 (Secs. 18.5-51, 18.5-53, 18.5-73)",
+      "url": "https://library.municode.com/fl/clay_county/codes/code_of_ordinances"
+    },
+    {
+      "label": "Clay County Utility Authority: conservation programs",
+      "url": "https://clayutility.org/community/conservation-programs/"
+    },
+    {
+      "label": "Eagle Harbor Golf Club",
+      "url": "https://www.eagleharborgc.com/"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

@@ -9,6 +9,8 @@ import type { APIRoute } from 'astro';
 import { MARKETS } from '../data/markets';
 import { SERVICES } from '../data/services';
 import { GUIDES } from '../data/guides';
+import { getPublishedCollection } from '../lib/published-content';
+import { assertUniqueRoutes } from '../lib/content-policy.mjs';
 
 const SITE = 'https://www.timelessgrass.com';
 
@@ -24,9 +26,16 @@ export function routes(): string[] {
 }
 
 export const GET: APIRoute = async () => {
+  /* articles come from the content collection, so a new post cannot ship absent from the sitemap */
+  const all = [
+    ...routes(), '/blog/', ...(await getPublishedCollection('blog')).map((p) => `/blog/${p.id}/`),
+    ...(await getPublishedCollection('towns')).map((t) => `/${t.data.market}/${t.id}/`),
+    ...(await getPublishedCollection('localServices')).map((l) => `/${l.data.market}/${l.data.service}/`),
+  ];
+  assertUniqueRoutes(all);
   const body = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-${routes().map((r) => `  <url><loc>${SITE}${r}</loc></url>`).join('\n')}
+${all.map((r) => `  <url><loc>${SITE}${r}</loc></url>`).join('\n')}
 </urlset>
 `;
   return new Response(body, { headers: { 'Content-Type': 'application/xml' } });

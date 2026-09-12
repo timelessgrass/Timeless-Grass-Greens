@@ -1,0 +1,115 @@
+{
+  "status": "published",
+  "market": "grand-strand",
+  "name": "North Myrtle Beach",
+  "state": "SC",
+  "county": "Horry",
+  "title": "Artificial Turf in North Myrtle Beach, SC | TIMELESS Grass & Greens",
+  "description": "Lawns, putting greens and commercial turf in North Myrtle Beach. Plan a useful outdoor space, from a private green to a shared courtyard.",
+  "h1": "Lawns, putting greens and commercial turf in North Myrtle Beach.",
+  "lede": "Plan a useful outdoor space, from a private green to a shared courtyard. Start with a free visit, turf options and a written installation price.",
+  "wins": [
+    "Choose the layout around how you use the space",
+    "Discuss preparation, care and property access",
+    "Get the installation scope before deciding"
+  ],
+  "answer": {
+    "question": "What should I check before choosing turf in North Myrtle Beach?",
+    "answer": "Decide how the area will be used, then ask the City which requirements apply to your property and proposal. Lot coverage and drainage may affect the plan. Obtain any association requirements too, and bring the answers to the free estimate."
+  },
+  "blocks": [
+    {
+      "icon": "flag",
+      "kicker": "A green of your own",
+      "h2": "Make room for the putts you want to practice.",
+      "paras": [
+        "Choose useful putt lengths and where you want to stand before adding cups or a fringe. Around a patio, leave enough walking room to keep the rest of the yard usable. We’ll discuss the layout and turf options before the installation is priced.",
+        "For a golf-community property, bring the current association requirements. A nearby completed green does not establish what is permitted on your lot."
+      ]
+    },
+    {
+      "icon": "building",
+      "kicker": "Shared outdoor areas",
+      "h2": "Include the operating plan in the estimate.",
+      "paras": [
+        "For a hotel lawn, condo courtyard or common area, identify the authorized property representative and discuss access while work is underway. Note delivery routes, storage and any space that must remain available to residents or guests.",
+        "Describe traffic, pet use and the intended cleaning routine so the proposed turf system can be considered for that job. For a beach-side site, discuss debris and blown sand as part of maintenance."
+      ]
+    },
+    {
+      "icon": "shield",
+      "kicker": "Property requirements",
+      "h2": "Get the City’s answer for the complete installation.",
+      "paras": [
+        "North Myrtle Beach has requirements governing how surfaces count toward lot coverage. Ask the City what applies to your property type and whether it needs product information or construction details for the proposed turf system.",
+        "Treat grading, drainage and associated work as part of that discussion. Bring the written requirements to the estimate; turf’s product description alone does not establish how the City will classify the finished installation."
+      ]
+    }
+  ],
+  "services": [
+    "commercial-turf",
+    "residential-turf",
+    "putting-greens"
+  ],
+  "servicesNote": "Compare a lawn, putting green or commercial surface with the property’s intended use and installation requirements.",
+  "faq": [],
+  "nearby": [
+    "briarcliffe-acres-sc",
+    "little-river-sc",
+    "longs-sc",
+    "myrtle-beach-sc"
+  ],
+  "sources": [
+    {
+      "label": "City of North Myrtle Beach Code, Sec. 23-129.4 (standards for pervious and impervious surfaces)",
+      "url": "https://library.municode.com/sc/north_myrtle_beach/codes/code_of_ordinances?nodeId=COOR_CH23ZO_ARTVIIGESURE_S23-129.4STPESUIMSUSIMIDURENOSUSIECDEPLRE"
+    },
+    {
+      "label": "City of North Myrtle Beach: ZTX-25-8 ordinance text and staff report (first reading, 18 August 2025)",
+      "url": "https://www.nmb.us/AgendaCenter/ViewFile/Item/1281?fileID=3993"
+    },
+    {
+      "label": "City of North Myrtle Beach: City Council minutes, 6 October 2025",
+      "url": "https://www.nmb.us/AgendaCenter/ViewFile/Item/1308?fileID=4116"
+    },
+    {
+      "label": "City of North Myrtle Beach: stormwater utility fees effective 1 July 2026",
+      "url": "https://www.nmb.us/DocumentCenter/View/6299"
+    },
+    {
+      "label": "City of North Myrtle Beach: stormwater drainage fee budget sheet (ERU of 3,500 square feet)",
+      "url": "https://www.nmb.us/documentcenter/view/4197"
+    },
+    {
+      "label": "Wikipedia: North Myrtle Beach, South Carolina",
+      "url": "https://en.wikipedia.org/wiki/North_Myrtle_Beach,_South_Carolina"
+    },
+    {
+      "label": "USDA official soil series description: Newhan",
+      "url": "https://soilseries.sc.egov.usda.gov/OSD_Docs/N/NEWHAN.html"
+    },
+    {
+      "label": "Barefoot Resort golf",
+      "url": "https://www.barefootgolf.com/"
+    },
+    {
+      "label": "Tidewater Golf Club",
+      "url": "https://www.tidewatergolf.com/"
+    },
+    {
+      "label": "Horry County history: Atlantic Beach historical marker",
+      "url": "https://horrycountyhistory.org/horry-county-historical-markers/atlantic-beach/"
+    },
+    {
+      "label": "Wikipedia: Atlantic Beach, South Carolina",
+      "url": "https://en.wikipedia.org/wiki/Atlantic_Beach,_South_Carolina"
+    }
+  ],
+  "checked": "2026-09-07",
+  "foldedFrom": [
+    "atlantic-beach-sc"
+  ],
+  "publicReferences": [
+    "https://library.municode.com/sc/north_myrtle_beach/codes/code_of_ordinances?nodeId=COOR_CH23ZO_ARTVIIGESURE_S23-129.4STPESUIMSUSIMIDURENOSUSIECDEPLRE"
+  ]
+}

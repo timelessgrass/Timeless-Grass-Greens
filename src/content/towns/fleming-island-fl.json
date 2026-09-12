@@ -1,0 +1,103 @@
+{
+  "status": "published",
+  "market": "northeast-florida",
+  "name": "Fleming Island",
+  "state": "FL",
+  "county": "Clay",
+  "title": "Artificial Turf in Fleming Island, FL | TIMELESS Grass & Greens",
+  "description": "Lawns and putting greens for Fleming Island homes. Plan a lawn, pet area or backyard green beside the landscape you want to keep.",
+  "h1": "Lawns and putting greens for Fleming Island homes.",
+  "lede": "Plan a lawn, pet area or backyard green beside the landscape you want to keep. Start with a free visit and written estimate.",
+  "wins": [
+    "Useful putting lines or everyday lawn space",
+    "Leave pond edges and drainage routes clear",
+    "Bring the right community requirements"
+  ],
+  "answer": {
+    "question": "How close should turf go to a Fleming Island pond or shoreline?",
+    "answer": "Where Florida’s residential turf standard applies, it generally requires a 10-foot waterbody setback, with an exception where a seawall or bulkhead separates the site. It also keeps turf out of swales, ditches and pond littoral areas. Confirm the boundary and applicable conditions before finalizing the layout."
+  },
+  "blocks": [
+    {
+      "icon": "flag",
+      "kicker": "Practice beside the house",
+      "h2": "Choose the shots and leave room around them.",
+      "paras": [
+        "A green can offer short-game practice without taking over the entire yard. Discuss cup positions, contours and any fringe after deciding the putting lines you want. Keep paths, planting and a separate pet area in the plan.",
+        "On a pine-shaded lot, include needle cleanup and tree-root constraints before choosing the turf boundary."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Pond and preserve properties",
+      "h2": "Keep the drainage area doing its job.",
+      "paras": [
+        "Mark the pond boundary, swales, drains and any maintenance access on the property plan. The existing stormwater system and required shoreline separation need to remain part of the layout, even if the fence extends farther.",
+        "Fleming Island Plantation, Eagle Harbor and Pace Island have different governing bodies and requirements. Obtain the current instructions for your property, including any architectural review and CDD conditions. Bring those responses to the estimate rather than relying on another community’s approval."
+      ]
+    }
+  ],
+  "services": [
+    "putting-greens",
+    "residential-turf",
+    "pet-turf"
+  ],
+  "servicesNote": "Compare a lawn, green or pet area within the usable part of your community property.",
+  "faq": [],
+  "nearby": [
+    "hibernia-fl",
+    "doctors-inlet-fl",
+    "orange-park-fl",
+    "lakeside-fl"
+  ],
+  "sources": [
+    {
+      "label": "Fleming Island Plantation Community Development District",
+      "url": "https://fipcdd.com/"
+    },
+    {
+      "label": "Fleming Island Plantation community site: covenants and BAR Guidelines",
+      "url": "https://www.flemingislandplantationowners.com/"
+    },
+    {
+      "label": "The Crossings at Fleming Island Community Development District",
+      "url": "https://thecrossingsatflemingislandcdd.com/"
+    },
+    {
+      "label": "Wikipedia: Fleming Island, Florida",
+      "url": "https://en.wikipedia.org/wiki/Fleming_Island,_Florida"
+    },
+    {
+      "label": "DEP Rule 62-308.100, F.A.C.: synthetic turf (adopted rule text)",
+      "url": "https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc"
+    },
+    {
+      "label": "Clay County Utility Authority: irrigation information",
+      "url": "https://clayutility.org/residents-business/irrigation-information/"
+    },
+    {
+      "label": "CourseVaults: The Golf Club at Fleming Island",
+      "url": "https://www.coursevaults.com/course/fleming-island-at-the-golf-club-of-fleming-island-fleming-island-florida"
+    },
+    {
+      "label": "Eagle Harbor Golf Club",
+      "url": "https://www.eagleharborgc.com/"
+    },
+    {
+      "label": "Florida DEP: Synthetic Turf FAQ",
+      "url": "https://floridadep.gov/sites/default/files/SyntheticTurfFAQ%20final.pdf"
+    },
+    {
+      "label": "Florida Senate: SB 1180 (2026) analysis, CDD carve-out",
+      "url": "https://www.flsenate.gov/Session/Bill/2026/1180/Analyses/2026s01180.fp.PDF"
+    },
+    {
+      "label": "Fla. Stat. 720.3045: items not visible from the frontage, including artificial turf",
+      "url": "https://www.flsenate.gov/Laws/Statutes/2024/720.3045"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": [
+    "https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "status": "published",
+  "market": "northeast-florida",
+  "service": "pet-turf",
+  "title": "Pet Turf in Northeast Florida | TIMELESS Grass & Greens",
+  "description": "Pet turf installation across northeast Florida, with the dog’s daily use, drainage, cleaning access and ongoing care considered in the layout.",
+  "h1": "Pet turf planned around your dog and your daily routine.",
+  "lede": "A dedicated dog run or a larger backyard lawn, from Fernandina Beach to St. Augustine. We discuss the space, drainage and cleaning access at a free visit, then provide turf options and a written price.",
+  "wins": [
+    "Choose a dog run or a larger lawn area",
+    "Keep cleanup access in the layout",
+    "Know the installation price before work starts"
+  ],
+  "answer": {
+    "question": "What should a pet-turf installation in northeast Florida include?",
+    "answer": "Plan the area around the dog’s daily use, existing drainage and access for cleaning. Pet turf still needs waste pickup and regular care, and it can develop odor. TIMELESS Grass & Greens offers a free visit, a custom layout, turf options and a written price for northeast Florida pet areas."
+  },
+  "blocks": [
+    {
+      "icon": "paw",
+      "kicker": "Daily use",
+      "h2": "Start with the route from the door and the spots your dog uses.",
+      "paras": [
+        "Decide whether you want a dedicated run or a lawn that people and pets share. Keep the gate, seating and planting areas in the drawing. Point out where the dog already spends time and how you will reach that area to pick up waste and rinse it.",
+        "Pet turf needs ongoing care. The surface can develop odor; drainage and regular cleaning help manage it. Our <a href=\"/blog/how-to-clean-pet-turf/\">pet-turf cleaning guide</a> covers routine care. If odor persists, the cleaning routine and the turf system need assessment before choosing a remedy."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "The installation",
+      "h2": "Look at the yard’s drainage before selecting the surface.",
+      "paras": [
+        "Show us any standing water, downspouts, existing drains and low areas. Include gate width and the route for bringing materials into the yard. Ask which preparation, base, seams and edging the installation price includes, and identify any drainage alterations separately.",
+        "The proposed work needs to account for the area and its drainage route. Keep any existing drainage plans and property requirements available for the visit."
+      ]
+    },
+    {
+      "icon": "shield",
+      "kicker": "Before installation",
+      "h2": "Bring the property requirements into the plan.",
+      "paras": [
+        "Tell us whether the pet area is a private backyard, a shared space or a commercial dog run. Those uses can have different requirements. Check any association or property-manager approval before finalizing the layout.",
+        "Ask which material and installation requirements apply to the proposed system at your address. Choose the backing, base and infill together, with a care routine you can carry out. The <a href=\"/guides/florida-turf-infill-rules/\">Florida turf guide</a> explains the state standard’s scope."
+      ]
+    },
+    {
+      "icon": "ruler",
+      "kicker": "The written price",
+      "h2": "Include access and the existing surface.",
+      "paras": [
+        "The size of the pet area is only one part of the quote. Removal, narrow gates, preparation, drainage work and the way the turf meets fences or paving all affect the job. Show us those details at the free visit so the written scope explains what is included.",
+        "A dog run may be the right place to start when you want to keep grass elsewhere. For a larger shared lawn, include the family’s routes and seating areas as well as the spots the dog uses."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Does pet turf eliminate the need to use water in the yard?",
+      "a": "It removes routine irrigation for living grass from the converted area. Cleaning and rinsing still use water, so include access and ongoing care when deciding on the layout."
+    },
+    {
+      "q": "Will it be comfortable in full sun?",
+      "a": "Turf can become hot in direct sun. Include shade and access to a cooler resting place in the layout, and check the surface before letting a dog use it."
+    },
+    {
+      "q": "Does an older pet area need replacement if it smells?",
+      "a": "Odor needs assessment of the cleaning routine, infill and drainage first. The findings help determine whether cleaning, a localized repair or replacement would address the problem."
+    }
+  ],
+  "towns": [
+    "jacksonville-fl",
+    "oakleaf-plantation-fl",
+    "nocatee-fl",
+    "julington-creek-plantation-fl",
+    "orange-park-fl",
+    "fleming-island-fl",
+    "atlantic-beach-fl",
+    "st-johns-fl"
+  ],
+  "sources": [
+    {
+      "label": "Rule 62-308.100: adopted rule text",
+      "url": "https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc"
+    },
+    {
+      "label": "Florida DEP: Synthetic Turf FAQ",
+      "url": "https://floridadep.gov/sites/default/files/SyntheticTurfFAQ%20final.pdf"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

@@ -9,13 +9,11 @@ import Process from '../../components/Process.astro';
 import { SERVICES } from '../../data/services';
 import { MARKETS } from '../../data/markets';
 import { SHOTS } from '../../data/shotlist';
+import { getPublishedCollection } from '../../lib/published-content';
 import { phone, phoneHref, positioning, fact } from '../../data/brief';
 
-/* A sales page per service, in the order a buyer decides:
-     hero → what you get → the work → what's included → how it works → questions →
-     the fine print (closed) → where we work → the offer.
-   The copy lives in services.ts. Claims trace to the call, the old site, or a cited source;
-   the researched statutes and studies sit in the closed fine print, not in the pitch. */
+/* Customer flow: offer, options, real work, installation scope, practical questions and estimate.
+   Copy and internal evidence are maintained separately; only useful selected references render. */
 export function getStaticPaths() {
   return SERVICES.map((s) => ({ params: { slug: s.slug }, props: { s } }));
 }
@@ -24,23 +22,17 @@ const materials = fact<string>(positioning?.materials);
 const shot = (id: string) => SHOTS.find((x) => x.id === id && x.file);
 const heroFile = s.heroShot ? shot(s.heroShot)?.file ?? null : null;
 const work = s.work.map(shot).filter((x): x is NonNullable<typeof x> => !!x);
+/* articles that answer this service's questions, linked from the FAQ; the ones written mainly for it first */
+const reads = (await getPublishedCollection('blog')).filter((p) => p.data.related.services.includes(s.slug))
+  .sort((a, b) => Number(b.data.related.services[0] === s.slug) - Number(a.data.related.services[0] === s.slug)).slice(0, 6);
+/* areas where this service has a page of its own */
+const areaPages = new Set((await getPublishedCollection('localServices')).filter((l) => l.data.service === s.slug).map((l) => l.data.market));
 const crumbs = [
   { name: 'Home', item: `${Astro.site}` },
   { name: 'Services', item: `${Astro.site}services/` },
   { name: s.name, item: `${Astro.site}services/${s.slug}/` },
 ];
-/* Every job, every service. Old site "how we work" and FAQ: a free site consultation; a custom
-   design you approve before install; "site preparation, base installation, turf placement, and
-   finishing"; "we handle all site prep and cleanup"; "we walk you through care and maintenance". */
-const EVERY = [
-  'A free visit to measure and check the ground',
-  'A custom layout you approve before work starts',
-  'Site prep and a base built for your soil',
-  'Turf laid, seamed and edged',
-  'Infill and finishing',
-  'Cleanup when we’re done',
-  'A walkthrough of the care it needs',
-];
+
 ---
 <Base title={s.title} description={s.description} answer={s.answer} crumbs={crumbs} faq={s.faq} schema={[{
   '@type': 'Service', '@id': `${Astro.site}services/${s.slug}/#service`, name: s.name, serviceType: s.name, description: s.description,
@@ -62,11 +54,11 @@ const EVERY = [
       <p class="hero__lede">{s.lede}</p>
       <ul class="hero__wins">{s.wins.map((w) => <li>{w}</li>)}</ul>
       <div class="hero__cta">
-        <a class="btn btn--primary btn--lg" href="/estimate/" data-estimate={s.preset} data-cta={`quote-hero-${s.slug}`}>Get a free estimate<Icon name="arrow" /></a>
+        <a class="btn btn--primary btn--lg" href="/estimate/" data-estimate={s.preset} data-cta={`quote-hero-${s.slug}`}>Request a free estimate<Icon name="arrow" /></a>
         {phoneHref && <a class="btn btn--ghost btn--lg" href={phoneHref} data-cta={`call-hero-${s.slug}`}><Icon name="phone" />Call <span class="nowrap">{phone}</span></a>}
       </div>
       <ul class="hero__trust">
-        <li><Icon name="check" />13 years&rsquo; experience</li>
+        <li><Icon name="check" />Layout approved before installation</li>
         {materials && <li><Icon name="check" />American-made turf</li>}
         <li><Icon name="check" />Free estimates, no pressure</li>
       </ul>
@@ -81,7 +73,7 @@ const EVERY = [
         <p class="micro">What you get</p>
         <h2>{s.benefitsHeading}</h2>
       </div>
-      <ul class="benefits">
+      <ul class="benefits benefits--summary">
         {s.benefits.map((b) => (
           <li class="benefit" data-reveal>
             <span class="benefit__ico"><Icon name={b.icon} /></span>
@@ -103,10 +95,10 @@ const EVERY = [
         <h2>{s.workHeading}</h2>
       </div>
       <div class="workgrid">
-        {work.map((w) => <Figure shot={w} sizes="(min-width: 900px) 30vw, 46vw" reveal />)}
+        {work.map((w, i) => <Figure shot={w} sizes={`(min-width: 1180px) 580px, (min-width: 700px) 46vw, ${i === 0 || (i === work.length - 1 && work.length % 2 === 0) ? '92vw' : '44vw'}`} reveal />)}
       </div>
       <div class="mosaic__actions">
-        <a class="btn btn--light" href="/estimate/" data-estimate={s.preset} data-cta={`quote-work-${s.slug}`}>Get a free estimate<Icon name="arrow" /></a>
+        <a class="btn btn--light" href="/estimate/" data-estimate={s.preset} data-cta={`quote-work-${s.slug}`}>Request a free estimate<Icon name="arrow" /></a>
       </div>
     </div>
   </section>
@@ -122,9 +114,9 @@ const EVERY = [
         <ul class="checks">{s.options.items.map((i) => <li><Icon name="check" />{i}</li>)}</ul>
       </div>
       <div data-reveal>
-        <p class="micro">Every install includes</p>
-        <h2>Done right, start to finish.</h2>
-        <ul class="checks">{EVERY.map((i) => <li><Icon name="check" />{i}</li>)}</ul>
+        <p class="micro">Your installation includes</p>
+        <h2>What’s included.</h2>
+        <ul class="checks">{s.inclusions.map((i) => <li><Icon name="check" />{i}</li>)}</ul>
       </div>
     </div>
   </section>
@@ -135,7 +127,7 @@ const EVERY = [
 
 
   <!-- 6 · QUESTIONS — the first one open, so the depth shows without a tap -->
-  <section class="sec">
+  <section class="sec sec--band">
     <div class="wrap">
       <div class="kick" data-reveal>
         <p class="micro">FAQ</p>
@@ -146,11 +138,17 @@ const EVERY = [
           <details class="qa" open={i === 0}><summary><h3>{f.q}</h3></summary><p set:html={f.a} /></details>
         ))}
       </div>
+      {reads.length > 0 && (
+        <div class="rules" data-reveal>
+          <p class="micro">More questions, answered</p>
+          <ul class="lawlinks lawlinks--light">{reads.map((r) => <li><a href={`/blog/${r.id}/`} data-cta={`guide-blog-${r.id}`}>{r.data.h1}</a></li>)}</ul>
+        </div>
+      )}
     </div>
   </section>
 
 
-  <!-- 7 · THE FINE PRINT — the researched statutes and studies, closed until asked for -->
+  <!-- Optional practical follow-up questions; no automatic research appendix. -->
   <Extra slug={s.slug} collapsed />
 
 
@@ -164,10 +162,10 @@ const EVERY = [
       <ul class="areas">
         {MARKETS.map((m) => (
           <li class="arearow" data-reveal>
-            <a href={`/${m.slug}/`} data-cta={`market-${m.slug}`}>
+            <a href={areaPages.has(m.slug) ? `/${m.slug}/${s.slug}/` : `/${m.slug}/`} data-cta={`market-${m.slug}`}>
               <span class="arearow__n"><Icon name="pin" class="arearow__pin" />{m.name}</span>
               <span class="arearow__t">{m.towns.join(' · ')}</span>
-              <span class="arearow__g">See the area &rarr;</span>
+              <span class="arearow__g">{areaPages.has(m.slug) ? `${s.name} in ${m.name}` : 'See the area'} &rarr;</span>
             </a>
           </li>
         ))}

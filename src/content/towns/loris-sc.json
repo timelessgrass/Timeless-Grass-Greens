@@ -1,0 +1,83 @@
+{
+  "status": "published",
+  "market": "grand-strand",
+  "name": "Loris",
+  "state": "SC",
+  "county": "Horry",
+  "title": "Artificial Turf in Loris, SC | TIMELESS Grass & Greens",
+  "description": "Practice greens, dog runs and sports turf in Loris. Make room for golf practice, a pet area or a training surface on your property.",
+  "h1": "Practice greens, dog runs and sports turf in Loris.",
+  "lede": "Make room for golf practice, a pet area or a training surface on your property. We cover Loris with free site visits and written installation estimates.",
+  "wins": [
+    "A layout for the activity you have in mind",
+    "Preparation and finishing in a clear scope",
+    "A free visit in the Loris area"
+  ],
+  "answer": {
+    "question": "Do you provide turf installation estimates in Loris?",
+    "answer": "Yes. Loris is within our Grand Strand service area. We can discuss a backyard putting green, pet area or sports-turf project during a free visit. Show us the space, the access route and any wet areas so the estimate reflects the proposed work."
+  },
+  "blocks": [
+    {
+      "icon": "flag",
+      "kicker": "Space to practice",
+      "h2": "Choose the activity before sizing the surface.",
+      "paras": [
+        "For golf, decide on putting distances, cups and whether you want a place to chip. For a batting or training area, bring the equipment layout and intended use. Leave enough room around the playing surface for access and the activities that happen beside it.",
+        "A bigger parcel does not require a bigger project. A defined practice area or dog run can leave the rest of the property as it is."
+      ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "The work beneath it",
+      "h2": "Price the actual site, including the route in.",
+      "paras": [
+        "Show us where water stands after rain and how materials can reach the work area. Note fences, gates and any buried systems you know about. Keep drainage work and unresolved ground conditions visible in the installation scope.",
+        "Confirm whether the property is in Loris or unincorporated Horry County before checking requirements. For fields or equipment areas, ask about the intended turf system and relevant product documentation; the surface choice alone does not establish suitability for every activity."
+      ]
+    }
+  ],
+  "services": [
+    "sports-field-turf",
+    "putting-greens",
+    "pet-turf"
+  ],
+  "servicesNote": "Discuss a putting green, pet area or sports surface with a layout and scope specific to its use.",
+  "faq": [],
+  "nearby": [
+    "longs-sc",
+    "nixonville-sc",
+    "little-river-sc"
+  ],
+  "sources": [
+    {
+      "label": "Loris Chamber of Commerce: attractions",
+      "url": "https://lorischamber.com/attractions"
+    },
+    {
+      "label": "Loris Chamber of Commerce: history of Loris",
+      "url": "https://lorischamber.com/history-of-loris"
+    },
+    {
+      "label": "USDA NRCS Soil Data Access (SSURGO point query at Goretown, map unit 130153)",
+      "url": "https://sdmdataaccess.sc.egov.usda.gov/"
+    },
+    {
+      "label": "USDA official soil series description: Leon",
+      "url": "https://soilseries.sc.egov.usda.gov/OSD_Docs/L/LEON.html"
+    },
+    {
+      "label": "Horry County Stormwater: storm water permitting",
+      "url": "https://www.horrycountysc.gov/departments/stormwater/engineers/construction/storm-water-permitting/"
+    },
+    {
+      "label": "Play Golf Myrtle Beach: Diamondback Golf Club",
+      "url": "https://www.playgolfmyrtlebeach.com/courses/diamondback-golf-club/"
+    }
+  ],
+  "checked": "2026-09-07",
+  "foldedFrom": [
+    "goretown-sc"
+  ],
+  "publicReferences": []
+}

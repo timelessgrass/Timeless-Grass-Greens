@@ -1,0 +1,150 @@
+{
+  "status": "published",
+  "market": "northeast-florida",
+  "name": "Jacksonville",
+  "state": "FL",
+  "county": "Duval",
+  "title": "Artificial Turf in Jacksonville, FL | TIMELESS Grass & Greens",
+  "description": "Artificial lawns, pet areas and greens in Jacksonville. Make the worn or unused part of your yard work for you.",
+  "h1": "Artificial lawns, pet areas and greens in Jacksonville.",
+  "lede": "Make the worn or unused part of your yard work for you. We offer free visits, custom layouts and written installation estimates across Jacksonville.",
+  "wins": [
+    "Plan around the trees and paths you keep",
+    "Choose a useful lawn, pet area or green",
+    "Include preparation and care in the discussion"
+  ],
+  "answer": {
+    "question": "What should I bring to a Jacksonville turf estimate?",
+    "answer": "Bring the part of the yard you want to change, your intended use and any property plan or community requirements. Show us trees, narrow access, wet areas and drainage features. For a historic, pond-side or waterfront property, include any applicable review conditions before the layout is finalized."
+  },
+  "blocks": [
+    {
+      "icon": "home",
+      "kicker": "Riverside and established city yards",
+      "h2": "Keep the patio, garage route and trees working together.",
+      "paras": [
+        "In a narrow yard, a pet area can follow the route from the door while leaving seating and planting intact. A green needs useful putting lines and space to stand, rather than extra cups in every corner. Show us the narrowest gate and existing paved edges.",
+        "For a property in the Riverside Avondale historic district, ask City preservation staff whether the site change needs a Certificate of Appropriateness. Obtain any required tree certification before planning turf beneath a mature canopy."
+      ]
+    },
+    {
+      "icon": "leaf",
+      "kicker": "Mandarin and wooded properties",
+      "h2": "Mark the canopy before placing the surface.",
+      "paras": [
+        "Where Florida’s residential standard applies, turf inside a tree’s drip line needs a certified arborist’s finding that the installation will not harm the tree. Keep suitable planting or mulch there unless the required certification is obtained.",
+        "Discuss pet cleanup and leaf removal alongside the footprint. If a wet area or odor problem is already present, its cause and any additional work need to be considered separately from turf selection."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Intracoastal and Northside pond lots",
+      "h2": "Leave water routes and maintenance access clear.",
+      "paras": [
+        "Bring the property plan and mark swales, pond edges and easements. The applicable state standard keeps turf out of swales, ditches and pond littoral areas and generally requires a 10-foot waterbody separation, with a seawall or bulkhead exception. Confirm those boundaries before choosing the usable turf area.",
+        "For a golf-facing, shared or association property, obtain the actual community requirements. A fenced yard should not automatically be assumed private from every relevant viewpoint, and an association’s response does not resolve all public requirements."
+      ]
+    }
+  ],
+  "services": [
+    "residential-turf",
+    "putting-greens",
+    "pet-turf"
+  ],
+  "servicesNote": "Compare a lawn, pet area or practice green with the constraints and everyday use of your particular yard.",
+  "faq": [],
+  "nearby": [
+    "jacksonville-beach-fl",
+    "atlantic-beach-fl",
+    "orange-park-fl",
+    "st-johns-fl"
+  ],
+  "sources": [
+    {
+      "label": "Cummer Museum of Art and Gardens (the Cummer Oak)",
+      "url": "https://en.wikipedia.org/wiki/Cummer_Museum_of_Art_and_Gardens"
+    },
+    {
+      "label": "Geography of Jacksonville, Florida",
+      "url": "https://en.wikipedia.org/wiki/Geography_of_Jacksonville,_Florida"
+    },
+    {
+      "label": "Riverside Avondale Preservation: Certificates of Appropriateness",
+      "url": "https://riversideavondale.org/"
+    },
+    {
+      "label": "San Marco, Jacksonville",
+      "url": "https://en.wikipedia.org/wiki/San_Marco,_Jacksonville"
+    },
+    {
+      "label": "USDA Official Series Description: Mandarin",
+      "url": "https://soilseries.sc.egov.usda.gov/OSD_Docs/M/MANDARIN.html"
+    },
+    {
+      "label": "USDA Official Series Description: Ortega",
+      "url": "https://soilseries.sc.egov.usda.gov/OSD_Docs/O/ORTEGA.html"
+    },
+    {
+      "label": "USDA Official Series Description: Leon",
+      "url": "https://soilseries.sc.egov.usda.gov/OSD_Docs/L/LEON.html"
+    },
+    {
+      "label": "USDA NRCS Soil Data Access (SSURGO): drainage class by county",
+      "url": "https://sdmdataaccess.nrcs.usda.gov/"
+    },
+    {
+      "label": "Fla. Stat. 720.3045: items an HOA may not restrict",
+      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0700-0799/0720/Sections/0720.3045.html"
+    },
+    {
+      "label": "Fla. Stat. 125.572: regulation of synthetic turf",
+      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0100-0199%2F0125%2FSections%2F0125.572.html"
+    },
+    {
+      "label": "Florida Administrative Code: Rule 62-308.100, Synthetic Turf",
+      "url": "https://www.flrules.org/gateway/ruleNo.asp?id=62-308.100"
+    },
+    {
+      "label": "Rule 62-308.100: adopted rule text",
+      "url": "https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc"
+    },
+    {
+      "label": "Florida DEP: Synthetic Turf FAQ",
+      "url": "https://floridadep.gov/sites/default/files/SyntheticTurfFAQ%20final.pdf"
+    },
+    {
+      "label": "UF/IFAS EP612: Synthetic Turfgrass and Florida-Friendly Landscaping",
+      "url": "https://ask.ifas.ufl.edu/publication/EP612"
+    },
+    {
+      "label": "St. Johns River Water Management District: watering restrictions",
+      "url": "https://www.sjrwmd.com/wateringrestrictions/"
+    },
+    {
+      "label": "St. Johns River Water Management District: water shortage orders",
+      "url": "https://www.sjrwmd.com/water-supply/water-shortage/"
+    },
+    {
+      "label": "Clay County Utility Authority: irrigation information",
+      "url": "https://clayutility.org/residents-business/irrigation-information/"
+    }
+  ],
+  "checked": "2026-09-07",
+  "foldedFrom": [
+    "mandarin-fl",
+    "arlington-east-arlington-fl",
+    "riverside-fl",
+    "san-marco-fl",
+    "san-jose-san-jose-forest-fl",
+    "beauclerc-fl",
+    "southside-fl",
+    "northside-oceanway-fl",
+    "intracoastal-west-fl",
+    "queens-harbour-yacht-country-club-fl",
+    "glen-kernan-golf-country-club-fl",
+    "pablo-creek-reserve-fl"
+  ],
+  "publicReferences": [
+    "https://www.flrules.org/gateway/ruleNo.asp?id=62-308.100"
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "status": "published",
+  "market": "grand-strand",
+  "service": "commercial-turf",
+  "title": "Commercial Turf in Myrtle Beach | TIMELESS Grass & Greens",
+  "description": "Commercial turf for Grand Strand play areas, dog runs and shared spaces. Plan the surface, site preparation and upkeep with a free visit and written estimate.",
+  "h1": "Turf for play areas, dog runs and shared spaces.",
+  "lede": "Plan a Grand Strand space around the people and pets who use it. Timeless installs commercial turf for daycares, pet facilities and common areas, starting with a free site visit, custom layout and written price.",
+  "wins": [
+    "Choose the system for the activities and traffic",
+    "Plan drainage, cleaning access and finished edges",
+    "Approve the layout and price before installation"
+  ],
+  "answer": {
+    "question": "What should a commercial turf estimate cover?",
+    "answer": "The estimate should describe the space, its intended use and the work needed underneath the turf. We start with a free visit to measure, discuss product and layout options, and identify preparation, drainage and access needs. The written price gives you a scope to review before work starts."
+  },
+  "blocks": [
+    {
+      "icon": "building",
+      "kicker": "Your space",
+      "h2": "Start with the daily routine.",
+      "paras": [
+        "A daycare play yard, a busy dog run and an HOA gathering space need different choices. Tell us who uses the area, how traffic moves through it and which gates, paths or equipment need to stay accessible. That helps define where the turf belongs and how its edges meet the rest of the property.",
+        "For play equipment, review the required impact protection and accessibility of the complete surface system before choosing a pad or turf. For pet facilities, discuss cleaning access and where wash water can go. For shared spaces, identify who will handle routine care and who needs to approve the layout."
+      ]
+    },
+    {
+      "icon": "ruler",
+      "kicker": "Plan and price",
+      "h2": "Compare the complete installation.",
+      "paras": [
+        "Area is one part of the price. Removing an existing surface, reaching the work area, preparing the ground, addressing drainage, finishing edges and selecting the turf system all affect the scope. Bring any existing site plan and point out water that collects after rain.",
+        "An occupied property also needs a work-access plan. Discuss delivery access, temporary closures and the route people or pets will use while work is underway. Agree those details with the installation scope before committing to closure dates."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Everyday care",
+      "h2": "Less mowing still leaves work to do.",
+      "paras": [
+        "Commercial turf removes mowing within the installed area. It still needs debris removal, grooming and care suited to its use. A pet facility also needs prompt waste pickup and a cleaning routine for busy spots. Odor calls for a look at cleaning, infill and drainage before deciding whether repair or replacement is needed.",
+        "Plan shade and check surface conditions before outdoor play. Turf can become hot in direct sun, and a surface that lets water through still needs somewhere for that water to go. Review the sunny areas and the full drainage route during design, and check the finished surface before use."
+      ]
+    },
+    {
+      "icon": "shield",
+      "kicker": "Before work starts",
+      "h2": "Confirm the project requirements.",
+      "paras": [
+        "Use the property address to confirm whether the proposal goes to a city or Horry County. Ask the responsible reviewer what the commercial scope requires, including excavation, drainage changes and any relationship to a larger development. Association or property-manager permission is a separate step.",
+        "Keep the proposed turf, base and drainage details together when discussing the project. Identify the commercial use clearly so the reviewer can apply the requirements for that kind of site. Start your <a href=\"/estimate/\">free estimate</a> with the address, intended use and a rough idea of the area."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Can we replace only the busiest part of the property?",
+      "a": "The layout can focus on a dog run, play area or worn route. Discuss transitions to grass, paving and gates, along with how water will move through and beyond that smaller area."
+    },
+    {
+      "q": "Can you quote from a square-foot measurement?",
+      "a": "A rough measurement helps start the conversation. The free visit lets us review access, the existing surface and preparation so the written estimate describes the work at your property."
+    },
+    {
+      "q": "What should a pet facility discuss before installation?",
+      "a": "The number of dogs using the space, busy toilet areas, waste pickup, cleaning access and drainage all belong in the planning conversation. Choose the product and care routine together, with ongoing cleaning to manage odor."
+    }
+  ],
+  "towns": [
+    "myrtle-beach-sc",
+    "north-myrtle-beach-sc",
+    "carolina-forest-sc",
+    "little-river-sc",
+    "longs-sc"
+  ],
+  "sources": [
+    {
+      "label": "Playground Grass: FAQ (ASTM F1292 and F1951)",
+      "url": "https://playgroundgrass.com/faq/"
+    },
+    {
+      "label": "Williams & Pulley, Brigham Young University: surface temperatures",
+      "url": "https://www.westcoastturf.com/getdoc.cfm?id=38"
+    },
+    {
+      "label": "Sports Health (2020): MRSA survival in synthetic turf infill",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7222665/"
+    },
+    {
+      "label": "South Carolina Homeowners Association Act, S.C. Code Title 27, Chapter 30",
+      "url": "https://www.scstatehouse.gov/code/t27c030.php"
+    },
+    {
+      "label": "Horry County Code Sec. 17.7-16 (stormwater definitions)",
+      "url": "https://library.municode.com/sc/horry_county/codes/code_of_ordinances?nodeId=COOR_CH17.7STMA_ARTIISTUTFE_S17.7-16DE"
+    },
+    {
+      "label": "Horry County Code Sec. 17.7-17 (stormwater service charge)",
+      "url": "https://library.municode.com/sc/horry_county/codes/code_of_ordinances?nodeId=COOR_CH17.7STMA_ARTIISTUTFE_S17.7-17STSECHRA"
+    },
+    {
+      "label": "North Myrtle Beach Code Sec. 23-129.4 (Ord. No. 25-45)",
+      "url": "https://library.municode.com/sc/north_myrtle_beach/codes/code_of_ordinances?nodeId=COOR_CH23ZO_ARTVIIGESURE_S23-129.4STPESUIMSUSIMIDURENOSUSIECDEPLRE"
+    },
+    {
+      "label": "Myrtle Beach Code Sec. 18-3 (stormwater units)",
+      "url": "https://library.municode.com/sc/myrtle_beach/codes/code_of_ordinances?nodeId=COOR_CH18STMA_ARTIINGE_S18-3DE"
+    },
+    {
+      "label": "Grand Strand Water & Sewer Authority: water conservation",
+      "url": "https://www.gswsa.com/Community.cfm?page=35"
+    },
+    {
+      "label": "USDA Official Series Description: Leon",
+      "url": "https://soilseries.sc.egov.usda.gov/OSD_Docs/L/LEON.html"
+    },
+    {
+      "label": "Horry County Stormwater Management Design Manual (January 2024)",
+      "url": "https://www.horrycountysc.gov/media/4wqkxbxg/horry-county-sw-design-manual_rev2024.pdf"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

@@ -1,0 +1,77 @@
+{
+  "status": "published",
+  "market": "northeast-florida",
+  "name": "Middleburg",
+  "state": "FL",
+  "county": "Clay",
+  "title": "Artificial Turf in Middleburg, FL | TIMELESS Grass & Greens",
+  "description": "Lawns, pet areas and greens for Middleburg properties. Choose a useful turf area near the house or a practice green with room around it.",
+  "h1": "Lawns, pet areas and greens for Middleburg properties.",
+  "lede": "Choose a useful turf area near the house or a practice green with room around it. Request a free visit and written installation estimate.",
+  "wins": [
+    "Use acreage for purposeful putting or pet space",
+    "Keep trees, systems and access in the layout",
+    "Account for creek-side or sloping ground"
+  ],
+  "answer": {
+    "question": "What should I have ready for turf on Middleburg acreage?",
+    "answer": "Bring the intended work area, known septic or utility locations and any property plan. Mark trees and water routes before considering preparation. Confirm applicable county and community requirements, including whether the parcel lies in the Greater Lake Asbury District."
+  },
+  "blocks": [
+    {
+      "icon": "layout",
+      "kicker": "A defined part of the land",
+      "h2": "You do not need to turf the whole property.",
+      "paras": [
+        "A dog area near the door, a lawn beside the patio or a putting green can leave the rest of an acreage lot as it is. Choose the distances and activities you want, then keep vehicle and service access outside that footprint.",
+        "If a well supplies the property, allow for the water used in cleaning and the planting that remains. Turf removes lawn irrigation for growth from its area, but pet use still needs care."
+      ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "Near Black Creek or on a slope",
+      "h2": "Bring the ground and boundaries into the discussion.",
+      "paras": [
+        "Show creek-side, low or eroded areas and any existing flood or drainage information. The usable playing grade and the route for water need to be considered together; turf is not a flood-control or structural-ground solution.",
+        "Middleburg includes properties with different community and overlay conditions. Check the parcel rather than assuming rural land has no review. Keep required planting, protected trees and septic access in the plan before the installation is priced."
+      ]
+    }
+  ],
+  "services": [
+    "residential-turf",
+    "pet-turf",
+    "putting-greens"
+  ],
+  "servicesNote": "Compare a lawn, dog area or green as a purposeful part of the property.",
+  "faq": [],
+  "nearby": [
+    "asbury-lake-lake-asbury-fl",
+    "oakleaf-plantation-fl",
+    "doctors-inlet-fl",
+    "lakeside-fl"
+  ],
+  "sources": [
+    {
+      "label": "Clay County Code of Ordinances, Ch. 18.5 (Secs. 18.5-51 to 18.5-79)",
+      "url": "https://library.municode.com/fl/clay_county/codes/code_of_ordinances"
+    },
+    {
+      "label": "Clay County Utility Authority: Phase III water shortage restrictions",
+      "url": "https://clayutility.org/phase-iii-water-shortage-restrictions-now-in-effect/"
+    },
+    {
+      "label": "USDA Soil Data Access (SSURGO): Ortega fine sand, central Middleburg",
+      "url": "https://sdmdataaccess.sc.egov.usda.gov/"
+    },
+    {
+      "label": "Florida Administrative Code: Rule 62-308.100, synthetic turf (effective 19 May 2026)",
+      "url": "https://www.flrules.org/gateway/ruleNo.asp?id=62-308.100"
+    },
+    {
+      "label": "City of Green Cove Springs: water conservation (SJRWMD cost-share eligible items)",
+      "url": "https://www.greencovesprings.com/448/Water-Conservation"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

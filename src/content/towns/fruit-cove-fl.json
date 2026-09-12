@@ -1,0 +1,87 @@
+{
+  "status": "published",
+  "market": "northeast-florida",
+  "name": "Fruit Cove",
+  "state": "FL",
+  "county": "St. Johns",
+  "title": "Artificial Turf in Fruit Cove, FL | TIMELESS Grass & Greens",
+  "description": "Plan a lawn or green around Fruit Cove’s live oaks. Compare artificial lawns, pet areas and putting greens while keeping the canopy and landscape you value.",
+  "h1": "Plan a lawn or green around Fruit Cove’s live oaks.",
+  "lede": "Compare artificial lawns, pet areas and putting greens while keeping the canopy and landscape you value. Start with a free visit and written price.",
+  "wins": [
+    "Leave trees and useful paths in the plan",
+    "Choose the green or pet area for daily use",
+    "Resolve work under the canopy early"
+  ],
+  "answer": {
+    "question": "Can artificial turf be installed under a Fruit Cove oak?",
+    "answer": "Where Florida’s residential standard applies, turf inside a tree’s drip line needs certification from a certified arborist that the installation will not harm the tree. Otherwise, plan turf outside that line and retain suitable planting or mulch beneath the canopy."
+  },
+  "blocks": [
+    {
+      "icon": "leaf",
+      "kicker": "Keep the canopy",
+      "h2": "Decide the tree boundary before the turf boundary.",
+      "paras": [
+        "Mark the drip line of mature trees before choosing the lawn or green outline. If you want turf inside it, obtain the required arborist certification first. A shaded patch is not automatically available for base preparation just because grass struggles there.",
+        "Keep roots, leaf cleanup and the route around the trees in the discussion. A green can use the clearer part of the yard while a pet area stays conveniently near the door."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "River and creek properties",
+      "h2": "Leave shoreline and service access available.",
+      "paras": [
+        "For a lot near Julington Creek, Durbin Creek or the river, bring the shoreline and drainage information you have. The applicable state standard includes waterbody separation and keeps turf out of swales and ditches. Confirm those boundaries before extending turf toward the water.",
+        "On an older septic-served property, keep tank access available and obtain advice before preparation near system components. For a golf-facing or association property, get the current landscape requirements rather than assuming a backyard is out of view or exempt from review."
+      ]
+    }
+  ],
+  "services": [
+    "residential-turf",
+    "putting-greens",
+    "pet-turf"
+  ],
+  "servicesNote": "Compare a lawn, pet area or putting green with tree and waterfront conditions resolved early.",
+  "faq": [],
+  "nearby": [
+    "julington-creek-plantation-fl",
+    "switzerland-fl",
+    "st-johns-fl",
+    "jacksonville-fl"
+  ],
+  "sources": [
+    {
+      "label": "Rule 62-308.100, F.A.C.: minimum standards for synthetic turf",
+      "url": "https://flrules.org/gateway/RuleNo.asp?ID=62-308.100"
+    },
+    {
+      "label": "Fla. Stat. 125.572: regulation of synthetic turf",
+      "url": "https://www.flsenate.gov/Laws/Statutes/2025/0125.572"
+    },
+    {
+      "label": "Fla. Stat. 720.3045: items not visible from the frontage",
+      "url": "https://www.flsenate.gov/Laws/Statutes/2025/720.3045"
+    },
+    {
+      "label": "St. Johns County: Phase III extreme water shortage declaration, May 2026",
+      "url": "https://www.sjcfl.us/phase-iii-extreme-water-shortage-declaration-may-2026/"
+    },
+    {
+      "label": "St. Johns County: who is your service provider",
+      "url": "https://www.sjcfl.us/who-is-your-service-provider/"
+    },
+    {
+      "label": "St. Johns River Water Management District: watering restrictions",
+      "url": "https://www.sjrwmd.com/wateringrestrictions/"
+    },
+    {
+      "label": "Julington Creek Golf Club",
+      "url": "https://julingtoncreekgc.com/"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": [
+    "https://flrules.org/gateway/RuleNo.asp?ID=62-308.100"
+  ]
+}

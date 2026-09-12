@@ -1,0 +1,91 @@
+{
+  "status": "published",
+  "market": "denver-metro",
+  "name": "Thornton",
+  "state": "CO",
+  "county": null,
+  "title": "Artificial Turf in Thornton, CO | TIMELESS Grass & Greens",
+  "description": "Artificial lawns and backyard greens in Thornton. Choose a lawn, pet area or putting green with Thornton’s project requirements checked early.",
+  "h1": "Artificial lawns and backyard greens in Thornton.",
+  "lede": "Choose a lawn, pet area or putting green with Thornton’s project requirements checked early. We offer free visits, turf options and written installation estimates.",
+  "wins": [
+    "Select the use and layout before the product",
+    "Include required buffers and planting in the plan",
+    "Check current incentive eligibility before budgeting"
+  ],
+  "answer": {
+    "question": "What should a Thornton turf project check before installation?",
+    "answer": "Confirm the City’s current permit and landscape requirements, and any water-program eligibility, before ordering the turf. Ask what product documents and layout details are required for your property and use. Bring those conditions to the free estimate so the scope can account for them."
+  },
+  "blocks": [
+    {
+      "icon": "layout",
+      "kicker": "The usable area",
+      "h2": "Plan the edges before you fill the yard.",
+      "paras": [
+        "Choose a lawn, pet area or putting green around the routes and planting that will stay. For a green, identify putting distances and standing space. For pets, leave access for cleanup and discuss the product’s care routine.",
+        "Thornton’s published turf rules limit artificial turf in front and unenclosed side yards to 25% of the landscape area. Rear and enclosed side yards have no corresponding area cap, but placement buffers and product requirements still matter. The rules require a Minor Development Permit before installation; obtain the current instructions before ordering materials."
+      ]
+    },
+    {
+      "icon": "file",
+      "kicker": "Possible incentives",
+      "h2": "Get the current terms before using a rebate in the budget.",
+      "paras": [
+        "Thornton Water’s published 2026 program offers up to $2 per square foot for qualifying artificial-turf projects, with a $2,000 lifetime maximum per residential lot. Confirm account and project eligibility, including the existing surface being replaced, before including a payment in your budget. The application and permit steps come before installation.",
+        "Bring the program conditions and any association response to the estimate. Ask which product documents are available for the selected system and what the rebate application requires, so eligibility and the installation scope are clear before you decide."
+      ]
+    }
+  ],
+  "services": [
+    "residential-turf",
+    "pet-turf",
+    "putting-greens"
+  ],
+  "servicesNote": "Compare a lawn, pet area or green after confirming the requirements for your Thornton project.",
+  "faq": [],
+  "nearby": [
+    "northglenn-co",
+    "westminster-co",
+    "todd-creek-co",
+    "commerce-city-co"
+  ],
+  "sources": [
+    {
+      "label": "Thornton Water: 2026 artificial turf rules for the Water-Wise Landscape Rebate (PDF)",
+      "url": "https://www.thorntonwater.com/wp-content/uploads/2026/02/2026-residential_artificial_turf_info__rules-1.pdf"
+    },
+    {
+      "label": "Thornton Water: drought restrictions",
+      "url": "https://www.thorntonwater.com/restrictions-drought/"
+    },
+    {
+      "label": "USDA Soil Data Access",
+      "url": "https://sdmdataaccess.nrcs.usda.gov/"
+    },
+    {
+      "label": "Thornton Water: HOA rebates and free services",
+      "url": "https://www.thorntonwater.com/hoa-rebates-and-free-services/"
+    },
+    {
+      "label": "Colorado SB23-178, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf"
+    },
+    {
+      "label": "Colorado SB24-005, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2024a_005_signed.pdf"
+    },
+    {
+      "label": "Colorado HB25-1113, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2025a_1113_signed.pdf"
+    },
+    {
+      "label": "City of Thornton: Thorncreek Golf Course",
+      "url": "https://www.thorntonco.gov/community-culture/thorncreek-golf-course"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": [
+    "https://www.thorntonwater.com/wp-content/uploads/2026/02/2026-residential_artificial_turf_info__rules-1.pdf"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "status": "published",
+  "market": "denver-metro",
+  "name": "Highlands Ranch",
+  "state": "CO",
+  "county": "Douglas",
+  "title": "Artificial Turf in Highlands Ranch, CO | TIMELESS Grass & Greens",
+  "description": "A lawn, dog area or green for your Highlands Ranch home. Choose the part of the yard you want to use more, with the turf and preparation clearly priced.",
+  "h1": "A lawn, dog area or green for your Highlands Ranch home.",
+  "lede": "Choose the part of the yard you want to use more, with the turf and preparation clearly priced. Start with a free site visit.",
+  "wins": [
+    "Keep shade and future planting in the plan",
+    "Compare separate pet and putting areas",
+    "Get the proposed installation in writing"
+  ],
+  "answer": {
+    "question": "What should I have ready for a Highlands Ranch turf estimate?",
+    "answer": "Bring your intended use, property plan and current HRCA or other applicable community requirements. Show us the access route, existing irrigation, wet areas and any soils information you have. Those details help define the layout and any preparation decisions still needed."
+  },
+  "blocks": [
+    {
+      "icon": "sun",
+      "kicker": "Shade changes the layout",
+      "h2": "Look at when you will use the yard.",
+      "paras": [
+        "An established yard with mature trees and a newer open yard need different conversations about placement. For pets or family use, consider the time spent in full sun and room for shade. Turf can become hot; choose the position with that use in mind.",
+        "A putting green needs useful lines and walking room, not simply the sunniest patch. Decide which distances to practice and how the green will sit beside the patio or planting."
+      ]
+    },
+    {
+      "icon": "file",
+      "kicker": "Community requirements",
+      "h2": "Bring the current landscape instructions.",
+      "paras": [
+        "Use the applicable Highlands Ranch community guidelines for your property and proposed change. Include turf boundaries, edges and the landscape that will remain when asking what needs to be submitted. Keep any required response separate from the installation estimate.",
+        "If you are comparing water costs, use your provider’s current information and your own bills. Confirm incentive eligibility directly; a lawn-replacement program does not necessarily fund synthetic turf."
+      ]
+    }
+  ],
+  "services": [
+    "residential-turf",
+    "pet-turf",
+    "putting-greens"
+  ],
+  "servicesNote": "Compare a lawn, dedicated dog area or green around the way you use your yard.",
+  "faq": [],
+  "nearby": [
+    "lone-tree-co",
+    "centennial-co",
+    "littleton-co",
+    "sterling-ranch-co"
+  ],
+  "sources": [
+    {
+      "label": "Highlands Ranch Water: drought resource center",
+      "url": "https://www.highlandsranchwater.org/drought-resource-center"
+    },
+    {
+      "label": "Wikipedia: Highlands Ranch, Colorado",
+      "url": "https://en.wikipedia.org/wiki/Highlands_Ranch,_Colorado"
+    },
+    {
+      "label": "Colorado SB23-178, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf"
+    },
+    {
+      "label": "Centennial Water & Sanitation District: turf replacement program",
+      "url": "https://www.centennialwater.org/turf-replacement-program"
+    },
+    {
+      "label": "Colorado Geological Survey: expansive soil",
+      "url": "https://coloradogeologicalsurvey.org/water/expansive-soil/"
+    },
+    {
+      "label": "Wikipedia: Lone Tree, Colorado",
+      "url": "https://en.wikipedia.org/wiki/Lone_Tree,_Colorado"
+    },
+    {
+      "label": "Resource Central: Lawn Replacement Program",
+      "url": "https://resourcecentral.org/lawn/"
+    },
+    {
+      "label": "Colorado General Assembly: SB24-005",
+      "url": "https://leg.colorado.gov/bills/sb24-005"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

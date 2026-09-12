@@ -1,0 +1,106 @@
+{
+  "status": "published",
+  "market": "northeast-florida",
+  "name": "Fernandina Beach",
+  "state": "FL",
+  "county": "Nassau",
+  "title": "Artificial Turf in Fernandina Beach, FL | TIMELESS Grass & Greens",
+  "description": "A lawn or putting green among Fernandina Beach’s trees. Keep the character of your yard while adding a lawn, pet area or green.",
+  "h1": "A lawn or putting green among Fernandina Beach’s trees.",
+  "lede": "Keep the character of your yard while adding a lawn, pet area or green. Request a free visit and written installation estimate.",
+  "wins": [
+    "Plan around trees and established paths",
+    "Consider historic-property review early",
+    "Choose a useful footprint for the yard"
+  ],
+  "answer": {
+    "question": "What should a historic Fernandina Beach property check before turf?",
+    "answer": "Confirm whether the parcel is in a City historic district and ask preservation staff what review applies to the proposed site change. A Certificate of Appropriateness may be required. Bring the property plan and requirements before finalizing a layout around trees, paths and existing site features."
+  },
+  "blocks": [
+    {
+      "icon": "home",
+      "kicker": "An established island property",
+      "h2": "Keep the features that give the yard its character.",
+      "paras": [
+        "A small lawn or practice green can sit beside existing paths and planting. Choose useful putting lines or the route a pet area needs, then leave the rest of the landscape intact. On a shallow back yard, walking room can matter more than extra cups.",
+        "Mark mature tree canopy and roots before discussing preparation. Resolve any required tree advice early and include leaf cleanup in the care routine."
+      ]
+    },
+    {
+      "icon": "file",
+      "kicker": "Historic review and lot coverage",
+      "h2": "Check the proposed change before the outline is final.",
+      "paras": [
+        "Fernandina Beach’s historic districts have a review process for changes to site features. Downtown and Old Town should be checked against the applicable current guidelines rather than treated as one set of rules. Ask staff what the proposal must include and retain the written response.",
+        "Outside historic review, applicable City and property requirements still matter. Ask how the proposed turf and base count toward lot coverage, and bring known wet areas or shoreline conditions into the estimate separately from surface selection."
+      ]
+    }
+  ],
+  "services": [
+    "residential-turf",
+    "pet-turf",
+    "putting-greens"
+  ],
+  "servicesNote": "Compare a lawn, pet area or putting green that works with the existing landscape and property requirements.",
+  "faq": [],
+  "nearby": [
+    "amelia-island-fl",
+    "amelia-city-fl",
+    "nassauville-fl"
+  ],
+  "sources": [
+    {
+      "label": "City of Fernandina Beach: historic districts and Certificates of Appropriateness",
+      "url": "https://www.fbfl.us/466/Historic-Districts"
+    },
+    {
+      "label": "Fernandina Beach downtown design guidelines (Thomason and Associates)",
+      "url": "https://thomasonandassociates.com/wp-content/uploads/2018/07/fernandina-beach-downtown-design-guidelines-ilovepdf-compressed.pdf"
+    },
+    {
+      "label": "Fernandina Observer: proposed overhaul of Old Town design rules",
+      "url": "https://www.fernandinaobserver.org/stories/resident-input-drives-proposed-overhaul-of-old-town-design-rules-fernandinabeach-ameliaisland,91795"
+    },
+    {
+      "label": "Fla. Stat. 125.572: regulation of synthetic turf",
+      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0100-0199%2F0125%2FSections%2F0125.572.html"
+    },
+    {
+      "label": "Amelia Island: history and architecture in downtown Fernandina Beach",
+      "url": "https://www.ameliaisland.com/blog/exploring-history-and-architecture-in-downtown-fernandina-beach/"
+    },
+    {
+      "label": "Nassau County 2030 Comprehensive Plan: Future Land Use Element background",
+      "url": "https://www.nassaucountyfl.com/DocumentCenter/View/18158/12--Background-DA--Future-Land-Use-Element"
+    },
+    {
+      "label": "Fernandina Beach Land Development Code",
+      "url": "https://library.municode.com/fl/fernandina_beach/codes/land_development_code"
+    },
+    {
+      "label": "St. Johns River Water Management District: watering restrictions",
+      "url": "https://www.sjrwmd.com/wateringrestrictions/"
+    },
+    {
+      "label": "Action News Jax: Phase III Extreme Water Shortage declaration",
+      "url": "https://www.actionnewsjax.com/news/local/phase-iii-extreme-water-shortage-declaration-issued-by-st-johns-river-water-management-district/QAIYQ7AZPFCQNJG37B3DU5XPBU/"
+    },
+    {
+      "label": "Wikipedia: Fernandina Beach Historic District",
+      "url": "https://en.wikipedia.org/wiki/Fernandina_Beach_Historic_District"
+    },
+    {
+      "label": "Destination Amelia: golf courses",
+      "url": "https://www.destinationamelia.com/activities/golf-courses/"
+    },
+    {
+      "label": "Fla. Stat. 720.3045: items not visible from the frontage, including artificial turf",
+      "url": "https://www.flsenate.gov/Laws/Statutes/2024/720.3045"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": [
+    "https://www.fbfl.us/466/Historic-Districts"
+  ]
+}

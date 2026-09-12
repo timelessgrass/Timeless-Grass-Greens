@@ -1,0 +1,23 @@
+---
+/** Internal source records are not automatically public reading material. */
+interface Props {
+  sources: { label: string; url?: string }[];
+  selected?: string[];
+}
+const { sources, selected = [] } = Astro.props;
+const links = [...new Set(selected)].map((url) => {
+  const source = sources.find((entry) => entry.url === url);
+  if (!source) throw new Error(`Public reference is missing its evidence record: ${url}`);
+  return { label: source.label, url };
+});
+---
+{links.length > 0 && <aside class="public-references" aria-label="Useful links" data-public-references>
+  <p class="micro">Useful links</p>
+  <ul class="lawlinks lawlinks--light">
+    {links.map((link) => <li><a href={link.url} rel="noopener">{link.label}</a></li>)}
+  </ul>
+</aside>}
+<style>
+  .public-references { margin-block: 2rem; }
+  .public-references a { font-size: 1rem; }
+</style>

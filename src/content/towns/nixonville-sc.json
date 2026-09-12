@@ -1,0 +1,73 @@
+{
+  "status": "published",
+  "market": "grand-strand",
+  "name": "Nixonville",
+  "state": "SC",
+  "county": "Horry",
+  "title": "Artificial Turf in Nixonville, SC | TIMELESS Grass & Greens",
+  "description": "Pet areas and artificial lawns in Nixonville. Choose a useful patch of yard for dogs, everyday use or a shared space along the Highway 90 corridor.",
+  "h1": "Pet areas and artificial lawns in Nixonville.",
+  "lede": "Choose a useful patch of yard for dogs, everyday use or a shared space along the Highway 90 corridor. Get a free visit and a written installation estimate.",
+  "wins": [
+    "Plan around the dog’s route and cleanup access",
+    "Keep shade and wet areas in the conversation",
+    "Price the work for your actual yard"
+  ],
+  "answer": {
+    "question": "Can a Nixonville turf project focus on the area my dog wears out?",
+    "answer": "Yes. Start with the route from the door, the gate and the spots the dog uses most. A dedicated pet area may serve you better than replacing the entire lawn. Show us any standing water and leave access for regular cleanup when discussing the layout."
+  },
+  "blocks": [
+    {
+      "icon": "paw",
+      "kicker": "The dog’s side of the yard",
+      "h2": "Make the routine easier to manage.",
+      "paras": [
+        "Mark the route from the back door and where your dog tends to turn, dig or toilet. That helps define the size of a pet area and where its edges should meet paths or fencing. Keep a water source and cleanup access in mind when comparing positions.",
+        "Pet turf still needs waste pickup and cleaning. Ask about the care routine for the proposed product and discuss any existing odor or wet-ground problem before assuming a surface replacement will resolve it."
+      ]
+    },
+    {
+      "icon": "sun",
+      "kicker": "Newer yards",
+      "h2": "Look at shade and water before the final outline.",
+      "paras": [
+        "On a new-build lot with little shade, consider where the dog or family can get out of full sun. Artificial turf can become hot, so a convenient location needs to be considered alongside when and how the space will be used.",
+        "Point out low corners, drains and any wetland or shared-area boundary shown on your property plan. Bring current association requirements if they apply, and ask the county about grading or drainage changes included in the proposal. Do not level an existing drainage route just to make the turf outline simpler."
+      ]
+    }
+  ],
+  "services": [
+    "pet-turf",
+    "residential-turf",
+    "commercial-turf"
+  ],
+  "servicesNote": "Compare pet turf, a defined lawn and shared-space options, with preparation and care included in the discussion.",
+  "faq": [],
+  "nearby": [
+    "carolina-forest-sc",
+    "briarcliffe-acres-sc",
+    "myrtle-beach-sc",
+    "longs-sc"
+  ],
+  "sources": [
+    {
+      "label": "USDA NRCS Soil Data Access (SSURGO point query at Nixonville, map unit 130174)",
+      "url": "https://sdmdataaccess.sc.egov.usda.gov/"
+    },
+    {
+      "label": "Yahoo News: Horry County considers changing development rules near wetlands (8 April 2026)",
+      "url": "https://www.yahoo.com/news/articles/horry-county-considers-changing-development-090000563.html"
+    },
+    {
+      "label": "Roadside Thoughts: Nixonville, Horry County",
+      "url": "https://roadsidethoughts.com/sc/nixonville-xx-horry-profile.htm"
+    },
+    {
+      "label": "Horry County Stormwater Management Design Manual (January 2024)",
+      "url": "https://www.horrycountysc.gov/media/4wqkxbxg/horry-county-sw-design-manual_rev2024.pdf"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

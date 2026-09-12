@@ -1,9 +1,9 @@
 ---
-/* How it works — four steps, each with an icon. motion.ts pins any .proc on wide screens and
-   lights the steps in turn as you scroll. Sourced to the old site's "how we work": free site
+/* How it works — four readable steps in normal page flow. Sourced to the old site's "how we work": free site
    consultation, custom design and quote, "you approve the design before we install", "we handle
    all site prep and cleanup". */
 import Icon from './Icon.astro';
+import { email } from '../data/brief';
 interface Props { micro?: string; heading?: string }
 const { micro = 'How it works', heading = 'You call. We measure. You get a price.' } = Astro.props;
 const STEPS = [
@@ -13,13 +13,11 @@ const STEPS = [
   { icon: 'shovel', h: 'We install it', p: 'Once you approve the design, we handle it all: prep, turf, edges and cleanup.' },
 ];
 ---
-<section class="proc sec sec--green on-dark turf-marks turf-marks--dark turf-marks--drift">
-  <span class="turf-marks__layer" aria-hidden="true"></span>
+<section class="proc sec sec--green on-dark">
   <div class="wrap proc__in">
     <div>
       <p class="micro">{micro}</p>
       <h2>{heading}</h2>
-      <div class="proc__bar"><div class="proc__fill"></div></div>
     </div>
     <div class="proc__steps">
       {STEPS.map((s, i) => (
@@ -27,6 +25,7 @@ const STEPS = [
           <span class="proc__ico"><Icon name={s.icon} /></span>
           <h3><i>0{i + 1}</i>{s.h}</h3>
           <p>{s.p}</p>
+          {i === 0 && email && <p><a href={`mailto:${email}?subject=Photos%20for%20my%20turf%20estimate`}>Email photos of your space</a></p>}
         </div>
       ))}
     </div>

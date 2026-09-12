@@ -1,0 +1,101 @@
+{
+  "status": "published",
+  "market": "denver-metro",
+  "name": "Sterling Ranch",
+  "state": "CO",
+  "county": "Douglas",
+  "title": "Artificial Turf in Sterling Ranch, CO | TIMELESS Grass & Greens",
+  "description": "Plan your first back yard in Sterling Ranch. Choose a lawn, compact green or pet area alongside the planting and paths you want.",
+  "h1": "Plan your first back yard in Sterling Ranch.",
+  "lede": "Choose a lawn, compact green or pet area alongside the planting and paths you want. Start with a free visit and a written installation estimate.",
+  "wins": [
+    "Plan future beds and paths before the surface",
+    "Keep chase drains and side access available",
+    "Bring the CAB requirements into the discussion"
+  ],
+  "answer": {
+    "question": "What should be decided before turf goes into a Sterling Ranch yard?",
+    "answer": "Bring the property plan, current CAB requirements and the uses you want for the space. Locate chase drains and existing drainage routes before drawing the turf boundary. Include future planting, paths and contractor access so the first landscape does not need avoidable rework."
+  },
+  "blocks": [
+    {
+      "icon": "layout",
+      "kicker": "The first landscape",
+      "h2": "Plan the complete yard, even if turf is one stage.",
+      "paras": [
+        "Mark where you want seating, beds, shade and the route from the house. A small pet area or putting green can be considered alongside a lawn instead of filling every available corner. Retain irrigation for the living landscape that stays in the plan.",
+        "Tell us which other work is still underway and who needs access. Narrow side yards and delivery routes belong in the estimate as much as the turf area."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Existing drainage",
+      "h2": "Leave the chase drain doing its job.",
+      "paras": [
+        "Where a chase drain crosses the yard, locate it on the property plan and confirm how it must remain accessible. Bring any builder or CAB drainage conditions before considering a change in grade.",
+        "Ask the CAB for the current requirements and applicable written approval for the proposed landscape. A water-wise planting plan does not by itself establish acceptance of a turf product or layout. Bring the conditions to the estimate."
+      ]
+    }
+  ],
+  "services": [
+    "residential-turf",
+    "putting-greens",
+    "pet-turf"
+  ],
+  "servicesNote": "Compare a first lawn, pet area or compact green within the complete plan for your new yard.",
+  "faq": [],
+  "nearby": [
+    "highlands-ranch-co",
+    "ken-caryl-co",
+    "columbine-co",
+    "littleton-co"
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia: Sterling Ranch, Colorado",
+      "url": "https://en.wikipedia.org/wiki/Sterling_Ranch,_Colorado"
+    },
+    {
+      "label": "Sterling Ranch CAB: architectural community standards",
+      "url": "https://sterlingranchcab.com/198/Architectural-Community-Standards"
+    },
+    {
+      "label": "Sterling Ranch Community Authority Board",
+      "url": "https://sterlingranchcab.com/"
+    },
+    {
+      "label": "Colorado SB23-178, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf"
+    },
+    {
+      "label": "Colorado Geological Survey: expansive soil and rock",
+      "url": "https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/"
+    },
+    {
+      "label": "Dominion Water and Sanitation District",
+      "url": "https://www.dominionwsd.org/"
+    },
+    {
+      "label": "Sterling Ranch: sustainability",
+      "url": "https://sterlingranch.com/sustainability/"
+    },
+    {
+      "label": "Sterling Ranch",
+      "url": "https://sterlingranch.com/"
+    },
+    {
+      "label": "Colorado Water Conservation Board: turf replacement program",
+      "url": "https://cwcb.colorado.gov/turf-replacement-program"
+    },
+    {
+      "label": "Ravenna Country Club",
+      "url": "https://www.ravennagolf.com/"
+    },
+    {
+      "label": "Arrowhead Golf Club",
+      "url": "https://arcisgolf.com/clubs/arrowhead-golf-club/home"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

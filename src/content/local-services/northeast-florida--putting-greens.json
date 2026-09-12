@@ -1,0 +1,124 @@
+{
+  "status": "published",
+  "market": "northeast-florida",
+  "service": "putting-greens",
+  "title": "Putting Greens in Northeast Florida | TIMELESS Grass & Greens",
+  "description": "Backyard putting greens from Fernandina Beach to St. Augustine Shores. Choose the shape, cups and fringe with a free visit, layout and written estimate.",
+  "h1": "Your next practice session starts at home.",
+  "lede": "Create a putting green that fits your northeast Florida yard and the shots you want to practice. We measure the space, discuss the surface and layout, and give you a written price before installation.",
+  "wins": [
+    "Shape the green around your practice goals",
+    "Consider shade, drainage and the rest of the yard",
+    "Choose cups, fringe and finishing before work begins"
+  ],
+  "answer": {
+    "question": "How do I plan a putting green in a Florida yard?",
+    "answer": "Choose the putts and approach shots you want to practice, then look at the space, sun exposure, access and drainage. The layout and selected system need to fit the property’s requirements. Timeless starts with a free visit and provides turf options, a custom layout and a written price."
+  },
+  "blocks": [
+    {
+      "icon": "flag",
+      "kicker": "At-home practice",
+      "h2": "Build around the shots you enjoy.",
+      "paras": [
+        "A green can focus on short putts near the patio or offer several lines across a larger area. Tell us how you practice and where you want to stand. Cup positions and contours should make the space useful without crowding the routes through the yard.",
+        "For chipping, include the approach area and intended direction of play when we discuss the design. The space and selected turf system need to suit those shots. A fringe or separate chipping area is a layout choice to price before work begins."
+      ]
+    },
+    {
+      "icon": "sun",
+      "kicker": "Where it goes",
+      "h2": "Consider the surface through the day.",
+      "paras": [
+        "Walk the proposed area when you are likely to use it. Direct sun can make turf hot, so consider nearby shade and where you will stand between shots. Trees also bring leaves and other debris that need clearing from the putting surface.",
+        "Point out water that gathers after rain and how runoff leaves the yard. A base that shapes the green still needs a workable drainage plan. Review the base and underlying ground as well as the way water leaves the proposed area."
+      ]
+    },
+    {
+      "icon": "home",
+      "kicker": "Property fit",
+      "h2": "Check the layout before selecting materials.",
+      "paras": [
+        "For an association property, bring the applicable landscape requirements and identify the proposed green’s location. Check visibility from nearby property and common areas when resolving the approval question.",
+        "The product and installation must also fit the rules that apply to the property. Ask which requirements cover the proposed base, turf and infill. Our <a href=\"/guides/florida-turf-infill-rules/\">Florida turf guide</a> and <a href=\"/guides/florida-friendly-landscaping-and-hoas/\">HOA guide</a> address those questions without replacing a review of your layout."
+      ]
+    },
+    {
+      "icon": "ruler",
+      "kicker": "Cost and care",
+      "h2": "Choose the finished roll and the work behind it.",
+      "paras": [
+        "Size, access, removal, base shaping, cup positions and fringe all affect the installation price. We draw the proposed layout after the free visit so you can review the choices together.",
+        "The putting surface, infill and brushing influence the roll. Ask how the selected system is adjusted and cared for, then keep leaves and debris off the green and inspect the edges. A synthetic green needs no irrigation for growth, but cleaning still uses time and may use water. See the <a href=\"/services/putting-greens/\">putting-green options</a> before your visit."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Can the green go near the patio?",
+      "a": "Include the patio edge, walking routes and where people sit in the drawing. The free visit is where we discuss transitions and the space needed for the putts or chips you want to practice."
+    },
+    {
+      "q": "Can I change the layout of an existing green?",
+      "a": "Describe the changes you want and any problems with the current surface. Moving cups or changing contours may involve work below the turf, so those choices need to be included in the replacement scope."
+    },
+    {
+      "q": "How much routine attention does it need?",
+      "a": "Clear debris and follow the selected product’s brushing, cleaning and infill guidance. Assess changes in roll or loose edges before deciding whether adjustment, infill or repair is needed."
+    }
+  ],
+  "towns": [
+    "sawgrass-fl",
+    "world-golf-village-fl",
+    "st-augustine-shores-fl",
+    "ponte-vedra-beach-fl",
+    "fleming-island-fl",
+    "jacksonville-fl",
+    "amelia-island-fl",
+    "st-johns-fl"
+  ],
+  "sources": [
+    {
+      "label": "Sawgrass Country Club: history",
+      "url": "https://www.sawgrasscountryclub.com/history"
+    },
+    {
+      "label": "World Golf Village",
+      "url": "https://en.wikipedia.org/wiki/World_Golf_Village"
+    },
+    {
+      "label": "St. Augustine Shores, Florida",
+      "url": "https://en.wikipedia.org/wiki/St._Augustine_Shores,_Florida"
+    },
+    {
+      "label": "Fla. Stat. 720.3045: items an HOA may not restrict",
+      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0700-0799/0720/Sections/0720.3045.html"
+    },
+    {
+      "label": "Fla. Stat. 720.3035: architectural decisions",
+      "url": "https://www.flsenate.gov/Laws/Statutes/2025/720.3035"
+    },
+    {
+      "label": "Fla. Stat. 125.572: regulation of synthetic turf",
+      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0100-0199%2F0125%2FSections%2F0125.572.html"
+    },
+    {
+      "label": "Florida DEP: Synthetic Turf FAQ",
+      "url": "https://floridadep.gov/sites/default/files/SyntheticTurfFAQ%20final.pdf"
+    },
+    {
+      "label": "Rule 62-308.100: adopted rule text",
+      "url": "https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc"
+    },
+    {
+      "label": "St. Johns River Water Management District: water shortage orders",
+      "url": "https://www.sjrwmd.com/water-supply/water-shortage/"
+    },
+    {
+      "label": "Singh et al. (2024), 23 studies of synthetic turf heat, International Journal of Biometeorology",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11272752/"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

@@ -1,6 +1,6 @@
 /**
  * Site-wide motion. Every block guards on its hook, so a page without a gallery or
- * a process section simply skips those. One curve, one library, every effect degrades to static.
+ * a matching element simply skips those. One curve, one library, every effect degrades to static.
  *
  * Content is complete in the HTML before any of this runs — retrieval agents and
  * no-JS visitors get the whole page. Motion is added on top, never relied on.
@@ -45,12 +45,18 @@ function start() {
 gsap.matchMedia().add('(prefers-reduced-motion: no-preference)', () => {
   /* ---- 1. hero intro (homepage only): animate TO rest from the CSS start state -- */
   const intro = gsap.timeline({ defaults: { ease: EASE }, onComplete: () => { introDone = true; } });
-  if (!document.querySelector('.hero--home')) { introDone = true; intro.kill(); } else intro
-    .to('.hero__eyebrow', { y: 0, opacity: 1, duration: .5 }, 0)
-    .to('.hero h1 .line > span', { y: 0, duration: .8, stagger: .08 }, .1) // y not yPercent: GSAP parses the CSS % start as px
-    .to('.hero__wins > li, .hero__cta, .hero__trust', { y: 0, opacity: 1, duration: .6, stagger: .05 }, .35)
-    .to('.hero--home .scribble path', { strokeDashoffset: 0, duration: .9 }, .55) // the stroke under "no mud." draws as the copy lands
-    .call(() => { document.querySelector('.hero--home')?.classList.add('is-grown'); }, [], .2); // the grass grows up as the headline rises
+  const homeHero = document.querySelector('.hero--home');
+  if (!homeHero) { introDone = true; intro.kill(); } else {
+    const enter = (selector: string, vars: gsap.TweenVars, at: number) => {
+      const targets = homeHero.querySelectorAll(selector);
+      if (targets.length) intro.to(targets, vars, at);
+    };
+    enter('.hero__eyebrow', { y: 0, opacity: 1, duration: .5 }, 0);
+    enter('h1 .line > span', { y: 0, duration: .8, stagger: .08 }, .1);
+    enter('.hero__wins > li, .hero__cta, .hero__trust', { y: 0, opacity: 1, duration: .6, stagger: .05 }, .35);
+    enter('.scribble path', { strokeDashoffset: 0, duration: .9 }, .55);
+    intro.call(() => { homeHero.classList.add('is-grown'); }, [], .2);
+  }
 
   /* hero image: slow ken-burns on scroll, not on a timer — it only moves if you do */
   if (document.querySelector('.hero__img')) gsap.to('.hero__img', {
@@ -154,26 +160,6 @@ gsap.matchMedia().add('(prefers-reduced-motion: no-preference)', () => {
     scrollTrigger: { trigger: '[data-zoom]', start: 'top 88%', end: 'bottom 52%', scrub: .6 },
   });
 
-  /* ---- 5. process: pinned, scroll advances the four steps -------------------- */
-  const proc = document.querySelector<HTMLElement>('.proc');
-  /* Pin only where the whole panel fits: a short laptop viewport would clip step four. */
-  if (proc && window.matchMedia('(min-width: 900px)').matches && window.innerHeight >= 720) {
-    const steps = gsap.utils.toArray<HTMLElement>('.proc__step');
-    /* All four steps are readable at rest; scrolling lights the current one and fills the
-       bar. Nothing is hidden, so the pinned panel is never mostly empty. */
-    const fill = proc.querySelector<HTMLElement>('.proc__fill');
-    const light = (i: number) => {
-      steps.forEach((s, k) => s.classList.toggle('is-on', k === i));
-      if (fill) fill.style.transform = `scaleX(${(i + 1) / steps.length})`;
-    };
-    proc.classList.add('proc--live'); // only now may the CSS dim the inactive steps
-    light(0);
-    ScrollTrigger.create({
-      trigger: proc, start: 'top top', end: () => `+=${(steps.length - 1) * 65}%`, pin: true, scrub: .4,
-      onUpdate: (self) => light(Math.min(steps.length - 1, Math.floor(self.progress * steps.length))),
-    });
-  }
-
   /* ---- 6. before/after: scroll wipes the AFTER over the BEFORE ---------------- */
   document.querySelectorAll<HTMLElement>('.wipe').forEach((w) => {
     const after = w.querySelector<HTMLElement>('.wipe__after');
@@ -189,16 +175,6 @@ gsap.matchMedia().add('(prefers-reduced-motion: no-preference)', () => {
     });
   });
 
-  /* ---- 7. dark bands: the turf marks drift slowly with scroll ------------------ */
-  gsap.utils.toArray<HTMLElement>('.turf-marks--drift').forEach((b) => {
-    const layer = b.querySelector<HTMLElement>('.turf-marks__layer');
-    if (!layer || !CSS.supports('overflow-x', 'clip')) return; // no clip (Safari < 16): the pattern stays still rather than widen the page
-    gsap.fromTo(layer, { x: 0 }, {
-      x: 124, ease: 'none',
-      scrollTrigger: { trigger: b, start: 'top bottom', end: 'bottom top', scrub: true },
-    });
-  });
-
   /* ---- 14. the grass leans as the hero scrolls away, like wind ----------------------- */
   if (document.querySelector('.grassline__g')) gsap.to('.grassline__g', {
     skewX: -10, ease: 'none', transformOrigin: '50% 100%',
@@ -206,28 +182,16 @@ gsap.matchMedia().add('(prefers-reduced-motion: no-preference)', () => {
   });
 
   /* ---- 12. icons draw themselves when their row arrives ------------------------- */
-  const drawn = gsap.utils.toArray<HTMLElement>('.benefit, .diff--ico, .proc__step, .offer__list li, .checks li, .arearow');
+  const drawn = gsap.utils.toArray<HTMLElement>('.benefit, .diff--ico, .offer__list li, .checks li, .arearow');
   drawn.forEach((el) => el.classList.add('draw')); // the hidden start state exists only once motion is confirmed
   ScrollTrigger.batch(drawn, {
     start: 'top 88%', once: true,
     onEnter: (els) => cascade(els, 'is-drawn', 70),
   });
 
-  /* ---- 11. phones: each step card shrinks and dims as the next slides over it ------
-     The card stays opaque so the one it covers stays hidden; only its contents dim. */
-  if (window.matchMedia('(max-width: 899px)').matches) {
-    const cards = gsap.utils.toArray<HTMLElement>('.proc__step');
-    cards.forEach((card, i) => {
-      const next = cards[i + 1];
-      if (!next) return;
-      gsap.timeline({ scrollTrigger: { trigger: next, start: 'top 85%', end: 'top 25%', scrub: true } })
-        .to(card, { scale: .94, ease: 'none', transformOrigin: '50% 0%' }, 0)
-        .to(Array.from(card.children), { opacity: .35, ease: 'none' }, 0);
-    });
-  }
-
   /* ---- 8. headings: each line rises from behind its own mask, like the hero ---- */
   gsap.utils.toArray<HTMLElement>('main h2:not(.benefit__h)').forEach((h) => {
+    if (h.closest('.proc')) return; // the process stays readable without scroll effects
     SplitText.create(h, {
       type: 'lines', mask: 'lines', linesClass: 'h2-line', autoSplit: true,
       onSplit: (self) => {
@@ -268,13 +232,17 @@ gsap.matchMedia().add('(prefers-reduced-motion: no-preference)', () => {
 }
 
 /* ---- interactions (not motion: they run regardless of reduced-motion) ---------- */
-const menu = document.getElementById('menu');
+const menu = document.querySelector<HTMLDialogElement>('dialog.menu');
 const menuBtn = document.querySelector<HTMLButtonElement>('.chrome__menu');
-function setMenu(open: boolean) {
+const desktopNav = window.matchMedia('(min-width: 900px)');
+let menuCloseTimer: number | undefined;
+function setMenu(open: boolean, immediate = false) {
   if (!menu) return;
+  window.clearTimeout(menuCloseTimer);
   if (open) {
-    menu.hidden = false;
-    requestAnimationFrame(() => requestAnimationFrame(() => menu.classList.add('is-open')));
+    if (desktopNav.matches) return;
+    if (!menu.open) menu.showModal();
+    requestAnimationFrame(() => requestAnimationFrame(() => { if (menu.open) menu.classList.add('is-open'); }));
     html.classList.add('nav-open');
     menuBtn?.setAttribute('aria-expanded', 'true');
     menu.querySelector<HTMLElement>('.menu__close')?.focus();
@@ -282,13 +250,26 @@ function setMenu(open: boolean) {
     menu.classList.remove('is-open');
     html.classList.remove('nav-open');
     menuBtn?.setAttribute('aria-expanded', 'false');
-    window.setTimeout(() => { menu.hidden = true; }, 340);
-    menuBtn?.focus();
+    const finish = () => { menu.close(); };
+    if (immediate) finish();
+    else menuCloseTimer = window.setTimeout(finish, 340);
   }
 }
-document.querySelectorAll('[data-menu-toggle]').forEach((t) => t.addEventListener('click', () => setMenu(!!menu?.hidden)));
-menu?.addEventListener('click', (e) => { if ((e.target as HTMLElement).closest('a')) setMenu(false); });
-document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && menu && !menu.hidden) setMenu(false); });
+document.querySelectorAll('[data-menu-toggle]').forEach((t) => t.addEventListener('click', () => setMenu(!menu?.open)));
+menu?.addEventListener('click', (e) => { if ((e.target as HTMLElement).closest('a')) setMenu(false, true); });
+menu?.addEventListener('cancel', (e) => { e.preventDefault(); setMenu(false); });
+menu?.addEventListener('keydown', (e) => {
+  if (e.key !== 'Tab') return;
+  const controls = Array.from(menu.querySelectorAll<HTMLElement>('a[href], button:not([disabled])'));
+  const first = controls[0], last = controls[controls.length - 1];
+  if (e.shiftKey && document.activeElement === first) { e.preventDefault(); last?.focus(); }
+  else if (!e.shiftKey && document.activeElement === last) { e.preventDefault(); first?.focus(); }
+});
+desktopNav.addEventListener('change', (event) => {
+  if (!event.matches || !menu?.open) return;
+  setMenu(false, true);
+  document.querySelector<HTMLElement>('.chrome__nav a')?.focus({ preventScroll: true });
+});
 
 /* header condenses once the hero is behind you */
 const chrome = document.querySelector('.chrome');
@@ -300,7 +281,7 @@ window.addEventListener('scroll', onScroll, { passive: true }); onScroll();
    screen: two identical Call buttons stacked on a phone read as a mistake, and the bar must
    never cover Submit. The first placement snaps; only later changes slide. */
 const bar = document.querySelector<HTMLElement>('.bar');
-const yieldTo = document.querySelectorAll('.hero__cta, .offer, .foot');
+const yieldTo = document.querySelectorAll('.hero__cta, .offer, .estimate-page, .foot');
 if (bar && yieldTo.length && 'IntersectionObserver' in window) {
   const seen = new Set<Element>();
   bar.classList.add('is-still');

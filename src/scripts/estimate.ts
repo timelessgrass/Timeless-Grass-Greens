@@ -3,8 +3,9 @@
  * every page and inline on /estimate/.
  *
  * Progressive: the HTML is a complete form. This file shows one question at a time, advances
- * when an answer is tapped, checks each step, and submits in place with fetch. If the fetch
- * fails, the form posts the ordinary way — Netlify records it either way and serves /thanks/.
+ * when an answer is tapped, checks each step, and submits in place with fetch. A failed or timed
+ * out request keeps the answers on screen so the visitor can retry or call. Without JavaScript,
+ * the native form still posts to Netlify and serves /thanks/.
  *
  * The dialog is a native <dialog> opened with showModal(): focus is trapped, the page behind is
  * inert, Escape closes it, and focus goes back to the button that opened it. Any element with
@@ -22,7 +23,13 @@ function enhance(form: HTMLFormElement): Wizard {
   const next = form.querySelector<HTMLButtonElement>('[data-wiz-next]');
   const submit = form.querySelector<HTMLButtonElement>('[type="submit"]');
   const done = form.querySelector<HTMLElement>('[data-wiz-done]');
+  const sendError = form.querySelector<HTMLElement>('[data-wiz-send-error]');
   let cur = 0;
+  let busy = false;
+  let advanceTimer: number | undefined;
+  let pointerSelection = false;
+  form.addEventListener('pointerdown', () => { pointerSelection = true; });
+  form.addEventListener('keydown', () => { pointerSelection = false; window.clearTimeout(advanceTimer); });
 
   form.noValidate = true; // each step checks itself; the browser's bubbles would point at hidden fields
   form.classList.add('is-wizard');
@@ -47,7 +54,7 @@ function enhance(form: HTMLFormElement): Wizard {
     for (const el of Array.from(s.querySelectorAll<HTMLInputElement>('input[type="text"], input[type="tel"], input[type="email"]'))) {
       const v = el.value.trim();
       if (el.required && !v) return fail(el, el.dataset.msg || 'Please fill this in.');
-      if (el.type === 'tel' && v.replace(/\D/g, '').length < 10) return fail(el, 'Please enter a phone number we can call.');
+      if (el.type === 'tel' && (!/^[+()\d .-]+$/.test(v) || !/^\d{10,15}$/.test(v.replace(/\D/g, '')))) return fail(el, 'Please enter a phone number we can call.');
       if (el.type === 'email' && v && !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(v)) return fail(el, 'That email doesn’t look right.');
     }
     return true;
@@ -64,7 +71,8 @@ function enhance(form: HTMLFormElement): Wizard {
   steps.forEach((s, i) => s.addEventListener('change', (e) => {
     if ((e.target as HTMLInputElement).type !== 'radio') return;
     say(s, '');
-    if (i === cur && i < total - 1) window.setTimeout(() => { if (cur === i) go(1); }, 280);
+    window.clearTimeout(advanceTimer);
+    if (pointerSelection && i === cur && i < total - 1) advanceTimer = window.setTimeout(() => { if (cur === i) go(1); }, 280);
   }));
   /* Enter moves forward instead of submitting half a form */
   form.addEventListener('keydown', (e) => {
@@ -73,12 +81,25 @@ function enhance(form: HTMLFormElement): Wizard {
   });
   form.addEventListener('submit', async (e) => {
     e.preventDefault();
+    if (busy || form.classList.contains('is-done')) return;
     for (let i = 0; i < total; i++) if (!valid(i, false)) { show(i, -1); valid(i); return; }
+    const showSendError = (message: string) => {
+      if (sendError) { sendError.textContent = message; sendError.focus({ preventScroll: true }); }
+    };
+    if (sendError) sendError.textContent = '';
+    if (form.dataset.preview === 'true') {
+      showSendError('This preview does not send estimate requests. Your details are still here; use the phone link to contact Timeless.');
+      return;
+    }
+    busy = true;
     form.classList.add('is-busy');
+    form.setAttribute('aria-busy', 'true');
     if (submit) submit.disabled = true;
+    const controller = new AbortController();
+    const timeout = window.setTimeout(() => controller.abort(), 15000);
     try {
       const body = new URLSearchParams(new FormData(form) as unknown as Record<string, string>).toString();
-      const res = await fetch('/', { method: 'POST', headers: { 'Content-Type': 'application/x-www-form-urlencoded' }, body });
+      const res = await fetch('/', { method: 'POST', headers: { 'Content-Type': 'application/x-www-form-urlencoded' }, body, signal: controller.signal });
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const first = (form.querySelector<HTMLInputElement>('input[name="name"]')?.value ?? '').trim().split(/\s+/)[0];
       const slot = form.querySelector('[data-wiz-name]');
@@ -87,9 +108,12 @@ function enhance(form: HTMLFormElement): Wizard {
       form.classList.add('is-done');
       if (done) { done.hidden = false; done.focus({ preventScroll: true }); }
     } catch {
-      form.submit(); // the ordinary POST to /thanks/
+      showSendError('We could not confirm your request was received. Your details are still here. Please try again, or call Timeless.');
     } finally {
+      window.clearTimeout(timeout);
+      busy = false;
       form.classList.remove('is-busy');
+      form.removeAttribute('aria-busy');
       if (submit) submit.disabled = false;
     }
   });
@@ -102,6 +126,7 @@ function enhance(form: HTMLFormElement): Wizard {
         form.classList.remove('is-done');
         if (done) done.hidden = true;
         steps.forEach((s) => say(s, ''));
+        if (sendError) sendError.textContent = '';
         show(0);
       }
       if (preset && cur === 0) {
@@ -124,21 +149,24 @@ if (inline && asked) wizards.get(inline)?.reset(asked);
 const dialog = document.querySelector<HTMLDialogElement>('dialog.estimate');
 const modalForm = dialog?.querySelector<HTMLFormElement>('form[data-wizard]');
 const modal = modalForm ? wizards.get(modalForm) : undefined;
+let closeTimer: number | undefined;
 
 function openEstimate(preset?: string): boolean {
   if (!dialog || !modal || typeof dialog.showModal !== 'function') return false; // no dialog support: follow the link to /estimate/
+  window.clearTimeout(closeTimer);
   modal.reset(preset);
   if (!dialog.open) dialog.showModal();
   html.classList.add('estimate-open');
   requestAnimationFrame(() => requestAnimationFrame(() => dialog.classList.add('is-open')));
-  window.setTimeout(() => modal.focus(), 80);
+  window.setTimeout(() => { if (dialog.open && html.classList.contains('estimate-open')) modal.focus(); }, 80);
   return true;
 }
 function closeEstimate() {
   if (!dialog || !dialog.open) return;
   dialog.classList.remove('is-open');
   html.classList.remove('estimate-open');
-  window.setTimeout(() => dialog.close(), 380); // let the sheet slide away first
+  window.clearTimeout(closeTimer);
+  closeTimer = window.setTimeout(() => dialog.close(), 380); // let the sheet slide away first
 }
 
 document.addEventListener('click', (e) => {

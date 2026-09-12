@@ -1,0 +1,130 @@
+{
+  "status": "published",
+  "market": "grand-strand",
+  "service": "sports-field-turf",
+  "title": "Sports Field Turf in Myrtle Beach | TIMELESS Grass & Greens",
+  "description": "Sports turf for Grand Strand schools, parks and training facilities. Plan markings, preparation, drainage and maintenance with a free visit and written estimate.",
+  "h1": "Build the field around the sport.",
+  "lede": "Plan a practice area or playing field for your Grand Strand school, park or training facility. Start with the sport and available space, then define the surface, base, drainage and maintenance needs with a written estimate.",
+  "wins": [
+    "Choose markings and layout for the intended sports",
+    "Compare turf, pad and infill as a complete system",
+    "Plan access, upkeep and the return to play"
+  ],
+  "answer": {
+    "question": "What should a sports-turf project include?",
+    "answer": "The scope should identify the playing area, markings, selected surface system and the preparation underneath it. Drainage, access for construction and maintenance, and the project’s approval requirements belong in that same plan. We begin with a free visit and provide a layout and written price."
+  },
+  "blocks": [
+    {
+      "icon": "trophy",
+      "kicker": "Field layout",
+      "h2": "Agree how the space will be played.",
+      "paras": [
+        "Tell us which sports and drills the field will serve. Discuss the playing lines, practice areas, equipment and routes into the space before choosing turf. On a shared field, agree which markings need to be permanent and how the activities will fit together.",
+        "The proposed system also needs to suit the footwear, traffic and equipment you expect. Review the required product and testing documentation with the facility’s responsible staff. The main <a href=\"/services/sports-field-turf/\">sports-turf service</a> covers surface and layout options."
+      ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "Preparation and price",
+      "h2": "A field estimate needs more than dimensions.",
+      "paras": [
+        "Site access, removal, excavation, base work, drainage, pads, infill and markings affect the installation scope. Show us existing drains and areas that hold water. If this is a replacement, distinguish the worn surface from any known problems below it.",
+        "Discuss construction access and the dates when the field or nearby facilities need to stay available. Agree the installation and reopening plan around the work at your facility."
+      ]
+    },
+    {
+      "icon": "shield",
+      "kicker": "Grand Strand sites",
+      "h2": "Include the full field in the local review.",
+      "paras": [
+        "Confirm whether the property is under a city or Horry County’s jurisdiction. Ask the responsible reviewer what the proposed field requires, including drainage alterations, excavation and work that forms part of a larger development.",
+        "Describe the turf, base and water route together. Ask the reviewer which stormwater, surface-classification and documentation requirements apply to the proposed field. Keep any existing site and drainage plans available for the design discussion."
+      ]
+    },
+    {
+      "icon": "clock",
+      "kicker": "After installation",
+      "h2": "Plan for the playing season and the surface’s care.",
+      "paras": [
+        "Turf removes routine mowing within the field, but grooming, debris removal, infill checks and inspection of seams and edges remain. Include access for that work and agree the care instructions for the selected system.",
+        "Heat, weather and surface condition still matter before play. Discuss shade or rest areas and the facility’s surface-use checks. Review the field after rain and use its drainage and surface condition to decide when play can resume."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Which infill should we use?",
+      "a": "Choose from the options suitable for the specified turf system, intended sport and applicable requirements. Compare care needs, playing characteristics and cost together for the complete system."
+    },
+    {
+      "q": "Can you replace part of an existing field?",
+      "a": "Describe the damaged or worn area and the condition of the rest of the field. The scope needs to account for joining old and new surfaces and whether the existing base, pad or drainage can be retained."
+    },
+    {
+      "q": "How do we budget for maintenance?",
+      "a": "List the required tasks, equipment, staffing and eventual replacement as part of the purchase decision. Use the selected system’s care instructions to define the routine and budget for your facility."
+    }
+  ],
+  "towns": [
+    "myrtle-beach-sc",
+    "north-myrtle-beach-sc",
+    "carolina-forest-sc",
+    "little-river-sc",
+    "longs-sc",
+    "loris-sc"
+  ],
+  "sources": [
+    {
+      "label": "Myrtle Beach Sports: Doug Shaw Memorial Stadium",
+      "url": "https://www.officialmyrtlebeachsports.com/doug-shaw-memorial-stadium.html"
+    },
+    {
+      "label": "Myrtle Beach Sports: Ned Donkle Athletic Field Complex",
+      "url": "https://www.officialmyrtlebeachsports.com/ned-donkle-athletic-field-complex.html"
+    },
+    {
+      "label": "Myrtle Beach Sports: Styers Athletic Complex at Grand Park",
+      "url": "https://www.officialmyrtlebeachsports.com/styers-athletic-complex.html"
+    },
+    {
+      "label": "USDA Official Series Description: Newhan",
+      "url": "https://soilseries.sc.egov.usda.gov/OSD_Docs/N/NEWHAN.html"
+    },
+    {
+      "label": "USDA Official Series Description: Leon",
+      "url": "https://soilseries.sc.egov.usda.gov/OSD_Docs/L/LEON.html"
+    },
+    {
+      "label": "Horry County Stormwater Management Design Manual (January 2024)",
+      "url": "https://www.horrycountysc.gov/media/4wqkxbxg/horry-county-sw-design-manual_rev2024.pdf"
+    },
+    {
+      "label": "Horry County Code Sec. 17.7-16 (stormwater definitions)",
+      "url": "https://library.municode.com/sc/horry_county/codes/code_of_ordinances?nodeId=COOR_CH17.7STMA_ARTIISTUTFE_S17.7-16DE"
+    },
+    {
+      "label": "North Myrtle Beach Code Sec. 23-129.4 (Ord. No. 25-45)",
+      "url": "https://library.municode.com/sc/north_myrtle_beach/codes/code_of_ordinances?nodeId=COOR_CH23ZO_ARTVIIGESURE_S23-129.4STPESUIMSUSIMIDURENOSUSIECDEPLRE"
+    },
+    {
+      "label": "Sports Venue Calculator: turf field replacement and recycling",
+      "url": "https://sportsvenuecalculator.com/knowledge/artificial-turf-field/turf-field-replacement-and-recycling/"
+    },
+    {
+      "label": "Kiefer USA: baseball and softball artificial turf FAQ",
+      "url": "https://www.kieferusa.com/blog/baseball-softball-artificial-turf-faq/"
+    },
+    {
+      "label": "Williams & Pulley, Brigham Young University: surface temperatures",
+      "url": "https://www.westcoastturf.com/getdoc.cfm?id=38"
+    },
+    {
+      "label": "Singh et al. (2024), 23 studies of synthetic turf heat, International Journal of Biometeorology",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11272752/"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

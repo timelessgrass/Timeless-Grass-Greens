@@ -1,0 +1,103 @@
+{
+  "status": "published",
+  "market": "northeast-florida",
+  "name": "Sawgrass",
+  "state": "FL",
+  "county": "St. Johns",
+  "title": "Artificial Turf in Sawgrass, FL | TIMELESS Grass & Greens",
+  "description": "Putting practice at home in Sawgrass. Plan a green for the putts you want to repeat, with lawn and pet-area options around it.",
+  "h1": "Putting practice at home in Sawgrass.",
+  "lede": "Plan a green for the putts you want to repeat, with lawn and pet-area options around it. Start with a free visit and written installation estimate.",
+  "wins": [
+    "Choose useful putts and room to chip",
+    "Keep oaks and lagoon edges in the layout",
+    "Prepare the plan for the applicable association"
+  ],
+  "answer": {
+    "question": "Does a fairway-facing Sawgrass yard need association review for turf?",
+    "answer": "Obtain the current requirements from the applicable master and neighborhood associations. Florida’s protection for items kept out of sight includes visibility from a community golf course, so a fairway-facing yard should not be assumed protected from review. Include the turf and surrounding landscape in the proposal."
+  },
+  "blocks": [
+    {
+      "icon": "flag",
+      "kicker": "The short game at home",
+      "h2": "Put useful lines ahead of extra cups.",
+      "paras": [
+        "Start with the putt lengths and slopes you want to practice. Leave comfortable standing space and a route around the green. A fringe or chipping area should have a purpose in the layout, rather than simply filling the remaining ground.",
+        "Sawgrass Country Club and Sawgrass Players Club have different communities and governing documents. Use the exact property and association when asking what the proposed change must include."
+      ]
+    },
+    {
+      "icon": "leaf",
+      "kicker": "Oaks and lagoons",
+      "h2": "Draw the limits before the outline.",
+      "paras": [
+        "Where Florida’s residential turf standard applies, turf inside a tree’s drip line needs a certified arborist’s finding that the installation will not harm the tree. Otherwise, retain suitable landscape beneath the canopy.",
+        "The same standard generally requires 10 feet from a waterbody’s high-water line, with an exception where a seawall or bulkhead separates it. Keep swales and pond littoral areas clear. Bring those boundaries and any maintenance access into the plan before the green is sized."
+      ]
+    }
+  ],
+  "services": [
+    "putting-greens",
+    "residential-turf",
+    "pet-turf"
+  ],
+  "servicesNote": "Compare a putting green, lawn or pet area that fits the usable part of your Sawgrass property.",
+  "faq": [],
+  "nearby": [
+    "palm-valley-fl",
+    "ponte-vedra-beach-fl",
+    "south-ponte-vedra-beach-fl",
+    "nocatee-fl"
+  ],
+  "sources": [
+    {
+      "label": "Ponte Vedra Focus: neighborhood spotlight, TPC Sawgrass",
+      "url": "https://www.pontevedrafocus.com/blog/neighborhood-spotlight-tpc-sawgrass/"
+    },
+    {
+      "label": "Sawgrass Country Club: history",
+      "url": "https://www.sawgrasscountryclub.com/history"
+    },
+    {
+      "label": "Fla. Stat. 720.3045: items not visible from the frontage, a neighbor, a common area or a community golf course",
+      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0700-0799/0720/Sections/0720.3045.html"
+    },
+    {
+      "label": "Sawgrass community: Sawgrass Players Club",
+      "url": "https://sawgrasscommunity.com/sawgrass-players-club/"
+    },
+    {
+      "label": "Florida DEP: synthetic turf rule FAQ",
+      "url": "https://floridadep.gov/sites/default/files/SyntheticTurfFAQ%20final.pdf"
+    },
+    {
+      "label": "Florida Rule 62-308.100, F.A.C.: synthetic turf",
+      "url": "https://www.flrules.org/gateway/ruleNo.asp?id=62-308.100"
+    },
+    {
+      "label": "St. Johns County: who is your water service provider",
+      "url": "https://www.sjcfl.us/who-is-your-service-provider/"
+    },
+    {
+      "label": "St. Johns County: Phase III extreme water shortage declaration (May 2026)",
+      "url": "https://www.sjcfl.us/phase-iii-extreme-water-shortage-declaration-may-2026/"
+    },
+    {
+      "label": "St. Johns County Land Development Code (edition of 4 March 2025)",
+      "url": "https://www.sjcfl.us/wp-content/uploads/2024/01/entire-ldc-march-4-2025.pdf"
+    },
+    {
+      "label": "Fla. Stat. 125.572: regulation of synthetic turf",
+      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0100-0199%2F0125%2FSections%2F0125.572.html"
+    },
+    {
+      "label": "St. Johns River Water Management District: watering restrictions",
+      "url": "https://www.sjrwmd.com/wateringrestrictions/"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": [
+    "https://www.flrules.org/gateway/ruleNo.asp?id=62-308.100"
+  ]
+}

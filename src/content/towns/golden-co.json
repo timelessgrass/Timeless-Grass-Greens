@@ -1,0 +1,96 @@
+{
+  "status": "published",
+  "market": "denver-metro",
+  "name": "Golden",
+  "state": "CO",
+  "county": "Jefferson",
+  "title": "Artificial Turf in Golden, CO | TIMELESS Grass & Greens",
+  "description": "Putting greens and artificial lawns in Golden. Plan a compact green, pet area or lawn for your downtown or hillside yard.",
+  "h1": "Putting greens and artificial lawns in Golden.",
+  "lede": "Plan a compact green, pet area or lawn for your downtown or hillside yard. We’ll visit the space and give you a written installation estimate.",
+  "wins": [
+    "Choose useful putting lines for the available space",
+    "Keep hillside access in the discussion",
+    "Price the site preparation and finished edges"
+  ],
+  "answer": {
+    "question": "How does a hillside Golden yard change a turf estimate?",
+    "answer": "The usable grade and route for materials need to be considered before the final turf outline. Show us steps, retaining structures, wet areas and any existing site reports. A surface replacement does not correct structural ground movement, so keep those concerns separate from the turf scope."
+  },
+  "blocks": [
+    {
+      "icon": "flag",
+      "kicker": "Practice at home",
+      "h2": "Start with the putts that fit the setting.",
+      "paras": [
+        "In a small yard near downtown, a simple putting line may be more useful than extra cups crowded between a patio and garage. On a larger hillside property, decide where standing and walking will be comfortable before choosing contours.",
+        "A pet area or lawn can remain separate from the green. Discuss where shade falls and the cleaning access each use needs."
+      ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "Downtown or hillside",
+      "h2": "Include the route in and the land around it.",
+      "paras": [
+        "An alley-served yard and a lot reached by steps can require different installation plans. Show us gates, turns and where materials could be staged. Include the existing slope and any known drainage issues in the quote.",
+        "For a historic property or a project changing grading or landscape, ask Golden Planning about the applicable requirements. Bring any association conditions too. A Golden postal address should be checked against the actual property jurisdiction."
+      ]
+    }
+  ],
+  "services": [
+    "putting-greens",
+    "pet-turf",
+    "residential-turf"
+  ],
+  "servicesNote": "Compare a green, pet area or lawn with the access and usable grade your property offers.",
+  "faq": [],
+  "nearby": [
+    "applewood-co",
+    "fairmount-co",
+    "lakewood-co"
+  ],
+  "sources": [
+    {
+      "label": "Fossil Trace Golf Club",
+      "url": "https://www.fossiltrace.com/"
+    },
+    {
+      "label": "Colorado Geological Survey: expansive soil and rock",
+      "url": "https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/"
+    },
+    {
+      "label": "City of Golden: water conservation",
+      "url": "https://www.cityofgolden.gov/community/sustainable_golden/water_conservation.php"
+    },
+    {
+      "label": "City of Golden: water service",
+      "url": "https://www.cityofgolden.gov/services/water_service.php"
+    },
+    {
+      "label": "Resource Central: Lawn Replacement Program",
+      "url": "https://resourcecentral.org/lawn/"
+    },
+    {
+      "label": "City of Golden: zoning criteria guide",
+      "url": "https://www.cityofgolden.gov/business/land_use_development/zoning_criteria_guide.php"
+    },
+    {
+      "label": "C.R.S. 38-33.3-106.5",
+      "url": "https://codes.findlaw.com/co/title-38-property-real-and-personal/co-rev-st-sect-38-33-3-106-5.html"
+    },
+    {
+      "label": "Applewood Golf Course",
+      "url": "https://www.applewoodgc.com/"
+    },
+    {
+      "label": "Colorado General Assembly: SB24-005",
+      "url": "https://leg.colorado.gov/bills/sb24-005"
+    },
+    {
+      "label": "Colorado HB25-1113, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2025a_1113_signed.pdf"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

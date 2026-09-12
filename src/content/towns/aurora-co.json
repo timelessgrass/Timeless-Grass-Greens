@@ -1,0 +1,105 @@
+{
+  "status": "published",
+  "market": "denver-metro",
+  "name": "Aurora",
+  "state": "CO",
+  "county": null,
+  "title": "Artificial Turf in Aurora, CO | TIMELESS Grass & Greens",
+  "description": "Artificial lawns and putting greens in Aurora. Turn a worn patch or unfinished yard into space you can use.",
+  "h1": "Artificial lawns and putting greens in Aurora.",
+  "lede": "Turn a worn patch or unfinished yard into space you can use. Compare lawn, pet-turf and putting-green layouts during a free site visit.",
+  "wins": [
+    "Choose the useful area before the turf",
+    "Include preparation and access in the price",
+    "Keep planting and shade in the layout"
+  ],
+  "answer": {
+    "question": "How do I compare a turf project for an older or newer Aurora yard?",
+    "answer": "For an established yard, identify the trees, irrigation and paths that will stay. For a newer yard, include the existing grade and future beds or shade in the layout. In either case, bring any property requirements and ask for the proposed work in writing."
+  },
+  "blocks": [
+    {
+      "icon": "layout",
+      "kicker": "The shape of the yard",
+      "h2": "Plan around what you use every day.",
+      "paras": [
+        "Older Aurora lots may have an alley or established garden to work around; a newer subdivision yard may be starting with a fence and an open space. Show us the actual access route and what you want to keep or add.",
+        "A pet area by the door can be separate from a putting green or main lawn. Discuss sunlight, cleanup access and walking space along with the finished appearance."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Your budget",
+      "h2": "Compare the whole change, including ongoing care.",
+      "paras": [
+        "Removal, access, preparation, edges and the selected turf all affect the installation price. Ask for those items to be clear in the quote rather than comparing an unexplained rate per square foot.",
+        "Confirm your water provider and any landscape-program eligibility directly before using a rebate or water saving in your budget. Check applicable City and association requirements for the intended use; turf’s lack of a growing-in period does not establish permission to install it."
+      ]
+    }
+  ],
+  "services": [
+    "residential-turf",
+    "putting-greens",
+    "pet-turf"
+  ],
+  "servicesNote": "Compare a lawn, pet area or backyard green and get a written installation scope.",
+  "faq": [],
+  "nearby": [
+    "denver-co",
+    "centennial-co",
+    "foxfield-co",
+    "commerce-city-co"
+  ],
+  "sources": [
+    {
+      "label": "Aurora Water: drought restrictions",
+      "url": "https://www.auroragov.org/residents/water/drought"
+    },
+    {
+      "label": "City of Aurora: watering times",
+      "url": "https://www.auroragov.org/residents/water/watering_times"
+    },
+    {
+      "label": "CBS News Colorado: Aurora City Council approves Stage 1 drought measures",
+      "url": "https://www.cbsnews.com/colorado/news/aurora-city-council-stage-1-drought-water-conservation-measures-outdoor-watering-2-days-week/"
+    },
+    {
+      "label": "City of Aurora: Lawn & Irrigation Permits",
+      "url": "https://www.auroragov.org/cms/One.aspx?portalId=16242704&pageId=16533647"
+    },
+    {
+      "label": "Aurora Water: GRIP Residential Manual 2026 (PDF)",
+      "url": "https://www.auroragov.org/UserFiles/Servers/Server_1881137/File/Residents/Water/Water%20Conservation/Landscape%20rebate/GRIP_Residential_Manual_2026_web_accessible.pdf"
+    },
+    {
+      "label": "City of Aurora: water-wise landscaping",
+      "url": "https://www.auroragov.org/cms/One.aspx?portalId=16242704&pageId=16534576"
+    },
+    {
+      "label": "Colorado Geological Survey: expansive soil and rock",
+      "url": "https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/"
+    },
+    {
+      "label": "City of Aurora: golf",
+      "url": "https://www.auroragov.org/things_to_do/golf"
+    },
+    {
+      "label": "Colorado SB23-178, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf"
+    },
+    {
+      "label": "Colorado SB24-005, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2024a_005_signed.pdf"
+    },
+    {
+      "label": "Colorado HB25-1113, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2025a_1113_signed.pdf"
+    },
+    {
+      "label": "East Cherry Creek Valley Water and Sanitation District",
+      "url": "https://www.eccv.org/"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

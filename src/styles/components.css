@@ -185,27 +185,16 @@
 .src { font-size: .78rem; letter-spacing: .04em; color: var(--ink-on-dark-faint); margin: 1.1rem 0 0; }
 
 /* --- process --------------------------------------------------------------------- */
-.proc { min-height: 100vh; display: grid; align-content: center; }
+.proc { display: grid; }
 .proc__in { display: grid; gap: clamp(2rem, 5vw, 4rem); }
 @media (min-width: 900px) { .proc__in { grid-template-columns: .9fr 1.1fr; align-items: start; } }
-.proc__bar { height: 3px; background: var(--rule-on-dark); margin-top: 1.6rem; overflow: hidden; }
-.proc__fill { height: 100%; background: var(--ribbon); transform-origin: left; transform: scaleX(.25); }
-/* Every step is in flow and readable at rest. Scroll lights the current one; it does not
-   hide the others, because a pinned full-height panel showing one short step reads as empty. */
+/* Every step remains in flow at full contrast, including without JavaScript. */
 .proc__steps { display: grid; gap: 1.15rem; }
 .proc__step { display: grid; grid-template-columns: 2.6rem 1fr; column-gap: 1rem; row-gap: .3rem; padding-bottom: 1.15rem; border-bottom: 1px solid var(--rule-on-dark); }
 .proc__step:last-child { border-bottom: 0; padding-bottom: 0; }
 .proc__step i { font-style: normal; font-family: var(--font-display); font-size: 1.5rem; line-height: 1.15; color: var(--accent-on-dark); letter-spacing: -.02em; grid-row: span 2; font-variant-numeric: tabular-nums; }
 .proc__step h3 { color: var(--ink-on-dark); font-size: clamp(1.15rem, 2.2vw, 1.45rem); }
-.proc__step p { color: var(--ink-on-dark-dim); max-width: 48ch; font-size: .98rem; }
-/* .proc--live is set by the script only when it creates the pin. Without it the steps
-   stay fully legible — which is what a short viewport, a no-JS visitor and a
-   reduced-motion visitor all get. */
-@media (min-width: 900px) {
-  .proc--live .proc__step { opacity: .3; transition: opacity .45s var(--ease); }
-  .proc--live .proc__step.is-on { opacity: 1; }
-}
-.proc__fill { transition: transform .45s var(--ease); }
+.proc__step p { grid-column: 2; color: var(--ink-on-dark-dim); max-width: 48ch; font-size: .98rem; }
 
 /* --- differentiators: a ruled list, deliberately NOT the card grid above it ------- */
 .split { display: grid; gap: clamp(2rem, 5vw, 4rem); align-items: start; }
@@ -283,7 +272,7 @@
 .quote__row { display: grid; gap: 1rem; margin-bottom: 1rem; }
 @media (min-width: 620px) { .quote__row { grid-template-columns: 1fr 1fr; } }
 .fld { display: block; }
-.fld > span { display: block; font-size: .69rem; letter-spacing: var(--track-micro); text-transform: uppercase; font-weight: 600; color: var(--ink-faint); margin-bottom: .4rem; }
+.fld > span { display: block; font-size: .875rem; letter-spacing: normal; text-transform: none; font-weight: 600; color: var(--ink); margin-bottom: .4rem; }
 .fld input, .fld select { width: 100%; min-height: 48px; padding: .7rem .8rem; font: inherit; font-size: 16px; color: var(--ink); background: var(--ground); border: 1px solid var(--rule); border-radius: var(--radius-input); transition: border-color var(--dur) var(--ease); }
 .fld input:focus, .fld select:focus { border-color: var(--accent); }
 .quote button { margin-top: .4rem; }
@@ -359,7 +348,7 @@
 /* transition lives on .is-in only: the hidden start state must snap, not fade out first.
    `translate` not `transform`: composes with the cards' hover lift instead of overriding it */
 @media (prefers-reduced-motion: reduce) {
-  .js-motion .hero__eyebrow, .js-motion .hero--home h1 .line > span, .js-motion .hero--home .hero__wins > li, .js-motion .hero--home .hero__cta, .js-motion .hero--home .hero__trust, .js-motion [data-reveal] { opacity: 1; transform: none; translate: none; transition: none; }
+  .js-motion .hero--home .hero__eyebrow, .js-motion .hero--home h1 .line > span, .js-motion .hero--home .hero__wins > li, .js-motion .hero--home .hero__cta, .js-motion .hero--home .hero__trust, .js-motion [data-reveal] { opacity: 1; transform: none; translate: none; transition: none; }
   .js-motion [data-reveal="photo"], .js-motion [data-reveal="photo"].is-in { clip-path: none; }
   .js-motion .hero--home .scribble path { stroke-dashoffset: 0; }
 }
@@ -380,20 +369,6 @@
 .js-motion .draw .ico path { stroke-dasharray: 1 2; stroke-dashoffset: 1; }  /* gap longer than the path: no zero-length dash lands on its end, so the round cap leaves no dot before it draws */
 .js-motion .draw.is-drawn .ico path { stroke-dashoffset: 0; transition: stroke-dashoffset 1s var(--ease) .12s; }
 @media (prefers-reduced-motion: reduce) { .js-motion .draw .ico path { stroke-dashoffset: 0; } }
-
-/* --- phones: the four steps stack as cards as you scroll ------------------------------------------ */
-@media (max-width: 899px) {
-  .proc__steps { gap: .9rem; padding-bottom: 1.5rem; }
-  .proc__step, .proc__step:last-child {
-    position: sticky; top: calc(84px + var(--k, 0) * 12px);
-    padding: 1.2rem 1.1rem 1.3rem; border: 1px solid var(--rule-on-dark); border-radius: var(--radius-card);
-    background: color-mix(in srgb, var(--ground-green) 90%, var(--ink-on-dark));
-    box-shadow: 0 -10px 30px rgba(14, 14, 12, .28);
-  }
-  .proc__step:nth-child(2) { --k: 1; }
-  .proc__step:nth-child(3) { --k: 2; }
-  .proc__step:nth-child(4) { --k: 3; }
-}
 
 /* --- one sweep of light across the estimate buttons, once ---------------------------------------- */
 .btn--sheen { position: relative; overflow: hidden; isolation: isolate; }

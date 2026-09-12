@@ -1,0 +1,100 @@
+{
+  "status": "published",
+  "market": "northeast-florida",
+  "name": "St. Augustine Shores",
+  "state": "FL",
+  "county": "St. Johns",
+  "title": "Artificial Turf in St. Augustine Shores, FL | TIMELESS Grass & Greens",
+  "description": "A practice green at home in St. Augustine Shores. Choose a green for regular putting practice, or compare a lawn and pet area around the existing landscape.",
+  "h1": "A practice green at home in St. Augustine Shores.",
+  "lede": "Choose a green for regular putting practice, or compare a lawn and pet area around the existing landscape. Request a free visit and written price.",
+  "wins": [
+    "Useful putting lines near the house",
+    "Keep mature trees and course-side boundaries",
+    "Check the right association for the property"
+  ],
+  "answer": {
+    "question": "What should a golf-facing St. Augustine Shores turf plan include?",
+    "answer": "Show the property boundary, turf footprint, existing trees and any pond or drainage conditions. Obtain current association requirements before finalizing it. A yard visible from a community golf course should not be assumed outside association review simply because it is behind the house."
+  },
+  "blocks": [
+    {
+      "icon": "flag",
+      "kicker": "Practice between rounds",
+      "h2": "Choose the shots that fit the yard.",
+      "paras": [
+        "Start with the putt lengths and room to stand, then discuss cups, contours and fringe. Leave walking access and the surrounding garden in use. A course-side setting does not mean the turf should extend toward the cart path or beyond the property boundary."
+      ]
+    },
+    {
+      "icon": "home",
+      "kicker": "House or condominium",
+      "h2": "Use the right decision-maker and landscape plan.",
+      "paras": [
+        "A condominium’s outdoor space may be common property, so confirm who controls it before requesting an installation scope. For a house, obtain the applicable association requirements and identify any tree certification needed for work inside a canopy.",
+        "Bring pond, shoreline and drainage information where relevant. The required water separation and maintenance access need to be identified before choosing the usable green or lawn area. Turf should not be treated as a way to fill a low drainage strip."
+      ]
+    }
+  ],
+  "services": [
+    "putting-greens",
+    "residential-turf",
+    "pet-turf"
+  ],
+  "servicesNote": "Compare a practice green, lawn or pet area within the property’s usable outdoor space.",
+  "faq": [],
+  "nearby": [
+    "butler-beach-fl",
+    "st-augustine-beach-fl",
+    "anastasia-island-fl",
+    "st-augustine-fl"
+  ],
+  "sources": [
+    {
+      "label": "St. Augustine Experiences: St. Augustine golf",
+      "url": "https://staugustineexperiences.com/st-augustine-golf/"
+    },
+    {
+      "label": "Your Key to St. Augustine: get to know St. Augustine Shores",
+      "url": "https://yourkeytostaugustine.com/get-to-know-st-augustine-shores/"
+    },
+    {
+      "label": "Fla. Stat. 720.3045: items not visible from the frontage, including artificial turf",
+      "url": "https://www.flsenate.gov/Laws/Statutes/2025/720.3045"
+    },
+    {
+      "label": "Visit St. Augustine: St. Augustine Shores",
+      "url": "https://www.visitstaugustine.com/community/st-augustine-shores"
+    },
+    {
+      "label": "Wikipedia: St. Augustine Shores, Florida",
+      "url": "https://en.wikipedia.org/wiki/St._Augustine_Shores,_Florida"
+    },
+    {
+      "label": "USDA ecological site description R155XY030FL",
+      "url": "https://edit.sc.egov.usda.gov/catalogs/esd/155X/R155XY030FL"
+    },
+    {
+      "label": "St. Johns County: Phase III Extreme Water Shortage declaration, May 2026",
+      "url": "https://www.sjcfl.us/phase-iii-extreme-water-shortage-declaration-may-2026/"
+    },
+    {
+      "label": "St. Johns County: Protect Our Water (reclaimed water, fertilizer ordinance)",
+      "url": "https://www.sjcfl.us/protect-our-water/"
+    },
+    {
+      "label": "St. Johns County Land Development Code (edition of 4 March 2025)",
+      "url": "https://www.sjcfl.us/wp-content/uploads/2024/01/entire-ldc-march-4-2025.pdf"
+    },
+    {
+      "label": "Fla. Stat. 125.572: regulation of synthetic turf",
+      "url": "https://www.flsenate.gov/Laws/Statutes/2025/0125.572"
+    },
+    {
+      "label": "Florida DEP: Synthetic Turf FAQ",
+      "url": "https://floridadep.gov/sites/default/files/SyntheticTurfFAQ%20final.pdf"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

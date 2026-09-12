@@ -1,0 +1,101 @@
+{
+  "status": "published",
+  "market": "denver-metro",
+  "name": "Denver",
+  "state": "CO",
+  "county": "Denver",
+  "title": "Artificial Turf in Denver, CO | TIMELESS Grass & Greens",
+  "description": "Make more of your Denver back yard. Plan pet turf, a lawn or a putting green around the garage, patio and trees you want to keep.",
+  "h1": "Make more of your Denver back yard.",
+  "lede": "Plan pet turf, a lawn or a putting green around the garage, patio and trees you want to keep. Start with a free visit and written estimate.",
+  "wins": [
+    "Use the space between house and garage",
+    "Plan pet areas with cleaning in mind",
+    "Keep trees and access in the layout"
+  ],
+  "answer": {
+    "question": "Can turf fit a small Denver yard with an alley garage?",
+    "answer": "Yes, a layout can work around the garage, gate and patio while reserving a lawn, pet area or putting green. The free visit helps compare those choices. Show us the narrowest access and any tree roots or wet spots that could affect preparation."
+  },
+  "blocks": [
+    {
+      "icon": "paw",
+      "kicker": "A city yard",
+      "h2": "Give the dog a place without losing the patio.",
+      "paras": [
+        "If the dog wears the route between the door and alley gate, start there. A defined pet area can leave room for seating and planting instead of covering the entire yard. Plan for waste pickup, cleaning access and time out of full sun.",
+        "Turf does not need sunlight to grow, but shade does not make it maintenance-free. Leaves and other debris still need clearing, and pet use needs a regular cleaning routine."
+      ]
+    },
+    {
+      "icon": "layout",
+      "kicker": "Between the house and garage",
+      "h2": "Use the narrow shape to your advantage.",
+      "paras": [
+        "A longer putting line may fit where a wide green will not. Decide which putts matter to you and leave walking room beside the surface. Keep the route to the garage useful after the work is finished.",
+        "Older city yards can have changed levels and buried remnants from past work. Show us known issues and ask for preparation and unresolved conditions to be stated in the estimate. Check City and any association requirements for the actual proposal."
+      ]
+    }
+  ],
+  "services": [
+    "pet-turf",
+    "residential-turf",
+    "putting-greens"
+  ],
+  "servicesNote": "Compare a pet area, lawn and compact putting green for the space you have.",
+  "faq": [],
+  "nearby": [
+    "lakewood-co",
+    "aurora-co",
+    "englewood-co",
+    "edgewater-co"
+  ],
+  "sources": [
+    {
+      "label": "Denver Water: Board of Water Commissioners declares Stage 1 drought",
+      "url": "https://www.denverwater.org/tap/denver-board-water-commissioners-declares-stage-1-drought-implements-mandatory-watering"
+    },
+    {
+      "label": "Denver Water: summer watering rules",
+      "url": "https://www.denverwater.org/residential/rebates-and-conservation-tips/summer-watering-rules"
+    },
+    {
+      "label": "Denver Water: 2026 residential rates",
+      "url": "https://www.denverwater.org/residential/billing-and-rates/2026-rates"
+    },
+    {
+      "label": "Denver Water: turfgrass removal discount",
+      "url": "https://www.denverwater.org/tap/ditching-useless-turf-coloradoscape-we-can-help"
+    },
+    {
+      "label": "Denver Water: Landscape Transformation Assistance Program, HOA and commercial",
+      "url": "https://www.denverwater.org/business/rebates-and-conservation-tips/landscape-transformation-assistance-program/hoa-commercial"
+    },
+    {
+      "label": "USDA Soil Data Access",
+      "url": "https://sdmdataaccess.nrcs.usda.gov/"
+    },
+    {
+      "label": "Colorado SB23-178, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf"
+    },
+    {
+      "label": "Colorado SB24-005, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2024a_005_signed.pdf"
+    },
+    {
+      "label": "Colorado HB25-1113, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2025a_1113_signed.pdf"
+    },
+    {
+      "label": "Colorado General Assembly: SB24-005",
+      "url": "https://leg.colorado.gov/bills/sb24-005"
+    },
+    {
+      "label": "C.R.S. 37-60-126",
+      "url": "https://codes.findlaw.com/co/title-37-water-and-irrigation/co-rev-st-sect-37-60-126/"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

@@ -1,0 +1,89 @@
+{
+  "status": "published",
+  "market": "denver-metro",
+  "name": "Dove Valley",
+  "state": "CO",
+  "county": "Arapahoe",
+  "title": "Artificial Turf in Dove Valley, CO | TIMELESS Grass & Greens",
+  "description": "Sports and training turf in Dove Valley. Plan a field, activity area or lawn with a defined use and installation scope.",
+  "h1": "Sports and training turf in Dove Valley.",
+  "lede": "Plan a field, activity area or lawn with a defined use and installation scope. Discuss the proposed surface and property access at a free site visit.",
+  "wins": [
+    "Choose the system around the activity",
+    "Plan access and ongoing maintenance",
+    "Get the proposed work in writing"
+  ],
+  "answer": {
+    "question": "What should a Dove Valley business bring to a turf consultation?",
+    "answer": "Bring the intended activity, dimensions, equipment layout and expected traffic, plus access or closure requirements. Identify the person authorized to approve the work. Check the applicable landscape requirements with Arapahoe County before treating a decorative or shared area as an approved turf location."
+  },
+  "blocks": [
+    {
+      "icon": "trophy",
+      "kicker": "Sports and training",
+      "h2": "Begin with what happens on the surface.",
+      "paras": [
+        "A field, training lane and recreational area can need different surfaces, edges and maintenance. Describe how people move, what equipment they use and the schedule the property needs to maintain. Ask for the proposed system and relevant product documentation before selecting it.",
+        "Around Dove Valley’s business and airport area, delivery access and keeping adjoining operations available can be part of the job. Make those constraints visible in the installation discussion."
+      ]
+    },
+    {
+      "icon": "shield",
+      "kicker": "The proposed use",
+      "h2": "Settle planning questions before the final footprint.",
+      "paras": [
+        "Dove Valley is unincorporated, so confirm the parcel and intended project with Arapahoe County. Commercial and shared-area landscape requirements depend on the type of proposal; a product advertised as sports turf does not establish permission for any site.",
+        "For a home yard, bring applicable property requirements and explain how the space will be used. In either case, identify grading, drainage and removal separately in the written estimate."
+      ]
+    }
+  ],
+  "services": [
+    "sports-field-turf",
+    "commercial-turf",
+    "residential-turf"
+  ],
+  "servicesNote": "Discuss sports, commercial or residential turf according to the activity and property involved.",
+  "faq": [],
+  "nearby": [
+    "centennial-co",
+    "inverness-co",
+    "foxfield-co",
+    "meridian-co"
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia: Denver Broncos (Broncos Park Powered by CommonSpirit, Dove Valley)",
+      "url": "https://en.wikipedia.org/wiki/Denver_Broncos"
+    },
+    {
+      "label": "Wikipedia: Centennial Airport",
+      "url": "https://en.wikipedia.org/wiki/Centennial_Airport"
+    },
+    {
+      "label": "Wikipedia: Dove Valley, Colorado",
+      "url": "https://en.wikipedia.org/wiki/Dove_Valley,_Colorado"
+    },
+    {
+      "label": "Colorado SB24-005, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2024a_005_signed.pdf"
+    },
+    {
+      "label": "Colorado HB25-1113, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2025a_1113_signed.pdf"
+    },
+    {
+      "label": "Colorado SB23-178, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf"
+    },
+    {
+      "label": "Colorado Geological Survey: expansive soil",
+      "url": "https://coloradogeologicalsurvey.org/water/expansive-soil/"
+    },
+    {
+      "label": "Resource Central: lawn replacement",
+      "url": "https://resourcecentral.org/lawn/"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

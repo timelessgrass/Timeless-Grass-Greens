@@ -1,0 +1,65 @@
+{
+  "status": "published",
+  "market": "grand-strand",
+  "name": "Carolina Forest",
+  "state": "SC",
+  "county": "Horry",
+  "title": "Artificial Turf in Carolina Forest, SC | TIMELESS Grass & Greens",
+  "description": "Lawns and putting greens in Carolina Forest. Make more use of your yard with an artificial lawn, a pet area or a backyard green.",
+  "h1": "Lawns and putting greens in Carolina Forest.",
+  "lede": "Make more use of your yard with an artificial lawn, a pet area or a backyard green. We’ll visit the space, discuss the layout and give you a written estimate.",
+  "wins": [
+    "A layout drawn for your yard",
+    "Turf options for lawn, pet or putting use",
+    "A written price before installation"
+  ],
+  "answer": {
+    "question": "Can turf be just one part of my Carolina Forest yard?",
+    "answer": "Yes. A layout can keep planting beds, paths and seating while adding a lawn, dedicated pet area or putting green. Bring your property plan and any association requirements, and show us existing drains or wet areas before deciding where the turf should end."
+  },
+  "blocks": [
+    {
+      "icon": "layout",
+      "kicker": "Work with your yard",
+      "h2": "Keep the paths, beds and gathering places that work.",
+      "paras": [
+        "You do not need to cover the whole yard to change how it feels. A small pet area near the back door may be more useful than a larger lawn; a putting green may fit beside a patio with planting left around it. Choose the purpose first, then compare the layout and turf options.",
+        "Show us the route into the work area and any irrigation that crosses it. Access, removal, preparation and the edges between turf and existing landscaping all belong in the written scope."
+      ]
+    },
+    {
+      "icon": "shield",
+      "kicker": "Community properties",
+      "h2": "Leave room for drainage and shared access.",
+      "paras": [
+        "If the area sits beside a pond, ditch or drain, bring the property plan if you have it. Mark drainage features and any shared access before choosing the turf boundary.",
+        "For a property with an association, check its requirements for the proposed change. Ask Horry County about any grading or drainage work that accompanies the installation. Having those answers early helps avoid redesigning a layout around an overlooked restriction."
+      ]
+    }
+  ],
+  "services": [
+    "residential-turf",
+    "pet-turf",
+    "putting-greens"
+  ],
+  "servicesNote": "Compare a lawn, a dedicated pet area or a putting green. The free visit helps define the area and work to be priced.",
+  "faq": [],
+  "nearby": [
+    "forestbrook-sc",
+    "conway-sc",
+    "myrtle-beach-sc",
+    "nixonville-sc"
+  ],
+  "sources": [
+    {
+      "label": "Horry County Stormwater: permitting",
+      "url": "https://www.horrycountysc.gov/departments/stormwater/engineers/construction/storm-water-permitting/"
+    },
+    {
+      "label": "Horry County: homeowner drainage and easement guidance",
+      "url": "https://horrycountysc.gov/departments/stormwater/hoa/"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

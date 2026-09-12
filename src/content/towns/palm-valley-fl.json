@@ -1,0 +1,85 @@
+{
+  "status": "published",
+  "market": "northeast-florida",
+  "name": "Palm Valley",
+  "state": "FL",
+  "county": "St. Johns",
+  "title": "Artificial Turf in Palm Valley, FL | TIMELESS Grass & Greens",
+  "description": "A lawn or putting green for your Palm Valley property. Plan a lawn, pet area or practice green around the wooded yard you want to keep.",
+  "h1": "A lawn or putting green for your Palm Valley property.",
+  "lede": "Plan a lawn, pet area or practice green around the wooded yard you want to keep. Start with a free visit and written installation estimate.",
+  "wins": [
+    "Keep mature trees and property access",
+    "Choose a useful green or pet area",
+    "Consider wetland boundaries before the layout"
+  ],
+  "answer": {
+    "question": "What should I check before turf goes into a wet Palm Valley yard?",
+    "answer": "Identify wetland boundaries, existing drainage and the usable part of the property before choosing the turf footprint. Bring rain photos and any property reports. A new surface does not resolve tidal water or a larger drainage problem; any additional assessment or work needs its own scope."
+  },
+  "blocks": [
+    {
+      "icon": "layout",
+      "kicker": "Wooded acreage",
+      "h2": "Choose the area that will change your daily routine.",
+      "paras": [
+        "A lawn beside the patio or a dog area near the door can leave much of a larger property alone. For a green, choose putting lines and a chipping position, then keep paths and ordinary property access around them.",
+        "Mark the tree canopy before discussing preparation. Where the applicable Florida standard requires an arborist’s certification for turf beneath the drip line, obtain it before treating that shaded area as available."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Marsh-side properties",
+      "h2": "Keep the wetland edge outside an ordinary lawn quote.",
+      "paras": [
+        "Along Palm Valley Road and Roscoe Boulevard, bring any recorded wetland buffer, shoreline or drainage conditions for the actual parcel. Ask the county’s responsible staff about work near those boundaries. A fence or an existing lawn edge does not settle the permitted work area.",
+        "Palm Valley and Ponte Vedra Beach share a postal area, but a Palm Valley parcel should not automatically be treated as part of the Ponte Vedra Boulevard zoning district. Confirm the parcel’s requirements and any private covenants. Keep unresolved drainage work separate from the surface estimate."
+      ]
+    }
+  ],
+  "services": [
+    "residential-turf",
+    "pet-turf",
+    "putting-greens"
+  ],
+  "servicesNote": "Compare a lawn, dog area or putting green within the usable part of your wooded property.",
+  "faq": [],
+  "nearby": [
+    "sawgrass-fl",
+    "nocatee-fl",
+    "ponte-vedra-beach-fl",
+    "jacksonville-beach-fl"
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia: Palm Valley, Florida",
+      "url": "https://en.wikipedia.org/wiki/Palm_Valley,_Florida"
+    },
+    {
+      "label": "St. Johns County Land Development Code, Article IV",
+      "url": "https://www.sjcfl.us/wp-content/uploads/2024/01/Article-IV.pdf"
+    },
+    {
+      "label": "St. Johns County: Phase III extreme water shortage declaration (May 2026)",
+      "url": "https://www.sjcfl.us/phase-iii-extreme-water-shortage-declaration-may-2026/"
+    },
+    {
+      "label": "St. Johns County: protect our water (watering and fertilizer rules)",
+      "url": "https://www.sjcfl.us/protect-our-water/"
+    },
+    {
+      "label": "Fla. Stat. 720.3045: items not visible from the frontage, a neighbor or a common area",
+      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0700-0799/0720/Sections/0720.3045.html"
+    },
+    {
+      "label": "Fla. Stat. 125.572 (2025): regulation of synthetic turf",
+      "url": "https://www.flsenate.gov/Laws/Statutes/2025/0125.572"
+    },
+    {
+      "label": "St. Johns County Land Development Code (edition of 4 March 2025)",
+      "url": "https://www.sjcfl.us/wp-content/uploads/2024/01/entire-ldc-march-4-2025.pdf"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

@@ -1,0 +1,92 @@
+{
+  "status": "published",
+  "market": "northeast-florida",
+  "name": "Amelia Island",
+  "state": "FL",
+  "county": "Nassau",
+  "title": "Artificial Turf in Amelia Island, FL | TIMELESS Grass & Greens",
+  "description": "A putting green of your own on Amelia Island. Practice at home with a green laid out for your yard, or discuss turf for a courtyard or shared space.",
+  "h1": "A putting green of your own on Amelia Island.",
+  "lede": "Practice at home with a green laid out for your yard, or discuss turf for a courtyard or shared space. Start with a free visit and a written scope.",
+  "wins": [
+    "Choose putting lines and a chipping fringe",
+    "Keep the wooded setting and useful paths",
+    "Plan around the property’s review requirements"
+  ],
+  "answer": {
+    "question": "How should I choose a backyard green on Amelia Island?",
+    "answer": "Start with the putts you want to practice, available standing space and the route from the house. Discuss contours and fringe without assuming the surface will duplicate a named golf course. Bring the applicable architectural-review requirements and any tree or waterfront constraints."
+  },
+  "blocks": [
+    {
+      "icon": "flag",
+      "kicker": "Practice between rounds",
+      "h2": "Tell us what you want the green to do.",
+      "paras": [
+        "Short putts, longer lines and a place to chip call for different layouts. Choose the practice you value before adding cups. A convenient green beside a patio can get more use than a larger one hidden at the far end of the property.",
+        "On a wooded lot, include tree canopy and debris cleanup. For a courtyard or terrace, confirm the existing surface and any building requirements before choosing turf."
+      ]
+    },
+    {
+      "icon": "home",
+      "kicker": "Community and island boundaries",
+      "h2": "Prepare the proposal for your own property.",
+      "paras": [
+        "The island includes Fernandina Beach and unincorporated Nassau County. Confirm the parcel’s jurisdiction, then obtain current community or architectural-review instructions where they apply. A villa, common lawn and detached yard may have different decision-makers.",
+        "Show the turf boundary, surrounding planting, edges and intended use in the plan. On a marsh-front, dune-side or golf-facing property, bring relevant restrictions and maintenance access into the discussion before the footprint is finalized."
+      ]
+    }
+  ],
+  "services": [
+    "putting-greens",
+    "residential-turf",
+    "commercial-turf"
+  ],
+  "servicesNote": "Compare a backyard putting green with courtyard or commercial turf for the spaces you manage.",
+  "faq": [],
+  "nearby": [
+    "fernandina-beach-fl",
+    "amelia-city-fl",
+    "nassauville-fl"
+  ],
+  "sources": [
+    {
+      "label": "GolfPass: Oak Marsh renovation at Omni Amelia Island",
+      "url": "https://www.golfpass.com/travel-advisor/articles/oak-marsh-omni-amelia-island-resort-golf-course-renovation-reopening"
+    },
+    {
+      "label": "Omni Amelia Island Resort: golf",
+      "url": "https://www.omnihotels.com/hotels/amelia-island/golf"
+    },
+    {
+      "label": "Amelia Island: golf travel guide",
+      "url": "https://www.ameliaisland.com/travel-guides/golf/"
+    },
+    {
+      "label": "Fla. Stat. 720.3045: installation, display and storage of items",
+      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0700-0799/0720/Sections/0720.3045.html"
+    },
+    {
+      "label": "Nassau County: Future Land Use Element background",
+      "url": "https://www.nassaucountyfl.com/DocumentCenter/View/18158/12--Background-DA--Future-Land-Use-Element"
+    },
+    {
+      "label": "Action News Jax: Phase III extreme water shortage declaration",
+      "url": "https://www.actionnewsjax.com/news/local/phase-iii-extreme-water-shortage-declaration-issued-by-st-johns-river-water-management-district/QAIYQ7AZPFCQNJG37B3DU5XPBU/"
+    },
+    {
+      "label": "St. Johns River Water Management District: watering restrictions",
+      "url": "https://www.sjrwmd.com/wateringrestrictions/"
+    },
+    {
+      "label": "Rule 62-308.100, F.A.C.: synthetic turf",
+      "url": "https://www.flrules.org/gateway/ruleNo.asp?id=62-308.100"
+    },
+    {
+      "label": "Wikipedia: Amelia Island",
+      "url": "https://en.wikipedia.org/wiki/Amelia_Island"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

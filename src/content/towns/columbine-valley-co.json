@@ -1,0 +1,96 @@
+{
+  "status": "published",
+  "market": "denver-metro",
+  "name": "Columbine Valley",
+  "state": "CO",
+  "county": "Arapahoe",
+  "title": "Artificial Turf in Columbine Valley, CO | TIMELESS Grass & Greens",
+  "description": "Your own lawn or putting green in Columbine Valley. Plan a practice green or everyday lawn that fits beside your existing landscape.",
+  "h1": "Your own lawn or putting green in Columbine Valley.",
+  "lede": "Plan a practice green or everyday lawn that fits beside your existing landscape. We offer free visits and written installation estimates.",
+  "wins": [
+    "Putting lines designed for your practice",
+    "Keep mature trees and paths in view",
+    "Define the turf area and installation scope"
+  ],
+  "answer": {
+    "question": "What should I consider on a fairway-side Columbine Valley property?",
+    "answer": "Keep the property boundary, neighboring drainage and trees in the plan. Choose putting lines or a lawn area for your own use rather than extending a turf boundary toward the course. Bring applicable Town and association requirements to the estimate."
+  },
+  "blocks": [
+    {
+      "icon": "flag",
+      "kicker": "Golf at home",
+      "h2": "Choose the practice the course cannot give you every evening.",
+      "paras": [
+        "A few useful putting lines near the house can make regular practice easy. Discuss the cup positions, contours and fringe you want, then leave room for walking and the surrounding garden. A view of the course does not require the entire yard to become turf.",
+        "For an established property, include trees and roots in the preparation discussion. For a new yard, decide how the turf meets future beds and paths before the edges are priced."
+      ]
+    },
+    {
+      "icon": "pin",
+      "kicker": "Property edges",
+      "h2": "Check both the course side and the street side.",
+      "paras": [
+        "Mark the boundary and any shared drainage features beside the course. Show us water that arrives from outside the proposed area so it is considered separately from the surface choice.",
+        "At the street, confirm the Town’s right-of-way boundary before drawing turf to the curb. Bring any Town or community conditions to the visit; the visible lawn edge is not always the property line."
+      ]
+    }
+  ],
+  "services": [
+    "residential-turf",
+    "putting-greens",
+    "pet-turf"
+  ],
+  "servicesNote": "Compare a lawn, practice green or pet area within the usable part of your own lot.",
+  "faq": [],
+  "nearby": [
+    "bow-mar-co",
+    "littleton-co",
+    "columbine-co"
+  ],
+  "sources": [
+    {
+      "label": "Town of Columbine Valley: community and history",
+      "url": "https://columbinevalley.org/community/"
+    },
+    {
+      "label": "Columbine Country Club (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Columbine_Country_Club"
+    },
+    {
+      "label": "Colorado Geological Survey: expansive soil and rock",
+      "url": "https://coloradogeologicalsurvey.org/geologic-hazards/expansive-soil-rock/"
+    },
+    {
+      "label": "USDA: Englewood soil series",
+      "url": "https://soilseries.sc.egov.usda.gov/OSD_Docs/E/ENGLEWOOD.html"
+    },
+    {
+      "label": "Town of Columbine Valley: public works",
+      "url": "https://columbinevalley.org/public-works-2/"
+    },
+    {
+      "label": "Town of Columbine Valley: public works questions and right of way",
+      "url": "https://www.columbinevalley.org/136/Public-Works"
+    },
+    {
+      "label": "Denver Water: drought and Stage 1 restrictions",
+      "url": "https://www.denverwater.org/drought"
+    },
+    {
+      "label": "Denver Water: turfgrass removal discount",
+      "url": "https://www.denverwater.org/tap/ditching-useless-turf-coloradoscape-we-can-help"
+    },
+    {
+      "label": "Colorado HB25-1113, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2025a_1113_signed.pdf"
+    },
+    {
+      "label": "Colorado SB23-178, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

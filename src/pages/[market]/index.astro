@@ -10,13 +10,11 @@ import AreaMap from '../../components/AreaMap.astro';
 import { MARKETS } from '../../data/markets';
 import { SERVICES } from '../../data/services';
 import { SHOTS } from '../../data/shotlist';
+import { getPublishedCollection } from '../../lib/published-content';
 import { phone, phoneHref, positioning, fact } from '../../data/brief';
 
-/* A sales page per market, in the order a local buyer decides:
-     hero → why turf works here → what we install → the work → how it works → local questions →
-     the fine print (closed) → where we work → the offer.
-   The copy lives in markets.ts. Places are only those named on the call or on the old site; every
-   local rule in an answer carries its source link, and the long research stays closed. */
+/* Customer flow: offer, options, real work, installation scope, practical questions and estimate.
+   Copy and internal evidence are maintained separately; only useful selected references render. */
 export function getStaticPaths() {
   return MARKETS.map((m) => ({ params: { market: m.slug }, props: { m } }));
 }
@@ -26,16 +24,27 @@ const shot = (id: string) => SHOTS.find((x) => x.id === id && x.file);
 const heroFile = shot(m.heroShot)?.file ?? null;
 const work = m.work.map(shot).filter((x): x is NonNullable<typeof x> => !!x);
 const svcs = m.services.map((slug) => SERVICES.find((s) => s.slug === slug)).filter((s): s is NonNullable<typeof s> => !!s);
+/* articles about this area, the ones written mainly for it first */
+const reads = (await getPublishedCollection('blog')).filter((p) => p.data.related.markets.includes(m.slug))
+  .sort((a, b) => Number(b.data.related.markets[0] === m.slug) - Number(a.data.related.markets[0] === m.slug)).slice(0, 6);
+/* a service with a page of its own for this area links there */
+const areaSvc = new Set((await getPublishedCollection('localServices')).filter((l) => l.data.market === m.slug).map((l) => l.data.service));
+/* the places the client named, each linked to its town page where there is one, then every other
+   town page in a lighter list. A named place can go by a longer name on its page. */
+const townPages = (await getPublishedCollection('towns')).filter((t) => t.data.market === m.slug).sort((a, b) => a.data.name.localeCompare(b.data.name));
+const PAGE_NAME: Record<string, string> = { 'Ponte Vedra': 'Ponte Vedra Beach' };
+const ST = { 'denver-metro': 'CO', 'grand-strand': 'SC', 'northeast-florida': 'FL' } as const;
+const named = m.places.map((p) => ({ name: p, state: m.placeStates?.[p] ?? ST[m.slug], page: townPages.find((t) => t.data.name === (PAGE_NAME[p] ?? p)) }));
+const more = townPages.filter((t) => !named.some((n) => n.page?.id === t.id));
 const crumbs = [
   { name: 'Home', item: `${Astro.site}` },
   { name: m.name, item: `${Astro.site}${m.slug}/` },
 ];
-const ST = { 'denver-metro': 'CO', 'grand-strand': 'SC', 'northeast-florida': 'FL' } as const;
 ---
 <Base title={m.title} description={m.description} answer={m.answer} crumbs={crumbs} faq={m.faq} schema={[{
   '@type': 'Service', '@id': `${Astro.site}${m.slug}/#service`, name: `Artificial turf installation, ${m.name}`, serviceType: 'Artificial turf installation',
   url: `${Astro.site}${m.slug}/`, provider: { '@id': `${Astro.site}#organization` },
-  areaServed: m.places.map((p) => ({ '@type': 'Place', name: `${p}, ${ST[m.slug]}` })),
+  areaServed: named.map((p) => ({ '@type': 'Place', name: `${p.name}, ${p.state}` })),
 }]}>
 
   <!-- 1 · HERO — the local outcome, two ways to act, three reasons to believe it -->
@@ -50,11 +59,11 @@ const ST = { 'denver-metro': 'CO', 'grand-strand': 'SC', 'northeast-florida': 'F
       <p class="hero__lede">{m.lede}</p>
       <ul class="hero__wins">{m.wins.map((w) => <li>{w}</li>)}</ul>
       <div class="hero__cta">
-        <a class="btn btn--primary btn--lg" href="/estimate/" data-estimate data-cta={`quote-hero-${m.slug}`}>Get a free estimate<Icon name="arrow" /></a>
+        <a class="btn btn--primary btn--lg" href="/estimate/" data-estimate data-cta={`quote-hero-${m.slug}`}>Request a free estimate<Icon name="arrow" /></a>
         {phoneHref && <a class="btn btn--ghost btn--lg" href={phoneHref} data-cta={`call-hero-${m.slug}`}><Icon name="phone" />Call <span class="nowrap">{phone}</span></a>}
       </div>
       <ul class="hero__trust">
-        <li><Icon name="check" />13 years&rsquo; experience</li>
+        <li><Icon name="check" />Layout approved before installation</li>
         {materials && <li><Icon name="check" />American-made turf</li>}
         <li><Icon name="check" />Free estimates, no pressure</li>
       </ul>
@@ -62,43 +71,20 @@ const ST = { 'denver-metro': 'CO', 'grand-strand': 'SC', 'northeast-florida': 'F
   </section>
 
 
-  <!-- 2 · WHY TURF WORKS HERE — the ground and the local rules, each as a benefit -->
+  <!-- 2 · WHY CHOOSE THIS INSTALLATION — the project, choices and next step -->
   <section class="sec">
     <div class="wrap">
       <div class="kick kick--left" data-reveal>
-        <p class="micro">Why turf works here</p>
+        <p class="micro">Plan your project</p>
         <h2>{m.whyHeading}</h2>
       </div>
-      <ul class="benefits benefits--four">
+      <ul class="benefits benefits--summary">
         {m.why.map((b) => (
           <li class="benefit" data-reveal>
             <span class="benefit__ico"><Icon name={b.icon} /></span>
             <h3>{b.h}</h3>
             <p>{b.p}</p>
             {b.guide && <a class="benefit__go" href={`/guides/${b.guide.slug}/`} data-cta={`guide-${b.guide.slug}-${m.slug}`}>{b.guide.label}<Icon name="arrow" /></a>}
-          </li>
-        ))}
-      </ul>
-    </div>
-  </section>
-
-
-  <!-- 3 · WHAT WE INSTALL — every service, in the order this market asks for them -->
-  <section class="sec sec--band">
-    <div class="wrap">
-      <div class="kick kick--left" data-reveal>
-        <p class="micro">What we install</p>
-        <h2>{m.svcHeading}</h2>
-      </div>
-      <ul class="benefits">
-        {svcs.map((s) => (
-          <li class="benefit benefit--link" data-reveal>
-            <a href={`/services/${s.slug}/`} data-cta={`svc-${s.slug}-${m.slug}`}>
-              <span class="benefit__ico"><Icon name={s.icon} /></span>
-              <h3 class="benefit__h">{s.name}</h3>
-              <p>{s.line}</p>
-              <span class="benefit__go">See {s.name.toLowerCase()}<Icon name="arrow" /></span>
-            </a>
           </li>
         ))}
       </ul>
@@ -115,22 +101,45 @@ const ST = { 'denver-metro': 'CO', 'grand-strand': 'SC', 'northeast-florida': 'F
         <h2>Real yards we&rsquo;ve installed.</h2>
       </div>
       <div class="workgrid workgrid--3">
-        {work.map((w) => <Figure shot={w} sizes="(min-width: 900px) 30vw, 46vw" reveal />)}
+        {work.map((w, i) => <Figure shot={w} sizes={`(min-width: 1180px) 580px, (min-width: 700px) 46vw, ${i === 0 || (i === work.length - 1 && work.length % 2 === 0) ? '92vw' : '44vw'}`} reveal />)}
       </div>
       <div class="mosaic__actions">
-        <a class="btn btn--light" href="/estimate/" data-estimate data-cta={`quote-work-${m.slug}`}>Get a free estimate<Icon name="arrow" /></a>
+        <a class="btn btn--light" href="/estimate/" data-estimate data-cta={`quote-work-${m.slug}`}>Request a free estimate<Icon name="arrow" /></a>
       </div>
     </div>
   </section>
   )}
 
 
+  <!-- 3 · WHAT WE INSTALL — every service, in the order this market asks for them -->
+  <section class="sec sec--band">
+    <div class="wrap">
+      <div class="kick kick--left" data-reveal>
+        <p class="micro">What we install</p>
+        <h2>{m.svcHeading}</h2>
+      </div>
+      <ul class="benefits">
+        {svcs.map((s) => (
+          <li class="benefit benefit--link" data-reveal>
+            <a href={areaSvc.has(s.slug) ? `/${m.slug}/${s.slug}/` : `/services/${s.slug}/`} data-cta={`svc-${s.slug}-${m.slug}`}>
+              <span class="benefit__ico"><Icon name={s.icon} /></span>
+              <h3 class="benefit__h">{s.name}</h3>
+              <p>{s.line}</p>
+              <span class="benefit__go">See {s.name.toLowerCase()}<Icon name="arrow" /></span>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </div>
+  </section>
+
+
   <!-- 5 · HOW IT WORKS -->
   <Process />
 
 
-  <!-- 6 · LOCAL QUESTIONS — the first one open; every rule links to its source -->
-  <section class="sec">
+  <!-- 6 · LOCAL QUESTIONS — practical planning answers -->
+  <section class="sec sec--band">
     <div class="wrap">
       <div class="kick" data-reveal>
         <p class="micro">FAQ</p>
@@ -147,15 +156,21 @@ const ST = { 'denver-metro': 'CO', 'grand-strand': 'SC', 'northeast-florida': 'F
           {m.guides.map((g) => <li><a href={`/guides/${g.slug}/`} data-cta={`guide-${g.slug}`}>{g.anchor}</a></li>)}
         </ul>
       </div>
+      {reads.length > 0 && (
+        <div class="rules" data-reveal>
+          <p class="micro">More questions, answered</p>
+          <ul class="lawlinks lawlinks--light">{reads.map((r) => <li><a href={`/blog/${r.id}/`} data-cta={`guide-blog-${r.id}`}>{r.data.h1}</a></li>)}</ul>
+        </div>
+      )}
     </div>
   </section>
 
 
-  <!-- 7 · THE FINE PRINT — the researched ground and rules, closed until asked for -->
+  <!-- Optional practical follow-up questions; no automatic research appendix. -->
   <Extra slug={m.slug} collapsed />
 
 
-  <!-- 8 · WHERE WE WORK — only places the client named -->
+  <!-- 8 · WHERE WE WORK — every town page, then any named place that has none -->
   <section class="sec">
     <div class="wrap">
       <div class="kick kick--left" data-reveal>
@@ -165,7 +180,17 @@ const ST = { 'denver-metro': 'CO', 'grand-strand': 'SC', 'northeast-florida': 'F
       <div class="towns__split">
         <div data-reveal>
           <p class="areas__intro">{m.answer.answer}</p>
-          <ul class="towns">{m.places.map((t) => <li><Icon name="pin" />{t}</li>)}</ul>
+          <ul class="towns">
+            {named.map((n) => <li>{n.page
+              ? <a href={`/${m.slug}/${n.page.id}/`} data-cta={`market-${n.page.id}`}><Icon name="pin" />{n.page.data.name}{m.slug === 'grand-strand' ? `, ${n.state}` : ''}</a>
+              : <span class="towns__name"><Icon name="pin" />{n.name}{m.slug === 'grand-strand' ? `, ${n.state}` : ''}</span>}</li>)}
+          </ul>
+          {more.length > 0 && (
+            <div class="towns__more">
+              <p class="micro">More areas we cover</p>
+              <ul class="towns__also">{more.map((t) => <li><a href={`/${m.slug}/${t.id}/`} data-cta={`market-${t.id}`}>{t.data.name}{m.slug === 'grand-strand' ? `, ${t.data.state}` : ''}</a></li>)}</ul>
+            </div>
+          )}
           <p class="proof__note">Don&rsquo;t see your town? Call and ask.</p>
         </div>
         <div data-reveal><AreaMap query={m.map.query} zoom={m.map.zoom} places={m.towns} label={m.name} /></div>

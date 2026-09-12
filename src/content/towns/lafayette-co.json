@@ -1,0 +1,85 @@
+{
+  "status": "published",
+  "market": "denver-metro",
+  "name": "Lafayette",
+  "state": "CO",
+  "county": "Boulder",
+  "title": "Artificial Turf in Lafayette, CO | TIMELESS Grass & Greens",
+  "description": "Artificial lawns and backyard greens in Lafayette. Create a lawn, pet area or putting green that works with your property.",
+  "h1": "Artificial lawns and backyard greens in Lafayette.",
+  "lede": "Create a lawn, pet area or putting green that works with your property. Request a free visit to discuss the layout, preparation and written price.",
+  "wins": [
+    "Choose putting lines or everyday lawn use",
+    "Keep existing water routes in the plan",
+    "Include access and finishing in the estimate"
+  ],
+  "answer": {
+    "question": "What should I show an installer if my Lafayette yard stays wet?",
+    "answer": "Show where water collects and bring photos from after rain, plus any existing drainage information. A turf surface alone does not resolve a high water table or wider drainage problem. Identify any further assessment or drainage work separately before choosing the final layout."
+  },
+  "blocks": [
+    {
+      "icon": "flag",
+      "kicker": "A green at home",
+      "h2": "Choose the practice you want between rounds.",
+      "paras": [
+        "For an Indian Peaks yard or another golf-focused property, start with putt lengths and room to stand. A simple layout near the patio can be more useful than extra cups across an awkward shape. Keep the surrounding lawn, beds or pet area in the conversation.",
+        "In an older yard near Public Road, trees, an irregular boundary or a narrow gate may shape the project. Walk the route into the yard during the visit."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Near low ground",
+      "h2": "Treat water concerns as a separate decision.",
+      "paras": [
+        "For a property near Coal Creek or Waneka Lake, bring any recorded site or flood information rather than assuming a particular condition from the neighborhood name. Elsewhere, point out wet spots in the same way.",
+        "Confirm the City and applicable association requirements for any landscape or grading changes. Ask the estimate to identify removal, preparation and unresolved drainage concerns so the proposed surface is not mistaken for a promise to dry out the property."
+      ]
+    }
+  ],
+  "services": [
+    "residential-turf",
+    "putting-greens",
+    "pet-turf"
+  ],
+  "servicesNote": "Discuss a lawn, pet area or putting green with the site conditions and intended use in view.",
+  "faq": [],
+  "nearby": [
+    "louisville-co",
+    "erie-co",
+    "superior-co",
+    "boulder-co"
+  ],
+  "sources": [
+    {
+      "label": "City of Lafayette: drought planning and response",
+      "url": "https://www.lafayetteco.gov/4302/Drought-Planning-Response"
+    },
+    {
+      "label": "City of Lafayette: outdoor water efficiency rebates",
+      "url": "https://www.lafayetteco.gov/3849/Outdoor-Water-Efficiency-Rebates"
+    },
+    {
+      "label": "C.R.S. 38-33.3-106.5",
+      "url": "https://codes.findlaw.com/co/title-38-property-real-and-personal/co-rev-st-sect-38-33-3-106-5.html"
+    },
+    {
+      "label": "USDA Soil Data Access",
+      "url": "https://sdmdataaccess.nrcs.usda.gov/"
+    },
+    {
+      "label": "Indian Peaks Golf Course",
+      "url": "https://indianpeaksgolf.com/"
+    },
+    {
+      "label": "Colorado SB24-005, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2024a_005_signed.pdf"
+    },
+    {
+      "label": "Colorado HB25-1113, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2025a_1113_signed.pdf"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

@@ -1,0 +1,132 @@
+{
+  "status": "published",
+  "market": "denver-metro",
+  "service": "commercial-turf",
+  "title": "Commercial Turf in the Denver Metro | TIMELESS Grass & Greens",
+  "description": "Commercial turf for Denver-area play and recreation projects. Review the intended use, site requirements, upkeep and installation scope with a free estimate.",
+  "h1": "Plan the next use of your commercial space.",
+  "lede": "A playground, practice green or sports area begins with the activity it needs to support. Timeless helps Denver-area businesses, schools and associations define the turf system, site preparation and written installation price.",
+  "wins": [
+    "Define the activity and who will use the space",
+    "Review property requirements before ordering turf",
+    "Include preparation and ongoing care in the plan"
+  ],
+  "answer": {
+    "question": "Where should a Denver commercial turf project start?",
+    "answer": "Start with the proposed use and the property’s requirements. Colorado’s turf rules make that distinction important for commercial and common-area work. Confirm the proposal with the responsible local reviewer, then compare the surface options, preparation, care and written installation scope."
+  },
+  "blocks": [
+    {
+      "icon": "building",
+      "kicker": "Use comes first",
+      "h2": "Describe the activity, not just the empty area.",
+      "paras": [
+        "A playground, sports area and golf practice space call for different surface choices. Bring the intended activities, equipment layout and expected traffic to the conversation. An ornamental entry lawn raises a different eligibility question from a recreation surface.",
+        "For a Denver-area business or association, check the proposed use with the municipality and any district responsible for the property. Ask which landscape requirements apply to new work or replacement. Our <a href=\"/guides/colorado-turf-law/\">Colorado turf guide</a> explains why property type and use belong at the start of that review."
+      ]
+    },
+    {
+      "icon": "shield",
+      "kicker": "The surface system",
+      "h2": "Specify what the space needs to do.",
+      "paras": [
+        "If play equipment is part of the project, confirm the required fall protection and accessibility for the complete turf-and-pad system. Ask for the test documentation for the proposed turf-and-pad combination.",
+        "A pet facility needs a separate discussion of permitted use, waste pickup, cleaning access and drainage. For a sports area, agree the markings, equipment and maintenance needs. Match the product and approval review to each activity the space will support."
+      ]
+    },
+    {
+      "icon": "ruler",
+      "kicker": "Scope and budget",
+      "h2": "Compare the work beneath the surface.",
+      "paras": [
+        "The area, removal, delivery access, excavation, base, drainage and finishing details all contribute to the price. Share any site plans and describe the hours when the property must stay accessible. Identify closure and reopening requirements before scheduling the work.",
+        "Treat a rebate as a separate eligibility check with the actual water provider. Confirm current terms before putting an incentive in the budget. The free visit and written estimate give you a project scope to review without depending on an assumed subsidy."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Ongoing operation",
+      "h2": "Put upkeep on the calendar.",
+      "paras": [
+        "Turf replaces mowing in the converted area, but it still needs grooming, debris removal, inspection and cleaning. Pet use adds regular waste pickup and cleaning of busy spots. Agree who will do that work and what access they need.",
+        "Heat and surface condition still affect outdoor use. Plan shade where practical, check the surface before play and include drainage in the design. Surface condition and weather determine when the space is ready to use. Review <a href=\"/services/commercial-turf/\">commercial installation options</a> or request a free visit to discuss your site."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Can an HOA replace an entry lawn with turf?",
+      "a": "Have the association describe the exact location, purpose and extent of replacement to the responsible local reviewer. Make clear that the proposal covers a shared entry landscape so the reviewer can apply the relevant requirements."
+    },
+    {
+      "q": "Can we keep the existing base?",
+      "a": "That depends on its condition and the selected use. Separate a surface replacement from changes to grades, drains or equipment, and identify any work that cannot be confirmed until the old surface is removed."
+    },
+    {
+      "q": "What do you need for the first conversation?",
+      "a": "The address, intended activity, a rough area and any property or landscape requirements. Photos and an existing site plan help explain access and what you want to change."
+    }
+  ],
+  "towns": [
+    "denver-co",
+    "aurora-co",
+    "boulder-co",
+    "thornton-co",
+    "westminster-co",
+    "centennial-co",
+    "castle-rock-co",
+    "lakewood-co"
+  ],
+  "sources": [
+    {
+      "label": "Colorado HB25-1113, signed act (2025)",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2025a_1113_signed.pdf"
+    },
+    {
+      "label": "Colorado SB24-005, signed act (2024)",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2024a_005_signed.pdf"
+    },
+    {
+      "label": "Playground Grass: FAQ (ASTM F1292 and F1951)",
+      "url": "https://playgroundgrass.com/faq/"
+    },
+    {
+      "label": "Denver Water: Landscape Transformation Assistance Program, HOA and commercial",
+      "url": "https://www.denverwater.org/business/rebates-and-conservation-tips/landscape-transformation-assistance-program/hoa-commercial"
+    },
+    {
+      "label": "Castle Rock Water: ColoradoScape rebates",
+      "url": "https://www.crconserve.com/153/Rebates"
+    },
+    {
+      "label": "Thornton Water: 2026 artificial turf rules",
+      "url": "https://www.thorntonwater.com/wp-content/uploads/2026/02/2026-residential_artificial_turf_info__rules-1.pdf"
+    },
+    {
+      "label": "Colorado Water Conservation Board: Turf Replacement Program",
+      "url": "https://cwcb.colorado.gov/turf-replacement-program"
+    },
+    {
+      "label": "Denver Water: summer watering rules",
+      "url": "https://www.denverwater.org/residential/rebates-and-conservation-tips/summer-watering-rules"
+    },
+    {
+      "label": "Aurora Water: drought restrictions",
+      "url": "https://www.auroragov.org/residents/water/drought"
+    },
+    {
+      "label": "City of Boulder: water-wise landscape manual",
+      "url": "https://bouldercolorado.gov/landscape-manual"
+    },
+    {
+      "label": "Williams & Pulley, Brigham Young University: surface temperatures",
+      "url": "https://www.westcoastturf.com/getdoc.cfm?id=38"
+    },
+    {
+      "label": "Colorado Geological Survey: expansive soil and rock",
+      "url": "https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

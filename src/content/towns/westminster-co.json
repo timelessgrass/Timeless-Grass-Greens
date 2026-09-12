@@ -1,0 +1,100 @@
+{
+  "status": "published",
+  "market": "denver-metro",
+  "name": "Westminster",
+  "state": "CO",
+  "county": null,
+  "title": "Artificial Turf in Westminster, CO | TIMELESS Grass & Greens",
+  "description": "A new use for your Westminster lawn. Replace a tired patch or plan a putting green around the yard you want to keep.",
+  "h1": "A new use for your Westminster lawn.",
+  "lede": "Replace a tired patch or plan a putting green around the yard you want to keep. Request a free visit and written installation estimate.",
+  "wins": [
+    "Keep mature trees and paths in view",
+    "Discuss slopes before choosing a footprint",
+    "Compare lawn, putting and sports uses"
+  ],
+  "answer": {
+    "question": "What should I consider when replacing an older Westminster lawn?",
+    "answer": "Decide which planting and irrigation will remain, then show us roots, slopes and settled edges. A defined lawn or green can leave the rest of the garden intact. The estimate should state removal, preparation and finishing instead of assuming every old sprinkler zone will be removed."
+  },
+  "blocks": [
+    {
+      "icon": "refresh",
+      "kicker": "The lawn you no longer want to maintain",
+      "h2": "Choose the area that will make the biggest difference.",
+      "paras": [
+        "A worn patch under trees or a difficult strip beside the patio can become a focused turf project. Keep irrigation that still serves plants and discuss how the new surface meets the beds. Turf removes routine mowing from the converted area, while cleaning and debris removal remain.",
+        "For a green near Legacy Ridge or elsewhere in Westminster, start with the putts you want to practice. Leave the route around it and the rest of the yard useful."
+      ]
+    },
+    {
+      "icon": "ruler",
+      "kicker": "A sloping property",
+      "h2": "Include the edges and the route for water.",
+      "paras": [
+        "On a yard above Standley Lake or another sloped site, discuss the actual grade and access rather than assuming a flat installation. Point out runoff and any existing retaining structures. Ask for preparation and unresolved drainage issues to be clear in the quote.",
+        "For a sports or shared-property project, describe the intended activity and check applicable landscape requirements before selecting the system. A private backyard and a commercial surface need different planning conversations."
+      ]
+    }
+  ],
+  "services": [
+    "residential-turf",
+    "putting-greens",
+    "sports-field-turf"
+  ],
+  "servicesNote": "Compare a lawn or backyard green, or discuss sports turf for a clearly defined activity.",
+  "faq": [],
+  "nearby": [
+    "arvada-co",
+    "northglenn-co",
+    "thornton-co"
+  ],
+  "sources": [
+    {
+      "label": "City of Westminster: turf conversion",
+      "url": "https://www.westminsterco.gov/880/Turf-Conversion"
+    },
+    {
+      "label": "USDA Soil Data Access",
+      "url": "https://sdmdataaccess.nrcs.usda.gov/"
+    },
+    {
+      "label": "Westminster: drought updates",
+      "url": "https://westy.news/drought/"
+    },
+    {
+      "label": "City of Westminster: conservation",
+      "url": "https://www.westminsterco.gov/915/Conservation"
+    },
+    {
+      "label": "City of Westminster: golf",
+      "url": "https://www.westminsterco.gov/1104/Golf"
+    },
+    {
+      "label": "City of Westminster: indoor turf field rentals",
+      "url": "https://www.westminsterco.gov/416/Indoor-Turf-Field-Rentals"
+    },
+    {
+      "label": "Colorado General Assembly: SB24-005",
+      "url": "https://leg.colorado.gov/bills/sb24-005"
+    },
+    {
+      "label": "Colorado SB23-178, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf"
+    },
+    {
+      "label": "Colorado SB24-005, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2024a_005_signed.pdf"
+    },
+    {
+      "label": "Colorado HB25-1113, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2025a_1113_signed.pdf"
+    },
+    {
+      "label": "City of Westminster: Neighborhood Sustainability Program",
+      "url": "https://www.westminsterco.gov/365/Neighborhood-Sustainability-Program"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

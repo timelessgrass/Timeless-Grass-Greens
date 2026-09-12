@@ -1,0 +1,93 @@
+{
+  "status": "published",
+  "market": "northeast-florida",
+  "name": "South Ponte Vedra Beach",
+  "state": "FL",
+  "county": "St. Johns",
+  "title": "Artificial Turf, South Ponte Vedra Beach, FL | TIMELESS Grass & Greens",
+  "description": "Turf for a South Ponte Vedra Beach courtyard or yard. Plan a compact green, lawn or pet area around your coastal home.",
+  "h1": "Turf for a South Ponte Vedra Beach courtyard or yard.",
+  "lede": "Plan a compact green, lawn or pet area around your coastal home. Request a free visit and written installation estimate.",
+  "wins": [
+    "Keep deck, stair and service access",
+    "Choose a useful area on a narrow lot",
+    "Resolve coastal boundaries before preparation"
+  ],
+  "answer": {
+    "question": "What should I check before turf near a South Ponte Vedra Beach dune?",
+    "answer": "Locate the Coastal Construction Control Line and ask the responsible coastal and county staff what applies to the proposed work. Include excavation, anchoring and any change in grade. A turf product or installation standard does not grant permission to work on a dune."
+  },
+  "blocks": [
+    {
+      "icon": "layout",
+      "kicker": "A narrow coastal lot",
+      "h2": "Make the space beside the house useful.",
+      "paras": [
+        "A strip by the deck, a courtyard or a marsh-side lawn can serve a different purpose from a broad suburban yard. Choose a pet area or putting line while preserving stairs, service access and the route around the house.",
+        "For a part-time home, agree who will remove blown sand and debris and handle any pet cleaning between visits. Turf removes routine mowing from its area, but it still needs care."
+      ]
+    },
+    {
+      "icon": "shield",
+      "kicker": "Ocean side or marsh side",
+      "h2": "Keep coastal conditions in the scope.",
+      "paras": [
+        "On the ocean side, confirm the coastal construction line and any dune restrictions before finalizing the work area. On the marsh side, establish the shoreline separation and keep swales, ditches and maintenance routes clear.",
+        "The applicable Florida turf standard calls for anchoring at edges and seams; that should be part of the installation discussion, without a promise that turf will protect the property from flooding or storms. For a condominium or gated community, obtain the appropriate property and building requirements separately."
+      ]
+    }
+  ],
+  "services": [
+    "residential-turf",
+    "putting-greens",
+    "pet-turf"
+  ],
+  "servicesNote": "Compare a courtyard lawn, compact green or pet area within the coastal property’s available space.",
+  "faq": [],
+  "nearby": [
+    "ponte-vedra-beach-fl",
+    "sawgrass-fl",
+    "vilano-beach-fl",
+    "palm-valley-fl"
+  ],
+  "sources": [
+    {
+      "label": "Homes.com: South Ponte Vedra Beach neighborhood guide",
+      "url": "https://www.homes.com/ponte-vedra-fl/south-ponte-vedra-beach-neighborhood/"
+    },
+    {
+      "label": "News4JAX: Ponte Vedra Beach house collapses (January 2018)",
+      "url": "https://www.news4jax.com/news/2018/01/04/ponte-vedra-beach-house-collapses/"
+    },
+    {
+      "label": "Florida Rule 62-308.100, F.A.C.: synthetic turf",
+      "url": "https://www.flrules.org/gateway/ruleNo.asp?id=62-308.100"
+    },
+    {
+      "label": "Fla. Stat. 125.572 (2025): regulation of synthetic turf",
+      "url": "https://www.flsenate.gov/Laws/Statutes/2025/0125.572"
+    },
+    {
+      "label": "Frankel Realty Group: Turtle Shores",
+      "url": "https://www.frankelrealtygroup.com/turtle-shores.php"
+    },
+    {
+      "label": "Fla. Stat. 720.3045 (2025)",
+      "url": "https://www.flsenate.gov/Laws/Statutes/2025/720.3045"
+    },
+    {
+      "label": "Frankel Realty Group: Serenata Beach",
+      "url": "https://www.frankelrealtygroup.com/serenata-beach.php"
+    },
+    {
+      "label": "St. Johns County: who is your water service provider",
+      "url": "https://www.sjcfl.us/who-is-your-service-provider/"
+    },
+    {
+      "label": "St. Johns County: Phase III extreme water shortage declaration (May 2026)",
+      "url": "https://www.sjcfl.us/phase-iii-extreme-water-shortage-declaration-may-2026/"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

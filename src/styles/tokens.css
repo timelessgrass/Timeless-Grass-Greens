@@ -37,12 +37,12 @@
   /* --- ink — one colour, four opacities. no second grey. ------------------- */
   --ink:        #15150F;
   --ink-dim:    rgba(21, 21, 15, .68);
-  --ink-faint:  rgba(21, 21, 15, .56);  /* kickers and hairline labels only — 3.9:1. Anything you actually read uses --ink-dim */
+  --ink-faint:  rgba(21, 21, 15, .68);  /* small labels need the same readable contrast as body text */
   --rule:       rgba(21, 21, 15, .14);
 
   --ink-on-dark:       #F2F0E8;
   --ink-on-dark-dim:   rgba(242, 240, 232, .70);
-  --ink-on-dark-faint: rgba(242, 240, 232, .56);
+  --ink-on-dark-faint: rgba(242, 240, 232, .70);
   --rule-on-dark:      rgba(242, 240, 232, .16);
 
   /* --- type ---------------------------------------------------------------- */
@@ -86,7 +86,7 @@
   position: relative;
   isolation: isolate;
 }
-.turf-marks::before, .turf-marks__layer {
+.turf-marks::before {
   content: "";
   position: absolute;
   inset: 0;
@@ -96,10 +96,7 @@
   opacity: .07;
   pointer-events: none;
 }
-.turf-marks--drift::before { display: none; }  /* drifting sections carry a real layer instead */
-.turf-marks__layer { inset: 0 0 0 -124px; will-change: transform; }  /* 124px wider on the left: the drift distance */
-.turf-marks--drift { overflow-x: clip; }  /* the layer travels 124px right; clip stops it widening the page. clip, not hidden: hidden makes the band a scroll box and unsticks the phone step cards */
-.turf-marks--dark::before, .turf-marks--dark .turf-marks__layer { opacity: .075; }
+.turf-marks--dark::before { opacity: .075; }
 
 .rule-ribbon {
   height: 2px;
@@ -111,6 +108,7 @@
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after {
     animation-duration: .01ms !important;
+    animation-delay: 0ms !important;
     animation-iteration-count: 1 !important;
     transition-property: opacity, color, background-color, border-color, box-shadow !important;
     transition-duration: .15s !important;

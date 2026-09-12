@@ -1,0 +1,92 @@
+{
+  "status": "published",
+  "market": "northeast-florida",
+  "name": "Asbury Lake / Lake Asbury",
+  "state": "FL",
+  "county": "Clay",
+  "title": "Artificial Turf in Lake Asbury, FL | TIMELESS Grass & Greens",
+  "description": "Putting greens and lawns for Lake Asbury properties. Use the space for a green, lawn or pet area while keeping trees and everyday access.",
+  "h1": "Putting greens and lawns for Lake Asbury properties.",
+  "lede": "Use the space for a green, lawn or pet area while keeping trees and everyday access. We offer free visits and written estimates in Lake Asbury, also mapped as Asbury Lake.",
+  "wins": [
+    "Room for purposeful putting and chipping",
+    "Plan around slope and established trees",
+    "Keep property systems accessible"
+  ],
+  "answer": {
+    "question": "What should I consider on a sloped Lake Asbury lot?",
+    "answer": "Discuss the intended playing or lawn area, walking access and water routes before choosing the footprint. Mark protected trees and obtain any required tree review before preparation affects them. Bring the property plan and known septic or utility locations to the estimate."
+  },
+  "blocks": [
+    {
+      "icon": "flag",
+      "kicker": "A larger practice area",
+      "h2": "Use the room for shots you want to hit.",
+      "paras": [
+        "A longer putt or separate chipping position can make good use of an acreage lot without covering the whole property. Decide how the green will be reached from the house and leave room to walk around it. On a slope, the playing surface and its surrounding access need to be considered together."
+      ]
+    },
+    {
+      "icon": "leaf",
+      "kicker": "Tree and landscape requirements",
+      "h2": "Protect the canopy before excavation is planned.",
+      "paras": [
+        "The Greater Lake Asbury District brings residential landscape and tree requirements into the local review. Work affecting a protected tree can need an approved tree-preservation plan. Confirm whether your parcel is in the district and what applies before drawing preparation into the root area.",
+        "For a creek-side property, identify any flood or shoreline boundary and existing drainage route. Keep wells, septic access and any association conditions in the plan. The estimate should separate turf preparation from unresolved drainage or structural work."
+      ]
+    }
+  ],
+  "services": [
+    "putting-greens",
+    "residential-turf",
+    "pet-turf"
+  ],
+  "servicesNote": "Compare a practice green, lawn or pet area with the slope, trees and existing systems on your land.",
+  "faq": [],
+  "nearby": [
+    "doctors-inlet-fl",
+    "middleburg-fl",
+    "fleming-island-fl",
+    "hibernia-fl"
+  ],
+  "sources": [
+    {
+      "label": "Clay County Code of Ordinances, Ch. 18.5 (Municode)",
+      "url": "https://library.municode.com/fl/clay_county/codes/code_of_ordinances"
+    },
+    {
+      "label": "USDA NRCS Soil Data Access (survey area FL019)",
+      "url": "https://sdmdataaccess.sc.egov.usda.gov/"
+    },
+    {
+      "label": "USDA Official Series Description: Leon series",
+      "url": "https://soilseries.sc.egov.usda.gov/OSD_Docs/L/LEON.html"
+    },
+    {
+      "label": "Clay County Utility Authority: Phase III water shortage restrictions",
+      "url": "https://clayutility.org/phase-iii-water-shortage-restrictions-now-in-effect/"
+    },
+    {
+      "label": "Clay County Utility Authority: conservation programs",
+      "url": "https://clayutility.org/community/conservation-programs/"
+    },
+    {
+      "label": "Magnolia Point Golf & Country Club",
+      "url": "https://www.magnoliapointgolfclub.com/"
+    },
+    {
+      "label": "Wikipedia: Ronnie Van Zant Memorial Park",
+      "url": "https://en.wikipedia.org/wiki/Ronnie_Van_Zant_Memorial_Park"
+    },
+    {
+      "label": "Wikipedia: First Coast Expressway",
+      "url": "https://en.wikipedia.org/wiki/First_Coast_Expressway"
+    },
+    {
+      "label": "Wikipedia: Asbury Lake, Florida",
+      "url": "https://en.wikipedia.org/wiki/Asbury_Lake,_Florida"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

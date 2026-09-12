@@ -1,0 +1,81 @@
+{
+  "status": "published",
+  "market": "northeast-florida",
+  "name": "Switzerland",
+  "state": "FL",
+  "county": "St. Johns",
+  "title": "Artificial Turf in Switzerland, FL | TIMELESS Grass & Greens",
+  "description": "Room for putting and chipping on your Switzerland property. Plan a practice green, lawn or pet area along the SR 13 corridor.",
+  "h1": "Room for putting and chipping on your Switzerland property.",
+  "lede": "Plan a practice green, lawn or pet area along the SR 13 corridor. We offer free visits and written estimates for the work you want to do.",
+  "wins": [
+    "Use acreage for purposeful practice shots",
+    "Keep oaks and septic access in the plan",
+    "Consider the river-side grade before sizing"
+  ],
+  "answer": {
+    "question": "What should I check before placing a green on Switzerland acreage?",
+    "answer": "Locate septic components, tree canopy and existing water routes, then choose the putting and chipping space that fits around them. On a river-bluff property, bring any shoreline or drainage information. A larger parcel needs its own requirements checked rather than assuming the rules for a small yard apply."
+  },
+  "blocks": [
+    {
+      "icon": "flag",
+      "kicker": "A larger practice area",
+      "h2": "Leave most of the property as it is.",
+      "paras": [
+        "A green can offer longer putting lines or a separate chipping position without turning the entire acreage into turf. Choose how you will reach it from the house and leave ordinary service and vehicle access outside the playing area.",
+        "A pet area near the door can be a different project with its own care needs. Include cleaning access and the available water supply rather than promising that turf will use no water."
+      ]
+    },
+    {
+      "icon": "leaf",
+      "kicker": "Along the river corridor",
+      "h2": "Keep roots and property systems clear.",
+      "paras": [
+        "Mark the live-oak canopy and obtain any required tree advice before proposing preparation beneath it. Locate the septic tank and drainfield and get appropriate guidance before excavation or compaction nearby.",
+        "On a lot sloping toward the St. Johns, show runoff routes and any existing retaining or shoreline conditions. Keep unresolved drainage or structural work separate from the turf quote, and confirm county and private property requirements before finalizing the layout."
+      ]
+    }
+  ],
+  "services": [
+    "putting-greens",
+    "residential-turf",
+    "pet-turf"
+  ],
+  "servicesNote": "Compare a practice green, lawn or pet area as a defined part of the acreage.",
+  "faq": [],
+  "nearby": [
+    "fruit-cove-fl",
+    "julington-creek-plantation-fl",
+    "st-johns-fl",
+    "hibernia-fl"
+  ],
+  "sources": [
+    {
+      "label": "St. Johns County Land Development Code, Article VI (Table 6.01)",
+      "url": "https://www.sjcfl.us/wp-content/uploads/2024/01/article-vi.pdf"
+    },
+    {
+      "label": "JEA: water facilities",
+      "url": "https://www.jea.com/about/water_supply/water_facilities/"
+    },
+    {
+      "label": "St. Johns County: Phase III extreme water shortage declaration, May 2026",
+      "url": "https://www.sjcfl.us/phase-iii-extreme-water-shortage-declaration-may-2026/"
+    },
+    {
+      "label": "Florida DEP: synthetic turf FAQ",
+      "url": "https://floridadep.gov/sites/default/files/SyntheticTurfFAQ%20final.pdf"
+    },
+    {
+      "label": "St. Johns Magazine: golf courses",
+      "url": "https://www.stjohnsmag.com/golf-courses.html"
+    },
+    {
+      "label": "Wikipedia: Switzerland, Florida",
+      "url": "https://en.wikipedia.org/wiki/Switzerland,_Florida"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

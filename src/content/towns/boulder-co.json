@@ -1,0 +1,82 @@
+{
+  "status": "published",
+  "market": "denver-metro",
+  "name": "Boulder",
+  "state": "CO",
+  "county": "Boulder",
+  "title": "Artificial Turf in Boulder, CO | TIMELESS Grass & Greens",
+  "description": "Plan a turf project that fits your Boulder property. Considering a lawn area, putting green or sports surface?",
+  "h1": "Plan a turf project that fits your Boulder property.",
+  "lede": "Considering a lawn area, putting green or sports surface? Start with the intended use, the space available and the City requirements for your project.",
+  "wins": [
+    "Define the activity and footprint",
+    "Compare layout and surface options",
+    "Get a written estimate for the proposed work"
+  ],
+  "answer": {
+    "question": "What is the first step for a turf project in Boulder?",
+    "answer": "Identify the property and the intended use, then ask the City which landscape requirements apply to the proposal. Boulder regulates artificial turf in applicable development projects, so confirm that point before committing to the footprint. We offer free visits to discuss the layout and installation scope."
+  },
+  "blocks": [
+    {
+      "icon": "layout",
+      "kicker": "A useful surface",
+      "h2": "Choose an area with a clear purpose.",
+      "paras": [
+        "For putting, start with the putt lengths and room to stand. For a lawn or activity area, identify who will use it and when. Keep paths, planting and shade in the plan so the turf works as part of the yard.",
+        "On a small established lot, show us trees and the narrowest route for materials. On a site with changes in level, discuss access and preparation before choosing a final outline."
+      ]
+    },
+    {
+      "icon": "shield",
+      "kicker": "Boulder requirements",
+      "h2": "Confirm what applies before finalizing the size.",
+      "paras": [
+        "Boulder’s published standards prohibit artificial turf in new development unless it is functional turf. Where the residential standards apply to a lot with three units or fewer, turf is limited to the smaller of 25% of the lot or 1,000 square feet. That makes the intended use and combined lawn-and-green footprint early decisions.",
+        "Ask the City whether your renovation or extension triggers those standards, and how it classifies the proposed use. Bring its response and any association conditions to the estimate. For a sports or equipment area, include the activity, layout and required product documentation in the scope."
+      ]
+    }
+  ],
+  "services": [
+    "residential-turf",
+    "sports-field-turf",
+    "putting-greens"
+  ],
+  "servicesNote": "Discuss the intended lawn, green or sports use first, with the allowable layout confirmed for your project.",
+  "faq": [],
+  "nearby": [
+    "gunbarrel-co",
+    "louisville-co",
+    "superior-co"
+  ],
+  "sources": [
+    {
+      "label": "City of Boulder: water-wise landscape manual",
+      "url": "https://bouldercolorado.gov/landscape-manual"
+    },
+    {
+      "label": "City of Boulder: Flatirons Golf Course",
+      "url": "https://bouldercolorado.gov/flatirons-golf-course/golf-course"
+    },
+    {
+      "label": "USDA Soil Data Access",
+      "url": "https://sdmdataaccess.nrcs.usda.gov/"
+    },
+    {
+      "label": "City of Boulder: water conservation",
+      "url": "https://bouldercolorado.gov/services/water-conservation"
+    },
+    {
+      "label": "Resource Central: Lawn Replacement Program",
+      "url": "https://resourcecentral.org/lawn/"
+    },
+    {
+      "label": "Colorado General Assembly: SB24-005",
+      "url": "https://leg.colorado.gov/bills/sb24-005"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": [
+    "https://bouldercolorado.gov/landscape-manual"
+  ]
+}

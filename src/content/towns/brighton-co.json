@@ -1,0 +1,88 @@
+{
+  "status": "published",
+  "market": "denver-metro",
+  "name": "Brighton",
+  "state": "CO",
+  "county": null,
+  "title": "Artificial Turf in Brighton, CO | TIMELESS Grass & Greens",
+  "description": "Artificial lawns and backyard greens in Brighton. Choose a lawn, pet area or practice green with the work clearly priced.",
+  "h1": "Artificial lawns and backyard greens in Brighton.",
+  "lede": "Choose a lawn, pet area or practice green with the work clearly priced. We offer free site visits across Brighton.",
+  "wins": [
+    "Use a deep yard for purposeful putting lines",
+    "Choose a smaller lawn or pet area if it fits",
+    "Get removal and preparation in the scope"
+  ],
+  "answer": {
+    "question": "How can I use a deep Brighton yard for a putting green?",
+    "answer": "Choose the putt lengths and any chipping position before adding cups. Leave room for walking, access and the rest of the yard. Show us the route past garages, gates or fences so the written estimate covers how the work can be carried out."
+  },
+  "blocks": [
+    {
+      "icon": "flag",
+      "kicker": "A green at home",
+      "h2": "Use the length; keep the rest of the yard useful.",
+      "paras": [
+        "A deep yard can offer a longer putting line without needing a wide green. Think about where you will stand and where a chipping area would fit, then compare that layout with the lawn and planting you want to retain.",
+        "In an older property with alley access or a detached garage, walk the delivery route with us. A convenient route can change the proposed installation method and belongs in the estimate."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Before choosing the surface",
+      "h2": "Show us the low spots after rain.",
+      "paras": [
+        "For a property toward the river or Barr Lake, bring any known drainage or flood information for the lot. Elsewhere in Brighton, the same practical check applies: show where water collects rather than assuming a particular soil from the address.",
+        "Check the City and any association requirements for the complete proposal. Turf does not need to grow roots, but that does not make it exempt from landscape or grading review. Ask for unresolved site conditions to be written down before work begins."
+      ]
+    }
+  ],
+  "services": [
+    "putting-greens",
+    "residential-turf",
+    "pet-turf"
+  ],
+  "servicesNote": "Compare a backyard green, lawn or pet area with the space and access your property provides.",
+  "faq": [],
+  "nearby": [
+    "todd-creek-co",
+    "thornton-co",
+    "commerce-city-co"
+  ],
+  "sources": [
+    {
+      "label": "City of Brighton: watering restrictions",
+      "url": "https://www.brightonco.gov/578/Watering-Restrictions"
+    },
+    {
+      "label": "City of Brighton: water conservation and efficiency",
+      "url": "https://www.brightonco.gov/308/Water-Conservation-and-Efficiency"
+    },
+    {
+      "label": "City of Brighton: xeriscaping",
+      "url": "https://www.brightonco.gov/380/Xeriscaping"
+    },
+    {
+      "label": "USDA Soil Data Access",
+      "url": "https://sdmdataaccess.nrcs.usda.gov/"
+    },
+    {
+      "label": "Riverdale Golf Club",
+      "url": "https://www.riverdalegolf.com/"
+    },
+    {
+      "label": "Colorado SB23-178, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf"
+    },
+    {
+      "label": "C.R.S. 37-60-126",
+      "url": "https://codes.findlaw.com/co/title-37-water-and-irrigation/co-rev-st-sect-37-60-126/"
+    },
+    {
+      "label": "City of Brighton: Land Use & Development Code",
+      "url": "https://www.brightonco.gov/363/Land-Use-Development-Code"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

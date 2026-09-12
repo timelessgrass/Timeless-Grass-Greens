@@ -1,0 +1,103 @@
+{
+  "status": "published",
+  "market": "northeast-florida",
+  "name": "St. Johns",
+  "state": "FL",
+  "county": "St. Johns",
+  "title": "Artificial Turf in St. Johns, FL | TIMELESS Grass & Greens",
+  "description": "Lawns and pet areas for your St. Johns yard. Plan a useful lawn, dog area or shared activity surface with the property requirements in view.",
+  "h1": "Lawns and pet areas for your St. Johns yard.",
+  "lede": "Plan a useful lawn, dog area or shared activity surface with the property requirements in view. Start with a free visit and written installation scope.",
+  "wins": [
+    "Choose the usable area behind the lanai",
+    "Keep pond edges and drainage access clear",
+    "Separate private-yard and shared-property decisions"
+  ],
+  "answer": {
+    "question": "What limits the turf area on a pond-side St. Johns lot?",
+    "answer": "Mark the pond’s high-water line, swales and any maintenance access before choosing the turf boundary. Where Florida’s residential standard applies, it generally requires 10 feet from a waterbody, with a seawall or bulkhead exception, and keeps swales and pond littoral areas clear."
+  },
+  "blocks": [
+    {
+      "icon": "layout",
+      "kicker": "A newer back yard",
+      "h2": "Pick the part that serves daily use.",
+      "paras": [
+        "A lawn beside the lanai or a dedicated pet area can leave room for planting, paths and shade. On a small lot, choose the priority rather than assuming all available ground should be covered. Include pet cleaning access and the time the surface will spend in full sun.",
+        "Show us the existing grade, wet patches and drains. Preparation needs to fit the property’s drainage plan; a surface change alone does not resolve water arriving from elsewhere."
+      ]
+    },
+    {
+      "icon": "building",
+      "kicker": "Private yards and district amenities",
+      "h2": "Identify who controls the proposed space.",
+      "paras": [
+        "In communities such as RiverTown, Aberdeen, Durbin Crossing and Shearwater, private-lot and amenity projects can have different governing bodies. Confirm who controls the exact space and can authorize the work before requesting a shared-area scope.",
+        "For a district dog park or other activity area, describe traffic, maintenance, equipment and access during the work. Do not apply a single-family turf standard to a commercial or common-area project without checking the requirements for that use."
+      ]
+    }
+  ],
+  "services": [
+    "residential-turf",
+    "pet-turf",
+    "commercial-turf"
+  ],
+  "servicesNote": "Compare a home lawn or pet area, or discuss commercial turf for a separately defined shared space.",
+  "faq": [],
+  "nearby": [
+    "julington-creek-plantation-fl",
+    "fruit-cove-fl",
+    "switzerland-fl",
+    "nocatee-fl"
+  ],
+  "sources": [
+    {
+      "label": "St. Johns County Land Development Code, consolidated edition of 4 March 2025",
+      "url": "https://www.sjcfl.us/wp-content/uploads/2024/01/entire-ldc-march-4-2025.pdf"
+    },
+    {
+      "label": "Fla. Stat. 125.572: regulation of synthetic turf",
+      "url": "https://www.flsenate.gov/Laws/Statutes/2025/0125.572"
+    },
+    {
+      "label": "Rule 62-308.100, F.A.C.: minimum standards for synthetic turf",
+      "url": "https://flrules.org/gateway/RuleNo.asp?ID=62-308.100"
+    },
+    {
+      "label": "Fla. Stat. 720.3045: items not visible from the frontage",
+      "url": "https://www.flsenate.gov/Laws/Statutes/2025/720.3045"
+    },
+    {
+      "label": "Florida DEP: synthetic turf FAQ",
+      "url": "https://floridadep.gov/sites/default/files/SyntheticTurfFAQ%20final.pdf"
+    },
+    {
+      "label": "SB 1180 (2026): Senate analysis of the CDD carve-out",
+      "url": "https://www.flsenate.gov/Session/Bill/2026/1180/Analyses/2026s01180.fp.PDF"
+    },
+    {
+      "label": "St. Johns County: Phase III extreme water shortage declaration, May 2026",
+      "url": "https://www.sjcfl.us/phase-iii-extreme-water-shortage-declaration-may-2026/"
+    },
+    {
+      "label": "St. Johns County: who is your service provider",
+      "url": "https://www.sjcfl.us/who-is-your-service-provider/"
+    },
+    {
+      "label": "St. Johns County: protect our water",
+      "url": "https://www.sjcfl.us/protect-our-water/"
+    },
+    {
+      "label": "St. Johns River Water Management District: watering restrictions",
+      "url": "https://www.sjrwmd.com/wateringrestrictions/"
+    },
+    {
+      "label": "USDA NRCS Soil Data Access",
+      "url": "https://sdmdataaccess.nrcs.usda.gov/"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": [
+    "https://flrules.org/gateway/RuleNo.asp?ID=62-308.100"
+  ]
+}

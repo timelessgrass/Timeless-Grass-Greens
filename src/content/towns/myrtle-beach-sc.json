@@ -1,0 +1,93 @@
+{
+  "status": "published",
+  "market": "grand-strand",
+  "name": "Myrtle Beach",
+  "state": "SC",
+  "county": "Horry",
+  "title": "Artificial Turf in Myrtle Beach, SC | TIMELESS Grass & Greens",
+  "description": "Artificial turf for Myrtle Beach yards and shared spaces. Plan a back lawn, commercial courtyard or sports surface with the work clearly defined.",
+  "h1": "Artificial turf for Myrtle Beach yards and shared spaces.",
+  "lede": "Plan a back lawn, commercial courtyard or sports surface with the work clearly defined. Start with a free site visit and written estimate.",
+  "wins": [
+    "Options for private yards and managed properties",
+    "A scope that includes preparation and finishing",
+    "Care and access considered before installation"
+  ],
+  "answer": {
+    "question": "What information helps price a Myrtle Beach turf project?",
+    "answer": "Tell us whether the space is a private lawn, shared property or sports area, and how it will be used. Include dimensions if available, access restrictions and known drainage concerns. The free visit helps define removal, preparation, turf and finishing for a written estimate."
+  },
+  "blocks": [
+    {
+      "icon": "building",
+      "kicker": "Courtyards and common areas",
+      "h2": "Plan for people using the property during the work.",
+      "paras": [
+        "For a condo or managed property, identify the representative who can authorize the project. Discuss contractor access, material storage and which routes residents or guests need to keep using. Those details affect the work as much as the turf footprint.",
+        "Choose the surface for the activity: sitting and walking, pet use or sports practice. Include the cleaning routine and any equipment requirements in the discussion, and ask what documentation is available for the proposed system."
+      ]
+    },
+    {
+      "icon": "home",
+      "kicker": "The back lawn",
+      "h2": "Keep the area you use easy to reach.",
+      "paras": [
+        "A lawn beside the patio can stay separate from beds, paths and the rest of the landscape. Show us where you sit, walk and let pets out, then compare the amount of turf that would serve those uses. Full-sun areas also need a plan for comfortable use during hot weather.",
+        "Near the beach, include debris and blown sand in the care discussion. Elsewhere, point out wet patches rather than assuming the whole city has one kind of ground. Preparation needs to reflect the actual site."
+      ]
+    },
+    {
+      "icon": "shield",
+      "kicker": "Before installation",
+      "h2": "Check the whole proposal with the right reviewer.",
+      "paras": [
+        "Ask Myrtle Beach Planning & Zoning about applicable requirements, particularly if the project changes grading, drainage or lot coverage. For a condo or association property, obtain the relevant property approval separately. Bring any conditions to the estimate so the scope can account for them."
+      ]
+    }
+  ],
+  "services": [
+    "sports-field-turf",
+    "commercial-turf",
+    "residential-turf"
+  ],
+  "servicesNote": "Compare residential, commercial and sports-turf options according to who will use the space and how.",
+  "faq": [],
+  "nearby": [
+    "carolina-forest-sc",
+    "briarcliffe-acres-sc",
+    "north-myrtle-beach-sc",
+    "nixonville-sc"
+  ],
+  "sources": [
+    {
+      "label": "Official Myrtle Beach Sports: Styers Athletic Complex",
+      "url": "https://www.officialmyrtlebeachsports.com/styers-athletic-complex.html"
+    },
+    {
+      "label": "Official Myrtle Beach Sports: Doug Shaw Memorial Stadium",
+      "url": "https://www.officialmyrtlebeachsports.com/doug-shaw-memorial-stadium.html"
+    },
+    {
+      "label": "Official Myrtle Beach Sports: Ned Donkle Athletic Field Complex",
+      "url": "https://www.officialmyrtlebeachsports.com/ned-donkle-athletic-field-complex.html"
+    },
+    {
+      "label": "USDA official soil series description: Newhan",
+      "url": "https://soilseries.sc.egov.usda.gov/OSD_Docs/N/NEWHAN.html"
+    },
+    {
+      "label": "USDA official soil series description: Leon",
+      "url": "https://soilseries.sc.egov.usda.gov/OSD_Docs/L/LEON.html"
+    },
+    {
+      "label": "City of Myrtle Beach Code, Zoning Appendix A, Sec. 203 (definitions)",
+      "url": "https://library.municode.com/sc/myrtle_beach/codes/code_of_ordinances?nodeId=COOR_APXAZO_ART2DE_S203DE"
+    },
+    {
+      "label": "City of Myrtle Beach Code, Chapter 21, Article VI (drought management and response)",
+      "url": "https://library.municode.com/sc/myrtle_beach/codes/code_of_ordinances?nodeId=COOR_CH21UT_ARTVIDRMAPLRE"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

@@ -1,0 +1,54 @@
+---
+/* The article hub: every question, grouped by what the reader is deciding. */
+import Base from '../../layouts/Base.astro';
+import Icon from '../../components/Icon.astro';
+import OfferPanel from '../../components/OfferPanel.astro';
+import { getPublishedCollection } from '../../lib/published-content';
+import { phone } from '../../data/brief';
+
+const posts = (await getPublishedCollection('blog')).sort((a, b) => b.data.updated.localeCompare(a.data.updated));
+const ORDER = ['Costs and planning', 'Lawns', 'Pets', 'Putting greens', 'Heat and safety', 'Care and lifespan', 'Local rules', 'Commercial and sports'];
+const groups = ORDER.map((t) => ({ topic: t, list: posts.filter((p) => p.data.topic === t) })).filter((g) => g.list.length);
+const crumbs = [
+  { name: 'Home', item: `${Astro.site}` },
+  { name: 'Turf questions', item: `${Astro.site}blog/` },
+];
+---
+<Base
+  title="Artificial Turf Questions, Answered | TIMELESS Grass & Greens"
+  description={`Straight answers on artificial turf: cost, heat, pets, putting greens, care and the local rules in Denver, the Grand Strand and northeast Florida. Call ${phone}.`}
+  crumbs={crumbs}
+>
+  <section class="hero hero--sub turf-marks turf-marks--dark">
+    <div class="wrap">
+      <nav class="crumbs" aria-label="Breadcrumb">
+        <a href="/">Home</a> <span aria-hidden="true">/</span> <span>Turf questions</span>
+      </nav>
+      <h1>Turf questions, answered.</h1>
+      <hr class="rule-ribbon" />
+      <p class="hero__lede">Compare installation options, plan a putting green, or find guidance on pet odor, heat and ongoing care.</p>
+      <div class="hero__cta">
+        <a class="btn btn--primary btn--lg" href="/estimate/" data-estimate data-cta="quote-blog-hero">Request a free estimate<Icon name="arrow" /></a>
+      </div>
+    </div>
+  </section>
+
+  {groups.map((g, i) => (
+    <section class={`sec${i % 2 ? ' sec--band' : ''}`}>
+      <div class="wrap">
+        <div class="kick kick--left" data-reveal><p class="micro">{g.topic}</p></div>
+        <ul class="idx" data-reveal>
+          {g.list.map((p) => (
+            <li><a href={`/blog/${p.id}/`} data-cta={`guide-blog-${p.id}`}>
+              <span class="idx__n">{p.data.h1}</span>
+              <span class="idx__d">{p.data.description}</span>
+            </a></li>
+          ))}
+        </ul>
+      </div>
+    </section>
+  ))}
+
+  <!-- the offer takes the other ground from the last group -->
+  <OfferPanel band={groups.length % 2 === 1} cta="blog-index" />
+</Base>

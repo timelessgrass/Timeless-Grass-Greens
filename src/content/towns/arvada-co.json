@@ -1,0 +1,77 @@
+{
+  "status": "published",
+  "market": "denver-metro",
+  "name": "Arvada",
+  "state": "CO",
+  "county": "Jefferson",
+  "title": "Artificial Turf in Arvada, CO | TIMELESS Grass & Greens",
+  "description": "A lawn, pet area or putting green for your Arvada yard. Replace the patch that takes more work than it earns.",
+  "h1": "A lawn, pet area or putting green for your Arvada yard.",
+  "lede": "Replace the patch that takes more work than it earns. We’ll discuss turf options, a practical layout and the installation scope during a free visit.",
+  "wins": [
+    "A lawn without routine mowing",
+    "Pet areas planned with cleanup access",
+    "Putting practice fitted to your yard"
+  ],
+  "answer": {
+    "question": "What changes the installation plan between Arvada properties?",
+    "answer": "Access, existing landscaping and changes in grade affect the installation plan. Show us gates, trees, slopes and wet areas, and bring applicable association requirements. The estimate should describe the removal, preparation and finishing proposed for your property."
+  },
+  "blocks": [
+    {
+      "icon": "home",
+      "kicker": "Older yards and new layouts",
+      "h2": "Keep the useful parts of the landscape.",
+      "paras": [
+        "In an established yard near Olde Town, work around trees, paths and existing irrigation instead of starting from an empty outline. On a newer yard, choose the lawn or pet area you actually need and leave space for shade and planting.",
+        "For a green, tell us which putt lengths you want. A sloping yard needs a discussion about the playing surface and surrounding access before you settle on its shape."
+      ]
+    },
+    {
+      "icon": "shield",
+      "kicker": "Before you commit",
+      "h2": "Check the requirements for this address and use.",
+      "paras": [
+        "Bring your community’s current landscape requirements if an association applies. Ask the City about the actual work, particularly front-yard changes, grading or drainage. A private backyard and a shared common area should not be treated as the same proposal.",
+        "Artificial turf removes routine lawn irrigation from the converted area. It still needs care; discuss cleaning and debris removal while comparing it with the lawn you have now."
+      ]
+    }
+  ],
+  "services": [
+    "residential-turf",
+    "pet-turf",
+    "putting-greens"
+  ],
+  "servicesNote": "Choose a lawn, pet area or green with the preparation and finishing included in a written estimate.",
+  "faq": [],
+  "nearby": [
+    "wheat-ridge-co",
+    "westminster-co",
+    "golden-co",
+    "applewood-co"
+  ],
+  "sources": [
+    {
+      "label": "City of Arvada: drought and Stage 1 watering restrictions",
+      "url": "https://arvadaco.gov/drought"
+    },
+    {
+      "label": "Candelas",
+      "url": "https://candelaslife.com/"
+    },
+    {
+      "label": "Colorado SB23-178, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf"
+    },
+    {
+      "label": "Colorado Geological Survey: expansive soil and rock",
+      "url": "https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/"
+    },
+    {
+      "label": "West Woods Golf Club",
+      "url": "https://www.westwoodsgolf.com/"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

@@ -1,0 +1,81 @@
+{
+  "status": "published",
+  "market": "grand-strand",
+  "name": "Forestbrook",
+  "state": "SC",
+  "county": "Horry",
+  "title": "Artificial Turf in Forestbrook, SC | TIMELESS Grass & Greens",
+  "description": "Put your Forestbrook yard to better use. A lawn, dog run or practice green can start with one well-chosen area.",
+  "h1": "Put your Forestbrook yard to better use.",
+  "lede": "A lawn, dog run or practice green can start with one well-chosen area. Request a free visit to compare the layout, turf options and installation price.",
+  "wins": [
+    "Choose the area before choosing the turf",
+    "Keep paths and drainage features in the plan",
+    "Get the proposed work in writing"
+  ],
+  "answer": {
+    "question": "What should I bring to a turf estimate in Forestbrook?",
+    "answer": "Bring your address, the part of the yard you want to change, and a property plan if available. For a townhome or association property, include any requirements and confirmation of who controls the area. Show us shared access, drains and places that stay wet."
+  },
+  "blocks": [
+    {
+      "icon": "home",
+      "kicker": "A useful patch of yard",
+      "h2": "A dog run and a practice green need different layouts.",
+      "paras": [
+        "For dogs, start with the route from the door and leave access for cleanup. For a putting green, choose the putting lines and standing space before adding cups or a fringe. A lawn can keep planting beds and the patio separate rather than filling the entire available area.",
+        "Forestbrook, Forestbrook Village and Forestbrook Estates should not be treated as the same property description. Give us the street address and community name so the estimate is for your yard and its access conditions."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Before drawing the boundary",
+      "h2": "Keep shared routes available.",
+      "paras": [
+        "A shallow channel, inlet or strip beside a pond may be part of the drainage system. Mark it on the plan instead of assuming it can be leveled or covered. Ask about any easement or shared maintenance access that crosses the proposed work.",
+        "Behind an attached home, confirm whether the space is private or shared and who can authorize a change. Bring any association conditions and county guidance for grading or drainage work so these can be considered before the layout is finalized."
+      ]
+    }
+  ],
+  "services": [
+    "residential-turf",
+    "pet-turf",
+    "putting-greens"
+  ],
+  "servicesNote": "Discuss a defined lawn, pet area or putting green during the free visit.",
+  "faq": [],
+  "nearby": [
+    "carolina-forest-sc",
+    "conway-sc",
+    "myrtle-beach-sc"
+  ],
+  "sources": [
+    {
+      "label": "U.S. Census Bureau: Forestbrook CDP, South Carolina",
+      "url": "https://www.census.gov/quickfacts/fact/table/forestbrookcdpsouthcarolina/PST045225"
+    },
+    {
+      "label": "Lennar: Tidewater at Forestbrook Village",
+      "url": "https://www.lennar.com/new-homes/south-carolina/myrtle-beach/myrtle-beach/forestbrook-village/tidewater"
+    },
+    {
+      "label": "Horry County: Forestbrook Estates Phase 7 elevation certificate",
+      "url": "https://www.horrycountysc.gov/media/nhqe3dpj/171549-final-ecert.pdf"
+    },
+    {
+      "label": "Horry County: Home Owner’s Association Corner",
+      "url": "https://horrycountysc.gov/departments/stormwater/hoa/"
+    },
+    {
+      "label": "Horry County: Drainage",
+      "url": "https://horrycountysc.gov/departments/stormwater/major-initiatives/drainage/"
+    },
+    {
+      "label": "Horry County: Stormwater Plan Requirements",
+      "url": "https://www.horrycountysc.gov/departments/stormwater/engineers/construction/plan-requirements/"
+    }
+  ],
+  "checked": "2026-09-11",
+  "placeType": "Place",
+  "publicReferences": []
+}

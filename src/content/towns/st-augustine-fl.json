@@ -1,0 +1,107 @@
+{
+  "status": "published",
+  "market": "northeast-florida",
+  "name": "St. Augustine",
+  "state": "FL",
+  "county": "St. Johns",
+  "title": "Artificial Turf in St. Augustine, FL | TIMELESS Grass & Greens",
+  "description": "A green courtyard or lawn in St. Augustine. Plan turf for a walled courtyard, pet area or backyard putting green.",
+  "h1": "A green courtyard or lawn in St. Augustine.",
+  "lede": "Plan turf for a walled courtyard, pet area or backyard putting green. Start with a free visit to discuss the layout and installation scope.",
+  "wins": [
+    "Finish the edges against paths and walls",
+    "Keep historic features and mature trees",
+    "Choose a useful surface for a small space"
+  ],
+  "answer": {
+    "question": "What should a St. Augustine courtyard turf project check first?",
+    "answer": "Ask City staff whether the proposed site change needs historic review and a Certificate of Appropriateness. Bring the courtyard plan, existing surfaces and tree information to the estimate. The City lists artificial turf as an acceptable yard surface, but that does not settle historic review, drainage or lot coverage for a specific project."
+  },
+  "blocks": [
+    {
+      "icon": "home",
+      "kicker": "A walled courtyard",
+      "h2": "The edges are part of the design.",
+      "paras": [
+        "Plan how turf meets coquina, stucco walls, pavers and planting before choosing the final outline. Keep thresholds, drains and service access clear. In a small space, a pet area, lawn or putting line should leave enough room for the other ways you use the courtyard.",
+        "A wall or tree may provide shade, but the surface still needs debris removal and any required pet cleaning. Discuss the care routine before deciding on the material."
+      ]
+    },
+    {
+      "icon": "file",
+      "kicker": "Historic properties and larger yards",
+      "h2": "Use the requirements for the actual site.",
+      "paras": [
+        "Within a Historic Preservation district, ask HARB or City preservation staff what review applies to the courtyard or landscape change. Keep existing historic features and required tree protections in the plan. A permitted yard material is not blanket approval for every alteration.",
+        "In North City or Nelmar Terrace, a larger yard can offer more putting lines or a separate pet area. Mark the canopy, water routes and usable access before expanding the footprint. For a property affected by tidal flooding, keep that problem separate from the surface installation scope."
+      ]
+    }
+  ],
+  "services": [
+    "residential-turf",
+    "putting-greens",
+    "pet-turf"
+  ],
+  "servicesNote": "Compare courtyard turf, a lawn, pet area or putting green around the features you want to retain.",
+  "faq": [],
+  "nearby": [
+    "anastasia-island-fl",
+    "vilano-beach-fl",
+    "st-augustine-beach-fl",
+    "st-augustine-shores-fl"
+  ],
+  "sources": [
+    {
+      "label": "St. Augustine zoning code, via Zoneomics (Historic Preservation and residential districts)",
+      "url": "https://www.zoneomics.com/code/st-augustine-FL/chapter_3"
+    },
+    {
+      "label": "City of St. Augustine Code Sec. 19-16 (maintained yard surfaces) and Sec. 29-2 (impervious area)",
+      "url": "https://library.municode.com/fl/st._augustine/codes/code_of_ordinances?nodeId=PTIICOOR_CH19NU_ARTIIFORE_S19-16MARE"
+    },
+    {
+      "label": "City of St. Augustine: HARB and certificates of appropriateness",
+      "url": "https://www.citystaug.com/601/Historic-Architectural-Review-Board-HARB"
+    },
+    {
+      "label": "Fla. Stat. 125.572 (2025): regulation of synthetic turf",
+      "url": "https://www.flsenate.gov/Laws/Statutes/2025/0125.572"
+    },
+    {
+      "label": "Fla. Stat. 720.3045 (2025)",
+      "url": "https://www.flsenate.gov/Laws/Statutes/2025/720.3045"
+    },
+    {
+      "label": "Wikipedia: Anastasia Formation",
+      "url": "https://en.wikipedia.org/wiki/Anastasia_Formation"
+    },
+    {
+      "label": "City of St. Augustine: coastal vulnerability and tidal flooding",
+      "url": "https://www.citystaug.com/948/Coastal-Vulnerability"
+    },
+    {
+      "label": "City of St. Augustine: irrigation schedule",
+      "url": "https://www.citystaug.com/566/Irrigation-Schedule"
+    },
+    {
+      "label": "St. Johns County: Phase III extreme water shortage declaration (May 2026)",
+      "url": "https://www.sjcfl.us/phase-iii-extreme-water-shortage-declaration-may-2026/"
+    },
+    {
+      "label": "St. Augustine Experiences: golf around St. Augustine",
+      "url": "https://staugustineexperiences.com/st-augustine-golf/"
+    },
+    {
+      "label": "Historic City News: Nelmar Terrace named a historic district (2011)",
+      "url": "https://historiccity.com/2011/staugustine/news/nelmar-terrace-named-historic-district-13848"
+    },
+    {
+      "label": "Florida Rule 62-308.100, F.A.C.: synthetic turf",
+      "url": "https://www.flrules.org/gateway/ruleNo.asp?id=62-308.100"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": [
+    "https://library.municode.com/fl/st._augustine/codes/code_of_ordinances?nodeId=PTIICOOR_CH19NU_ARTIIFORE_S19-16MARE"
+  ]
+}

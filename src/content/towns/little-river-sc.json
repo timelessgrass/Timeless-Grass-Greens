@@ -1,0 +1,107 @@
+{
+  "status": "published",
+  "market": "grand-strand",
+  "name": "Little River",
+  "state": "SC",
+  "county": "Horry",
+  "title": "Artificial Turf in Little River, SC | TIMELESS Grass & Greens",
+  "description": "Putting greens, lawns and practice areas in Little River. Bring golf practice home or replace a lawn you no longer want to mow.",
+  "h1": "Putting greens, lawns and practice areas in Little River.",
+  "lede": "Bring golf practice home or replace a lawn you no longer want to mow. We plan turf installations around the space, access and use of your Little River property.",
+  "wins": [
+    "A green designed around the putts you want",
+    "A defined lawn without routine mowing",
+    "A written scope for the installation"
+  ],
+  "answer": {
+    "question": "What should I consider for a backyard green in Little River?",
+    "answer": "Choose the putt lengths you want to practice and leave room to stand and walk around the green. On a patio-home lot, a simpler layout may be more useful than extra cups. Include any association requirements, access limits and wet areas in the free site visit."
+  },
+  "blocks": [
+    {
+      "icon": "flag",
+      "kicker": "Between rounds",
+      "h2": "Build for the practice you’ll actually do.",
+      "paras": [
+        "A green near the patio makes a few putts after work easy to fit into the day. Decide whether short putts, longer lines or chipping matter most. Those choices guide the shape, cup positions and fringe before the surface is selected.",
+        "In a golf or patio-home community, bring the current property requirements rather than relying on a neighbor’s installation. We can discuss a layout that keeps walking routes and the rest of the yard in use."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Inlet and waterway properties",
+      "h2": "Plan for the site and the time you spend there.",
+      "paras": [
+        "For a property near the inlet or waterway, point out low areas and any drainage or waterfront restrictions already recorded for the lot. Confirm the jurisdiction for the address before asking about the planned work, including around Nixons Crossroads.",
+        "If you spend part of the year away, arrange for leaves and debris to be cleared and any required cleaning to continue. Turf removes routine mowing from that area, but it still needs care."
+      ]
+    },
+    {
+      "icon": "trophy",
+      "kicker": "Larger practice areas",
+      "h2": "Start with the intended sport and traffic.",
+      "paras": [
+        "For a field or training area, bring the dimensions, activities and equipment needs to the conversation. Ask for the proposed turf system, preparation, maintenance and any required product documentation to be part of the scope. A backyard green and a sports field need different plans."
+      ]
+    }
+  ],
+  "services": [
+    "residential-turf",
+    "putting-greens",
+    "sports-field-turf"
+  ],
+  "servicesNote": "Compare a lawn or putting green for the home, or discuss a sports practice area with its own installation scope.",
+  "faq": [],
+  "nearby": [
+    "north-myrtle-beach-sc",
+    "longs-sc",
+    "briarcliffe-acres-sc"
+  ],
+  "sources": [
+    {
+      "label": "Play Golf Myrtle Beach: Little River golf courses",
+      "url": "https://www.playgolfmyrtlebeach.com/news/little-river-golf-courses-deliver-big-fun/"
+    },
+    {
+      "label": "Visit Myrtle Beach: North Myrtle Beach Park & Sports Complex",
+      "url": "https://www.visitmyrtlebeach.com/listings/north-myrtle-beach-park-sports-complex"
+    },
+    {
+      "label": "North Myrtle Beach Parks and Recreation: Park & Sports Complex facility details",
+      "url": "https://nmbpark.com/Facilities/Facility/Details/North-Myrtle-Beach-Park-Sports-Complex-13"
+    },
+    {
+      "label": "Horry County Stormwater Management Design Manual (January 2024)",
+      "url": "https://www.horrycountysc.gov/media/4wqkxbxg/horry-county-sw-design-manual_rev2024.pdf"
+    },
+    {
+      "label": "Wikipedia: Little River, South Carolina",
+      "url": "https://en.wikipedia.org/wiki/Little_River,_South_Carolina"
+    },
+    {
+      "label": "USDA official soil series description: Leon",
+      "url": "https://soilseries.sc.egov.usda.gov/OSD_Docs/L/LEON.html"
+    },
+    {
+      "label": "USDA NRCS Soil Data Access (SSURGO point query at Nixons Crossroads, map unit 130136)",
+      "url": "https://sdmdataaccess.sc.egov.usda.gov/"
+    },
+    {
+      "label": "South Carolina Homeowners Association Act, S.C. Code Title 27, Chapter 30",
+      "url": "https://www.scstatehouse.gov/code/t27c030.php"
+    },
+    {
+      "label": "Horry County Stormwater: storm water permitting",
+      "url": "https://www.horrycountysc.gov/departments/stormwater/engineers/construction/storm-water-permitting/"
+    },
+    {
+      "label": "USGS 02110777: AIW at Highway 9 at Nixons Crossroads, SC",
+      "url": "https://waterdata.usgs.gov/monitoring-location/USGS-02110777/"
+    }
+  ],
+  "checked": "2026-09-07",
+  "foldedFrom": [
+    "nixons-crossroads-sc"
+  ],
+  "publicReferences": []
+}

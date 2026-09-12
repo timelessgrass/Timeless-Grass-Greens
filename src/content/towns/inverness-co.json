@@ -1,0 +1,89 @@
+{
+  "status": "published",
+  "market": "denver-metro",
+  "name": "Inverness",
+  "state": "CO",
+  "county": "Arapahoe",
+  "title": "Artificial Turf in Inverness, CO | TIMELESS Grass & Greens",
+  "description": "A putting green for your Inverness home or workplace. Make room for practice on a yard, patio or suitable indoor surface.",
+  "h1": "A putting green for your Inverness home or workplace.",
+  "lede": "Make room for practice on a yard, patio or suitable indoor surface. We’ll discuss the intended use, layout and installation scope during a free consultation.",
+  "wins": [
+    "Choose a layout for short practice sessions",
+    "Review the existing surface before selecting turf",
+    "Include property management in shared-space plans"
+  ],
+  "answer": {
+    "question": "What needs checking before turf goes onto an Inverness terrace?",
+    "answer": "Have the building’s responsible professional and management confirm load, waterproofing and drainage requirements first. Keep drains and maintenance access available. Bring those conditions to the consultation before ordering a turf system or treating a terrace like an ordinary ground-level yard."
+  },
+  "blocks": [
+    {
+      "icon": "flag",
+      "kicker": "Practice between other things",
+      "h2": "A small green can have a clear purpose.",
+      "paras": [
+        "Choose the putts you want to work on and enough space to stand comfortably. An office practice area or a home patio may favor a simple layout, while an open yard can allow more approaches. Indoors, discuss the existing floor, edges and intended activity.",
+        "For shared workplace space, identify who can authorize the change and how it will be maintained. A recreational intention needs to be reflected in the actual layout and use."
+      ]
+    },
+    {
+      "icon": "building",
+      "kicker": "Above ground or beside a building",
+      "h2": "The existing structure sets the conditions.",
+      "paras": [
+        "On a terrace or roof deck, obtain the building team’s requirements for loading, membrane protection and water access to drains. Those decisions need to be resolved before the surface is priced as suitable.",
+        "For ground-level commercial or shared property, check the applicable landscape requirements with the responsible local authority. Do not assume the rules for a private backyard apply to an office campus or condominium common area."
+      ]
+    }
+  ],
+  "services": [
+    "putting-greens",
+    "commercial-turf",
+    "residential-turf"
+  ],
+  "servicesNote": "Discuss a putting green or other turf area with the property, surface and intended use clearly identified.",
+  "faq": [],
+  "nearby": [
+    "meridian-co",
+    "dove-valley-co",
+    "centennial-co",
+    "lone-tree-co"
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia: Inverness, Colorado",
+      "url": "https://en.wikipedia.org/wiki/Inverness,_Colorado"
+    },
+    {
+      "label": "Colorado HB25-1113, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2025a_1113_signed.pdf"
+    },
+    {
+      "label": "Colorado SB24-005, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2024a_005_signed.pdf"
+    },
+    {
+      "label": "Colorado SB23-178, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf"
+    },
+    {
+      "label": "Inverness Water and Sanitation District",
+      "url": "https://www.invernesswater.org/"
+    },
+    {
+      "label": "Resource Central: lawn replacement",
+      "url": "https://resourcecentral.org/lawn/"
+    },
+    {
+      "label": "Colorado Geological Survey: expansive soil",
+      "url": "https://coloradogeologicalsurvey.org/water/expansive-soil/"
+    },
+    {
+      "label": "Wikipedia: Arrow Electronics",
+      "url": "https://en.wikipedia.org/wiki/Arrow_Electronics"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

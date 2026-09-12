@@ -1,0 +1,84 @@
+{
+  "status": "published",
+  "market": "northeast-florida",
+  "name": "Neptune Beach",
+  "state": "FL",
+  "county": "Duval",
+  "title": "Artificial Turf in Neptune Beach, FL | TIMELESS Grass & Greens",
+  "description": "Make every part of your Neptune Beach yard useful. Plan a lawn, pet area or compact green around your patio and paths.",
+  "h1": "Make every part of your Neptune Beach yard useful.",
+  "lede": "Plan a lawn, pet area or compact green around your patio and paths. Request a free visit and written installation estimate.",
+  "wins": [
+    "Keep narrow routes clear",
+    "Plan the visible edges with the layout",
+    "Choose a compact green or dedicated pet area"
+  ],
+  "answer": {
+    "question": "What matters most in a small Neptune Beach turf yard?",
+    "answer": "The edges, access and daily use are visible all at once. Choose how turf meets the patio and planting, and leave walking room to gates and services. A compact green or pet area should serve the space rather than compete for every corner."
+  },
+  "blocks": [
+    {
+      "icon": "layout",
+      "kicker": "A yard seen from the back door",
+      "h2": "Make the outline work from the start.",
+      "paras": [
+        "A cottage lot or a yard reduced by a larger rebuilt home may have little space to spare. Plan useful walking routes first, then compare a lawn, dog area or short putting line. Extra cups do not help if there is no comfortable place to stand.",
+        "Discuss seams and transitions to paving or beds with the layout. Ask for removal, preparation and finishing to be clear in the written estimate."
+      ]
+    },
+    {
+      "icon": "sun",
+      "kicker": "Trees and coastal care",
+      "h2": "Keep upkeep realistic.",
+      "paras": [
+        "Under mature trees, resolve applicable root and drip-line requirements before preparation. Near the beach, include blown sand and debris in the cleaning discussion. For pets, allow for waste pickup, cleaning access and time out of full sun.",
+        "Neptune Beach is its own city, separate from Jacksonville and Jacksonville Beach. Confirm applicable lot-coverage and landscape requirements for the parcel, plus any association conditions, before finalizing the footprint."
+      ]
+    }
+  ],
+  "services": [
+    "residential-turf",
+    "pet-turf",
+    "putting-greens"
+  ],
+  "servicesNote": "Compare a lawn, pet area or compact green without losing the routes a small yard needs.",
+  "faq": [],
+  "nearby": [
+    "atlantic-beach-fl",
+    "jacksonville-beach-fl",
+    "ponte-vedra-beach-fl"
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia: Neptune Beach, Florida",
+      "url": "https://en.wikipedia.org/wiki/Neptune_Beach,_Florida"
+    },
+    {
+      "label": "City of Neptune Beach: water and wastewater treatment",
+      "url": "https://www.nbfl.gov/people/water-and-wastewater-treatment"
+    },
+    {
+      "label": "St. Johns River Water Management District: watering restrictions",
+      "url": "https://www.sjrwmd.com/wateringrestrictions/"
+    },
+    {
+      "label": "St. Johns River Water Management District: Phase III extreme water shortage declared (May 2026)",
+      "url": "https://www.sjrwmd.com/2026/05/district-declares-phase-iii-extreme-water-shortage/"
+    },
+    {
+      "label": "Fla. Stat. 125.572: regulation of synthetic turf",
+      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0100-0199%2F0125%2FSections%2F0125.572.html"
+    },
+    {
+      "label": "Florida Rule 62-308.100, F.A.C.: synthetic turf",
+      "url": "https://www.flrules.org/gateway/ruleNo.asp?id=62-308.100"
+    },
+    {
+      "label": "Fla. Stat. 720.3045: items not visible from the frontage, a neighbor or a common area",
+      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0700-0799/0720/Sections/0720.3045.html"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

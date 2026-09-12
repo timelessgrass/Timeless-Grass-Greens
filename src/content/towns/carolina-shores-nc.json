@@ -1,0 +1,78 @@
+{
+  "status": "published",
+  "market": "grand-strand",
+  "name": "Carolina Shores",
+  "state": "NC",
+  "county": "Brunswick",
+  "title": "Artificial Turf in Carolina Shores, NC | TIMELESS Grass & Greens",
+  "description": "Lawns, pet areas and putting greens in Carolina Shores. Choose a useful change for your yard, from a pet area beside the patio to a backyard green.",
+  "h1": "Lawns, pet areas and putting greens in Carolina Shores.",
+  "lede": "Choose a useful change for your yard, from a pet area beside the patio to a backyard green. Get a custom layout and a written estimate after a free visit.",
+  "wins": [
+    "Compare layouts for the space you use",
+    "Keep patios, paths and planting in the plan",
+    "Price the installation before deciding"
+  ],
+  "answer": {
+    "question": "How do I plan turf beside a Carolina Shores patio home or townhome?",
+    "answer": "Choose the area you want to use, then confirm who controls it. A lawn beside an attached home may be shared or subject to community requirements. Bring the relevant property documents and association response to the estimate."
+  },
+  "blocks": [
+    {
+      "icon": "layout",
+      "kicker": "Your outdoor space",
+      "h2": "Start at the patio and work outward.",
+      "paras": [
+        "For a smaller yard, a defined pet area or a compact putting green may be enough. Leave walking room between the house, seating and planting beds. On a larger lot, compare a lawn area with a separate practice green rather than treating every square foot the same.",
+        "The free visit is a chance to discuss those options and see what installation involves. Point out gates, shared paths and restrictions on where materials can be delivered or stored."
+      ]
+    },
+    {
+      "icon": "shield",
+      "kicker": "Community properties",
+      "h2": "Use the requirements for your own community.",
+      "paras": [
+        "Carolina Shores includes several communities, and Carolina Shores Subdivision is only one of them. Use the exact community and property address when requesting documents; a nearby development’s turf policy may not apply.",
+        "Confirm ownership of the work area and any association requirements. Ask Town Planning & Zoning about the complete proposal, including grading or drainage changes. Bring the responses to the estimate so the scope can reflect the conditions that apply."
+      ]
+    }
+  ],
+  "services": [
+    "residential-turf",
+    "pet-turf",
+    "putting-greens"
+  ],
+  "servicesNote": "Choose a lawn, pet area or putting green to suit the usable space around your home.",
+  "faq": [],
+  "nearby": [
+    "shallotte-nc",
+    "little-river-sc",
+    "longs-sc",
+    "north-myrtle-beach-sc"
+  ],
+  "sources": [
+    {
+      "label": "Town of Carolina Shores: the eight communities",
+      "url": "https://www.carolinashoresnc.com/communities"
+    },
+    {
+      "label": "Town of Carolina Shores: Carolina Shores Subdivision",
+      "url": "https://www.carolinashoresnc.com/carolinashoressubdivision"
+    },
+    {
+      "label": "Town of Carolina Shores: Calabash Lakes",
+      "url": "https://www.carolinashoresnc.com/calabashlakes"
+    },
+    {
+      "label": "Town of Carolina Shores: Planning & Zoning",
+      "url": "https://www.carolinashoresnc.com/planningzoning"
+    },
+    {
+      "label": "Town of Carolina Shores: frequently asked questions",
+      "url": "https://www.carolinashoresnc.com/faq"
+    }
+  ],
+  "checked": "2026-09-11",
+  "placeType": "City",
+  "publicReferences": []
+}

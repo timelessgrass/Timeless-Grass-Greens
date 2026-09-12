@@ -1,0 +1,101 @@
+{
+  "status": "published",
+  "market": "northeast-florida",
+  "name": "World Golf Village",
+  "state": "FL",
+  "county": "St. Johns",
+  "title": "Artificial Turf in World Golf Village, FL | TIMELESS Grass & Greens",
+  "description": "A putting green at your World Golf Village home. Practice a few steps from the lanai, with a layout for the putts you want.",
+  "h1": "A putting green at your World Golf Village home.",
+  "lede": "Practice a few steps from the lanai, with a layout for the putts you want. We also install lawns and pet areas, starting with a free visit and written estimate.",
+  "wins": [
+    "Choose useful putts and a chipping fringe",
+    "Keep trees, pond edges and walking access",
+    "Bring the right community requirements"
+  ],
+  "answer": {
+    "question": "What should I decide before adding a World Golf Village putting green?",
+    "answer": "Choose the putting distances and chipping space you want, then identify the usable area around trees and water. Obtain current requirements from the applicable association and any district controlling the space. Fairway visibility should be considered in the property review."
+  },
+  "blocks": [
+    {
+      "icon": "flag",
+      "kicker": "Practice between rounds",
+      "h2": "Make the green convenient to use.",
+      "paras": [
+        "A clear putting line close to the house can matter more than a large surface across the yard. Discuss contours, cups and fringe after choosing the shots you want to repeat. Leave walking room and keep pet use separate if it needs a different care routine.",
+        "Discuss the intended roll and contours with the turf options so the surface serves your regular putting practice."
+      ]
+    },
+    {
+      "icon": "home",
+      "kicker": "Different communities and property types",
+      "h2": "Use the documents for your own lot.",
+      "paras": [
+        "King & Bear, Murabella, Samara Lakes and Cascades should not be treated as one association with a shared turf policy. Obtain the current property and architectural-review instructions, including any relevant CDD conditions.",
+        "Bring pond, drainage and tree information before sizing the green. Required shoreline separation, canopy conditions and maintenance access still need to be considered on a golf-facing property. Keep any unresolved drainage work clear in the written estimate."
+      ]
+    }
+  ],
+  "services": [
+    "putting-greens",
+    "residential-turf",
+    "pet-turf"
+  ],
+  "servicesNote": "Compare a practice green, lawn or pet area within the usable part of your property.",
+  "faq": [],
+  "nearby": [
+    "mill-creek-fl",
+    "st-johns-fl",
+    "nocatee-fl",
+    "st-augustine-fl"
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia: World Golf Village",
+      "url": "https://en.wikipedia.org/wiki/World_Golf_Village"
+    },
+    {
+      "label": "St. Johns Magazine: golf courses",
+      "url": "https://www.stjohnsmag.com/golf-courses.html"
+    },
+    {
+      "label": "Turnbull Creek Community Development District",
+      "url": "https://turnbullcreekcdd.com/"
+    },
+    {
+      "label": "Fla. Stat. 720.3045: items not visible from the frontage, a neighbor, a common area or a community golf course",
+      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0700-0799/0720/Sections/0720.3045.html"
+    },
+    {
+      "label": "SB 1180 (2026): community development district carve-out, Senate Fiscal Policy analysis",
+      "url": "https://www.flsenate.gov/Session/Bill/2026/1180/Analyses/2026s01180.fp.PDF"
+    },
+    {
+      "label": "Fla. Stat. 373.185 (2025): Florida-friendly landscaping",
+      "url": "https://www.flsenate.gov/Laws/Statutes/2025/0373.185"
+    },
+    {
+      "label": "USDA NRCS Soil Data Access (SSURGO): drainage class and depth to water table, St. Johns County",
+      "url": "https://sdmdataaccess.nrcs.usda.gov/"
+    },
+    {
+      "label": "St. Johns County: reclaimed water",
+      "url": "https://www.sjcfl.us/reclaimed-water/"
+    },
+    {
+      "label": "St. Johns County: Phase III extreme water shortage declaration (May 2026)",
+      "url": "https://www.sjcfl.us/phase-iii-extreme-water-shortage-declaration-may-2026/"
+    },
+    {
+      "label": "St. Johns County Land Development Code, Article VI (Table 6.01; Sec. 6.06.02)",
+      "url": "https://www.sjcfl.us/wp-content/uploads/2024/01/article-vi.pdf"
+    },
+    {
+      "label": "St. Johns County: protect our water",
+      "url": "https://www.sjcfl.us/protect-our-water/"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

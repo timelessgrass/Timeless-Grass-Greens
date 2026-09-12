@@ -1,1227 +1,245 @@
 {
- "putting-greens": {
-  "sections": [
-   {
-    "h2": "Colorado's turf statute names putting greens by hand",
-    "body": [
-     "Colorado wrote this product line into law in 2025. C.R.S. 37-99-102(6.5), added by HB25-1113, defines functional artificial turf to include the playing area of a golf course — \"a driving range, chipping and putting green, tee box, green, fairway, and rough.\" Those are the legislature's words, not a marketing category.",
-     "The Article 99 prohibition at C.R.S. 37-99-103(1) reaches nonfunctional artificial turf on commercial, institutional, industrial and common-interest-community property from 1 January 2026. A green sits on the named side of that line. On a single-family lot Article 99 does not apply at all, and C.R.S. 38-33.3-106.5(1)(i.5), added by SB23-178, stops an association's design guidelines prohibiting nonvegetative turf grass in the back yard of a detached single-family home.",
-     "That protection is back-yard only, and C.R.S. 37-60-126(11)(d)(I) adds that the subsection does not supersede a municipal subdivision regulation."
-    ],
-    "sources": [
-     {
-      "label": "Colorado SB24-005, signed act (2024)",
-      "cite": "Creates Title 37 Article 99. 37-99-103(1) prohibition effective 1 January 2026; 37-99-102(1) applicable property — commercial, institutional and industrial property — and the express exclusion of residential property; 37-99-102(5) common interest community property; 37-99-103(4)(d) more-stringent local authority; 37-99-102(9) local entity includes special and metropolitan districts.",
-      "url": "https://content.leg.colorado.gov/sites/default/files/2024a_005_signed.pdf",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Colorado SB23-178, signed act (2023)",
-      "cite": "Adds C.R.S. 38-33.3-106.5(1)(i.5) for detached single-family units: association design guidelines must not prohibit nonvegetative turf grass in the backyard of a unit owner's property; associations may restrict nonvegetative turf grass to rear yards only.",
-      "url": "https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf",
-      "checked": "2026-09-08"
-     }
+  "putting-greens": {
+    "sections": [],
+    "guide_links": [
+      {
+        "slug": "colorado-turf-law",
+        "anchor": "Check Colorado requirements for the intended use"
+      },
+      {
+        "slug": "florida-turf-infill-rules",
+        "anchor": "Check Florida material and installation requirements"
+      },
+      {
+        "slug": "florida-friendly-landscaping-and-hoas",
+        "anchor": "Check a Florida HOA proposal"
+      }
     ]
-   },
-   {
-    "h2": "Green speed is infill depth, and it only moves one way",
-    "body": [
-     "A green that rolls slow is a common complaint in golf forums. A golfer on r/golf reports what his installer told him: you can speed a green up, but you cannot slow it down.",
-     "An owner documenting a 220 square foot install on GolfWRX wrote that the sand infill needs time to dry out and settle in before the rolling speed normalizes.",
-     "In northeast Florida the material itself is set by rule. Rule 62-308.100(2)(c), F.A.C., effective 19 May 2026, allows only clean silica sand, rock, shell or other natural material as infill on a single-family lot of one acre or less, and confines rubber to the footprint of playground equipment. <a href=\"/guides/florida-turf-infill-rules/\">What Florida allows as infill</a>."
-    ],
-    "sources": []
-   },
-   {
-    "h2": "In Florida, what your HOA can stop depends on who can see the green",
-    "body": [
-     "Florida law follows the sightline. Fla. Stat. 720.3045 stops an association restricting items on a parcel that are not visible from the frontage, an adjacent parcel, a common area or a community golf course, and it names artificial turf. A green in a fenced rear yard usually clears that test. One a fairway looks onto is not. <a href=\"/guides/florida-friendly-landscaping-and-hoas/\">The Florida HOA rules</a>."
-    ],
-    "sources": [
-     {
-      "label": "Fla. Stat. 720.3045",
-      "cite": "\"Regardless of any covenants, restrictions, bylaws, rules, or requirements of an association… an association may not restrict parcel owners or their tenants from installing, displaying, or storing any items on a parcel which are not visible from the parcel's frontage or an adjacent parcel, an adjacent common area, or a community golf course, including, but not limited to, artificial turf…\"",
-      "url": "https://www.flsenate.gov/Laws/Statutes/2024/720.3045",
-      "checked": "2026-09-08"
-     }
+  },
+  "residential-turf": {
+    "sections": [],
+    "guide_links": [
+      {
+        "slug": "colorado-hoa-turf-rules",
+        "anchor": "Plan an HOA submission in Colorado"
+      },
+      {
+        "slug": "florida-friendly-landscaping-and-hoas",
+        "anchor": "Check a Florida HOA proposal"
+      },
+      {
+        "slug": "florida-turf-infill-rules",
+        "anchor": "Check Florida material and installation requirements"
+      },
+      {
+        "slug": "colorado-water-rebates-and-turf",
+        "anchor": "Check current rebate eligibility"
+      },
+      {
+        "slug": "no-turf-rebates-grand-strand",
+        "anchor": "Check Grand Strand rebate eligibility"
+      }
     ]
-   }
-  ],
-  "guide_links": [
-   {
-    "slug": "colorado-turf-law",
-    "anchor": "Colorado's turf law, in full"
-   },
-   {
-    "slug": "florida-turf-infill-rules",
-    "anchor": "What Florida allows as infill"
-   },
-   {
-    "slug": "florida-friendly-landscaping-and-hoas",
-    "anchor": "The Florida HOA rules"
-   }
-  ]
- },
- "residential-turf": {
-  "sections": [
-   {
-    "h2": "What your HOA can stop depends on the state, and on which yard",
-    "body": [
-     "In Colorado the protection sits in the water statute. C.R.S. 37-60-126(11)(a)(I) declares a covenant or rule that \"prohibits the use of nonvegetative turf grass in the backyard of a residential property\" contrary to public policy and unenforceable. For detached single-family homes, SB23-178 added C.R.S. 38-33.3-106.5(1)(i.5), which gives an owner written notice, forty-five days to cure, and a remedy of five hundred dollars or actual damages, whichever is greater.",
-     "It stops at the back yard, and 37-60-126(11)(d)(I) adds that subsection (11) does not supersede a municipal subdivision regulation. The front-yard limit and the cure procedure are set out in <a href=\"/guides/colorado-hoa-turf-rules/\">Colorado HOA turf rules</a>.",
-     "Florida runs a visibility test instead. <a href=\"/guides/florida-friendly-landscaping-and-hoas/\">Fla. Stat. 720.3045</a> says an association may not restrict items on a parcel that are \"not visible from the parcel's frontage or an adjacent parcel, an adjacent common area, or a community golf course,\" and it names artificial turf in that list. A fenced rear yard usually clears it. A lot backing onto a fairway usually does not."
-    ],
-    "sources": [
-     {
-      "label": "C.R.S. 37-60-126, current text",
-      "cite": "Subsection (11)(a)(I): a covenant, declaration, bylaw or rule of a common interest community or special district that \"prohibits the use of nonvegetative turf grass in the backyard of a residential property is hereby declared contrary to public policy and, on that basis, is unenforceable.\" Subsection (11)(d)(I): subsection (11) \"does not supersede any subdivision regulation of a county, city and county, or other municipality.\"",
-      "url": "https://codes.findlaw.com/co/title-37-water-and-irrigation/co-rev-st-sect-37-60-126/",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Colorado SB23-178 (2023), signed act",
-      "cite": "Adds C.R.S. 38-33.3-106.5(1)(i.5) for detached single-family units: guidelines must not prohibit nonvegetative turf grass in the backyard; 45-day written notice to cure; remedy of the greater of five hundred dollars or actual damages.",
-      "url": "https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Fla. Stat. 720.3045 — installation, display and storage of items",
-      "cite": "\"Regardless of any covenants, restrictions, bylaws, rules, or requirements of an association, and unless prohibited by general law or local ordinance, an association may not restrict parcel owners or their tenants from installing, displaying, or storing any items on a parcel which are not visible from the parcel's frontage or an adjacent parcel, an adjacent common area, or a community golf course, including, but not limited to, artificial turf...\"",
-      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0700-0799/0720/Sections/0720.3045.html",
-      "checked": "2026-09-08"
-     }
+  },
+  "pet-turf": {
+    "sections": [],
+    "guide_links": [
+      {
+        "slug": "florida-turf-infill-rules",
+        "anchor": "Check Florida material and installation requirements"
+      },
+      {
+        "slug": "is-artificial-turf-impervious",
+        "anchor": "Understand drainage and surface classification"
+      },
+      {
+        "slug": "colorado-water-rebates-and-turf",
+        "anchor": "Check current rebate eligibility"
+      }
     ]
-   },
-   {
-    "h2": "Florida writes a minimum specification for the lawn itself",
-    "body": [
-     "<a href=\"/guides/florida-turf-infill-rules/\">Rule 62-308.100, Florida Administrative Code</a>, took effect 19 May 2026 and applies to single-family residential property of one acre or less. Paragraph (2)(c) allows only \"clean silica sand, rock, shell, or other natural material\" as infill, permits coated silica sand where the coating is non-toxic, and confines rubber or any other synthetic infill to the footprint of playground equipment.",
-     "The rest of the rule is about the build. Paragraph (2)(a) prohibits heavy metals and intentionally added PFAS. Paragraph (2)(d) requires subgrade materials to be washed. Paragraph (4) requires permeability through the turf, the backing and the subgrade, and bars compacting the soil beneath the subgrade to the point that percolation suffers. Paragraph (9)(b) requires anchoring at all edges and seams.",
-     "Nobody comes to check. Florida DEP states that it \"is not implementing a permitting, inspection or enforcement program under this rule.\" The reason to meet it anyway is s. 125.572(3)(a), which bars a local government from prohibiting synthetic turf on single-family residential property only where that turf complies with the DEP standard."
-    ],
-    "sources": [
-     {
-      "label": "Rule 62-308.100, F.A.C. — adopted rule text, Florida Administrative Code",
-      "cite": "\"Infill material, if used, shall only be clean silica sand, rock, shell, or other natural material, except that coated silica sand may be used provided that any coating used is non-toxic... Rubber or any other synthetic infill material is allowed only within the footprint of playground equipment.\" Also (2)(a) heavy metals and intentionally added PFAS prohibited; (2)(d) washed subgrade; (4) permeability and no compaction of soil beneath subgrade; (9)(b) anchoring at all edges and seams. History–New 5-19-26.",
-      "url": "https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Florida Administrative Code rule record — 62-308.100 \"Synthetic Turf\"",
-      "cite": "Chapter 62-308, \"Minimum Standards for the Installation of Synthetic Turf on Specified Properties\". Effective Date: 5/19/2026. Rulemaking Authority and Law Implemented: 125.572 FS.",
-      "url": "https://www.flrules.org/gateway/ruleNo.asp?id=62-308.100",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Florida DEP — \"Minimum Standards for the Installation of Synthetic Turf\" Frequently Asked Questions",
-      "cite": "\"This rule only applies to single-family residential properties that are 1 acre or less in size.\" \"No. DEP is not implementing a permitting, inspection or enforcement program under this rule.\"",
-      "url": "https://floridadep.gov/sites/default/files/SyntheticTurfFAQ%20final.pdf",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Section 125.572, Florida Statutes — Regulation of synthetic turf",
-      "cite": "Subsection (3)(a) bars a local government from adopting or enforcing any ordinance, resolution, order, rule or policy that prohibits a property owner from installing synthetic turf \"that complies with Department of Environmental Protection standards adopted pursuant to this section\" on single-family residential property.",
-      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0100-0199%2F0125%2FSections%2F0125.572.html",
-      "checked": "2026-09-08"
-     }
+  },
+  "commercial-turf": {
+    "sections": [],
+    "guide_links": [
+      {
+        "slug": "colorado-turf-law",
+        "anchor": "Check Colorado requirements for the intended use"
+      },
+      {
+        "slug": "florida-turf-infill-rules",
+        "anchor": "Check Florida material and installation requirements"
+      },
+      {
+        "slug": "is-artificial-turf-impervious",
+        "anchor": "Understand drainage and surface classification"
+      },
+      {
+        "slug": "colorado-water-rebates-and-turf",
+        "anchor": "Check current rebate eligibility"
+      }
     ]
-   },
-   {
-    "h2": "The rebate is smaller than the watering rule",
-    "body": [
-     "One Denver-metro provider we checked pays for artificial turf. Thornton Water's water-wise landscape rebate pays up to $2 per square foot on 200 to 1,000 square foot projects, with a lifetime maximum of $2,000 per residential lot, a Minor Development Permit before installation, and a cap of 25 percent of the landscape area in front and unenclosed side yards.",
-     "Five other providers exclude it in writing: Denver Water, Aurora Water, Castle Rock Water, Erie and Centennial Water in Highlands Ranch. Denver Water's turfgrass removal discount asks for plans for a water-wise landscape \"(artificial turf is not allowed)\". Castle Rock Water states that \"Artificial turf does not qualify for any part of the rebate.\" Erie and Centennial Water in Highlands Ranch say the same. Colorado's Turf Replacement Program at C.R.S. 37-60-135 excludes artificial turf by name and stopped taking applications in March 2025. In Horry County we found <a href=\"/guides/no-turf-rebates-grand-strand/\">no turf, water or landscape rebate at all</a>.",
-     "The restriction is the larger number. Denver Water's annual watering rules are enforced 1 May to 1 October every year regardless of conditions, and its Stage 1 drought limits outdoor watering to two assigned days a week, before 10 a.m. or after 6 p.m. On the coast, GSWSA's policy update effective 1 July 2026 starts excess charges after 6,000 gallons instead of 8,000."
-    ],
-    "sources": [
-     {
-      "label": "Thornton Water — 2026 Artificial Turf Rules for Water-Wise Landscape Rebate (PDF)",
-      "cite": "\"The residential water-wise landscape rebate provides up to $2 per square foot for qualifying 200 – 1,000 square feet projects. The rebate has a lifetime maximum of $2,000 per residential lot.\" Minor Development Permit required before installation; \"Artificial turf shall not exceed 25% of the landscape area\" in front and unenclosed side yards.",
-      "url": "https://www.thorntonwater.com/wp-content/uploads/2026/02/2026-residential_artificial_turf_info__rules-1.pdf",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Denver Water — turfgrass removal discount",
-      "cite": "\"Application requirements include the removal of at least 200 square feet of water-intensive turf, a photo of the area to be transformed and plans for the new water-wise landscape that will be created (artificial turf is not allowed).\"",
-      "url": "https://www.denverwater.org/tap/ditching-useless-turf-coloradoscape-we-can-help",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Town of Erie — 2026 Turf Replacement Rebate Program",
-      "cite": "Requirements open with \"Artificial Turf is not eligible for this rebate.\"",
-      "url": "https://www.erieco.gov/1962/2026-Turf-Replacement-Rebate-Program",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Centennial Water & Sanitation District (Highlands Ranch) — Turf Replacement Program",
-      "cite": "\"Artificial turf replacements are no longer eligible for rebate.\"",
-      "url": "https://www.centennialwater.org/turf-replacement-program",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Colorado Water Conservation Board — Turf Replacement Program, C.R.S. 37-60-135",
-      "cite": "Applicants \"shall not use the money to replace turf with any of the following: (a) impermeable concrete; (b) artificial turf...\" \"As of March 2025, CWCB is no longer accepting applications for the Turf Replacement Grant Program.\"",
-      "url": "https://cwcb.colorado.gov/turf-replacement-program",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Grand Strand Water & Sewer Authority — Water Conservation / Smart Irrigation pages",
-      "cite": "No rebate, incentive or irrigation-meter program is listed; the Horry County, Myrtle Beach and North Myrtle Beach codes contain no water-conservation rebate or landscape-conversion incentive provisions.",
-      "url": "https://www.gswsa.com/Community.cfm?page=35",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "GSWSA drought management policy update, effective July 1, 2026",
-      "cite": "\"excess charges will begin after 6,000 gallons of usage\" (down from 8,000), following the South Carolina State Climatology Office declaring severe drought for the Pee Dee River Basin.",
-      "url": "https://www.gswsa.com/News.cfm?id=88",
-      "checked": "2026-09-08"
-     }
+  },
+  "sports-field-turf": {
+    "sections": [],
+    "guide_links": [
+      {
+        "slug": "is-artificial-turf-impervious",
+        "anchor": "Understand drainage and surface classification"
+      },
+      {
+        "slug": "florida-turf-infill-rules",
+        "anchor": "Check Florida material and installation requirements"
+      },
+      {
+        "slug": "colorado-turf-law",
+        "anchor": "Check Colorado requirements for the intended use"
+      },
+      {
+        "slug": "turf-installer-licensing-by-state",
+        "anchor": "Check contractor requirements for the proposed work"
+      }
     ]
-   }
-  ],
-  "guide_links": [
-   {
-    "slug": "colorado-hoa-turf-rules",
-    "anchor": "Colorado HOA turf rules"
-   },
-   {
-    "slug": "florida-friendly-landscaping-and-hoas",
-    "anchor": "Fla. Stat. 720.3045"
-   },
-   {
-    "slug": "florida-turf-infill-rules",
-    "anchor": "Rule 62-308.100, Florida Administrative Code"
-   },
-   {
-    "slug": "colorado-water-rebates-and-turf",
-    "anchor": "Denver-metro rebate we read"
-   },
-   {
-    "slug": "no-turf-rebates-grand-strand",
-    "anchor": "no turf, water or landscape rebate at all"
-   }
-  ]
- },
- "pet-turf": {
-  "sections": [
-   {
-    "h2": "The infill question, and the trade nobody names",
-    "body": [
-     "Florida answered it in a rule. Rule 62-308.100, F.A.C., effective 19 May 2026, paragraph (2)(c): \"Infill material, if used, shall only be clean silica sand, rock, shell, or other natural material,\" and rubber or any other synthetic infill is allowed \"only within the footprint of playground equipment.\" Paragraph (2)(a) separately prohibits heavy metals and intentionally added PFAS.",
-     "Check the scope before assuming it covers you. DEP's FAQ says the rule \"only applies to single-family residential properties that are 1 acre or less in size,\" and that DEP \"is not implementing a permitting, inspection or enforcement program under this rule.\" A boarding kennel or a pet daycare sits outside it entirely.",
-     "The sand that rule requires is not sterile. A 2020 laboratory study in Sports Health measured time to 50% loss of MRSA viability by infill: EPDM rubber 2 hours, cork-based 7, polymer-coated 9, crumb rubber 12, TPE 13, and sand 27. The material Florida requires held the organism longest of everything tested. That is an argument against rubber the rule already excludes, not for it."
-    ],
-    "sources": [
-     {
-      "label": "Rule 62-308.100, F.A.C. — adopted rule text, Florida Administrative Code",
-      "cite": "Paragraph (2)(c): \"Infill material, if used, shall only be clean silica sand, rock, shell, or other natural material, except that coated silica sand may be used provided that any coating used is non-toxic... Rubber or any other synthetic infill material is allowed only within the footprint of playground equipment.\" Paragraph (2)(a) prohibits heavy metals and intentionally added PFAS in the system. History–New 5-19-26.",
-      "url": "https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Florida DEP — \"Minimum Standards for the Installation of Synthetic Turf\" Frequently Asked Questions",
-      "cite": "\"This rule only applies to single-family residential properties that are 1 acre or less in size.\" \"No. DEP is not implementing a permitting, inspection or enforcement program under this rule.\"",
-      "url": "https://floridadep.gov/sites/default/files/SyntheticTurfFAQ%20final.pdf",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Sports Health (2020) — laboratory study of MRSA survival in synthetic turf systems",
-      "cite": "Time to 50% loss of viability by infill: EPDM rubber 2 hours, cork-based 7, polymer-coated 9, crumb rubber 12, TPE rubber 13, sand 27 hours. MRSA recoverable up to 96 hours on infill and 24 hours on fibers (p<0.001).",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7222665/",
-      "checked": "2026-09-08"
-     }
+  },
+  "indoor-turf": {
+    "sections": [],
+    "guide_links": [
+      {
+        "slug": "colorado-turf-law",
+        "anchor": "Check Colorado requirements for the intended use"
+      },
+      {
+        "slug": "florida-turf-infill-rules",
+        "anchor": "Check Florida material and installation requirements"
+      }
     ]
-   },
-   {
-    "h2": "Drainage is a ground problem, not a spec sheet",
-    "body": [
-     "Horry County's impervious-surface definition covers surfaces that prevent or impede the natural infiltration of stormwater runoff.",
-     "In northeast Florida the ground is the constraint. USDA soil survey data puts 71.4% of mapped acres in Duval, 78.5% in St. Johns and 82.2% in Nassau in the poorly or very poorly drained classes, and 75.7% of mapped St. Johns acres have the water table within six inches of the surface at some point in a normal year. NOAA's 1991-2020 normals put roughly 28.8 inches of rain on Jacksonville between June and September.",
-     "Florida's rule builds against that. Paragraph (2)(d) requires subgrade materials to be washed before installation, and paragraph (4) requires permeability through the turf, the backing and the subgrade while barring compaction of the soil beneath. The closest published Front Range number belongs to a water utility rather than a building code: Thornton requires backing draining at least two inches per hour over at least three inches of compacted aggregate."
-    ],
-    "sources": [
-     {
-      "label": "New Jersey Department of Environmental Protection — Synthetic Turf: A Review of the Current Science (2025)",
-      "cite": "\"Just because a turf product can drain the standard permeability rate of 10 inches per hour, for example, it does not mean the ground underneath will infiltrate at that same rate.\"",
-      "url": "https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Horry County Code of Ordinances, Sec. 17.7-16 (stormwater utility definitions)",
-      "cite": "\"Common impervious surfaces include, but are not limited to, rooftops, sidewalks, walkways, patio areas, driveways, parking lots, storage areas, compacted gravel and soil surfaces, awnings and other fabric or plastic coverings...\" The definition closes on surfaces which prevent or impede the natural infiltration of stormwater runoff. Artificial turf is not named. Code current through 12 August 2026.",
-      "url": "https://library.municode.com/sc/horry_county/codes/code_of_ordinances?nodeId=COOR_CH17.7STMA_ARTIISTUTFE_S17.7-16DE",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "NOAA NCEI 1991-2020 climate normals, Jacksonville International Airport (USW00013889)",
-      "cite": "Normal monthly precipitation June 7.60 in, July 6.77 in, August 6.88 in, September 7.56 in — roughly 28.8 inches across the four months.",
-      "url": "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00013889&dataTypes=MLY-TMAX-NORMAL,MLY-TMIN-NORMAL,MLY-PRCP-NORMAL&format=json",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Rule 62-308.100, F.A.C. — adopted rule text, Florida Administrative Code",
-      "cite": "(2)(d) requires washed subgrade materials; (4) requires permeability through the turf, backing and subgrade and bars compacting the soil beneath the subgrade to the point that percolation suffers.",
-      "url": "https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Thornton Water — 2026 Artificial Turf Rules for the Water-Wise Landscape Rebate",
-      "cite": "Requires backing that drains at a minimum of two inches per hour, a sub-base of at least three inches of compacted aggregate, glued rather than sewn seams, a minor development permit before installation, an eight-year fade warranty, and PFAS-free documentation.",
-      "url": "https://www.thorntonwater.com/wp-content/uploads/2026/02/2026-residential_artificial_turf_info__rules-1.pdf",
-      "checked": "2026-09-08"
-     }
+  },
+  "turf-removal-and-replacement": {
+    "sections": [],
+    "guide_links": [
+      {
+        "slug": "turf-installer-licensing-by-state",
+        "anchor": "Check contractor requirements for the proposed work"
+      },
+      {
+        "slug": "nc-vs-sc-built-upon-area",
+        "anchor": "Check the project on either side of the state line"
+      },
+      {
+        "slug": "florida-turf-infill-rules",
+        "anchor": "Check Florida material and installation requirements"
+      },
+      {
+        "slug": "colorado-turf-law",
+        "anchor": "Check Colorado requirements for the intended use"
+      },
+      {
+        "slug": "colorado-water-rebates-and-turf",
+        "anchor": "Check current rebate eligibility"
+      }
     ]
-   },
-   {
-    "h2": "Heat is a contact problem, and shade is the lever",
-    "body": [
-     "A 2024 systematic review of 23 studies recorded 30 mm synthetic fibers averaging 57.5°C in sun against 32.2°C in shade, with maxima of 80.1°C and 42.1°C. Sun and shade move the surface by 25°C in that data. Where a dog run goes is worth deciding before what goes in it.",
-     "The same review found air over synthetic only 0.5 to 1.2°C warmer than over natural grass, with no significant difference in wet bulb globe temperature. It is a contact problem, for paws and bare feet and a dog lying down, not an air problem.",
-     "Hosing buys minutes, and the minutes are measured. In Brigham Young University readings a synthetic surface fell from 174°F to 85°F under irrigation, then read 120°F after five minutes and 164°F after twenty. Penn State found that mixing 20% calcined clay into infill to hold moisture \"did not reduce surface temperature.\""
-    ],
-    "sources": [
-     {
-      "label": "Williams & Pulley, Brigham Young University — full-day infrared surface temperature measurements on adjacent synthetic and natural fields",
-      "cite": "Irrigation dropped the synthetic surface from 174°F to 85°F; after five minutes it was 120°F and after twenty minutes 164°F.",
-      "url": "https://www.westcoastturf.com/getdoc.cfm?id=38",
-      "checked": "2026-09-08"
-     }
+  },
+  "grand-strand": {
+    "sections": [],
+    "guide_links": [
+      {
+        "slug": "nc-vs-sc-built-upon-area",
+        "anchor": "Check the project on either side of the state line"
+      },
+      {
+        "slug": "is-artificial-turf-impervious",
+        "anchor": "Understand drainage and surface classification"
+      },
+      {
+        "slug": "no-turf-rebates-grand-strand",
+        "anchor": "Check Grand Strand rebate eligibility"
+      },
+      {
+        "slug": "turf-installer-licensing-by-state",
+        "anchor": "Check contractor requirements for the proposed work"
+      }
     ]
-   }
-  ],
-  "guide_links": [
-   {
-    "slug": "florida-turf-infill-rules",
-    "anchor": "Rule 62-308.100, F.A.C."
-   },
-   {
-    "slug": "is-artificial-turf-impervious",
-    "anchor": "Horry County's impervious-surface definition"
-   },
-   {
-    "slug": "colorado-water-rebates-and-turf",
-    "anchor": "Thornton requires backing draining at least two inches per hour"
-   }
-  ]
- },
- "commercial-turf": {
-  "sections": [
-   {
-    "h2": "Which commercial properties the Colorado rule actually reaches",
-    "body": [
-     "Applicable property is defined at C.R.S. 37-99-102(1) and covers commercial, institutional and industrial property together with common interest community property, which 37-99-102(5) describes as the land a unit owners' association owns and maintains, entryways, parks and other common elements. HB25-1113 added one more category: applicable residential real property at 37-99-102(1.5), meaning multifamily housing with more than twelve dwelling units.",
-     "Two limits sit in the same statute. Anything installed before 1 January 2026 is preserved by 37-99-103(4)(a), and a redevelopment project only counts once it disturbs more than fifty percent of the aggregate landscape area under 37-99-102(14).",
-     "The date for the multifamily category is contested. Colorado's Division of Real Estate told its 2025 HOA Forum that the twelve-plus-unit expansion applies on or after 1 January 2026. Western Resource Advocates' compliance guide and the Town of Fraser's staff report both read it as a 1 January 2028 obligation. We have not resolved which reading is right. C.R.S. 37-99-103(4)(d) also lets a local entity be more stringent than the state floor, and 37-99-102(9) puts special and metropolitan districts inside the definition of local entity. The section numbers, the dates and the definitions are set out in full in <a href=\"/guides/colorado-turf-law/\">Colorado's artificial turf law</a>."
-    ],
-    "sources": [
-     {
-      "label": "Colorado SB24-005, signed act (2024)",
-      "cite": "37-99-102(1) applicable property — commercial, institutional and industrial property and common interest community property; 37-99-102(5) common interest community property as the land a unit owners' association owns and maintains, entryways, parks and other common elements; 37-99-102(14) redevelopment project and the fifty percent aggregate landscape area trigger; 37-99-103(4)(a) grandfathering of pre-2026 installations; 37-99-103(4)(d) more-stringent local authority; 37-99-102(9) local entity includes special and metropolitan districts.",
-      "url": "https://content.leg.colorado.gov/sites/default/files/2024a_005_signed.pdf",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Colorado Division of Real Estate — 2025 HOA Forum legislative summaries",
-      "cite": "States the twelve-plus-unit expansion applies \"on or after January 1, 2026\".",
-      "url": "https://dre.colorado.gov/sites/dre/files/documents/2025-07-25%20HOA%20Forum%202025%20Legislative%20Summaries.pdf",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Western Resource Advocates — SB24-005 simplified compliance guide",
-      "cite": "Reads the multifamily obligation as 1 January 2028; states that only the disturbed portion of landscaping on redeveloped parcels must conform.",
-      "url": "https://westernresourceadvocates.org/wp-content/uploads/2025/08/2025_SB24-005_Simplified-Guide.pdf",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Town of Fraser — staff report on local compliance with SB24-005 and HB25-1113",
-      "cite": "Municipal implementation reading the multifamily obligation as 1 January 2028; an example of a local entity adopting a conforming code text amendment.",
-      "url": "https://www.frasercolorado.com/AgendaCenter/ViewFile/Item/7839?fileID=10590",
-      "checked": "2026-09-08"
-     }
+  },
+  "denver-metro": {
+    "sections": [],
+    "guide_links": [
+      {
+        "slug": "colorado-water-rebates-and-turf",
+        "anchor": "Check current rebate eligibility"
+      },
+      {
+        "slug": "colorado-turf-law",
+        "anchor": "Check Colorado requirements for the intended use"
+      },
+      {
+        "slug": "colorado-hoa-turf-rules",
+        "anchor": "Plan an HOA submission in Colorado"
+      },
+      {
+        "slug": "is-artificial-turf-impervious",
+        "anchor": "Understand drainage and surface classification"
+      }
     ]
-   },
-   {
-    "h2": "Florida and South Carolina leave commercial outside the written rules",
-    "body": [
-     "Florida wrote a synthetic turf standard and then aimed it at houses. Rule 62-308.100, F.A.C., took effect 19 May 2026, and DEP's own FAQ states that it \"only applies to single-family residential properties that are 1 acre or less in size.\" Condominiums, multifamily, parks, athletic fields and commercial property sit outside it. What the rule requires on the residential side is set out in <a href=\"/guides/florida-turf-infill-rules/\">Florida's turf infill rule</a>.",
-     "That matters because the rule is what triggers the protection. Section 125.572(3)(a), Florida Statutes, bars a local government from prohibiting compliant synthetic turf on single-family residential property. A commercial parcel gets no such shield. In Atlantic Beach, development resulting in more than 35 percent impervious lot coverage must provide on-site stormwater storage for the entire impervious surface area.",
-     "We found no South Carolina ordinance naming turf in the codes we searched, and no state position on it either way. On the Grand Strand that gap has a price attached. Horry County Sec. 17.7-16 lists compacted gravel surfaces and plastic coverings among common impervious surfaces, and Sec. 17.7-17 assigns non-single-family parcels a development intensity factor by impervious percentage, 0.95 at 90 to 100 percent down to 0.01 below one percent, billed per 20,000 square feet of land area. We set out the rest of it in <a href=\"/guides/is-artificial-turf-impervious/\">stormwater and built-upon area, county by county</a>."
-    ],
-    "sources": [
-     {
-      "label": "Florida Administrative Code rule record — 62-308.100 \"Synthetic Turf\"",
-      "cite": "Chapter 62-308, \"Minimum Standards for the Installation of Synthetic Turf on Specified Properties\". Effective Date: 5/19/2026. History note \"History–New 5-19-26\". Rulemaking Authority and Law Implemented: 125.572 FS.",
-      "url": "https://www.flrules.org/gateway/ruleNo.asp?id=62-308.100",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Florida DEP — \"Minimum Standards for the Installation of Synthetic Turf\" Frequently Asked Questions",
-      "cite": "\"This rule only applies to single-family residential properties that are 1 acre or less in size.\" \"DEP does not issue permits or require authorization for the installation of synthetic turf.\" \"No. DEP is not implementing a permitting, inspection or enforcement program under this rule.\"",
-      "url": "https://floridadep.gov/sites/default/files/SyntheticTurfFAQ%20final.pdf",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Section 125.572, Florida Statutes — Regulation of synthetic turf",
-      "cite": "Created by HB 683 (2025), ch. 2025-140. Subsection (3)(a) bars a local government from adopting or enforcing any ordinance, resolution, order, rule or policy that prohibits a property owner from installing synthetic turf \"that complies with Department of Environmental Protection standards adopted pursuant to this section\" on single-family residential property, once DEP adopts rules under subsection (4).",
-      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0100-0199%2F0125%2FSections%2F0125.572.html",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Atlantic Beach Code Sec. 24-17 and Sec. 24-89(c)(1)",
-      "cite": "Impervious surface means surfaces \"made of concrete, asphalt, brick, plastic, or any solid surfacing material with a base or lining of an impervious material\". Development resulting in more than 35 percent impervious lot coverage must provide on-site stormwater storage for the entire impervious surface area, with a cumulative 400 square foot exemption.",
-      "url": "https://library.municode.com/fl/atlantic_beach/codes/code_of_ordinances?nodeId=PTIICOOR_CH24LADERE_ARTIILADE_S24-17DE",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Horry County Code Sec. 17.7-16 (Stormwater Utility, Definitions)",
-      "cite": "\"Common impervious surfaces include, but are not limited to, rooftops, sidewalks, walkways, patio areas, driveways, parking lots, storage areas, compacted gravel and soil surfaces, awnings and other fabric or plastic coverings, and other surfaces which prevent or impede the natural infiltration of stormwater runoff which existed prior to development.\" Artificial turf is not named. Full-text searches of the Horry County, Myrtle Beach and North Myrtle Beach codes return no occurrence of artificial turf, synthetic turf, artificial grass or synthetic grass.",
-      "url": "https://library.municode.com/sc/horry_county/codes/code_of_ordinances?nodeId=COOR_CH17.7STMA_ARTIISTUTFE_S17.7-16DE",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Horry County Code Sec. 17.7-17 (Stormwater service charge)",
-      "cite": "Non-single-family parcels are assigned a development intensity factor by impervious percentage — 90–100% = 0.95 down to less than 1% = 0.01 — billed per 20,000 square feet of land area.",
-      "url": "https://library.municode.com/sc/horry_county/codes/code_of_ordinances?nodeId=COOR_CH17.7STMA_ARTIISTUTFE_S17.7-17STSECHRA",
-      "checked": "2026-09-08"
-     }
+  },
+  "northeast-florida": {
+    "sections": [],
+    "guide_links": [
+      {
+        "slug": "florida-turf-infill-rules",
+        "anchor": "Check Florida material and installation requirements"
+      },
+      {
+        "slug": "is-artificial-turf-impervious",
+        "anchor": "Understand drainage and surface classification"
+      },
+      {
+        "slug": "florida-friendly-landscaping-and-hoas",
+        "anchor": "Check a Florida HOA proposal"
+      }
     ]
-   },
-   {
-    "h2": "No commercial or HOA rebate in the Denver metro pays for it",
-    "body": [
-     "Denver Water runs a Landscape Transformation Assistance Program for HOA and commercial projects that funds up to half of project cost, and its published list of what it will not fund names \"designs that include artificial turf, landscape fabrics/weed barriers or hardscapes.\" Castle Rock Water states, for both its residential and non-residential programs, that \"Artificial turf does not qualify for any part of the rebate.\"",
-     "The one metro provider we found that pays for artificial turf is Thornton, whose 2026 artificial turf rules are scoped to single-family detached and attached dwellings. We found no Denver-metro commercial or HOA rebate for it, and the state grant would not have covered it either: C.R.S. 37-60-135 bars applicants from using Turf Replacement Program money to replace turf with artificial turf, and the Colorado Water Conservation Board stopped accepting applications in March 2025. Provider by provider, that is <a href=\"/guides/colorado-water-rebates-and-turf/\">which Denver-metro water providers actually pay</a>."
-    ],
-    "sources": [
-     {
-      "label": "Thornton Water — 2026 Artificial Turf Rules for Water-Wise Landscape Rebate (PDF)",
-      "cite": "Up to $2 per square foot on qualifying 200–1,000 square foot projects, lifetime maximum $2,000 per residential lot; scope limited to the front, back and side yards of single-family detached and attached dwellings; Minor Development Permit required before installation; backing must drain a minimum of two inches per hour; PFAS-free documentation required.",
-      "url": "https://www.thorntonwater.com/wp-content/uploads/2026/02/2026-residential_artificial_turf_info__rules-1.pdf",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Colorado Water Conservation Board — Turf Replacement Program",
-      "cite": "\"Update: As of March 2025, CWCB is no longer accepting applications for the Turf Replacement Grant Program.\" Statute (HB22-1151, C.R.S. 37-60-135): applicants \"SHALL NOT USE THE MONEY TO REPLACE TURF WITH ANY OF THE FOLLOWING: (A) IMPERMEABLE CONCRETE; (B) ARTIFICIAL TURF; (C) WATER FEATURES SUCH AS FOUNTAINS; (D) INVASIVE PLANT SPECIES; OR (E) TURF.\" CWCB lists \"Single Family Homeowners\" and \"Homeowners' Associations or any Multifamily Property\" as INELIGIBLE ENTITIES.",
-      "url": "https://cwcb.colorado.gov/turf-replacement-program",
-      "checked": "2026-09-08"
-     }
+  },
+  "services-index": {
+    "sections": [],
+    "guide_links": [
+      {
+        "slug": "colorado-turf-law",
+        "anchor": "Check Colorado requirements for the intended use"
+      },
+      {
+        "slug": "colorado-hoa-turf-rules",
+        "anchor": "Plan an HOA submission in Colorado"
+      },
+      {
+        "slug": "colorado-water-rebates-and-turf",
+        "anchor": "Check current rebate eligibility"
+      },
+      {
+        "slug": "nc-vs-sc-built-upon-area",
+        "anchor": "Check the project on either side of the state line"
+      },
+      {
+        "slug": "no-turf-rebates-grand-strand",
+        "anchor": "Check Grand Strand rebate eligibility"
+      },
+      {
+        "slug": "florida-turf-infill-rules",
+        "anchor": "Check Florida material and installation requirements"
+      },
+      {
+        "slug": "florida-friendly-landscaping-and-hoas",
+        "anchor": "Check a Florida HOA proposal"
+      },
+      {
+        "slug": "turf-installer-licensing-by-state",
+        "anchor": "Check contractor requirements for the proposed work"
+      },
+      {
+        "slug": "is-artificial-turf-impervious",
+        "anchor": "Understand drainage and surface classification"
+      }
     ]
-   }
-  ],
-  "guide_links": [
-   {
-    "slug": "colorado-turf-law",
-    "anchor": "Colorado's artificial turf law"
-   },
-   {
-    "slug": "florida-turf-infill-rules",
-    "anchor": "Florida's turf infill rule"
-   },
-   {
-    "slug": "is-artificial-turf-impervious",
-    "anchor": "stormwater and built-upon area, county by county"
-   },
-   {
-    "slug": "colorado-water-rebates-and-turf",
-    "anchor": "which Denver-metro water providers actually pay"
-   }
-  ]
- },
- "sports-field-turf": {
-  "sections": [
-   {
-    "h2": "What a field costs, on public record",
-    "body": [
-     "Aurora Public Schools' stadium field at Hinkley High School took 81,095 square feet of AstroTurf over a Brock Powerbase YSR shock pad with BrockFILL infill, completed in 2024. Riverside High School in Jacksonville, the first Duval County public school to get a synthetic playing surface, was reported at 91,000 square feet when it was unveiled on 18 October 2022. That is the working size of one high school field.",
-     "Nassau County publishes the contract value. On 27 February 2025 its school board approved a $1.7 million athletic facilities upgrade at West Nassau High School in Callahan, of which AstroTurf Corporation held the primary contract at $1,328,070. The scope was excavation of up to 7.5 inches of the existing surface, a drainage base, and turf with custom midfield logos and end-zone lettering under an eight-year manufacturer warranty."
-    ],
-    "sources": [
-     {
-      "label": "Brock USA project page — Aurora Public Schools Stadium, Hinkley High School",
-      "cite": "81,095 sq ft artificial turf installation completed 2024 at APS Stadium, Hinkley High School, Aurora CO; AstroTurf surface with BrockFILL infill over a Brock Powerbase YSR shock pad; builder Rocky Mountain Turf Solutions, designer Design Concepts.",
-      "url": "https://www.brockusa.com/projects/aurora-public-schools-hinkley-high-school-aurora-public-schools-stadium/",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Duval County Public Schools — Riverside High School turf field",
-      "cite": "Riverside High School was the first Duval County public school to receive an AstroTurf playing surface, unveiled 18 October 2022; reported as a 91,000-square-foot turf field.",
-      "url": "https://www.duvalschools.org/article/2731211",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Nassau County Record — Warrior Field renovation, West Nassau High School",
-      "cite": "Nassau County School Board approved a $1.7 million athletic facilities upgrade at West Nassau High School (Callahan) on 27 February 2025; AstroTurf Corporation of Dalton, Georgia held the primary contract at $1,328,070; scope included excavation of up to 7.5 inches of field surface, installation of a drainage base, and new turf with custom midfield logos and end-zone lettering under an eight-year manufacturer warranty; ribbon cutting 5 September 2025.",
-      "url": "https://www.nassaucountyrecord.com/local-newsletter/warrior-field-renovation-underway-west-nassau-high-school",
-      "checked": "2026-09-08"
-     }
-    ]
-   },
-   {
-    "h2": "The permit that catches a field is stormwater",
-    "body": [
-     "A high school field is well over an acre, which puts it past thresholds a back yard never reaches. Horry County's Stormwater Management Design Manual requires a stormwater permit where one-half acre or more will be disturbed, or where the construction is part of a larger common plan.",
-     "Whether the finished surface counts against impervious coverage then differs by state. North Carolina answers by statute: G.S. 143-214.7D(b)(6) provides that artificial turf manufactured to drain through its backing and installed to manufacturer specification over a pervious surface is not built-upon area, and subsection (d) preempts a conflicting local definition. South Carolina we found nothing on, in the codes we searched or at state level. Horry County Sec. 17.7-16 never names turf, though it lists compacted gravel and soil surfaces and other plastic coverings among common impervious surfaces.",
-     "Florida wrote a synthetic turf rule and left fields outside it. DEP's FAQ on Rule 62-308.100 asks whether the rule applies to condominiums, duplexes, parks, athletic fields or commercial properties and answers no; it reaches single-family lots of one acre or less. A field in Duval or Nassau County gets neither the state minimum standard nor the preemption that comes with it. Colorado regulates turf for water use rather than runoff, and we found no Front Range ordinance classifying it for coverage."
-    ],
-    "sources": [
-     {
-      "label": "Horry County Stormwater Management Design Manual (January 2024)",
-      "cite": "Sec. 2.3: a stormwater permit is required where one-half acre or more will be disturbed, or the construction is part of a Larger Common Plan. No mention of artificial turf, synthetic turf or synthetic grass appears in its 134 pages. Note: horrycountysc.gov was unreachable on the check date, so the document was read from the Internet Archive capture of this URL dated 2026-04-15.",
-      "url": "https://www.horrycountysc.gov/media/4wqkxbxg/horry-county-sw-design-manual_rev2024.pdf",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "N.C. Gen. Stat. 143-214.7D",
-      "cite": "Subsection (b)(6) excludes from built-upon area \"artificial turf, manufactured to allow water to drain through the backing of the turf, and installed according to the manufacturer's specifications over a pervious surface\"; (d) preempts a local definition of built-upon area or impervious surface that does not comply with subsection (b). Enacted by S.L. 2024-49 s. 4.48(b).",
-      "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_143/GS_143-214.7D.html",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Horry County Code Sec. 17.7-16 (Stormwater Utility, Definitions)",
-      "cite": "\"Common impervious surfaces include, but are not limited to, rooftops, sidewalks, walkways, patio areas, driveways, parking lots, storage areas, compacted gravel and soil surfaces, awnings and other fabric or plastic coverings, and other surfaces which prevent or impede the natural infiltration of stormwater runoff which existed prior to development.\" Artificial turf is not named.",
-      "url": "https://library.municode.com/sc/horry_county/codes/code_of_ordinances?nodeId=COOR_CH17.7STMA_ARTIISTUTFE_S17.7-16DE",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Florida DEP — Synthetic Turf FAQ on Rule 62-308.100, F.A.C.",
-      "cite": "\"Does this rule apply to condominiums, duplexes, parks, athletic fields or commercial properties? No. This rule only applies to single-family residential properties that are 1 acre or less in size.\" \"Do I need a DEP permit or other approval from DEP? No.\" \"Does DEP inspect or enforce synthetic turf installations? No.\" Published by the Division of Water Restoration Assistance, document last modified 4 August 2026.",
-      "url": "https://floridadep.gov/sites/default/files/SyntheticTurfFAQ%20final.pdf",
-      "checked": "2026-09-08"
-     }
-    ]
-   }
-  ],
-  "guide_links": [
-   {
-    "slug": "is-artificial-turf-impervious",
-    "anchor": "counts against impervious coverage"
-   },
-   {
-    "slug": "florida-turf-infill-rules",
-    "anchor": "Rule 62-308.100"
-   },
-   {
-    "slug": "colorado-turf-law",
-    "anchor": "Colorado regulates turf for water use"
-   },
-   {
-    "slug": "turf-installer-licensing-by-state",
-    "anchor": "both Carolina contractor-licensing thresholds"
-   }
-  ]
- },
- "indoor-turf": {
-  "sections": [
-   {
-    "h2": "Colorado's 2026 restriction is a landscape rule",
-    "body": [
-     "Senate Bill 24-005 created Article 99 in Title 37 of the Colorado Revised Statutes. C.R.S. 37-99-103(1) tells local entities that from 1 January 2026 they must not install, or allow anyone to install, nonfunctional turf, artificial turf or invasive plant species as part of a new development or redevelopment project on commercial, institutional, industrial and HOA-common property. House Bill 25-1113 inserted the word NONFUNCTIONAL in front of artificial turf and added a definition of functional artificial turf at C.R.S. 37-99-102(6.5) covering playgrounds, sports fields and the playing area of a golf course. SB24-005 had already excepted athletic fields of play.",
-     "Two things in that text point away from an indoor training floor. A sports field is named as functional. And a redevelopment project only counts under 37-99-102(14) once it disturbs more than fifty percent of the aggregate landscape area, which is a measurement of landscaping. Article 99 governs water use; it does not classify turf for stormwater or built-upon-area purposes.",
-     "That is a reading, not a settled question. We hold no Colorado source classifying an interior floor either way, and 37-99-103(4)(d) lets a local entity be more stringent than the state floor — 37-99-102(9) counts metropolitan districts as local entities. Ask for the adopted text before material is ordered."
-    ],
-    "sources": [
-     {
-      "label": "Colorado SB24-005, signed act (2024)",
-      "cite": "Creates Title 37 Article 99. 37-99-103(1) prohibition on \"nonfunctional turf, artificial turf, or invasive plant species\" from 1 January 2026; 37-99-102(1) applicable property (commercial, institutional and industrial property) and 37-99-102(5) common interest community property; 37-99-102(14) redevelopment project and the fifty percent aggregate landscape area trigger; 37-99-103(4)(d) more-stringent local authority; 37-99-102(9) local entity includes special and metropolitan districts; athletic fields of play exception.",
-      "url": "https://content.leg.colorado.gov/sites/default/files/2024a_005_signed.pdf",
-      "checked": "2026-09-08"
-     }
-    ]
-   },
-   {
-    "h2": "Florida's infill rule stops at the front door of a business",
-    "body": [
-     "Rule 62-308.100, Florida Administrative Code, took effect 19 May 2026 and limits infill on a residential lot to clean silica sand, rock, shell or other natural material, with rubber allowed only within the footprint of playground equipment. It does not reach a gym. DEP's own FAQ answers the scope question in a line: \"Does this rule apply to condominiums, duplexes, parks, athletic fields or commercial properties? No. This rule only applies to single-family residential properties that are 1 acre or less in size.\"",
-     "That cuts both ways. The infill restriction does not bind an indoor facility, and neither does the protection it unlocks — section 125.572(3)(a), Florida Statutes, bars a local government from prohibiting compliant synthetic turf on single-family residential property, and a training center is not that.",
-     "Indoors the infill argument runs on different evidence. A 2020 laboratory study in Sports Health found MRSA recoverable for up to 96 hours on infill and 24 hours on turf fibers. Time to 50 percent loss of viability was 2 hours on EPDM rubber, 7 on cork-based, 9 on polymer-coated, 12 on crumb rubber, 13 on TPE and 27 hours on sand. Nothing rains on an indoor field. The Jaguars' indoor practice field at the Miller Electric Center in Jacksonville is built on coconut fiber and cork infill."
-    ],
-    "sources": [
-     {
-      "label": "Rule 62-308.100, F.A.C. — adopted rule text",
-      "cite": "\"Infill material, if used, shall only be clean silica sand, rock, shell, or other natural material, except that coated silica sand may be used provided that any coating used is non-toxic... Rubber or any other synthetic infill material is allowed only within the footprint of playground equipment.\" History–New 5-19-26.",
-      "url": "https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Florida Administrative Code rule record — 62-308.100 \"Synthetic Turf\"",
-      "cite": "Chapter 62-308, \"Minimum Standards for the Installation of Synthetic Turf on Specified Properties\". Effective Date: 5/19/2026. Rulemaking Authority and Law Implemented: 125.572 FS.",
-      "url": "https://www.flrules.org/gateway/ruleNo.asp?id=62-308.100",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Florida DEP — \"Minimum Standards for the Installation of Synthetic Turf\" Frequently Asked Questions",
-      "cite": "\"Does this rule apply to condominiums, duplexes, parks, athletic fields or commercial properties? No. This rule only applies to single-family residential properties that are 1 acre or less in size.\"",
-      "url": "https://floridadep.gov/sites/default/files/SyntheticTurfFAQ%20final.pdf",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Section 125.572, Florida Statutes — Regulation of synthetic turf",
-      "cite": "Created by HB 683 (2025), ch. 2025-140. Subsection (3)(a) bars a local government from prohibiting a property owner from installing synthetic turf \"that complies with Department of Environmental Protection standards adopted pursuant to this section\" on single-family residential property.",
-      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0100-0199%2F0125%2FSections%2F0125.572.html",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Sports Health (2020) — laboratory study of MRSA survival in synthetic turf systems",
-      "cite": "MRSA recoverable up to 96 hours on infill and 24 hours on fibers (p<0.001). Time to 50% loss of viability by infill: EPDM rubber 2 hours, cork-based 7, polymer-coated 9, crumb rubber 12, TPE rubber 13, sand 27 hours.",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7222665/",
-      "checked": "2026-09-08"
-     }
-    ]
-   }
-  ],
-  "guide_links": [
-   {
-    "slug": "colorado-turf-law",
-    "anchor": "Colorado's artificial turf law: SB24-005 as amended by HB25-1113"
-   },
-   {
-    "slug": "florida-turf-infill-rules",
-    "anchor": "what infill Florida's rule allows"
-   }
-  ]
- },
- "turf-removal-and-replacement": {
-  "sections": [
-   {
-    "h2": "North Carolina wrote the base standard down",
-    "body": [
-     "Two states have written down how artificial turf should be installed. Florida did it in 2026 as an environmental rule. North Carolina did it in 2016 as a licensing rule, and North Carolina's is the older and more specific of the two. 21 NCAC 28B .0503(b), effective 1 September 2016 and amended 1 July 2021, requires a licensed landscape contractor to compact and pitch the sub-grade to drain, establish a perimeter attachment system, roll the turf with the nap facing a consistent direction, secure it with an evenly weighted sand layer, and follow the manufacturer's specifications.",
-     "The same standard carries money on the Carolina coast. G.S. 143-214.7D(b)(6) excludes artificial turf from built-upon area only where it is manufactured to drain through the backing and installed to the manufacturer's specifications over a pervious surface, and (b)(3) separately excludes number 57 stone at least four inches thick over geotextile fabric. Whether the base already in the ground is that assembly decides whether a replacement keeps the exclusion.",
-     "North Myrtle Beach put maintenance into the same test. Sec. 23-129.4, added by Ordinance 25-45 on 6 October 2025, requires a surface to demonstrate a minimum infiltration rate of two inches per hour, be installed to manufacturer specification, pass inspection and be maintained, and states that if these criteria are not met the surface will be considered impervious, regardless of material type or labeling."
-    ],
-    "sources": [
-     {
-      "label": "21 NCAC 28B .0503(b) — North Carolina Landscape Contractors' Licensing Board rules",
-      "cite": "Artificial turf workmanship standard: \"Ensure that the sub-grade is compacted and shall pitch properly to drain\", plus a perimeter attachment system, nap facing a consistent direction, an evenly weighted sand layer over the whole surface, and the manufacturer's specifications. Effective 1 September 2016, amended 1 July 2021.",
-      "url": "http://reports.oah.state.nc.us/ncac/title%2021%20-%20occupational%20licensing%20boards%20and%20commissions/chapter%2028%20-%20landscape%20contractors/chapter%2028%20rules.pdf",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "N.C. Gen. Stat. 143-214.7D — Stormwater runoff rules and programs",
-      "cite": "Subsection (b)(6) excludes from built-upon area \"Artificial turf, manufactured to allow water to drain through the backing of the turf, and installed according to the manufacturer's specifications over a pervious surface\"; (b)(3) excludes #57 stone at least four inches thick over geotextile fabric; (d) bars a local government from enforcing a definition of built-upon area that does not comply with subsection (b). Enacted by S.L. 2024-49 s. 4.48(b).",
-      "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_143/GS_143-214.7D.html",
-      "checked": "2026-09-08"
-     }
-    ]
-   },
-   {
-    "h2": "Florida's rule is newer than the turf being replaced",
-    "body": [
-     "Almost anything already in a northeast Florida yard went in before Florida had a standard for it. Rule 62-308.100, Florida Administrative Code, carries the history note History-New 5-19-26 and took effect 19 May 2026. A replacement laid on a single-family lot of one acre or less is measured against it. The turf coming out never was.",
-     "The rule reaches the base and not only the carpet. Paragraph (2)(d) requires subgrade materials to be washed before installation. Paragraph (4) requires permeability through the turf, the backing and the subgrade, and bars compacting the soil beneath the subgrade to the point that percolation suffers. Paragraph (9)(b) requires anchoring at all edges and seams.",
-     "Two more paragraphs decide what can go back down. Paragraph (2)(a) prohibits heavy metals and intentionally added PFAS in the system, and (2)(b) requires it to be disposable under normal conditions at any landfill permitted under Chapter 62-701, F.A.C. Florida's own standard for old turf is landfill disposability, not recyclability."
-    ],
-    "sources": [
-     {
-      "label": "Rule 62-308.100, F.A.C. — adopted rule text, Florida Administrative Code",
-      "cite": "(2)(a) heavy metals and intentionally added PFAS prohibited; (2)(b) the system must be disposable under normal conditions at any Chapter 62-701, F.A.C. permitted landfill; (2)(c) infill limited to clean silica sand, rock, shell or other natural material; (2)(d) washed subgrade; (4) permeability through turf, backing and subgrade and no compaction of the soil beneath the subgrade to the extent it adversely impacts percolation; (9)(b) anchoring at all edges and seams. History–New 5-19-26.",
-      "url": "https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Florida Administrative Code rule record — 62-308.100 \"Synthetic Turf\"",
-      "cite": "Chapter 62-308, \"Minimum Standards for the Installation of Synthetic Turf on Specified Properties\". Effective Date: 5/19/2026. History note \"History–New 5-19-26\". Rulemaking Authority and Law Implemented: 125.572 FS.",
-      "url": "https://www.flrules.org/gateway/ruleNo.asp?id=62-308.100",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Florida DEP — \"Minimum Standards for the Installation of Synthetic Turf\" Frequently Asked Questions",
-      "cite": "\"This rule only applies to single-family residential properties that are 1 acre or less in size.\" \"DEP does not issue permits or require authorization for the installation of synthetic turf.\" \"No. DEP is not implementing a permitting, inspection or enforcement program under this rule.\"",
-      "url": "https://floridadep.gov/sites/default/files/SyntheticTurfFAQ%20final.pdf",
-      "checked": "2026-09-08"
-     }
-    ]
-   },
-   {
-    "h2": "In Colorado the replacement is a different event from the original",
-    "body": [
-     "Colorado preserves what is already down and asks a fresh question about what replaces it. C.R.S. 37-99-103(4)(a) grandfathers anything installed before 1 January 2026. The prohibition at 37-99-103(1), narrowed by HB25-1113 to nonfunctional artificial turf, applies to new development and redevelopment projects on commercial, institutional and industrial parcels under 37-99-102(1), on the common elements an association owns and maintains under 37-99-102(5), and on multifamily housing with more than twelve dwelling units under 37-99-102(1.5).",
-     "A redevelopment project is defined at 37-99-102(14) by disturbing more than fifty percent of the aggregate landscape area. On an HOA common area or a commercial parcel, that threshold is what decides whether failed nonfunctional turf can be rebuilt as it was. On a single-family lot Article 99 does not apply in the first place.",
-     "Thornton is the only Denver-metro water provider we found that pays for artificial turf, and its 2026 rules require the turf to replace an area of high-water demand lawn, such as Kentucky Bluegrass, or areas of no landscaping on new construction. Turf replacing turf is neither."
-    ],
-    "sources": [
-     {
-      "label": "Colorado SB24-005, signed act (2024)",
-      "cite": "Creates Title 37 Article 99. 37-99-103(1) prohibition applying to new development and redevelopment projects on applicable property; 37-99-102(1) applicable property (commercial, institutional, industrial and common interest community property); 37-99-102(5) common interest community property as the land a unit owners' association owns and maintains; 37-99-102(14) redevelopment project and the fifty percent aggregate landscape area trigger; 37-99-103(4)(a) grandfathering of installations before 1 January 2026; residential property expressly excluded.",
-      "url": "https://content.leg.colorado.gov/sites/default/files/2024a_005_signed.pdf",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Thornton Water — 2026 Artificial Turf Rules for the Water-Wise Landscape Rebate",
-      "cite": "\"To be eligible for the rebate, artificial turf must replace an area of high-water demand lawn, such as Kentucky Bluegrass, on existing residential lots or areas of no landscaping on new construction residential lots.\" Also requires a minor development permit before installation, backing draining a minimum of two inches per hour, at least three inches of compacted aggregate sub-base, an eight-year fade warranty, and third-party or manufacturer PFAS-free documentation.",
-      "url": "https://www.thorntonwater.com/wp-content/uploads/2026/02/2026-residential_artificial_turf_info__rules-1.pdf",
-      "checked": "2026-09-08"
-     }
-    ]
-   }
-  ],
-  "guide_links": [
-   {
-    "slug": "turf-installer-licensing-by-state",
-    "anchor": "North Carolina's written turf workmanship standard"
-   },
-   {
-    "slug": "nc-vs-sc-built-upon-area",
-    "anchor": "built-upon area in North Carolina and South Carolina"
-   },
-   {
-    "slug": "florida-turf-infill-rules",
-    "anchor": "Florida's turf infill rule"
-   },
-   {
-    "slug": "colorado-turf-law",
-    "anchor": "Colorado's turf law, section by section"
-   },
-   {
-    "slug": "colorado-water-rebates-and-turf",
-    "anchor": "which Denver-metro providers actually pay for artificial turf"
-   }
-  ]
- },
- "grand-strand": {
-  "sections": [
-   {
-    "h2": "Most of the ground here drains slowly",
-    "body": [
-     "Horry County's USDA soil survey divides 736,000 acres into twelve general soil map units. The largest, Yauhannah-Ogeechee-Bladen, is 19 percent of the county and rated moderately well to poorly drained. Woodington-Goldsboro-Pocomoke is another 15.5 percent, rated poorly, moderately well and very poorly drained. The one unit with excessively drained soils, Lakeland-Leon-Newhan on the dunes and ridges along the ocean, is 4.5 percent of the county — 32 percent Lakeland against 15 percent poorly drained Leon.",
-     "Those names carry published water table depths. Under Leon fine sand the water table sits 6 to 18 inches down for one to four months in most years. Woodington runs 0 to 12 inches, December to May. Ogeechee ranges from a foot down to a foot of standing water above the surface. Across the state line, NRCS rates Leon fine sand \"Very limited\" for small commercial buildings in Brunswick County, and gives the reason as depth to saturated zone at 1.00 — the top of the severity scale.",
-     "The sand itself moves water quickly: Baymeade is rated 6 to 20 inches per hour through its top three feet. On the Leon, Woodington and Ogeechee flats, the water table sits between the surface and 18 inches down for months at a time."
-    ],
-    "sources": [
-     {
-      "label": "USDA Official Series Description — LEON",
-      "cite": "\"The water table is at depths of 6 to 18 inches for 1 to 4 months during most years.\"",
-      "url": "https://soilseries.sc.egov.usda.gov/OSD_Docs/L/LEON.html",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "NRCS Web Soil Survey ratings for Brunswick County NC, Small Commercial Buildings",
-      "cite": "Leon fine sand rated \"Very limited\", rating reason \"Depth to saturated zone (1.00)\" — 1.00 being the maximum severity value on the NRCS 0.00-1.00 scale. Baymeade fine sand, 1 to 6 percent slopes, is rated \"Not limited\".",
-      "url": "https://brunswickcountync.gov/DocumentCenter/View/6120/Soil-Survey-Small-Commercial-Buildings",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "USDA Official Series Description — BAYMEADE",
-      "cite": "Saturated hydraulic conductivity 6.0 to 20 in/hr from 0 to 36 inches.",
-      "url": "https://soilseries.sc.egov.usda.gov/OSD_Docs/B/BAYMEADE.html",
-      "checked": "2026-09-08"
-     }
-    ]
-   },
-   {
-    "h2": "Outside the city limits, the board is the permit counter",
-    "body": [
-     "Much of this service area has no town hall. Carolina Forest is a census-designated place in unincorporated Horry County. The county's stormwater ordinance requires a permit at half an acre of land disturbance and exempts single-family residential construction, so an ordinary back-yard job triggers no county permit.",
-     "What is left is the subdivision's covenants, and South Carolina's Homeowners Association Act sets no limit on what those may say. The Act is procedural. S.C. Code 27-30-130 makes governing documents enforceable only once recorded with the county Register of Deeds, and requires rules and amendments to be re-recorded by January 10 each year to stay enforceable.",
-     "South Carolina has 7,600 community associations holding 593,000 housing units. On the North Carolina side the association is built into the subdivision by ordinance: Brunswick County requires that roads not maintained by NCDOT be dedicated to a property owners association, that the association be established before lots are sold, and that membership be mandatory for every buyer."
-    ],
-    "sources": [
-     {
-      "label": "South Carolina Homeowners Association Act, S.C. Code Title 27, Chapter 30",
-      "cite": "Sec. 27-30-130 requires governing documents to be recorded in the county Register of Deeds/RMC to be enforceable, and requires rules, regulations and amendments to be re-recorded by January tenth of each year following their adoption or amendment to remain enforceable. The chapter places no substantive limit on landscaping or architectural restrictions and contains no mention of artificial turf.",
-      "url": "https://www.scstatehouse.gov/code/t27c030.php",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Foundation for Community Association Research, 2025 Statistical Review — Community Associations by State",
-      "cite": "South Carolina: 7,600 community associations, 593,000 housing units, 1,419,000 residents.",
-      "url": "https://foundation.caionline.org/wp-content/uploads/2026/03/2025StatisticalReviewFoundation.pdf",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Brunswick County NC Unified Development Ordinance, Sec. 6.11.2.H.I",
-      "cite": "Roads not maintained by NCDOT \"shall be dedicated to a property owners association\"; \"The property owners association shall be established before the lots are sold\"; \"Membership in the association shall be mandatory for each lot buyer and all successive buyers.\"",
-      "url": "https://www.brunswickcountync.gov/DocumentCenter/View/5460",
-      "checked": "2026-09-08"
-     }
-    ]
-   }
-  ],
-  "guide_links": [
-   {
-    "slug": "nc-vs-sc-built-upon-area",
-    "anchor": "North Carolina says zero, South Carolina says nothing"
-   },
-   {
-    "slug": "is-artificial-turf-impervious",
-    "anchor": "whether artificial turf counts as impervious"
-   },
-   {
-    "slug": "no-turf-rebates-grand-strand",
-    "anchor": "there are no turf rebates in Horry County"
-   },
-   {
-    "slug": "turf-installer-licensing-by-state",
-    "anchor": "what license a turf installer needs in each state"
-   }
-  ]
- },
- "denver-metro": {
-  "sections": [
-   {
-    "h2": "Half the bedrock under this metro swells.",
-    "body": [
-     "The Colorado Geological Survey calls swelling soil and rock one of the most significant, widespread and costly, but least publicized, geologic hazards in Colorado. About half of the roughly thirty sedimentary bedrock formations exposed in the Front Range Urban Corridor contain swelling clay, and CGS says they underlie all of the major cities.",
-     "CGS puts swell pressures at 20,000 pounds per square foot or greater, with soils expanding up to twenty percent by volume when they get wet. In a study of 9,040 Denver-area houses that CGS reports, the 1,056 built on near-surface Pierre Shale had a 38.44 percent damage rate against an 8.95 percent average.",
-     "Infiltration is slow on top of that. Across the six USDA-NRCS survey areas covering this service footprint, 64.3 percent of mapped component acreage sits in hydrologic soil group C or D, the slow and very slow classes. CGS describes granular fill distributing heave in an outwardly shifting, grain-by-grain manner, discourages plastic sheeting because it traps moisture, and recommends a ten percent slope within the first ten feet of a foundation."
-    ],
-    "sources": [
-     {
-      "label": "Colorado Geological Survey — Potentially Swelling Soil and Rock in the Front Range Urban Corridor, Colorado",
-      "cite": "CGS calls swelling clay \"one of the most significant, widespread, and costly, but least publicized, geologic hazards in Colorado.\" Half of the roughly 30 sedimentary bedrock formations exposed in the Front Range Urban Corridor contain swelling clay, and these swelling formations \"underlie all of the major cities.\" Checked 2026-09-07.",
-      "url": "https://coloradogeologicalsurvey.org/publications/potentially-swelling-soil-rock-front-range-urban-corridor-colorado/",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Colorado Geological Survey — Expansive Soil and Rock hazard page",
-      "cite": "Swell pressures of \"20,000 pounds-per-square-foot or greater\"; soils can \"expand up to 20% by volume when exposed to water.\" Checked 2026-09-07.",
-      "url": "https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Colorado Geological Survey Open-File Report 95-05",
-      "cite": "Reports Thompson's (1992b) study of 9,040 houses across 51 Denver metropolitan subdivisions: 1,056 houses built on near-surface Pierre Shale had a damage rate of 38.44 percent, against an 8.95 percent average for all houses in the study. Also: \"the granular fill material is able to distribute heave displacements from underlying expansive beds in an outwardly shifting, grain-by-grain manner, thus decreasing the magnitude and locus of any underground linear heave.\" Checked 2026-09-07.",
-      "url": "https://coloradogeologicalsurvey.org/wp-content/uploads/woocommerce_uploads/OF-95-05.pdf",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Colorado Geological Survey Special Publication 14 — Home Landscaping and Maintenance on Swelling Soil",
-      "cite": "\"The use of plastic sheeting is discouraged because it tends to trap moisture and prevent normal evaporation from occurring. Non-woven geotextile fabrics control weeds and retard infiltration, but still permit evaporation.\" Recommended slope within the first 10 feet of a foundation is 10 percent (12 inches of vertical fall over 10 feet). Checked 2026-09-07.",
-      "url": "https://coloradogeologicalsurvey.org/wp-content/uploads/woocommerce_uploads/SP-14.pdf",
-      "checked": "2026-09-08"
-     }
-    ]
-   },
-   {
-    "h2": "The rebates here pay to take grass out, not to put turf in.",
-    "body": [
-     "Denver Water's turfgrass removal discount runs up to $750 through Resource Central, requires removing at least 200 square feet, and states that artificial turf is not allowed in the replacement landscape. Its HOA and commercial program will not fund designs that include artificial turf either.",
-     "Thornton Water pays for it. Thornton Water offers up to $2 per square foot on 200 to 1,000 square foot projects, capped at $2,000 per lot, and requires a Minor Development Permit before installation, backing that drains at least two inches per hour, PFAS-free documentation, and no more than 25 percent coverage in a front yard.",
-     "Denver Water has declared a Stage 1 drought: mandatory outdoor watering restricted to two assigned days a week, and only before 10 a.m. or after 6 p.m. On August 26, 2026 its board declared an end to the lawn watering season, prohibiting all spray irrigation after September 30. Aurora's Stage 1 rules state that no new cool-weather turf can be installed."
-    ],
-    "sources": [
-     {
-      "label": "Denver Water — turfgrass removal discount",
-      "cite": "\"Application requirements include the removal of at least 200 square feet of water-intensive turf, a photo of the area to be transformed and plans for the new water-wise landscape that will be created (artificial turf is not allowed).\" Discount of up to $750 in 2026, administered by Resource Central. Checked 2026-09-07.",
-      "url": "https://www.denverwater.org/tap/ditching-useless-turf-coloradoscape-we-can-help",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Thornton Water — 2026 Artificial Turf Rules for Water-Wise Landscape Rebate (PDF)",
-      "cite": "\"The residential water-wise landscape rebate provides up to $2 per square foot for qualifying 200 – 1,000 square feet projects. The rebate has a lifetime maximum of $2,000 per residential lot.\" Also: Minor Development Permit required before installation; \"Artificial turf shall not exceed 25% of the landscape area\" in front and unenclosed side yards; backing must drain a minimum of two inches per hour; all products PFAS-free with third-party or manufacturer documentation (\"PFC-free\" not sufficient). Checked 2026-09-07.",
-      "url": "https://www.thorntonwater.com/wp-content/uploads/2026/02/2026-residential_artificial_turf_info__rules-1.pdf",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Aurora Water — drought restrictions",
-      "cite": "\"Irrigation of grass is limited to two days per week… No watering permitted between 10 a.m. and 6 p.m. No new cool-weather turf can be installed.\" Checked 2026-09-07.",
-      "url": "https://www.auroragov.org/residents/water/drought",
-      "checked": "2026-09-08"
-     }
-    ]
-   }
-  ],
-  "guide_links": [
-   {
-    "slug": "colorado-water-rebates-and-turf",
-    "anchor": "which Denver-metro water providers actually pay"
-   },
-   {
-    "slug": "colorado-turf-law",
-    "anchor": "Colorado's artificial turf law, SB24-005 as amended by HB25-1113"
-   },
-   {
-    "slug": "colorado-hoa-turf-rules",
-    "anchor": "what an HOA board can and cannot stop"
-   },
-   {
-    "slug": "is-artificial-turf-impervious",
-    "anchor": "whether artificial turf counts as impervious"
-   }
-  ]
- },
- "northeast-florida": {
-  "sections": [
-   {
-    "h2": "Watering a lawn here is rationed, and has been since May.",
-    "body": [
-     "The St. Johns River Water Management District put a Phase III Extreme Water Shortage over portions of nine counties on 11 May 2026 under Order 2026-017, Nassau, Duval, Clay and St. Johns among them. It was still in force on 3 September 2026. Landscape irrigation is cut to one day a week and banned between 8 a.m. and 6 p.m.",
-     "The ordinary rule underneath that order is not much looser. Rule 40C-2.042, F.A.C., allows twice-weekly irrigation during daylight saving time and once-weekly from November to March, never between 10 a.m. and 4 p.m. Clay County Utility Authority states the restriction reaches private wells, pumps, ground water and surface water too.",
-     "Reclaimed water splits the market. St. Johns County Utility Department tells its customers reclaimed water is not included in the one-day-per-week schedule. JEA says the opposite in its own service area: under the March 2026 shortage declaration, \"all JEA water customers — including potable and reuse customers — are limited to watering lawns one day per week,\" and the restriction \"also applies to reclaimed water customers.\""
-    ],
-    "sources": [
-     {
-      "label": "Clay County Utility Authority — Irrigation information",
-      "cite": "CCUA states the restrictions apply \"to all irrigation water sources, including potable water, private wells, pumps, ground water, and surface water.\"",
-      "url": "https://clayutility.org/residents-business/irrigation-information/",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "St. Johns County — Protect Our Water",
-      "cite": "\"Reclaimed water is not included in the one-day-per-week irrigation schedule.\"",
-      "url": "https://www.sjcfl.us/protect-our-water/",
-      "checked": "2026-09-08"
-     }
-    ]
-   },
-   {
-    "h2": "Sand on top, a slow layer underneath.",
-    "body": [
-     "Spodosols are the dominant soil order in all four counties: 44.8 percent of component acres in Duval, 41.3 in St. Johns, 39.7 in Clay, 39.1 in Nassau. That is sand over an organic-stained subsurface horizon, the layer people here call hardpan. It averages 27.9 to 38.6 inches down and passes water at 2.9 to 5.0 inches an hour, against 12.5 to 14.5 in the sand above it.",
-     "Cemented pan is rare. A query of SSURGO component restrictions across the four counties returns two ortstein layers, both in St. Johns at 56 to 71 inches. What sits under most yards is not rock but sand held together by organic matter.",
-     "Leon, the most common poorly drained component in Duval, Nassau and Clay, has its spodic horizon within 30 inches and a water table between 0 and 18 inches from March to September. Boulogne, whose type location is about five miles south-southwest of Callahan, has its first organic-stained Bh at 10 to 13 inches; its weakly cemented layer is deeper than 50 inches. Clay County is the exception: 12.5 percent of its mapped acres are excessively drained."
-    ],
-    "sources": [
-     {
-      "label": "USDA Official Series Description — Leon series",
-      "cite": "Leon is an Aeric Alaquod, poorly to very poorly drained, with the spodic Bh horizon starting within 30 inches of the surface and a seasonal water table at 0–18 inches, apparent saturation March through September. Leon is the most common poorly drained component in Duval (13.0%), Nassau (10.7%) and Clay (9.1%).",
-      "url": "https://soilseries.sc.egov.usda.gov/OSD_Docs/L/LEON.html",
-      "checked": "2026-09-08"
-     }
-    ]
-   }
-  ],
-  "guide_links": [
-   {
-    "slug": "florida-turf-infill-rules",
-    "anchor": "clean silica sand, rock or shell — not rubber"
-   },
-   {
-    "slug": "is-artificial-turf-impervious",
-    "anchor": "whether a turf base counts as impervious"
-   },
-   {
-    "slug": "florida-friendly-landscaping-and-hoas",
-    "anchor": "what an HOA or CDD can actually stop"
-   }
-  ]
- },
- "services-index": {
-  "sections": [
-   {
-    "h2": "Start with what the space is for",
-    "body": [
-     "Colorado writes this distinction into statute. C.R.S. 37-99-102(6.5), added by HB25-1113, defines functional artificial turf and names the playing area of a golf course inside it: \"a driving range, chipping and putting green, tee box, green, fairway, and rough.\" C.R.S. 37-99-102(12.5) then defines nonfunctional artificial turf as artificial turf that is not functional.",
-     "From 1 January 2026, C.R.S. 37-99-103(1) tells local entities not to install or allow nonfunctional artificial turf on commercial, institutional and industrial property, common interest community property, rights-of-way, parking lots and medians. Recreation, playgrounds and sports surfaces sit on the exempt side. A decorative lawn outside an office building is nonfunctional artificial turf on commercial property, which is what the prohibition reaches.",
-     "A single-family house sits outside it entirely. SB24-005 excluded residential property, and HB25-1113 added back only applicable residential real property, defined at 37-99-102(1.5) as multifamily housing with more than twelve dwelling units."
-    ],
-    "sources": [
-     {
-      "label": "Colorado SB24-005, signed act (2024)",
-      "cite": "Creates Title 37 Article 99. 37-99-103(1) prohibition from 1 January 2026; 37-99-102(1) applicable property and the express exclusion of residential property; 37-99-102(5) common interest community property. Checked 2026-09-07.",
-      "url": "https://content.leg.colorado.gov/sites/default/files/2024a_005_signed.pdf",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Colorado General Assembly — SB24-005 bill page",
-      "cite": "Official summary: prohibits nonfunctional turf, artificial turf or invasive plant species \"on commercial, institutional, or industrial property, common interest community property, or a street right-of-way, parking lot, median, or transportation corridor\"; \"Artificial turf on athletic fields of play is exempted from the prohibitions.\" Checked 2026-09-07.",
-      "url": "https://leg.colorado.gov/bills/sb24-005",
-      "checked": "2026-09-08"
-     }
-    ]
-   },
-   {
-    "h2": "The base changes by market, and the base is most of the job",
-    "body": [
-     "Denver is a clay problem. The Colorado Geological Survey reports that half of the roughly thirty sedimentary bedrock formations exposed in the Front Range Urban Corridor contain swelling clay, and that those formations underlie all of the major cities. In a study of 9,040 Denver-metro houses reported in CGS Open-File Report 95-05, houses on near-surface Pierre Shale had a 38.44 percent damage rate against an 8.95 percent study average, and where alluvium lay over the same shale the rate was 9.49 percent.",
-     "The coast is the opposite problem. The USDA Official Series Description for Leon fine sand, one of the dominant series in Brunswick County, puts the water table at 6 to 18 inches for one to four months in most years, and 0 to 6 inches in low flats. In northeast Florida, SSURGO mapping makes poorly and very poorly drained soils the dominant condition on 71.4 percent of mapped Duval acres, 78.5 percent of St. Johns and 82.2 percent of Nassau.",
-     "The turf itself settles neither question. New Jersey DEP's 2025 review of the science states that a product draining at ten inches per hour does not mean the ground underneath will infiltrate at that rate."
-    ],
-    "sources": [
-     {
-      "label": "Colorado Geological Survey — Potentially Swelling Soil and Rock in the Front Range Urban Corridor",
-      "cite": "Half of the roughly 30 sedimentary bedrock formations exposed in the Front Range Urban Corridor contain swelling clay; those formations \"underlie all of the major cities.\" CGS calls swelling clay \"one of the most significant, widespread, and costly, but least publicized, geologic hazards in Colorado.\" Checked 2026-09-07.",
-      "url": "https://coloradogeologicalsurvey.org/publications/potentially-swelling-soil-rock-front-range-urban-corridor-colorado/",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Colorado Geological Survey Open-File Report 95-05",
-      "cite": "Thompson (1992b), 9,040 houses across 51 Denver metropolitan subdivisions: 1,056 houses built on near-surface Pierre Shale had a damage rate of 38.44 percent against an 8.95 percent average for all houses in the study; where alluvium overlies the Pierre Shale, 643 houses had a damage rate of 9.49 percent. Checked 2026-09-07.",
-      "url": "https://coloradogeologicalsurvey.org/wp-content/uploads/woocommerce_uploads/OF-95-05.pdf",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "USDA Official Series Description — Leon series",
-      "cite": "\"The water table is at depths of 6 to 18 inches for 1 to 4 months during most years. In low flats or sloughs it is at a depth of 0 to 6 [inches]...\" Checked 2026-09-07.",
-      "url": "https://soilseries.sc.egov.usda.gov/OSD_Docs/L/LEON.html",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "New Jersey Department of Environmental Protection — Synthetic Turf: A Review of the Current Science (2025)",
-      "cite": "\"Just because a turf product can drain the standard permeability rate of 10 inches per hour, for example, it does not mean the ground underneath will infiltrate at that same rate.\" Checked 2026-09-07.",
-      "url": "https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf",
-      "checked": "2026-09-08"
-     }
-    ]
-   },
-   {
-    "h2": "Infill and workmanship are where these jobs separate",
-    "body": [
-     "Florida settled the infill question by rule. On a Florida single-family lot of one acre or less, Rule 62-308.100, F.A.C., effective 19 May 2026, limits infill to clean silica sand, rock, shell or other natural material, allows coated silica sand where the coating is non-toxic, and allows rubber or other synthetic infill only within the footprint of playground equipment. Commercial, multifamily, park and athletic-field work sits outside the rule.",
-     "A Sports Health laboratory study found the time to 50 percent loss of MRSA viability ran 2 hours on EPDM rubber, 12 on crumb rubber, 13 on TPE and 27 hours on sand. On heat, a systematic review in the International Journal of Biometeorology reports Petrass and colleagues measuring SBR crumb rubber at 53.5 degrees Celsius against TPE at 45.6. A sand and organic infill plot in the same review measured 48.1 — a separate plot, not a head-to-head against those two.",
-     "North Carolina writes the workmanship steps into its licensing rules."
-    ],
-    "sources": [
-     {
-      "label": "Rule 62-308.100, F.A.C. — adopted rule text, Florida Administrative Code",
-      "cite": "\"Infill material, if used, shall only be clean silica sand, rock, shell, or other natural material, except that coated silica sand may be used provided that any coating used is non-toxic... Rubber or any other synthetic infill material is allowed only within the footprint of playground equipment...\" History–New 5-19-26. Checked 2026-09-08.",
-      "url": "https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Sports Health (2020) — laboratory study of MRSA survival in synthetic turf systems",
-      "cite": "Time to 50% loss of viability by infill: EPDM rubber 2 hours, cork-based 7, polymer-coated 9, crumb rubber 12, TPE rubber 13, sand 27 hours. Checked 2026-09-07.",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7222665/",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "21 NCAC 28B .0503(b) — NC Landscape Contractors' Licensing Board rules",
-      "cite": "\"When installing artificial turf, the licensed contractor shall: (1) Ensure that the sub-grade is compacted and shall pitch properly to drain; (2) Establish a perimeter attachment system to secure the artificial turf; (3) Roll out the turf with the nap facing a consistent direction; (4) Secure the turf with an evenly weighted sand layer distributed over the entire surface; and (5) Follow all manufacturer's specifications for the type of turf being installed.\" Effective 1 September 2016, amended 1 July 2021. Checked 2026-09-07.",
-      "url": "http://reports.oah.state.nc.us/ncac/title%2021%20-%20occupational%20licensing%20boards%20and%20commissions/chapter%2028%20-%20landscape%20contractors/chapter%2028%20rules.pdf",
-      "checked": "2026-09-08"
-     }
-    ]
-   },
-   {
-    "h2": "Indoor, sports and removal ask different questions",
-    "body": [
-     "Outdoors, sunlight runs a clock on the fiber. A UN Environment Programme assessment reports non-stabilized HDPE embrittled after 300 hours of accelerated exposure, and little degradation out to 1,300 hours once a UV absorber and hindered amine light stabilizers are both used. New Jersey DEP's 2025 review calls shade from the built environment and from tree canopies the most promising mitigation techniques. Pfautsch and colleagues recorded 30 mm fibers at 57.5 degrees Celsius in sun and 32.2 in shade.",
-     "The Jacksonville Jaguars' indoor field at the Miller Electric Center uses a coconut fiber and cork infill reported to cut surface temperature by up to 40 degrees Fahrenheit, while the club's two outdoor practice fields are natural grass.",
-     "Replacement has tests of its own. C.R.S. 37-99-103(4)(a) preserves anything installed before 1 January 2026, so nothing already in the ground has to come out. On a covered Florida lot, Rule 62-308.100 (2)(b) requires the system itself to be disposable at a landfill permitted under Chapter 62-701, F.A.C. And North Carolina's built-upon-area exclusion at G.S. 143-214.7D(b)(6) only holds if the turf drains through its backing and was installed to the manufacturer's specification over a pervious surface."
-    ],
-    "sources": [
-     {
-      "label": "Andrady et al. (2023), UN Environment Programme Environmental Effects Assessment Panel review",
-      "cite": "Non-stabilised HDPE \"was embrittled, with its tensile strength extensibility reducing to 21%, in 300 h of exposure\" under xenon-arc accelerated weathering; stabilised with UV absorbers alone \"was stable up to 900 h\"; a UV absorber (0.15 wt%) with hindered amine light stabilisers (0.45 wt%) \"yields synergistic stabilisation with little degradation up to 1300 h.\" Checked 2026-09-07.",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10088630/",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Colorado SB24-005, signed act (2024)",
-      "cite": "37-99-103(4)(a) grandfathers artificial turf installed before 1 January 2026. Checked 2026-09-07.",
-      "url": "https://content.leg.colorado.gov/sites/default/files/2024a_005_signed.pdf",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Rule 62-308.100, F.A.C. — adopted rule text",
-      "cite": "(2)(b) requires that the synthetic turf be disposable at a Chapter 62-701, F.A.C. permitted landfill. Checked 2026-09-08.",
-      "url": "https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "N.C.G.S. 143-214.7D",
-      "cite": "Subsection (b)(6) excludes from built-upon area \"Artificial turf, manufactured to allow water to drain through the backing of the turf, and installed according to the manufacturer's specifications over a pervious surface.\" Checked 2026-09-07.",
-      "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_143/GS_143-214.7D.html",
-      "checked": "2026-09-08"
-     }
-    ]
-   }
-  ],
-  "guide_links": [
-   {
-    "slug": "colorado-turf-law",
-    "anchor": "Colorado's artificial turf law"
-   },
-   {
-    "slug": "colorado-hoa-turf-rules",
-    "anchor": "what a Colorado HOA board can and cannot stop"
-   },
-   {
-    "slug": "colorado-water-rebates-and-turf",
-    "anchor": "which Denver-metro water providers actually pay"
-   },
-   {
-    "slug": "nc-vs-sc-built-upon-area",
-    "anchor": "built-upon area on either side of the Carolina state line"
-   },
-   {
-    "slug": "no-turf-rebates-grand-strand",
-    "anchor": "there are no turf rebates in Horry County"
-   },
-   {
-    "slug": "florida-turf-infill-rules",
-    "anchor": "Florida's infill rule"
-   },
-   {
-    "slug": "florida-friendly-landscaping-and-hoas",
-    "anchor": "Florida-Friendly Landscaping law and HOAs"
-   },
-   {
-    "slug": "turf-installer-licensing-by-state",
-    "anchor": "what license a turf installer actually needs"
-   },
-   {
-    "slug": "is-artificial-turf-impervious",
-    "anchor": "is artificial turf impervious"
-   }
-  ]
- },
- "guides-index": {
-  "sections": [
-   {
-    "h2": "Four states, four different answers",
-    "body": [
-     "Colorado regulates the water. SB24-005 created Article 99 of Title 37 in 2024 and banned artificial turf outright on covered property. HB25-1113 rewrote C.R.S. 37-99-103(1) in 2025 to insert the word NONFUNCTIONAL in front of \"artificial turf,\" and took effect 6 August 2025. The prohibition binds local entities from 1 January 2026 and reaches commercial, institutional and HOA-common property. Single-family homes are outside it.",
-     "North Carolina regulates the runoff, and it decided in the installer's favor. G.S. 143-214.7D(b)(6) says artificial turf manufactured to drain through its backing and installed to the manufacturer's specification over a pervious surface is not built-upon area, and subsection (d) bars a local government from adopting a definition that does not comply.",
-     "South Carolina we found nothing on, in the codes we searched or at state level. We found no equivalent statute, and none of the South Carolina codes we read names artificial turf at all. Horry County's Sec. 17.7-16 counts \"compacted gravel and soil surfaces, awnings and other fabric or plastic coverings\" as impervious without naming turf. North Myrtle Beach's Sec. 23-129.4, added by Ord. No. 25-45 on 6 October 2025, is the one written route through, and only on single-family and duplex work not subject to site-specific development plan review. The surface counts as pervious if it demonstrates a minimum infiltration rate of two inches per hour on manufacturer testing or accepted industry standards, is installed to manufacturer specification, passes inspection and is maintained. \"If these criteria are not met, the surface will be considered impervious, regardless of material type or labeling.\"",
-     "Florida regulates the build. Section 125.572, Florida Statutes, created by HB 683 in 2025, stops a local government prohibiting compliant synthetic turf on single-family residential property once DEP adopts standards, and DEP adopted them as Rule 62-308.100, F.A.C., effective 19 May 2026. DEP's own FAQ narrows what that means: the rule applies to single-family residential property of one acre or less, DEP issues no permits, runs no inspection or enforcement program, and does not address HOA requirements."
-    ],
-    "sources": [
-     {
-      "label": "Colorado SB24-005, signed act (2024)",
-      "cite": "Creates Title 37 Article 99; original 37-99-103(1) prohibition from 1 January 2026 on commercial, institutional and industrial property and common interest community property; residential property expressly excluded. Checked 2026-09-07.",
-      "url": "https://content.leg.colorado.gov/sites/default/files/2024a_005_signed.pdf",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "N.C.G.S. 143-214.7D, Stormwater runoff rules and programs",
-      "cite": "(b)(6) excludes from built-upon area \"Artificial turf, manufactured to allow water to drain through the backing of the turf, and installed according to the manufacturer's specifications over a pervious surface\"; (d) bars a local government from enacting, implementing or enforcing an ordinance, comprehensive plan or stormwater program with a definition of built-upon area or impervious surface that does not comply with subsection (b). Checked 2026-09-07.",
-      "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_143/GS_143-214.7D.html",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Horry County Code of Ordinances, Sec. 17.7-16 (stormwater utility definitions)",
-      "cite": "\"Common impervious surfaces include, but are not limited to, rooftops, sidewalks, walkways, patio areas, driveways, parking lots, storage areas, compacted gravel and soil surfaces, awnings and other fabric or plastic coverings...\" Artificial turf is not named. Checked 2026-09-07.",
-      "url": "https://library.municode.com/sc/horry_county/codes/code_of_ordinances?nodeId=COOR_CH17.7STMA_ARTIISTUTFE_S17.7-16DE",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Section 125.572, Florida Statutes — Regulation of synthetic turf",
-      "cite": "Created by HB 683 (2025), ch. 2025-140. Subsection (3)(a) bars a local government from prohibiting a property owner from installing synthetic turf \"that complies with Department of Environmental Protection standards adopted pursuant to this section\" on single-family residential property, once DEP adopts rules under subsection (4). Checked 2026-09-07.",
-      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0100-0199%2F0125%2FSections%2F0125.572.html",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Florida Administrative Code rule record — 62-308.100 \"Synthetic Turf\"",
-      "cite": "Chapter 62-308, \"Minimum Standards for the Installation of Synthetic Turf on Specified Properties\". Effective Date: 5/19/2026. History note \"History–New 5-19-26\". Checked 2026-09-08.",
-      "url": "https://www.flrules.org/gateway/ruleNo.asp?id=62-308.100",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Florida DEP — \"Minimum Standards for the Installation of Synthetic Turf\" Frequently Asked Questions",
-      "cite": "\"This rule only applies to single-family residential properties that are 1 acre or less in size.\" \"DEP does not issue permits or require authorization for the installation of synthetic turf.\" \"No. DEP is not implementing a permitting, inspection or enforcement program under this rule.\" \"No. This rule does not address HOA requirements, deed restrictions or other private property agreements.\" Checked 2026-09-08.",
-      "url": "https://floridadep.gov/sites/default/files/SyntheticTurfFAQ%20final.pdf",
-      "checked": "2026-09-08"
-     }
-    ]
-   },
-   {
-    "h2": "Rebates, boards and licenses",
-    "body": [
-     "C.R.S. 37-60-135 bars state grant money from replacing turf with artificial turf by name, the Colorado Water Conservation Board stopped accepting applications in March 2025, and single-family homeowners and HOAs were never eligible applicants. Denver Water, Aurora, Castle Rock, Erie and Centennial each exclude artificial turf from their own programs in writing. Thornton is the one Denver-metro provider we found paying for it: up to $2 per square foot on 200 to 1,000 square foot projects, $2,000 lifetime per lot, with a written specification attached. On the Grand Strand there is nothing to apply for.",
-     "HOA power is state-specific. Colorado declares a covenant prohibiting nonvegetative turf grass in the back yard of a residential property contrary to public policy and unenforceable at C.R.S. 37-60-126(11)(a)(I), with a 45-day written notice to cure and a remedy of the greater of five hundred dollars or actual damages under C.R.S. 38-33.3-106.5(1)(i.5). Florida's Florida-Friendly Landscaping statute, s. 373.185, never mentions artificial turf. The statute that does is s. 720.3045.",
-     "No state here licenses turf installation as a trade. South Carolina's general contracting threshold is ten thousand dollars under SC Code 40-11-30. North Carolina exempts landscaping work under thirty thousand dollars at G.S. 89D-13(5), and above it requires the license number on business cards, contracts and vehicles. Colorado's DORA list of regulated professions carries no contractor, landscape or turf credential at all. Florida preempted the licensing of occupations to the state at s. 163.211, and local licensing of occupations expired on 1 July 2025."
-    ],
-    "sources": [
-     {
-      "label": "Colorado Water Conservation Board — Turf Replacement Program",
-      "cite": "C.R.S. 37-60-135 bars grant money from being used to replace turf with artificial turf; CWCB \"is no longer accepting applications\" as of March 2025; single-family homeowners and HOAs listed as ineligible entities. Checked 2026-09-07.",
-      "url": "https://cwcb.colorado.gov/turf-replacement-program",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Thornton Water — 2026 Artificial Turf Rules for Water-Wise Landscape Rebate",
-      "cite": "\"The residential water-wise landscape rebate provides up to $2 per square foot for qualifying 200 – 1,000 square feet projects. The rebate has a lifetime maximum of $2,000 per residential lot.\" Conditions include a Minor Development Permit before installation, a minimum eight-year warranty against fading, backing that drains at a minimum of two inches per hour, PFAS-free documentation, a three-inch compacted aggregate sub-base and glued rather than sewn seams. Checked 2026-09-07.",
-      "url": "https://www.thorntonwater.com/wp-content/uploads/2026/02/2026-residential_artificial_turf_info__rules-1.pdf",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Grand Strand Water & Sewer Authority — Water Conservation / Smart Irrigation pages",
-      "cite": "No rebate, incentive or irrigation-meter program is listed. Research also searched the Horry County, Myrtle Beach and North Myrtle Beach codes and found no water-conservation rebate or landscape-conversion incentive provisions. Checked 2026-09-07.",
-      "url": "https://www.gswsa.com/Community.cfm?page=35",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "C.R.S. 37-60-126, current text",
-      "cite": "Subsection (11)(a)(I): a covenant, declaration, bylaw or rule of a common interest community or special district that \"prohibits the use of nonvegetative turf grass in the backyard of a residential property is hereby declared contrary to public policy and, on that basis, is unenforceable.\" Checked 2026-09-07.",
-      "url": "https://codes.findlaw.com/co/title-37-water-and-irrigation/co-rev-st-sect-37-60-126/",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Colorado SB23-178, signed act (2023)",
-      "cite": "Adds C.R.S. 38-33.3-106.5(1)(i.5) for detached single-family units: guidelines must not prohibit nonvegetative turf grass in the backyard; 45-day written notice to cure and a remedy of the greater of five hundred dollars or actual damages. Checked 2026-09-07.",
-      "url": "https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Fla. Stat. 373.185 — Florida-friendly landscaping; Fla. Stat. 720.3045 — installation, display and storage of items",
-      "cite": "Fla. Stat. § 373.185(1)(b), (3)(b)–(c) (2025); Fla. Stat. § 720.3045 (2025), history s. 3, ch. 2023-64; s. 6, ch. 2024-221. Checked 2026-09-07.",
-      "url": "https://www.flsenate.gov/Laws/Statutes/2025/0373.185",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "SC Code Ann. Title 40 Chapter 11 — Contractors' Licensing Board",
-      "cite": "40-11-30: \"No entity or individual may practice as a contractor by performing or offering to perform contracting work for which the total cost of construction is greater than ten thousand dollars for general contracting... without a license issued in accordance with this chapter.\" Threshold raised from $5,000 by 2023 Act No. 69. No landscaping classification appears in the chapter. Checked 2026-09-07.",
-      "url": "https://www.scstatehouse.gov/code/t40c011.php",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "N.C. Gen. Stat. Chapter 89D — Landscape Contractors",
-      "cite": "89D-13(5) exempts landscaping work under thirty thousand dollars ($30,000) in any consecutive 12-month period per job site and bars local governments from requiring licensure for that work. 89D-12(e) requires the license number \"on all business cards, contracts, and vehicles used by the contractor.\" Checked 2026-09-07.",
-      "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_89D.html",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Colorado DORA, Division of Professions and Occupations — regulated professions",
-      "cite": "The published occupational list contains no general contractor, landscape contractor, hardscape, irrigation or synthetic-turf credential. Checked 2026-09-07.",
-      "url": "https://dpo.colorado.gov/About",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Fla. Stat. 163.211 — preemption of occupational licensing",
-      "cite": "\"The licensing of occupations is expressly preempted to the state.\" Local licensing of occupations in place before 1 January 2021 \"expires on July 1, 2025.\" Checked 2026-09-07.",
-      "url": "https://www.flsenate.gov/Laws/Statutes/2025/163.211",
-      "checked": "2026-09-08"
-     }
-    ]
-   },
-   {
-    "h2": "What we have not settled",
-    "body": [
-     "Two published readings of Colorado's multifamily date disagree. The Division of Real Estate told its 2025 HOA Forum that the twelve-plus-unit expansion applies on or after 1 January 2026. Western Resource Advocates' compliance guide and the Town of Fraser's staff report read the same obligation as 1 January 2028. We have not resolved which is right.",
-     "Georgetown County, South Carolina and Columbus County, North Carolina were not researched, and Murrells Inlet sits in Georgetown, not Horry. Horry County's stormwater utility service charge credit manual could not be obtained. Castle Pines North Metropolitan District publishes no sentence naming artificial turf, so any exclusion there is inference rather than text.",
-     "Every page below carries the date we last checked it, and lists its sources at the foot with the statute section and the link."
-    ],
-    "sources": [
-     {
-      "label": "Colorado Division of Real Estate — 2025 HOA Forum legislative summaries",
-      "cite": "States the twelve-plus-unit expansion applies \"on or after January 1, 2026\". Checked 2026-09-07.",
-      "url": "https://dre.colorado.gov/sites/dre/files/documents/2025-07-25%20HOA%20Forum%202025%20Legislative%20Summaries.pdf",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Western Resource Advocates — SB24-005 simplified compliance guide (2025)",
-      "cite": "Reads the multifamily obligation as 1 January 2028. Checked 2026-09-07.",
-      "url": "https://westernresourceadvocates.org/wp-content/uploads/2025/08/2025_SB24-005_Simplified-Guide.pdf",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Town of Fraser — staff report on local compliance with SB24-005 and HB25-1113",
-      "cite": "Municipal implementation reading the multifamily obligation as 1 January 2028. Checked 2026-09-08.",
-      "url": "https://www.frasercolorado.com/AgendaCenter/ViewFile/Item/7839?fileID=10590",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Research gap — Georgetown County, South Carolina and Columbus County, North Carolina",
-      "cite": "Neither county's impervious-surface or stormwater provisions were researched. Murrells Inlet is in Georgetown County, not Horry, and is a separate permitting jurisdiction with its own codes and fees. Checked 2026-09-07.",
-      "url": "",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Horry County Code Sec. 17.7-18 — stormwater utility service charge credit",
-      "cite": "Authorizes a credit for on-site detention or retention per the county's stormwater utility service charge credit manual, which we could not obtain; horrycountysc.gov refused connections during research. Checked 2026-09-07.",
-      "url": "https://library.municode.com/sc/horry_county/codes/code_of_ordinances?nodeId=COOR_CH17.7STMA_ARTIISTUTFE_S17.7-17STSECHRA",
-      "checked": "2026-09-08"
-     },
-     {
-      "label": "Castle Pines North Metropolitan District — Conservation Rebates & Discounts",
-      "cite": "NOT FOUND: no sentence naming artificial turf on the page or in the program table PDF — the exclusion is by implication only. Checked 2026-09-07.",
-      "url": "https://www.cpnmd.org/conservation-rebates-discounts",
-      "checked": "2026-09-08"
-     }
-    ]
-   }
-  ],
-  "guide_links": []
- }
+  },
+  "guides-index": {
+    "sections": [],
+    "guide_links": []
+  }
 }

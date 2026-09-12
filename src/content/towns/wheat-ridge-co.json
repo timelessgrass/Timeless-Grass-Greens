@@ -1,0 +1,85 @@
+{
+  "status": "published",
+  "market": "denver-metro",
+  "name": "Wheat Ridge",
+  "state": "CO",
+  "county": "Jefferson",
+  "title": "Artificial Turf in Wheat Ridge, CO | TIMELESS Grass & Greens",
+  "description": "Make more of your Wheat Ridge back yard. Plan a lawn, pet area or putting green for a deep or irregular lot.",
+  "h1": "Make more of your Wheat Ridge back yard.",
+  "lede": "Plan a lawn, pet area or putting green for a deep or irregular lot. We’ll discuss the layout and installation scope during a free visit.",
+  "wins": [
+    "Use the lot’s length for a purposeful green",
+    "Keep trees and worn paths in the plan",
+    "Identify known buried features before preparation"
+  ],
+  "answer": {
+    "question": "How can a deep Wheat Ridge yard work for a putting green?",
+    "answer": "Use the available length for putting lines you want to practice, leaving walking room and access to the far end. A green can sit separately from the pet area or main lawn. Show us the boundaries, trees and any known old irrigation or buried features before deciding the scope."
+  },
+  "blocks": [
+    {
+      "icon": "layout",
+      "kicker": "An irregular lot",
+      "h2": "The turf can follow how you use the yard.",
+      "paras": [
+        "A long property does not need one continuous lawn. Compare a useful area near the patio, a dog’s route and a green farther back. Keep the paths between them clear and retain planting you value.",
+        "At the visit, walk the full delivery route. Gates, outbuildings and narrow turns can matter even when there is plenty of open space at the far end."
+      ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "An older garden property",
+      "h2": "Bring what you know about earlier work.",
+      "paras": [
+        "Some Wheat Ridge properties have a history of garden or greenhouse use. If you know of old footings, irrigation laterals or buried remnants, show us where. Include wet areas and any existing drainage information so preparation can be planned for the actual work area.",
+        "Confirm applicable City or property requirements and ask for removal, preparation and unresolved conditions to be stated in the estimate. Use the provider on your water bill for any cost or incentive comparison."
+      ]
+    }
+  ],
+  "services": [
+    "residential-turf",
+    "putting-greens",
+    "pet-turf"
+  ],
+  "servicesNote": "Compare a lawn, putting green and pet area as separate parts of a usable deep yard.",
+  "faq": [],
+  "nearby": [
+    "arvada-co",
+    "applewood-co",
+    "edgewater-co",
+    "lakewood-co"
+  ],
+  "sources": [
+    {
+      "label": "Wheat Ridge, Colorado (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Wheat_Ridge,_Colorado"
+    },
+    {
+      "label": "Colorado Geological Survey: expansive soil and rock",
+      "url": "https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/"
+    },
+    {
+      "label": "Consolidated Mutual Water Company",
+      "url": "https://www.cmwc.net/"
+    },
+    {
+      "label": "Denver Water: summer watering rules and drought stage",
+      "url": "https://www.denverwater.org/residential/rebates-and-conservation-tips/summer-watering-rules"
+    },
+    {
+      "label": "Denver Water: turfgrass removal discount",
+      "url": "https://www.denverwater.org/tap/ditching-useless-turf-coloradoscape-we-can-help"
+    },
+    {
+      "label": "Colorado SB23-178, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf"
+    },
+    {
+      "label": "Applewood Golf Course",
+      "url": "https://www.applewoodgc.com/"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

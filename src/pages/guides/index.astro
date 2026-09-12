@@ -1,25 +1,17 @@
 ---
-import Extra from '../../components/Extra.astro';
 import OfferPanel from '../../components/OfferPanel.astro';
 import Base from '../../layouts/Base.astro';
-import EXTRA from '../../data/extra.json';
 import { GUIDES } from '../../data/guides';
 import { MARKETS } from '../../data/markets';
-import { phone } from '../../data/brief';
 const crumbs = [
   { name: 'Home', item: `${Astro.site}` },
   { name: 'Guides', item: `${Astro.site}guides/` },
 ];
 const label = (m: string) => MARKETS.find((x) => x.slug === m)?.name ?? 'All markets';
-/* The offer takes whichever ground the last research section did not, so no two neighbours
-   match. Extra with startDark puts even-numbered sections on the band; sources come last. */
-const secs = (EXTRA as Record<string, { sections: { sources: unknown[] }[] }>)['guides-index']?.sections ?? [];
-const last = secs.some((s) => s.sources.length > 0) ? secs.length : secs.length - 1;
-const offerBand = last < 0 || last % 2 === 1;
 ---
 <Base
-  title="Turf Rules by State &amp; County | TIMELESS Grass &amp; Greens"
-  description={`Artificial turf rules in Colorado, the Carolinas and Florida: HOAs, rebates, infill, permits and licensing, with the statutes cited. Call ${phone}.`}
+  title="Turf Planning Guides | TIMELESS Grass &amp; Greens"
+  description="Plan a turf project in Colorado, the Carolinas or northeast Florida. Find practical guidance on property approvals, drainage, materials and comparing installers."
   crumbs={crumbs}
 >
   <section class="hero hero--sub turf-marks turf-marks--dark">
@@ -27,12 +19,11 @@ const offerBand = last < 0 || last % 2 === 1;
       <nav class="crumbs" aria-label="Breadcrumb">
         <a href="/">Home</a> <span aria-hidden="true">/</span> <span>Guides</span>
       </nav>
-      <h1>What the rules actually say.</h1>
+      <h1>Plan your turf project.</h1>
       <hr class="rule-ribbon" />
       <p class="hero__lede">
-        Turf rules changed in Colorado, differ across the Carolina state line, and limit what goes
-        under turf on Florida home lawns. Here&rsquo;s what each rule says, and what it means for
-        your yard.
+        Find the questions to ask before choosing turf, approving a layout or comparing estimates.
+        Start with the guide that fits your property and the decision you need to make.
       </p>
     </div>
   </section>
@@ -55,8 +46,6 @@ const offerBand = last < 0 || last % 2 === 1;
     </div>
   </section>
 
-  <Extra slug="guides-index" startDark />
-
   <!-- every page ends on the offer -->
-  <OfferPanel band={offerBand} cta="guides-index" />
+  <OfferPanel band cta="guides-index" />
 </Base>

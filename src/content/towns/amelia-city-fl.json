@@ -1,0 +1,84 @@
+{
+  "status": "published",
+  "market": "northeast-florida",
+  "name": "Amelia City",
+  "state": "FL",
+  "county": "Nassau",
+  "title": "Artificial Turf in Amelia City, FL | TIMELESS Grass & Greens",
+  "description": "Lawns and putting greens for Amelia City properties. Plan a lawn, pet area or practice green around the wooded setting of the south island.",
+  "h1": "Lawns and putting greens for Amelia City properties.",
+  "lede": "Plan a lawn, pet area or practice green around the wooded setting of the south island. Start with a free visit and written installation estimate.",
+  "wins": [
+    "Keep trees and existing paths in view",
+    "Choose a useful lawn or practice area",
+    "Include waterfront conditions in the scope"
+  ],
+  "answer": {
+    "question": "What should an Amelia City turf project consider first?",
+    "answer": "Choose the usable part of the yard and identify trees, drainage features and any waterfront restrictions. Amelia City is unincorporated Nassau County, so confirm the applicable county and community requirements for the address before finalizing the layout."
+  },
+  "blocks": [
+    {
+      "icon": "flag",
+      "kicker": "A wooded island yard",
+      "h2": "Fit the green into a clearing you can reach.",
+      "paras": [
+        "A putting green can leave the rest of a wooded lot intact. Choose the putts you want, the route from the house and room to walk around the surface. A lawn or pet area closer to the door can remain separate.",
+        "Mark tree canopy and roots before discussing preparation. Keep leaves and other debris in the care plan, and establish any required tree advice before proposing work beneath the canopy."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Marsh or beach side",
+      "h2": "Let the actual property set the boundary.",
+      "paras": [
+        "On an Amelia River-facing lot, bring known shoreline and drainage information and show where water collects. Near the beach, identify any coastal or dune restrictions before placing the work area. A surface replacement alone will not resolve a wet-yard problem.",
+        "Use Nassau County requirements for an unincorporated parcel, plus the current rules of any private community. Do not assume Fernandina Beach’s historic review applies to the entire island or that a south-island address has no review at all."
+      ]
+    }
+  ],
+  "services": [
+    "residential-turf",
+    "putting-greens",
+    "pet-turf"
+  ],
+  "servicesNote": "Compare a lawn, pet area and putting green for the usable space among the existing landscape.",
+  "faq": [],
+  "nearby": [
+    "amelia-island-fl",
+    "fernandina-beach-fl",
+    "nassauville-fl"
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia: Amelia City, Florida",
+      "url": "https://en.wikipedia.org/wiki/Amelia_City,_Florida"
+    },
+    {
+      "label": "Nassau County: Future Land Use Element background",
+      "url": "https://www.nassaucountyfl.com/DocumentCenter/View/18158/12--Background-DA--Future-Land-Use-Element"
+    },
+    {
+      "label": "Action News Jax: Phase III extreme water shortage declaration",
+      "url": "https://www.actionnewsjax.com/news/local/phase-iii-extreme-water-shortage-declaration-issued-by-st-johns-river-water-management-district/QAIYQ7AZPFCQNJG37B3DU5XPBU/"
+    },
+    {
+      "label": "St. Johns River Water Management District: watering restrictions",
+      "url": "https://www.sjrwmd.com/wateringrestrictions/"
+    },
+    {
+      "label": "Wikipedia: Amelia Island State Park",
+      "url": "https://en.wikipedia.org/wiki/Amelia_Island_State_Park"
+    },
+    {
+      "label": "Destination Amelia: golf courses",
+      "url": "https://www.destinationamelia.com/activities/golf-courses/"
+    },
+    {
+      "label": "Nassau County: Amelia Island Tree Commission workshop agenda",
+      "url": "https://www.nassaucountyfl.com/DocumentCenter/View/27568/052224-WORKSHOP---Agenda---Amelia-Island-Tree-Commission"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

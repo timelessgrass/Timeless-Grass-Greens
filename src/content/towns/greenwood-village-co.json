@@ -1,0 +1,97 @@
+{
+  "status": "published",
+  "market": "denver-metro",
+  "name": "Greenwood Village",
+  "state": "CO",
+  "county": "Arapahoe",
+  "title": "Artificial Turf in Greenwood Village, CO | TIMELESS Grass & Greens",
+  "description": "A backyard green in Greenwood Village. Make putting practice part of the yard, with lawn and pet-turf options around it.",
+  "h1": "A backyard green in Greenwood Village.",
+  "lede": "Make putting practice part of the yard, with lawn and pet-turf options around it. Get a free visit, custom layout and written estimate.",
+  "wins": [
+    "Choose the shots you want to practice",
+    "Fit the green between existing landscape features",
+    "Define the work for an acreage or courtyard lot"
+  ],
+  "answer": {
+    "question": "How should a Greenwood Village green differ between an acreage and a courtyard?",
+    "answer": "On acreage, choose a useful practice area without spreading across drainage or property access. In a courtyard, start with the longest practical putting line and walking space. Bring the requirements for the property and any association before finalizing either layout."
+  },
+  "blocks": [
+    {
+      "icon": "flag",
+      "kicker": "A few steps from the patio",
+      "h2": "Place the green where practice is easy to fit in.",
+      "paras": [
+        "Choose the putting distances and any chipping position before selecting the outline. A green near the house may see more use than a larger one beyond the garden. Preserve the paths and planting that make the yard comfortable.",
+        "A courtyard can favor a single clear line; an acreage property can offer several approaches. Neither needs extra cups simply because there is room for them."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Different kinds of Village property",
+      "h2": "Keep rural systems and shared-space limits visible.",
+      "paras": [
+        "On a Rural Homestead property, bring known well, utility and drainage information. Where ditches or valley pans serve the lot, mark them before drawing the turf boundary. On a managed courtyard property, confirm who can authorize the change and use of shared access.",
+        "Ask Greenwood Village and the relevant association about the complete landscape proposal. Check the name on your water bill before using another neighborhood’s cost or incentive in your comparison."
+      ]
+    }
+  ],
+  "services": [
+    "putting-greens",
+    "residential-turf",
+    "pet-turf"
+  ],
+  "servicesNote": "Start with a practice green, or compare a lawn and pet area for the space beside it.",
+  "faq": [],
+  "nearby": [
+    "cherry-hills-village-co",
+    "centennial-co",
+    "cherry-creek-co",
+    "englewood-co"
+  ],
+  "sources": [
+    {
+      "label": "City of Greenwood Village: community resources",
+      "url": "https://www.greenwoodvillage.com/1083/Community-Resources"
+    },
+    {
+      "label": "Colorado SB23-178, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf"
+    },
+    {
+      "label": "City of Greenwood Village: 2018 Comprehensive Plan",
+      "url": "https://greenwoodvillage.com/DocumentCenter/View/18538/2018-Final-Comprehensive-Plan"
+    },
+    {
+      "label": "Colorado Geological Survey: expansive soil and rock",
+      "url": "https://coloradogeologicalsurvey.org/geologic-hazards/expansive-soil-rock/"
+    },
+    {
+      "label": "City of Greenwood Village: adopted codes and manuals",
+      "url": "https://www.greenwoodvillage.com/2501/Adopted-Codes-Manuals"
+    },
+    {
+      "label": "Willows Water District",
+      "url": "https://willowswater.org/"
+    },
+    {
+      "label": "Denver Water: drought and Stage 1 restrictions",
+      "url": "https://www.denverwater.org/drought"
+    },
+    {
+      "label": "Denver Water: turfgrass removal discount",
+      "url": "https://www.denverwater.org/tap/ditching-useless-turf-coloradoscape-we-can-help"
+    },
+    {
+      "label": "South Suburban Parks and Recreation",
+      "url": "https://ssprd.org/about/"
+    },
+    {
+      "label": "Colorado HB25-1113, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2025a_1113_signed.pdf"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

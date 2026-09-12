@@ -1,20 +1,19 @@
 #!/usr/bin/env python3
-"""The scale gate. Nothing thin, nothing orphaned, nothing broken, nothing buried.
+"""Built-site integrity checks: no broken routes, orphaned pages or buried content.
 
   python3 scripts/check-links.py dist
 
-The plan calls for this to fail the deploy. It is the only thing standing between a
-170-page town tier and a doorway-page manual action, so it runs on every build once
-the existing pages clear it.
+Word counts are editorial diagnostics. They cannot establish whether a page is useful,
+original or factually supported; those decisions belong to content review.
 
 Four rules, all measured on the built HTML:
 
-  THIN-1   an indexable page under the word floor (default 600, visible words in <main>)
+  LENGTH-1 optional short-page review hint, enabled with --min-words; never fails a build
   ORPHAN-1 an indexable page with no inbound <a href> from any other page
   DEPTH-1  an indexable page more than N clicks from / (default 3)
   BROKEN-1 an internal href that resolves to no built file
 
-noindex pages (/404/, /thanks/) are exempt from THIN-1, ORPHAN-1 and DEPTH-1 by design:
+noindex pages (/404/, /thanks/) are exempt from length hints, ORPHAN-1 and DEPTH-1 by design:
 they are utility routes, deliberately unlinked and deliberately out of the sitemap.
 
 Sitewide chrome (header, menu panel, footer) links every page from every page, which would
@@ -77,7 +76,7 @@ def normalise(href, origin_host):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('out', nargs='?', default='dist')
-    ap.add_argument('--min-words', type=int, default=600)
+    ap.add_argument('--min-words', type=int, default=0, help='Optional editorial length hint; does not fail the build.')
     ap.add_argument('--max-depth', type=int, default=3)
     ap.add_argument('--warn-only', action='store_true')
     a = ap.parse_args()
@@ -157,7 +156,7 @@ def main():
     for route in sorted(indexable):
         p = pages[route]
         if p['words'] < a.min_words:
-            fails.append(f'THIN-1 {route} — {p["words"]} words in <main>, floor is {a.min_words}')
+            warns.append(f'LENGTH-1 {route} — {p["words"]} words in <main>; review usefulness, not padding')
         if route != '/' and not inbound[route]:
             fails.append(f'ORPHAN-1 {route} — no inbound link from the body of any page')
         d = depth.get(route)
@@ -171,15 +170,15 @@ def main():
     words.sort()
     print(f'{len(pages)} pages · {len(indexable)} indexable · '
           f'words in <main>: min {words[0]}, median {words[len(words)//2]}, max {words[-1]}')
-    print(f'{n_thin} under the {a.min_words}-word floor\n')
+    if a.min_words:
+        print(f'{n_thin} below the optional {a.min_words}-word review threshold\n')
 
     for f_ in fails:
         print(f'  x FAIL {f_}')
     for w in warns:
         print(f'  ! WARN {w}')
     if fails:
-        print(f'\nNOT SHIPPABLE: {len(fails)} failure(s). '
-              f'A thin or orphaned page at scale is a doorway signal.')
+        print(f'\nBUILD CHECK FAILED: {len(fails)} route or navigation failure(s).')
         return 0 if a.warn_only else 1
     print(f'\nSCALE OK ({len(warns)} warnings)')
     return 0

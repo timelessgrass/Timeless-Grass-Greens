@@ -1,0 +1,89 @@
+{
+  "status": "published",
+  "market": "denver-metro",
+  "name": "Foxfield",
+  "state": "CO",
+  "county": "Arapahoe",
+  "title": "Artificial Turf in Foxfield, CO | TIMELESS Grass & Greens",
+  "description": "A lawn, pet area or putting green on your Foxfield acreage. Choose a useful outdoor area near the house while keeping the rest of the property working.",
+  "h1": "A lawn, pet area or putting green on your Foxfield acreage.",
+  "lede": "Choose a useful outdoor area near the house while keeping the rest of the property working. Start with a free site visit and written estimate.",
+  "wins": [
+    "Keep wells, septic and access in the plan",
+    "Separate a dog area from other animal use",
+    "Use available room for putting and chipping"
+  ],
+  "answer": {
+    "question": "How should turf be planned around a Foxfield well and septic system?",
+    "answer": "Bring the recorded locations and any applicable requirements for those systems before placing the turf area. Obtain suitable guidance before proposing preparation over or near a septic component. Keep access available, and account for any cleaning water the chosen turf use will need."
+  },
+  "blocks": [
+    {
+      "icon": "paw",
+      "kicker": "Around the house",
+      "h2": "Give dogs a defined area beside the larger property.",
+      "paras": [
+        "A pet area near the door can be separate from drives, paddocks and a practice green. Plan the route your dogs use, cleanup access and the edge where turf meets the rest of the ground. Do not assume pet turf is intended for every animal or paddock use.",
+        "For golf, use the available room for purposeful putts and a chipping position. Leave room for routine property access rather than spreading the green across a route you still need."
+      ]
+    },
+    {
+      "icon": "shield",
+      "kicker": "Before the boundary is final",
+      "h2": "Locate the systems beneath the land.",
+      "paras": [
+        "Show us well and septic records, known utilities and any existing drainage features. Ask the appropriate authority or system professional about proposed work nearby. A large lot does not make every open area available for excavation or compaction.",
+        "Foxfield has Town requirements for grading and lot coverage. Ask how they apply to the whole proposal and bring the response to the estimate. If you rely on a well, check its permitted use when planning cleaning and the planting that will remain."
+      ]
+    }
+  ],
+  "services": [
+    "residential-turf",
+    "pet-turf",
+    "putting-greens"
+  ],
+  "servicesNote": "Compare a lawn near the house, a dedicated dog area and a practice green around the property’s existing uses.",
+  "faq": [],
+  "nearby": [
+    "centennial-co",
+    "aurora-co",
+    "dove-valley-co",
+    "stonegate-co"
+  ],
+  "sources": [
+    {
+      "label": "Town of Foxfield: water and septic",
+      "url": "https://townoffoxfield.colorado.gov/residents/utilities/water-and-septic"
+    },
+    {
+      "label": "Town of Foxfield: land use and master plan",
+      "url": "https://townoffoxfield.colorado.gov/government/land-use-and-master-plan"
+    },
+    {
+      "label": "Foxfield Municipal Code §16-2-50: Large Lot Rural Residential District",
+      "url": "http://foxfield-co.elaws.us/code/mc_ch16_art2_sec16-2-50"
+    },
+    {
+      "label": "Foxfield Municipal Code §16-4-20: keeping and raising of animals",
+      "url": "http://foxfield-co.elaws.us/code/mc_ch16_art4_sec16-4-20"
+    },
+    {
+      "label": "Colorado State University Extension: private wells for home use",
+      "url": "https://extension.colostate.edu/topic-areas/natural-resources/private-wells-for-home-use-6-700/"
+    },
+    {
+      "label": "ACWWA: water efficiency",
+      "url": "https://www.acwwa.com/31/Water-Efficiency"
+    },
+    {
+      "label": "ACWWA: our water",
+      "url": "https://www.acwwa.com/27/Our-Water"
+    },
+    {
+      "label": "USDA Soil Data Access (SSURGO): Heldt clay, 0 to 3 percent slopes",
+      "url": "https://sdmdataaccess.sc.egov.usda.gov/"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}

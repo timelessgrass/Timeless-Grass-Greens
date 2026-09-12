@@ -1,0 +1,93 @@
+{
+  "status": "published",
+  "market": "northeast-florida",
+  "name": "Baldwin",
+  "state": "FL",
+  "county": "Duval",
+  "title": "Artificial Turf in Baldwin, FL | TIMELESS Grass & Greens",
+  "description": "Lawns, dog areas and putting greens in Baldwin. Plan a useful turf area near the house or a green on the space you have.",
+  "h1": "Lawns, dog areas and putting greens in Baldwin.",
+  "lede": "Plan a useful turf area near the house or a green on the space you have. We offer free visits and written installation estimates for Baldwin properties.",
+  "wins": [
+    "Keep septic and utility access available",
+    "Choose the dog’s area or putting space",
+    "Plan the work for the actual parcel"
+  ],
+  "answer": {
+    "question": "What matters when planning turf on a septic-served Baldwin property?",
+    "answer": "Locate the tank and other system components before choosing the turf boundary. Keep pumpout and service access available, and obtain appropriate advice before excavation or compaction near the system. Bring the property plan, proposed use and known wet areas to the visit."
+  },
+  "blocks": [
+    {
+      "icon": "paw",
+      "kicker": "Around the home",
+      "h2": "A defined dog area can leave the acreage alone.",
+      "paras": [
+        "Start with the route from the door and the spot the dogs use most. Plan cleanup access and how turf meets paths, drives or the rest of the yard. Turf needs waste pickup and cleaning. Describe any existing odor or drainage problem so its cause and any additional work can be considered.",
+        "For a green, choose putting and chipping distances you will use, leaving room for ordinary property access."
+      ]
+    },
+    {
+      "icon": "pin",
+      "kicker": "Town or rural address",
+      "h2": "Check the parcel and the systems beneath it.",
+      "paras": [
+        "Baldwin retains its own Town government. Confirm whether the work is within Town limits or elsewhere in Duval County before seeking local guidance. Larger parcels may require a different review from the single-family properties covered by Florida’s turf standard.",
+        "Mark septic lids, wells and known utilities before discussing preparation. If the lawn stays wet, bring rain photos and identify any further drainage advice needed separately from the turf quote."
+      ]
+    }
+  ],
+  "services": [
+    "pet-turf",
+    "residential-turf",
+    "putting-greens"
+  ],
+  "servicesNote": "Compare a pet area, lawn or green as a defined part of the land around your home.",
+  "faq": [],
+  "nearby": [
+    "jacksonville-fl",
+    "oakleaf-plantation-fl",
+    "lakeside-fl",
+    "nassau-village-ratliff-fl"
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia: Baldwin, Florida",
+      "url": "https://en.wikipedia.org/wiki/Baldwin,_Florida"
+    },
+    {
+      "label": "Town of Baldwin Code of Ordinances (Municode)",
+      "url": "https://library.municode.com/FL/Baldwin"
+    },
+    {
+      "label": "USDA Official Series Description: Leon series",
+      "url": "https://soilseries.sc.egov.usda.gov/OSD_Docs/L/LEON.html"
+    },
+    {
+      "label": "Town of Baldwin: official site (watering schedule, drinking water report)",
+      "url": "https://baldwinfl.govoffice2.com/"
+    },
+    {
+      "label": "St. Johns River Water Management District: water shortage orders",
+      "url": "https://www.sjrwmd.com/water-supply/water-shortage/"
+    },
+    {
+      "label": "TrailLink: Jacksonville-Baldwin Rail Trail",
+      "url": "https://www.traillink.com/trail/jacksonville-baldwin-rail-trail/"
+    },
+    {
+      "label": "Timucuan Parks: Jacksonville-Baldwin Rail Trail",
+      "url": "https://www.timucuanparks.org/parks/jacksonville-baldwin-rail-trail/"
+    },
+    {
+      "label": "Ch. 2025-140, Laws of Florida (HB 683), creating Fla. Stat. 125.572",
+      "url": "https://laws.flrules.org/files/Ch_2025-140.pdf"
+    },
+    {
+      "label": "DEP Rule 62-308.100, F.A.C.: synthetic turf (adopted rule text)",
+      "url": "https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc"
+    }
+  ],
+  "checked": "2026-09-07",
+  "publicReferences": []
+}
