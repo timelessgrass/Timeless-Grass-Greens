@@ -109,6 +109,11 @@ export const GRAND_STRAND_INTERIOR_IDS = new Set([
   'shallotte-nc', 'calabash-nc', 'carolina-shores-nc', 'sunset-beach-nc', 'ocean-isle-beach-nc',
 ]);
 
+// Places inside the client's drawn Denver and northeast Florida outlines that earned a page once the
+// territory was reconciled. The drawn outline decides, not the county name.
+export const DENVER_INTERIOR_IDS = new Set([]);
+export const NORTHEAST_FLORIDA_INTERIOR_IDS = new Set([]);
+
 export function townEligibility(id, data) {
   if (!MARKET_STATES[data.market]?.includes(data.state) || !id.endsWith(`-${data.state?.toLowerCase()}`)) {
     return { eligible: false, reason: 'State, market and town slug must agree.' };
@@ -119,6 +124,12 @@ export function townEligibility(id, data) {
   }
   if (data.market === 'grand-strand' && GRAND_STRAND_INTERIOR_IDS.has(id)) {
     return { eligible: true, reason: 'Recorded Grand Strand outline anchor or interior locality.' };
+  }
+  if (data.market === 'denver-metro' && DENVER_INTERIOR_IDS.has(id)) {
+    return { eligible: true, reason: 'Inside the drawn Denver metro outline.' };
+  }
+  if (data.market === 'northeast-florida' && NORTHEAST_FLORIDA_INTERIOR_IDS.has(id)) {
+    return { eligible: true, reason: 'Inside the drawn northeast Florida outline.' };
   }
   return { eligible: false, reason: 'Resolve service-area eligibility before publishing this locality.' };
 }

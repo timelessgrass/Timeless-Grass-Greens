@@ -42,7 +42,7 @@ test('conflicting town and service URLs stop generation', () => {
 const root = fileURLToPath(new URL('../', import.meta.url));
 const read = (file) => fs.readFileSync(path.join(root, file), 'utf8');
 
-test('short pages pass built-site checks and optional length hints do not hide broken links', (t) => {
+test('the word floor fails a short content page, and broken links fail either way', (t) => {
   const dir = fs.realpathSync(fs.mkdtempSync(path.join(os.tmpdir(), 'timeless short pages ')));
   t.after(() => fs.rmSync(dir, { recursive: true, force: true }));
   fs.mkdirSync(path.join(dir, 'planning'));
@@ -51,20 +51,19 @@ test('short pages pass built-site checks and optional length hints do not hide b
   fs.writeFileSync(path.join(dir, 'planning/index.html'), planning);
   const run = (...args) => spawnSync('python3', [path.join(root, 'scripts/check-links.py'), dir, ...args], { encoding: 'utf8' });
 
-  const normal = run();
-  assert.equal(normal.status, 0, normal.stdout + normal.stderr);
-  assert.doesNotMatch(normal.stdout, /LENGTH-1|FAIL/);
-  const advisory = run('--min-words', '600');
-  assert.equal(advisory.status, 0, advisory.stdout + advisory.stderr);
-  assert.match(advisory.stdout, /WARN LENGTH-1 \/planning\//);
-  assert.match(advisory.stdout, /SCALE OK/);
+  const floor = run();
+  assert.equal(floor.status, 1, floor.stdout + floor.stderr);
+  assert.match(floor.stdout, /FAIL THIN-1 \/planning\//);
+  const fixture = run('--min-words', '0');
+  assert.equal(fixture.status, 0, fixture.stdout + fixture.stderr);
+  assert.doesNotMatch(fixture.stdout, /THIN-1|FAIL/);
+  assert.match(fixture.stdout, /SCALE OK/);
 
   fs.writeFileSync(path.join(dir, 'planning/index.html'), planning.replace('</main>', '<a href="/missing/">Missing next step</a></main>'));
-  for (const args of [[], ['--min-words', '600']]) {
+  for (const args of [[], ['--min-words', '0']]) {
     const broken = run(...args);
     assert.equal(broken.status, 1, broken.stdout + broken.stderr);
     assert.match(broken.stdout, /FAIL BROKEN-1 \/planning\/ → \/missing\//);
-    assert.doesNotMatch(broken.stdout, /FAIL LENGTH-1/);
   }
 });
 
