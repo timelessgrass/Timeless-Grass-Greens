@@ -5,17 +5,17 @@ description: Turf lifespan depends on the product, use, care and installation. C
 h1: How long does artificial turf last?
 topic: Care and lifespan
 published: '2026-09-10'
-updated: '2026-09-11'
+updated: '2026-09-12'
 answer:
   question: How long does artificial turf last?
   answer: There is no dependable single lifespan for every home lawn. Product quality, sun, use, care and the installation all affect when work is needed. Ask for the exact product’s written terms and care requirements, and assess the surface’s condition when deciding between maintenance, repair and replacement.
 faq:
   - q: How long does artificial grass last in a back yard?
-    a: 'There is no official number for yards. The published figures are for sports fields: about 10 to 12 years with proper maintenance in <a href="https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf" target="_blank" rel="nofollow noopener">New Jersey''s 2025 report</a>, and 8 to 10 years, or 10 to 12 with good care, by <a href="https://sportsvenuecalculator.com/knowledge/artificial-turf-field/turf-field-replacement-and-recycling/" target="_blank" rel="nofollow noopener">one industry estimate</a>. A yard''s life depends on its sun, its pets and how hard it is used.'
+    a: A home lawn’s life depends on the product, sun, use, care and installation. Published ranges are planning estimates, not a replacement date or a product guarantee. Our <a href="/blog/why-people-remove-artificial-grass/">repair and replacement article</a> discusses the conditional residential estimate from UF/IFAS. Compare the exact product’s written terms with the condition and use of your own lawn.
   - q: What wears artificial turf out fastest?
     a: Sunlight, use and weather. <a href="https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf" target="_blank" rel="nofollow noopener">New Jersey's report</a> names UV radiation, mechanical stress from running and sliding, and rain, snow and temperature swings. It adds that brushing and grooming wear the fibers too, so care should be regular but not heavy-handed.
   - q: What are the signs turf needs replacing?
-    a: Seams that keep coming loose, color fading toward gray-green, loose fibers and infill piling up at the edges, and split blades, by <a href="https://sportsvenuecalculator.com/knowledge/artificial-turf-field/turf-field-replacement-and-recycling/" target="_blank" rel="nofollow noopener">one industry guide</a>. A smell that rinsing won't shift, or puddles that never used to form, point to the base underneath.
+    a: Seams that keep coming loose, color fading toward gray-green, loose fibers and infill piling up at the edges, and split blades, by <a href="https://sportsvenuecalculator.com/knowledge/artificial-turf-field/turf-field-replacement-and-recycling/" target="_blank" rel="nofollow noopener">one industry guide</a>. Persistent odor or new puddles warrant an assessment of care, infill and drainage. Neither symptom establishes which layer needs work or whether replacement is necessary.
   - q: What happens to old turf?
     a: Usually the landfill. <a href="https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf" target="_blank" rel="nofollow noopener">New Jersey's report</a> found it is standard practice to landfill or burn old synthetic turf, and that options to reuse or recycle it are still few.
 sources:
@@ -43,13 +43,13 @@ publicReferences:
   - https://cdn.ymaws.com/staging-stc.site-ym.com/resource/resmgr/guidelines/STC_Suggested_Guidelines_for.pdf
 ---
 
-## Fields last about a decade. Yards have no official number
+## Use lifespan estimates in context
 
 Most of the published numbers come from sports fields. New Jersey's environment department summed up the research in a [2025 report](https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf): with proper maintenance, synthetic turf fields are expected to last about 10 to 12 years, and then the surface has to come out and be replaced.
 
 [One industry estimate](https://sportsvenuecalculator.com/knowledge/artificial-turf-field/turf-field-replacement-and-recycling/) lands in the same range: usually 8 to 10 years for a field, and 10 to 12 with good care.
 
-We found no government or university figure for home lawns. Most yards see far less traffic than a ball field that hosts games every night. They get the same sun, though, and often a dog. So treat the field numbers as a reference point, not a promise, and look at the three things that actually wear turf out.
+Home-lawn estimates need their own context. Our [repair and replacement article](/blog/why-people-remove-artificial-grass/) discusses UF/IFAS’s conditional residential estimate. A sports field’s maintenance and use are different from a backyard’s, so its replacement range is not a prediction for your lawn. Compare product documentation, exposure and actual condition before deciding what work is needed.
 
 ## Sunlight is the main clock
 

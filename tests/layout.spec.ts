@@ -61,6 +61,10 @@ for (const route of ['/blog/how-to-read-a-turf-quote/', '/guides/is-artificial-t
   test(`contents links point to actual headings: ${route}`, async ({ page }) => {
     const response = await page.goto(route);
     expect(response?.status()).toBe(200);
+    const disclosure = page.locator('[data-reading-contents]');
+    if (!await disclosure.evaluate(node => (node as HTMLDetailsElement).open)) {
+      await disclosure.locator('summary').click();
+    }
     const contents = page.getByRole('navigation', { name: 'On this page', exact: true });
     await expect(contents).toBeVisible();
     const links = contents.locator('a');

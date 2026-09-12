@@ -24,6 +24,7 @@ function enhance(form: HTMLFormElement): Wizard {
   const submit = form.querySelector<HTMLButtonElement>('[type="submit"]');
   const done = form.querySelector<HTMLElement>('[data-wiz-done]');
   const sendError = form.querySelector<HTMLElement>('[data-wiz-send-error]');
+  const presetNote = form.querySelector<HTMLElement>('[data-wiz-preset-note]');
   let cur = 0;
   let busy = false;
   let advanceTimer: number | undefined;
@@ -43,6 +44,7 @@ function enhance(form: HTMLFormElement): Wizard {
     if (back) back.hidden = cur === 0;
     if (next) next.hidden = cur === total - 1;
     if (submit) submit.hidden = cur !== total - 1;
+    if (cur !== 0 && presetNote) presetNote.hidden = true;
   };
   const say = (s: Element, msg: string) => { const e = s.querySelector('.wiz__err'); if (e) e.textContent = msg; };
   const valid = (i: number, point = true): boolean => {
@@ -121,17 +123,31 @@ function enhance(form: HTMLFormElement): Wizard {
   show(0);
   return {
     reset(preset) {
+      if (busy) return;
+      window.clearTimeout(advanceTimer);
       if (form.classList.contains('is-done')) {
         form.reset();
         form.classList.remove('is-done');
         if (done) done.hidden = true;
         steps.forEach((s) => say(s, ''));
         if (sendError) sendError.textContent = '';
+        if (presetNote) presetNote.hidden = true;
         show(0);
       }
-      if (preset && cur === 0) {
-        const r = Array.from(form.querySelectorAll<HTMLInputElement>('input[name="use"]')).find((x) => x.value === preset);
-        if (r) { r.checked = true; show(1, 1); }
+      if (preset) {
+        const choices = Array.from(form.querySelectorAll<HTMLInputElement>('input[name="use"]'));
+        const requested = choices.find((x) => x.value === preset);
+        const selected = choices.find((x) => x.checked);
+        if (!requested) return;
+        if (selected && selected !== requested) {
+          requested.checked = true;
+          say(steps[0], '');
+          show(0, -1);
+          if (presetNote) presetNote.hidden = false;
+        } else if (cur === 0 && (!presetNote || presetNote.hidden)) {
+          requested.checked = true;
+          show(1, 1);
+        }
       }
     },
     focus,

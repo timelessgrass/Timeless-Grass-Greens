@@ -5,7 +5,7 @@ description: Plan daycare turf around the equipment, tested surfacing, shade and
 h1: Planning artificial turf for a daycare play yard
 topic: Commercial and sports
 published: '2026-09-10'
-updated: '2026-09-11'
+updated: '2026-09-12'
 answer:
   question: Can a daycare use artificial turf in its play yard?
   answer: A daycare may be able to use artificial turf, but the complete surface must suit the equipment and meet the requirements for that program. Confirm the proposal with the licensing authority before ordering. Ask for test documentation for the turf and any pad together, then plan shade, drainage and cleaning.
@@ -17,7 +17,7 @@ faq:
   - q: Is artificial turf too hot for a play yard?
     a: It can be in full sun. The <a href="https://www.cpsc.gov/s3fs-public/325.pdf" target="_blank" rel="nofollow noopener">CPSC handbook</a> warns that some dark surfacing in intense sun has caused blistering on bare feet, and suggests shade. Florida's handbook requires shade in the outdoor play area, and <a href="https://www.scstatehouse.gov/coderegs/Chapter%20114.pdf" target="_blank" rel="nofollow noopener">South Carolina's center rule</a> puts slides and uncoated metal equipment in the shade.
   - q: How do we keep turf clean at a daycare?
-    a: Put it on the schedule. In a <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7222665/" target="_blank" rel="nofollow noopener">2020 laboratory study</a>, MRSA stayed recoverable for up to 96 hours on infill and 24 hours on turf fibers. The <a href="https://cdn.ymaws.com/staging-stc.site-ym.com/resource/resmgr/guidelines/STC_Guidelines_for_Maintenan.pdf" target="_blank" rel="nofollow noopener">Synthetic Turf Council</a> says to remove organic material as soon as possible, and <a href="https://ask.ifas.ufl.edu/publication/EP612" target="_blank" rel="nofollow noopener">UF/IFAS notes</a> that many manufacturers recommend weekly wash-downs.
+    a: Assign responsibility for prompt waste and debris removal, regular condition checks and the care required by the selected surface. Use compatible cleaning products according to their labels, including return-to-use directions. Confirm the routine against the program’s requirements and keep the instructions available to staff.
 sources:
   - label: 'Colorado 8 CCR 1402-1, section 2.230 (child care centers): indoor/outdoor equipment, materials and surfaces, effective 15 December 2023'
     url: https://www.law.cornell.edu/regulations/colorado/8-CCR-1402-1-2.230
@@ -127,11 +127,12 @@ One Florida rule doesn't apply to most centers. The state's residential syntheti
 
 **Heat.** Turf runs hotter than grass in direct sun; our article on [how hot artificial turf gets](/blog/how-hot-does-artificial-turf-get/) has the measurements. The CPSC handbook warns that some dark surfacing in intense sun has caused blistering on bare feet, and suggests shade. Put shade over the busiest play areas first. In Florida it's required anyway.
 
-**Hygiene.** Sand isn't sterile. In a [2020 laboratory study in Sports Health](https://pmc.ncbi.nlm.nih.gov/articles/PMC7222665/), MRSA stayed recoverable for up to 96 hours on infill and 24 hours on turf fibers. Time to 50% loss of viability ran from 2 hours on EPDM rubber to 27 hours on sand. On a surface children sit and lie on, that calls for a written cleaning routine:
+**Hygiene.** Plan the cleaning routine before opening the play yard. Assign responsibility, keep the selected surface’s instructions available and confirm how cleaning fits the program’s operating requirements.
 
-- Remove organic material as soon as possible, as the [Synthetic Turf Council](https://cdn.ymaws.com/staging-stc.site-ym.com/resource/resmgr/guidelines/STC_Guidelines_for_Maintenan.pdf) advises.
-- Rinse on a set day. [UF/IFAS](https://ask.ifas.ufl.edu/publication/EP612) notes that many manufacturers recommend weekly wash-downs.
-- Use only cleaning products the turf maker approves. The Synthetic Turf Council warns against cleaners with alcohol or acetone solvents.
+- Remove waste and debris promptly, as the [Synthetic Turf Council](https://cdn.ymaws.com/staging-stc.site-ym.com/resource/resmgr/guidelines/STC_Guidelines_for_Maintenan.pdf) advises.
+- Inspect the areas where children sit and play, and adjust care to actual use and the manufacturer’s instructions.
+- Use products compatible with the turf system. Follow label directions for application, rinsing and when children may return.
+- Record recurring pooling, residue or damage so it can be assessed before deciding on additional treatment or repair.
 
 ## A planning checklist for directors
 

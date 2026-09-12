@@ -5,7 +5,7 @@ description: Keep the green clear, follow its brushing and infill guidance and c
 h1: How do you care for a backyard putting green?
 topic: Putting greens
 published: '2026-09-10'
-updated: '2026-09-11'
+updated: '2026-09-12'
 answer:
   question: How do you care for a backyard putting green?
   answer: Keep debris off the green, follow the product’s brushing instructions and inspect seams, edges and cups. If the ball starts rolling differently, clear the surface and note where it changes before adding infill or adjusting anything. Ask the installer for a care routine suited to the actual green and use.
@@ -104,7 +104,7 @@ Don't wait on a lifting seam. Once an edge rises, infill and water get under it 
 
 **Sun.** UV light is what breaks turf fibers down over time, the New Jersey report says. You cannot brush that away, so it is worth weighing when you decide where a green goes.
 
-**Heat.** Synthetic turf gets hot in full sun. [Brigham Young University](https://www.westcoastturf.com/getdoc.cfm?id=38) measured a daytime average of 117°F. Putting is played in shoes, so mornings and evenings are the comfortable times on a sunny green. A rinse cools it only briefly: in the same study, watering dropped the surface from 174°F to 85°F, but it was back to 120°F five minutes later.
+**Heat.** Synthetic turf gets hot in full sun. [Brigham Young University](https://www.westcoastturf.com/getdoc.cfm?id=38) measured a daytime average of 117°F. Consider times with less sun exposure, plan shaded seating and check actual conditions before playing. Neither shoes nor time of day establishes that a sunny green will be comfortable. A rinse cools it only briefly: in the same study, watering dropped the surface from 174°F to 85°F, but it was back to 120°F five minutes later.
 
 **Snow.** In the Denver metro, let snow melt off the green where you can. The New Jersey report lists careless snow clearing and piling among the ways infill leaves a field, and every scoop that scrapes the surface takes some with it.
 

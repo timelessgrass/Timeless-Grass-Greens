@@ -213,3 +213,11 @@ These decisions supersede the earlier pinned/stacked Process and overlay-gallery
 - `sources` is internal evidence. `publicReferences` deliberately selects useful external links; an empty selection renders nothing. PublicReferences uses descriptive labels and never prints internal source annotations or checked-date logs.
 - Revised HTML, metadata, FAQ/schema and Markdown mirrors describe the same public answer. Internal research stays out of hidden public appendices and machine-only content.
 - Preserve real limitations and evidence. Do not replace technical padding with invented testimonials, prices, project locations, credentials or performance promises.
+
+## Article and guide reading layout, September 12, 2026
+
+- One main reading column, up to 720px, with 17–18px body text and 1.75 line height. The short answer and estimate sit in a tonal inset above the article.
+- At 1000px and wider, the contents list occupies a separate sticky rail. On phones it is a native disclosure before the body. Without JavaScript, the contents stays expanded and links still work.
+- Thin section rules and a short green marker separate topics. Practical checklists get one tonal list with numbered or bulleted rows. Do not turn every paragraph into a card.
+- Comparison tables retain real table markup inside a keyboard-scrollable region. Instructions appear on small screens when the columns need horizontal scrolling.
+- Reading headings and the article body stay visible without reveal animations. Preserve heading IDs, metadata, useful links, estimate behavior and Markdown mirrors when changing the layout.

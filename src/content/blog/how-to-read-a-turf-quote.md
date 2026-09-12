@@ -5,7 +5,7 @@ description: Use a turf quote checklist to compare the area, product, preparatio
 h1: What should an artificial turf quote include?
 topic: Costs and planning
 published: '2026-09-10'
-updated: '2026-09-11'
+updated: '2026-09-12'
 answer:
   question: What should an artificial turf quote include?
   answer: A useful turf quote identifies the measured area, layout, exact materials and work included in the price. It should explain preparation, drainage, seams, edges, removal and cleanup, along with timing and payment terms. Compare those details before comparing totals, and put agreed changes in writing.
@@ -17,7 +17,7 @@ faq:
   - q: How should payments be structured?
     a: The <a href="https://consumer.ftc.gov/articles/how-avoid-home-improvement-scam" target="_blank" rel="nofollow noopener">FTC</a> advises against paying the full amount up front, and against making the final payment until the work is done and you're satisfied. Some states limit down payments, and your state or local consumer agency can tell you the rule where you live.
   - q: Does a turf installer need a license?
-    a: It depends on the state and the size of the job. <a href="https://www.scstatehouse.gov/code/t40c011.php" target="_blank" rel="nofollow noopener">South Carolina</a> requires a contractor's license for work over $10,000. <a href="https://dpo.colorado.gov/About" target="_blank" rel="nofollow noopener">Colorado</a> has no state contractor or turf license, and <a href="https://www.flsenate.gov/Laws/Statutes/2025/489.105" target="_blank" rel="nofollow noopener">Florida's contractor categories</a> don't include turf. Irrigation or electrical work on the same job can need a license of its own.
+    a: It depends on the jurisdiction and full scope. In South Carolina, <a href="https://www.scstatehouse.gov/code/t40c011.php" target="_blank" rel="nofollow noopener">Section 40-11-30</a> requires a license for general contracting over $10,000. That does not establish the classification of every turf installation. Give LLR the address, property type, scope and contract value to confirm the applicable Board and category, including separate residential or specialty requirements. Do not infer an exemption from a lower quote total. <a href="https://dpo.colorado.gov/About" target="_blank" rel="nofollow noopener">Colorado</a> has no state contractor or turf license, and <a href="https://www.flsenate.gov/Laws/Statutes/2025/489.105" target="_blank" rel="nofollow noopener">Florida's contractor categories</a> don't include turf. Irrigation or electrical work on the same job can need a license of its own.
 sources:
   - label: 'Federal Trade Commission (July 2022): How To Avoid a Home Improvement Scam'
     url: https://consumer.ftc.gov/articles/how-avoid-home-improvement-scam

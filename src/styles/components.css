@@ -85,7 +85,7 @@
 .hero--home .hero__cta { justify-content: center; }
 /* sub variant (legacy .hero--sub + .doc__head) */
 .hero--sub, .doc__head { padding-top: clamp(2rem, 5vw, 3.4rem); }
-.doc__head { background: var(--ground-dark); color: var(--ink-on-dark); position: relative; isolation: isolate; }
+.doc__head { background: var(--ground-dark); color: var(--ink-on-dark); position: relative; isolation: isolate; padding-bottom: clamp(2rem, 5vw, 3.4rem); }
 .doc__head h1 { color: var(--ink-on-dark); font-size: clamp(2rem, 5.4vw, 3.8rem); max-width: 22ch; }
 .doc__head .micro { color: var(--accent-on-dark); }
 .doc__head .crumbs, .doc__head .crumbs a { color: var(--ink-on-dark-faint); }

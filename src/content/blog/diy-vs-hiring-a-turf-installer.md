@@ -5,7 +5,7 @@ description: 'Compare the complete turf job: access, removal, preparation, drain
 h1: Should you install artificial turf yourself or hire an installer?
 topic: Costs and planning
 published: '2026-09-10'
-updated: '2026-09-11'
+updated: '2026-09-12'
 answer:
   question: Should you install artificial turf yourself or hire an installer?
   answer: DIY depends on whether you can plan and carry out the complete installation, including preparation, drainage, seams and material handling. Hiring may be useful when the site or intended use adds complexity. Compare the same scope and include tools, disposal, time and any required specialist work.
@@ -118,7 +118,7 @@ Where a rule gives a number, it's specific. [Thornton's rebate rules](https://ww
 
 ## If you hire
 
-No state we work in licenses turf installation as a trade. South Carolina requires a contractor's license for work over $10,000, under [SC Code 40-11](https://www.scstatehouse.gov/code/t40c011.php). Colorado has no state contractor or turf license, so any requirement is local. Our [installer licensing guide](/guides/turf-installer-licensing-by-state/) sets out each state.
+Check licensing against the complete work being offered. In South Carolina, [Section 40-11-30](https://www.scstatehouse.gov/code/t40c011.php) requires a license for general contracting when the total construction cost exceeds $10,000. That threshold does not classify every turf job as general contracting or settle requirements for work below it. Give South Carolina LLR the address, property type, scope and contract value, and confirm the applicable Board and classification, including any separate residential or specialty work. Our [installer licensing guide](/guides/turf-installer-licensing-by-state/) explains the checks for each state.
 
 Whoever you hire, get a written quote that names the base, the drainage, the turf, the infill, and how the seams and edges are held. Our guide to [reading a turf quote](/blog/how-to-read-a-turf-quote/) goes line by line.
 

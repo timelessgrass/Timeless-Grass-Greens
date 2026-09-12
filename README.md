@@ -22,7 +22,7 @@ npx playwright install chromium
 npm test
 ```
 
-`npm test` runs TypeScript checks, publication/territory tests, a real build with temporary unpublished fixtures, and desktop/mobile browser tests. Every test POST is intercepted locally. These tests verify the form experience, not Netlify notification delivery.
+`npm test` runs TypeScript checks, publication/territory tests, an isolated fixture build, the full production build and desktop/mobile browser tests. Rendering fixtures cover unpublished records and compact pages with empty FAQs without changing working content. Every test POST is intercepted locally. These tests verify the form experience, not Netlify notification delivery.
 
 `npm run preview -- --host 127.0.0.1` serves the generated `dist` directory. A static preview does not provide Netlify Forms processing.
 
@@ -30,7 +30,11 @@ npm test
 
 Town, regional-service and blog records use `status: draft`, `review` or `published`. Missing status defaults to draft. All three states require the full collection schema; keep incomplete briefs in `plans/`. Only published records generate pages, hub links, sitemap entries and Markdown copies.
 
-New locality pages also need approved service territory and sourced, distinct customer value. Territory eligibility is in `src/data/service-territory.mjs`; research is in `src/data/cities/` and `src/data/local-evidence.json`. Page length is a diagnostic, not a publication requirement. Build checks catch missing sources, unsupported numeric claims, repeated text, conflicting routes and broken/orphan links; editorial review still determines whether a page is useful.
+New locality pages also need approved service territory and sourced, distinct customer value. Territory eligibility is in `src/data/service-territory.mjs`; research is in `src/data/cities/`, `src/data/local-evidence.json` and `src/data/local-evidence/`. There is no minimum word count. A page should answer the buyer's question, explain the relevant project choices and offer a clear next step; remove repetition while preserving useful detail. Build checks catch missing sources, unsupported numeric claims, repeated text, conflicting routes and broken/orphan links; editorial review still determines whether a page is useful. For an optional short-page review list, run `python3 scripts/check-links.py dist --min-words 600`; length warnings alone never fail the check.
+
+Articles and guides offer an estimate after the short answer as well as at the end. An article about a single service carries that service into the estimate form; readers can change it with Back. Keep the offer distinct from the factual answer and preserve the full reading/navigation path.
+
+Reading pages share a text-and-contents grid. `ReadingContents.astro` keeps heading links beside desktop articles and in a native disclosure on phones; it remains open without JavaScript. Article and guide headings stay visible during scrolling and anchor jumps. Checklist lists and scrollable comparison tables use semantic HTML and the existing palette.
 
 The current site contains 89 town/locality pages, six regional-service pages and 29 articles, alongside the service, market and guide pages. The Grand Strand research and expansion queue are in `plans/seo-aeo/`.
 

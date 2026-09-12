@@ -5,7 +5,7 @@ description: Weeds can grow in debris on turf or around its edges. Remove them c
 h1: Can weeds grow in artificial grass?
 topic: Care and lifespan
 published: '2026-09-10'
-updated: '2026-09-11'
+updated: '2026-09-12'
 answer:
   question: Can weeds grow in artificial grass?
   answer: Yes. Seeds can establish in accumulated debris, and growth can also appear around edges or through parts of an installation. Clear loose material and deal with young weeds carefully using compatible methods. Neither the location of a weed nor the presence of a barrier proves where every root started.
@@ -113,11 +113,11 @@ Moss and algae grow in the same debris, so the same routine handles them too: se
 
 ## A weeds checklist
 
-- **Where are they?** Edges and spots under trees mean they're starting on top.
+- **Where are they?** Record the patches and look for collected soil, leaves or seeds. Location is a clue to investigate, not proof of where the roots started.
 - **Pull them young**, whole root and all.
 - **Clear leaves and debris** weekly in leaf season.
-- **Brush** at least monthly.
+- **Brush** as the product’s instructions and actual debris buildup require.
 - **Keep solid borders** along planting beds, with any fabric tucked out of sight.
-- **Weeds through the middle of the lawn** point to the ground under it. That's a base problem, and the fix is underneath.
+- **Recurring or deep-rooted growth:** have it assessed before lifting turf or changing the base. Ask which part of the installation needs attention and how that was established.
 
 On the free visit we measure the space and check the ground, including what's growing in it now, before anything is priced.

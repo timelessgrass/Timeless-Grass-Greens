@@ -48,11 +48,11 @@
     {
       "icon": "file",
       "kicker": "Who signs off",
-      "h2": "Your drawings go to the Shores before they go to the county.",
+      "h2": "Check the Shores requirements before county submissions.",
       "paras": [
-        "An exterior change here is reviewed by the Architectural Control Committee of the St. Augustine Shores Service Corporation, and its manual sets the order plainly: every drawing bound for the St. Johns County Building Department, surveys included, must be submitted to the ACC first. Paperwork reaches the Shores office at least a week before a committee meeting, you or your contractor should be at that meeting, and the committee has 30 days to approve or reject (<a href=\"https://web.archive.org/web/20250504100211/https://staugshores.com/wp-content/uploads/2025/01/ACC-Manual-revised-Jan-2025.pdf\" target=\"_blank\" rel=\"nofollow noopener\">ACC Manual, January 2025</a>). Approval can be withheld over the grading plan alone, so bring one.",
+        "The January 2025 Architectural Control Committee manual available in the archive sets this order for St. Augustine Shores Service Corporation submissions: every drawing bound for the St. Johns County Building Department, surveys included, must be submitted to the ACC first. Paperwork reaches the Shores office at least a week before a committee meeting, you or your contractor should be at that meeting, and the committee has 30 days to approve or reject (<a href=\"https://web.archive.org/web/20250504100211/https://staugshores.com/wp-content/uploads/2025/01/ACC-Manual-revised-Jan-2025.pdf\" target=\"_blank\" rel=\"nofollow noopener\">ACC Manual, January 2025</a>). That manual allows approval to be withheld over the grading plan. Before relying on its timing or submission requirements, obtain the current manual and application instructions from the Shores office.",
         "Which restrictions apply to you depends on your Unit. The Shores is eight Units, each with its own recorded deed restrictions and its own setbacks, and your address on the <a href=\"https://www.sjcpa.gov/\" target=\"_blank\" rel=\"nofollow noopener\">county Property Appraiser</a>'s record shows which Unit you are in (<a href=\"https://web.archive.org/web/20241112065552/https://staugshores.com/wp-content/uploads/2024/06/Deed-Restrictions-overall-summary.pdf\" target=\"_blank\" rel=\"nofollow noopener\">the association’s summary of them</a>). One line in those restrictions lands on a turf base directly: no changes in elevation which will interfere with drainage. In Unit 6, a recorded conservation and preservation easement runs along the rear property line of certain lots, and no fill may be placed or removed inside it at all.",
-        "Florida law limits how far the association can reach. Fla. Stat. 720.3045 says an association may not restrict items, artificial turf named among them, that can't be seen from the frontage, an adjacent parcel, an adjacent common area or a community golf course (<a href=\"https://www.flsenate.gov/Laws/Statutes/2025/720.3045\" target=\"_blank\" rel=\"nofollow noopener\">Fla. Stat. 720.3045</a>). A fenced interior back yard is usually protected. A back yard that opens onto a fairway is in view of the course, so the committee can still weigh in there. Our guide covers <a href=\"/guides/florida-friendly-landscaping-and-hoas/\">what an HOA can and can't stop</a>."
+        "Florida law limits association restrictions on items, including artificial turf, that are not visible from the parcel’s frontage, an adjacent parcel, an adjacent common area or a community golf course, unless general law or local ordinance prohibits them (<a href=\"https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0700-0799/0720/Sections/0720.3045.html\" target=\"_blank\" rel=\"nofollow noopener\">Fla. Stat. 720.3045</a>). A fence alone does not establish that the turf is out of view from all of those places. Check the actual sightlines, including neighboring properties and the fairway, before relying on that protection. Our guide covers <a href=\"/guides/florida-friendly-landscaping-and-hoas/\">what an HOA can and can’t stop</a>."
       ]
     },
     {
@@ -79,7 +79,7 @@
     },
     {
       "q": "Does the St. Augustine Shores ACC allow artificial turf?",
-      "a": "Its manual doesn't say. Search the January 2025 ACC Manual and artificial turf appears nowhere in it. What it does set out, in the requirements for new homes and additions, is that all swales and lots, front, sides and rear, should be sodded, and that stones or bushes in lieu of sod are not desirable, though appropriate landscaping will be considered (<a href=\"https://web.archive.org/web/20250504100211/https://staugshores.com/wp-content/uploads/2025/01/ACC-Manual-revised-Jan-2025.pdf\" target=\"_blank\" rel=\"nofollow noopener\">ACC Manual</a>). Ask the committee in writing how it treats a turf lawn on your Unit, and get that answer before the layout is final."
+      "a": "The archived January 2025 ACC Manual does not name artificial turf. Obtain the current manual from the Shores office before relying on it for a new project. What it does set out, in the requirements for new homes and additions, is that all swales and lots, front, sides and rear, should be sodded, and that stones or bushes in lieu of sod are not desirable, though appropriate landscaping will be considered (<a href=\"https://web.archive.org/web/20250504100211/https://staugshores.com/wp-content/uploads/2025/01/ACC-Manual-revised-Jan-2025.pdf\" target=\"_blank\" rel=\"nofollow noopener\">ACC Manual</a>). Ask the committee in writing how it treats a turf lawn on your Unit, and get that answer before the layout is final."
     },
     {
       "q": "Does St. Johns County count artificial turf as impervious?",
@@ -160,6 +160,10 @@
     {
       "label": "St. Johns County Property Appraiser: property record search",
       "url": "https://www.sjcpa.gov/"
+    },
+    {
+      "label": "Florida Legislature: current Section 720.3045, visibility and association restrictions",
+      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0700-0799/0720/Sections/0720.3045.html"
     }
   ],
   "checked": "2026-09-07",

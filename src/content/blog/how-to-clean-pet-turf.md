@@ -5,17 +5,17 @@ description: 'A practical pet-turf routine: pick up waste, rinse the areas your 
 h1: How to clean pet turf
 topic: Pets
 published: '2026-09-10'
-updated: '2026-09-11'
+updated: '2026-09-12'
 answer:
   question: How do you clean artificial turf that dogs use?
   answer: Pick up solid waste daily, rinse the areas your dog uses and follow the turf manufacturer’s instructions for compatible cleaners. Adjust the routine to the number of dogs and how the space is used. If odor keeps returning, check the cleaning coverage, infill and drainage before deciding that the turf needs repair.
 faq:
   - q: How often should I pick up after my dog on turf?
-    a: Every day. The <a href="https://www.cdc.gov/toxocariasis/spreads/index.html" target="_blank" rel="nofollow noopener">CDC</a> says pet waste should be picked up daily and bagged or buried. Roundworm eggs in dog waste take 2 to 4 weeks to become infectious, and can then survive for months or even years.
+    a: Every day. Pick up solid waste, bag it and dispose of it appropriately, then wash your hands. Make the bag or scoop easy to reach so daily cleanup is a simple habit.
   - q: Can I use bleach on pet turf?
-    a: Carefully, if at all. Iowa State's <a href="https://www.cfsph.iastate.edu/Disinfection/Assets/Disinfection101.pdf" target="_blank" rel="nofollow noopener">Center for Food Security and Public Health</a> warns that bleach forms a toxic gas when mixed with ammonia or strong acids, and that strong solutions can irritate skin and damage animals' footpads. Never mix products, and rinse any disinfectant off before your dog goes back out.
-  - q: Does sand infill hold bacteria?
-    a: 'Longer than other infills, in one lab study. In a <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7222665/" target="_blank" rel="nofollow noopener">2020 Sports Health study</a>, MRSA took 27 hours to lose half its viability in sand, against 2 to 13 hours in other infills. Sunlight helps: <a href="https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf" target="_blank" rel="nofollow noopener">New Jersey''s report</a> cites UV and heat cutting its survival to under 1% within 2 hours.'
+    a: Check the turf manufacturer’s instructions and the cleaner’s label first. Bleach is not automatically suitable for every turf system. Never mix it with other cleaning products, and follow all dilution, rinsing and return-to-use directions. If compatibility is unclear, ask the manufacturer before applying it.
+  - q: How do I choose a cleaner for pet turf?
+    a: Check that the product suits the turf, backing, infill and intended use. Follow its dilution, application and rinsing instructions. An odor-control or enzyme claim does not establish that a product disinfects; if disinfection is needed, check the EPA registration and the uses listed on the label.
   - q: Why does my pet turf still smell after I rinse it?
     a: Persistent odor needs investigation. Review waste removal, cleaning coverage, infill condition and drainage. A returning smell alone does not establish that the base has failed or that the turf needs replacement.
 sources:
@@ -53,65 +53,56 @@ publicReferences:
   - https://www.epa.gov/sites/default/files/2020-04/documents/disinfectants-onepager.pdf
 ---
 
-## The routine, in one line
+## Start with daily waste removal
 
-Pick up solids every day, rinse where the dog pees, spot-clean the busiest spots, and disinfect only when you need to, the right way. Most weeks, that is all pet turf asks for.
+Pick up solid waste every day, bag it and dispose of it appropriately. Wash your hands afterward. The [CDC’s pet-waste guidance](https://www.cdc.gov/toxocariasis/spreads/index.html) supports daily cleanup and handwashing. Keep bags and a scoop near the pet area so the routine is easy for everyone in the household to follow.
 
-## Pick up solids every day
+Look around the places your dog actually uses: the gate, the border beside a planting bed and the corner outside the door. Include these spots in cleanup even when the middle of the lawn looks clear. Remove loose leaves and other debris with tools allowed by the turf’s care instructions.
 
-This is the step that matters most, and not only for smell. The [CDC](https://www.cdc.gov/toxocariasis/spreads/index.html) says pet waste should be picked up daily and bagged or buried, and that you should wash your hands after handling it.
+Keep the manufacturer’s care sheet with the product name and infill details. Those instructions are the starting point for choosing tools, cleaners and a routine. If you inherited the turf with the house, ask the previous installer or supplier for those details before using unfamiliar chemicals or equipment.
 
-The reason is parasites. Roundworm eggs get into the ground through dog and cat waste. The CDC says they take 2 to 4 weeks to become infectious, and their tough shell lets them survive for months or even years. [Hookworm](https://www.cdc.gov/zoonotic-hookworm/about/index.html) eggs hatch into larvae that live in soil or sand, and can burrow into bare skin. If your turf has sand infill, the same advice applies:
+## Rinse the areas your dog uses
 
-- **Pick up quickly.** The CDC says to dispose of animal waste quickly, so eggs don't get into the ground and hatch.
-- **Keep up with the vet.** Regular care, including deworming if needed, stops the problem at the source.
-- **Wear shoes** and keep bare skin off areas where waste has been, as the CDC advises.
+Follow the turf manufacturer’s instructions for rinsing pet areas and any applicable water-use rules. Work through the affected area systematically so the rinse reaches the favorite corners as well as the open surface. Check where the water goes as you work.
 
-## Rinse where the dog pees
+Rain does not establish that every used spot has been cleaned. Adjust the routine to actual use, dry weather and what remains on the surface. A small area used by several dogs may need different attention from a lawn that one dog uses occasionally.
 
-Pet turf can develop odor even when it was installed correctly. Rinsing and cleaning are ongoing tasks; drainage is another part of the system to check when odor persists.
+If water keeps pooling, note where and when it happens. Include nearby drains and downspouts in photos for an assessment. Adding more water without understanding where it can leave is not a complete cleaning plan.
 
-Hose down the spots your dog uses. Rain does some of this for you. In dry spells, do it yourself, and give the favorite spots a longer soak.
+## Choose a compatible cleaner
 
-## Spot-clean the busiest spots
+When rinsing leaves residue or odor, choose a cleaner suited to the selected turf system and pet use. Check the turf manufacturer’s instructions alongside the product label. Compatibility with a patio, kennel floor or natural lawn does not establish compatibility with the turf, backing and infill.
 
-Every dog has a favorite spot. Once in a while, give it more than water: an enzyme turf cleaner, used the way the label says. Clean the spot, let the product work for as long as the directions say, and rinse.
+Read the directions before mixing or applying anything. Use the stated dilution and application method, allow the specified treatment time, and rinse when directed. Keep people and animals away for the period the label requires. Do not increase the concentration to compensate for a result that did not last.
 
-Unless its label carries an EPA registration number, treat that as cleaning, not disinfecting. The difference matters when you do need to disinfect.
+A product sold for odor control may be useful for that purpose without being a disinfectant. The words “enzyme cleaner” do not establish which germs it kills or where it can be used.
 
-## Disinfect only when it matters
+## If disinfection is needed
 
-Most family yards need rinsing more than disinfecting. Disinfecting earns its place after a sick dog, or where many dogs share the space, like a busy dog run. When you do it, the rules from animal-health experts are simple, and the order matters.
+For a sick pet or a shared animal facility, obtain appropriate care guidance about the cleaning needed. Then select a disinfectant labeled for the intended use and compatible with the surface. Use these steps from the [EPA’s disinfectant checklist](https://www.epa.gov/sites/default/files/2020-04/documents/disinfectants-onepager.pdf):
 
-Iowa State's [Center for Food Security and Public Health](https://www.cfsph.iastate.edu/Disinfection/Assets/Disinfection101.pdf), a veterinary program, sets out five principles:
+1. **Check the registration and label.** Verify the EPA registration number, permitted use sites and surface types.
+2. **Pre-clean as directed.** Remove visible waste and follow the preparation instructions before applying the disinfectant.
+3. **Use the labeled amount.** Measure the dilution rather than guessing.
+4. **Meet the contact time.** Keep the surface wet for the full period stated on the label.
+5. **Follow precautions.** Use the specified protective equipment, wash your hands and store the product securely out of children’s reach.
 
-1. **Clean first.** Waste and body fluids can hide germs from a disinfectant, and can inactivate several disinfectants entirely. The center says cleaning alone may remove over 90% of bacteria from a surface.
-2. **Use the right product.** No single product works for every germ.
-3. **Read the label.** Products that kill germs must be registered with the EPA, and the label tells you what they kill, how to dilute them and how long they need.
-4. **Give it time.** The surface has to stay wet for the full contact time. Some products need 1 to 5 minutes; 10 minutes or more is common.
-5. **Keep everyone safe.** Rinse the area before animals come back. The center says most chemical disinfectants can harm animals and must be rinsed away first.
+Rinsing and return-to-use directions matter around animals. Follow the selected product’s requirements, including any drying period, before reopening the area. Do not assume that the smell disappearing means the treatment is complete.
 
-The [EPA's own checklist](https://www.epa.gov/sites/default/files/2020-04/documents/disinfectants-onepager.pdf) matches it: find the EPA registration number, read the directions, pre-clean, keep the surface wet for the contact time, wear gloves and wash your hands, and store the product out of children's reach.
+Never mix cleaning products. [Iowa State’s animal-setting disinfection guidance](https://www.cfsph.iastate.edu/Disinfection/Assets/Disinfection101.pdf) warns that chlorine products mixed with ammonia or strong acids can release toxic gas, and concentrated chlorine solutions can harm animals’ footpads. A stronger mixture is not a substitute for the right product and method.
 
-**About bleach.** The center warns that bleach forms a toxic gas when mixed with ammonia or strong acids. It adds that strong chlorine solutions irritate skin and eyes and can damage animals' footpads. If you use bleach, never mix it with another cleaner, dilute it the way the label says, and rinse thoroughly.
+## When odor returns
 
-## Sand, sun and bacteria
+Keep a short record of the area treated, product, dilution and how soon the smell returns. Note whether waste or debris remains near edges, whether the whole affected area was reached, and whether water pools during cleaning.
 
-A study of bacteria on infill found differences between the materials tested. In a [2020 lab study](https://pmc.ncbi.nlm.nih.gov/articles/PMC7222665/), MRSA stayed viable for up to 96 hours in infill and 24 hours on turf fibers. It took 27 hours to lose half its viability in sand, against 2 to 13 hours in rubber, cork and coated infills.
+Share those observations with the installer or care provider. Ask what should be assessed before changing the infill or lifting turf, and request an explanation of any proposed repair. Recurring odor alone does not identify a failed base. Our [pet-odor article](/blog/why-does-artificial-turf-smell-like-dog-pee/) covers the care and drainage questions to raise.
 
-Where Florida’s residential standard applies, check the permitted infill materials. The state standard for single-family lawns allows [only natural infill](https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc), such as clean silica sand, rock or shell. Our [Florida infill guide](/guides/florida-turf-infill-rules/) covers the rule. The lab finding does not establish the condition of an individual dog run. Follow the selected turf and cleaning products’ instructions for ongoing care.
+## Keep the routine workable
 
-Sunlight helps. [New Jersey's environment department](https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf) cites research in which UV light and heat cut the survival of staph bacteria, MRSA included, to under 1% within 2 hours. It also found outdoor fields carried more bacteria overall, but fewer staph genes than indoor ones, perhaps because the sun disinfects them. A shady corner gets less of that help, so it is worth a little more attention.
+- Pick up waste daily and wash your hands afterward.
+- Rinse and clean according to the product instructions and actual use.
+- Include the favorite corners in each pass.
+- Follow cleaner precautions and return-to-use directions.
+- Record recurring odor or pooling instead of repeatedly increasing the dose.
 
-## If it still smells
-
-A returning smell is a reason to review the whole pet area. Check the cleaning routine and product directions, where waste collects, the infill and how liquid drains. Do not choose a rebuild from the smell alone. A site assessment should identify the issue before repair or replacement is proposed. Our post on [why turf smells like dog pee](/blog/why-does-artificial-turf-smell-like-dog-pee/) goes deeper.
-
-## A simple schedule
-
-- **Daily:** pick up solids.
-- **A few times a week in dry weather:** hose down the pee spots.
-- **Every couple of weeks, or more with several dogs:** enzyme-clean the favorite spots.
-- **When needed:** disinfect with an EPA-registered product, following the label, then rinse before the dog goes back out.
-
-[Pet turf installation](/services/pet-turf/) starts with the intended use, drainage and cleaning access. Planning a new pet area? A free visit includes a custom layout and written price, and we walk you through care at the end of the job.
+[Pet turf installation](/services/pet-turf/) starts with the intended use, drainage and cleaning access. A free visit is a chance to include those details in the layout and written price, with a care walkthrough at the end of the job.

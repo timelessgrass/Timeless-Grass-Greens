@@ -1,0 +1,130 @@
+---
+interface Props {
+  items: { id: string; label: string }[];
+}
+
+const { items } = Astro.props;
+---
+
+<details class="doc__contents" data-reading-contents open>
+  <summary>
+    <span>On this page</span>
+    <span class="doc__contents-toggle" aria-hidden="true"></span>
+  </summary>
+  <nav class="doc__toc" aria-label="On this page">
+    <p class="doc__contents-title">On this page</p>
+    <ol role="list">
+      {items.map((item, index) => (
+        <li>
+          <a href={`#${item.id}`}>
+            <span class="doc__contents-number" aria-hidden="true">{String(index + 1).padStart(2, '0')}</span>
+            <span>{item.label}</span>
+          </a>
+        </li>
+      ))}
+    </ol>
+  </nav>
+</details>
+
+<script>
+  const desktop = window.matchMedia('(min-width: 1000px)');
+  const contents = document.querySelectorAll<HTMLDetailsElement>('[data-reading-contents]');
+  const setContentsLayout = () => {
+    contents.forEach((details) => { details.open = desktop.matches; });
+  };
+
+  // Native details stays open without JavaScript. With JavaScript, only crossing
+  // the layout breakpoint resets it; mobile readers control their own disclosure.
+  setContentsLayout();
+  desktop.addEventListener('change', setContentsLayout);
+</script>
+
+<style>
+  .doc__contents {
+    border-block: 1px solid var(--rule);
+    color: var(--ink);
+  }
+
+  .doc__contents > summary {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    min-height: 52px;
+    padding-block: .75rem;
+    list-style: none;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+  }
+
+  .doc__contents > summary::-webkit-details-marker { display: none; }
+
+  .doc__contents-toggle {
+    position: relative;
+    flex: 0 0 1rem;
+    width: 1rem;
+    height: 1rem;
+    color: var(--accent);
+  }
+
+  .doc__contents-toggle::before,
+  .doc__contents-toggle::after {
+    content: '';
+    position: absolute;
+    background: currentColor;
+  }
+
+  .doc__contents-toggle::before { inset: calc(50% - 1px) 0; }
+  .doc__contents-toggle::after { inset: 0 calc(50% - 1px); }
+  .doc__contents[open] .doc__contents-toggle::after { display: none; }
+
+  .doc__contents .doc__toc {
+    margin: 0;
+    padding: 0 0 .75rem;
+    border: 0;
+  }
+
+  .doc__contents-title { display: none; }
+
+  .doc__contents .doc__toc ol {
+    display: grid;
+    gap: 0;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .doc__contents .doc__toc li { margin: 0; }
+
+  .doc__contents .doc__toc a {
+    display: grid;
+    grid-template-columns: 1.7rem minmax(0, 1fr);
+    align-items: start;
+    gap: .5rem;
+    min-height: 44px;
+    padding-block: .7rem;
+    font-size: 1rem;
+    line-height: 1.45;
+    color: var(--ink);
+    text-decoration: none;
+    overflow-wrap: anywhere;
+  }
+
+  .doc__contents .doc__toc li + li { border-top: 1px solid var(--rule); }
+  .doc__contents-number { color: var(--accent); font-variant-numeric: tabular-nums; }
+  .doc__contents .doc__toc a:hover { color: var(--accent); text-decoration: underline; text-underline-offset: .2em; }
+
+  .doc__contents > summary:focus-visible,
+  .doc__contents .doc__toc a:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 3px;
+  }
+
+  @media (min-width: 1000px) {
+    .doc__contents { border-bottom: 0; }
+    .doc__contents > summary { display: none; }
+    .doc__contents .doc__toc { padding-top: 1.2rem; }
+    .doc__contents .doc__contents-title { display: block; margin: 0 0 .65rem; font-size: 1rem; font-weight: 600; }
+  }
+</style>

@@ -69,5 +69,8 @@
   "unresolved": [
     "The RIGs do not state an architectural review fee for a turf submittal; the document says to check current fees with the Community Improvement Services Department. The page tells the reader to ask CIS rather than naming a figure.",
     "Whether a given lot's rear fence is Metro District parkway fence (and so carries the 12-inch easement) is not published parcel by parcel; the District publishes only the street list, so the page tells the reader to check that list and ask the Metro District about their own fence line."
+  ],
+  "notes": [
+    "September 12 reconciliation: the Metro District land use page was successfully retrieved after an earlier 403. Its erosion clause prohibits damage or misuse of District property, including erosion caused by drainage from adjacent property; it does not require all runoff to remain within a residential lot. Public copy now preserves this distinction. Removed the FAQ’s repeated product and coverage specifications; the body retains them."
   ]
 }

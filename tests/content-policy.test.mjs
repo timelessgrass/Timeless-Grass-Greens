@@ -41,6 +41,33 @@ test('conflicting town and service URLs stop generation', () => {
 
 const root = fileURLToPath(new URL('../', import.meta.url));
 const read = (file) => fs.readFileSync(path.join(root, file), 'utf8');
+
+test('short pages pass built-site checks and optional length hints do not hide broken links', (t) => {
+  const dir = fs.realpathSync(fs.mkdtempSync(path.join(os.tmpdir(), 'timeless short pages ')));
+  t.after(() => fs.rmSync(dir, { recursive: true, force: true }));
+  fs.mkdirSync(path.join(dir, 'planning'));
+  fs.writeFileSync(path.join(dir, 'index.html'), '<!doctype html><title>Plan your project</title><main><h1>Plan your turf project</h1><a href="/planning/">What to bring to an estimate</a></main>');
+  const planning = '<!doctype html><title>Estimate preparation</title><main><h1>What should I bring?</h1><p>Bring yard dimensions, gate widths and photos of the areas you want to change.</p><a href="/">Back to planning</a></main>';
+  fs.writeFileSync(path.join(dir, 'planning/index.html'), planning);
+  const run = (...args) => spawnSync('python3', [path.join(root, 'scripts/check-links.py'), dir, ...args], { encoding: 'utf8' });
+
+  const normal = run();
+  assert.equal(normal.status, 0, normal.stdout + normal.stderr);
+  assert.doesNotMatch(normal.stdout, /LENGTH-1|FAIL/);
+  const advisory = run('--min-words', '600');
+  assert.equal(advisory.status, 0, advisory.stdout + advisory.stderr);
+  assert.match(advisory.stdout, /WARN LENGTH-1 \/planning\//);
+  assert.match(advisory.stdout, /SCALE OK/);
+
+  fs.writeFileSync(path.join(dir, 'planning/index.html'), planning.replace('</main>', '<a href="/missing/">Missing next step</a></main>'));
+  for (const args of [[], ['--min-words', '600']]) {
+    const broken = run(...args);
+    assert.equal(broken.status, 1, broken.stdout + broken.stderr);
+    assert.match(broken.stdout, /FAIL BROKEN-1 \/planning\/ → \/missing\//);
+    assert.doesNotMatch(broken.stdout, /FAIL LENGTH-1/);
+  }
+});
+
 const compactTown = () => ({
   ...JSON.parse(read('src/content/towns/little-river-sc.json')),
   title: 'A compact local guide | TIMELESS Grass & Greens',
@@ -101,7 +128,8 @@ test('actual local schemas accept one block and optional zero FAQs while retaini
     assert.deepEqual(schema.parse(withoutReferences).publicReferences, []);
     assert.equal(schema.safeParse({ ...data, publicReferences: [data.sources[0].url] }).success, true);
     assert.equal(schema.safeParse({ ...data, publicReferences: ['https://example.com/not-in-evidence'] }).success, false);
-    for (const patch of [{ blocks: [] }, { blocks: Array(5).fill(town.blocks[0]) }, { faq: Array(7).fill({ q: 'Question', a: 'Answer' }) }, { sources: [] }, { blocks: [{ ...town.blocks[0], paras: [] }] }]) {
+    assert.equal(schema.safeParse({ ...data, blocks: Array(5).fill(town.blocks[0]) }).success, true);
+    for (const patch of [{ blocks: [] }, { blocks: Array(6).fill(town.blocks[0]) }, { faq: Array(7).fill({ q: 'Question', a: 'Answer' }) }, { sources: [] }, { blocks: [{ ...town.blocks[0], paras: [] }] }]) {
       assert.equal(schema.safeParse({ ...data, ...patch }).success, false);
     }
   }

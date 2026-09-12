@@ -2,6 +2,8 @@
 import Base from '../../layouts/Base.astro';
 import OfferPanel from '../../components/OfferPanel.astro';
 import PublicReferences from '../../components/PublicReferences.astro';
+import ReadingEstimate from '../../components/ReadingEstimate.astro';
+import ReadingContents from '../../components/ReadingContents.astro';
 import { GUIDES } from '../../data/guides';
 import { marketBySlug } from '../../data/markets';
 
@@ -37,51 +39,50 @@ const crumbs = [
       </div>
     </header>
 
-    <div class="sec sec--band answer-box">
-      <div class="wrap">
-        <p class="micro">The short version</p>
-        <h2 class="answer-box__q">{g.answer.question}</h2>
-        <p class="answer-box__a">{g.answer.answer}</p>
-        {checklist && <p class="doc__jump"><a href={`#${checklist.id}`}>Jump to the checklist</a></p>}
-        {sections.length > 1 && <nav class="doc__toc" aria-label="On this page">
-          <p>On this page</p>
-          <ol>{sections.map((s) => <li><a href={`#${s.id}`}>{s.h2}</a></li>)}</ol>
-        </nav>}
-      </div>
-    </div>
+    <div class="sec doc__reading">
+      <div class="wrap doc__layout">
+        <div class="answer-box doc__intro">
+          <p class="micro">The short version</p>
+          <h2 class="answer-box__q">{g.answer.question}</h2>
+          <p class="answer-box__a">{g.answer.answer}</p>
+          <ReadingEstimate cta={`guide-${g.slug}`} />
+          {checklist && <p class="doc__jump"><a href={`#${checklist.id}`}>Jump to the checklist</a></p>}
+        </div>
+        {sections.length > 1 && <aside class="doc__rail">
+          <ReadingContents items={sections.map((s) => ({ id: s.id, label: s.h2 }))} />
+        </aside>}
+        <div class="doc__body">
+          {sections.map((s) => (
+            <section class="doc__sec doc__guide-section">
+              <h2 id={s.id}>{s.h2}</h2>
+              {s.body.map((p) => <p set:html={p} />)}
+            </section>
+          ))}
 
-    <div class="sec doc__body">
-      <div class="wrap">
-        {sections.map((s) => (
-          <section class="doc__sec" data-reveal>
-            <h2 id={s.id}>{s.h2}</h2>
-            {s.body.map((p) => <p set:html={p} />)}
-          </section>
-        ))}
+          {g.faq && g.faq.length > 0 && (
+            <section class="doc__sec" data-reveal>
+              <h2>Common questions</h2>
+              <div class="faq">
+                {g.faq.map((qa) => (
+                  <details class="qa">
+                    <summary><h3>{qa.q}</h3></summary>
+                    <p set:html={qa.a} />
+                  </details>
+                ))}
+              </div>
+            </section>
+          )}
 
-        {g.faq && g.faq.length > 0 && (
-          <section class="doc__sec" data-reveal>
-            <h2>Common questions</h2>
-            <div class="faq">
-              {g.faq.map((qa) => (
-                <details class="qa">
-                  <summary><h3>{qa.q}</h3></summary>
-                  <p set:html={qa.a} />
-                </details>
-              ))}
-            </div>
-          </section>
-        )}
+          <aside class="disclaim">
+            <p>
+              This page explains the rules that apply to turf installation. It isn&rsquo;t legal
+              advice: statutes change and local codes differ, so check with your town, your water
+              provider or your HOA before you build.
+            </p>
+          </aside>
 
-        <aside class="disclaim">
-          <p>
-            This page explains the rules that apply to turf installation. It isn&rsquo;t legal
-            advice: statutes change and local codes differ, so check with your town, your water
-            provider or your HOA before you build.
-          </p>
-        </aside>
-
-        <PublicReferences sources={g.sources} selected={g.publicReferences} />
+          <PublicReferences sources={g.sources} selected={g.publicReferences} />
+        </div>
       </div>
     </div>
   </article>

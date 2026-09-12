@@ -191,7 +191,7 @@ gsap.matchMedia().add('(prefers-reduced-motion: no-preference)', () => {
 
   /* ---- 8. headings: each line rises from behind its own mask, like the hero ---- */
   gsap.utils.toArray<HTMLElement>('main h2:not(.benefit__h)').forEach((h) => {
-    if (h.closest('.proc')) return; // the process stays readable without scroll effects
+    if (h.closest('.proc, .doc')) return; // process and reading headings stay visible during scrolling and anchor jumps
     SplitText.create(h, {
       type: 'lines', mask: 'lines', linesClass: 'h2-line', autoSplit: true,
       onSplit: (self) => {
@@ -277,11 +277,11 @@ let scrolled = false;
 const onScroll = () => { const s = window.scrollY > 72; if (s !== scrolled) { scrolled = s; chrome?.classList.toggle('is-scrolled', s); } };
 window.addEventListener('scroll', onScroll, { passive: true }); onScroll();
 
-/* The sticky bar steps aside while the hero's own buttons, the form or the footer is on
+/* The sticky bar steps aside while a page's own contact actions, the form or the footer is on
    screen: two identical Call buttons stacked on a phone read as a mistake, and the bar must
    never cover Submit. The first placement snaps; only later changes slide. */
 const bar = document.querySelector<HTMLElement>('.bar');
-const yieldTo = document.querySelectorAll('.hero__cta, .offer, .estimate-page, .foot');
+const yieldTo = document.querySelectorAll('.hero__cta, .reading-estimate, .offer, .estimate-page, .foot');
 if (bar && yieldTo.length && 'IntersectionObserver' in window) {
   const seen = new Set<Element>();
   bar.classList.add('is-still');

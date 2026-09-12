@@ -3,17 +3,20 @@
 
   python3 scripts/check-links.py dist
 
-Word counts are editorial diagnostics. They cannot establish whether a page is useful,
+Word counts are informational. Use --min-words N to flag shorter pages for editorial
+review without failing the build. Length alone cannot establish whether a page is useful,
 original or factually supported; those decisions belong to content review.
 
-Four rules, all measured on the built HTML:
+Three integrity checks, all measured on the built HTML:
 
-  LENGTH-1 optional short-page review hint, enabled with --min-words; never fails a build
   ORPHAN-1 an indexable page with no inbound <a href> from any other page
   DEPTH-1  an indexable page more than N clicks from / (default 3)
   BROKEN-1 an internal href that resolves to no built file
 
-noindex pages (/404/, /thanks/) are exempt from length hints, ORPHAN-1 and DEPTH-1 by design:
+Optional LENGTH-1 hints identify indexable pages below --min-words (default 0, disabled).
+Section indexes are exempt from length hints.
+
+noindex pages (/404/, /thanks/) are exempt from LENGTH-1, ORPHAN-1 and DEPTH-1 by design:
 they are utility routes, deliberately unlinked and deliberately out of the sitemap.
 
 Sitewide chrome (header, menu panel, footer) links every page from every page, which would
@@ -76,7 +79,7 @@ def normalise(href, origin_host):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('out', nargs='?', default='dist')
-    ap.add_argument('--min-words', type=int, default=600, help='Word floor for an indexable page; under it the build fails.')
+    ap.add_argument('--min-words', type=int, default=0, help='Optional word-count review threshold; shorter pages warn but never fail on length (default: disabled).')
     ap.add_argument('--max-depth', type=int, default=3)
     ap.add_argument('--warn-only', action='store_true')
     a = ap.parse_args()
@@ -153,12 +156,12 @@ def main():
                 depth[got] = depth[cur] + 1
                 q.append(got)
 
-    # the section indexes route the reader on; the floor is for pages that explain something
+    # Section indexes route readers on; optional length hints apply to content pages.
     HUBS = {'/services/', '/guides/', '/blog/'}
     for route in sorted(indexable):
         p = pages[route]
-        if p['words'] < a.min_words and route not in HUBS:
-            fails.append(f'THIN-1 {route} — {p["words"]} words in <main>, floor is {a.min_words}')
+        if a.min_words > 0 and p['words'] < a.min_words and route not in HUBS:
+            warns.append(f'LENGTH-1 {route} — {p["words"]} words in <main>, below review threshold {a.min_words}; assess completeness, not length alone')
         if route != '/' and not inbound[route]:
             fails.append(f'ORPHAN-1 {route} — no inbound link from the body of any page')
         d = depth.get(route)
@@ -167,13 +170,13 @@ def main():
         elif d > a.max_depth:
             fails.append(f'DEPTH-1 {route} — {d} clicks from /, max is {a.max_depth}')
 
-    n_thin = sum(1 for r in indexable if pages[r]['words'] < a.min_words and r not in HUBS)
+    n_short = sum(1 for r in indexable if pages[r]['words'] < a.min_words and r not in HUBS)
     words = [pages[r]['words'] for r in indexable]
     words.sort()
     print(f'{len(pages)} pages · {len(indexable)} indexable · '
           f'words in <main>: min {words[0]}, median {words[len(words)//2]}, max {words[-1]}')
-    if a.min_words:
-        print(f'{n_thin} under the {a.min_words}-word floor\n')
+    if a.min_words > 0:
+        print(f'{n_short} below the optional {a.min_words}-word review threshold (advisory only)\n')
 
     for f_ in fails:
         print(f'  x FAIL {f_}')

@@ -45,6 +45,7 @@ const title = `wiz-${mode}-title`;
   <div class="wiz__steps">
     <fieldset class="wiz__step is-on" data-step>
       <legend class="wiz__q">What are we building?</legend>
+      <p class="wiz__hint" data-wiz-preset-note hidden role="status">Your other answers are saved. Confirm this project type to continue.</p>
       <div class="wiz__opts wiz__opts--tiles">
         {USES.map((u) => (
           <label class="opt opt--tile">
@@ -85,7 +86,7 @@ const title = `wiz-${mode}-title`;
 
     <fieldset class="wiz__step" data-step>
       <legend class="wiz__q">Where&rsquo;s the project?</legend>
-      <label class="fld"><span>ZIP code or town</span><input type="text" name="town" autocomplete="postal-code" maxlength="120" required data-msg="Please enter your ZIP code or town." /></label>
+      <label class="fld"><span>ZIP code or town and state</span><input type="text" name="town" autocomplete="postal-code" maxlength="120" required data-msg="Please enter your ZIP code or town and state." /></label>
       <p class="wiz__hint">We work across the Denver metro, the Grand Strand and northeast Florida.</p>
       <p class="wiz__err" role="alert"></p>
     </fieldset>

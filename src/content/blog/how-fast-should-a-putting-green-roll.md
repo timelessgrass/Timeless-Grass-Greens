@@ -61,10 +61,16 @@ Edward Stimpson, the 1935 Massachusetts Amateur champion, invented the device. T
 
 The USGA published a speed chart with those instructions:
 
-| | Slow | Medium | Fast |
+<p class="doc__table-note" id="speed-table-help">Scroll sideways to compare all columns.</p>
+
+<div class="doc__table" role="region" aria-label="Putting green speed comparison" aria-describedby="speed-table-help" tabindex="0">
+
+| Play | Slow | Medium | Fast |
 |---|---|---|---|
 | Regular play | under 7.5 ft | 7.5 to 8.5 ft | over 8.5 ft |
 | Tournament play | under 8.5 ft | 8.5 to 9.5 ft | over 9.5 ft |
+
+</div>
 
 It adds that bermudagrass greens are typically slower, and it's firm about what the chart is for: "it is NOT the intention of the USGA to attempt to standardize green speeds." The Stimpmeter "is not intended for course comparisons."
 

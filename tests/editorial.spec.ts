@@ -42,6 +42,57 @@ test('only intentionally selected references appear in the reading experience', 
   await expect(page.getByRole('complementary', { name: 'Useful links' }).getByRole('link')).not.toHaveCount(0);
 });
 
+test('article and guide readers can request an estimate directly after the short answer', async ({ page }) => {
+  for (const [route, preset] of [
+    ['/blog/how-to-read-a-turf-quote/', ''],
+    ['/guides/is-artificial-turf-impervious/', ''],
+    ['/blog/how-fast-should-a-putting-green-roll/', 'Putting green'],
+    ['/blog/what-infill-works-best-for-dogs/', 'Pet turf'],
+  ]) {
+    await page.goto(route);
+    const offer = page.getByRole('complementary', { name: 'Plan your installation' });
+    const action = offer.getByRole('link', { name: 'Request a free estimate' });
+    await expect(offer.getByRole('link', { name: /^Call / })).toHaveAttribute('href', /^tel:/);
+    await expect(action).toHaveAttribute('href', preset ? `/estimate/?use=${encodeURIComponent(preset)}` : '/estimate/');
+    expect(await offer.evaluate(node => {
+      const contents = document.querySelector('.doc__toc');
+      return contents && !!(node.compareDocumentPosition(contents) & Node.DOCUMENT_POSITION_FOLLOWING);
+    })).toBe(true);
+    await action.click();
+    const form = page.locator('dialog.estimate form');
+    await expect(page.locator('dialog.estimate')).toBeVisible();
+    await expect(form.locator('[data-wiz-n]')).toHaveText(preset ? '2' : '1');
+    if (preset) await expect(form.locator(`input[name="use"][value="${preset}"]`)).toBeChecked();
+  }
+});
+
+test('the phone contact bar yields to the reading estimate actions', async ({ page }) => {
+  await page.setViewportSize({ width: 320, height: 812 });
+  await page.goto('/blog/how-to-read-a-turf-quote/');
+  const offer = page.getByRole('complementary', { name: 'Plan your installation' });
+  const action = offer.getByRole('link', { name: 'Request a free estimate' });
+  await action.scrollIntoViewIfNeeded();
+  await expect(page.locator('.bar')).toHaveClass(/is-hidden/);
+  await action.click();
+  await expect(page.locator('dialog.estimate')).toBeVisible();
+});
+
+test('the reading estimate link reaches the native form without JavaScript', async ({ browser }) => {
+  const context = await browser.newContext({ javaScriptEnabled: false });
+  await context.route('**/*', route => route.request().method() === 'POST' ? route.abort() : route.continue());
+  try {
+    const page = await context.newPage();
+    await page.goto('http://127.0.0.1:8769/blog/what-infill-works-best-for-dogs/');
+    await page.getByRole('complementary', { name: 'Plan your installation' }).getByRole('link', { name: 'Request a free estimate' }).click();
+    await expect(page).toHaveURL(/\/estimate\/\?use=Pet%20turf$/);
+    await expect(page.locator('form[name="quote"]')).toHaveCount(1);
+    await expect(page.locator('input[name="town"]')).toBeVisible();
+    await expect(page.locator('button[type="submit"]')).toBeVisible();
+  } finally {
+    await context.close();
+  }
+});
+
 test('edited sales and educational pages reflow at phone and desktop widths', async ({ page }, testInfo) => {
   for (const width of [320, 390, 1440]) {
     await page.setViewportSize({ width, height: 900 });

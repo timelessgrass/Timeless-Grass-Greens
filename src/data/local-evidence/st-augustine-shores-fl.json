@@ -46,6 +46,14 @@
       "supports": [
         "The office's site offers \"Search Property Records\" and \"Search Maps\", both linking to the county parcel search at qpublic.schneidercorp.com/Application.aspx?App=StJohnsCountyFL&Layer=Parcels&PageType=Search."
       ]
+    },
+    {
+      "label": "Florida Legislature: 2026 Section 720.3045",
+      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0700-0799/0720/Sections/0720.3045.html",
+      "checked": "2026-09-12",
+      "supports": [
+        "Independently retrieved the current official text on September 12. Its association restriction test covers visibility from the parcel frontage, adjacent parcels, adjacent common areas and a community golf course; it also retains the exception for prohibitions under general law or local ordinance. Fencing alone does not establish that the test is met."
+      ]
     }
   ],
   "reviewNotes": [
@@ -55,5 +63,8 @@
     "The Unit 6 conservation and preservation easement applies to named lots in one block, recorded at Book 482/Page 201. The page refers to it as certain lots in Unit 6 rather than listing them, and tells the reader to check their own Unit's recorded restrictions.",
     "Application fees and monthly assessments appear in both documents and are deliberately left off the page.",
     "Not established: how the ACC treats a synthetic-turf lawn, whether any Unit's recorded restrictions name turf, or which Unit any particular address falls in."
+  ],
+  "unresolved": [
+    "Current association documents and synthetic-turf eligibility remain unconfirmed: the manual reviewed is a January 2025 archive and the deed summary is a June 2024 archive. Public copy now requests current instructions rather than implying archival submission rules are necessarily current. The original local-evidence gap is only partly resolved by these documents."
   ]
 }

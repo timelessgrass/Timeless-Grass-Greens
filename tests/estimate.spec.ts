@@ -231,6 +231,74 @@ test('every service estimate action selects its matching project type', async ({
   expect(postGuard.posts).toHaveLength(0);
 });
 
+test('conflicting service preset asks for confirmation while generic actions resume saved answers', async ({ page, postGuard }) => {
+  await page.setViewportSize({ width: 390, height: 844 });
+  postGuard.respondWith(async (route) => { await route.fulfill({ status: 200, body: 'Mock success' }); });
+  await page.goto('/services/pet-turf/');
+  await expect(page.locator('form[data-wizard]')).toHaveClass(/is-wizard/);
+  const hero = page.locator('.hero__cta [data-estimate]');
+  const dialog = page.locator('dialog.estimate');
+  const form = page.locator('form.wiz--modal');
+  const note = form.locator('[data-wiz-preset-note]');
+  const close = async () => {
+    await dialog.locator('.estimate__x').click();
+    await expect(dialog).toBeHidden();
+  };
+
+  await hero.click();
+  await expect(form.locator('[data-wiz-n]')).toHaveText('2');
+  await expect(note).toBeHidden();
+  await form.locator('[data-wiz-back]').click();
+  await chooseWithKeyboard(form, 'Lawn');
+  await chooseWithKeyboard(form, LEAD.size);
+  await chooseWithKeyboard(form, LEAD.timeline);
+  const town = form.getByLabel('ZIP code or town and state', { exact: true });
+  await form.locator('[data-wiz-next]').click();
+  await expect(form.locator('[data-step]').nth(3).locator('.wiz__err')).toHaveText('Please enter your ZIP code or town and state.');
+  await town.fill(LEAD.town);
+  await form.locator('[data-wiz-next]').click();
+  for (const field of ['name', 'phone', 'email'] as const) await form.locator(`input[name="${field}"]`).fill(LEAD[field]);
+  await close();
+
+  // A generic opener resumes the existing project without changing its type or step.
+  await page.locator('.chrome__menu').click();
+  await page.locator('#menu [data-cta="quote-menu"]').click();
+  await expect(form.locator('[data-wiz-n]')).toHaveText('5');
+  await expect(form.locator('input[name="use"]:checked')).toHaveValue('Lawn');
+  await expect(form.locator('input[name="name"]')).toHaveValue(LEAD.name);
+  await expect(note).toBeHidden();
+  await close();
+
+  // The explicit Pet turf action exposes the requested change before the visitor continues.
+  await hero.click();
+  await expect(form.locator('[data-wiz-n]')).toHaveText('1');
+  await expect(form.getByRole('radio', { name: 'Pet turf', exact: true })).toBeChecked();
+  await expect(note).toBeVisible();
+  await expect(note).toContainText('Your other answers are saved');
+  expect(postGuard.posts).toHaveLength(0);
+  await close();
+  await hero.click();
+  await expect(form.locator('[data-wiz-n]')).toHaveText('1');
+  await expect(note).toBeVisible(); // Reopening does not silently skip pending confirmation.
+
+  await form.locator('[data-wiz-next]').click();
+  await expect(note).toBeHidden();
+  await expect(form.locator('input[name="size"]:checked')).toHaveValue(LEAD.size);
+  await form.locator('[data-wiz-next]').click();
+  await expect(form.locator('input[name="timeline"]:checked')).toHaveValue(LEAD.timeline);
+  await form.locator('[data-wiz-next]').click();
+  await expect(town).toHaveValue(LEAD.town);
+  await form.locator('[data-wiz-next]').click();
+  for (const field of ['name', 'phone', 'email'] as const) await expect(form.locator(`input[name="${field}"]`)).toHaveValue(LEAD[field]);
+  await form.getByRole('button', { name: 'Request a free estimate', exact: true }).click();
+  await expect(form.locator('[data-wiz-done]')).toBeVisible();
+  expect(postGuard.posts).toHaveLength(1);
+  const payload = new URLSearchParams(postGuard.posts[0].body);
+  for (const [field, value] of Object.entries(LEAD)) expect(payload.get(field), field).toBe(value);
+  expect(payload.get('form-name')).toBe('quote');
+  expect(payload.get('landing-page')).toBe('/services/pet-turf/');
+});
+
 test('failed submission retains every answer; retry succeeds without navigation', async ({ page, postGuard }) => {
   let attempt = 0;
   postGuard.respondWith(async (route) => {

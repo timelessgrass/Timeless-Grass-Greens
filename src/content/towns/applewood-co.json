@@ -79,7 +79,7 @@
     },
     {
       "q": "Do I need a Jefferson County permit for artificial turf in Applewood?",
-      "a": "For a normal yard, no. Jefferson County requires a grading permit once the disturbed area exceeds half an acre, 21,780 square feet (<a href=\"https://www.jeffco.us/3978/Engineering-and-Earthwork\" target=\"_blank\" rel=\"nofollow noopener\">Jefferson County</a>), which is far more ground than a back-yard green or lawn turns over. A yard project matches none of the named rows on the County's land-disturbance flyer, so it falls to the catch-all, “Anything Else”, where under 0.5 acre the permit column reads “None*” — and the asterisk sends you to Section 16 of the Zoning Resolution, whose performance standards you have to meet either way (<a href=\"https://www.jeffco.us/DocumentCenter/View/10314/Do-I-Need-a-Land-Disturbance-Permit-PDF\" target=\"_blank\" rel=\"nofollow noopener\">Jefferson County</a>). Applewood is unincorporated, so the office to ask is County Planning and Zoning, on 303-271-8700."
+      "a": "For an unincorporated Jefferson County property, a lawn project disturbing less than half an acre generally does not need a grading permit under the County’s land-disturbance table. The table still requires the performance standards in Section 16 to be met (<a href=\"https://www.jeffco.us/DocumentCenter/View/10314/Do-I-Need-a-Land-Disturbance-Permit-PDF\" target=\"_blank\" rel=\"nofollow noopener\">Jefferson County</a>). Floodplain approval is separate: any work within the County’s Floodplain Overlay District requires a floodplain permit, regardless of whether the project reaches the grading threshold (<a href=\"https://www.jeffco.us/2695/Floodplain-Management\" target=\"_blank\" rel=\"nofollow noopener\">floodplain requirements</a>). Before excavation, confirm your parcel’s jurisdiction and floodplain status with Planning and Zoning on 303-271-8700, and describe the full work, including any retaining walls or putting green."
     },
     {
       "q": "Can an HOA stop turf in an Applewood back yard?",
@@ -152,6 +152,10 @@
     {
       "label": "Consolidated Mutual Water Company: drought and rate bill insert",
       "url": "https://www.cmwc.net/wp-content/uploads/2026/04/cmwc_rates_flyer_FINAL.pdf"
+    },
+    {
+      "label": "Jefferson County: floodplain management and permit requirements",
+      "url": "https://www.jeffco.us/2695/Floodplain-Management"
     }
   ],
   "checked": "2026-09-12",

@@ -5,7 +5,7 @@ description: Consider heat, falls, materials and care when planning a children�
 h1: Is artificial turf suitable for a children’s play area?
 topic: Heat and safety
 published: '2026-09-10'
-updated: '2026-09-11'
+updated: '2026-09-12'
 answer:
   question: Is artificial turf suitable for a children’s play area?
   answer: It can be an option, but there is no blanket safety answer for every turf or play area. Consider heat, equipment and falls, the documented materials and routine care. Under play equipment, confirm the surfacing requirements and obtain test information for the complete proposed system before installation.
@@ -13,7 +13,7 @@ faq:
   - q: Is turf OK under a swing set or play structure?
     a: Only as a tested system. The <a href="https://www.cpsc.gov/s3fs-public/325_PublicPlaygroundSafetyHandbook2025_7-30-25_1.pdf?VersionId=tpCoaKp.DSdJ0QmD4_29kwEHeQgFphM2" target="_blank" rel="nofollow noopener">CPSC's playground handbook</a> says carpet, mats and similar surfaces aren't appropriate unless they're impact-tested to ASTM F1292. Under equipment, that means turf over a shock pad, with a tested critical height at least equal to the highest play surface.
   - q: Does artificial turf get too hot for kids?
-    a: It can in full summer sun. In a <a href="https://www.westcoastturf.com/getdoc.cfm?id=38" target="_blank" rel="nofollow noopener">Brigham Young University study</a>, turf averaged 117°F across the day against 78°F for grass. Kids are closer to the surface and touch it more, so put play areas in shade and check the surface with your hand before bare feet go on it.
+    a: It can in full summer sun. In a <a href="https://www.westcoastturf.com/getdoc.cfm?id=38" target="_blank" rel="nofollow noopener">Brigham Young University study</a>, turf averaged 117°F across the day against 78°F for grass. Kids are closer to the surface and touch it more, so plan shade and a cooler alternative, and assess conditions before and during play. A quick touch does not establish a safe play period.
   - q: Is rubber infill safe for kids?
     a: The research is still coming in. In a small pilot study summarized by <a href="https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf" target="_blank" rel="nofollow noopener">New Jersey's environment department</a>, metals in blood didn't rise after play on outdoor turf. Florida's home-lawn standard keeps rubber infill off the lawn but allows it within the footprint of playground equipment. If you'd rather avoid rubber, natural infill over a shock pad is an option.
   - q: Should kids wear shoes on turf?
@@ -105,8 +105,8 @@ Florida's standard for home lawns prohibits heavy metals and intentionally added
 ## A safer play area, step by step
 
 1. **Put the play area in afternoon shade,** or add a shade sail or pergola over it.
-2. **Check the surface with the back of your hand** before bare feet or a toddler goes on it.
-3. **Shoes on hot days.** The CPSC handbook tells adults to make sure kids wear footwear on hot surfacing.
+2. **Monitor conditions before and during play.** Move the activity to a cooler surface when needed; do not use a brief hand test as clearance to play.
+3. **Follow footwear guidance.** The CPSC handbook calls for footwear on hot surfacing. Shoes do not replace shade, supervision or a decision to move play when conditions are unsuitable.
 4. **Under equipment, use a tested system:** turf over a shock pad, rated to ASTM F1292 for your highest play surface.
 5. **Keep the use zone clear,** at least 6 feet around climbers and similar equipment.
 6. **Rinse it regularly** and pick up after pets.

@@ -5,7 +5,7 @@ description: Heat, wear, odor or recurring puddles can prompt a change. Compare 
 h1: When should artificial grass be repaired or removed?
 topic: Care and lifespan
 published: '2026-09-10'
-updated: '2026-09-11'
+updated: '2026-09-12'
 answer:
   question: When should artificial grass be repaired or removed?
   answer: People may consider removal when turf is worn, uncomfortable for its intended use or affected by recurring problems. Start by identifying the concern and assessing the installation. Cleaning, a targeted repair, a different layout or replacement may involve very different scopes; a complaint alone does not tell you which is appropriate.
@@ -13,7 +13,7 @@ faq:
   - q: How long should artificial grass last?
     a: '<a href="https://ask.ifas.ufl.edu/publication/EP612" target="_blank" rel="nofollow noopener">UF/IFAS Extension</a> puts it at perhaps 10 to 20 years, depending on the quality of ongoing care. Sports fields take far more wear: <a href="https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf" target="_blank" rel="nofollow noopener">New Jersey''s environment department</a> expects about 10 to 12 years with proper maintenance.'
   - q: Can old turf be replaced without redoing the base?
-    a: Sometimes. A base that's still level, compacted and draining can be regraded and reused, which saves a lot of work. If it was never built to drain, reusing it repeats the problem, so it gets rebuilt.
+    a: Sometimes. Have the base, drainage and proposed replacement system assessed together. The written scope should identify what can remain, what needs repair and why any material must be removed. Existing puddles or odor do not establish that the entire base needs rebuilding.
   - q: Can old artificial turf be recycled?
     a: Rarely, so far. <a href="https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf" target="_blank" rel="nofollow noopener">New Jersey's environment department</a> found that the standard practice is still landfill or incineration, and that very few options exist to reuse or recycle it. Florida's rule for home lawns requires turf to be disposable at a permitted landfill.
   - q: Will new turf fix a drainage or smell problem?
@@ -67,7 +67,7 @@ publicReferences:
 
 This is the complaint people least expect. [UF/IFAS Extension](https://blogs.ifas.ufl.edu/global/2025/07/15/considering-synthetic-turf-what-homeowners-should-know-before-installation/) warns that "surface temperatures can exceed 160 degrees in full sun, which poses risks for both people and pets." In a [Brigham Young University study](https://www.westcoastturf.com/getdoc.cfm?id=38), synthetic turf averaged 117°F across a summer day against 78°F for natural grass. Hosing it down helped for minutes, not hours: watering dropped the surface from 174°F to 85°F, but it read 120°F again five minutes later and 164°F after twenty.
 
-A lawn nobody can use on a July afternoon is a lawn that gets torn out. The fix is placement. In a [2024 analysis of 23 studies](https://pmc.ncbi.nlm.nih.gov/articles/PMC11272752/), sun against shade moved the surface temperature by about 25°C. So play areas and dog runs go where the afternoon shade falls, and full-sun strips are for looks. The numbers are in [how hot artificial turf gets](/blog/how-hot-does-artificial-turf-get/).
+If heat interferes with the way you use the yard, compare shade, a different layout and replacement before choosing a remedy. In a [2024 analysis of 23 studies](https://pmc.ncbi.nlm.nih.gov/articles/PMC11272752/), sun against shade moved the surface temperature by about 25°C. That measured difference supports planning shade over play areas and dog runs, while checking actual conditions before and during use. The numbers are in [how hot artificial turf gets](/blog/how-hot-does-artificial-turf-get/).
 
 ## The pet area started to smell
 
@@ -79,7 +79,7 @@ Many manufacturers recommend a weekly wash-down, according to the same UF/IFAS p
 
 Turf drains. The question is where the water goes next. [New Jersey's environment department](https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf) notes that a turf rated to drain 10 inches an hour doesn't mean "the ground underneath will infiltrate at that same rate," and that clay "can quickly become saturated." It adds that "poor installation and inadequate drainage systems can exacerbate flooding."
 
-Over-compacting makes it worse. UF/IFAS points out that turf laid over compacted soil "reduces infiltration" and increases the volume and speed of runoff. A puddle that comes back after every storm is a base problem, not a turf problem. What runs off can carry more than water, too: UF/IFAS notes that runoff from turf "can carry heavy metals and other pollutants, especially when rubber infill is used."
+Over-compacting makes it worse. UF/IFAS points out that turf laid over compacted soil "reduces infiltration" and increases the volume and speed of runoff. A recurring puddle calls for an assessment of the surface, base, underlying ground and intended drainage route. Its location alone does not identify the failed part or establish that a rebuild is needed. What runs off can carry more than water, too: UF/IFAS notes that runoff from turf "can carry heavy metals and other pollutants, especially when rubber infill is used."
 
 ## Seams, edges and lumps
 

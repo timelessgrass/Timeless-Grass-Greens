@@ -161,10 +161,49 @@
 .benefits--summary .benefit { padding: 1.2rem 0; border: 0; border-top: 1px solid var(--rule); border-radius: 0; background: transparent; }
 .benefits--summary .benefit:hover { transform: none; box-shadow: none; }
 .benefits--summary .benefit__ico { width: 40px; height: 40px; margin-bottom: .8rem; }
-.doc__toc { margin-top: 1.5rem; padding-top: 1.2rem; border-top: 1px solid var(--rule); }
-.doc__toc > p { margin-bottom: .5rem; font-weight: 600; }
-.doc__toc ol { display: grid; gap: .35rem; padding-left: 1.25rem; margin: 0; }
-.doc__toc a { display: inline-block; padding-block: .25rem; color: var(--accent); text-underline-offset: .2em; }
 .doc__jump { margin-top: 1rem; }
-.doc__jump a { color: var(--accent); font-weight: 600; }
+.doc__jump a { display: inline-flex; align-items: center; min-height: 44px; color: var(--accent); font-weight: 600; }
+.reading-estimate { margin-top: 1.5rem; max-width: 58ch; }
+.reading-estimate > p { margin: 0 0 .8rem; }
+.reading-estimate .reading-estimate__note { margin: .65rem 0 0; color: var(--ink-dim); font-size: 1rem; }
+.reading-estimate .btn { max-width: 100%; }
+.reading-estimate__actions { display: flex; flex-wrap: wrap; align-items: center; gap: .5rem 1.25rem; }
 .doc :is(h2, h3)[id], .doc__sec[id] { scroll-margin-top: calc(var(--chrome-h, 84px) + 1.5rem); }
+
+/* Reading pages: one text column, a quiet contents rail and visible section boundaries. */
+.doc__reading { padding-block: clamp(2rem, 5vw, 4rem); }
+.doc__layout { display: grid; gap: 2rem; max-width: 720px; }
+.doc__intro { min-width: 0; padding: clamp(1.1rem, 3vw, 2rem); background: var(--ground-band); border-top: 3px solid var(--accent); }
+.doc__intro .answer-box__q { font-size: clamp(1.45rem, 2.5vw, 1.9rem); line-height: 1.15; }
+.doc__intro .answer-box__a { border: 0; padding: 0; color: var(--ink); font-size: 1.1rem; line-height: 1.75; }
+.doc__intro .reading-estimate { border-top: 1px solid var(--rule); padding-top: 1.25rem; }
+.doc__intro .doc__jump { margin-bottom: 0; }
+.doc__body { min-width: 0; }
+.doc__body .doc__sec p, .doc__prose li { font-size: clamp(1.0625rem, 1.3vw, 1.125rem); line-height: 1.75; }
+.doc__body .doc__sec p { max-width: none; margin-bottom: 1.2em; }
+.doc__prose > h2, .doc__guide-section > h2 { padding-top: 1.4rem; border-top: 1px solid var(--rule); font-size: clamp(1.65rem, 3vw, 2.15rem); line-height: 1.15; margin-bottom: 1.1rem; }
+.doc__prose > h2 { margin-top: clamp(2.5rem, 5vw, 3.5rem); }
+.doc__prose > h2:first-child { margin-top: 0; }
+.doc__prose > h2::before, .doc__guide-section > h2::before { content: ""; display: block; width: 2rem; height: 3px; margin: -1.5rem 0 1.3rem; background: var(--accent); }
+.doc__prose li { margin-block: .7rem; padding-left: .2rem; }
+.doc__prose li::marker { color: var(--accent); font-weight: 600; }
+.doc__prose h2[id*="checklist"] + :is(ol, ul) { padding: 1rem 1.4rem 1rem 3rem; background: var(--ground-band); }
+.doc__prose h2[id*="checklist"] + :is(ol, ul) > li { padding: .65rem 0 .65rem .35rem; margin: 0; border-bottom: 1px solid var(--rule); }
+.doc__prose h2[id*="checklist"] + :is(ol, ul) > li:last-child { border-bottom: 0; }
+.doc__prose blockquote { margin: 1.8rem 0; padding: 1.3rem 1.5rem; background: var(--ground-band); border-left: 3px solid var(--accent); }
+.doc__prose blockquote > :last-child { margin-bottom: 0; }
+.doc__table { margin-block: 1.5rem; overflow-x: auto; overscroll-behavior-x: contain; }
+.doc__prose .doc__table-note { margin: 1.5rem 0 -.8rem; color: var(--ink-dim); font-size: 1rem; }
+.doc__table:focus-visible { outline: 2px solid var(--accent); outline-offset: 4px; }
+.doc__table table { width: 100%; min-width: 540px; border-collapse: collapse; text-align: left; font-size: 1rem; }
+.doc__table :is(th, td) { padding: 1rem; border-bottom: 1px solid var(--rule); vertical-align: top; }
+.doc__table thead { background: var(--ground-green); color: var(--ink-on-dark); }
+.doc__table tbody tr:nth-child(even) { background: var(--ground-band); }
+@media (min-width: 700px) { .doc__table-note { display: none; } }
+@media (min-width: 1000px) {
+  .doc__layout { max-width: 1180px; grid-template-columns: minmax(0, 720px) minmax(220px, 1fr); column-gap: clamp(2.5rem, 5vw, 5rem); row-gap: 3rem; }
+  .doc__intro { grid-column: 1; grid-row: 1; }
+  .doc__body { grid-column: 1; grid-row: 2; }
+  .doc__rail { grid-column: 2; grid-row: 1 / span 2; min-width: 0; }
+  .doc__rail > .doc__contents { position: sticky; top: calc(var(--chrome-h, 84px) + 1.5rem); max-height: calc(100dvh - var(--chrome-h, 84px) - 3rem); overflow-y: auto; }
+}
