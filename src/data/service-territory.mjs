@@ -108,6 +108,10 @@ export const GRAND_STRAND_INTERIOR_IDS = new Set([
   'cherry-grove-beach-sc', 'ocean-drive-beach-sc', 'crescent-beach-sc', 'windy-hill-beach-sc',
   'shallotte-nc', 'calabash-nc', 'carolina-shores-nc', 'sunset-beach-nc', 'ocean-isle-beach-nc',
   'grissettown-nc', 'sandpiper-bay-nc', 'sea-trail-nc',
+  'murrells-inlet-sc',
+  'garden-city-sc',
+  'ash-nc',
+  'pireway-nc',
 ]);
 
 // Places inside the client's drawn Denver and northeast Florida outlines that earned a page once the
@@ -125,6 +129,10 @@ export const DENVER_INTERIOR_IDS = new Set([
   'sherrelwood-co',
   'sierra-ridge-co',
   'welby-co',
+  'the-pinery-co',
+  'roxborough-park-co',
+  'louviers-co',
+  'morrison-co',
 ]);
 export const NORTHEAST_FLORIDA_INTERIOR_IDS = new Set([
   'deerwood-fl',
@@ -134,6 +142,10 @@ export const NORTHEAST_FLORIDA_INTERIOR_IDS = new Set([
   'riverside-avondale-fl',
   'springfield-fl',
   'yulee-fl',
+  'green-cove-springs-fl',
+  'penney-farms-fl',
+  'callahan-fl',
+  'hilliard-fl',
 ]);
 
 export function townEligibility(id, data) {
