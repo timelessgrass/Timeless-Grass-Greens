@@ -1,0 +1,153 @@
+{
+  "intent": "I want artificial turf for my dog on the Grand Strand. What do I need to plan for here that a generic pet-turf page won't tell me: summer heat and shade rules, where waste and rinse water are allowed to go, standing water, flood-zone permits, and anything special if I keep several dogs?",
+  "distinctValue": "The national pet-turf page covers layout, cleaning access and odor in general terms, and sibling Grand Strand pages already carry the soil pair and the state-line surface rules. This page is built on the local rules that change how a dog area is planned, read in the live Municode text through the Municode API on 2026-09-12. (1) Heat and shade: NOAA's 1991-2020 normals for the North Myrtle Beach airport give average July and August daily highs of 87.6 and 86.5 degrees F, above the 85-degree line in Horry County Code Sec. 4-3, which requires whole-body shade in daylight for a dog outside more than thirty minutes without the physical presence of an owner or caretaker and says a doghouse is inadequate. Sec. 4-2 keeps that chapter out of incorporated municipalities unless a majority of the governing body asks by written, signed resolution and county council approves. North Myrtle Beach Sec. 4-1 requires whole-body shade for dogs left outside and unattended with no temperature trigger, defines outside and unattended as more than fifteen minutes and not in visual range and physical presence of the owner, expressly including a securely fenced yard, and Sec. 4-5(e) bars leaving such a dog out during a National Weather Service severe weather advisory or warning. (2) Waste and odor: Horry 4-3 and NMB 4-1 require a containment area free of accumulated waste; Myrtle Beach Sec. 4-5(4) declares unsanitary conditions resulting in offensive odors a public nuisance; NMB Sec. 13-85(a) bars leaving pet fecal matter on public or private property where it may cause or contribute to pollution; Myrtle Beach Sec. 18-5(a)(5) lists animal feces among materials that may not be discharged into city stormwater facilities or waters of the state; Horry Sec. 17.7-29(b)(1), in an article that applies to unincorporated areas (Sec. 17.7-28(b)), defines illicit discharges as all non-stormwater discharges except a list that includes lawn watering and landscape irrigation and does not mention washing a pet area, so the page tells readers to ask the county. (3) Standing water: the same drainage clause in Horry 4-3 and NMB 4-1; Horry 4-3 points to Sec. 10-19, which bars letting property serve as a mosquito breeding place and requires keeping ditches, ponds and pipes clear. One sentence carries the USDA Leon and Newhan descriptions, with the Loris page for detail; no inference about urine or drying speed is attributed to USDA. (4) Flood-zone lots: Horry Ch. 9 Sec. 9-5 applies the chapter to FEMA special flood hazard areas and the supplemental flood zone; Sec. 9-1 defines development to include filling, grading, paving and excavation; Sec. 9-6 requires a development permit before any development; Sec. 9-33 sends the application to the floodplain administrator; Sec. 9-51(13) requires compensatory storage when fill is used. The page tells readers to ask about a permit before any digging, raised or not, and treats fill as a second question. (5) Several dogs: Myrtle Beach Sec. 4-1 includes an owner or keeper of four or more dogs over four months of age in its kennel definition, and Sec. 4-12 requires an animal control inspection and, for non-commercial kennels, sealed impervious floors sloped to the sanitary sewer and 15 square feet per animal; the page tells multi-dog owners to ask animal control before planning turf. The state line gets one FAQ that names North Myrtle Beach Sec. 23-129.4 with its exact scope and its subsection (f) point that the standard applies regardless of native soil conditions with no site-specific soil testing, and links the NC vs SC guide; the page no longer states the content of N.C.G.S. 143-214.7D, because ncleg.gov (HTML and PDF) still returned 403 on 2026-09-12 and the only reachable copy was a consultant's April 2026 blog quotation. The Horry County government site timed out and cityofmyrtlebeach.com and des.sc.gov returned 403 on 2026-09-12, so no claim rests on those sites. Pet-odor cleaning is not sold on this page.",
+  "sources": [
+    {
+      "label": "NOAA NCEI U.S. Climate Normals 1991-2020, monthly normals, N Myrtle Beach Airport (USW00093718)",
+      "url": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00093718.csv",
+      "checked": "2026-09-12",
+      "supports": [
+        "STATION USW00093718, NAME \"N MYRTLE BCH AP, SC US\", dataset normals-monthly 1991-2020",
+        "MLY-TMAX-NORMAL: month 06 = 84.8; month 07 = 87.6; month 08 = 86.5; month 09 = 83.2 (degrees F)",
+        "Annual/seasonal file for the same station (https://www.ncei.noaa.gov/data/normals-annualseasonal/1991-2020/access/USW00093718.csv): JJA-TMAX-NORMAL = 86.3; ANN-TMAX-AVGNDS-GRTH090 = 20.9"
+      ]
+    },
+    {
+      "label": "Horry County Code of Ordinances, Ch. 4, Art. I (Secs. 4-2 and 4-3)",
+      "url": "https://library.municode.com/sc/horry_county/codes/code_of_ordinances?nodeId=COOR_CH4ANFO_ARTISMANMA",
+      "checked": "2026-09-12",
+      "supports": [
+        "Municode latest job for product 10129 (API, read 2026-09-12): Supplement 88, codified through Ordinance No. 37-2026, adopted June 16, 2026; MaxTrackingDate 2026-08-12 (current through 12 August 2026).",
+        "Sec. 4-2. - Applicability. The provisions of this chapter shall not apply to those areas of the county located within the confines of any legally incorporated municipality within the county, unless a majority of the governing body of a municipality, by written and signed resolution, formally requests to include the area of such municipality within the coverage of this chapter and the county council has acted favorably on such a request and has so notified such municipality of its approval of such a request. (Ord. No. 69-07, 5-15-07)",
+        "Sec. 4-3(b)(1): The containment area for the animal shall be free of accumulated waste and debris so that the animal shall be free to walk or lie down without coming in contact with waste or debris; shall be free of unsanitary conditions; reasonable measures should be taken to keep the area free of ticks, fleas, flies, and also comply with the county mosquito ordinance section 10-19, exterior property maintenance. A suitable method of drainage shall be provided to rapidly eliminate any excess water or moisture.",
+        "For dogs outside for more than thirty (30) minutes without the physical presence of an owner or caretaker, proper shelter shall meet the following minimum standards:",
+        "c. During times when the forecasted or actual outdoor temperature measures eighty-five (85) degrees Fahrenheit or higher, each dog must be afforded one (1) or more separate areas of shade large enough to accommodate the entire body of the dog at one time to ensure protection from the direct rays of the sun during all daylight hours. A doghouse is inadequate protection from the sun."
+      ]
+    },
+    {
+      "label": "North Myrtle Beach Code of Ordinances, Ch. 4, Art. I, Sec. 4-1 (Definitions)",
+      "url": "https://library.municode.com/sc/north_myrtle_beach/codes/code_of_ordinances?nodeId=COOR_CH4ANFO_ARTIINGE_S4-1DE",
+      "checked": "2026-09-12",
+      "supports": [
+        "Municode latest job for product 11359 (API, read 2026-09-12): Supplement 106, codified through Ordinance No. 26-12, adopted March 16, 2026; MaxTrackingDate 2026-07-23 (current through 23 July 2026).",
+        "Adequate shelter: That shelter which will keep a non-aquatic animal dry, out of the direct path of winds and out of the direct sun and at a temperature level that is healthful for the animal. The containment area for the animal shall be free of accumulated waste and debris so that the animal shall be free to walk or lie down without coming in contact with waste or debris. A suitable method of drainage shall be provided to rapidly eliminate any excess water or moisture.",
+        "For dogs left outside and unattended, adequate shelter shall meet the following minimum standards: ... (c) All dogs must be afforded one (1) or more separate areas of shade large enough to accommodate the entire body of the dog at one (1) time to ensure protection from the direct rays of the sun.",
+        "Outside and unattended: Any dog who is exposed to the elements for a duration of longer than fifteen (15) minutes and not in visual range and physical presence of the owner. This expressly includes, but is not limited to, a dog in a securely fenced-in yard, a dog in a kennel, or a dog that is tethered.",
+        "Extreme weather: Any period in which a severe weather advisory or warning has been issued for the area by the National Weather Service."
+      ]
+    },
+    {
+      "label": "North Myrtle Beach Code of Ordinances, Ch. 4, Art. I, Sec. 4-5 (Cruelty to or poisoning of animals)",
+      "url": "https://library.municode.com/sc/north_myrtle_beach/codes/code_of_ordinances?nodeId=COOR_CH4ANFO_ARTIINGE_S4-5CRPOAN",
+      "checked": "2026-09-12",
+      "supports": [
+        "(e) It shall be unlawful to leave a dog outside and unattended during extreme weather. (Code 1970, §§ 5-5, 5-6; Ord. of 3-19-80; Ord. No. 02-45, § 2, 10-21-02; Ord. No. 19-36, 8-19-19)"
+      ]
+    },
+    {
+      "label": "North Myrtle Beach Code of Ordinances, Ch. 13, Art. IV, Sec. 13-85 (Waste disposal prohibitions)",
+      "url": "https://library.municode.com/sc/north_myrtle_beach/codes/code_of_ordinances?nodeId=COOR_CH13STMAERCO_ARTIVDEREILCODIIMDI_S13-85WADIPR",
+      "checked": "2026-09-12",
+      "supports": [
+        "(a) No person shall throw, deposit, leave, maintain, keep, or permit to be thrown, deposited, left, or maintained, in or upon any public or private property, driveway, parking area, street, alley, sidewalk, component of the small municipal separate stormwater system, or water of the U.S., any refuse, rubbish, garbage, litter, pet fecal matter, or other discarded or abandoned objects, articles, and accumulations, so that the same may cause or contribute to pollution. (Ord. No. 19-33, 8-19-19)"
+      ]
+    },
+    {
+      "label": "Myrtle Beach Code of Ordinances, Ch. 4 (Animals): Secs. 4-1, 4-5 and 4-12",
+      "url": "https://library.municode.com/sc/myrtle_beach/codes/code_of_ordinances?nodeId=COOR_CH4AN",
+      "checked": "2026-09-12",
+      "supports": [
+        "Municode latest job for product 10726 (API, read 2026-09-12): Republication, codified through Ordinance No. 2025-30, enacted April 22, 2025; MaxTrackingDate 2026-02-16 (current through 16 February 2026).",
+        "Sec. 4-1: Kennel means any facility wherein a person, business entity or organization regularly keeps six or more dogs or other animals for any purpose and receives compensation or barter for the service or for the sale of the animal, or a owner or keeper of four or more dogs over four months of age.",
+        "Sec. 4-5: By way of example and not of limitation, the following acts or actions by an owner or keeper of any animal are declared to be a public nuisance and are therefore unlawful: ... (4) Maintaining animals in an environment of unsanitary conditions which results in offensive odors or is dangerous to the animal or to the public health, welfare or safety.",
+        "Sec. 4-12. - Kennels. No person shall own or operate a kennel without an inspection by the animal control officer. Commercial kennels shall be constructed, maintained and operated in conformance with the current standards and procedures promulgated by the Humane Society of the United States. Non-commercial kennels must be connected to the city's sanitary sewer system with floors constructed of impervious material, treated with sealer and a slope of at least one half inch per foot for drainage to the sanitary sewer. Enclosures must have at least 15 square feet per animal and comply with all applicable building and zoning codes for structures. (Ord. No. 2001-17, 7-10-01)"
+      ]
+    },
+    {
+      "label": "Myrtle Beach Code of Ordinances, Ch. 18, Sec. 18-5 (Prohibition of non-stormwater discharges)",
+      "url": "https://library.municode.com/sc/myrtle_beach/codes/code_of_ordinances?nodeId=COOR_CH18STMA_ARTIINGE_S18-5PRNORDIINSTMAFAWAST",
+      "checked": "2026-09-12",
+      "supports": [
+        "(a) Prohibitions. No person shall discharge or cause to be discharged into the city stormwater management facilities or waters of the state any of the following: ... (5) Solid or floatable waste. Solid or floatable discharges which will or may cause interference with the proper operation of the stormwater management facilities. Prohibited materials include, but are not limited to, grease, garbage, animal feces, ashes, cinders, sand, ..."
+      ]
+    },
+    {
+      "label": "Horry County Code of Ordinances, Ch. 10, Art. I, Sec. 10-19 (Exterior property maintenance requirements)",
+      "url": "https://library.municode.com/sc/horry_county/codes/code_of_ordinances?nodeId=COOR_CH10GATRRE_ARTIISOWAHADI_S10-19EXPRMARE",
+      "checked": "2026-09-12",
+      "supports": [
+        "(a) Duties of owners and occupants. No owner, agent, occupant or lessee of property shall permit such property to serve as a breeding place for mosquitoes, as a refuge for rats and snakes, or as a collecting place for debris, trash or litter, or a fire hazard. The owner, agent and/or occupant shall also keep drainage ditches, ponds and pipes clear of litter, debris, weeds and brush that may block the flow of water and pose a flooding threat to surrounding properties or provide mosquito breeding habitat.",
+        "(Ord. No. 50-01, § 1, 7-10-01; Ord. No. 65-09, § 1, 9-1-09; Ord. No. 86-16, § 3, 12-6-16)"
+      ]
+    },
+    {
+      "label": "Horry County Code of Ordinances, Ch. 17.7, Art. III, Secs. 17.7-28 and 17.7-29 (Stormwater)",
+      "url": "https://library.municode.com/sc/horry_county/codes/code_of_ordinances?nodeId=COOR_CH17.7STMA_ARTIIISTMASECO_DIV1GEPR_S17.7-29AU",
+      "checked": "2026-09-12",
+      "supports": [
+        "Sec. 17.7-28(b): The provisions of this article shall apply throughout the unincorporated areas in Horry County, South Carolina.",
+        "Sec. 17.7-29(b): The county stormwater department shall have the authority to: (1) Prohibit and eliminate illicit connections and discharges to the county's stormwater system. ... Illicit discharges include all non-stormwater discharges except those from NPDES permitted industrial sources, fire-fighting activities, water line flushing, landscape irrigation, diverted stream flows, rising ground waters, unpolluted pumped ground water, discharges from potable water sources, foundation drains, air conditioning condensation, irrigation water, springs, water from crawl space pumps, footing drains, lawn watering, individual residential car washing, flows from riparian habitats and wetlands, dechlorinated swimming pool discharges, and street wash water."
+      ]
+    },
+    {
+      "label": "USDA Official Series Description: Leon",
+      "url": "https://soilseries.sc.egov.usda.gov/OSD_Docs/L/LEON.html",
+      "checked": "2026-09-12",
+      "supports": [
+        "Poorly drained and very poorly drained; moderate to moderately rapid permeability in the A and E horizons, moderate to moderately slow permeability in the Bh horizons, and rapidly permeable in the other layers.",
+        "The water table is at depths of 6 to 18 inches for 1 to 4 months during most years.",
+        "The Atlantic and Gulf Coastal Plain from Mississippi, Alabama, Florida, Georgia, South Carolina, North Carolina, Virginia and Maryland."
+      ]
+    },
+    {
+      "label": "USDA Official Series Description: Newhan",
+      "url": "https://soilseries.sc.egov.usda.gov/OSD_Docs/N/NEWHAN.html",
+      "checked": "2026-09-12",
+      "supports": [
+        "Excessively drained; slow runoff; very rapid permeability.",
+        "Newhan soils are on gently undulating dunes commonly near beaches and waterways along the coast.",
+        "Florida, North Carolina, South Carolina, and Virginia."
+      ]
+    },
+    {
+      "label": "Horry County Code of Ordinances, Ch. 9, Art. I (Secs. 9-1, 9-5 and 9-6)",
+      "url": "https://library.municode.com/sc/horry_county/codes/code_of_ordinances?nodeId=COOR_CH9FLDAPRCO_ARTIINGE",
+      "checked": "2026-09-12",
+      "supports": [
+        "Sec. 9-1: Development means any man-made change to improved or unimproved real estate, including, but not limited to, buildings or other structures, dredging, filling, grading, paving, excavation or drilling operations, or storage of equipment or materials.",
+        "Sec. 9-1: Supplemental flood zone means an official map created to approximate the actual extent of the flooding post Hurricane Florence and which created subzones to adjust for elevation differences in the flood.",
+        "Sec. 9-1: Compensatory storage means offset of any loss of flood storage capacity. The developer is required to offset new fill (dirt or compacted soil) put in the floodplain or supplemental flood zone by excavating an additional floodable area to replace the lost flood storage area. This should be done at a hydraulically equivalent sites. Engineering analyses must be provided to determine the adequacy of off-setting compensatory excavation.",
+        "Sec. 9-5: This chapter shall apply to all areas of special flood hazard within the jurisdiction of the county as identified by the Federal Emergency Management Agency (FEMA) in its flood insurance study, dated December 16, 2021 with accompanying maps and other supporting data that are hereby adopted by reference and declared to be a part of this chapter. ... This chapter also applies to any areas identified on the supplemental flood zone maps as shown in attachment A to the ordinance from which this chapter derived entitled \"supplemental flood zone.\" With the exception of roads within the supplemental flood zones.",
+        "Sec. 9-6. - Establishment of development permit. A development permit shall be required in conformance with the provisions of this chapter prior to the commencement of any development activities. (Ord. No. 68-2021, § 1, 7-13-21)"
+      ]
+    },
+    {
+      "label": "Horry County Code of Ordinances, Ch. 9, Art. II, Sec. 9-33 (Development permit and certification requirements)",
+      "url": "https://library.municode.com/sc/horry_county/codes/code_of_ordinances?nodeId=COOR_CH9FLDAPRCO_ARTIIAD_S9-33DEPECERE",
+      "checked": "2026-09-12",
+      "supports": [
+        "(a) Development permit. Application for a development permit shall be made to the local floodplain administrator on forms furnished by him or her prior to any development activities. The development permit may include, but not be limited to, plans in duplicate drawn to scale showing: the nature, location, dimensions, and elevations of the area in question; existing or proposed structures; and the location of fill materials, storage areas, and drainage facilities."
+      ]
+    },
+    {
+      "label": "Horry County Code of Ordinances, Ch. 9, Art. III, Sec. 9-51 (General standards)",
+      "url": "https://library.municode.com/sc/horry_county/codes/code_of_ordinances?nodeId=COOR_CH9FLDAPRCO_ARTIIIPRFLHARE_S9-51GEST",
+      "checked": "2026-09-12",
+      "supports": [
+        "(13) Compensatory storage must be provided when fill is used for development within the special flood hazard area or supplemental flood zone with the exception to major highways and publicly owned facilities. ... Compensatory storage must be provided to offset any loss of flood storage capacity to the base flood elevation or supplemental flood elevation whichever is higher. Engineering analyses will be required."
+      ]
+    },
+    {
+      "label": "North Myrtle Beach Code Sec. 23-129.4 (Ord. No. 25-45)",
+      "url": "https://library.municode.com/sc/north_myrtle_beach/codes/code_of_ordinances?nodeId=COOR_CH23ZO_ARTVIIGESURE_S23-129.4STPESUIMSUSIMIDURENOSUSIECDEPLRE",
+      "checked": "2026-09-12",
+      "supports": [
+        "Sec. 23-129.4. - Standards for pervious surfaces and impervious surfaces for single-family and duplex residences not subject to site-specific development plan review.",
+        "(2) Standards for pervious materials: To be considered pervious and excluded from impervious surface calculations, a material or system must: a. Be installed in a manner that allows water infiltration through the surface and into the ground; b. Demonstrate a minimum infiltration rate of two (2) inches per hour, based on manufacturer testing or accepted industry standards; c. Be installed according to manufacturer specifications, including required base materials and installation methods to achieve pervious performance; d. Permits for pervious surfaces are subject to inspection to confirm installation per approved specifications; e. Property owners are responsible for maintaining the system to ensure continued infiltration over time;",
+        "f. This standard applies regardless of native soil conditions. Site-specific soil testing is not required.",
+        "g. If these criteria are not met, the surface will be considered impervious, regardless of material type or labeling.",
+        "(Ord. No. 10-03, § 1, 4-5-10; Ord. No. 25-45, § 2, 10-6-25)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "intent": "A Grand Strand gym, training studio or indoor sports facility owner wants turf laid indoors and needs to know which state's building code the space follows, which office reviews it, and what to ask that office before choosing a product.",
+  "distinctValue": "The Grand Strand straddles two code systems, and every fact here is local and from a primary source. In South Carolina, state law has every city and county enforce the codes the Building Codes Council adopts from the International Code Council; Regulation 8-236 bars local governments from writing their own building codes, and work with a permit approved before a new edition's implementation date is finished and inspected under the code in effect when the permit was issued; Regulation 8-240 (amended effective May 24, 2024) requires the Council to adopt the latest editions at least every four years; Regulation 71-8300.2 (last amended effective May 26, 2023) has the State Fire Marshal adopt the latest codes the Council adopts. No primary South Carolina source opened on 2026-09-12 names the edition in force (the LLR Building Codes Council site refused connections), so the page names no South Carolina edition and tells the buyer to ask which edition will apply to the permit. In North Carolina, the Office of State Fire Marshal page checked 2026-09-12 lists the 2018 codes (2015 International Codes) as currently effective; the 2024 North Carolina Building Code (2021 IBC with NC amendments) is approved, takes effect 12 months after certification per the March 31, 2025 letter, applies earlier only at the owner's or agent's request, and the March 2026 engineering newsletter says its date is still moving. Shallotte's own planning page and Brunswick County's jurisdiction table name Brunswick County as the building and fire inspection office. The page does not restate model-code floor-finish text (no primary copy could be opened; UpCodes is a republisher), and turns those rules into questions for the office. Denver and northeast Florida pages carry none of this.",
+  "sources": [
+    {
+      "label": "S.C. Code Title 6, Chapter 9: Building codes",
+      "url": "https://www.scstatehouse.gov/code/t06c009.php",
+      "checked": "2026-09-12",
+      "supports": [
+        "SECTION 6-9-10. (A) All municipalities, as defined by Section 5-1-20, and counties in this State shall enforce building, energy, electrical, plumbing, mechanical, gas, and fire codes, referred to as building codes in this chapter, relating to the construction, livability, sanitation, erection, energy efficiency, installation of equipment, alteration, repair, occupancy, classification, or removal of structures located within their jurisdictions",
+        "SECTION 6-9-50. (A) The council shall adopt by reference and amend only the latest editions of the following nationally recognized codes and the standards referenced in those codes for regulation of construction within this State: building, residential, gas, plumbing, mechanical, fire, and energy codes as promulgated, published, or made available by the International Code Council, Inc."
+      ]
+    },
+    {
+      "label": "S.C. Code of Regulations Chapter 8: Building Codes Council (PDF generated July 23, 2025)",
+      "url": "https://www.scstatehouse.gov/coderegs/Chapter%208.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "8-236. Building Codes Adopted. (A) All building codes used within the state shall be adopted by the Council and enforced by local jurisdictions.",
+        "(B) Administration and enforcement of the latest adopted edition of any building code must occur in all local jurisdictions on the implementation date established by the Council. All new construction, additions, renovations, repair or work of any kind, to any system, in a building or structure, for which a completed building permit application has been approved prior to the implementation date, will be allowed to be completed and must be inspected under the building codes in effect at the time the original building permit was issued.",
+        "(C) Local jurisdictions are prohibited from writing or publishing any other building codes in part or in whole.",
+        "8-240. Building Codes Modification Procedure. (A) At least every four (4) years, the Council must adopt the latest edition of the nationally recognized codes as identified in S.C. Code Ann. § 6-9-50(A) with any modifications approved by the Council in accordance with statute and these regulations.",
+        "HISTORY (8-240): Added by State Register Volume 22, Issue No. 6, Part 3, eff June 26, 1998. Amended by State Register Volume 29, Issue No. 2, eff February 25, 2005; SCSR 48-5 Doc. No. 5248, eff May 24, 2024.",
+        "8-245. (A) The Council shall review and may grant local modifications to any of the Codes by the request of a local jurisdiction, for application strictly within that jurisdiction, when it determines that the changes are required to meet local needs due to physical or climatological conditions.",
+        "(C) Proposed local modifications of building codes shall not take effect in any local jurisdiction until after they have first been reviewed and approved by the Council."
+      ]
+    },
+    {
+      "label": "S.C. Code of Regulations Chapter 71 (Regulation 71-8300.2, Office of State Fire Marshal; PDF generated July 23, 2025)",
+      "url": "https://www.scstatehouse.gov/coderegs/Chapter%2071.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "71-8300.2. Codes and Standards. B. In accordance with S.C. Code Ann. Section 1-34-30(A), the Office of the State Fire Marshal hereby adopts the latest edition of the nationally-recognized codes with referenced standards adopted and promulgated by the South Carolina Building Codes Council.",
+        "The requirements of the IFC, International Fire Code, (as adopted pursuant to S.C. Code Ann. Section 6-9-5, et seq., 1976, as amended) shall constitute the minimum standards for fire prevention and life safety protection for construction, occupancy, and use of all buildings, structures, and premises within the scope of these regulations except as modified by these regulations.",
+        "HISTORY (71-8300.2): ... SCSR 47-5 Doc. No. 5161, eff May 26, 2023."
+      ]
+    },
+    {
+      "label": "NC Office of State Fire Marshal: State Building Codes, current and past",
+      "url": "https://www.ncosfm.gov/codes/codes-current-and-past",
+      "checked": "2026-09-12",
+      "supports": [
+        "The 2018 NC Codes (Effective 1/1/2019) include the 2018 NC Ad-Hoc Committee amendments as adopted by the Building Code Council and approved by the Rules Review Commission along with the 2015 International Codes.",
+        "The following 2018 Codes were effective from January 1, 2019 and are currently effective.",
+        "Please refer to the link below for a file that links to the approved rules that compromise 2024 North Carolina State Building Code",
+        "3/31/25: Please see the correspondence from State Fire Marshal ... providing an update regarding the effective date of the 2024 North Carolina State Building Code."
+      ]
+    },
+    {
+      "label": "NC Office of State Fire Marshal: Rules Review Commission links to the 2024 North Carolina State Building Code (April 3, 2025)",
+      "url": "https://www.ncosfm.gov/2025-0403-rules-review-commission-links-2024-north-carolina-state-building-code/open",
+      "checked": "2026-09-12",
+      "supports": [
+        "Rules Review Commission links to the 2024 North Carolina State Building Code as of 4/3/25",
+        "2024 North Carolina Building Code (2021 IBC with NC Amendments)"
+      ]
+    },
+    {
+      "label": "NC State Fire Marshal: letter on the 2024 State Building Code effective date (March 31, 2025)",
+      "url": "https://www.ncosfm.gov/letter-re-2024-state-building-code-effective-date/open",
+      "checked": "2026-09-12",
+      "supports": [
+        "March 31, 2025",
+        "Section 5.12(b) of S.L. 2025-2 provides that the 2024 Code will become effective 12 months after the State Fire Marshal certifies that the following events have occurred",
+        "Until the to-be-determined effective date of the 2024 Code, the 2018 North Carolina State Building Code remains in full force and should continue to be enforced as the governing standard, unless a building owner or his agent requests that the 2024 Code be applied to the project."
+      ]
+    },
+    {
+      "label": "NC Office of State Fire Marshal: Engineering Newsletter, March 2026",
+      "url": "https://www.ncosfm.gov/engineering-newsletter-march-2026/open",
+      "checked": "2026-09-12",
+      "supports": [
+        "Engineering Newsletter ... March 2026",
+        "2024 North Carolina State Building Code – Legislative Update",
+        "The following is a link to our website that addresses the steps required before the 2024 NC Building Code will become mandatorily effective. It is still a moving date, and we will update this as it changes, but as of this writing this letter is still current."
+      ]
+    },
+    {
+      "label": "Town of Shallotte: Planning and Zoning",
+      "url": "https://www.townofshallotte.org/planning_zoning",
+      "checked": "2026-09-12",
+      "supports": [
+        "The Town of Shallotte has land use and zoning jurisdiction over all land in the municipal limits and within the Town's 1-mile extraterritorial jurisdiction (ETJ).",
+        "Specific questions about building inspections should be directed to the Brunswick County Building Inspector, who performs building inspection services for the Town."
+      ]
+    },
+    {
+      "label": "Brunswick County: Municipal Jurisdictions",
+      "url": "https://www.brunswickcountync.gov/192/Municipal-Jurisdictions",
+      "checked": "2026-09-12",
+      "supports": [
+        "Table columns: Municipality | Flood Jurisdiction | Building Inspection | C.A.M.A. | Addressing | Zoning | Privilege License | Office Hours | Fire Inspection | Stormwater",
+        "Row: Shallotte | County | County | Wilmington | Town | Town | (blank) | 8 AM to 5 PM Monday through Friday | County | Town"
+      ]
+    },
+    {
+      "label": "Brunswick County: Code Administration",
+      "url": "https://www.brunswickcountync.gov/181/Code-Administration",
+      "checked": "2026-09-12",
+      "supports": [
+        "Welcome to Brunswick County Code Administration. The Code Administration Department includes Building Inspections, Central Permitting, and the Fire Marshal. We oversee Building and Fire permitting and inspections."
+      ]
+    }
+  ]
+}

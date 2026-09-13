@@ -1,0 +1,184 @@
+{
+  "intent": "We run a park, school, league or community development district field in Duval, St. Johns, Clay or Nassau County and want synthetic turf. Does Florida's 2026 turf rule apply, what permits and county code still reach the field, what does Florida's school heat law put on the site plan, and which bid rules decide how we buy the work?",
+  "distinctValue": "The national sports-field page carries no Florida rules; the Denver page covers Colorado's field exemption and PFAS law; the Grand Strand page covers Horry County stormwater; the northeast Florida commercial page covers Rule 62-308.100's commercial scope, SJRWMD handbook definitions and county landscape codes for business sites. This page gives a Florida field buyer what those pages do not: the DEP exclusion of athletic fields (stated once, in the answer box); that Rule 62-330.020 can require an ERP for a field unless an exception applies (linking the commercial page for SJRWMD's definitions rather than repeating them); that St. Johns County LDC 6.06.02.A.6 exempts sports fields from its Florida-Friendly planting rule while A.5 bars artificial plants from meeting landscaping requirements; that s. 1006.165 makes the FHSAA set heat-stress levels at which member schools must provide cooling zones with cold-water immersion year-round, measured from ambient site conditions; that s. 255.20 requires competitive award above $300,000, or $75,000 for electrical work, both indexed to the ENR Building Cost Index from 1 January 2009, with the repair exemption's 20 percent substantial-upgrade test and ban on splitting; St. Johns County's lit Silverleaf Sportsplex (14 April 2026, opening early 2027) as the lighting example; St. Johns County's Solomon Calhoun conversion (contract approved 4 February 2025, $2.1 million construction budget, phased CIP, FY2023 TDT, completion celebrated 18 October 2025) with the procurement method stated as not published; the Tolomato CDD's own list of district-owned Nocatee parks versus HOA neighborhood parks, and s. 190.033's routing of district public works to s. 255.20, CCNA for design and competitive solicitation for maintenance services; and school-board routes under s. 1013.45 and Rule 6A-1.012 ($50,000 or a lesser board-set amount). Surface-temperature research (UF/IFAS EP612, Singh et al. 2024) is left to the how-hot-does-artificial-turf-get article, and general NWS lightning advice was dropped as not specific to this area.",
+  "sources": [
+    {
+      "label": "Rule 62-308.100, F.A.C.: Synthetic Turf (adopted rule text)",
+      "url": "https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc",
+      "checked": "2026-09-12",
+      "supports": [
+        "(b) Pursuant to s. 125.572, F.S., this rule establishes minimum standards for the installation of synthetic turf on single-family residential properties of 1 acre or less in size.",
+        "(a) Synthetic turf, including backing material and infill, must not contain heavy metals or intentionally added per- and polyfluoroalkyl substances.",
+        "(c) Infill material, if used, shall only be clean silica sand, rock, shell, or other natural material, except that coated silica sand may be used provided that any coating used is non-toxic and meets the requirements described in paragraphs (2)(a) and (2)(b). Rubber or any other synthetic infill material is allowed only within the footprint of playground equipment",
+        "Rulemaking Authority 125.572 FS. Law Implemented 125.572 FS. History–New 5-19-26."
+      ]
+    },
+    {
+      "label": "Florida DEP: Synthetic Turf FAQ (Rule 62-308.100)",
+      "url": "https://floridadep.gov/sites/default/files/SyntheticTurfFAQ%20final.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "Does this rule apply to condominiums, duplexes, parks, athletic fields or commercial properties? No. This rule only applies to single-family residential properties that are 1 acre or less in size."
+      ]
+    },
+    {
+      "label": "Rule 62-330.020, F.A.C.: Regulated Activities (official Florida Administrative Code text, flrules.org)",
+      "url": "https://www.flrules.org/gateway/readFile.asp?sid=0&tid=20397080&type=1&file=62-330.020.doc",
+      "checked": "2026-09-12",
+      "supports": [
+        "(1) A permit under this chapter is not required for activities that qualify for:",
+        "(b) An exemption listed in Rule 62-330.051 or 62-330.0511, F.A.C., or in section 1.3 (District-specific exemptions) of the applicable Volume II;",
+        "(d) The “10/2” general permit for upland stormwater systems authorized in Section 403.814(12), F.S.",
+        "(2) Unless the activity qualifies under subsection (1), above, a permit is required prior to the construction, alteration, operation, maintenance, removal, or abandonment of any project that, by itself or in combination with an activity conducted after October 1, 2013, cumulatively results in any of the following:",
+        "(c) A total of more than 9,000 square feet of impervious and semi-impervious surface area;",
+        "(g) Any project that is part of a larger common plan of development or sale;",
+        "(i) Any project exceeding the thresholds in section 1.2 (District-specific thresholds) of the applicable Volume II, or",
+        "(j) Any modification or alteration of a project previously permitted under Part IV of Chapter 373, F.S.",
+        "History–New 10-1-13, Amended 6-1-18.",
+        "Read in full: the rule does not mention synthetic or artificial turf."
+      ]
+    },
+    {
+      "label": "St. Johns County Land Development Code, Article VI (Section 6.06.02.A, page VI-106 dated January 12, 2026)",
+      "url": "https://www.sjcfl.us/wp-content/uploads/2024/01/article-vi.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "5. Non-living ground cover, such as rocks, gravel, and mulch, may be used in combination with living plant material. The use of artificial plants shall not be permitted to meet any of the landscaping requirements.",
+        "6. All plantings shall be selected based on the principles of Florida Friendly ... landscaping including planting the right plant in the right place and providing for efficient watering. Exempt from this requirement are golf courses, sports fields, Agriculture and Silviculture.",
+        "Page footer between the two parts of item 6: St. Johns County Land Development Code VI-106, January 12, 2026."
+      ]
+    },
+    {
+      "label": "Fla. Stat. 1006.165: Well-being of students participating in extracurricular activities; training (2026 Florida Statutes)",
+      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=1000-1099/1006/Sections/1006.165.html",
+      "checked": "2026-09-12",
+      "supports": [
+        "(2)(a) In order to better protect student athletes participating in athletics during hot weather and avoid preventable injury or death, the FHSAA shall:",
+        "2. Establish guidelines for monitoring heat stress and identify heat stress levels at which a school must make a cooling zone available for each outdoor athletic contest, practice, workout, or conditioning session. Heat stress must be determined by measuring the ambient temperature, humidity, wind speed, sun angle, and cloud cover at the site of the athletic activity.",
+        "3. Require member schools to monitor heat stress and modify athletic activities, including suspending or moving activities, based on the heat stress guidelines.",
+        "5. Establish requirements for cooling zones, including, at a minimum, the immediate availability of cold-water immersion tubs or equivalent means to rapidly cool internal body temperature when a student exhibits symptoms of exertional heat stroke and the presence of an employee or volunteer trained to implement cold-water immersion.",
+        "The requirements of this paragraph apply year-round.",
+        "(b) Each athletic coach and sponsor of extracurricular activities involving outdoor practices or events shall annually complete training in exertional heat illness identification, prevention, and response, including effective administration of cooling zones.",
+        "History. — s. 8, ch. 2006-301; s. 2, ch. 2020-91; s. 4, ch. 2025-183; s. 4, ch. 2026-90."
+      ]
+    },
+    {
+      "label": "Fla. Stat. 255.20: Local bids and contracts for public construction works (2026 Florida Statutes)",
+      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0255/Sections/0255.20.html",
+      "checked": "2026-09-12",
+      "supports": [
+        "(1) A county, municipality, special district as defined in chapter 189, or other political subdivision of the state seeking to construct or improve a public building, structure, or other public construction works must competitively award to an appropriately licensed contractor each project that is estimated to cost more than $300,000. For electrical work, the local government must competitively award to an appropriately licensed contractor each project that is estimated to cost more than $75,000.",
+        "As used in this section, the term “competitively award” means to award contracts based on the submission of sealed bids, proposals submitted in response to a request for proposal, proposals submitted in response to a request for qualifications, or proposals submitted for competitive negotiation.",
+        "Subject to the provisions of subsection (3), the county, municipality, special district, or other political subdivision may establish, by municipal or county ordinance or special district resolution, procedures for conducting the bidding process.",
+        "5. If the project is undertaken as repair or maintenance of an existing public facility.",
+        "Repair or maintenance does not include the construction of any new building, structure, or other public construction works or any substantial addition, extension, or upgrade to an existing public facility. Such additions, extensions, or upgrades shall be considered substantial if the estimated cost of the additions, extensions, or upgrades included as part of the repair or maintenance project exceeds the threshold amount in subsection (1) and exceeds 20 percent of the estimated total cost of the repair or maintenance project fully accounting for all costs associated with performing and completing the work",
+        "Repair and maintenance projects and any related additions, extensions, or upgrades may not be divided into multiple projects for the purpose of evading the requirements of this subparagraph.",
+        "(2) The threshold amount of $300,000 for construction or $75,000 for electrical work, as specified in subsection (1), must be adjusted by the percentage change in the Engineering News-Record’s Building Cost Index from January 1, 2009, to January 1 of the year in which the project is scheduled to begin.",
+        "History. — s. 1, ch. 61-495; s. 1, ch. 94-175; s. 4, ch. 95-310; s. 5, ch. 95-341; s. 1, ch. 99-181; s. 62, ch. 2002-20; s. 9, ch. 2003-286; s. 1, ch. 2009-210; s. 54, ch. 2012-30; s. 4, ch. 2013-193; s. 81, ch. 2014-22; s. 2, ch. 2020-154."
+      ]
+    },
+    {
+      "label": "St. Johns County: Silverleaf Sportsplex and Shearwater Community Park Under Construction (14 April 2026)",
+      "url": "https://www.sjcfl.us/silverleaf-sportsplex-and-shearwater-community-park-under-construction/",
+      "checked": "2026-09-12",
+      "supports": [
+        "14 April 2026",
+        "The complex will include four multipurpose synthetic turf fields, three natural grass fields, and a synthetic turf stadium field with a track. All fields will be lit to allow for evening play and expanded programming opportunities.",
+        "The Silverleaf Sportsplex and Shearwater Community Park are both under construction and expected to open in early 2027."
+      ]
+    },
+    {
+      "label": "St. Johns County: Solomon Calhoun Community Center to Have Football Field Renovated (11 February 2025)",
+      "url": "https://www.sjcfl.us/solomon-calhoun-center-football-field-renovatation/",
+      "checked": "2026-09-12",
+      "supports": [
+        "The Solomon Calhoun Community Center (1300 Duval St., St. Augustine) will see two phases of renovations made to its existing facilities. The project’s construction contract was approved by the St. Johns County Board of County Commissioners at its regular meeting on Feb. 4.",
+        "The first phase includes replacing the football field’s grass turf with synthetic turf and improving the associated drainage system.",
+        "$2.1 million is budgeted for construction. Work is estimated to begin in Spring 2025 and be completed by Fall 2025.",
+        "11 February 2025"
+      ]
+    },
+    {
+      "label": "St. Johns County: Solomon Calhoun Community Center Nears Completion of Field Upgrade (21 August 2025)",
+      "url": "https://www.sjcfl.us/solomon-calhoun-community-center-nears-field-upgrade-completion/",
+      "checked": "2026-09-12",
+      "supports": [
+        "21 August 2025",
+        "A major upgrade is underway at Solomon Calhoun Community Center, where St. Johns County is converting a frequently used grass field into a high-performance artificial turf field as part of a phased Capital Improvement Project (CIP).",
+        "Funded through Fiscal Year 2023 Tourist Development Tax dollars, the new turf field is designed to host lacrosse, soccer, and football, with permanent striping for all three sports."
+      ]
+    },
+    {
+      "label": "St. Johns County: Solomon Calhoun Park Improvements (featured project page)",
+      "url": "https://www.sjcfl.us/featured-projects/solomon-calhoun-park-improvements/",
+      "checked": "2026-09-12",
+      "supports": [
+        "On Oct. 18, St. Johns County celebrated the installation of artificial turf at the Solomon Calhoun Community Center’s (1300 Duval St., St. Augustine) football field ahead of the North Florida Wildcats’ homecoming game.",
+        "Read in full: the page gives no contract amount, contractor or procurement method."
+      ]
+    },
+    {
+      "label": "St. Johns County: Kickoff Celebration for New Turf Field at Solomon Calhoun Community Center (event listing, 18 October 2025)",
+      "url": "https://www.sjcfl.us/event/kickoff-celebration-for-new-turf-field-at-solomon-calhoun-community-center/",
+      "checked": "2026-09-12",
+      "supports": [
+        "St. Johns County will celebrate the completion of a new artificial turf field at the Solomon Calhoun Community Center with a kickoff event before the homecoming football game between the North Florida Wildcats and the Baker County Bobcats.",
+        "Oct. 18, 2025 8:00 am"
+      ]
+    },
+    {
+      "label": "Tolomato Community Development District: Frequently Asked Questions by Nocatee Residents, Nocatee Entities (PDF linked from mytcdd.com; undated)",
+      "url": "https://img1.wsimg.com/blobby/go/ead6dfa8-684b-44e0-a1d5-9b4a7e83a011/downloads/c7d69ac8-faa8-4114-b8bb-019e0fa8df3e/Nocatee%20Entities%20FAQ%20II.pdf?ver=1788445783895",
+      "checked": "2026-09-12",
+      "supports": [
+        "The purpose of the CDD is to plan, finance, construct and maintain infrastructure such as roadways, master drainage and amenities.",
+        "The CDD has no jurisdiction within the neighborhoods other than maintaining CDD-owned properties and acting as a taxing authority through the collection of CDD assessments.",
+        "The CDD owns and maintains the Splash and Spray Waterparks, Greenleaf Park, Cypress Park, Twenty Mile Park, Twenty Mile Post, Addison Park, Lakeside Park, West End Park, Crosswater Park, Settler's Landnig Park, Seabrook Park and the greenway trail paths.",
+        "The purpose of an HOA is to maintain the common areas and neighborhood parks within a particular neighborhood."
+      ]
+    },
+    {
+      "label": "Fla. Stat. 190.033: Bids required (community development districts, 2026 Florida Statutes)",
+      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0190/Sections/0190.033.html",
+      "checked": "2026-09-12",
+      "supports": [
+        "Any board seeking to construct or improve a public building, structure, or other public works shall comply with the bidding procedures of s. 255.20 and other applicable general law.",
+        "(2) The provisions of the Consultants’ Competitive Negotiation Act, s. 287.055, apply to contracts for engineering, architecture, landscape architecture, or registered surveying and mapping services let by the board.",
+        "(3) Contracts for maintenance services for any district facility or project shall be subject to competitive solicitation requirements when the amount thereof to be paid by the district exceeds the amount provided in s. 287.017 for category four. The district shall adopt rules, policies, or procedures establishing competitive solicitation procedures for maintenance services.",
+        "History. — s. 2, ch. 80-407; s. 9, ch. 91-308; s. 113, ch. 94-119; s. 42, ch. 99-378; s. 12, ch. 2007-160."
+      ]
+    },
+    {
+      "label": "Fla. Stat. 1013.45: Educational facilities contracting and construction techniques (2026 Florida Statutes)",
+      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=1000-1099/1013/Sections/1013.45.html",
+      "checked": "2026-09-12",
+      "supports": [
+        "(1) District school boards and boards of trustees of Florida College System institutions may employ procedures to contract for construction of new facilities, or for additions, remodeling, renovation, maintenance, or repairs to existing facilities, which include, but are not limited to: (a) Competitive bids. (b) Design-build pursuant to s. 287.055. (c) Selecting a construction management entity, pursuant to s. 255.103 or the process provided by s. 287.055"
+      ]
+    },
+    {
+      "label": "Rule 6A-1.012, F.A.C.: Purchasing Policies (Cornell LII copy of the Florida Administrative Code)",
+      "url": "https://www.law.cornell.edu/regulations/florida/Fla-Admin-Code-Ann-R-6A-1-012",
+      "checked": "2026-09-12",
+      "supports": [
+        "(6) In lieu of requesting competitive solicitations from three (3) or more sources, district school boards may make purchases at or below the specified prices from contracts awarded by other city or county governmental agencies, other district school boards, community colleges, federal agencies, the public or governmental agencies of any state, or from state university system cooperative bid agreements, when the proposer awarded a contract by another entity defined herein will permit purchases by a district school board at the same terms, conditions, and prices (or below such prices) awarded in such contract, and such purchases are to the economic advantage of the district school board.",
+        "(7) Except as authorized by law or rule, competitive solicitations shall be requested from three (3) or more sources for any authorized commodities or contractual services exceeding $50,000. Districts may not divide the procurement of commodities or contractual services so as to avoid this monetary threshold requirement. District school boards, by rule, shall set this amount or a lesser amount and shall establish purchasing policy relative to purchases of a dollar value less than this formal monetary threshold.",
+        "The LII copy prints the figure as \"$50, 000\"; its history line ends \"Amended ... 2-25-09\"."
+      ]
+    }
+  ],
+  "unresolved": [
+    "The FHSAA's current heat-stress guidelines and cooling-zone levels could not be opened (fhsaa.com's homepage on 2026-09-12 carried no heat-policy link, and earlier direct requests returned server errors). The page quotes only s. 1006.165 and tells the reader to ask the athletic director.",
+    "Whether a park or youth-league field (not an FHSAA member school) must follow any heat policy is not settled by s. 1006.165; the page tells the reader to ask the parks department or league.",
+    "Rule 62-330.020 does not say whether synthetic turf or its base counts as impervious or semi-impervious, and the district-specific thresholds in Volume II were not opened; the page tells the reader to ask the district. SJRWMD's county coverage was not confirmed from a page that could be quoted (sjrwmd.com returned 403 to direct requests), so the page names SJRWMD only as the district whose handbook the commercial page quotes.",
+    "Whether replacing a worn field, or converting grass to turf, is 'repair or maintenance' or a 'substantial ... upgrade' under s. 255.20(1)(c)5. depends on the facts; the page gives the statute's 20 percent test and tells the reader to ask the owner's attorney in writing.",
+    "The ENR-indexed dollar figures that s. 255.20(2) produces for 2026 were not opened; the page tells the reader to ask the purchasing office for the current figure.",
+    "s. 255.20 does not define 'electrical work' or say whether sports field lighting is electrical work; the page tells the reader to ask the purchasing office.",
+    "How St. Johns County procured the Solomon Calhoun construction contract (bid, RFP or other method), the contractor and the award amount were not found: the county's 11 February 2025, 21 August 2025, featured-project and event pages do not say, and a sjcfl.us site search for 'Solomon Calhoun' and 'Calhoun turf bid' returned only an unrelated pool-management RFP. The page says the posts don't give the method and points the reader to the county's purchasing office.",
+    "The Solomon Calhoun start month conflicts between county pages (the 21 August 2025 post says construction began in February; the featured-project page says the county broke ground in March), so the page gives no start month.",
+    "The s. 287.017 category four amount that triggers competitive solicitation for CDD maintenance contracts under s. 190.033(3) was not opened; the page gives no figure.",
+    "The Tolomato CDD FAQ lists district-owned parks but not whether any contains an athletic field; the page says only that the district owns those parks. Field ownership in Julington Creek Plantation and Fleming Island was not established, so the page names no district there.",
+    "Whether a school field project is purchased under s. 1013.45 construction procedures or under Rule 6A-1.012 commodity and contractual-service rules is not settled by either text; the page tells the reader to ask the district's facilities or purchasing office.",
+    "No Duval, Clay or Nassau County field bid documents or test specifications were opened (web search budget exhausted); the local examples are St. Johns County's own announcements and the Tolomato CDD's FAQ."
+  ]
+}

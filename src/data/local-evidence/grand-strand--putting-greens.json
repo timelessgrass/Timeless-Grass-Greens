@@ -1,0 +1,98 @@
+{
+  "intent": "Before I put a synthetic putting green in my Grand Strand golf-community yard, does my community allow it, where can it go, and how does the committee count it against lawn, green-space, impervious or grading rules?",
+  "distinctValue": "Named Grand Strand golf communities give different written answers, and the difference runs between neighborhoods, not across the state line. Inside Barefoot Resort (North Myrtle Beach, Horry County), the master guidelines revised June 1, 2025 prohibit artificial turf, but the Dye Estates guidelines (V5.4, effective 3/20/2023, recorded in Horry County 01/30/2024) exempt putting greens, require them to the rear of the residence and apply a 40 percent impervious limit; Leatherleaf's 2024 guidelines never mention artificial turf. River Hills (Little River, Horry County) requires ARB approval for landscaping, 30 percent pervious landscaped space and a sodded front area. Sea Trail (Sunset Beach, NC) caps built-upon area under a State stormwater master plan and requires 40 percent sodden front-yard area in its 2019 standards. Brunswick Plantation (Calabash, NC) says 'No Artificial grass is permitted' in its minimum planting requirements, in the standards file updated 8.14.2026. Ocean Ridge lists a committee but posts no standards. Each community also has a grading or drainage rule that a contoured green touches. The national putting-green page, the Denver and northeast Florida putting-green pages and the Grand Strand town pages stop at 'bring your association requirements'; none quotes these rules.",
+  "sources": [
+    {
+      "label": "Barefoot Resort Residential Owners’ Association, Inc., Master Association: Architectural Review Application & Design Guidelines, revised June 1, 2025",
+      "url": "https://www.barefoothoa.com/wp-content/uploads/2025/06/ARC_Guidelines_2025-06-01.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "Cover: \"MASTER ASSOCIATION ARCHITECTURAL REVIEW APPLICATION & DESIGN GUIDELINES Revised June 1, 2025\"",
+        "Section III (printed page 8): \"Artificial Turf & Vegetation: Artificial Turf & Vegetation are prohibited.\"",
+        "Landscaping (printed page 12): \"Landscaping: This change requires an ARC application.\" ... \"Artificial Turf & Vegetation: is prohibited.\"",
+        "Section III: \"The following Single-Family Neighborhoods and Sub-associations have their own Architectural Review Committees, who have primary responsibility for review and approval of applications within those Neighborhood: Leatherleaf, Dye Estates\"",
+        "Grading and Drainage: \"Major changes in grading (For example: berms, mounds, retaining walls, etc.) shall be submitted for review.\" and \"Water cannot be directed to flow onto a neighboring property.\"",
+        "Required exhibits: \"In such case, the ARC's 30 day review period will not commence until all required submissions have been provided.\"",
+        "Search of the 20-page text layer: the words putting green do not appear.",
+        "Still the master guidelines linked from https://www.barefoothoa.com/dye-estates/ and https://www.barefoothoa.com/single-family-neighborhoods/ on 2026-09-12; the site's WordPress media library lists no newer master guidelines."
+      ]
+    },
+    {
+      "label": "The Dye Estates Homeowners Association, Inc.: Architectural Review Committee Design Guidelines, Standards, and Procedures, Version V5.4, effective 3/20/2023 (recorded with the Horry County Register of Deeds 01/30/2024; posted on Barefoot's Dye Estates Info & Rules page)",
+      "url": "https://www.barefoothoa.com/wp-content/uploads/2025/08/DES_ARC_Guidelines_V5_4.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "Scanned PDF with no text layer (97 pages). Read by OCR and each quote below checked against the rendered page image.",
+        "Cover (PDF page 2): \"Version #: V5.4 Final for Board/ARC Approval\" \"Date: 3/20/2023\" \"Effective Date: 3/20/2023\"; page header \"Deed BK: 4769 PG: 2082 Doctype: 082 01/30/2024 at 07:12:53 AM, 2 OF 97 ELECTRONICALLY RECORDED Marion D. Foxworth III, Horry County, SC Registrar of Deeds\"",
+        "Landscaping (PDF page 37, printed 36): \"With the exception of putting greens, no artificial grass, plants, or other artificial vegetation shall be placed or maintained on the exterior of any Lot unless approved by the ARC. See Putting Greens section for details. New home construction should show any putting greens on plans.\"",
+        "5.21.3 Minor Landscape Changes That Do Not Require ARC Approval (PDF page 38, printed 37): \"This Section does not apply to new home construction.\" ... \"The following, unless otherwise noted, does not require submission of an application nor ARC approval, however owners are still required to follow all ARC guidance, including, but not limited to, setbacks and view restrictions:\" \"Backyard and/or side yard minor landscaping changes of 500 sq. ft. or less:\" with the sub-item \"Installation of a putting green to the backyard (See Section Putting Greens.)\"",
+        "5.6 Putting Greens (PDF page 41, printed 40): \"All putting greens shall be placed to the rear of the residence. Impervious requirement does apply.\"",
+        "5.11 Impervious Surfaces (PDF page 28, printed 27): \"No more than forty (40) percent of any lot surface shall be impervious to water absorption (excludes easements, wetland buffers, and road right of ways).\"",
+        "https://www.barefoothoa.com/dye-estates/ links DES_ARC_Guidelines_V5_4.pdf (uploaded 2025-08-27 per the site's media library) alongside the master ARC_Guidelines_2025-06-01.pdf. The January 2026 'Dye-Estates.pdf' on the single-family neighborhoods page is a site map with no rules."
+      ]
+    },
+    {
+      "label": "Leatherleaf Architectural Review Committee: Design Guidelines, Standards, and Procedures (file LLS_ARC_Guidelines_2024.pdf, linked from Barefoot's single-family neighborhoods page)",
+      "url": "https://www.barefoothoa.com/wp-content/uploads/2024/07/LLS_ARC_Guidelines_2024.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "Title: \"Leatherleaf Architectural Review Committee Design Guidelines, Standards, and Procedures\"; WordPress media library upload date 2024-07-10; linked from https://www.barefoothoa.com/single-family-neighborhoods/.",
+        "\"Any landscaping changes to the approved plan are subject to the approval of the ARC prior to installation. Approval is not required for minor changes to landscaping.\"",
+        "Search of the full 21-page text layer (no image-only pages): artificial, turf and putting do not appear; synthetic appears only for stucco and exterior materials.",
+        "The January 2026 'Leatherleaf.pdf' on the same page is an illustrative site plan with no rules."
+      ]
+    },
+    {
+      "label": "River Hills Property Owners Association (Little River, SC): Architectural Review Board Standards Manual, Revision 9: 11/09/21 (linked as 'River Hills ARB Manual' from https://riverhillspoa.org/arb-manual/)",
+      "url": "https://riverhillspoa.org/wp-content/uploads/2025/04/Filed-POA-Rules-ARB-Manual-Rev-9-NOV2021-1.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "Cover: \"River Hills Property Owners Association Architectural Review Board Standards Manual Revision 9: 11/09/21\"; association address \"P.O. BOX 339 / LITTLE RIVER, SOUTH CAROLINA 29566-0339\"; submission list item \"Plat plan of lot registered with Horry County.\"",
+        "Introduction: \"Each owner wishing to either build or alter any improvements or landscaping within River Hills must submit a request for approval to the ARB providing details of the proposed construction/alteration.\"",
+        "II.I \"Green Area\" Requirements: \"All residential sites shall insure that a minimum of thirty (30%) per cent of the total site area be pervious, open, landscaped space.\"",
+        "IV.B.8: \"In order to maintain a visual continuity within the community, each lot must include a sodded area from curbside to a minimum of 50 percent of side dimension of residence. The following grass (sod) types are approved: St. Augustine, Centipede, Bermuda, Zoysia or Rye (winter overseed only).\"",
+        "IV.A Grading and Drainage 5: \"All topographic changes on a desired lot must occur within the lot property boundaries and meet adjacent lots/land at the natural grade.\"",
+        "arb-manual page: \"The purpose of the Board is to review and approve all new construction, additions, and/or alterations upon all home sites within the River Hills subdivision. This also includes all landscaping upon those same home sites.\"",
+        "Search of the 20-page text layer: artificial, turf and putting do not appear. The two pages with little text are page 17, a blank 'Architectural Review Board Alteration Permit Authorization' form, and page 19, 'River Hills Mailbox Options' drawings; neither carries landscaping rules."
+      ]
+    },
+    {
+      "label": "Sea Trail Master Association: Architectural Design Standards, Construction Standards, and Builder Information, revised and effective March 21, 2019 (publicly posted PDF; https://seatrailma.com/important-documents/ redirects to a login page)",
+      "url": "https://seatrailma.com/wp-content/uploads/2021/04/ASC-Standards-version-March-31-2019.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "Cover: \"Revised and Effective March 21, 2019\"; notice: \"This document is the March 31, 2019 version of the Architectural Design Standards, Construction Standards, and Builder Information.\"",
+        "II.H.5: \"The allowable built upon area (impervious area) shall be limited per lot as shown upon the storm water master plan approved by the State of North Carolina.\" and \"Built upon area includes, but is not limited to, structures, asphalt, concrete, gravel, brick, stone, slate, and coquina, but does not include raised, open wood decking or the water surface of swimming pools.\"",
+        "II.H.8: \"Lots within Coastal Area Management Act's (CAMA) Area of Environmental Concern (AEC) may have the permitted built-upon area reduced pursuant to CAMA jurisdiction within the AEC.\"",
+        "II.H.2: \"According to the State of North Carolina requirements, water run-off must be controlled on the Property Owner's property so that problems are not created for any adjacent Owner, Sea Trail or The Town of Sunset Beach.\"",
+        "II.L.1 Preservation of Trees: \"The ASC requires approval before removal of any tree(s).\" ... \"Also, the ASC shall be informed of all plans for land filling, shaping and drainage.\"",
+        "Landscaping, planting minimums iv: \"Ground cover -- the front yard landscaped area requires a minimum of 40% sodden area. For remaining area, pine straw-mulch etc. is acceptable.\"",
+        "I.C: \"The ASC shall meet on the third Thursday of each month\"; I.G: \"The Committee shall, within forty-five (45) days after receipt of each complete submission of the plans, advise the party submitting the same in writing\"",
+        "Search of the text layer: artificial turf, synthetic and putting do not appear. PDF pages 40–43, 48 and 50 of 50 carry little or no extractable text and could not be searched."
+      ]
+    },
+    {
+      "label": "Brunswick Plantation POA (Calabash, NC): public documents page listing 'ASC Standards (10.31.2022) update 8.14.2026.pdf' — Brunswick Plantation Architectural Plan and Residential Design and Construction Standards",
+      "url": "https://bppoa.sites.townsq.io/3",
+      "checked": "2026-09-12",
+      "supports": [
+        "The documents page lists the file \"ASC Standards (10.31.2022) update 8.14.2026.pdf\". The PDF itself is served from app.townsq.io/files-service with a signed token that expires within hours, so the page is cited and the file named. PDF metadata: CreationDate Thu Aug 13 2026; 61 pages.",
+        "Cover: \"Board Approved and Adopted: January 20, 2016\" followed by a list of modifications ending \"Modified 5-1-2025\" and \"Modified 1.30.2026- Updated Section VI 6.18.26\"",
+        "7.3 Minimum Planting Requirements, c.: \"Lawn cultivar shall be indicated on the plant list. Lawn areas are required to be sodded with centipede or a zoysia species with similar texture or Bermuda or St. Augustine. Lawn areas shall be sized to be both functional and balanced with planting design. Sodding must extend to the edge of pavement and to the rear property line and seed to bottom of bank on all ponds. No Artificial grass is permitted.\"",
+        "\"ASC approval must be obtained for fill operations, shaping of land areas and drainage\"",
+        "7.2 f.: \"The proposed grading and drainage for the home site shall be included in all landscape submittals and shall show all existing and proposed contours with arrows indicating the direction of water flow. Water shall not be directed to any adjacent properties.\"",
+        "14.2.1: \"The Administrator shall convene a meeting of the Board of Appeals within thirty (30) days of receipt of request.\"",
+        "Search of the text layer: the word putting does not appear; PDF pages 58–61 carry little text."
+      ]
+    },
+    {
+      "label": "Ocean Ridge Master Association (Ocean Isle Beach, NC): public community page",
+      "url": "https://engage.goenumerate.com/s/orma/index.php",
+      "checked": "2026-09-12",
+      "supports": [
+        "Contacts list: \"Architectural Standards Committee (ASC)\" with the address \"351 Ocean Ridge Parkway SW Ocean Isle Beach NC 28469\".",
+        "The public page shows login, community feed and contact links; no architectural standards document is linked from it (redirected from orma.nabrnetwork.com)."
+      ]
+    }
+  ]
+}

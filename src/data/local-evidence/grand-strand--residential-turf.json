@@ -1,0 +1,122 @@
+{
+  "intent": "What should a Grand Strand homeowner check before replacing a whole lawn with artificial turf?",
+  "distinctValue": "A lawn is the surface on a house lot most likely to push a lot past its hard-surface limit, so the page gives the actual limits and how each city counts the turf. (1) North Myrtle Beach: the district limits themselves (R-1 40 percent impervious, R-1A 45 percent, R-1B 50 percent and R-2B 60 percent for a single-family house), which the pet-turf page, the North Myrtle Beach town page and the NC vs SC guide do not give; the purpose clause of Sec. 23-129.4 tying the pervious test to those district limits; and staff's second-reading remark, quoted verbatim, that the ordinance 'would only affect permits if the 40 percent pervious ratio was exceeded', turned into a sizing step. The full test is left to the town page. (2) Myrtle Beach: the 50 percent minimum pervious surface in the R-5 to R-15 single-family districts (Section 1603), the Sec. 203 definitions that count stone, shell or gravel surfacing as impervious and describe landscaped open space as vegetation and permeable ground cover, and the Section 903.L clearing/grubbing permit required before vegetation alteration other than mowing, with its tree protection zone for significant and landmark trees on single-family lots. No other page on the site covers the Myrtle Beach pervious minimum or tree protection. (3) Brunswick County: G.S. 143-214.7D quoted with its federal-law exception and the owner opt-out, kept short and pointed at the state-line guide. Claims that rested only on Internet Archive copies of Horry County web pages (drainage easements, stormwater permitting thresholds, the hurricane checklist and flood-insurance note, HOA pond ownership) were removed because horrycountysc.gov refused connections on 2026-09-12; unincorporated Horry County lots are sent to the county and to the Carolina Forest and Forestbrook pages instead. The storm block, the Carolina Shores community count and the national inclusions FAQ were cut as repeats.",
+  "sources": [
+    {
+      "label": "City of North Myrtle Beach Code, Ch. 23, Art. II, Zoning Districts and Development Regulations (version dated 23 July 2026)",
+      "url": "https://library.municode.com/sc/north_myrtle_beach/codes/code_of_ordinances?nodeId=COOR_CH23ZO_ARTIIZODIDERE",
+      "checked": "2026-09-12",
+      "supports": [
+        "Sec. 23-18. - R-1 Single-Family Residential Low-Density and R-1A Single-Family Residential Low-Medium Districts.",
+        "(d) Impervious surface requirements: No more than forty (40) percent of any lot surface shall be impervious to water absorption in the R-1 District and forty-five (45) percent in the R-1A District. For church use, no more than sixty (60) percent of any lot shall be impervious.",
+        "Sec. 23-18.1. - R-1B Single-Family Low-Medium Density District. Development regulations table, columns Single-family Dwelling / Church / Other permitted uses: \"Maximum impervious surface ratio 50% 60% 50%\"",
+        "Sec. 23-20.1. - R-2B Single-Family Medium Density District. Development regulations table, columns Single-family dwelling / Church / Other permitted uses: \"Maximum impervious surface Ratio 60% 60% 60%\""
+      ],
+      "note": "Read with headless Chromium from Municode on 2026-09-12; the page header reads 'VERSION: JUL 23, 2026 (CURRENT)'."
+    },
+    {
+      "label": "City of North Myrtle Beach Code, Sec. 23-129.4 (version dated 23 July 2026)",
+      "url": "https://library.municode.com/sc/north_myrtle_beach/codes/code_of_ordinances?nodeId=COOR_CH23ZO_ARTVIIGESURE_S23-129.4STPESUIMSUSIMIDURENOSUSIECDEPLRE",
+      "checked": "2026-09-12",
+      "supports": [
+        "Sec. 23-129.4. - Standards for pervious surfaces and impervious surfaces for single-family and duplex residences not subject to site-specific development plan review.",
+        "(1) Purpose: This section is intended to ensure consistent and performance-based evaluation of surfaces for the purposes of calculating compliance with impervious surface limits established in individual zoning districts.",
+        "b. Demonstrate a minimum infiltration rate of two (2) inches per hour, based on manufacturer testing or accepted industry standards;",
+        "d. Permits for pervious surfaces are subject to inspection to confirm installation per approved specifications;",
+        "e. Property owners are responsible for maintaining the system to ensure continued infiltration over time;",
+        "f. This standard applies regardless of native soil conditions. Site-specific soil testing is not required.",
+        "g. If these criteria are not met, the surface will be considered impervious, regardless of material type or labeling.",
+        "(3) Exemption for pool basins: Although swimming pool basins are impervious, they are excluded from the calculation of impervious surface coverage. This exemption applies only to the pool basin, not to surrounding pool decks, patios, or hardscape.",
+        "(Ord. No. 10-03, § 1, 4-5-10; Ord. No. 25-45, § 2, 10-6-25)"
+      ],
+      "note": "Read with headless Chromium from Municode on 2026-09-12. The history note lists a 2010 ordinance as well as Ord. No. 25-45, so the page says the pervious test came in with Ord. No. 25-45 rather than that the section was first adopted in 2025. The first-reading ordinance text of 18 August 2025 (nmb.us fileID=3993) has clauses a to f with no native-soil clause; clause f on soil is in the current code."
+    },
+    {
+      "label": "City of North Myrtle Beach: City Council minutes, Monday, October 6, 2025",
+      "url": "https://www.nmb.us/AgendaCenter/ViewFile/Item/1308?fileID=4116",
+      "checked": "2026-09-12",
+      "supports": [
+        "ORDINANCE/SECOND READING: Amendments to Chapter 23, Zoning, of the Code of Ordinances of North Myrtle Beach, South Carolina, defining pervious and impervious surfaces and creating an exception for swimming pools.",
+        "Director Wood explained that the ordinance required the manufacturer’s certification sheet to be included with the permit application.",
+        "He noted that this would only affect permits if the 40 percent pervious ratio was exceeded.",
+        "The motion to approve passed 6-0."
+      ],
+      "note": "PDF downloaded with curl and read with pdftotext on 2026-09-12."
+    },
+    {
+      "label": "City of Myrtle Beach Zoning Code (Appendix A), Article 16, Section 1603, Dimensional Standards (current through 16 February 2026)",
+      "url": "https://library.municode.com/sc/myrtle_beach/codes/code_of_ordinances?nodeId=COOR_APXAZO_ART16ARHEDIRE",
+      "checked": "2026-09-12",
+      "supports": [
+        "1603.B. Requirements for Residential Zoning Districts",
+        "Table columns: District / Dwelling Unit* / Min. Lot Area (sq. ft.) / Min. Lot Width / Min. Lot Depth / Max. Height / Max. Horizontal Dimensions / Max. Building Coverage / **Min. Front Yard Setback / **Min. Side Yard Setback / **Min. Rear Lot Setback / Min. Pervious Surface / Min, District Land Area",
+        "R-5 SF 5,000 60' L —- 35' —- 40% D J 10' J 20' J 50% —-",
+        "R-7 SF 7,500 60' L 90' 35' —- 40% 30' E F J H J 50% —-",
+        "R-8 SF 8,000 60' L —- 35' —- 40% D J 10' J 20' J 50% —-",
+        "R-10 SF 10,000 75' L 100' 35' A —- 40% 40' E F J 30' 50% —-",
+        "R-15 SF 15,000 80' L 120' 35' A —- 35% 40' F G J 30' 50% —-",
+        "* (SF) Single-family, (MF) Multi-family, (2F) Two-family, (TH) Townhouse"
+      ],
+      "note": "Read with headless Chromium from Municode on 2026-09-12; the page header reads 'VERSION: FEB 16, 2026 (CURRENT)'. Cells are reproduced in table order as rendered; the page uses only the Min. Pervious Surface column."
+    },
+    {
+      "label": "City of Myrtle Beach Zoning Code (Appendix A), Article 2, Section 203, Definitions (current through 16 February 2026)",
+      "url": "https://library.municode.com/sc/myrtle_beach/codes/code_of_ordinances?nodeId=COOR_APXAZO_ART2DE_S203DE",
+      "checked": "2026-09-12",
+      "supports": [
+        "Impervious Surface: Any material that prevents, impedes, or slows infiltration or absorption of storm and surface water directly into the ground at the rate of absorption of vegetations-bearing soils.",
+        "Impervious Surface Coverage: The percentage of net land area of the lot covered by impervious surface. For the purpose of computing impervious lot coverage, the following items and like installations are considered impervious: building coverage, parking lots, parking structures, driveways, side-walks, patios, pool decks, wooden decks, grouted cut stone or tile walkways, and stone, shell or gravel surfacing.",
+        "Landscaped Open Space: Landscaped open space consists of lawns, shrubs, trees or other vegetation and permeable ground cover capable of absorbing runoff water.",
+        "A text search of the Article 2 definitions page found no 'turf'. 'Synthetic' appears only in the head shop definition (synthetic marijuana), and 'artificial' only in the grade, illumination, light source and irrigation definitions; no definition refers to artificial grass."
+      ],
+      "note": "Read with headless Chromium from Municode on 2026-09-12 (version FEB 16, 2026). The page's 'never mention artificial turf' rests on that search of the definitions only."
+    },
+    {
+      "label": "City of Myrtle Beach Zoning Code (Appendix A), Article 9, Section 903, Tree Protection (current through 16 February 2026)",
+      "url": "https://library.municode.com/sc/myrtle_beach/codes/code_of_ordinances?nodeId=COOR_APXAZO_ART9LATRPR",
+      "checked": "2026-09-12",
+      "supports": [
+        "903.A. Applicability. These regulations apply to protected and landmark trees located on public and private property, except on lots containing one single-family residence in any Single-family (R) or Multifamily (RM) district, or residential Planned Unit Development (PUD). On lots containing only one single-family residence and its accessory uses in any Single-family (R) or Multifamily (RM) district, or residential Planned Unit Development (PUD) these regulations apply to only those trees defined as significant trees or landmark trees.",
+        "903.C. Significant Trees. The City hereby declares that the following are significant trees: Live Oak (Quercus virginiana), White Oak (Quercus alba), (Eastern Red Cedar (Juniperus virginiana), Southern Magnolia (Magnolia grandiflora), and Bald Cypress (Taxodium distichum) trees with a 4\" DBH or more.",
+        "903.E. Landmark Trees. The City hereby declares the following trees, which equal or exceed the stated diameter at breast height (DBH), to be landmark trees: ... Quercus virginiana Live Oak 25\"",
+        "903.L. Tree Protection During Clearing, Grubbing, and Development. Prior to the commencement of any site clearing or vegetation alteration, other than mowing, a clearing/grubbing permit shall be obtained from the Construction Services Department. All applications for clearing, grubbing, grading, building, or demolition shall include a Tree Protection Zone Plan (TPZ).",
+        "Grading, filling, ditching and storage in the tree protection zone are prohibited. For all lots containing only one single-family residence and its accessory uses in Single-family (R), Multifamily (RM), or residential Planned Unit Development (PUD), a TPZ shall be designed to protect any and all significant and landmark trees."
+      ],
+      "note": "Read with headless Chromium from Municode on 2026-09-12 (version FEB 16, 2026). The code does not say in terms whether removing a lawn is 'vegetation alteration', so the page tells the reader to ask Construction Services rather than stating that a permit is required."
+    },
+    {
+      "label": "N.C. Gen. Stat. 143-214.7D, Limitations on built-upon area requirements",
+      "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_143/GS_143-214.7D.html",
+      "checked": "2026-09-12",
+      "supports": [
+        "(b) For the purposes of implementing State or local government stormwater programs, none of the following surfaces shall be considered \"built-upon area\" or an impervious or partially impervious surface:",
+        "(6) Artificial turf, manufactured to allow water to drain through the backing of the turf, and installed according to the manufacturer's specifications over a pervious surface.",
+        "(c) The owner or developer of a property may opt out of any of the exemptions from \"built-upon area\" set out in subsection (b) of this section.",
+        "(d) Except as specifically required by federal law, a local government may not enact, implement, or enforce a local government ordinance, comprehensive plan, or stormwater program that establishes a definition of \"built-upon area\" or impervious surface that does not comply with subsection (b) of this section.",
+        "(2024-49, s. 4.48(b).)"
+      ],
+      "note": "ncleg.gov returns HTTP 403 to WebFetch and a Cloudflare block to curl. The statute page (published 17 April 2026) was read through the r.jina.ai text reader for this exact URL on 2026-09-12."
+    },
+    {
+      "label": "Grand Strand Water & Sewer Authority: Water Conservation Tips",
+      "url": "https://www.gswsa.com/Community.cfm?page=35",
+      "checked": "2026-09-12",
+      "supports": [
+        "Avoid watering lawn on windy days.",
+        "Make sure sprinklers are wetting only the lawn, rather than onto a driveway or other paved surfaces.",
+        "Irrigate your lawn in the evening/night to reduce the amount of water from evaporating.",
+        "No rebate, incentive or lawn-replacement program is listed on the page."
+      ],
+      "note": "Read live with curl on 2026-09-12. The page's 'lists none' is limited to this page; the FAQ sends the reader to the provider on the water bill and to the rebate guide."
+    },
+    {
+      "label": "South Carolina Homeowners Association Act, S.C. Code Section 27-30-130",
+      "url": "https://www.scstatehouse.gov/code/t27c030.php",
+      "checked": "2026-09-12",
+      "supports": [
+        "(A)(1) Except as otherwise provided in this section, in order to be enforceable, a homeowners association's governing documents must be recorded in the clerk of court's, Register of Mesne Conveyance (RMC), or register of deeds office in the county where the property is located."
+      ],
+      "note": "Read live with curl on 2026-09-12."
+    }
+  ]
+}

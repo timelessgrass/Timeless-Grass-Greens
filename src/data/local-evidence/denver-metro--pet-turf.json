@@ -1,0 +1,110 @@
+{
+  "intent": "I have a dog and a clay yard in the Denver metro. Where should a turf dog run go so urine and rinse water don't soak the clay by my house, what if my HOA says the run has to touch the house, what do my city's animal rules say about waste, and can I rinse it with my sprinklers this year?",
+  "distinctValue": "The national pet-turf page covers drainage and cleaning in general terms, and the northeast Florida pet page is about Florida infill and heat. This page answers a Front Range dog owner's placement question. (1) Ground: the Colorado Geological Survey says most Colorado homes sit in areas of potentially expansive clay. Its homeowner guide SP-14 (1981, revised fifth printing 1987) says water must not pond near foundations, sprinklers should not spray and downspouts should not discharge within 5 feet, the first 10 feet should fall 12 inches, and an edging of gravel over non-woven geotextile at least 5 feet out keeps water from percolating next to the foundation, with runoff sent to swales. Pet turf passes liquid into the base in the same few spots every day, so the page tells the reader what to ask for: rock against the wall, turf beyond it. (2) HOA rules that pull the other way: HRCA RIG 2.25 requires a dog run to abut the house with a ground cover such as rock or mulch (250 sq ft on most properties, one per property), and 2.42.E requires a material sample and drainage plan for synthetic turf. Rock is the ground cover both HRCA and SP-14 name; whether HRCA approves turf in a run is unsettled, so the page tells the reader to ask the HRCA. Ken-Caryl's Dog Runs rule (approval, fencing attached to perimeter fence or house, site plan with dimensions) and its separate Drainage section (Master Declaration 3.09; advice that water drain away from foundations without ponding on the lot or adjacent lots; engineered drainage plan may be required). Neither the Highlands Ranch nor the Ken Caryl town page covers dog runs. (3) City and water rules: the current Denver code Sec. 8-73 as amended by Ord. 539-23 (2023), and Thornton City Code Sec. 6-34(a), both read live from Municode on 2026-09-12; Denver Water's Oct 1, 2026 bar on watering grass or using spray irrigation systems (exceptions only under an approved water budget or variance), which matters to owners who rinse with sprinklers. Corrections from review: the 2018 bill CB18-0672 and its Sec. 8-82 (repealed by Ord. 539-23, sec. 14, June 5, 2023) are no longer cited; Denver Water power-washing and grass-ban lines were dropped as not about pet turf; the Ken-Caryl 'historical drainage' line (from 2.21 Firewood Storage) was replaced with the Drainage section's own wording; Thornton Water's rebate turf rules were dropped in favor of the city code that binds every Thornton pet owner; the FHWA frost-heave material was dropped because /blog/does-artificial-turf-hold-up-in-colorado-winters/ already covers it. The HRCA PDF is marked 'Adopted October 2024 | Updated June 2025' (server last-modified 8 July 2025); hrcaonline.org index pages returned HTTP 403, so a newer edition could not be ruled out and the page tells the reader to bring the community's current rules.",
+  "sources": [
+    {
+      "label": "Colorado Geological Survey: expansive soil and rock",
+      "url": "https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/",
+      "checked": "2026-09-12",
+      "supports": [
+        "Because the population of Colorado is also concentrated in mountain valleys and on the plains, most of the homes, schools, public and commercial buildings, and roads in the state are located in areas of potentially expansive clay.",
+        "They can expand up to 20% by volume when exposed to water and exert a force of up to 30,000 pounds-per-square-foot.",
+        "Improper landscaping problems include inadequate management of surface drainage and planting vegetation next to the foundation so irrigation water enters the soil."
+      ]
+    },
+    {
+      "label": "Colorado Geological Survey Special Publication 14 (Jochim, first revision; 1981, revised fifth printing 1987): Home Landscaping and Maintenance on Swelling Soil",
+      "url": "https://coloradogeologicalsurvey.org/wp-content/uploads/woocommerce_uploads/SP-14.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "Title page: \"Colorado Geological Survey ... 1981 Revised, Fifth Printing, 1987\"",
+        "Swelling occurs when the soils become wet. Wetting is generally caused by poor surface drainage, excessive lawn and shrub irrigation, sprinkler system or water main leaks, poorly consolidated backfill, or a rise in the ground water table.",
+        "Water must not be allowed to pond near foundations or flatwork. It must be directed into drainage swales and moved away from the property by means of ditches, street gutters, storm sewers (where legal), or other available means.",
+        "(2) sprinkler systems should not spray any closer than 5 feet from the foundation.",
+        "Water should be discharged no closer than 5 feet from the foundation.",
+        "The recommended slope within the first 10 feet of a foundation is 10 percent (12 inches of vertical fall for 10 feet of horizontal distance).",
+        "In fact an edging of gravel and geotextile fabric can be used very effectively around a house to prevent percolation of water into the soils next to the foundation. When used for this purpose, the edging should extend at least 5 feet out from the house. The fabric should lap onto the foundation wall and be glued in place. It is important that a good quality, non-woven geotextile fabric be used.",
+        "The use of plastic sheeting is discouraged because it tends to trap moisture and prevent normal evaporation from occurring. Non-woven geotextile fabrics control weeds and retard infiltration, but still permit evaporation.",
+        "It is important that runoff be channeled away from the house, but at the same time not directed toward a neighbor's house or property."
+      ]
+    },
+    {
+      "label": "HRCA: Residential Improvement Guidelines (adopted October 2024, updated June 2025)",
+      "url": "https://hrcaonline.org/Portals/0/Documents/covenants/2025-06_ResidentialmprovementGuidelines.pdf?ver=3ZUlKLMOpiB58cPyCpGDJw%3D%3D",
+      "checked": "2026-09-12",
+      "supports": [
+        "Cover and footer: \"Adopted October 2024 | Updated June 2025\"",
+        "2.25. Dog Runs/Dog Houses. ARC approval may be required. Dog Runs/Dog Houses must always be maintained, including timely cleanup/removal of dog waste and elimination of odors.",
+        "A. Dog runs must: 1. Abut the house. 2. Be in the \"rear\" or \"side\" yard. 3. Have an appropriate ground cover (i.e.- rock, mulch, etc.). 4. Limited to a maximum of 250 square feet for most properties. 5. Limited to one (1) dog run per property.",
+        "Approval consideration includes, but is not limited to, the following criteria: Proximity to neighbors' windows and primary outdoor living areas. Adequate visual screening related to adjacent properties. Type of cover, if requested.",
+        "2.42.E. Artificial/Synthetic Turf. ARC approval may be required. The submitted landscape plan will be reviewed on a case-by-case basis. A sample of the material and drainage plan is required along with the landscape plan.",
+        "Section 2.25 does not mention artificial or synthetic turf as dog-run ground cover."
+      ]
+    },
+    {
+      "label": "Ken-Caryl Ranch Master Association: property improvements (Dog Runs; Drainage)",
+      "url": "https://ken-carylranch.org/resident-resources/home-improvements/",
+      "checked": "2026-09-12",
+      "supports": [
+        "Dog Runs: \"Architectural Committee approval is required. Dog Runs shall be constructed as a privacy fence or transparent open rail fence. Dog run fencing must be attached to the perimeter fence or dwelling unit.\"",
+        "Dog Runs submittal: \"Site plan showing location of dog run with proposed dimensions.\"",
+        "Drainage: \"Section 3.09 of the Master Declaration requires that there be no interference with the established drainage pattern over any property.\"",
+        "Drainage: \"When installing landscaping, it is important to ensure that water drains away from the foundation of any house and that the flow patterns prevent water from flowing under, or ponding near or against the house foundation, walkways, sidewalks, and driveways of the primary and all adjacent properties.\"",
+        "Drainage: \"A resident may be required to provide an engineered drainage plan.\""
+      ]
+    },
+    {
+      "label": "Denver Revised Municipal Code Sec. 8-73, Disposition of excrement (Municode, Supp. No. 147 Update 3, codified through Ord. No. 0852-26, enacted July 13, 2026)",
+      "url": "https://library.municode.com/co/denver/codes/code_of_ordinances?nodeId=TITIIREMUCO_CH8AN_ARTIIDOCA_DIV5ANGE_S8-73DIEX",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"It shall be unlawful and deemed a public nuisance for any person who owns or keeps any dog, cat, or other animal, including livestock: ... (b) To dispose of animal excrement in an unsanitary manner, including placing animal excrement in storm sewers or street gutters. Animal excrement may be placed in trash containers if contained in a closed plastic bag or other closed or airtight nonporous containers; or (c) To permit excessive excrement to accumulate on any property to the degree that it becomes offensive, injurious to health, or is the subject of complaints.\"",
+        "History note: \"(Ord. No. 672-18, § 1, 7-16-18; Ord. No. 539-23, § 13, 6-5-23)\"",
+        "Sec. 8-82 now reads \"Reserved\": \"Ord. No. 539-23, § 14, adopted June 5, 2023, repealed § 8-82.\" The page no longer cites it.",
+        "Read through api.municode.com CodesContent (jobId 495354, productId 10257) on 2026-09-12."
+      ]
+    },
+    {
+      "label": "Thornton City Code Sec. 6-34, Nuisance (Municode, Supp. No. 65, codified through Ord. No. 3773, adopted June 9, 2026)",
+      "url": "https://library.municode.com/co/thornton/codes/code_of_ordinances?nodeId=CO_CH6AN_ARTIINGE_S6-34NU",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"(a) Maintenance. Is shall be unlawful for any person to fail to maintain areas where animals are kept in a clean and sanitary fashion. It shall be the duty of every owner to dispose of, in a reasonable manner, any accumulation of animal excretion on premises where animals are kept, in order to prevent the attraction of flies, insects or other pests, and in order to prevent the propagation of obnoxious odors.\"",
+        "History note: \"(Ord. No. 3407, § 1, 9-27-16)\"",
+        "Read through api.municode.com CodesContent (jobId 491929, productId 15041) on 2026-09-12."
+      ]
+    },
+    {
+      "label": "Denver Water: drought",
+      "url": "https://www.denverwater.org/drought",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"Stage 1 drought is in effect from March 25, 2026 through April 30, 2027, or until further notice\"",
+        "\"Beginning Oct. 1: Watering of grass or use of spray irrigation systems are prohibited and will be subject to water-waste violations and charges.\"",
+        "The page does not mention artificial turf or rinsing a pet area."
+      ]
+    },
+    {
+      "label": "Denver Water: Board Resolution #002a-2026 amending the Stage 1 drought declaration",
+      "url": "https://www.denverwater.org/drought/board-resolution-002a-2026",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"Adopted and approved on August 26, 2026\"",
+        "\"The Board implements the following water use restrictions, except as permitted by a Denver Water approved water budget or variance\"",
+        "\"Watering of all grass is prohibited after September 30, 2026, unless one of the following written exceptions apply.\" The exceptions are high-traffic active-use areas under an approved water budget or variance, and a grass establishment variance.",
+        "\"Board Resolution #002a-2026 becomes effective on October 1, 2026, through and until further action of the Board.\"",
+        "The resolution does not mention artificial turf."
+      ]
+    },
+    {
+      "label": "Denver Water: rules for outdoor water use",
+      "url": "https://www.denverwater.org/residential/rebates-and-conservation-tips/summer-watering-rules",
+      "checked": "2026-09-12",
+      "supports": [
+        "Listed under Stage 1 \"Outdoor Watering Rules and Restrictions\": \"Keep water off of pavement, sidewalks and streets.\"",
+        "\"Use a hose nozzle with a shut-off valve when hand-watering or washing your car.\"",
+        "The page does not mention artificial turf or pets."
+      ]
+    }
+  ]
+}

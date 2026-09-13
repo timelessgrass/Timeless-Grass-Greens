@@ -1,0 +1,165 @@
+{
+  "intent": "What does a Denver-area gym, training studio or school need to settle before putting turf on an indoor floor: which code edition and which office cover the address, whether the work or a change of use needs a permit or a new certificate of occupancy, what the floor-finish rules ask of a fiber floor covering, and whether adhesive triggers a fire-code permit?",
+  "distinctValue": "The national indoor-turf page covers layout, pad, attachment and care; the Grand Strand and northeast Florida pages cover other states' codes. This page gives the Denver-metro layer. Denver works from the 2024 IBC and IFC with 2025 city amendments, first adopted by ordinance 25-0735 (passed 11 June 2025) and amended again by CB25-1634 (passed by Council 24 November 2025, approved 26 November 2025; amendments filed 7 November 2025). In Denver: Section 130.3 item 9 exempts floor coverings and carpeting from building permits but requires Chapter 8 compliance; Section 142.2 bars using a building or part of one for an occupancy other than the one on its Certificate of Occupancy until a new one is issued; Section 133.1 item 2.D leaves a change of use or occupancy out of the interior alterations that may be drawn without an architect or engineer. Denver's fire code keeps an operational permit for floor finishing or surfacing over 350 square feet using Class I or Class II liquids in its December 2025 version, and creates the Denver Fire Department Prevention Division as the enforcing agency, whose official in charge is the fire code official. Denver's only Chapter 8 building-code amendment is 808.1.1.3, so Section 804 applies as the ICC published it; its exception does not name turf. Outside Denver, as of 12 September 2026: Aurora's building division lists the 2021 IBC and IFC; West Metro Fire Rescue's code table lists the 2021 IFC for Lakewood, the 2024 IFC for unincorporated Jefferson County and the 2018 IFC for unincorporated Douglas County, and warns that some unincorporated Jefferson County properties carry a city or town mailing address. For public and charter schools, the state Division of Fire Prevention and Control requires a permit; its adopted-codes page lists 2021 editions while West Metro's table lists the 2024 IFC for the state public schools program, so the page tells school readers to ask the Division which edition applies. SB24-081, as signed, bars installing turf with intentionally added PFAS on any portion of property in the state from 1 January 2026.",
+  "sources": [
+    {
+      "label": "City and County of Denver: 2025 Denver Building Code (live URL on denvergov.org). The host refused connections from the research network on 12 September 2026 (curl timed out, WebFetch ECONNREFUSED), so the text was read from the Internet Archive capture and the Legistar December 2025 copy listed next; the quoted sections are identical in both.",
+      "url": "https://www.denvergov.org/files/assets/public/v/3/community-planning-and-development/documents/ds/building-codes/2025_denver_building_code.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "2025 DENVER BUILDING CODE June 2025, 1st Printing November 2025, 2nd Printing (title page of the Internet Archive copy)",
+        "The 2024 International Building Code adopted in D.R.M.C. Sec. 10-16 is amended in the following particulars",
+        "130.3 Exempted Work. The following construction is exempt from the permit requirements of this code (see Appendix S Section 1.4 of the Denver Commercial Building Code for airport requirements). Exemption from permit requirements of this code shall not be deemed to grant authorization for any work to be done in any manner that violates the provisions of this code or any other laws or ordinances of the City.",
+        "9. Painting, papering, tiling, floor coverings, countertops, carpeting, cabinets, curtains, drapes, and similar decoration items. Such items shall comply with Chapter 8.",
+        "142.2 Certificate of Occupancy Required. New buildings except Group U occupancy detached private garages and Denver Residential Code non-habitable accessory structures shall not be used or occupied in whole or in part until a Certificate of Occupancy is issued by the building official. No building or portion thereof shall be used or occupied for any occupancy other than the one designated on the Certificate of Occupancy until a new Certificate of Occupancy is issued by the building official.",
+        "133.1 Limitations ... 1. Architect or Engineer required. Construction documents for all buildings, structures, additions, alterations, or repairs shall bear the seal and signature of the licensed design professional responsible for each design phase except as provided in the following subsection. ... 2. Architect not required. ... D. Nonstructural, interior, architectural alterations of any nature to a building or tenant space if such alterations do not affect the life safety of the occupants of the building or tenant space. Alterations that do affect the life safety of the building or tenant space include but are not limited to: change of use or change of occupancy; modifications to any part of the means of egress; increase in the number of occupants; modifications to the fire alarm or fire suppression systems",
+        "CHAPTER 8: INTERIOR FINISHES. SECTION 808 ACOUSTICAL CEILING SYSTEMS. Section 808.1.1.3 Drop-out ceiling panels is added as follows: 808.1.1.3 Drop-out ceiling panels. Drop-out ceiling panels are prohibited. (This is the only Denver amendment to IBC Chapter 8; Section 804 is not amended.)",
+        "Denver's Chapter 3 amendments touch Sections 302 (302.1 item 8), 306 (306.2), 307 (Table 307.1.1), 308 (308.5.5) and 310 (310.4.1, 310.4.2 and additions) only; 303.1, 303.4 (Group A-3) and 304.1 (Group B) are not amended."
+      ]
+    },
+    {
+      "label": "Internet Archive capture (7 June 2026) of the 2025 Denver Building Code PDF on denvergov.org, the copy of the live file actually read",
+      "url": "https://web.archive.org/web/20260607164218id_/https://denvergov.org/files/assets/public/v/3/community-planning-and-development/documents/ds/building-codes/2025_denver_building_code.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "262-page PDF; title page reads \"2025 DENVER BUILDING CODE June 2025, 1st Printing November 2025, 2nd Printing\". Sections 130.3 item 9, 133.1, 142.2 and 808.1.1.3 quoted above were extracted from this file (pdftotext) on 12 September 2026."
+      ]
+    },
+    {
+      "label": "Denver City Council, Legistar file 25-1634 attachment \"BR25-1634_CPD_DBC Master - December 2025 Bill redline\" (the 2025 Denver Building Code with the November 2025 amendments marked)",
+      "url": "https://denver.legistar1.com/denver/attachments/41c29b00-9983-401c-ac3f-eea84f703ce3.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "263-page PDF, document title \"2025 Denver Building & Fire Code\"; title page reads \"2025 DENVER BUILDING CODE June 2025, 1st Printing December 2025, 2nd Printing\".",
+        "Section 130.3 item 9 (\"Painting, papering, tiling, floor coverings, countertops, carpeting, cabinets, curtains, drapes, and similar decoration items. Such items shall comply with Chapter 8.\"), Section 133.1 items 1 and 2.D, and Section 142.2 read word for word as in the denvergov.org printing above.",
+        "Chapter 8 still carries only Section 808.1.1.3 Drop-out ceiling panels; Chapter 3 amendments list Sections 302, 306, 307, 308 and 310 only (310.4.1, 310.4.2, 310.4.3 and 310.6 in this version); Sections 303 and 304 carry no amendment."
+      ]
+    },
+    {
+      "label": "Denver City Council: CB25-1634, signed bill amending D.R.M.C. section 10-16 concerning the building and fire codes (Legistar attachment)",
+      "url": "https://denver.legistar1.com/denver/attachments/0f7d44eb-1fef-4335-8d9e-d9336ee707d9.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "COUNCIL BILL NO. CB25-1634 ... For an ordinance amending Denver Revised Municipal Code section 10-16 concerning the building and fire codes.",
+        "(a) Denver building code. The following codes as published by the International Code Council, all errata to the below codes published by the International Code Council, and the amendments to the below codes filed on November 7, 2025 ... in City Clerk File Number 20250180 ... are hereby adopted as the 2025 Denver Building Code (\"2025 DBC\") ... all series 2024",
+        "(b) Denver fire code. The 2024 International Fire Code as published by the International Code Council ... and the amendments to the above codes filed on November 7, 2025 ... in City Clerk File Number 20250181 ... are hereby adopted as the 2025 Denver Fire Code (\"2025 DFC\").",
+        "COMMITTEE APPROVAL DATE: November 4, 2025 ... PASSED BY THE COUNCIL: 11/24/2025 ... APPROVED: ... MAYOR 11/26/2025",
+        "Legistar web API (webapi.legistar.com/v1/denver/matters, MatterFile 25-1634): MatterStatusName \"Passed\", MatterPassedDate 2025-11-26; title adds \"to update the building and fire codes to incorporate single stair, wildland-urban interface, and other provisions into the Denver code amendments\". File 25-0735 (the June 2025 adoption) shows MatterPassedDate 2025-06-11."
+      ]
+    },
+    {
+      "label": "City and County of Denver: 2025 Denver Fire Code as adopted June 2025 under ordinance 25-0735 (Legistar file \"25-0735 - 2025 Denver Fire Code_FINAL\", 145 pages)",
+      "url": "https://denver.legistar.com/View.ashx?GUID=A512D78F-514F-4FCF-B692-3FA7E1CDF462&ID=14249517&M=F",
+      "checked": "2026-09-12",
+      "supports": [
+        "PDF title \"25-0735 - 2025 Denver Fire Code_FINAL\", 145 pages, created 28 May 2025. This is the June 2025 version; the December 2025 version in the next entry supersedes it.",
+        "2025 AMENDMENTS TO THE 2024 EDITION OF THE INTERNATIONAL FIRE CODE (IFC) AND APPENDICES AS PUBLISHED BY INTERNATIONAL CODE COUNCIL (ICC) 2025 DENVER FIRE CODE",
+        "103.1 Creation of agency. The Denver Fire Department Prevention Division, referred to in this code as the Division, is hereby created and the official in charge thereof shall be known as the fire code official. The function of the agency shall be the implementation, administration and enforcement of the provisions of this code.",
+        "Section 105.5 Required operational permits and all subsections are replaced as follows:",
+        "105.5.33 Floor finishing. An operational permit is required for floor finishing or surfacing operations exceeding 350 square feet (33 m2) using Class I or Class II liquids.",
+        "The amendment's table of contents lists no Chapter 8 (Interior Finish, Decorative Materials and Furnishings) amendments."
+      ]
+    },
+    {
+      "label": "Denver City Council, Legistar file 25-1634 attachment \"BR25-1634_CPD_2025 Denver Fire Code_Dec 25 _ redline\" (the 2025 Denver Fire Code with the November 2025 amendments marked; title page dated December 2025)",
+      "url": "https://denver.legistar1.com/denver/attachments/83f4bb5c-cf4f-49fb-a335-bf6486064e81.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "147-page PDF; title page: \"2025 AMENDMENTS TO THE 2024 EDITION OF THE INTERNATIONAL FIRE CODE (IFC) AND APPENDICES AS PUBLISHED BY INTERNATIONAL CODE COUNCIL (ICC) December 2025\".",
+        "Page 4, unmarked: \"103.1 Creation of agency. The Denver Fire Department Prevention Division, referred to in this code as the Division, is hereby created and the official in charge thereof shall be known as the fire code official.\"",
+        "Page 10, unmarked: \"105.5.33 Floor finishing. An operational permit is required for floor finishing or surfacing operations exceeding 350 square feet (33 m2) using Class I or Class II liquids.\"",
+        "Pages rendered to images and read by eye to see strike-through: page 15 shows \"105.5.64 Reserved.\" added and \"Places of assembly. An operational permit is required to operate a place of assembly.\" struck; page 5 shows 105.5.5 Amusement areas and 105.5.6 Asbestos removal struck and replaced by \"Reserved\". 103.1 and 105.5.33 carry no change marks."
+      ]
+    },
+    {
+      "label": "UpCodes (third-party code publisher): Denver Commercial Building Code 2025, Chapter 8 Interior Finishes. Used for the unamended IBC 2024 Section 804 text because codes.iccsafe.org returned HTTP 403; Denver's own amendment files above confirm Section 804 is not amended.",
+      "url": "https://up.codes/viewer/denver/ibc-2024/chapter/8/interior-finishes",
+      "checked": "2026-09-12",
+      "supports": [
+        "Chapter 8 Interior Finishes: Denver Commercial Building Code 2025 | UpCodes ... Denver Commercial Building Code 2025 Adopts With Amendments International Building Code 2024 (IBC 2024)",
+        "804.1 General Interior floor finish and floor covering materials shall comply with Sections 804.2 through 804.4.2. Exception: Floor finishes and coverings of a traditional type, such as wood, vinyl, linoleum or terrazzo, and resilient floor covering materials that are not composed of fibers.",
+        "804.3 Testing and Identification ... Carpet-type floor coverings shall be tested as proposed for use, including underlayment. Test reports confirming the information provided in the manufacturer's product identification shall be furnished to the building official on request.",
+        "804.4.1 Test Requirement In all occupancies, interior floor covering materials shall comply with the requirements of the DOC FF-1 \"pill test\" (CPSC 16 CFR Part 1630) or with ASTM D2859.",
+        "804.4.2 Minimum Critical Radiant Flux In all occupancies, interior floor finish and floor covering materials in enclosures for stairways and ramps, exit passageways, corridors and rooms or spaces not separated from corridors by partitions extending from the floor to the underside of the ceiling shall withstand a minimum critical radiant flux. The minimum critical radiant flux shall be not less than Class I in Groups I-1, I-2 and I-3 and not less than Class II in Groups A, B, E, H, I-4, M, R-1, R-2 and S.",
+        "Exception: Where a building is equipped throughout with an automatic sprinkler system in accordance with Section 903.3.1.1 or 903.3.1.2, Class II materials are permitted in any area where Class I materials are required, and materials complying with DOC FF-1 \"pill test\" (CPSC 16 CFR Part 1630) or with ASTM D2859 are permitted in any area where Class II materials are required.",
+        "808.1.1.3 Drop-Out Ceiling Panels Drop-out ceiling panels are prohibited. (Denver amendment shown on the same page, confirming the page reproduces Denver's adopted version.)",
+        "Scope note: the 804.1 exception names traditional floors and resilient coverings not composed of fibers. It does not say that every fiber covering is covered, and it does not name artificial turf, so the page tells readers to ask the building department how it treats turf."
+      ]
+    },
+    {
+      "label": "UpCodes (third-party code publisher): Denver Commercial Building Code 2025, Chapter 3 Occupancy Classification and Use",
+      "url": "https://up.codes/viewer/denver/ibc-2024/chapter/3/occupancy-classification-and-use",
+      "checked": "2026-09-12",
+      "supports": [
+        "303.4 Assembly Group A-3 ... Gymnasiums (without spectator seating) Indoor swimming pools (without spectator seating) Indoor tennis courts (without spectator seating)",
+        "304.1 Business Group B ... Training and skill development not in a school or academic program (this shall include, but not be limited to, tutoring centers, martial arts studios, gymnastics and similar uses regardless of the ages served, and where not classified as a Group A occupancy)"
+      ]
+    },
+    {
+      "label": "City of Aurora: Adopted Building Codes (fetched live; the page carries no date)",
+      "url": "https://www.auroragov.org/business_services/building_division/adopted_building_codes",
+      "checked": "2026-09-12",
+      "supports": [
+        "The city of Aurora has adopted the following codes: 2021 International Building Code (IBC) 2021 International Residential Code (IRC) 2021 International Mechanical Code (IMC) 2021 International Fuel Gas Code (IFGC) 2021 International Fire Code (IFC) 2021 International Plumbing Code (IPC) 2021 International Existing Building Code (IEBC) 2021 International Energy Conservation Code (IECC) 2021 International Swimming Pool and Spa (ISPSC) 2026 National Electrical Code (NEC)",
+        "On 12 September 2026 the page shows no effective date and no mention of 2024 editions or a pending adoption."
+      ]
+    },
+    {
+      "label": "West Metro Fire Rescue: Adopted Fire Codes for West Metro Fire Rescue (fetched live; the table carries no date)",
+      "url": "https://www.westmetrofire.org/adopted-fire-codes-for-west-metro-fire-rescue",
+      "checked": "2026-09-12",
+      "supports": [
+        "West Metro Fire Rescue's Life Safety Division, Construction and Building Services performs plan review, permitting, and inspections related to new construction, and modification to existing structures.",
+        "Fire Code Adoptions | Municipality, County or Jurisdiction | Adopted Fire Code ... City of Edgewater | 2021 IFC ... City of Lakewood | 2021 IFC ... City of Wheat Ridge | 2024 IFC ... Unincorporated Douglas County | 2018 IFC ... Unincorporated Jefferson County | 2024 IFC ... State of Colorado Public Schools Program | 2024 IFC ... State of Colorado State Buildings Program | 2024 IFC",
+        "Some unincorporated Jefferson County properties within the West Metro Fire Protection District may have a city or town mailing address. To definitively determine whether a property is in an unincorporated or an incorporated area, please review the property assessor information for Jefferson County"
+      ]
+    },
+    {
+      "label": "West Metro Fire Rescue: Communities Covered",
+      "url": "https://www.westmetrofire.org/communities-covered",
+      "checked": "2026-09-12",
+      "supports": [
+        "West Metro Fire Rescue is a full-service, all-hazard, fire and rescue agency, serving nearly 300,000 residents in the cities and towns of Lakewood, Morrison, Golden, Wheat Ridge and Edgewater.",
+        "Communities served: City of Lakewood; Town of Morrison; City of Wheat Ridge; City of Edgewater; Portions of Golden; Portions of Littleton; Jefferson County; Portions of Douglas County."
+      ]
+    },
+    {
+      "label": "Colorado Division of Fire Prevention and Control: FLS Adopted Codes (fetched live with curl; WebFetch returned 403)",
+      "url": "https://dfpc.colorado.gov/sections/fire-life-safety/fls-adopted-codes",
+      "checked": "2026-09-12",
+      "supports": [
+        "According to 8 CCR 1507-101 3.2, the following codes and their referenced standards are adopted and promulgated as minimum standards for the construction and maintenance of all property, buildings, and structures subject to the oversight of the Colorado Department of Public Safety, Division of Fire Prevention and Control",
+        "Please note that all projects submitted for plan review prior to 1 July, 2021 will be reviewed under the previously adopted Codes. Building Codes International Building Code - 2021 Edition ... School Construction Fire Codes International Fire Code, 2021 Edition",
+        "Conflict noted on 12 September 2026: West Metro Fire Rescue's table (above) lists the 2024 IFC for the State of Colorado Public Schools Program. The page therefore does not state an edition for schools and tells the reader to ask the Division."
+      ]
+    },
+    {
+      "label": "Colorado Division of Fire Prevention and Control: School Construction (fetched live with curl)",
+      "url": "https://dfpc.colorado.gov/sections/fire-and-life-safety/building-codes-branch/school-construction",
+      "checked": "2026-09-12",
+      "supports": [
+        "All work done on public schools, institute charter schools, charter schools and junior colleges that is not considered as maintenance or service will require a permit and adhere to the adopted codes of the Division.",
+        "Email: cdps_dfpc_construction@state.co.us"
+      ]
+    },
+    {
+      "label": "Colorado SB24-081, signed act (2024), leg.colorado.gov download",
+      "url": "https://leg.colorado.gov/bill_files/46185/download",
+      "checked": "2026-09-12",
+      "supports": [
+        "SECTION 5. In Colorado Revised Statutes, add 25-15-605 as follows: 25-15-605. Prohibition on the installation of artificial turf that contains intentionally added PFAS chemicals. (1) ON AND AFTER JANUARY 1, 2026, A PERSON SHALL NOT INSTALL ARTIFICIAL TURF THAT CONTAINS INTENTIONALLY ADDED PFAS CHEMICALS ON ANY PORTION OF PROPERTY IN THE STATE.",
+        "(2) NOTHING IN THIS SECTION PROHIBITS A PERSON FROM MAINTAINING ARTIFICIAL TURF INSTALLED BEFORE JANUARY 1, 2026.",
+        "Section 25-15-605 as enacted has no other subsections. The act adds no definition of artificial turf (its new 25-15-603 definitions cover other products), and the section draws no line between indoor and outdoor turf; the page quotes the wording rather than asserting a scope."
+      ]
+    }
+  ],
+  "notUsed": [
+    "Places-of-assembly permit: the June 2025 Denver Fire Code (105.5.64) required an operational permit to operate a place of assembly, but the December 2025 redline strikes it and marks the section Reserved. The page makes no assembly-permit claim.",
+    "Adhesive liquid class: the fire code does not say whether gluing turf is a floor finishing or surfacing operation, and no source was found tying a safety data sheet to an IFC liquid class. The page tells readers to ask the adhesive supplier for the class and the Division whether 105.5.33 applies.",
+    "Section 804 in the 2021 IBC (Aurora, Lakewood building code and the DFPC edition) could not be opened (codes.iccsafe.org returned HTTP 403). The page describes Section 804 only for Denver.",
+    "Lakewood's building code edition, Englewood, Centennial, Littleton and Commerce City building departments, and South Metro Fire Rescue's adopted fire code were not confirmed: South Metro's Fire Marshal, Development & Construction and district-map pages carry no code edition or text list of jurisdictions, and this session's web-search budget was exhausted. The page names only West Metro's table and tells other readers to ask the building department and fire district for the address.",
+    "Altitude and climate: no primary source ties Denver's elevation or dry air to indoor turf or floor-finish rules, so the page says nothing about climate.",
+    "Colorado SB24-005 and HB25-1113 limit artificial turf in outdoor landscapes; whether they reach an indoor floor was not researched, so the page does not mention them.",
+    "The SB24-081 bill-page summary is not cited; the page relies on the signed act."
+  ]
+}

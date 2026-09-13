@@ -1,0 +1,178 @@
+{
+  "intent": "I want to swap the lawn I water and mow in Jacksonville, Clay, Nassau or St. Johns County for artificial grass. What does Florida now require of that lawn, can my city, county, HOA or CDD stop it, and what do the 2026 watering limits change?",
+  "distinctValue": "The national lawn page and the other areas' pages cannot tell a northeast Florida buyer that, since 19 May 2026, Rule 62-308.100 is the specification a single-family lawn of one acre or less has to meet to get s. 125.572(3)(a)'s protection from a city or county ban. The page sets out the rule as the reader's checklist without claiming that any product or installation meets it: the materials lines in 62-308.100(2) (no heavy metals or intentionally added PFAS, landfill-disposable, natural infill with rubber only under playground equipment), with the reader told to ask for product specifications; existing in-ground sprinklers cannot water the turf and a local government may require heads removed and pipe capped, with the reader told to ask the city or county; the permeability and base lines; nothing in a swale, ditch, stormwater pond or littoral zone; 10 feet from a waterbody unless a seawall or bulkhead intervenes; out of tree drip lines without an arborist's certification; septic pumpout access; landward of any dune; and edges and seams anchored to withstand wind or flooding, with the reader told to ask how theirs will be held down. It separates who that binds (cities and counties, not HOAs, per DEP; CDDs enforcing deed restrictions carved out by ch. 2026-164 from 1 July 2026) from what s. 720.3045 does for a lawn out of sight. It puts the St. Johns River Water Management District's Phase III order (F.O.R. No. 2026-0005, listed by the district as 2026-017, rendered 11 May 2026, announced 13 May, declared for all of Clay, Duval, Nassau and St. Johns counties among other areas, still in effect on 3 September 2026) beside the decision to re-sod: one irrigation day a week, the 15/30/15 establishment schedule for new sod, and the exemption for users whose sole source is reclaimed water. It also shows that Atlantic Beach publishes undated turf guidelines with a 100-inch-per-hour minimum and a base inspection, while the state rule lets a local government set a maximum standard of 10 inches per hour and bars inconsistent local regulation, and tells the reader to ask the city in writing which applies.",
+  "sources": [
+    {
+      "label": "Rule 62-308.100, F.A.C.: Synthetic Turf (adopted rule text)",
+      "url": "https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc",
+      "checked": "2026-09-12",
+      "supports": [
+        "Pursuant to s. 125.572, F.S., this rule establishes minimum standards for the installation of synthetic turf on single-family residential properties of 1 acre or less in size.",
+        "Pursuant to s. 125.572(3), F.S., local governments may not regulate synthetic turf in a manner inconsistent with these minimum standards.",
+        "Synthetic turf, including backing material and infill, must not contain heavy metals or intentionally added per- and polyfluoroalkyl substances.",
+        "Synthetic turf, including backing materials and infill, must be disposable under normal conditions at any Chapter 62-701, F.A.C., Florida permitted landfill.",
+        "Infill material, if used, shall only be clean silica sand, rock, shell, or other natural material, except that coated silica sand may be used provided that any coating used is non-toxic and meets the requirements described in paragraphs (2)(a) and (2)(b).",
+        "Rubber or any other synthetic infill material is allowed only within the footprint of playground equipment and must also meet the requirements described in paragraphs (2)(a) and (2)(b).",
+        "Installation shall be designed to prevent washing away of any infill material off the residential property.",
+        "Subgrade shall be composed of natural materials, such as crushed rock, or crushed concrete that meets the permeability requirements of this rule. Subgrade materials shall be washed prior to installation to prevent fines from binding.",
+        "Synthetic turf must be permeable and affixed to permeable backing with a pervious subgrade. A local government may establish a quantifiable standard of a maximum of 10 inches per hour for all layers.",
+        "Synthetic turf must be installed over a subgrade prepared for positive drainage and evenly graded porous material.",
+        "Soil beneath installed subgrade shall not be compacted to the extent that it adversely impacts percolation through the soil.",
+        "Installation of synthetic turf must be designed and installed to prevent pooling or an increase in the stormwater runoff volume, direction, or rates to adjacent properties and, where possible, runoff shall be directed to on-site pervious areas.",
+        "Installation of synthetic turf must not alter the permitted stormwater management system as designed and shall not be installed within a swale, ditch, stormwater pond, or a stormwater pond's littoral zone.",
+        "In-ground irrigation systems cannot be used to irrigate synthetic turf areas.",
+        "If any in-ground system is already installed, a local government may require that irrigation heads be removed and pipe capped.",
+        "Where no buffer zone has been established, synthetic turf shall be installed no closer than 10 feet from a natural or man-made waterbody as measured from the applicable ordinary or mean high water line except where there is a physical barrier between the synthetic turf and the waterbody (such as, but not limited to, a seawall or bulkhead).",
+        "Synthetic turf shall not be installed inside tree drip lines, whether on the property or adjacent properties, unless the tree is a noxious weed as defined by Chapter 581, F.S., or unless a certified arborist, using site specific information and best professional judgment, certifies that installation within that drip line would not be harmful to the tree.",
+        "Synthetic turf shall be installed according to manufacturer's specifications.",
+        "Synthetic turf shall be anchored at all edges and seams that, at a minimum, will withstand the effects of wind or flooding.",
+        "If installed, synthetic turf must provide for access to the septic tank for routine pumpout.",
+        "If installed, synthetic turf shall be installed landward of any dune system and shall not be used to replace any existing dune vegetation."
+      ]
+    },
+    {
+      "label": "Florida Administrative Code rule record: 62-308.100 Synthetic Turf",
+      "url": "https://www.flrules.org/gateway/ruleNo.asp?id=62-308.100",
+      "checked": "2026-09-12",
+      "supports": [
+        "Effective Date: 5/19/2026",
+        "Rulemaking Authority 125.572 FS. Law Implemented 125.572 FS. History–New 5-19-26."
+      ]
+    },
+    {
+      "label": "Fla. Stat. 125.572: regulation of synthetic turf (current text, Florida Legislature)",
+      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0100-0199%2F0125%2FSections%2F0125.572.html",
+      "checked": "2026-09-12",
+      "supports": [
+        "(3)(a) Upon the Department of Environmental Protection adopting rules pursuant to subsection (4), a local government may not: 1. Adopt or enforce any ordinance, resolution, order, rule, or policy that prohibits, or is enforced to prohibit, a property owner from installing synthetic turf that complies with Department of Environmental Protection standards adopted pursuant to this section which apply to single-family residential property.",
+        "2. Adopt or enforce any ordinance, resolution, order, rule, or policy that regulates synthetic turf which is inconsistent with the Department of Environmental Protection standards adopted pursuant to this section which apply to single-family residential property.",
+        "(b) This subsection does not apply to the adoption or enforcement of any resolution, order, rule, or policy by a community development district to enforce deed restrictions.",
+        "History. — s. 1, ch. 2025-140; s. 1, ch. 2026-164."
+      ]
+    },
+    {
+      "label": "Florida Senate, Committee on Fiscal Policy: bill analysis of CS/CS/SB 1180 (2026), enacted as ch. 2026-164",
+      "url": "https://www.flsenate.gov/Session/Bill/2026/1180/Analyses/2026s01180.fp.PDF",
+      "checked": "2026-09-12",
+      "supports": [
+        "Section 1 amends s. 125.572, F.S., to provide that the prohibition on local governments from regulating synthetic turf on single-family residential property that complies with the Department of Environmental Protection’s standards does not apply to the adoption or enforcement of any resolution, order, rule, or policy by a community development district (CDD) to enforce deed restrictions.",
+        "Section 5 provides an effective date of July 1, 2026."
+      ]
+    },
+    {
+      "label": "Fla. Stat. 720.3045: installation, display, and storage of items (current text, Florida Legislature)",
+      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0700-0799/0720/Sections/0720.3045.html",
+      "checked": "2026-09-12",
+      "supports": [
+        "Regardless of any covenants, restrictions, bylaws, rules, or requirements of an association, and unless prohibited by general law or local ordinance, an association may not restrict parcel owners or their tenants from installing, displaying, or storing any items on a parcel which are not visible from the parcel's frontage or an adjacent parcel, an adjacent common area, or a community golf course, including, but not limited to, artificial turf, boats, flags, vegetable gardens, clotheslines, and recreational vehicles."
+      ]
+    },
+    {
+      "label": "Florida DEP: Synthetic Turf FAQ (Rule 62-308.100)",
+      "url": "https://floridadep.gov/sites/default/files/SyntheticTurfFAQ%20final.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "No. This rule only applies to single-family residential properties that are 1 acre or less in size.",
+        "No. DEP does not issue permits or require authorization for the installation of synthetic turf.",
+        "Yes. Local governments may still regulate synthetic turf, provided the local government does not regulate the installation of synthetic turf in a manner that is inconsistent with DEP's adopted minimum standards.",
+        "No. This rule does not address HOA requirements, deed restrictions or other private property agreements.",
+        "No. The rule does not require homeowners to remove existing synthetic turf installations.",
+        "No. DEP is not implementing a permitting, inspection or enforcement program under this rule.",
+        "Questions regarding local permitting, installation requirements or potential local ordinance violations should be directed to the applicable local government."
+      ]
+    },
+    {
+      "label": "St. Johns River Water Management District: Water Shortage Order Declaring a Phase III Extreme Water Shortage, F.O.R. No. 2026-0005 (linked from the district's watering restrictions page as 2026-017)",
+      "url": "https://aws.sjrwmd.com/SJRWMD/government/2026-017-WSO-Phase-III.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "F.O.R. NO. 2026-0005",
+        "This matter came before the Executive Director of the St. Johns River Water Management District (“District”) on May 11, 2026, at District Headquarters in Palatka, Florida.",
+        "A Phase III Extreme Water Shortage is declared for all sources of water within the following areas:",
+        "All of Clay, Duval, Flagler, Nassau, Putnam, and St. Johns counties.",
+        "Those portions of Baker, Bradford, and Lake counties located within the District.",
+        "The following restrictions and measures, as detailed in rules 40C-21.601, 40C-21.631, and 40C-21.641, F.A.C., are imposed for all sources and uses of water, including those exempt from permitting pursuant to Chapter 40C-2, F.A.C., except for the domestic use of water as defined in section 373.019(6), F.S., and users whose sole source of water is reclaimed water or seawater.",
+        "All residential landscape irrigation is limited to one day a week (Eastern Standard Time one day a week irrigation schedule), regardless of time of year.",
+        "Landscape Irrigation is prohibited between the hours of 8:00 a.m. and 6:00p.m.",
+        "The establishment period for new plant materials shall be reduced to “15/30/15.” This means that the material can be watered on any day for a 15-day period starting the day it is installed, then up to 3 days a week during the next 30-day period, and only 2 days a week during the final 15-day period.",
+        "Aesthetic uses of water are prohibited.",
+        "This Order shall supersede the Modified Phase II Water Shortage Order and become immediately effective once executed by the Executive Director and rendered by the District Clerk.",
+        "RENDERED this 11th day of May, 2026. (day handwritten; read from the rendered image of page 18 of 18)"
+      ]
+    },
+    {
+      "label": "St. Johns River Water Management District: watering restrictions (Water Shortage Order 2026-017)",
+      "url": "https://www.sjrwmd.com/wateringrestrictions/",
+      "checked": "2026-09-12",
+      "supports": [
+        "Water Shortage Order (2026-017)",
+        "Landscape irrigation is limited to one day a week and prohibited between the hours of 8 a.m. and 6 p.m.",
+        "Irrigation of new plantings, including sod, is further restricted",
+        "Residential odd-numbered or no address: Saturday",
+        "Residential even-numbered address: Sunday",
+        "Aesthetic water use is prohibited, and additional restrictions apply to activities such as street and pressure washing."
+      ]
+    },
+    {
+      "label": "St. Johns River Water Management District: Phase III extreme water shortage declared (13 May 2026)",
+      "url": "https://www.sjrwmd.com/2026/05/district-declares-phase-iii-extreme-water-shortage/",
+      "checked": "2026-09-12",
+      "supports": [
+        "Published by Communications at May 13, 2026",
+        "The District is issuing a Phase III Extreme Water Shortage declaration",
+        "Restrictions on irrigation for new plantings, including sod, have also been tightened.",
+        "Landscape irrigation is prohibited between 8 a.m. and 6 p.m."
+      ]
+    },
+    {
+      "label": "St. Johns River Water Management District: water resources update (3 September 2026)",
+      "url": "https://www.sjrwmd.com/2026/09/one-year-of-below-average-rainfall-continues-to-impact-water-resources-across-portions-of-the-district/",
+      "checked": "2026-09-12",
+      "supports": [
+        "The District's Phase III Extreme Water Shortage declaration remains in effect within affected areas",
+        "Residential and commercial properties are limited to one day per week of landscape irrigation"
+      ]
+    },
+    {
+      "label": "St. Johns County: Phase III extreme water shortage declaration, May 2026",
+      "url": "https://www.sjcfl.us/phase-iii-extreme-water-shortage-declaration-may-2026/",
+      "checked": "2026-09-12",
+      "supports": [
+        "The declaration, issued May 11, applies to Clay, Duval, Flagler, Nassau, Putnam, and St. Johns counties, along with portions of several additional counties within the District’s jurisdiction",
+        "residential landscape irrigation remains limited to one day per week and is prohibited between the hours of 8 a.m. and 6 p.m.",
+        "Additional restrictions also apply to new plantings, including sod installation, as well as certain non-essential commercial, industrial, and institutional water uses.",
+        "These restrictions apply to private wells and pumps, ground or surface water, and water supplied by public and private utilities.",
+        "Reclaimed water is not included in the one-day-per-week irrigation schedule."
+      ]
+    },
+    {
+      "label": "City of Atlantic Beach: Artificial Turf Installation Guidelines (no date on the document)",
+      "url": "https://coab.us/DocumentCenter/View/15920/Turf-Installation-Guidelines",
+      "checked": "2026-09-12",
+      "supports": [
+        "Artificial turf is permitted within the City of Atlantic Beach when installed in a manner that maintains proper drainage, protects trees, and preserves public infrastructure.",
+        "Turf systems must provide a minimum permeability rate of 100 inches per hour.",
+        "Artificial turf must be installed over a minimum 4-inch deep permeable, free-draining aggregate base.",
+        "The aggregate subbase must be inspected and approved before turf installation.",
+        "The base must remain exposed and accessible until approval is granted."
+      ]
+    },
+    {
+      "label": "Fleming Island Plantation CDD: district website",
+      "url": "https://fipcdd.com/",
+      "checked": "2026-09-12",
+      "supports": [
+        "Fleming Island Plantation CDD"
+      ]
+    }
+  ],
+  "unresolved": [
+    "No source on file (call transcript, old-site copy, or any evidence record) says the turf, backing or infill this business installs meets Rule 62-308.100(2) (no heavy metals or intentionally added PFAS, landfill-disposable, natural infill), or that its installations meet the rule's anchoring or other standards, or that it removes or caps sprinkler heads. The page states the rule's requirements as the reader's checklist, tells the reader to ask for product specifications and to ask how edges and seams will be held down, and makes no claim that any lawn is built to the rule.",
+    "Atlantic Beach's guidelines set a minimum turf permeability of 100 inches per hour, while Rule 62-308.100(4)(a) says a local government may establish a quantifiable standard of a maximum of 10 inches per hour for all layers, and s. 125.572(3)(a)2. and Rule 62-308.100(1)(b) bar local regulation inconsistent with the DEP standard. Whether and how the city applies its figure on a single-family lot of an acre or less is not settled by either text; the page says the state figure reads as a limit on what a city can demand, says the city minimum 'may not fit', and tells the reader to ask the city in writing. The guidelines PDF carries no adoption or revision date on its face (file metadata: created 14 May 2026), so the page says it has no date.",
+    "The district's watering restrictions page summarises the order's area as 'Portions of' nine counties, but the signed order (F.O.R. No. 2026-0005) declares the shortage for 'All of Clay, Duval, Flagler, Nassau, Putnam, and St. Johns counties'. The page follows the order. The number 2026-017 appears only in the district's link label and file name, not in the order itself; the page gives both.",
+    "The order was rendered on 11 May 2026 and took effect once executed and rendered; the district's release announcing it is dated 13 May 2026. No end date was published on the pages checked; the page dates the order to 11 May, the announcement to 13 May and the 'remains in effect' statement to the 3 September 2026 update rather than calling it current, and sends the reader to the district's page for current rules.",
+    "The order (read in full, 18 pages) does not mention synthetic turf or rinsing it; it prohibits aesthetic uses of water and limits pressure washing of impervious surfaces. Whether rinsing turf is restricted is not stated; the page tells the reader to ask the district.",
+    "Whether any CDD in the area, including Fleming Island Plantation CDD, enforces deed restrictions that bear on synthetic turf, which would engage s. 125.572(3)(b), was not established; the district's homepage confirms only its name. The page tells the reader to ask the district office.",
+    "DEP runs no enforcement program, so compliance with Rule 62-308.100 is tested only if a local government or court applies it; the page says the state does not inspect."
+  ]
+}

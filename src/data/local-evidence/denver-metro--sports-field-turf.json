@@ -1,0 +1,143 @@
+{
+  "intent": "We run a park, school or HOA field in the Denver metro. Can we still install artificial turf under Colorado's 2026 turf rule, and what do the city codes where the field sits add before we order?",
+  "distinctValue": "The field-specific lines in five Denver-area codes, which no other page on the site carries together: Brighton lets artificial turf replace irrigated turf on athletic fields or recreation areas approved by the Director, sets a minimum percolation rate of 5 inches per hour for the turf and any underlayment, and requires replacement when turf no longer simulates the infiltration of sod or native grasses; Arvada allows it as part of an approved plan for recreational fields; Lafayette allows it for athletic fields but not toward required landscaping, with a new Land Use Code in adoption; Boulder allows only functional artificial turf in new development, while Section 5(B) of the same manual prohibits artificial turf within landscape areas; Westminster's 2004 regulations consider sports fields case by case under plant-list standards, and a May 2026 public review draft of its Unified Development Code would permit turf in athletic areas of parks with a four-foot planted buffer to impervious surfaces. The state law appears only as the frame (the athletic-field exemption and stricter-local-rule power) and the SB24-081 PFAS ban; the statute detail stays in the Colorado turf law guide. The Brighton, Arvada and Lafayette town pages do not carry these field clauses; the Boulder and Westminster town pages carry the general turf lines but not Boulder 5(B) or the Westminster draft.",
+  "sources": [
+    {
+      "label": "Colorado SB24-005, signed act (2024), leg.colorado.gov download",
+      "url": "https://leg.colorado.gov/bill_files/45372/download",
+      "checked": "2026-09-12",
+      "supports": [
+        "37-99-102(1)(a): \"APPLICABLE PROPERTY\" MEANS: (I) COMMERCIAL, INSTITUTIONAL, OR INDUSTRIAL PROPERTY; (II) COMMON INTEREST COMMUNITY PROPERTY; OR (III) A STREET RIGHT-OF-WAY, PARKING LOT, MEDIAN, OR TRANSPORTATION CORRIDOR.",
+        "37-99-102(5): \"COMMON INTEREST COMMUNITY PROPERTY\" MEANS PROPERTY WITHIN A COMMON INTEREST COMMUNITY THAT IS OWNED AND MAINTAINED BY A UNIT OWNERS' ASSOCIATION, SUCH AS ENTRYWAYS, PARKS, AND OTHER COMMON ELEMENTS",
+        "37-99-102(9): \"LOCAL ENTITY\" MEANS A: (a) HOME RULE OR STATUTORY CITY, COUNTY, CITY AND COUNTY, TERRITORIAL CHARTER CITY, OR TOWN; (b) SPECIAL DISTRICT; AND (c) METROPOLITAN DISTRICT.",
+        "37-99-103(1): ON AND AFTER JANUARY 1, 2026, A LOCAL ENTITY SHALL NOT INSTALL, PLANT, OR PLACE, OR ALLOW ANY PERSON TO INSTALL, PLANT, OR PLACE, ANY NONFUNCTIONAL TURF, ARTIFICIAL TURF, OR INVASIVE PLANT SPECIES, AS PART OF A NEW DEVELOPMENT PROJECT OR REDEVELOPMENT PROJECT, ON ANY PORTION OF APPLICABLE PROPERTY WITHIN THE LOCAL ENTITY'S JURISDICTION.",
+        "37-99-103(4): NOTHING IN THIS SECTION PROHIBITS: (a) A LOCAL ENTITY FROM MAINTAINING, OR ALLOWING ANY PERSON TO MAINTAIN, ANY NONFUNCTIONAL TURF, ARTIFICIAL TURF, OR INVASIVE PLANT SPECIES INSTALLED, PLANTED, OR PLACED BEFORE JANUARY 1, 2026; ... (d) A LOCAL ENTITY OR THE DEPARTMENT FROM ESTABLISHING PROHIBITIONS ON, OR REQUIREMENTS FOR, NONFUNCTIONAL TURF, ARTIFICIAL TURF, OR INVASIVE PLANT SPECIES THAT ARE MORE STRINGENT THAN THE REQUIREMENTS OF THIS SECTION; OR (e) A LOCAL ENTITY OR THE DEPARTMENT FROM INSTALLING, OR ALLOWING ANY PERSON TO INSTALL, ARTIFICIAL TURF ON ATHLETIC FIELDS OF PLAY.",
+        "Section 2(2): This act does not apply to projects approved by the department of personnel or a local entity before the effective date of this act. (37-99-102(6): \"DEPARTMENT\" MEANS THE DEPARTMENT OF PERSONNEL)",
+        "Read in full (7 pages, Article 99 as enacted): \"athletic fields of play\" is not defined."
+      ]
+    },
+    {
+      "label": "Colorado HB25-1113, signed act (2025), leg.colorado.gov download",
+      "url": "https://leg.colorado.gov/bill_files/40673/download",
+      "checked": "2026-09-12",
+      "supports": [
+        "Section 2, 37-99-102(6.5): \"FUNCTIONAL ARTIFICIAL TURF\" MEANS ARTIFICIAL TURF THAT IS: (a) LOCATED IN A RECREATIONAL USE AREA OR OTHER SPACE THAT IS REGULARLY USED FOR CIVIC, COMMUNITY, OR RECREATIONAL PURPOSES, WHICH MAY INCLUDE A PLAYGROUND, A SPORTS FIELD, A PICNIC GROUND, AN AMPHITHEATER, A PORTION OF A PARK, AND THE PLAYING AREA OF A GOLF COURSE",
+        "37-99-102(1)(a) as amended adds: (IV) APPLICABLE RESIDENTIAL REAL PROPERTY. (The page lists applicable property with \"such as\" and does not state the multifamily date.)",
+        "Section 3, 37-99-103(1) as amended: On and after January 1, 2026, a local entity shall not install, plant, or place, or allow any person to install, plant, or place, any nonfunctional turf, NONFUNCTIONAL artificial turf, or invasive plant species, as part of a new development project or redevelopment project, on any portion of applicable property within the local entity's jurisdiction.",
+        "37-99-103(4)(a) as amended: A local entity from maintaining, or allowing any person to maintain, any nonfunctional turf, NONFUNCTIONAL ARTIFICIAL TURF, artificial turf, or invasive plant species installed, planted, or placed before January 1, 2026;",
+        "37-99-103(4)(d) as amended keeps: A local entity or the department from establishing prohibitions on, or requirements for, nonfunctional turf, artificial turf, or invasive plant species that are more stringent than the requirements of this section; or",
+        "37-99-103(4)(e) as amended: A local entity or the department from installing, or allowing any A person to install, artificial turf on athletic fields of play; OR"
+      ]
+    },
+    {
+      "label": "Colorado General Assembly: SB24-005 bill page",
+      "url": "https://leg.colorado.gov/bills/sb24-005",
+      "checked": "2026-09-12",
+      "supports": [
+        "Artificial turf on athletic fields of play is exempted from the prohibitions.",
+        "Effective date: 08/07/2024; Governor Signed 03/18/2024."
+      ]
+    },
+    {
+      "label": "Colorado SB24-081, signed act (2024), leg.colorado.gov download",
+      "url": "https://leg.colorado.gov/bill_files/46185/download",
+      "checked": "2026-09-12",
+      "supports": [
+        "Section 5, 25-15-605. Prohibition on the installation of artificial turf that contains intentionally added PFAS chemicals. (1) ON AND AFTER JANUARY 1, 2026, A PERSON SHALL NOT INSTALL ARTIFICIAL TURF THAT CONTAINS INTENTIONALLY ADDED PFAS CHEMICALS ON ANY PORTION OF PROPERTY IN THE STATE.",
+        "25-15-605(2): NOTHING IN THIS SECTION PROHIBITS A PERSON FROM MAINTAINING ARTIFICIAL TURF INSTALLED BEFORE JANUARY 1, 2026."
+      ]
+    },
+    {
+      "label": "City of Brighton: Land Use & Development Code 8.02 Landscape Design, Table 8-1 (municode, opened in headless browser)",
+      "url": "https://library.municode.com/CO/Brighton/codes/land_use?nodeId=ART8LASIDEST_8.02LADE",
+      "checked": "2026-09-12",
+      "supports": [
+        "Civic and Open Spaces. Areas of the site or area designed as part of a broader system of formal and natural open spaces. ... Artificial turf may be used in lieu of irrigated turf on athletic fields or designated recreation areas approved by the Director.",
+        "All other building types, development sites, and landscape tracts shall limit irrigated turf to designated recreation areas approved by the Director. Artificial turf may be used in lieu of irrigated turf on athletic fields or designated recreation areas approved by the Director.",
+        "History note on the section: (Ord. No. 2405, §§ 26, 27, 1-3-2023; Ord. No. 2438, §§ 14—16, 1-2-2024)"
+      ]
+    },
+    {
+      "label": "City of Brighton: Land Use & Development Code 8.04, Table 8-4 Plant Specifications (municode, opened in headless browser)",
+      "url": "https://library.municode.com/CO/Brighton/codes/land_use?nodeId=ART8LASIDEST_8.04PLSP",
+      "checked": "2026-09-12",
+      "supports": [
+        "Artificial Turf: The chosen material and any underlayment installed below the turf shall have a minimum percolation rate of 5 inches per hour. The liner material and all bedding shall be permeable to allow for infiltration of water into the soil below to mimic conditions of sod and natural grasses.",
+        "Artificial turf shall be cleaned and debris removed on a regular basis. Artificial turf shall be replaced when it is no longer simulating the infiltration properties of sod or native grasses."
+      ]
+    },
+    {
+      "label": "City of Arvada: Land Development Code 4-6-7-2 Groundcovers and planting beds (municode, opened in headless browser)",
+      "url": "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=LADECOARCO_CH4ENSIDE_ART4-6LABU_DIV4-6-7ADTERE_4-6-7-2GRPLBE",
+      "checked": "2026-09-12",
+      "supports": [
+        "B. Inorganic Ground Cover. Inorganic material such as river rock, cobble rock, gravel, artificial turf, artificial plant material, concrete, or asphalt paving may not be used as a permanent, primary ground cover within the landscaped area, except where:",
+        "3. Artificial turf is used as part of an approved plan for recreational fields or common amenities such as a clubhouse;"
+      ]
+    },
+    {
+      "label": "City of Lafayette: Code of Ordinances 26-19-5 Landscape regulations (municode, opened in headless browser)",
+      "url": "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=COOR_CH26DEZO_S26-19DEIMST_S26-19-5LAREGU",
+      "checked": "2026-09-12",
+      "supports": [
+        "17. Artificial plants, artificial grasses, and other artificial plant material are prohibited as a means of complying with these landscaping regulations. Such artificial materials are not entirely prohibited. They may be used for athletic fields and other uses, but shall not be used in any manner to satisfy the requirements of these landscape regulations.",
+        "Applicability. This section shall apply to new residential and new nonresidential development, and any development requiring a site plan review, commenced after the effective date of Ordinance No. 2004-1 [March 2, 2004]."
+      ]
+    },
+    {
+      "label": "Lafayette Listens: Land Use Code update project page",
+      "url": "https://lafayette-listens.com/landusecode",
+      "checked": "2026-09-12",
+      "supports": [
+        "Step 4: Adoption Process. \"Land Use/Zoning Code is currently at this stage\"",
+        "\"City Council will take a final vote on the Land Use Code.\" (listed for September 15; the page excerpt read did not show the year, so the page gives no vote date)"
+      ]
+    },
+    {
+      "label": "City of Boulder: landscape manual",
+      "url": "https://bouldercolorado.gov/landscape-manual",
+      "checked": "2026-09-12",
+      "supports": [
+        "Applicability and Process A: This manual applies whenever a project requires a landscape or irrigation plan pursuant to the Boulder Revised Code, including Subsections (A) and (B) below.",
+        "3.1(C)(6): Artificial turf is prohibited in all new development, unless it is functional artificial turf.",
+        "Section 1 Definitions: Turf, functional artificial: Functional artificial turf is artificial turf that is: A. located in a recreational use area or other space that is regularly used for civic, community, or recreational purposes, which may include a playground, a sports field, a picnic ground, an amphitheater, a portion of a park, and the playing area of a golf course",
+        "5(B): Artificial turf, artificial plants, bare ground, weed-covered or infested surfaces, parking lots, or any landscaping inconsistent with this section are prohibited within landscape areas.",
+        "Section 1 Definitions: Landscaped area: This term shall have the same meaning as defined in Chapter 9-16, 'Definitions, B.R.C. 1981 of Title 9, Land Use Code.",
+        "3.1(D): Landscaping installed prior to March 7, 2026 may be maintained and is not required to comply with these provisions, unless any project or modifications to the site requires compliance with these standards per state law, the Boulder Revised Code, or the Applicability and Process section of this manual."
+      ]
+    },
+    {
+      "label": "City of Westminster: Landscape Regulations 2004 (PDF)",
+      "url": "https://www.westminsterco.gov/DocumentCenter/View/1138/City-of-Westminster-Landscape-Regulations-PDF",
+      "checked": "2026-09-12",
+      "supports": [
+        "Cover: City of Westminster Landscape Regulations, Effective Date September 1, 2004, 2004 Edition.",
+        "The use of artificial turf is generally prohibited, except for use in single-family detached or duplex lot yard areas not adjacent to a street, or public or private park or open space. The City may consider other exceptions to this limitation on a case-by-case basis for sports fields and other limited applications.",
+        "Artificial turf shall comply with minimum standards and specifications as noted in the City's plant list."
+      ]
+    },
+    {
+      "label": "City of Westminster: Unified Development Code, Public Review Draft May 2026 (PDF, Planning Commission late items)",
+      "url": "https://www.westminsterco.gov/DocumentCenter/View/6951",
+      "checked": "2026-09-12",
+      "supports": [
+        "Cover: THE FOLLOWING ITEMS WERE RECEIVED AFTER THE ORIGINAL MEETING PACKET WAS POSTED ON JUNE 18, 2026, AND ARE INTENDED TO BE INCLUDED AS PART OF THE PUBLIC RECORD FOR THE JUNE 23, 2026, MEETING OF THE WESTMINSTER PLANNING COMMISSION. Westminster Unified Development Code Public Review Draft May 2026",
+        "11-1-2(B): This Title shall become effective on ______ (Effective Date).",
+        "11-7-1(D)(3)(k)(i)(a): Acceptable materials and appearance best management practices can be found within the Landscape Manual for Private Development. (b) Artificial turf cannot be counted towards total landscape area percentage requirements.",
+        "11-7-1(D)(3)(k)(ii): Artificial turf is permitted as follows: ... b) In any zoning district where used for community gathering or recreational purposes such as playgrounds, pet relief areas, amphitheaters, active play or athletic areas in parks, or the greens within golf courses.",
+        "11-7-1(D)(3)(k)(v): a) A minimum four-foot buffer shall be provided between the edge of the artificial turf and any impervious surface. ... c) The required buffer shall be planted with any combination of ornamental trees, shrubs, vines, groundcover, perennial or annual flowers, or ornamental grasses."
+      ]
+    }
+  ],
+  "unresolved": [
+    "Article 99 does not define \"athletic fields of play\"; whether a practice area or multi-use lawn qualifies is left to the reviewing local entity. The page tells the reader to ask for the classification in writing.",
+    "The local-entity definition does not name school districts, and no source opened says which city or county code, if any, reviews a school-district field. The page tells the reader to ask the school district's facilities office; it does not say a city or county reviews the field.",
+    "Boulder: the manual prohibits artificial turf within landscape areas (5(B)) and takes \"landscaped area\" from B.R.C. chapter 9-16, which was not opened. The page does not say whether a field is a landscape area; it tells the reader to ask the city.",
+    "Westminster: the Unified Development Code draft leaves its effective date blank and adoption status could not be confirmed on 2026-09-12 (web search budget exhausted; no city status page located). The page presents it only as a May 2026 public review draft and tells the reader to ask planning@westminsterco.gov which rules apply.",
+    "Brighton: Table 8-4 is headed Plant Specifications; the page states its artificial turf row as written and does not claim how the Director applies it to a particular field.",
+    "Lafayette: the Land Use Code update page lists a final City Council vote without a year in the excerpt read. The page says only that the code is in adoption and tells the reader to ask the Planning Division.",
+    "Municode supplement dates for the Brighton, Arvada and Lafayette sections were not captured (the supplement table is collapsed); the page dates the Brighton text \"as posted in September 2026\".",
+    "Aurora: aurora.municipal.codes/UDO/146-4.7.3 timed out in a headless browser on 2026-09-12; the archived 2022 text (\"Artificial turf may be used in sports field applications\") is not presented as current. Denver, Jefferson County and Douglas County field rules were not researched; the FAQ tells readers there to ask the planning office.",
+    "Removed after review: the multifamily 1 January 2028 date (published guidance conflicts; covered by the HOA guide), the state-facility sentence, the claim that a district-owned field is applicable property, the surface-testing advice, and \"existing base\" in the visit description."
+  ]
+}

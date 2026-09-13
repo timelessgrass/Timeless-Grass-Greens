@@ -1,0 +1,138 @@
+{
+  "intent": "My artificial turf on the Grand Strand is worn or has sat under floodwater. What should be checked in the base after a flood here, where can the old turf go in Horry or Brunswick County, and can turf near the water on the North Carolina side be replaced?",
+  "distinctValue": "The national replacement page says to assess the base and confirm haul-away and local recycling options. This page adds what is specific to the Grand Strand, each point from a primary source opened on 2026-09-12. (1) Flood history: the NHC Florence report gives landfall near Wrightsville Beach on 14 September 2018, South Carolina's rainfall record for a tropical cyclone (23.63 inches at Loris, beating 17.45 inches from a tropical cyclone), nearly 1,000 flooded homes and businesses near the Waccamaw River in Conway, raw sewage entering a Waccamaw tributary from the Conway Wastewater Treatment Plant on 26 September, and widespread flash flooding in Brunswick County. So the page asks what the water was and what it left before deciding what base can stay. (2) Disposal splits at the state line: Horry County SWA's landfill at 1886 Hwy 90 in Conway takes mixed construction debris separated by type and its C&D Processing Facility recycles plastic, carpet and carpet padding; Brunswick County's Bolivia landfill accepts only Brunswick County waste. None of the SWA disposal, C&D or fee pages (fee schedule effective July 1, 2026) or Brunswick's accepted-items list names artificial turf or used infill, so the page tells the buyer to ask about recycling before removal rather than promise a destination. The SWA's January 2022 debris plan asks residents to separate storm debris into piles at the right-of-way, notes carpet in C&D streams, names no turf, and relies on debris leads in each municipality. (3) North Carolina waterfront: 15A NCAC 07H .0209(d)(10) sets a 30-foot buffer with a landscaping exception (G) and an existing-impervious-surface exception (H) and never mentions turf (amended effective November 1, 2025). DCM staff memo CRC-21-24 (August 31, 2021) asked the CRC to confirm that turf is not landscaping under (G) and that turf in any AEC needs a CAMA permit; Coastal Review reported the 10-1 vote to prohibit turf in the buffer in September 2021; staff's CRC-25-36 (November 5, 2025) lists 07H .0209 for a potential amendment clarifying that turf is not landscaping and not permitted in the buffer. The rule does not say whether existing turf in the buffer can be replaced, so the page sends the buyer to DCM's Wilmington District, which serves Brunswick County. The Grand Strand residential, pet, putting-green, commercial and sports-field pages do not cover flood-damaged bases, disposal routes or turf replacement inside the NC buffer.",
+  "sources": [
+    {
+      "label": "National Hurricane Center: Tropical Cyclone Report, Hurricane Florence (AL062018)",
+      "url": "https://www.nhc.noaa.gov/data/tcr/AL062018_Florence.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "HURRICANE FLORENCE (AL062018) 31 August–17 September 2018",
+        "Florence made landfall as an 80-kt hurricane near Wrightsville Beach, North Carolina, around 1115 UTC 14 September.",
+        "In addition, a new state rainfall record for South Carolina was set by Florence with 23.63 inches of rain recorded at Loris. This exceeded the previous record total of 17.45 inches from a tropical cyclone measured near Lake Jocassee when Tropical Storm Beryl drenched South Carolina in 1994.",
+        "Nearly 1,000 homes and businesses near the Waccamaw River in Conway were flooded.",
+        "On 26 September, raw sewage flowed from the Conway Wastewater Treatment Plant into a tributary that feeds into the Waccamaw River.",
+        "In Brunswick County, widespread flash flooding resulted in flooded neighborhoods and closing many roads including portions of U.S. Highway 17 and NC Highway 87."
+      ]
+    },
+    {
+      "label": "Horry County Solid Waste Authority: How do I get rid of?",
+      "url": "https://www.solidwasteauthority.org/howdoi.html",
+      "checked": "2026-09-12",
+      "supports": [
+        "The SWA Landfill located at 1886 Hwy 90 will accept shingles, clean wood, concrete/asphalt and brick, mixed construction debris (insulation, wood, etc.), and land clearing debris.",
+        "Please separate these items as they are listed above.",
+        "Artificial turf, synthetic turf and infill are not named anywhere on this page (checked 2026-09-12)."
+      ]
+    },
+    {
+      "label": "Horry County Solid Waste Authority: C&D Processing Facility",
+      "url": "https://www.solidwasteauthority.org/construction.html",
+      "checked": "2026-09-12",
+      "supports": [
+        "The Construction and Demolition (C&D) Processing Facility accepts Cardboard, Wood, Metal, plastic, carpet and carpet padding for recycling.",
+        "Artificial turf, synthetic turf and infill are not named anywhere on this page (checked 2026-09-12)."
+      ]
+    },
+    {
+      "label": "Horry County Solid Waste Authority: business services and landfill tipping fees",
+      "url": "https://www.solidwasteauthority.org/business.html",
+      "checked": "2026-09-12",
+      "supports": [
+        "Landfill Tipping Fees, 1886 Highway 90, Conway, SC",
+        "Construction Material Mixed Construction",
+        "The linked fee schedule (https://www.solidwasteauthority.org/docs/TIPFEE27.pdf) reads \"Effective July 1, 2026\" and lists \"Mixed Construction Debris\".",
+        "Artificial turf, synthetic turf and infill are not named on this page or in the linked fee schedule (checked 2026-09-12)."
+      ]
+    },
+    {
+      "label": "Horry County Solid Waste Authority: Disaster Debris Management Plan (January 2022 update)",
+      "url": "https://www.dropbox.com/scl/fi/gibmqestihc2rw1b19adt/2022-HC-Disaster-Debris-Management-Plan-Update.pdf?rlkey=iolm1y2iqc1dx6t7p2mt6uot1&dl=0",
+      "checked": "2026-09-12",
+      "supports": [
+        "Linked as \"Disaster Debris Management Plan\" from https://www.solidwasteauthority.org/ (the older dropbox.com/s/ni6xgris7glmn3l link there now redirects to this URL; PDF text read via dl.dropboxusercontent.com, 2026-09-12).",
+        "Horry County Solid Waste Authority Disaster Debris Management Plan January 2022 Update",
+        "Media releases and other forms of media should be used to instruct residents to place their debris along the ROW in segregated piles (vegetative, C&D, HHW, White Goods, etc.).",
+        "C&D debris streams typically include high concentrations of carpet, furnishings, and drywall.",
+        "a table identifying the debris management leads within each of the County’s eight municipalities",
+        "The SWA also maintains MOUs with each of the incorporated cities within Horry County authorizing the cities to utilize SWA debris management sites.",
+        "Artificial turf is not named anywhere in the plan's text (checked 2026-09-12)."
+      ]
+    },
+    {
+      "label": "Brunswick County: Landfill",
+      "url": "https://www.brunswickcountync.gov/422/Landfill",
+      "checked": "2026-09-12",
+      "supports": [
+        "The Brunswick County Landfill accepts household trash, land-clearing debris, construction debris and other debris from Brunswick County property owners, residents and businesses.",
+        "Only waste from Brunswick County is accepted.",
+        "172 Landfill Road NE, Bolivia, NC 28422"
+      ]
+    },
+    {
+      "label": "Brunswick County: Accepted Items & Tipping Fees",
+      "url": "https://www.brunswickcountync.gov/415/Accepted-Items-Tipping-Fees",
+      "checked": "2026-09-12",
+      "supports": [
+        "Construction and Demolition (C&D) Debris",
+        "Treated wood, sheetrock, doors, windows, siding (aluminum and vinyl), pipe (PVC, aluminum, metal)",
+        "Artificial turf, synthetic turf and used infill are not named anywhere in the accepted-items table (checked 2026-09-12)."
+      ]
+    },
+    {
+      "label": "15A NCAC 07H .0209: Coastal Shorelines",
+      "url": "http://reports.oah.state.nc.us/ncac/title%2015a%20-%20environmental%20quality/chapter%2007%20-%20coastal%20management/subchapter%20h/15a%20ncac%2007h%20.0209.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "(10) Within the Coastal Shorelines category (estuarine and public trust shoreline AECs), new development shall be located a distance of 30 feet landward of the normal water level or normal high water level, with the exception of the following:",
+        "(G) Grading, excavation and landscaping with no wetland fill except when required by a permitted shoreline stabilization project. Projects shall not increase stormwater runoff to adjacent estuarine and public trust waters;",
+        "(H) Development over existing impervious surfaces, provided that the existing impervious surface is not increased;",
+        "Readopted Eff. July 1, 2020; Amended Eff. November 1, 2025.",
+        "The words \"turf\" and \"artificial\" do not appear anywhere in the rule text (checked 2026-09-12)."
+      ]
+    },
+    {
+      "label": "NC Division of Coastal Management: CRC-21-24, Artificial Turfgrass within the Coastal Shoreline Buffer",
+      "url": "https://www.deq.nc.gov/documents/pdf/coastal-resources-commission-meeting-agendas-minutes/crc-21-24-use-artificial-turfgrass-buffer/download",
+      "checked": "2026-09-12",
+      "supports": [
+        "CRC-21-24",
+        "August 31, 2021",
+        "SUBJECT: Artificial Turfgrass within the Coastal Shoreline Buffer",
+        "Questions have been raised about the use of artificial turf in the buffer under the landscaping exception.",
+        "In order to retain the effectiveness of the 30’ buffer in filtering runoff, Staff request that the Commission confirm DCM’s interpretation that the application of artificial turf within an Area of Environmental Concern requires a CAMA permit, and that it is not allowable under the “landscaping” exception to the 30’ buffer at 15A NCAC 07H.0209(d)(10)(G).",
+        "While DCM can permit this material within the 75’ AEC, it may be deemed as impervious surface based on a case-by-case review and therefore count toward the maximum allowable impervious surface coverage (depending on installation methods and materials, and any existing impervious surfaces)."
+      ]
+    },
+    {
+      "label": "Coastal Review: Coastal Resources Commission digs in on artificial turf (September 2021)",
+      "url": "https://coastalreview.org/2021/09/coastal-resources-commission-digs-in-on-artificial-turf/",
+      "checked": "2026-09-12",
+      "supports": [
+        "Commissioners voted 10-1, with Baldwin dissenting, to prohibit the installation of artificial turf within the 30-foot buffer.",
+        "“I think we can maintain the status quo and endorse (the division’s) interpretation, but I think this needs looking at,” he said."
+      ]
+    },
+    {
+      "label": "NC Division of Coastal Management: CRC-25-36, Annual Review of Rules Report",
+      "url": "https://www.deq.nc.gov/coastal-management/crc-25-36-2025-annual-review-rules-report/open",
+      "checked": "2026-09-12",
+      "supports": [
+        "CRC-25-36",
+        "November 5, 2025",
+        "As part of the annual rule review process, staff have identified the following rules for potential amendment:",
+        "15A NCAC 07H .0209 – Clarification that artificial turf is not considered landscaping and is not permitted within the 30-foot buffer."
+      ]
+    },
+    {
+      "label": "NC Division of Coastal Management: offices and program areas",
+      "url": "https://www.deq.nc.gov/about/divisions/division-coastal-management/about-coastal-management/dcm-offices-program-areas",
+      "checked": "2026-09-12",
+      "supports": [
+        "DCM Wilmington District",
+        "Serves Brunswick, New Hanover, and Pender counties (including all of Surf City)",
+        "127 Cardinal Drive Ext. Wilmington, NC 28405-3845"
+      ]
+    }
+  ]
+}

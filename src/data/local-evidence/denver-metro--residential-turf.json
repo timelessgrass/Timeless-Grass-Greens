@@ -1,0 +1,260 @@
+{
+  "intent": "I want to replace my Denver-area lawn with artificial turf this year. Can my HOA stop me, will my city let me put it in the front or back yard, does the 2026 drought change the choice between sod and turf, and will any rebate pay for it?",
+  "distinctValue": "The national lawn page is generic, each town page carries one city's rule, and the HOA, turf-law and rebate guides are statewide or provider by provider. This page is a four-step placement guide that sorts the rules by what decides where turf can go on a lot, not by city, and links the town pages and guides for the detail instead of repeating it. Step 1, home type under C.R.S. 38-33.3-106.5: detached homes get the backyard line in (1)(i.5), with the board's retained safety, fire-buffer and grading powers; a home that shares a wall falls under (1)(i), where the association 'shall not prohibit' nonvegetative turf grass but 'may restrict' it to rear yard locations; (1)(i.5)(VI)(B) expressly excludes condominiums. No other page sets out the attached-home and condo answers. Step 2, what the back fence faces: Arvada (not in public view, including streets, sidewalks, parks and trails) and Westminster (not adjacent to a street, park or open space) against Thornton (no limit out back), Brighton (listed in Table 8-1, with 8.04's 50% living ground cover) and Northglenn (six percent slope bar on existing single-family yards). Step 3, the front-yard share side by side: Arvada and Westminster none in a street-facing yard, Thornton 25% with tree equivalents, Brighton 20% of frontage with the 8.01 exemptions, Lafayette 75% live materials that single-family building permits must meet, and Aurora Water's 50% coverage maximum with no stated base. Step 4, the water provider: Denver Water's turf exclusion and allocated 2026 discounts, Thornton as the paying exception, and, for anyone weighing sod, Denver Water's stop on establishment permits after 30 September 2026 and Aurora's ban on new cool-weather turf. Rebate detail stays in the water rebates guide.",
+  "sources": [
+    {
+      "label": "C.R.S. 38-33.3-106.5 (FindLaw copy)",
+      "url": "https://codes.findlaw.com/co/title-38-property-real-and-personal/co-rev-st-sect-38-33-3-106-5/",
+      "checked": "2026-09-12",
+      "note": "Rendered in headless Chromium on 12 September 2026. Page banner: 'Current as of January 01, 2025 | Updated by Findlaw Staff'. FindLaw is not the official publisher, so the page dates the wording to SB23-178 (session law below) and to this 1 January 2025 copy rather than calling it current text. Subsection (1)(i)(I)(A) applies only to a single-family home that shares one or more walls with another unit; (1)(i.5) applies only to a detached single-family home and expressly not to an attached home or a condominium.",
+      "supports": [
+        "(1) Notwithstanding any provision in the declaration, bylaws, or rules and regulations of the association to the contrary, an association shall not prohibit any of the following:",
+        "(i)(I)(A) The use of xeriscape, nonvegetative turf grass, or drought-tolerant vegetative landscapes to provide ground covering to property for which a unit owner is responsible, including a limited common element or property owned by the unit owner. Associations may adopt and enforce design or aesthetic guidelines or rules that apply to nonvegetative turf grass and drought-tolerant vegetative landscapes or regulate the type, number, and placement of drought-tolerant plantings and hardscapes that may be installed on a unit owner's property or on a limited common element or other property for which the unit owner is responsible. An association may restrict the installation of nonvegetative turf grass to rear yard locations only.",
+        "This subsection (1)(i)(I)(A), as amended by Senate Bill 23-178, enacted in 2023, applies only to a unit that is a single-family home that shares one or more walls with another unit and does not apply to a unit that is a detached single-family home.",
+        "(A) Not prohibit the use of nonvegetative turf grass in the backyard of a unit owner's property;",
+        "(II) For the purposes of this subsection (1)(i.5), each association shall select at least three preplanned water-wise garden designs that are preapproved for installation in front yards within the common interest community.",
+        "(V) Nothing in this subsection (1)(i.5) shall be construed to prohibit or restrict the authority of associations to: (A) Adopt bona fide safety requirements consistent with applicable landscape codes or recognized safety standards for the protection of persons and property; (B) Prohibit or restrict changes that interfere with the establishment and maintenance of fire buffers or defensible spaces; or (C) Prohibit or restrict changes to existing grading, drainage, or other structural landscape elements necessary for the protection of persons and property.",
+        "(VI) Notwithstanding any provision of this section to the contrary, this subsection (1)(i.5) applies only to a unit that is a single-family detached home and does not apply to: (A) A unit that is a single-family attached home that shares one or more walls with another unit; or (B) A condominium.",
+        "Current as of January 01, 2025"
+      ]
+    },
+    {
+      "label": "Colorado General Assembly: SB23-178 bill page",
+      "url": "https://leg.colorado.gov/bills/sb23-178",
+      "checked": "2026-09-12",
+      "supports": [
+        "Not prohibit the use of nonvegetative turf grass in the backyard of a unit owner's property;",
+        "A unit that is a single-family attached home that shares one or more walls with another unit; or",
+        "EFFECTIVE August 7, 2023",
+        "05/17/2023 Signed Act"
+      ]
+    },
+    {
+      "label": "Colorado Session Laws 2023, chapter 207: SB23-178 as signed (PDF)",
+      "url": "https://leg.colorado.gov/laws/session-laws/SB23-178/207/download",
+      "checked": "2026-09-12",
+      "note": "Downloaded as PDF (HTTP 200) and read with pdftotext on 12 September 2026; the content.leg.colorado.gov copy returned 403. Chapter 207, pages 1072-1076. Section 1 amends 38-33.3-106.5 (1)(i)(I)(A) and adds (1)(i.5); the wording matches the FindLaw copy above.",
+      "supports": [
+        "CHAPTER 207 ... SENATE BILL 23-178 ... AN ACT CONCERNING REMOVING BARRIERS TO WATER-WISE LANDSCAPING IN COMMON INTEREST COMMUNITIES.",
+        "SECTION 1. In Colorado Revised Statutes, 38-33.3-106.5, amend (1)(i)(I)(A); and add (1)(i.5) as follows:",
+        "An association may restrict the installation of nonvegetative turf grass to rear yard locations only. THIS SUBSECTION (1)(i)(I)(A), AS AMENDED BY SENATE BILL 23-178, ENACTED IN 2023, APPLIES ONLY TO A UNIT THAT IS A SINGLE-FAMILY HOME THAT SHARES ONE OR MORE WALLS WITH ANOTHER UNIT AND DOES NOT APPLY TO A UNIT THAT IS A DETACHED SINGLE-FAMILY HOME.",
+        "(VI) NOTWITHSTANDING ANY PROVISION OF THIS SECTION TO THE CONTRARY, THIS SUBSECTION (1)(i.5) APPLIES ONLY TO A UNIT THAT IS A SINGLE-FAMILY DETACHED HOME AND DOES NOT APPLY TO: (A) A UNIT THAT IS A SINGLE-FAMILY ATTACHED HOME THAT SHARES ONE OR MORE WALLS WITH ANOTHER UNIT; OR (B) A CONDOMINIUM.",
+        "Approved: May 17, 2023"
+      ]
+    },
+    {
+      "label": "C.R.S. 37-60-126 (FindLaw copy)",
+      "url": "https://codes.findlaw.com/co/title-37-water-and-irrigation/co-rev-st-sect-37-60-126/",
+      "checked": "2026-09-12",
+      "note": "Rendered in headless Chromium; 'Current as of January 01, 2025'. Since SB23-178, (11)(a) applies only to a home that shares a wall and (11)(a.5) carries the backyard sentence for other residential property. Used on the page only for the (11)(d)(I) carve-out.",
+      "supports": [
+        "(d)(I) Except as otherwise provided in subsection (11)(d)(II) of this section, this subsection (11) does not supersede any subdivision regulation of a county, city and county, or other municipality.",
+        "(III) This subsection (11)(a), as amended by Senate Bill 23-178, enacted in 2023, applies only to a unit that is a single-family home that shares one or more walls with another unit and does not apply to a unit that is a detached single-family home."
+      ]
+    },
+    {
+      "label": "Arvada Land Development Code, Chapter 4, Article 4-6, § 4-6-7-2 (groundcovers and planting beds)",
+      "url": "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=LADECOARCO_CH4ENSIDE_ART4-6LABU_DIV4-6-7ADTERE_4-6-7-2GRPLBE",
+      "checked": "2026-09-12",
+      "note": "Rendered in headless Chromium on 12 September 2026; banner reads VERSION: AUG 27, 2026 (CURRENT).",
+      "supports": [
+        "Inorganic Ground Cover. Inorganic material such as river rock, cobble rock, gravel, artificial turf, artificial plant material, concrete, or asphalt paving may not be used as a permanent, primary ground cover within the landscaped area, except where:",
+        "Artificial turf is used for backyard and side yard applications that are not in public view. Public view includes any area viewable from areas with public access such as streets, sidewalks, parks, and trails. Artificial turf for a putting green not larger than 400 square feet may be placed in side or rear yard even if in public view; or"
+      ]
+    },
+    {
+      "label": "Arvada Land Development Code, Chapter 4, Article 4-6, § 4-6-3-1 (applicability)",
+      "url": "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=LADECOARCO_CH4ENSIDE_ART4-6LABU_DIV4-6-3GELAST_4-6-3-1AP",
+      "checked": "2026-09-12",
+      "note": "Rendered in headless Chromium; VERSION: AUG 27, 2026 (CURRENT).",
+      "supports": [
+        "Generally. All new construction, including building expansions that increase the footprint of a building by 25 percent or more, and modification to an existing landscape area shall comply with the standards in this Article.",
+        "Single-Family Detached and Duplex. Single-family detached and duplex dwelling unit lots, are exempt from landscaping requirements, provided the initial development of the subdivision contains nine or fewer lots of single-family and/or duplex."
+      ]
+    },
+    {
+      "label": "City of Westminster: Landscape Regulations 2004 (PDF)",
+      "url": "https://www.westminsterco.gov/DocumentCenter/View/1138/City-of-Westminster-Landscape-Regulations-PDF",
+      "checked": "2026-09-12",
+      "note": "Downloaded and read with pdftotext on 12 September 2026 (46 pages). The regulations are being updated in the Unified Development Code (see the FAQ and the 2 March 2026 presentation below); the page flags that in its FAQ.",
+      "supports": [
+        "The use of artificial turf is generally prohibited, except for use in single-family detached or duplex lot yard areas not adjacent to a street, or public or private park or open space.",
+        "The minimum landscape area for a single-family detached or duplex lot must be a minimum of 50% of each yard area adjacent to a street, unless approved otherwise by the City.",
+        "Artificial turf or plants cannot be substituted for required plant materials except as approved otherwise in these Regulations."
+      ]
+    },
+    {
+      "label": "City of Westminster: Landscape Changes, Frequently Asked Questions (PDF)",
+      "url": "https://www.westminsterco.gov/DocumentCenter/View/1457/Landscape-Changes---Frequently-Asked-Questions-FAQ-PDF",
+      "checked": "2026-09-12",
+      "note": "Downloaded 12 September 2026. The PDF carries no printed date; its file metadata reads CreationDate 14 April 2025 (Acrobat PDFMaker 20 for Word), so the page dates it April 2025.",
+      "supports": [
+        "Artificial turf is allowed in single unit and duplex type development, when not adjacent to a street, park or open space. In practice this has allowed residents to install artificial turf in back yard areas without restrictions nor the need for City review.",
+        "The City's landscape regulations require 50% of a front yard area in single-family neighborhoods to be vegetation, but not necessarily turfgrass.",
+        "The regulations were last updated in 2004 as a result of concerns coming out of the 2002 drought.",
+        "These regulations are being updated as part of the scope of work for larger Unified Development Code project",
+        "The updated regulations are prospective with new development and not retroactive."
+      ]
+    },
+    {
+      "label": "City of Westminster: Unified Development Code presentation, March 2, 2026 (PDF)",
+      "url": "https://www.westminsterco.gov/DocumentCenter/View/7413",
+      "checked": "2026-09-12",
+      "note": "Downloaded and read with pdftotext on 12 September 2026 (13 pages). The slides are dated March 2, 2026; the file itself was generated 19 August 2026. No adopted UDC was found, so the page says the code is still called proposed in that presentation.",
+      "supports": [
+        "UNIFIED DEVELOPMENT CODE PRESENTATION March 2, 2026",
+        "Purpose: Receive an overview of the proposed Unified Development Code and provide feedback",
+        "Prospective applicability, not rezoning anyone",
+        "Existing uses may remain indefinitely, UDC to apply to major new buildings or redevelopment",
+        "Next Steps 1. Temporary moratorium on event facilities 2. Update UDC draft 3. Staffing analysis 4. Legal review 5. Planning Commission 6. City Council consideration"
+      ]
+    },
+    {
+      "label": "Thornton Water: 2026 Artificial Turf Rules for Water-Wise Landscape Rebate (PDF)",
+      "url": "https://www.thorntonwater.com/wp-content/uploads/2026/02/2026-residential_artificial_turf_info__rules-1.pdf",
+      "checked": "2026-09-12",
+      "note": "Downloaded and read with pdftotext on 12 September 2026. Every page footer reads 1/1/2026. The page does not repeat the rebate amounts (they are in the water rebates guide and the Thornton page), and does not mention the product fade requirement.",
+      "supports": [
+        "Rear Yard & Enclosed Side Yards: Artificial turf allowed with no limitations.",
+        "All Other Areas: Artificial turf shall not exceed 25% of the landscape area. (Front and unenclosed Side yards not occupied by driveways, sidewalks, patios, decks, buildings, or other structures)",
+        "A Minor Development Permit is required before the installation of artificial turf as landscaping.",
+        "Living plant materials are required when artificial turf is installed in the lot's front or unenclosed side yard landscape areas.",
+        "One tree equivalent is required for the first 750 square feet of artificial turf or a fraction thereof.",
+        "One-half tree equivalent is required for each additional 250 square feet of artificial turf or a fraction thereof.",
+        "The residential water-wise landscape rebate provides up to $2 per square foot for qualifying 200 – 1,000 square feet projects. The rebate has a lifetime maximum of $2,000 per residential lot.",
+        "To be eligible for the rebate, artificial turf must replace an area of high-water demand lawn, such as Kentucky Bluegrass, on existing residential lots or areas of no landscaping on new construction residential lots.",
+        "Page 1 of 6 1/1/2026"
+      ]
+    },
+    {
+      "label": "City of Brighton Land Use & Development Code, Section 8.02 Landscape Design (Table 8-1)",
+      "url": "https://library.municode.com/CO/Brighton/codes/land_use?nodeId=ART8LASIDEST_8.02LADE",
+      "checked": "2026-09-12",
+      "note": "Rendered in headless Chromium; VERSION: AUG 12, 2026 (CURRENT).",
+      "supports": [
+        "Detached house, duplex/multi-unit house, and row house building types may have artificial turf in frontage areas but artificial turf shall be limited to 20% of the frontage area.",
+        "Backyards of the detached house, duplex/multi-unit house, and row house building types may have irrigated turf, water-wise landscape, non-living landscape materials, native seed, artificial turf, or any combination thereof."
+      ]
+    },
+    {
+      "label": "City of Brighton Land Use & Development Code, Section 8.01 Intent & Applicability",
+      "url": "https://library.municode.com/CO/Brighton/codes/land_use?nodeId=ART8LASIDEST_8.01INAP",
+      "checked": "2026-09-12",
+      "note": "Rendered in headless Chromium; VERSION: AUG 12, 2026 (CURRENT).",
+      "supports": [
+        "Applicability. The standards of this Section shall apply to all new development except:",
+        "1. Improvements or repairs to detached houses and duplexes that are not subject to a Site Improvement / Residential Design Review as provided in Section 2.05, and which are not part of a larger residential neighborhood or subdivision plan; and",
+        "2. Improvements or repairs to existing development that do not result in an increase in building footprint or impervious surfaces by more than 10% or changes in use that do not result in an increase in intensity."
+      ]
+    },
+    {
+      "label": "City of Brighton Land Use & Development Code, Section 8.04 Plant Specifications (water-wise landscape)",
+      "url": "https://library.municode.com/CO/Brighton/codes/land_use?nodeId=ART8LASIDEST_8.04PLSP",
+      "checked": "2026-09-12",
+      "note": "Rendered in headless Chromium; VERSION: AUG 12, 2026 (CURRENT). E.4 sits in tension with Table 8-1's backyard row for artificial turf (turf is not living ground cover); the page states both rather than calling the back yard uncapped.",
+      "supports": [
+        "E. Water-wise Landscape. All landscape plans shall conserve water with landscape materials and design techniques using the following water-wise principles.",
+        "4. Choose plants from the Plant Specifications in Section 8.04 for trees, shrubs, and to create a living ground cover of at least 50% of the landscape area based on mature size of vegetation.",
+        "Artificial Turf: The chosen material and any underlayment installed below the turf shall have a minimum percolation rate of 5 inches per hour."
+      ]
+    },
+    {
+      "label": "Northglenn Municipal Code: Article 11-4, Development Standards (Section 11-4-7, Landscaping)",
+      "url": "https://municode.northglenn.org/ch11/content_11-4.html",
+      "checked": "2026-09-12",
+      "supports": [
+        "(4) Slope restrictions: Artificial turf shall not be installed on slopes greater than six percent.",
+        "For existing single family attached and detached residential, only the appropriate landscaping materials section outlined in Section 11-4-7(e)(1)(A-E) below is applicable.",
+        "(E) Artificial ground cover, pursuant to subsection 11-4-7(F), artificial turf regulations;"
+      ]
+    },
+    {
+      "label": "Lafayette Municipal Code, Sec. 26-19-5, Landscaping regulations and guidelines",
+      "url": "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=COOR_CH26DEZO_S26-19DEIMST_S26-19-5LAREGU",
+      "checked": "2026-09-12",
+      "note": "Rendered in headless Chromium; VERSION: MAY 11, 2026 (CURRENT). (d)(3) is the single-family residential subsection containing the 75% front-yard rule; (c)(1) makes single-family building permits comply with (d)(1) and (3).",
+      "supports": [
+        "(a) Applicability. This section shall apply to new residential and new nonresidential development, and any development requiring a site plan review, commenced after the effective date of Ordinance No. 2004-1 [March 2, 2004].",
+        "Building permit applications for individual single-family residences do not require landscape plans, but shall comply with section 26-19-5(d)(1) and (3).",
+        "(3) Single-family residential. a. In addition to the right-of-way landscaping described in section 26-19-5(d)(1)a. above, the property owner shall: 1. Provide landscaping in the front yard of each home. There shall be a minimum of seventy-five (75) percent of the gross front yard area, excluding driveways, landscaped with live materials.",
+        "Artificial plants, artificial grasses, and other artificial plant material are prohibited as a means of complying with these landscaping regulations. Such artificial materials are not entirely prohibited. They may be used for athletic fields and other uses, but shall not be used in any manner to satisfy the requirements of these landscape regulations."
+      ]
+    },
+    {
+      "label": "Lafayette Listens: Land Use/Zoning Code adoption schedule",
+      "url": "https://lafayette-listens.com/landusecode",
+      "checked": "2026-09-12",
+      "note": "Rendered in headless Chromium; 'Page last updated: 08 Sep 2026, 05:19 PM'. The vote is three days after the check date; the page states it as a scheduled date and sends the reader to the Planning Division. Recheck after 15 September 2026.",
+      "supports": [
+        "The City of Lafayette is rewriting its land use code (also referred to as zoning) for the first time in nearly 40 years.",
+        "Sept. 15 – City Council Second Reading. City Council will take a final vote on the Land Use Code. This meeting typically does not include a public hearing.",
+        "Page last updated: 08 Sep 2026, 05:19 PM"
+      ]
+    },
+    {
+      "label": "Aurora Water: Drought (Stage 1 restrictions and FAQ)",
+      "url": "https://www.auroragov.org/residents/water/drought",
+      "checked": "2026-09-12",
+      "note": "Fetched with curl on 12 September 2026 (HTTP 200). The Stage 1 list is in the page body; the FAQ answers are in the page's tab script, which is why a text-only fetch can miss them. The '50% coverage maximum' sentence is the answer to the FAQ titled 'Why doesn't Aurora Water provide rebates to convert 100% to artificial turf?' and names no base area. The page gives no declaration date ('Effective immediately'), so the page dates the rule to the day it was read.",
+      "supports": [
+        "Effective immediately, Aurora is in a Stage 1 drought. Watering restrictions are in place.",
+        "No watering permitted between 10 a.m. and 6 p.m. No new cool-weather turf can be installed.",
+        "Why doesn't Aurora Water provide rebates to convert 100% to artificial turf?",
+        "While artificial turf doesn't require any water, it is not water-wise landscape. Aurora residents are permitted to install artificial turf, subject to a 50% coverage maximum, but the city of Aurora does not incentivize those installations.",
+        "New sod is not allowed during Stage 1 restrictions unless it meets Aurora's low-water use requirements."
+      ]
+    },
+    {
+      "label": "Denver Water: Ditching useless turf for ColoradoScape? We can help (19 March 2026)",
+      "url": "https://www.denverwater.org/tap/ditching-useless-turf-coloradoscape-we-can-help",
+      "checked": "2026-09-12",
+      "note": "Rendered in headless Chromium; the article is dated March 19, 2026 and carries a site notice dated 03/28/2026.",
+      "supports": [
+        "03/28/2026 - 11:10 am Due to popularity, turfgrass removal discounts for 2026 have all been allocated to customer projects for the year. Resource Central is no longer accepting new applications.",
+        "Application requirements include the removal of at least 200 square feet of water-intensive turf, a photo of the area to be transformed and plans for the new water-wise landscape that will be created (artificial turf is not allowed).",
+        "March 19, 2026 | By: TAP Staff"
+      ]
+    },
+    {
+      "label": "Denver Water: Rules for Outdoor Water Use",
+      "url": "https://www.denverwater.org/residential/rebates-and-conservation-tips/summer-watering-rules",
+      "checked": "2026-09-12",
+      "note": "Rendered in headless Chromium; the establishment-permit sentence sits in a collapsed section and was read from the saved page HTML.",
+      "supports": [
+        "08/26/2026 - 9:30 am Denver Board of Water Commissioners declares an end to lawn watering season, prohibiting lawn watering and all spray irrigation after Sept. 30. Keep hand-watering or drip-irrigating trees and plants as needed.",
+        "New seed, sod or plant projects are exempt from two-day-a-week watering temporarily during establishment; however, watering rules and normal rates (including drought pricing) still apply. Watering establishment permits will not be available after Sept. 30 until further notice.",
+        "Denver Water has declared a Stage 1 drought"
+      ]
+    },
+    {
+      "label": "Colorado General Assembly: SB24-005 bill page",
+      "url": "https://leg.colorado.gov/bills/sb24-005",
+      "checked": "2026-09-12",
+      "supports": [
+        "On and after January 1, 2026, the act prohibits local governments from allowing the installation, planting, or placement of nonfunctional turf, artificial turf, or invasive plant species on commercial, institutional, or industrial property, common interest community property, or a street right-of-way, parking lot, median, or transportation corridor.",
+        "EFFECTIVE August 7, 2024"
+      ]
+    },
+    {
+      "label": "Colorado General Assembly: HB25-1113 bill page",
+      "url": "https://leg.colorado.gov/bills/hb25-1113",
+      "checked": "2026-09-12",
+      "supports": [
+        "Prohibits a local entity, on and after January 1, 2026, from installing, planting, or placing, or allowing any person to install, plant, or place, any nonfunctional turf, nonfunctional artificial turf, or invasive plant species, as part of a new development project or redevelopment project, on applicable property within the local entity's jurisdiction;",
+        "The act expands the definition of \"applicable property\" to include a multifamily residential housing premises property that includes more than 12 dwelling units (applicable residential real property).",
+        "The act prohibits a local entity, on and after January 1, 2028, from installing, planting, or placing, or allowing a person to install, plant, or place, any nonfunctional turf, nonfunctional artificial turf, or invasive plant species, as part of a new development project or redevelopment project, on applicable properties that include multifamily residential housing premises property.",
+        "05/20/2025 Signed Act"
+      ]
+    }
+  ],
+  "unresolved": [
+    "Whether a 2025 or 2026 act changed C.R.S. 38-33.3-106.5 (1)(i) or (1)(i.5) was not confirmed. Both FindLaw copies are current as of 1 January 2025; the official C.R.S. files on content.leg.colorado.gov returned 403; Justia returned a blocked page; and the legislature's bill search ignored its session and text filters, returning a generic list of 2026 signed bills (one a Division of Real Estate sunset bill whose text was not checked). The page therefore dates the wording to SB23-178 and FindLaw's 1 January 2025 copy and tells the reader to cite the section when asking the board for a written position.",
+    "Subsection (1)(i.5)(VI)(B) expressly excludes condominiums from the detached-home rule, but neither text says in terms whether (1)(i) reaches a condominium unit. The page only states the express exclusion and sends condo owners to the association for its written rules.",
+    "Aurora Water's '50% coverage maximum' names no base area, and the current Aurora UDO could not be opened (see aurora-co evidence). The page tells the reader to get the answer from Aurora Planning in writing.",
+    "Whether Brighton's 20% frontage cap reaches a re-landscape of an existing detached house depends on the Section 8.01 exemptions and Residential Design Review; the page sends the reader to Community Development.",
+    "Whether a landscaping change at an existing Lafayette home needs a building permit that brings in 26-19-5(d)(3) was not confirmed, and the replacement land use code's final vote was scheduled for 15 September 2026. Recheck the Lafayette Listens page after that date.",
+    "Westminster's Unified Development Code was still called proposed in the 2 March 2026 presentation; no adoption was found. The FAQ says updated regulations are prospective.",
+    "The City and County of Denver's own zoning treatment of turf on an existing home was not researched; the page makes no claim about it and lists Denver only as a nearby town page.",
+    "Drought rules change. Denver Water's stop on establishment permits runs 'until further notice' from 30 September 2026, and Aurora's Stage 1 page carries no declaration date. Both are dated on the page; recheck after 30 September 2026."
+  ]
+}

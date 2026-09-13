@@ -1,0 +1,175 @@
+{
+  "intent": "I manage a business, institutional or association property in Duval, St. Johns, Nassau or Clay County and want turf for a courtyard, dog run or play area. Does Florida's synthetic turf law protect or limit that, do I need a stormwater permit, does turf count toward required landscaping, and do the county landscape codes reach an existing site?",
+  "distinctValue": "The national commercial page says only 'check with the responsible reviewer', and the Denver and Grand Strand pages deal with Colorado's nonfunctional-turf law and Horry County's stormwater fee. This page tells a northeast Florida buyer that DEP says Rule 62-308.100 (effective 19 May 2026) does not apply to commercial properties and runs no permit, inspection or enforcement program, and that the s. 125.572 limits (2026 Florida Statutes, as amended by ch. 2026-164 to exclude a CDD enforcing deed restrictions) are tied to single-family residential standards; that Rule 62-330.020 sets ERP thresholds (more than 4,000 sq ft vehicular and 9,000 sq ft total impervious and semi-impervious area, part of a larger common plan, modification of a permitted project) with carve-outs, and the SJRWMD handbook's impervious and semi-impervious definitions never name turf, with a 10 percent or 0.5 acre modification factor; that Clay County Sec. 18.5-53 and Nassau County Sec. 37.05 bar synthetic material from substituting for required plants, while St. Johns LDC 6.06.02.A.5 bars only 'artificial plants' and its impervious definition names wet retention areas but not turf; when Nassau 37.05 and Jacksonville 656.1209 reach an existing site (redevelopment thresholds of 7,500/750/2,000 sq ft and 10 percent; 60 percent renovation or expansion for commercial), and that St. Johns Section 13.16 governs changes to approved construction plans; and that Atlantic Beach's undated guidelines apply to all installations with 100 in/hr permeability, a 4-inch aggregate base, retention-area conditions, required documents and a base inspection.",
+  "sources": [
+    {
+      "label": "Rule 62-308.100, F.A.C.: adopted rule text",
+      "url": "https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc",
+      "checked": "2026-09-12",
+      "supports": [
+        "(b) Pursuant to s. 125.572, F.S., this rule establishes minimum standards for the installation of synthetic turf on single-family residential properties of 1 acre or less in size. Pursuant to s. 125.572(3), F.S., local governments may not regulate synthetic turf in a manner inconsistent with these minimum standards. This rule does not establish nor require any new department-issued permit or authorization for the installation of synthetic turf,",
+        "(c) Infill material, if used, shall only be clean silica sand, rock, shell, or other natural material, except that coated silica sand may be used provided that any coating used is non-toxic and meets the requirements described in paragraphs (2)(a) and (2)(b). Rubber or any other synthetic infill material is allowed only within the footprint of playground equipment",
+        "Rulemaking Authority 125.572 FS. Law Implemented 125.572 FS. History–New 5-19-26."
+      ]
+    },
+    {
+      "label": "Florida DEP: Synthetic Turf FAQ",
+      "url": "https://floridadep.gov/sites/default/files/SyntheticTurfFAQ%20final.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "Does this rule apply to condominiums, duplexes, parks, athletic fields or commercial properties? No. This rule only applies to single-family residential properties that are 1 acre or less in size.",
+        "Instead, this rule establishes minimum standards that local governments must use when adopting or enforcing any ordinance, resolution, order, rule or policy relating to the installation of synthetic turf on single-family residential properties 1 acre or less in size.",
+        "Does DEP inspect or enforce synthetic turf installations? No. DEP is not implementing a permitting, inspection or enforcement program under this rule.",
+        "Does this rule regulate Homeowners' Associations (HOAs) or private deed restrictions? No. This rule does not address HOA requirements, deed restrictions or other private property agreements."
+      ]
+    },
+    {
+      "label": "The 2026 Florida Statutes, s. 125.572 (Regulation of synthetic turf)",
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0125/Sections/0125.572.html",
+      "checked": "2026-09-12",
+      "supports": [
+        "(3)(a) Upon the Department of Environmental Protection adopting rules pursuant to subsection (4), a local government may not: 1. Adopt or enforce any ordinance, resolution, order, rule, or policy that prohibits, or is enforced to prohibit, a property owner from installing synthetic turf that complies with Department of Environmental Protection standards adopted pursuant to this section which apply to single-family residential property.",
+        "2. Adopt or enforce any ordinance, resolution, order, rule, or policy that regulates synthetic turf which is inconsistent with the Department of Environmental Protection standards adopted pursuant to this section which apply to single-family residential property.",
+        "(b) This subsection does not apply to the adoption or enforcement of any resolution, order, rule, or policy by a community development district to enforce deed restrictions.",
+        "History. — s. 1, ch. 2025-140; s. 1, ch. 2026-164."
+      ]
+    },
+    {
+      "label": "Laws of Florida, Ch. 2026-164 (CS/CS/SB 1180, amending s. 125.572)",
+      "url": "https://laws.flrules.org/files/Ch_2026-164.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "An act relating to community development districts; amending s. 125.572, F.S.; providing that specified provisions regarding synthetic turf do not apply to community development districts enforcing deed restrictions;",
+        "(b) This subsection does not apply to the adoption or enforcement of any resolution, order, rule, or policy by a community development district to enforce deed restrictions.",
+        "Section 5. This act shall take effect July 1, 2026.",
+        "Approved by the Governor June 25, 2026."
+      ]
+    },
+    {
+      "label": "Rule 62-330.020, F.A.C.: regulated activities (current rule text)",
+      "url": "https://www.flrules.org/gateway/readFile.asp?sid=0&tid=20397080&type=1&file=62-330.020.doc",
+      "checked": "2026-09-12",
+      "supports": [
+        "(1) A permit under this chapter is not required for activities that qualify for: (a) Operation and routine custodial maintenance of projects legally in existence under Chapter 403 or Part IV of Chapter 373, F.S., provided the terms and conditions of the permit, exemption, or other authorization for such projects continue to be met, and provided the activity is conducted in a manner that does not cause violations of state water quality standards. However, this exemption shall not apply to any project that is altered, modified, expanded, abandoned, or removed;",
+        "(b) An exemption listed in Rule 62-330.051 or 62-330.0511, F.A.C., or in section 1.3 (District-specific exemptions) of the applicable Volume II; (c) The “grandfathering” provisions of Section 373.4131(4), 373.414(11), (12)(a), (13), (14), (15), or (16), F.S.; or (d) The “10/2” general permit for upland stormwater systems authorized in Section 403.814(12), F.S.",
+        "(2) Unless the activity qualifies under subsection (1), above, a permit is required prior to the construction, alteration, operation, maintenance, removal, or abandonment of any project that, by itself or in combination with an activity conducted after October 1, 2013, cumulatively results in any of the following:",
+        "(a) Any project in, on, or over wetlands or other surface waters; (b) A total of more than 4,000 square feet of impervious and semi-impervious surface areas subject to vehicular traffic; (c) A total of more than 9,000 square feet of impervious and semi-impervious surface area; (d) A total project area of more than five acres;",
+        "(g) Any project that is part of a larger common plan of development or sale;",
+        "(j) Any modification or alteration of a project previously permitted under Part IV of Chapter 373, F.S.",
+        "History–New 10-1-13, Amended 6-1-18."
+      ]
+    },
+    {
+      "label": "SJRWMD: Environmental Resource Permit Applicant's Handbook, Volume I (June 28, 2024)",
+      "url": "https://aws.sjrwmd.com/SJRWMD/permitting/AH_I_thru_Appendix_D.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "60. “Impervious” for purposes of applying permitting thresholds and exemption criteria, means surfaces that do not allow, or minimally allow, the penetration of water, including semi-impervious areas, but excluding wetlands or other surface waters.",
+        "110. “Semi-impervious” means land surfaces that partially restrict the penetration of water, such as porous concrete and asphalt pavements, gravel, limerock, and certain compacted soils.",
+        "(d) Factors that will be considered in determining whether a modification will cause more than minor changes under subsection 62-330.315(2), F.A.C., are whether the proposed activity will:",
+        "2. Increase proposed impervious and semi-impervious surfaces by more than 10 percent or 0.5 acres, whichever is less, unless the activities were permitted with stormwater treatment and flood attenuation capability sufficient to meet the permitting requirements for the proposed modification;",
+        "A.H. Volume I June 28, 2024"
+      ]
+    },
+    {
+      "label": "Clay County Code of Ordinances, Sec. 18.5-51 (Application), Municode (codified through Ord. No. 2026-12)",
+      "url": "https://library.municode.com/fl/clay_county/codes/code_of_ordinances?nodeId=CO_CH18.5VE_ARTIIILA_DIV1GE_S18.5-51AP",
+      "checked": "2026-09-12",
+      "supports": [
+        "This article is enacted under the home rule power of county for the purpose of providing minimum landscaping standards for paved ground surface areas of all nonresidential buildings",
+        "This article shall have effect only in the unincorporated area of the county.",
+        "Codified through Ordinance No. 2026-12, enacted April 14, 2026. (Supp. No. 86)"
+      ]
+    },
+    {
+      "label": "Clay County Code of Ordinances, Sec. 18.5-53 (General landscaping requirements), Municode",
+      "url": "https://library.municode.com/fl/clay_county/codes/code_of_ordinances?nodeId=CO_CH18.5VE_ARTIIILA_DIV1GE_S18.5-53GELARE",
+      "checked": "2026-09-12",
+      "supports": [
+        "h. Synthetic lawns: Synthetic or artificial turf shall not be used in lieu of plant requirements in this section.",
+        "i. Synthetic plants: Synthetic or artificial material in the form of trees, shrubs, ground covers or vines shall not be used in lieu of plant requirements in this section."
+      ]
+    },
+    {
+      "label": "Nassau County Land Development Code, Sec. 37.05 (Landscaping), Municode (codified through Ord. No. 2026-032)",
+      "url": "https://library.municode.com/fl/nassau_county/codes/code_of_ordinances?nodeId=APXALADECO_ORDINANCE_NO._97-19NACOFL_ART37NAREPR_S37.05LA",
+      "checked": "2026-09-12",
+      "supports": [
+        "A. Applicability. 1. The standards established in this section are to be considered the minimum requirements for the design, plant selection, installation and maintenance of landscape elements and site improvements and shall apply to all new development.",
+        "2. Developments constructed under previously effective landscaping requirements are not required to comply with this section. However, the requirements of this section shall also apply to the redevelopment, reconfiguration, expansion or change of use of a previously developed site, unless such change falls below the following threshold:",
+        "a. The existing developed impervious area is seven thousand five hundred (7,500) square feet or less, and the proposed expansion of impervious surface is seven hundred fifty (750) square feet or less. b. The existing developed impervious area is greater than seven thousand five hundred (7,500) square feet, and the proposed expansion of impervious surface is less than two thousand (2,000) square feet, and also less than ten percent (10%) of the existing impervious area on the parcel or lot.",
+        "Synthetic or artificial trees, shrubs, groundcovers or vines are not acceptable substitutes.",
+        "Codified through Ordinance No. 2026-032, enacted April 27, 2026. (Supp. No. 17)"
+      ]
+    },
+    {
+      "label": "Jacksonville Ordinance Code Sec. 656.1209 (Applicability), Municode (codified through Ord. No. 2026-151-E)",
+      "url": "https://library.municode.com/fl/jacksonville/codes/code_of_ordinances?nodeId=TITXVIILAUS_CH656ZOCO_PT12LATRPRRE_SPCLARE_S656.1209AP",
+      "checked": "2026-09-12",
+      "supports": [
+        "This Subpart shall be applicable to all new landscapes and irrigation systems for public agency projects and private development projects, including, but not limited to, industrial, commercial, recreational, multi-family residential developments",
+        "For industrial and commercial developments, when the total cumulative renovation of existing development within two years is equal to at least 60 percent of the assessed value of the lot improvements for the current year's value, according to the Property Appraiser, or the total square footage of a structure is expanded to 60 percent or greater, as well as any cumulative square footage expansions totaling 60 percent, the project will be deemed a Qualified Project, then this Subpart shall be applicable to existing development and the expansion.",
+        "Codified through Ordinance No. 2026-151-E, enacted March 24, 2026."
+      ]
+    },
+    {
+      "label": "Jacksonville Ordinance Code Sec. 656.1217 (Landscape and irrigation system plans required), Municode",
+      "url": "https://library.municode.com/fl/jacksonville/codes/code_of_ordinances?nodeId=TITXVIILAUS_CH656ZOCO_PT12LATRPRRE_SPCLARE_S656.1217LAIRSYPLRE",
+      "checked": "2026-09-12",
+      "supports": [
+        "(a) Prior to the issuance of any building permit or paving permit, a landscape plan shall be filed with, reviewed by, and approved by the Chief."
+      ]
+    },
+    {
+      "label": "St. Johns County Land Development Code, Article VI (Section 6.06.02.A.5, January 12, 2026)",
+      "url": "https://www.sjcfl.us/wp-content/uploads/2024/01/article-vi.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "5. Non-living ground cover, such as rocks, gravel, and mulch, may be used in combination with living plant material. The use of artificial plants shall not be permitted to meet any of the landscaping requirements.",
+        "St. Johns County Land Development Code VI-106 January 12, 2026 6.06.02.A.6"
+      ]
+    },
+    {
+      "label": "St. Johns County Land Development Code, Article XII (definitions, June 2, 2026)",
+      "url": "https://www.sjcfl.us/wp-content/uploads/2024/01/Article-XII.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "Impervious Surfaces: Any Building, concrete, pools, wet retention/detention areas, pavement or compacted materials utilized for parking or roadways.",
+        "June 2, 2026"
+      ]
+    },
+    {
+      "label": "St. Johns County Development Review Manual, Section 13.0 Construction Plans (revised May 2026)",
+      "url": "https://www.sjcfl.us/wp-content/uploads/2023/08/Section-13.0-Construction-Plans.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "Section 13.16 Modifications to Construction Plans. Changes to approved Construction Plans must be approved by Development Review prior to implementation in the field. Minor changes may be approved without a submittal and documented on the As-built Survey. More significant changes will require the submission of revised plans.",
+        "If the changes proposed alter the drainage plan or site plan significantly approval through the same process as a new project including all associated fees will be required.",
+        "Revised May 2026"
+      ]
+    },
+    {
+      "label": "St. Johns County: Development Review",
+      "url": "https://www.sjcfl.us/departments/development-review/",
+      "checked": "2026-09-12",
+      "supports": [
+        "The Development Review Division manages the Development Review Committee, impact fee assessment and collection, the residential clearance sheet process, and manages Commercial plan review and inspection"
+      ]
+    },
+    {
+      "label": "City of Atlantic Beach: Artificial Turf Installation Guidelines (undated; PDF metadata shows it was created 14 May 2026)",
+      "url": "https://coab.us/DocumentCenter/View/15920/Turf-Installation-Guidelines",
+      "checked": "2026-09-12",
+      "supports": [
+        "Artificial turf is permitted within the City of Atlantic Beach when installed in a manner that maintains proper drainage, protects trees, and preserves public infrastructure. The following standards apply to all artificial turf installations.",
+        "Turf systems must provide a minimum permeability rate of 100 inches per hour.",
+        "Artificial turf must be installed over a minimum 4-inch deep permeable, free-draining aggregate base.",
+        "Artificial turf may be installed within privately owned stormwater retention, or drainage areas provided the installation does not reduce the designed storage capacity or function of the system.",
+        "Artificial turf may not obstruct drainage structures, overflow paths, or maintenance access.",
+        "The City may require engineering documentation demonstrating that stormwater capacity and drainage performance are maintained.",
+        "Manufacturer product specifications; Permeability testing documentation; Installation details or cross-section drawings; Site plan showing locations relative to trees and property lines",
+        "The aggregate subbase must be inspected and approved before turf installation."
+      ]
+    }
+  ]
+}
