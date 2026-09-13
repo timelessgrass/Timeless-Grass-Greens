@@ -31,7 +31,8 @@
         "This host returns HTTP 403 behind a Cloudflare challenge to every automated request tried on 12 September 2026: WebFetch, curl with a desktop browser user agent, and headless Chromium via Playwright. No attempt was made to defeat the challenge. It opens normally in a person's browser, which is why the page links it.",
         "The section text quoted on this page was therefore read from the Internet Archive capture listed above, whose footer reads \"The Aurora Unified Development Ordinance is current through Ordinance 2022-75, passed December 19, 2022.\" A live search-engine index says the UDO is now current through Ordinance 2026-03 (23 February 2026), and that Ordinance 2023-29 (adopted 31 July 2023) amended 146-4.7.3.B.12 and 146-4.7.5.C.2 — B.12 is the natural-turf section, not B.11. No amendment to B.11 was found.",
         "A phrase search did not locate the claimed backyard-permission sentence. Search absence does not verify the current code; that earlier sentence was removed and current backyard eligibility remains unresolved.",
-        "Historical placement and slope details are retained internally only. Public copy asks for current placement, landscape and slope requirements from Planning and the selected product manufacturer; it no longer narrates the archive or publishes its numeric slope threshold."
+        "Historical placement and slope details are retained internally only. Public copy asks for current placement, landscape and slope requirements from Planning and the selected product manufacturer; it no longer narrates the archive or publishes its numeric slope threshold.",
+        "Second retrieval pass, 12 September 2026, all failed to reach current B.11 text: (1) WebFetch of this URL: HTTP 403. (2) curl with a desktop Chrome user agent to 146-4.7.3.B.11, 146-4.7.3.B.11/share, 146-4.7.3/export.txt, 146-4.7.3?view=print, /api/UDO/146-4.7.3 and a .json variant: all HTTP 403. (3) Headless Chrome (Playwright, channel chrome, not brought to the front): HTTP 403, page title \"Attention Required! | Cloudflare\", body \"Sorry, you have been blocked\". This is a hard block, not an interactive challenge; nothing was done to get past it. (4) Code Publishing's legacy host www.codepublishing.com/CO/Aurora/ redirects to municipal.codes/modernize/CO/Aurora/, which also returns 403. (5) The City's Codes & Rules and Codes & Ordinances pages link only to aurora.municipal.codes/UDO; no PDF of the adopted UDO is posted there. (6) The Landscaping page under Codes & Rules links only the April 2016 Landscape Reference Manual, already recorded as superseded. (7) Legistar: aurora.legistar.com answers \"Invalid parameters!\" and webapi.legistar.com has no Aurora client, so it is not the City's legislation portal; the City's council page links only a current-agenda PDF and a 2026 calendar, with no searchable ordinance archive."
       ]
     },
     {
@@ -50,6 +51,26 @@
       "supports": [
         "The permit page sets out when a lawn, seed and irrigation permit is required and does not mention artificial or synthetic turf anywhere, which is why the page tells the reader to put that question to the city in writing rather than assuming either way."
       ]
+    },
+    {
+      "label": "Internet Archive capture of aurora.municipal.codes/UDO/146-4.7, 21 June 2024 (newest capture of the Landscape section found)",
+      "url": "https://web.archive.org/web/20240621045812/https://aurora.municipal.codes/UDO/146-4.7",
+      "checked": "2026-09-12",
+      "supports": [
+        "The Aurora Unified Development Ordinance is current through Ordinance 2023-41, passed September 11, 2023.",
+        "The capture is the section contents list only (4.7.1 INTENT through 4.7.9 FENCE AND WALL REGULATIONS, including 4.7.3 GENERAL LANDSCAPING STANDARDS); it does not contain the text of 146-4.7.3.B.11.",
+        "A Wayback CDX query for aurora.municipal.codes/UDO/146-4.7.3* returns only the 26 July 2023 capture already listed. Later captures under 146-4.7.5 (November 2025 \"share\" pages) are page shells with no code text."
+      ]
+    },
+    {
+      "label": "City of Aurora: current City Council agenda PDF (meeting of 14 September 2026)",
+      "url": "https://www.auroragov.org/UserFiles/Servers/Server_1881137/File/City%20Hall/Mayor%20&%20City%20Council/Council%20Meetings/Agendas/AuroraCouncilAgenda.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "Study Session of the Aurora City Council Monday, September 14, 2026, 4:15 p.m.",
+        "2026-49 AN ORDINANCE OF THE CITY COUNCIL OF THE CITY OF AURORA, COLORADO, AMENDING SECTION 138-191 OF THE CITY CODE PERTAINING TO THE PROHIBITION AGAINST THE INSTALLATION OF NEW TURF AND ORNAMENTAL WATER FEATURES",
+        "Listed under Introduction of Ordinances, so it was not yet adopted when checked. It amends City Code 138-191 (Aurora Water), not UDO 146-4.7.3.B.11, and the agenda file does not include the ordinance text (it points to packet pages 181 and 225 that are not in this PDF). Not used on the page; it does not answer the artificial-turf placement or slope question. Recheck after the meeting if the Stage 1 block is revised."
+      ]
     }
   ],
   "notUsed": [
@@ -59,10 +80,11 @@
     "Colorado SB23-178: checked against leg.colorado.gov. It binds a unit owners' association only — \"Not prohibit the use of nonvegetative turf grass in the backyard of a unit\" — and does not restrict counties or municipalities, so it does not answer the city-code question. The page's existing HOA FAQ, which is about the association and not the city, stands."
   ],
   "unresolved": [
-    "Current text of UDO 146-4.7.3.B.11 and applicability under 146-4.7.2 were not retrieved. A September 12 independent browsing attempt also could not open the current code. Confirm current requirements with Aurora Planning or an accessible current official code before restoring categorical placement, planting or slope claims.",
+    "Current text of UDO 146-4.7.3.B.11 and applicability under 146-4.7.2 were not retrieved. Two passes on 12 September 2026 (WebFetch, curl, headless Chrome, the Code Publishing legacy host, Wayback CDX, the City's code, landscaping and council pages, Legistar) could not open the current code; the newest readable B.11 text is the July 2023 archive, current through Ordinance 2022-75. Confirm current requirements with Aurora Planning, or have a person open aurora.municipal.codes/UDO/146-4.7.3.B.11 in a normal browser and save the text with its \"current through\" footer, before restoring placement, planting or slope rules to the page.",
     "Whether the current code permits a backyard lawn, pet area or putting green, and which approvals apply to an existing residential re-landscape, remain unconfirmed. The historical allowed-use list does not answer these questions."
   ],
   "notes": [
-    "Final September 12 refinement removed the archived allowed-use list, archive/slope-history narration and 6.6-percent threshold from public copy. It also removed town-wide soil assumptions, the 30,000-psf pressure comparison and the disaster-loss comparison, retaining soils-report, grade, product-installation and drainage questions. All source records remain stored; current code confirmation is still open."
+    "Final September 12 refinement removed the archived allowed-use list, archive/slope-history narration and 6.6-percent threshold from public copy. It also removed town-wide soil assumptions, the 30,000-psf pressure comparison and the disaster-loss comparison, retaining soils-report, grade, product-installation and drainage questions. All source records remain stored; current code confirmation is still open.",
+    "12 September 2026 second pass: page left unchanged because no current primary source for B.11 could be opened. Attempts are itemised under the live-citation source. New context recorded, not published: Ordinance 2026-49 (amending City Code 138-191, the prohibition against installing new turf and ornamental water features) is on the 14 September 2026 council agenda for introduction."
   ]
 }

@@ -28,11 +28,12 @@
     },
     {
       "icon": "drop",
-      "kicker": "Toward Doctors Lake",
-      "h2": "Show the actual water problem.",
+      "kicker": "Lucy Branch",
+      "h2": "Beside Lucy Branch, check the flood map before you dig.",
       "paras": [
-        "For a creek-side or low-lying lot, bring drainage and shoreline information and photos after rain. A wet patch needs its cause understood; changing the visible surface does not make a wider water problem disappear.",
-        "Lakeside is unincorporated Clay County. Confirm the requirements for the property and any association, including if a proposed project also involves commercial or required landscape areas. Ask for the work and any unresolved conditions to be clear in the estimate."
+        "If your yard runs down to Lucy Branch, look up its flood zone before you plan the turf. The creek flows past Blanding Boulevard, Moody Avenue and Doctors Lake Drive into Doctors Lake, and FEMA's flood study for Clay County, in effect since March 17, 2014, maps its floodplain (<a href=\"https://www.claycountygov.com/home/showpublisheddocument/1688/638947509720500000\" target=\"_blank\" rel=\"nofollow noopener\">FEMA Flood Insurance Study</a>).",
+        "Enter your address in the county's flood zone map (<a href=\"https://www.claycountygov.com/community/flood-zone-changes\" target=\"_blank\" rel=\"nofollow noopener\">Clay County flood zones</a>). In Zone X, the county says no flood permit is needed. In Zone A, AE or a floodway, Article XIII of the Clay County Land Development Code requires a floodplain permit before any development begins (<a href=\"https://www.claycountygov.com/home/showpublisheddocument/1690/639020118679670000\" target=\"_blank\" rel=\"nofollow noopener\">Ordinance 2014-3</a>), and the county lists grading, filling and excavation as development. In a floodway it also wants a No-Rise Certification signed and sealed by a registered engineer (<a href=\"https://www.claycountygov.com/government/planning-and-zoning/flood-fema-info/development-within-a-flood-plain\" target=\"_blank\" rel=\"nofollow noopener\">Clay County floodplain permits</a>).",
+        "Cutting and leveling a turf base is the kind of work that list describes, but the county doesn't name turf. If the map puts your yard in the zone, ask the Clay County Floodplain Manager whether your layout needs the permit, and get the answer before the ground opens. Check again later: as of September 2026, the county expects FEMA's updated maps to take effect in spring 2027, and some properties may move into or out of the high-risk zones."
       ]
     },
     {
@@ -138,6 +139,22 @@
     {
       "label": "Clay County Code of Ordinances, Ch. 7.5: Excavations (Secs. 7.5-1, 7.5-3, 7.5-5)",
       "url": "https://library.municode.com/fl/clay_county/codes/code_of_ordinances?nodeId=CO_CH7.5EX"
+    },
+    {
+      "label": "FEMA Flood Insurance Study, Clay County, Florida and Incorporated Areas (No. 12019CV001A), effective March 17, 2014",
+      "url": "https://www.claycountygov.com/home/showpublisheddocument/1688/638947509720500000"
+    },
+    {
+      "label": "Clay County Ordinance No. 2014-3, effective March 17, 2014: repeals Ordinance 87-45 and adopts Article XIII (Floodplain Management Regulations) of the Land Development Code, including the Sec. 13-4 floodplain permit",
+      "url": "https://www.claycountygov.com/home/showpublisheddocument/1690/639020118679670000"
+    },
+    {
+      "label": "Clay County Planning and Zoning: Development Within a Flood Plain (what counts as development; floodway No-Rise Certification)",
+      "url": "https://www.claycountygov.com/government/planning-and-zoning/flood-fema-info/development-within-a-flood-plain"
+    },
+    {
+      "label": "Clay County: Flood Zones Changes FAQs (flood zones and the updated FEMA maps)",
+      "url": "https://www.claycountygov.com/community/flood-zone-changes"
     }
   ],
   "checked": "2026-09-12",

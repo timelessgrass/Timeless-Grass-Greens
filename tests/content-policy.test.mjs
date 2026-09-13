@@ -23,6 +23,11 @@ test('Grand Strand supports North Carolina without admitting an entire county', 
   assert.equal(townEligibility('holden-beach-nc', { market: 'grand-strand', state: 'NC' }).eligible, false);
   assert.equal(townEligibility('shallotte-nc', { market: 'grand-strand', state: 'SC' }).eligible, false);
   assert.equal(townEligibility('shallotte-nc', { market: 'denver-metro', state: 'NC' }).eligible, false);
+  // places inside the drawn outlines that earned a page once the territory was reconciled
+  assert.equal(townEligibility('parker-co', { market: 'denver-metro', state: 'CO' }).eligible, true);
+  assert.equal(townEligibility('yulee-fl', { market: 'northeast-florida', state: 'FL' }).eligible, true);
+  assert.equal(townEligibility('sea-trail-nc', { market: 'grand-strand', state: 'NC' }).eligible, true);
+  assert.equal(townEligibility('evergreen-co', { market: 'denver-metro', state: 'CO' }).eligible, false);
 });
 
 test('existing service coverage survives the publication migration', () => {

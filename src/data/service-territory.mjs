@@ -107,12 +107,34 @@ export const GRAND_STRAND_INTERIOR_IDS = new Set([
   'nixonville-sc', 'nixons-crossroads-sc', 'arcadian-shores-sc',
   'cherry-grove-beach-sc', 'ocean-drive-beach-sc', 'crescent-beach-sc', 'windy-hill-beach-sc',
   'shallotte-nc', 'calabash-nc', 'carolina-shores-nc', 'sunset-beach-nc', 'ocean-isle-beach-nc',
+  'grissettown-nc', 'sandpiper-bay-nc', 'sea-trail-nc',
 ]);
 
 // Places inside the client's drawn Denver and northeast Florida outlines that earned a page once the
 // territory was reconciled. The drawn outline decides, not the county name.
-export const DENVER_INTERIOR_IDS = new Set([]);
-export const NORTHEAST_FLORIDA_INTERIOR_IDS = new Set([]);
+export const DENVER_INTERIOR_IDS = new Set([
+  'dakota-ridge-co',
+  'federal-heights-co',
+  'glendale-co',
+  'grand-view-estates-co',
+  'henderson-co',
+  'mountain-view-co',
+  'parker-co',
+  'shaw-heights-co',
+  'sheridan-co',
+  'sherrelwood-co',
+  'sierra-ridge-co',
+  'welby-co',
+]);
+export const NORTHEAST_FLORIDA_INTERIOR_IDS = new Set([
+  'deerwood-fl',
+  'glen-kernan-golf-country-club-fl',
+  'pablo-creek-reserve-fl',
+  'queens-harbour-yacht-country-club-fl',
+  'riverside-avondale-fl',
+  'springfield-fl',
+  'yulee-fl',
+]);
 
 export function townEligibility(id, data) {
   if (!MARKET_STATES[data.market]?.includes(data.state) || !id.endsWith(`-${data.state?.toLowerCase()}`)) {

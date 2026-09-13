@@ -1,9 +1,70 @@
 {
   "intent": "Who has to approve a turf lawn or putting green in St. Augustine Shores, in what order, and what do the community's own recorded documents already rule out?",
-  "distinctValue": "The neighbouring pages stop at county code, condo documents and the two Florida statutes. This page names the body that actually reviews an exterior change here and the sequence it imposes: the St. Augustine Shores Service Corporation's Architectural Control Committee must receive every drawing before the St. Johns County Building Department does, paperwork lands at the Shores office a week before a meeting, and the committee has 30 days to act. It also carries the community's own recorded constraints that bear on a turf base and a golf-frontage green: the deed restrictions' bar on changes in elevation that interfere with drainage, the Unit 6 rear conservation and preservation easement in which no fill may be placed or removed, the five-foot cap on fences and on hedges and landscaping along the rear and side lines of golf course, lake front and Intracoastal lots with opaque slats expressly prohibited, the eight-Unit structure that decides which deed restrictions apply to a given address, and the verified absence of any mention of artificial turf in the manual, which is why the page tells the reader to put the question to the committee in writing.",
+  "distinctValue": "The neighbouring pages stop at county code, condo documents and the two Florida statutes. This page names the body that actually reviews an exterior change here and the sequence it imposes, from the association's newest published ACC application (revised 3 December 2025): the St. Augustine Shores Service Corporation's Architectural Control Committee lists a landscape project as its own improvement type, wants a survey showing the size and location of the work plus plans or pictures, must receive any drawing or survey bound for the St. Johns County Building Department, meets on the second Monday at the Riverview Club with paperwork due by 3:00 PM on the first Monday, can withhold approval over the grading plan, and does not review plans for county compliance. It dates the manual: the association's own documents page still listed the January 2025 ACC Manual in February 2026, and its website now opens a residents' portal with no public documents, so the page sends the reader to the Shores office at 790 Christina Drive for the manual in force. It also carries the community's own recorded constraints that bear on a turf base and a golf-frontage green: the deed restrictions' bar on changes in elevation that interfere with drainage, the Unit 6 rear conservation and preservation easement in which no fill may be placed or removed, the five-foot cap on fences and on hedges and landscaping along the rear and side lines of golf course, lake front and Intracoastal lots with opaque slats expressly prohibited, the eight-Unit structure that decides which deed restrictions apply to a given address, and the verified absence of any mention of artificial turf in either the manual or the December 2025 application, which is why the page tells the reader to put the question to the committee in writing.",
   "sources": [
     {
-      "label": "St. Augustine Shores Service Corporation: Architectural Control Committee Manual, January 2025 (Internet Archive copy of staugshores.com, captured 4 May 2025; the association's public site now redirects to a members' portal)",
+      "label": "St. Augustine Shores Service Corporation: contact page on the association's resident portal (staugshores.com, www.staugshores.com, staugshores.org and staugshores.net all 301 to this portal)",
+      "url": "https://engage.goenumerate.com/s/StAugustineShores/hoapage.php?page=contact_20305",
+      "checked": "2026-09-12",
+      "supports": [
+        "Live page, retrieved September 12, 2026: \"Contact ... General Manager / St. Augustine Shores Service Corporation / 790 Christina Dr. / St. Augustine, FL 32086 / Tel: 904.797.6441\".",
+        "Redirects retrieved September 12, 2026: https://staugshores.com/ returns 301 to https://engage.goenumerate.com/s/StAugustineShores/, and so does the old path of the January 2025 ACC Manual PDF."
+      ]
+    },
+    {
+      "label": "St. Augustine Shores Service Corporation: resident portal Resources and About pages",
+      "url": "https://engage.goenumerate.com/s/StAugustineShores/publicresources.php",
+      "checked": "2026-09-12",
+      "supports": [
+        "Live page, retrieved September 12, 2026: the public Resources page lists only \"Make a Payment\"; no ACC manual, application or deed restriction is published there.",
+        "The portal's public About page (https://engage.goenumerate.com/s/StAugustineShores/publichoa.php) reads \"Welcome to your Community Resident Portal!\" and says the hub is where residents can \"Access important community documents\".",
+        "The portal's \"Online Forms\" link (myhoaforms.php) redirects to the Enumerate Engage login page."
+      ]
+    },
+    {
+      "label": "St. Augustine Shores Service Corporation: Documents page (Internet Archive capture of staugshores.com, 15 February 2026)",
+      "url": "https://web.archive.org/web/20260215142432/https://staugshores.com/about/documents/",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"Click the links below to download documents:\"",
+        "\"Architectural Control Committee Manual\" links to https://staugshores.com/wp-content/uploads/2025/01/ACC-Manual-revised-Jan-2025.pdf.",
+        "\"Architectural Control Committee Permit Application\" links to https://staugshores.com/wp-content/uploads/2025/12/ACC-Application-rev.-12.3.25.pdf.",
+        "\"Governing Documents (Deed Restrictions)\" links to https://staugshores.com/about/governing-documents/, which in the 17 March 2026 capture lists Unit 1 to Unit 8 Deed Restrictions.",
+        "Internet Archive CDX listing of staugshores.com/wp-content/uploads/2025/ and /2026/ (retrieved September 12, 2026, last site capture 17 May 2026) shows no ACC manual uploaded after ACC-Manual-revised-Jan-2025.pdf; the only later ACC files are ACC-Application-rev.-9.8.25.pdf, ACC-Application-rev.-12.3.25.pdf and two monthly ACC agendas."
+      ]
+    },
+    {
+      "label": "St. Augustine Shores Service Corporation: Architectural Control Committee application, Rev. 12.3.25 (Internet Archive copy of staugshores.com, captured 17 March 2026)",
+      "url": "https://web.archive.org/web/20260317115122/https://staugshores.com/wp-content/uploads/2025/12/ACC-Application-rev.-12.3.25.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "Header: \"ARCHITECTURAL CONTROL COMMITTEE / 790 Christina Drive, St. Augustine, Florida 32086\"; footer \"Rev. 12.3.25\".",
+        "\"CHECK DESCRIPTION OF IMPROVEMENT\" lists, among others, \"Landscape Project\", \"Paver /Patio Project\", \"Fences/Walls\" and \"Other\". No box names artificial turf or a putting green.",
+        "\"I hereby agree to not begin any improvements or changes until the ACC (Architectural Control Committee) notifies me of their approval.\"",
+        "\"I understand that plans and specifications submitted for review are not being reviewed for structural integrity; compliance with zoning and building ordinances or any other applicable statutes, ordinances or governmental rules or regulations, compliance with the requirements of any public utility, easement or other agreements, or preservation of any view.\"",
+        "\"Applicants are responsible to sod swales abutting property and installing and/or repairing any portion of the sidewalk that is missing or damaged.\"",
+        "\"This application is valid for thirty (30) days from date of approval.\"",
+        "Checklist: \"Attach official property survey showing dimensions/location of proposed project on property\" and \"Attach pictures/plans of design, layout, elevation, finish, paint color- to show appearance of finished product/improvement\"; \"Landscape plans (for new homes)\".",
+        "Requirement 1: \"Meetings are held on the 2nd (second) Monday of each month at 6:00PM at Riverview Club. Homeowner or contractor should attend meeting. Any incomplete applications will be rejected.\"",
+        "Requirement 2: \"All paperwork must be submitted by 3:00PM on the 1st (first) Monday of the month for review.\" (The 8 September 2025 revision said 5:00PM; this is the only text change between the two revisions.)",
+        "Requirement 5: \"All drawings submitted to St. Johns County Building Dept., including surveys, must be submitted to the St. Augustine Shores Architectural Control Committee.\"",
+        "Requirement 6: \"It is the property owner's responsibility to review the lot line setback requirements per the ACC Manual based upon the property's unit prior to installation.\"",
+        "Requirement 8: \"The approval of said plans and specifications may be withheld, not only because of their non-compliance with any of the specific restrictions contained in this and other clauses hereof, but also by reason of reasonable dissatisfaction of the ACC or it's agent with the grading plan, location of the structure on the building site\".",
+        "Verified absence: full-text search of the extracted application returns zero occurrences of \"turf\", \"synthetic\" or \"artificial\"."
+      ]
+    },
+    {
+      "label": "St. Augustine Shores Service Corporation: Guidelines to Life in the Shores, modified 7 July 2025 (Internet Archive copy of staugshores.com, captured 26 July 2025)",
+      "url": "https://web.archive.org/web/20250726191911/https://staugshores.com/wp-content/uploads/2025/07/Guidelines-to-Life-in-the-Shores.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"If you plan to make any changes to the exterior of your home such as a change in color, an addition, hardscaping, pool, fence, or shed, or temporarily placing a storage pod or dumpster on your property, you must make an application to the Architectural Control Committee and receive approval prior to proceeding. Please be sure to consult the ACC Manual and ACC permit application for further information.\"",
+        "Lists the \"Architectural Control Committee (standing committee)\" among the association's committees.",
+        "Verified absence: no occurrence of \"turf\", \"synthetic\" or \"artificial\"."
+      ]
+    },
+    {
+      "label": "St. Augustine Shores Service Corporation: Architectural Control Committee Manual, January 2025 (Internet Archive copy of staugshores.com, captured 4 May 2025; still the manual listed on the association's documents page in February 2026)",
       "url": "https://web.archive.org/web/20250504100211/https://staugshores.com/wp-content/uploads/2025/01/ACC-Manual-revised-Jan-2025.pdf",
       "checked": "2026-09-12",
       "supports": [
@@ -57,14 +118,17 @@
     }
   ],
   "reviewNotes": [
-    "The association's own domain, staugshores.com and staugshores.org, now issues a 301 to https://engage.goenumerate.com/s/StAugustineShores/ for every path, including these two PDFs, and that portal publishes no governing documents to the public. Both documents were therefore read from the Internet Archive captures cited above and are linked at those URLs. Re-check whether the association republishes them publicly before the next review.",
-    "The ACC manual is the association's own document, not a public ordinance. It states in Section 1C that the ACC does not enforce county requirements, so nothing here displaces St. Johns County review or the two Florida statutes already cited on the page.",
-    "The manual names no artificial-turf rule either way. The page therefore does not claim the ACC permits or forbids turf; it tells the reader to put the question to the committee in writing and names what the committee's landscape expectations currently say about sod.",
+    "The association's own domains (staugshores.com, www.staugshores.com, staugshores.org, staugshores.net) now 301 to https://engage.goenumerate.com/s/StAugustineShores/ for every path. That resident portal publishes a contact page and pool and club pages to the public, but its Resources page lists only a payment link and its forms sit behind a login. No ACC manual, ACC application or deed restriction is publicly available from the association as of September 12, 2026.",
+    "The newest official copies found are Internet Archive captures of the old site: the Documents page of 15 February 2026, which still links the January 2025 ACC Manual and the ACC application Rev. 12.3.25, and the application itself, captured 17 March 2026. The archive's upload listing through the last site capture (17 May 2026) shows no later ACC manual. The page dates both documents and tells the reader to get the manual and form in force from the Shores office.",
+    "The December 2025 application's paperwork deadline (3:00PM on the first Monday, meetings on the second Monday) is consistent with the manual's one-week rule; the page uses the application's wording because it is the newer document. The application's 30-day validity after approval is a different period from the manual's 30-day review period, and the page cites only the review period.",
+    "The ACC manual and application are the association's own documents, not public ordinance. Both say the ACC does not review for county or other regulatory compliance, so nothing here displaces St. Johns County review or the two Florida statutes already cited on the page.",
+    "Neither the manual nor the application names artificial turf or putting greens; the application's closest category is \"Landscape Project\". The page therefore does not claim the ACC permits or forbids turf, does not say turf is filed as a landscape project, and tells the reader to put the question to the committee in writing.",
     "The Unit 6 conservation and preservation easement applies to named lots in one block, recorded at Book 482/Page 201. The page refers to it as certain lots in Unit 6 rather than listing them, and tells the reader to check their own Unit's recorded restrictions.",
-    "Application fees and monthly assessments appear in both documents and are deliberately left off the page.",
-    "Not established: how the ACC treats a synthetic-turf lawn, whether any Unit's recorded restrictions name turf, or which Unit any particular address falls in."
+    "Application fees, pool and club rates, and monthly assessments appear in these documents and are deliberately left off the page. Staff names on the contact page and in the notices are left off the page as well; only the office address is used.",
+    "The eight Unit deed restriction PDFs were not re-read in this pass: the Internet Archive returned no 2026 capture for six of them and truncated the other two."
   ],
   "unresolved": [
-    "Current association documents and synthetic-turf eligibility remain unconfirmed: the manual reviewed is a January 2025 archive and the deed summary is a June 2024 archive. Public copy now requests current instructions rather than implying archival submission rules are necessarily current. The original local-evidence gap is only partly resolved by these documents."
+    "The ACC manual in force on September 12, 2026 could not be read: the association now keeps its documents behind a resident-portal login. The most recent public evidence (Documents page, 15 February 2026) shows the January 2025 manual and the December 2025 application as current then, and neither names artificial turf. Whether the committee has since revised either document, and how it treats a synthetic-turf lawn or putting green, can only be confirmed with the Shores office at 790 Christina Drive (904-797-6441).",
+    "Not established: whether any Unit's recorded deed restrictions name turf, or which Unit any particular address falls in."
   ]
 }

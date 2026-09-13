@@ -1,6 +1,6 @@
 {
-  "intent": "No city hall, no overlay district and often no board — so who does a Lakeside owner have to speak to before a turf dig, and what do they have to ask for?",
-  "distinctValue": "What is Lakeside's own is already on the page: the Yerkes-era live oak canopy that St. Augustine keeps thinning under, the Ortega fine sand core with Leon and Sapelo flatwoods and creek muck around it, a county landscaping article that stops outside the Branan Field Corridor and the Greater Lake Asbury District, and older plats with no association. No Clay County ordinance singles this place out: a search of the county code for \"Lakeside\" returns zero hits (Municode search API, client 11352, product 10559, Supplement 86). So this record claims no rule unique to Lakeside. It supplies the instruction the page was missing instead. With no city, no overlay and often no board, the only office left is the county's, and Ch. 7.5 names it: any excavation, cut, dredge or fill of land in Clay County goes to the county engineer first, and the chapter excepts only foundation work under a lawful building permit and roadway subgrade. It does not say whether stripping sod and cutting a turf base is in scope, so the page tells the reader to ask the county engineer about the address and get the answer in writing. CHECKED AND DELIBERATELY NOT USED: (1) The Clay County Illicit Discharge Ordinance (Ch. 19, Art. VIII). Sec. 19-456's erosion-control duty is written for \"all excavations within unincorporated Clay County\", which is Doctors Inlet, Fleming Island, Oakleaf Plantation, Middleburg, Hibernia and Asbury Lake as much as Lakeside, so it distinguishes this page from nothing; and since Ord. No. 2026-12, enacted 14 April 2026, Sec. 19-445 extends the article to the incorporated areas of the county as well. Its education-first step at Sec. 19-454(4) is scoped by its own words to \"this section 19-454\" and does not reach Sec. 19-456, whose entry in the Sec. 19-459 penalty schedule is $50.00 per day/per occurrence with no education step — so an earlier draft that promised an education visit on a silt-control failure was wrong. (2) The Doctors Lake TMDL. It is watershed-wide, and Fleming Island's page already claims both cited waterbodies as its own boundaries. Table 6.1 gives WBID 2389 a 50 percent TN reduction, but Section 6.3.2 — the sentence naming Clay County's MS4 permit — assigns those three permittees 30 percent, and Section 7.1 anticipates adoption by rule rather than reporting it, so \"the state's adopted limit ... 50 percent\" beside Clay County's permit was two errors in one sentence.",
+  "intent": "No city hall, no overlay district and often no board — so who does a Lakeside owner have to speak to before a turf dig, and does a yard on Lucy Branch need a county floodplain permit first?",
+  "distinctValue": "RESOLVED 2026-09-12: Lakeside's own constraint is a mapped creek, Lucy Branch. FEMA's countywide Flood Insurance Study for Clay County (No. 12019CV001A, effective March 17, 2014; the county calls these \"the current 2014 maps\" and expects the update to take effect in Spring 2027) studies Lucy Branch by limited detailed methods for 2.1 miles, \"From a point approximately 0.4 miles of Blanding Boulevard to the confluence with Doctors Lake\", with discharge points at Blanding Boulevard, Moody Avenue and Doctors Lake Drive, and states that floodplain boundaries for all flooding sources in the study area have been mapped. USGS NHD puts every vertex of the Lucy Branch flowline inside the Census Lakeside CDP (GEOID 1238813), and its crossings of Blanding Blvd, Moody Ave and Doctors Lake Dr are each inside Lakeside; none of it lies in the Town of Orange Park, Fleming Island CDP or Oakleaf Plantation CDP, and it runs between latitudes 30.1347 and 30.1549, well north of the Doctors Inlet place point (30.1013) in the Doctors Inlet research. The same study's flooding sources for the neighbours are different streams: Swimming Pen Creek (from Eagle Creek Drive), Doctors Lake Tributary 5 (Eagle Harbor Parkway to Salt Marsh Lane), Peters Branch and Mainard Branch in Fleming Island CDP; Double Branch and Little Black Creek at Oakleaf; Dudley Branch and Doctors Lake Tributary 1 \"in Orange Park\", which is also a separate flood-insurance community (120066) from unincorporated Clay County (120064). So a Lucy Branch yard answers to Clay County's floodplain rules: Article XIII (Floodplain Management Regulations) of the Land Development Code, adopted by Ordinance 2014-3 and effective March 17, 2014, requires a permit before any development in a flood hazard area (the county's Zones A, AE and Floodway). The county's Development Within a Flood Plain page still names Ordinance 87-45 for that permit, but Ordinance 2014-3, Section 2, repealed 87-45, so the page cites Article XIII and Ordinance 2014-3. Development includes filling, grading and excavation, a floodway adds a No-Rise Certification, and Zone X needs no flood permit. The rule is countywide; what is Lakeside's alone is the mapped stream, and the page says exactly that and sends the owner to the county flood zone map and the Floodplain Manager. STILL ON THE PAGE FROM EARLIER RESEARCH: the Yerkes-era live oak canopy, the Ortega fine sand core with Leon and Sapelo flatwoods and creek muck around it, a county landscaping article that stops outside the Branan Field Corridor and the Greater Lake Asbury District, older plats with no association, and Ch. 7.5, under which any excavation, cut, dredge or fill of land in Clay County goes to the county engineer first, excepting only foundation work under a lawful building permit and roadway subgrade; it does not say whether stripping sod and cutting a turf base is in scope, so the page tells the reader to ask. CHECKED AND DELIBERATELY NOT USED: (1) The Clay County Illicit Discharge Ordinance (Ch. 19, Art. VIII). Sec. 19-456's erosion-control duty is written for \"all excavations within unincorporated Clay County\", and since Ord. No. 2026-12, enacted 14 April 2026, Sec. 19-445 extends the article to the incorporated areas too, so it distinguishes this page from nothing. Its education-first step at Sec. 19-454(4) is scoped to \"this section 19-454\" and does not reach Sec. 19-456, whose Sec. 19-459 penalty is $50.00 per day/per occurrence. (2) The Doctors Lake TMDL. It is watershed-wide and Fleming Island's page already claims both waterbodies; Section 6.3.2 assigns Clay County's MS4 permit 30 percent, not Table 6.1's 50 percent, and Section 7.1 anticipates adoption rather than reporting it. (3) A Clay County Code search (Municode, client 11352, product 10559, Supplement 86) for \"Doctors Lake\" returns three hits and none is a yard rule: Sec. 15-3 (conduct on county property at \"Lakeshore Drive at Doctor's Lake\"), Sec. 5-23 (the Swimming Pen Creek slow speed/minimum wake zone) and a 1918 special act on \"dumping garbage in Doctor's Lake\" listed among laws not printed; \"Lakeside\" and \"Foxwood\" return none, and \"Ridgewood\" only the table entry for the abolished Ridgewood Trails CDD. (4) Doctors Lake Tributary 1 has a FEMA floodway, but the study develops its profiles \"in Orange Park\"; Doctors Lake Tributary 2 (Blanding Boulevard to below Doctors Lake Drive) could not be matched to a USGS flowline. Neither is on the page. (5) CCUA's irrigation page names no reclaimed-water service areas, so no Lakeside-only CCUA rule was found.",
   "sources": [
     {
       "label": "Clay County Code of Ordinances, Ch. 7.5: Excavations (Ord. No. 88-4, 1-12-88), codified through Supplement 86",
@@ -41,9 +41,102 @@
         "Section 7.1: \"Following the adoption of this TMDL by rule, the Department will determine the best course of action regarding its implementation.\" — the report anticipates adoption rather than reporting it, so \"the state's adopted limit\" went beyond this document.",
         "The TMDL covers the Swimming Pen Creek and Doctors Lake watersheds, which are the stated boundaries of Fleming Island's page as much as Lakeside's, so it is not a Lakeside differentiator."
       ]
+    },
+    {
+      "label": "FEMA Flood Insurance Study, Clay County, Florida and Incorporated Areas, FIS No. 12019CV001A, effective March 17, 2014 (PDF hosted by Clay County; fetched from this URL on 2026-09-12, text read from that copy; later direct requests on 2026-09-12 returned 403, and the county's Flood/FEMA Additional Resources page, checked live in headless Chrome that day, still links this URL as \"Clay County Flood Insurance Program\")",
+      "url": "https://www.claycountygov.com/home/showpublisheddocument/1688/638947509720500000",
+      "checked": "2026-09-12",
+      "supports": [
+        "Cover: \"CLAY COUNTY, FLORIDA AND INCORPORATED AREAS\"; \"CLAY COUNTY (UNINCORPORATED AREAS) 120064\"; \"ORANGE PARK, TOWN OF 120066\"; \"EFFECTIVE: March 17, 2014\"; \"FLOOD INSURANCE STUDY NUMBER 12019CV001A\".",
+        "\"For this countywide FIS, the hydrologic and hydraulic analyses were revised for sections of the following flooding sources:\" … \"• Lucy Branch\".",
+        "Table 1, Summary of Flooding Sources Presented in Current Study: \"Lucy Branch\" … \"March 2010\" … \"Watershed IV Alliance\".",
+        "Table 5, Flooding Sources Studied by Limited Detailed Methods: \"Lucy Branch 2.1 From a point approximately 0.4 miles of Blanding Boulevard to the confluence with Doctors Lake\".",
+        "Table 9, Summary of Discharges for Limited Detailed Studies: \"LUCY BRANCH At mouth 1.9 764 At Doctors Lake Drive 1.4 721 At Moody Avenue 1.1 609 At Blanding Boulevard 0.3 230\".",
+        "\"Floodplain boundaries for all flooding sources within the study area have been mapped based upon the most up-to-date topographic data available.\"",
+        "\"The areas studied by limited detailed methods were selected for areas having low to moderate development potential or flood hazards.\"",
+        "\"Zone A is the flood insurance rate zone that corresponds to the 1-percent-annual-chance floodplains that are determined in the FIS report by approximate methods.\" \"Zone AE is the flood insurance rate zone that corresponds to the 1-percent-annual-chance floodplains that are determined in the FIS report by detailed methods.\" Table 13 (Limited Detailed Base Flood Elevation Data) is an image in this PDF, so which zone Lucy Branch carries was not read; the page does not say.",
+        "Neighbours' streams, for comparison: Table 4 \"Swimming Pen Creek 3.1 From Eagle Creek Drive to confluence with Doctors Lake\"; Table 5 \"Doctors Lake Tributary 5 0.9 From Eagle Harbor Parkway to a point approximately 500 feet of Salt Marsh Lane\"; \"Doctors Lake Tributary 2 1.8 From Blanding Boulevard to a point approximately 0.2 miles downstream of Doctors Lake Drive\"; and \"Water-surface profiles for Dudley Branch and Doctors Lake Tributary 1 in Orange Park were developed using the USGS step-backwater computer model.\"",
+        "Floodway Data (Table 12) lists \"DOCTORS LAKE TRIBUTARY 1\" (cross sections A to F) but has no Lucy Branch entry."
+      ]
+    },
+    {
+      "label": "Clay County Ordinance No. 2014-3, adopted February 11, 2014, effective March 17, 2014 (linked as \"Ord. 2014-3\" on the county's Flood/FEMA Additional Resources page, checked live in headless Chrome on 2026-09-12; the PDF URL itself returns 403 to direct requests, so the text was read from the Wayback Machine capture of this same URL dated 2026-03-08)",
+      "url": "https://www.claycountygov.com/home/showpublisheddocument/1690/639020118679670000",
+      "checked": "2026-09-12",
+      "supports": [
+        "Title: \"REPEALING ORDINANCE NOS. 81-47, 81-83, 87-45, 92-4, 93-38, 2002-44, 2004-65 AND THE CODIFICATIONS THEREOF, INCLUDING CHAPTER 9 OF THE CLAY COUNTY CODE, ALL OF WHICH PERTAIN TO FLOOD HAZARD PREVENTION; PROVIDING FOR THE INCLUSION OF A NEW ARTICLE XIII IN THE CLAY COUNTY LAND DEVELOPMENT CODE AND ESTABLISHING THEREUNDER FLOODPLAIN MANAGEMENT REGULATIONS\".",
+        "Section 2: \"Ordinance Nos. 81-47, 81-83, 87-45, 92-4, 93-38, 2002-44, 2004-65, and the codifications thereof, including Chapter 9 of the Clay County Code it its entirety, are hereby repealed.\"",
+        "Section 3: \"The regulations set forth in the document attached as Exhibit A are hereby adopted as the County's floodplain management regulations, and the same shall be codified as Article XIII (Floodplain Management Regulations) of the unified Clay County Land Development Code.\"",
+        "Section 5: \"This ordinance shall become effective on March 17, 2014.\" Signature page: \"DULY ADOPTED by the Board of County Commissioners of Clay County, Florida, this 11 day of Feb, 2014.\"",
+        "Exhibit A, Sec. 13-1(2), Scope: \"The provisions of this article shall apply to all development that is wholly within or partially within any flood hazard area, including but not limited to the subdivision of land; filling, grading, and other site improvements and utility installations; ...\"",
+        "Exhibit A, Sec. 13-4(1), Permits required: \"Any owner or owner's authorized agent (hereinafter \"applicant\") who intends to undertake any development activity within the scope of this article, including buildings, structures and facilities exempt from the Florida Building Code, which is wholly within or partially within any flood hazard area shall first make application to the Floodplain Administrator, and the Building Official if applicable, and shall obtain the required permit(s) and approval(s).\"",
+        "Exhibit A, Sec. 13-2(4): \"The Flood Insurance Study for Clay County, Florida and Incorporated Areas dated March 17, 2014, and all subsequent amendments and revisions, and the accompanying Flood Insurance Rate Maps (FIRM), and all subsequent amendments and revisions to such maps, are adopted by reference as a part of this article and shall serve as the minimum basis for establishing flood hazard areas.\"",
+        "Sec. 13-1(2) and Sec. 13-4 do not name sod, landscaping or artificial turf, so whether a turf base is development under the article stays a question for the county."
+      ]
+    },
+    {
+      "label": "Clay County Code of Ordinances on Municode (latest update June 23, 2026): Appendix G Table of Ordinances, Chapter 9 editor's note, Sec. 6-142, read through the Municode API on 2026-09-12",
+      "url": "https://library.municode.com/fl/clay_county/codes/code_of_ordinances",
+      "checked": "2026-09-12",
+      "supports": [
+        "Appendix G, Table of Ordinances: \"87-45—Flood hazard prevention; Ab Ord. Nos. 92-4, 93-38; Rb Ord. No. 2014-3.\"",
+        "Chapter 9 - RESERVED, editor's note: \"Ord. No. 2014-3, § 2, adopted February 11, 2014, repealed ch. 9, arts. I—III, §§ 9-1—9-10, 9-21—9-26, 9-41—9-46, in its entirety. Former ch. 9 pertained to flood hazard prevention and was derived from Ord. No. 87-45, §§ 1—7, adopted April 14, 1987; ...\"",
+        "Sec. 6-142 (Ord. No. 2014-4, § 1, 2-11-14): \"the variance procedures adopted in the Floodplain Management Regulations of Clay County codified in Article XIII of the Clay County Land Development Code shall apply to requests submitted to the Building Official for variances ...\""
+      ]
+    },
+    {
+      "label": "Clay County Planning and Zoning: Development Within a Flood Plain",
+      "url": "https://www.claycountygov.com/government/planning-and-zoning/flood-fema-info/development-within-a-flood-plain",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"Clay County participates in the National Flood Insurance Program and regulates development within Special Flood Hazard Areas in accordance with Federal Emergency Management Agency requirements and the County's Flood Damage Prevention Ordinance.\"",
+        "\"Clay County Ordinance 87-45 requires that all development within Special Flood Hazard Areas obtain a permit before work begins.\"",
+        "That sentence is out of date. Ordinance 2014-3, Section 2, repealed Ordinance 87-45 and Chapter 9 of the Clay County Code, and Section 3 made Article XIII of the Land Development Code the county's floodplain management regulations (see the Ordinance 2014-3 and Municode entries). The permit rule itself is still in force, in Article XIII, Sec. 13-4. The page cites Article XIII and Ordinance 2014-3 for the permit, and uses this county page only for what counts as development and for the floodway No-Rise Certification.",
+        "\"Development includes any man-made change to improved or unimproved real estate, including buildings, structures, mining, dredging, filling, grading, paving, excavation, drilling operations, and permanent storage of materials.\"",
+        "\"For development not regulated by the Florida Building Code, the Floodplain Permit application is the primary application.\"",
+        "\"If development is located within a floodway, hydrologic and hydraulic analyses must demonstrate that the proposed encroachment will not increase flood levels during the base flood discharge. Documentation must be provided through a No-Rise Certification signed and sealed by a registered Professional Engineer and submitted with the Floodplain Permit application.\"",
+        "\"Questions regarding Floodplain Permit forms and required documentation should be directed to the Clay County Floodplain Manager.\"",
+        "The page does not mention landscaping, sod or artificial turf, so whether a turf base is \"development\" is a question for the Floodplain Manager. The page says that."
+      ]
+    },
+    {
+      "label": "Clay County: Flood Zones Changes FAQs",
+      "url": "https://www.claycountygov.com/community/flood-zone-changes",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"Check your property's flood zone using the Clay County Flood Zone Interactive Map.\"",
+        "\"The updated maps use improved science and technology to provide more accurate flood risk information than the current 2014 maps. While most properties will not change, some may be added to or removed from Special Flood Hazard Areas (SFHAs).\"",
+        "\"Current Schedule: The updated flood maps are anticipated to become effective in Spring 2027.\"",
+        "\"High-Risk Areas (Special Flood Hazard Areas) – Flood Zones A, AE, and Floodway require flood insurance for properties with federally backed mortgages.\"",
+        "\"Flood Zone X – Areas with minimal flood risk. Flood insurance is generally not required, and flood permits are not required for development.\"",
+        "\"Floodway – The channel of a river, creek, or other watercourse and adjacent land needed to safely carry floodwaters. Flood insurance is required for mortgaged structures. New development requires a No-Rise Study, flood permits, and elevation certificates where applicable.\""
+      ]
+    },
+    {
+      "label": "USGS National Hydrography Dataset map service, Flowline - Large Scale (layer 6), queried 2026-09-12",
+      "url": "https://hydro.nationalmap.gov/arcgis/rest/services/nhd/MapServer",
+      "checked": "2026-09-12",
+      "supports": [
+        "Named flowlines in the Lakeside area (envelope -81.82,30.09 to -81.70,30.17): Johnson Slough; Little Black Creek; Double Branch; Mainard Branch; Swimming Pen Creek; Lucy Branch; Duck Creek; Peters Branch.",
+        "Lucy Branch: all 57 vertices fall inside the TIGERweb Lakeside CDP polygon; latitude 30.1347 to 30.1549. It crosses TIGER Blanding Blvd at 30.15100,-81.75216, Moody Ave at 30.14761,-81.75000 and Doctors Lake Dr at 30.14147,-81.74630, each inside Lakeside CDP — the three roads the FIS uses as Lucy Branch discharge points.",
+        "For comparison: Swimming Pen Creek 35 of 42 vertices, Peters Branch 43 of 43 and Mainard Branch 21 of 22 fall inside Fleming Island CDP; Double Branch 98 of 147 inside Oakleaf Plantation CDP; Johnson Slough 32 of 33 inside the Town of Orange Park.",
+        "No unnamed flowline crosses both Moody Ave and Doctors Lake Dr, so FIS Doctors Lake Tributary 2 was not placed and is not used."
+      ]
+    },
+    {
+      "label": "Census TIGERweb: Census Designated Places (layer 30), Incorporated Places (layer 28) and Local Roads, queried 2026-09-12",
+      "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_Current/MapServer",
+      "checked": "2026-09-12",
+      "supports": [
+        "Polygons used: Lakeside CDP GEOID 1238813; Fleming Island CDP 1222660; Oakleaf Plantation CDP 1250630; Bellair-Meadowbrook Terrace CDP 1205025; Orange Park town 1252125. Doctors Inlet is not a Census place.",
+        "TIGER Local Roads: Moody Ave has 191 vertices inside Lakeside CDP and 9 inside Orange Park town; Doctors Lake Dr has 160 inside Lakeside CDP and 43 inside Orange Park town.",
+        "OpenStreetMap Eagle Harbor Parkway, Eagle Creek Drive and Salt Marsh Lane (the FIS limits for Doctors Lake Tributary 5 and Swimming Pen Creek) fall wholly inside Fleming Island CDP."
+      ]
     }
   ],
   "unresolved": [
-    "The new excavation FAQ establishes Clay County review questions, not a rule unique to Lakeside. Its applicability to a residential turf base still needs confirmation, and the page’s original local-distinction gap remains open. Retain the route while obtaining a Lakeside-specific property constraint, verified installation example or a considered consolidation decision; do not invent neighborhood differences from the shared county rule."
+    "Whether stripping sod and cutting a turf base counts as \"development\" under Article XIII of the Land Development Code (Ordinance 2014-3), or as excavation under Ch. 7.5, is not settled by the county's pages. The page sends the owner to the Clay County Floodplain Manager and the county engineer and makes no claim either way.",
+    "Which Lucy Branch lots lie in Zone A, AE or a floodway was not checked: the county's interactive flood map and FEMA's NFHL service did not respond to this session, and FIS Table 13 is an image in the PDF. The page tells the owner to look up the address rather than naming a zone.",
+    "FEMA's preliminary maps (effective Spring 2027, per the county) were not reviewed. Recheck Lucy Branch once they take effect."
   ]
 }
