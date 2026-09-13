@@ -1,0 +1,64 @@
+{
+  "intent": "A Sea Trail, NC homeowner planning artificial turf, a fenced dog area or a backyard putting green wants to know whether the ARC's front-yard sod minimum applies to turf, how the community's per-lot built-upon area allowance treats it, what the fence height and setback rules mean for a dog run, and how to submit a change request to the third-Thursday ARC meeting.",
+  "distinctValue": "Sea Trail's January 6, 2026 Architectural Design Standards set a 40% front-yard sod minimum that never mentions turf, synthetic or artificial materials, a per-lot built-upon area cap from Appendix A (4,420 sf/lot for Oyster Pointe Phase I, 4,500 sf/lot for Brookwood Park Phase II, 6,500 sf/lot across most of Rice Mill, Crooked Gulley, Baroney Place and Discovery Lake), a 4-foot fence height limit (except Planters Ridge lots 19-37) with a 4-inch property-line offset, a 30-foot rear setback on golf-course lots, and a third-Thursday ARC meeting with a noon-Thursday-prior document deadline, 45-day written response and nine-month approval lapse. None of Calabash, Carolina Shores or Shallotte carries these same figures or this same governance structure. North Carolina's G.S. 143-214.7D(b)(6), quoted by WithersRavenel, separately excludes drainable turf over a pervious surface from built-upon area for state and local stormwater programs, a distinction the January 2026 standards themselves do not address.",
+  "sources": [
+    {
+      "label": "Sea Trail Master Association: Architectural Design Standards, Construction Standards and Builder Information (last revision January 6, 2026)",
+      "url": "https://seatrailma.com/wp-content/uploads/2026/01/ARC-Guidelines-January-2026.pdf",
+      "checked": "2026-09-13",
+      "supports": [
+        "\"Last Revision January 6, 2026\" / \"This document is the January 6, 2026 version of the Architectural Design [Standards]\"",
+        "\"Ground cover -- the front yard landscaped area requires a minimum of 40% sodden area. For remaining area, pine straw-mulch etc. is acceptable.\"",
+        "\"Front yard -- Twenty (20) shrubs, minimum size 3 gallon.\" \"A minimum of one planting bed in the front yard to incorporate at least two (2) trees and six shrubs.\"",
+        "No occurrence of the words turf, synthetic or artificial anywhere in the document (checked by full-text search of the extracted PDF).",
+        "APPENDIX A, SEA TRAIL ALLOWABLE BUILT-UPON AREA, MAXIMUM COVERAGE ALLOWANCES: \"Oyster Pointe Phase I / Lots 1-68 @ 4,420 sf/lot\"; \"Brookwood Park / Phase II, Lots 27-59 @ 4,500 sf/lot\"; \"Rice Mill / Phase I, Lots 1-4, 6-32, 34-41 @ 6,500 sf/lot\" and \"Phase II ... Phase III ... Phase IV ... @ 6,500 sf/lot\"; \"Crooked Gulley (Includes Jones/Byrd Court) / Lots 131-154 ... @ 6,500 sf/lot\"; \"Baroney Place / Lots 1-16, 18-33, 35-39 @ 6,500 sf/lot\"; \"Discovery Lake / Lots 1-5, 7-16, 18, 20-26 @ 6,500 sf/lot\"",
+        "\"VARIANCES / The ARC may grant variances from these standards other than compliance with impervious surfaces requirement to alleviate hardships in any particular case ... No variance may be granted that will violate any governmental rules and regulations, including without limitation, any Storm Water Regulation.\"",
+        "\"No variance to increase impervious area above limits contained in the Storm Water [Worksheet] ... shall not approve improvements to any of said lots that increase the impervious surface\"",
+        "\"Built upon area (impervious area) includes, but is not limited to, structures asphalt, concrete, gravel, brick, stone, slate, and coquina, but does [not] include raised, open ... decking or the water surface\"",
+        "\"Any impervious materials used in the landscape design must be designated on Storm Water Worksheet Exhibit 1.\"",
+        "\"All fences/barriers shall be of wood, brick, stone or aluminum and must harmonize in character and color of the house ... No chain link fences are permitted on any lot within Sea Trail. No opaque fences are permitted.\"",
+        "\"All fences/barriers shall be offset from all property lines a minimum of 4 inches.\"",
+        "\"Fences/barriers are limited to four feet (4') in height except in Planters Ridge lots 19-37.\"",
+        "\"Planters Ridge: Planters Ridge Lots 19 - 37 are subject to a fence requirement set forth in the Supplemental Declaration for Lots 19 through 37 Planters Ridge, filed in the Brunswick County Register of Deeds office, Book 1174, page 0951.\"",
+        "\"No fence/barriers shall be permitted in front building set-back. Fences/barriers are not permitted in rear setback on lots bordering golf course. Fences/barriers not on rear property lines are limited to the width of the primary structure or fifty percent (50%) of the property line, whichever is greater.\"",
+        "\"... adjoining the golf courses, which shall have a minimum thirty-foot (30') setback.\" (rear setback on golf-course-adjoining lots, stated at multiple points in the setback table)",
+        "\"Site design also must direct water run-off via grassed swales ... with side slopes no steeper than 3:1 H: V (horizontal to vertical) or flatter into either Sea [Trail's or the Town's storm system]\"",
+        "\"Filling in or piping of any vegetative conveyances (ditches, swales, etc.) except for average driveway crossings is strictly prohibited.\"",
+        "\"A thirty foot (30') wide vegetated buffer between all impervious areas and surface [waters]\"",
+        "\"... Area of Environmental [Concern] (AEC) may have the permitted built-upon area reduced pursuant to CAMA [regulations]\"",
+        "\"A specimen tree is defined as any tree having a circumference in excess of 19\" at a height of four feet (4'). This measurement is known as 'CBH'\"",
+        "\"... inside the drip line of the designated specimen tree\" (no vehicles, traffic or stored materials inside the drip line during construction)",
+        "\"It is required that all specimen trees be indicated on your Site Development Plan.\"",
+        "\"The Committee shall, within forty-five (45) days after receipt of each complete submission [respond in writing]\"",
+        "\"... within nine (9) months of such approval, such approval shall be deemed withdrawn\"",
+        "\"The ARC shall meet on the third Thursday of each month ... a complete set of the required documents must be received in the Administrator's office by 12:00 p.m. on the Thursday prior to the third Thursday of each month.\""
+      ]
+    },
+    {
+      "label": "Sea Trail Master Association: ARC Request for Change in Design form",
+      "url": "https://seatrailma.com/asc-request-for-change-in-design-form/",
+      "checked": "2026-09-13",
+      "supports": [
+        "Form fields: \"Owner Name,\" \"Owner Sea Trail Address and/or Lot#,\" \"Owner Email,\" \"Owner Phone Number,\" contractor name/email/phone, \"Proposed Change(s),\" \"Reason for Change\"",
+        "\"Drawings, samples, brochures (if applicable)\" with a limit of up to 4 files attached; materials can be uploaded, emailed, FAX or hand delivered to the Architectural Review Committee office"
+      ]
+    },
+    {
+      "label": "Town of Sunset Beach: Mosquito Control Program spraying schedule",
+      "url": "https://sunsetbeachnc.gov/index.asp?DE=A7601380-D3C4-427E-B03E-DE3295BF00F3&SEC=01618413-240B-4A04-AFAC-7F6F705F1D0D",
+      "checked": "2026-09-13",
+      "supports": [
+        "Morning route (5:00-6:00 am) and evening route (6:30-9:00 pm), each running different neighborhoods on different weekdays, including Sea Trail; e.g. \"Wednesday - Sea Trail (from Calabash River to Old Georgetown Road and Sugar Sands)\" and \"Thursday - Bonaparte, Oyster Bay, Lakewood Estate and the remainder of Sea Trail\"",
+        "\"Dates, routes and spray times may vary depending on conditions such as high winds, heavy rain, fog and other unforeseen events such as equipment failure.\""
+      ]
+    },
+    {
+      "label": "WithersRavenel: Comparative Analysis of Synthetic Turf and Natural Grass (quotes G.S. 143-214.7D(b)(6))",
+      "url": "https://withersravenel.com/news/comparative-analysis-of-synthetic-turf-and-natural-grass/",
+      "checked": "2026-09-13",
+      "supports": [
+        "Quotes N.C.G.S. 143-214.7D(b)(6): \"Artificial turf, manufactured to allow water to drain through the backing of the turf, is installed according to the manufacturer's specifications over a pervious surface\" is excluded from built-upon area for state or local stormwater programs."
+      ]
+    }
+  ]
+}

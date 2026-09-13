@@ -1,0 +1,107 @@
+{
+  "intent": "A Springfield owner wants turf, a pet area or a green. Springfield is a locally designated historic district inside the City of Jacksonville, so the first question is whether the City must issue a Certificate of Appropriateness before the work, who decides it (staff or the Historic Preservation Commission), how long that takes, and how long the approval lasts.",
+  "distinctValue": "Springfield is its own zoning overlay (Ord. Code 656.367, Ord. 2000-302-E), subject to the Springfield Historic District Regulations. Ord. Code 307.106(d) requires a COA before any alteration or new construction on property in a historic district, and its conditions carry into the building permit. The key local question for turf is Ord. Code 307.107(b): no COA is needed for routine lawn and landscape care or maintenance, 'excluding changes to existing or introduction of new hardscape', and 307.102(i) defines hardscape as 'any non-vegetative elements of landscaping'. Turf is not named in either section, so the page puts the question to the City's Historic Preservation Section rather than answering it. The page also sets out the hearing timeline (21-day filing, 200-foot sign intervals, 14-day posting, 30-day decision, 15-day order), the COA expiry (12 months if not started, five years if unfinished), the 21-day appeal window for staff approvals, the RMD-S lot rules (25-foot and 2,500 sq ft minimum lots, 10 to 15 foot front setback, ten-foot rear setback, 50 percent coverage by buildings and structures) and SPAR's practical pointers (COA Matrix, public COA records, protected trees, JaxGIS). The Jacksonville page names only Riverside Avondale and repeats none of this. Checked against Fla. Stat. 125.572: the statute does not mention historic districts or certificates of appropriateness, so how state preemption and the COA rule interact is left to the City. The chain-link fence rule in 656.369(f)(1) sits under the rooming-house standards only, so it is not used as a general rule.",
+  "sources": [
+    {
+      "label": "Jacksonville Ord. Code 656.367: Springfield Zoning Overlay boundaries (via eLaws)",
+      "url": "http://jacksonville.elaws.us/code/coor_zose_ch656_pt3_subpti_sec656.367",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"Beginning at the west side of North Main Street where it crosses Hogans Creek; thence north and west along Hogans Creek to Broad Street; thence north along the centerline of Broad Street and Boulevard to the abandoned Seaboard Coast Line railroad right-of-way to north of West 12th Street\"",
+        "\"The Council hereby adopts the Springfield Zoning Overlay ... The land included within this overlay shall be subject to the Springfield Historic District Regulations contained in this Subpart I.\"",
+        "\"(Ord. 2000-302-E, § 1)\""
+      ]
+    },
+    {
+      "label": "Jacksonville Ord. Code 656.368: Springfield Historic Zoning Districts, RMD-S (via eLaws)",
+      "url": "http://jacksonville.elaws.us/code/coor_zose_ch656_pt3_subpti_sec656.368",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"Residential Medium Density-Springfield (RMD-S) District.\"",
+        "\"(f) Minimum lot requirements (lot width and area) ... (1) Single-family dwellings (A) Lot width: 25 feet. (B) Lot area: 2,500 square feet.\"",
+        "\"(h) Maximum lot coverage by all buildings and structures. 50 percent.\"",
+        "\"(i) Minimum yard requirements. (1) Front setback: Ten-foot minimum and 15-foot maximum or generally compatible with surrounding contributing structures (within 25 percent of average required front yard of adjacent contributing structures).\"",
+        "\"(3) Rear setback: Ten feet.\""
+      ]
+    },
+    {
+      "label": "Jacksonville Ord. Code 307.102: Definitions (via eLaws)",
+      "url": "http://jacksonville.elaws.us/code/coor_titlevii_ch307_pt1_sec307.102",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"(a) Administrative Review means Planning and Development Department staff level review for approval, approval with conditions and/or denial of COA applications for routine alterations and minor repairs or other work as set forth in Section 307.107 of this part. Staff shall have the discretion to refer an application to the Commission for consideration for any reason.\"",
+        "\"(b) Alteration means any act that changes the exterior features of a building or structure.\"",
+        "\"(i) Hardscape means any non-vegetative elements of landscaping, especially any masonry work or woodwork, including but not limited to retaining walls, driveways, parking pads, patios, walkways, decks, trellises, arbors, pergolas and water fountains.\"",
+        "\"(e) Commission means the Jacksonville Historic Preservation Commission.\""
+      ]
+    },
+    {
+      "label": "Jacksonville Ord. Code 307.106: approval of changes in historic districts; application procedures (via eLaws)",
+      "url": "http://jacksonville.elaws.us/code/coor_titlevii_ch307_pt1_sec307.106",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"(b) Whenever any alteration, new construction, demolition ... is undertaken on ... property in an historic district without a certificate of appropriateness, or when work has been done in violation of a previously approved certificate of appropriateness, the Director of the Planning and Development Department, or his or her designee, is authorized to issue a notice of violation to stop all work.\"",
+        "\"(d) A certificate of appropriateness shall be required, in addition to any other building permits, zoning exceptions, variances, or administrative deviations required by law, prior to commencing any alteration, new construction, demolition, relocation, mothballing or any other action regulated by this Chapter affecting a landmark, landmark site or property located in an historic district. Any conditions contained in the certificate of appropriateness shall be included as a requirement to any building permit for which the certificate of appropriateness was issued.\"",
+        "\"(g) The Commission shall hold a public hearing on each application for a certificate of appropriateness at its next regular meeting, after a completed application has been filed with the Planning and Development Department, at least 21 calendar days before the meeting. The Commission shall make a decision on each application within 30 days after the hearing provided that the Commission may extend the time for decision an additional 30 days when the application is for relocation, new construction, or demolition.\"",
+        "\"(i) The applicant for a certificate of appropriateness shall post signs at intervals of not more than 200 feet along all street sides of land upon which the request for a certificate of appropriateness is made. Signage should be posted at least 14 days prior to the scheduled public hearing. ... If the signs are not posted within the time requirements, the public hearing notice will be deemed inadequate and no action shall be taken until proper posting is accomplished.\"",
+        "\"(j) ... An order on each application shall be issued within 15 calendar days of the last hearing or meeting at which the application was considered and decided\"",
+        "\"(m) In considering an application for certificate of appropriateness for new construction, the Commission shall consider ... (5) Landscaping. Landscaping shall be compatible with the architectural character and appearance of the landmark and of surrounding structures and landscapes in an historic district.\"",
+        "\"(s) Any certificate of appropriateness which has been approved pursuant to the provisions of this Section shall expire 12 months from the date of issuance if the work authorized is not commenced within this period. Further, such certificate shall expire if the work authorized is not completed within five years of the date of issuance, unless otherwise extended by the Commission.\""
+      ]
+    },
+    {
+      "label": "Jacksonville Ord. Code 307.107: Administrative Review and Exceptions (via eLaws)",
+      "url": "http://jacksonville.elaws.us/code/coor_titlevii_ch307_pt1_sec307.107",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"(a) The Commission shall designate and update and amend from time to time a list of routine alterations, minor repairs or other work that may receive immediate approval from the Planning and Development Department without a public hearing when an applicant complies with the applicable Historic District Design Regulations.\"",
+        "\"(b) A certificate of appropriateness will not be required for any interior alteration that does not affect any exterior fabric or for routine lawn and landscape care or maintenance, excluding changes to existing or introduction of new hardscape.\"",
+        "\"(c) Any staff administrative review decision can be appealed to the Commission by the applicant and any person with standing under Section 307.202. The filing of such an appeal shall be made within 21 days of the staff approval date.\"",
+        "Neither 307.107 nor 307.102 names artificial or synthetic turf, so whether a turf lawn is landscape care or hardscape is not settled by the code. The page tells the reader to ask the Historic Preservation Section."
+      ]
+    },
+    {
+      "label": "Springfield Preservation and Revitalization (SPAR): Springfield Design Rules",
+      "url": "https://www.sparcouncil.org/design",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"Property owners are required to apply for a special permit, called a Certificate of Appropriateness (COA), before making exterior changes to their property, in addition to any other required permits such as a building permit.\"",
+        "\"Both contributing and non-contributing structures require a Certificate of Appropriateness before building, alterations, or renovations can be performed, but the design guidelines are stricter for contributing structures.\"",
+        "\"Use the JaxGIS Land Development Review maps to determine if a property is in the Springfield Historic District.\"",
+        "\"The City of Jacksonville maintains the list of Contributing and Non-Contributing Properties and is searchable by address.\"",
+        "\"All properties in the historic district require a Certificate of Appropriateness before exterior alterations or new construction can commence, including work on roofs, fences, doors, windows, siding, garages or secondary structures, sidewalks, driveways, curb cuts, etc.\"",
+        "\"Please also note that many trees are protected and require special permits before removal.\"",
+        "\"Property owners can apply for a Certificate of Appropriateness through the City of Jacksonville Historic Preservation Section. Many minor modifications can be administratively approved; major modifications must be approved by a vote of the Historic Preservation Commission. The Certificate of Appropriateness Matrix Criteria provides guidance on which types of modifications qualify for administrative approval and which types of modifications require a vote of the Commission.\"",
+        "\"Certificates of Appropriateness are public records and can be reviewed through the City of Jacksonville Land Use & Zoning Portal. Select \\\"Inquire Application\\\" and use \\\"Show Advanced Search\\\" to search by address.\"",
+        "\"Our Design Review Committee consists of planners, architects, engineers, and other professionals who can provide insight and support.\"",
+        "\"The City of Jacksonville Municipal Code Compliance Division enforces property maintenance, safety, and zoning codes, including historic design rules, and inspects properties to confirm compliance with an approved Certificate of Appropriateness.\""
+      ]
+    },
+    {
+      "label": "Fla. Stat. 125.572: regulation of synthetic turf (Florida Legislature, current text)",
+      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0100-0199%2F0125%2FSections%2F0125.572.html",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"(2) The Department of Environmental Protection shall adopt minimum standards for the installation of synthetic turf on single-family residential properties 1 acre or less in size.\"",
+        "\"(3)(a) Upon the Department of Environmental Protection adopting rules pursuant to subsection (4), a local government may not: 1. Adopt or enforce any ordinance, resolution, order, rule, or policy that prohibits ... synthetic turf that complies with Department of Environmental Protection standards ... 2. Adopt or enforce any ordinance, resolution, order, rule, or policy that regulates synthetic turf which is inconsistent with the Department standards\"",
+        "\"History.—s. 1, ch. 2025-140; s. 1, ch. 2026-164.\"",
+        "The words historic, historic district, historic preservation and certificate of appropriateness do not appear in the section. How the preemption interacts with Jacksonville's COA requirement is not settled by the statute; the page says so and sends the reader to the Historic Preservation Section."
+      ]
+    },
+    {
+      "label": "Florida Rule 62-308.100, F.A.C.: synthetic turf",
+      "url": "https://www.flrules.org/gateway/ruleNo.asp?id=62-308.100",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"Effective Date: 5/19/2026\"",
+        "\"Rulemaking Authority 125.572 FS. Law Implemented 125.572 FS. History–New 5-19-26.\""
+      ]
+    }
+  ],
+  "unresolved": [
+    "Whether artificial turf that replaces grass is 'routine lawn and landscape care' (no COA) or 'hardscape' (a non-vegetative element of landscaping, so a COA) under Ord. Code 307.107(b) and 307.102(i). The page tells the reader to ask the City's Historic Preservation Section in writing.",
+    "The City's COA Matrix and the Springfield Design Guidelines were not opened (jacksonville.gov pages were not fetched), so whether turf, edging or pavers appear there as staff-approvable items is unknown. The page names the Matrix only as SPAR describes it.",
+    "How Fla. Stat. 125.572(3)(a) interacts with a historic-district COA on a single-family lot of 1 acre or less is not settled by either text. The page says so.",
+    "Whether turf counts toward the RMD-S 50 percent coverage cap on buildings and structures is not stated in 656.368; the page tells the reader to ask only about decks or other structures added with it."
+  ]
+}

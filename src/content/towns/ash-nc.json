@@ -1,0 +1,144 @@
+{
+  "status": "published",
+  "market": "grand-strand",
+  "name": "Ash",
+  "state": "NC",
+  "placeType": "Place",
+  "county": "Brunswick",
+  "title": "Artificial Turf in Ash, NC | TIMELESS Grass & Greens",
+  "description": "Artificial turf, dog runs and putting greens near the branches that feed the Waccamaw in Ash, NC, planned around Brunswick County's stormwater rules.",
+  "h1": "Artificial turf in Ash, close to the branches that feed the Waccamaw.",
+  "lede": "Ash's crossroads sits among several unnamed branches that drain toward the Waccamaw River, and Brunswick County's stormwater rules turn on how close your dig comes to one of them. We measure, check the ground and look at where water runs, then you approve a layout before any soil moves.",
+  "wins": [
+    "See whether a branch near your lot sets a 30-foot buffer",
+    "Find out if your dig needs a county stormwater permit",
+    "Approve the layout before any soil moves"
+  ],
+  "answer": {
+    "question": "Do I need a county permit for artificial turf in Ash, NC?",
+    "answer": "It depends on how deep you dig and how close the work comes to a stream. Ash is unincorporated, so Brunswick County's stormwater ordinance applies. A Stormwater Management Plan and county Stormwater Permit are required when filling or excavating changes the ground surface by four inches or more and changes how water drains, or when work disturbs land within 30 feet of a stream bank, unless the work is one the county's manual lists as exempt or allowed. Ask the county before you dig."
+  },
+  "blocks": [
+    {
+      "icon": "drop",
+      "kicker": "Close to the water",
+      "h2": "The Ash crossroads sits among the branches that feed the Waccamaw.",
+      "paras": [
+        "Ash is a crossroads on NC 130, not a town of its own. A <a href=\"https://geocoding.geo.census.gov/geocoder/geographies/coordinates?x=-78.5878&y=34.0201&benchmark=Public_AR_Current&vintage=Current_Current&layers=all&format=json\" target=\"_blank\" rel=\"nofollow noopener\">Census Bureau geographic lookup</a> for the crossroads returns Waccamaw township, Brunswick County, with no incorporated place listed for the point — so there is no town council or town zoning office reviewing the work here. The county is.",
+        "That location is also close to water. A <a href=\"https://hydro.nationalmap.gov/arcgis/rest/services/nhd/MapServer/6/query?geometry=-78.5878,34.0201&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&distance=1600&units=esriSRUnit_Meter&outFields=gnis_name,ftype,fcode&returnGeometry=false&f=json\" target=\"_blank\" rel=\"nofollow noopener\">federal hydrography check</a> around the crossroads turns up several unnamed intermittent branches, plus the Waccamaw River itself, within about a mile. If one of those branches crosses or borders your lot, Brunswick County's 30-foot stream buffer reaches your yard specifically, not just a riverfront parcel down the road.",
+        "At the free visit we look at where water runs on your lot and how close that puts the work to a mapped stream or branch. You approve a layout before anything is dug."
+      ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "The four-inch trigger",
+      "h2": "The depth of the dig, and whether it changes how water drains, decide the permit.",
+      "paras": [
+        "Brunswick County's <a href=\"https://www.brunswickcountync.gov/DocumentCenter/View/7215\" target=\"_blank\" rel=\"nofollow noopener\">Stormwater Quality Management and Discharge Control Ordinance</a> covers every area within the county's planning jurisdiction, Ash included. Filling or excavating a parcel so the land surface changes by four inches or more, and the existing drainage pattern changes with it, needs a Stormwater Management Plan and a county Stormwater Permit. The only exception is fill or digging for a septic system the county health department requires, approves and inspects — a turf base is not that.",
+        "The county's <a href=\"https://www.brunswickcountync.gov/248/Stormwater-Ordinance\" target=\"_blank\" rel=\"nofollow noopener\">Stormwater Ordinance page</a> puts it more simply: residential grading, filling or excavating that changes elevation by more than four inches needs a permit, without mentioning drainage. Ask the county's Stormwater Engineer which version applies to your plan. Work that trips neither version, and meets the county's drainage standards, needs no permit.",
+        "Send your approved layout to the county with the question: how deep the dig goes, where any fill goes and where water will leave the turf."
+      ]
+    },
+    {
+      "icon": "ruler",
+      "kicker": "The 30-foot line",
+      "h2": "Keep the dig and the pet run 30 feet back from a stream bank.",
+      "paras": [
+        "The ordinance triggers the same plan and permit for any work that disturbs land within 30 feet of a stream or other natural waterway, \"except when such disturbance is designated as Exempt or Allowable in the Brunswick County Storm Water Management Manual.\" The manual's own list marks fences as exempt, provided disturbance is minimized and no forest vegetation is removed, and playground equipment on a single-family lot as exempt if it removes no vegetation. There is no row for turf, lawn or grading, so ask the county before any part of that work goes inside the 30 feet.",
+        "A separate section of the ordinance backs that up with an undisturbed 30-foot riparian buffer on all sides of perennial and intermittent streams. Not every wet line on your lot counts: the ordinance treats a natural drainage way with 300 acres or less draining to it as an intermittent stream once it shows as a blue line on the USGS quadrangle map, and it exempts ditches and other manmade conveyances from the buffer. The county keeps a buffer map, and checking your parcel against it is your job as the property owner.",
+        "A ditch on your own land is still yours to maintain, and a dog-run fence can't block the water moving through it."
+      ]
+    },
+    {
+      "icon": "layout",
+      "kicker": "What's under the turf",
+      "h2": "State law, not the county's old list, decides whether the base counts as impervious.",
+      "paras": [
+        "Brunswick County's ordinance names compacted earth, gravel, concrete and asphalt as impervious surface, and leaves a few things out of that count: a wood deck, a pool's water area, and number 57 stone laid at least four inches thick over geotextile fabric. Turf is never mentioned — the county wrote that list before 2024.",
+        "North Carolina has since answered the question in statute for stormwater programs generally: artificial turf manufactured to drain through its backing, and installed to the manufacturer's specification over a pervious surface, is not built-upon area, and a local government can't enforce a stricter definition. Brunswick County's ordinance hasn't been updated to say so, which is why a desk review may still work from the old list. Our <a href=\"/guides/nc-vs-sc-built-upon-area/\">guide to built-upon area in North and South Carolina</a> covers that statute and where it stops.",
+        "Put the base material and depth on your layout anyway, so the county has it on file. If your job needs the residential stormwater application, it asks whether overall impervious surface stays under 15 percent and whether the remaining pervious ground is used to carry and control the runoff — both conditions, not the percentage alone."
+      ]
+    },
+    {
+      "icon": "file",
+      "kicker": "The county desks",
+      "h2": "Two county offices, and a drought that changes the watering calendar, not your dig.",
+      "paras": [
+        "<a href=\"https://www.brunswickcountync.gov/planning/\" target=\"_blank\" rel=\"nofollow noopener\">Brunswick County Planning & Community Enforcement</a> handles zoning for unincorporated land that sits outside every town's planning jurisdiction — start there to confirm your parcel is one of them. The Engineering Department keeps the stormwater ordinance on file, and its Stormwater Administrator approves plans; the Stormwater Ordinance page lists the county Stormwater Engineer for questions. For a single house, the <a href=\"https://www.brunswickcountync.gov/DocumentCenter/View/7140\" target=\"_blank\" rel=\"nofollow noopener\">residential application, Form SW-002</a> goes in with Form SW-001, and asks for runoff before and after the work for the 1-, 10-, 25- and 100-year, 24-hour storms.",
+        "The county also runs this same ordinance by agreement in Belville, Boiling Spring Lakes, Bolivia, St. James and Sunset Beach — not in Shallotte or Carolina Shores. If your parcel turns out to sit in one of those towns, start with our <a href=\"/grand-strand/shallotte-nc/\">Shallotte</a> or <a href=\"/grand-strand/carolina-shores-nc/\">Carolina Shores</a> page instead.",
+        "As of September 4, 2026, unincorporated Brunswick County was still under a burn ban and classified as Extreme Drought (D3), with pockets of Exceptional Drought (D4) in the county's south end. Under the county's voluntary conservation alert, automatic lawn irrigation is asked to stay under an inch a week, between 8 p.m. and 4 a.m. on your designated day — a rule an artificial lawn skips entirely. A pet area still needs a rinse, so keep a hose within reach. Show us the well, septic tank and drainfield at the visit so the layout keeps clear of them; once you approve it, we prepare the site, build a base for your soil, lay, seam and edge the turf, add infill, finish and clean up, then walk you through the care it needs."
+      ]
+    }
+  ],
+  "services": [
+    "pet-turf",
+    "residential-turf",
+    "putting-greens"
+  ],
+  "servicesNote": "Choose a dog run, a lawn or a putting green, with the dig and the edges planned around the branch nearest your lot.",
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Ash, NC?",
+      "a": "We install artificial lawns, pet turf and backyard putting greens in Ash and the unincorporated county around it. The free visit covers measuring and checking the ground, and you approve a layout before work starts. Call 303-349-2368."
+    },
+    {
+      "q": "Do the same county rules apply in Freeland, Exum or Longwood?",
+      "a": "Yes, where the parcel is unincorporated and outside every town's planning jurisdiction. The ordinance applies to the county's planning jurisdiction, not to a community name or a mailing address. Ask Brunswick County Planning & Community Enforcement to confirm it for your parcel."
+    },
+    {
+      "q": "Does a small dog run avoid the county permit because it's small?",
+      "a": "Not by size alone. A small run can still trip the four-inch drainage trigger or come within 30 feet of a stream. That 30-foot trigger doesn't apply to work the county's manual lists as exempt or allowed, such as a fence built without removing forest vegetation — ask the county which category your run falls into."
+    },
+    {
+      "q": "Does the state's turf exemption mean I can skip the county paperwork?",
+      "a": "No. The state rule decides whether the base counts as impervious surface. It doesn't change the four-inch grading trigger or the 30-foot stream buffer, which turn on the dig and the water, not the material laid on top."
+    }
+  ],
+  "nearby": [
+    "shallotte-nc",
+    "carolina-shores-nc",
+    "longs-sc",
+    "loris-sc"
+  ],
+  "sources": [
+    {
+      "label": "Brunswick County Stormwater Quality Management and Discharge Control Ordinance (PDF)",
+      "url": "https://www.brunswickcountync.gov/DocumentCenter/View/7215"
+    },
+    {
+      "label": "Brunswick County Engineering: Stormwater Ordinance",
+      "url": "https://www.brunswickcountync.gov/248/Stormwater-Ordinance"
+    },
+    {
+      "label": "Brunswick County Storm Water Management Manual, updated September 19, 2022 (PDF)",
+      "url": "https://www.brunswickcountync.gov/DocumentCenter/View/647"
+    },
+    {
+      "label": "Brunswick County Storm Water Permit Residential Application, Form SW-002 (PDF)",
+      "url": "https://www.brunswickcountync.gov/DocumentCenter/View/7140"
+    },
+    {
+      "label": "Brunswick County Planning & Community Enforcement",
+      "url": "https://www.brunswickcountync.gov/planning/"
+    },
+    {
+      "label": "Brunswick County: reminder that the burn ban remains in effect, unincorporated areas",
+      "url": "https://www.brunswickcountync.gov/m/newsflash/home/detail/884"
+    },
+    {
+      "label": "U.S. Census Bureau: geography lookup for the Ash crossroads",
+      "url": "https://geocoding.geo.census.gov/geocoder/geographies/coordinates?x=-78.5878&y=34.0201&benchmark=Public_AR_Current&vintage=Current_Current&layers=all&format=json"
+    },
+    {
+      "label": "USGS National Hydrography Dataset: named and unnamed streams near the Ash crossroads",
+      "url": "https://hydro.nationalmap.gov/arcgis/rest/services/nhd/MapServer/6/query?geometry=-78.5878,34.0201&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&distance=1600&units=esriSRUnit_Meter&outFields=gnis_name,ftype,fcode&returnGeometry=false&f=json"
+    }
+  ],
+  "publicReferences": [
+    "https://www.brunswickcountync.gov/DocumentCenter/View/7215",
+    "https://www.brunswickcountync.gov/248/Stormwater-Ordinance",
+    "https://www.brunswickcountync.gov/DocumentCenter/View/647",
+    "https://geocoding.geo.census.gov/geocoder/geographies/coordinates?x=-78.5878&y=34.0201&benchmark=Public_AR_Current&vintage=Current_Current&layers=all&format=json"
+  ],
+  "checked": "2026-09-13"
+}

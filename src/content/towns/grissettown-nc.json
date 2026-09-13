@@ -1,0 +1,121 @@
+{
+  "status": "published",
+  "market": "grand-strand",
+  "name": "Grissettown",
+  "state": "NC",
+  "placeType": "Place",
+  "county": "Brunswick",
+  "title": "Artificial Turf in Grissettown, NC | TIMELESS Grass & Greens",
+  "description": "Grissettown has no town hall of its own. Brunswick County's stormwater ordinance sets the rules here: a 4-inch grading trigger, a 30-foot stream buffer, and more.",
+  "h1": "Turf in Grissettown, planned around Brunswick County's own rules.",
+  "lede": "Grissettown isn't a town, so there's no town hall setting the rules on your lot. Brunswick County does that directly. Change your lot's surface by 4 inches or more while a turf base goes in, and the County's stormwater ordinance can call for a permit. We measure your yard for free, then give you a custom layout and a written scope built around that trigger and any stream buffer on the property.",
+  "wins": [
+    "Know whether your base counts as the County's 4-inch trigger",
+    "Keep the turf edge outside the 30-foot stream buffer",
+    "A layout you approve before any ground gets moved"
+  ],
+  "answer": {
+    "question": "Do I need a County stormwater permit for artificial turf in Grissettown, NC?",
+    "answer": "Ask Brunswick County before you dig. Grissettown is unincorporated, so the County's Stormwater Quality Management Ordinance sets the rules, not a town hall. A Stormwater Management Plan, and the permit that comes with it, is required when grading or excavation changes land surface by 4 inches or more and alters the drainage pattern, or when work disturbs land within 30 feet of a stream bank."
+  },
+  "blocks": [
+    {
+      "icon": "ruler",
+      "kicker": "The County's numbers",
+      "h2": "In Grissettown, it's the County's 4-inch rule that decides how much paperwork your turf needs.",
+      "paras": [
+        "Grissettown sits in unincorporated Brunswick County, between Shallotte and Sunset Beach, and carries no municipal government of its own. That means the <a href=\"https://www.brunswickcountync.gov/248/Stormwater-Ordinance\" target=\"_blank\" rel=\"nofollow noopener\">County's Stormwater Ordinance</a> applies here directly, the way a town code applies inside a town's limits. The County's <a href=\"https://brunswickcountync.gov/DocumentCenter/View/649/Brunswick-County-Stormwater-Ordinance-PDF?bidId=\" target=\"_blank\" rel=\"nofollow noopener\">Stormwater Quality Management and Discharge Control Ordinance</a> was in full force and effect as of September 15, 2002, and Section 1.4 applies it to all areas within the County's planning jurisdictional limits.",
+        "Section 1.16(b) sets out when a Stormwater Management Plan, and the Stormwater Permit that comes with it, is required. Two of its four triggers are the ones a turf job is most likely to hit: any filling or excavation of a parcel that changes the land surface by 4 inches or more and alters the existing drainage pattern, and any activity that disturbs land within 30 feet of the banks of a stream or other natural waterway, unless the County's Storm Water Management Manual marks that disturbance as exempt or allowable. A base for artificial turf is commonly cut and built up close to that 4-inch mark, so it's worth measuring before you assume you're under it.",
+        "Two more triggers apply to bigger jobs: all non-residential development and any major subdivision, and any activity that disturbs a total area of one acre or more (with exemptions for a bona fide farm, forestland timber work, and permitted mining). Where none of Section 1.16(b)'s triggers apply, Section 1.16(a) says a Stormwater Permit isn't required at all. Ask the County's Stormwater Administrator which side of that line your yard falls on before the layout is final."
+      ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "The 30-foot buffer",
+      "h2": "A stream on your lot carries its own 30-foot setback.",
+      "paras": [
+        "Section 1.17 of the Ordinance requires a riparian buffer on all sides of perennial and intermittent streams, lakes and other natural waterways in the County, maintained as provided in the Storm Water Management Manual. The buffer itself is defined precisely: an undisturbed area extending from the top of the channel bank landward a minimum of 30 feet, measured horizontally on a line perpendicular to the water body. New structures aren't allowed inside it, apart from the specific exceptions the Ordinance lists, such as water-dependent structures and roads or utilities with no practical alternative route.",
+        "The Ordinance does carve out some ground from that buffer rule: reaches shown on a USGS or NRCS map where the stream doesn't actually exist on the ground, farm ponds not part of a natural drainage way, ditches, and manmade conveyances other than a modified natural stream. Whether a feature on your lot counts as a natural drainage way or an exempt ditch isn't always obvious from the yard, so that's a question for the County rather than a guess before we set the turf edge.",
+        "If your lot backs onto a branch of the Shallotte River watershed or any other mapped waterway, we keep the base and the turf itself outside that 30-foot line unless the County tells us otherwise in writing."
+      ]
+    },
+    {
+      "icon": "shield",
+      "kicker": "What counts as impervious",
+      "h2": "The Ordinance names gravel and stone. It doesn't name artificial turf.",
+      "paras": [
+        "The Ordinance's definition of Built-upon Area (BUA) covers impervious surface, and partially impervious surface, to the extent it keeps water from soaking through into the subsoil. It specifically excludes a few things: a slatted wood deck, the water area of a swimming pool, and a surface of number 57 stone, as designated by the American Society for Testing and Materials, laid at least four inches thick over a geotextile fabric.",
+        "That last exclusion is written for stone, not turf, and artificial turf is not named in the BUA definition either way. The Ordinance's definition also excludes a trail, as defined under state law, that is unpaved, or paved with a surface porous enough to reach a hydraulic conductivity greater than 0.001 centimeters per second, which the Ordinance itself converts to 1.41 inches per hour. That figure is written for trails specifically; nothing in the Ordinance's text extends it to a residential turf install, so don't take it as a stand-in number for how the County will treat your base.",
+        "Ask the County's Stormwater Administrator directly how a turf base is counted before you're close to the 4-inch trigger or the acreage threshold. Our <a href=\"/guides/nc-vs-sc-built-upon-area/\">guide to built-upon area on both sides of the state line</a> covers the state statute on draining turf backing, which is a separate question from how this County ordinance defines BUA."
+      ]
+    },
+    {
+      "icon": "pin",
+      "kicker": "Which office, and the town line next door",
+      "h2": "Confirm you're actually in the unincorporated County before you plan around it.",
+      "paras": [
+        "Grissettown's name isn't a zoning boundary. It marks a community along Longwood Road, between Shallotte and Sunset Beach, and parts of that area could fall inside an incorporated town's limits depending on the parcel. Sunset Beach and Calabash each run their own separate town ordinances, not the County's, so it matters which side of the line your address sits on. Confirm your parcel's status with the County's Planning & Community Development office, or its GIS mapping, before assuming this County ordinance is the one that governs your yard.",
+        "The community's one long-standing local institution is <a href=\"https://www.grissettownfire.net/about\" target=\"_blank\" rel=\"nofollow noopener\">Grissettown Longwood Fire & Rescue</a>, a volunteer department that has served this part of Brunswick County since 1985. It doesn't issue stormwater or building permits, but it's a fixture of the area worth knowing if you're new to it.",
+        "Whichever office it turns out to be, take your address and a rough layout to them before ground gets moved. Confirming jurisdiction first saves you from planning around the wrong rulebook."
+      ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "The free visit",
+      "h2": "We measure and check the ground before anything is dug.",
+      "paras": [
+        "At the free visit, we measure the area you want to turf and check the ground: where water sits after rain, how close any stream or ditch runs to the layout, and how deep the base has to go. The custom layout you approve before work starts states the depth of that base in inches, so you can hold it against the County's 4-inch trigger and the 30-foot buffer before anything changes.",
+        "With the County's answer in hand, we prepare the site, build a base sized to your soil and the buffer line, lay, seam and edge the turf, add infill, clean up, and walk you through the care it needs. If a putting green or a dog run is part of the plan, see our <a href=\"/grand-strand/putting-greens/\">Grand Strand putting greens page</a> and <a href=\"/grand-strand/pet-turf/\">Grand Strand pet turf page</a> for how each is laid out."
+      ]
+    }
+  ],
+  "services": [
+    "residential-turf",
+    "pet-turf",
+    "putting-greens"
+  ],
+  "servicesNote": "A lawn, a dog area or a backyard green, each based and edged around the County's 4-inch trigger and any stream buffer on your lot.",
+  "faq": [
+    {
+      "q": "Is Grissettown inside a town, or unincorporated Brunswick County?",
+      "a": "Grissettown is a community name, not a town government, and it sits in unincorporated Brunswick County along NC 904 between Shallotte and Sunset Beach. Some nearby parcels can fall inside an incorporated town's limits. Confirm your parcel's status with the County's Planning & Community Development office or its GIS map before assuming County rules, rather than a neighboring town's ordinance, apply to your address."
+    },
+    {
+      "q": "Does a turf base always trigger a County stormwater permit here?",
+      "a": "Not always. The Ordinance requires a Stormwater Management Plan, and the permit with it, only when a listed trigger applies, such as a 4-inch or greater change in land surface that alters drainage, or disturbance within 30 feet of a stream bank. If none of the Ordinance's triggers apply to your job, Section 1.16(a) says a permit isn't required. Ask the County's Stormwater Administrator to confirm which applies to your layout."
+    },
+    {
+      "q": "What should I ask Brunswick County before turf goes in at my Grissettown address?",
+      "a": "Give the County your address and the depth of base the layout calls for, then ask three things: whether your parcel is unincorporated County or inside a town, whether the job crosses the 4-inch drainage-change trigger, and whether any part of the layout falls within 30 feet of a stream bank on the property."
+    }
+  ],
+  "nearby": [
+    "shallotte-nc",
+    "carolina-shores-nc",
+    "sunset-beach-nc",
+    "calabash-nc"
+  ],
+  "sources": [
+    {
+      "label": "Brunswick County: Stormwater Ordinance",
+      "url": "https://www.brunswickcountync.gov/248/Stormwater-Ordinance"
+    },
+    {
+      "label": "Brunswick County: Stormwater Quality Management and Discharge Control Ordinance (PDF)",
+      "url": "https://brunswickcountync.gov/DocumentCenter/View/649/Brunswick-County-Stormwater-Ordinance-PDF?bidId="
+    },
+    {
+      "label": "Brunswick County: Municipal Jurisdictions",
+      "url": "https://www.brunswickcountync.gov/192/Municipal-Jurisdictions"
+    },
+    {
+      "label": "Grissettown Longwood Fire & Rescue: About",
+      "url": "https://www.grissettownfire.net/about"
+    }
+  ],
+  "publicReferences": [
+    "https://www.brunswickcountync.gov/248/Stormwater-Ordinance",
+    "https://brunswickcountync.gov/DocumentCenter/View/649/Brunswick-County-Stormwater-Ordinance-PDF?bidId="
+  ],
+  "checked": "2026-09-12"
+}

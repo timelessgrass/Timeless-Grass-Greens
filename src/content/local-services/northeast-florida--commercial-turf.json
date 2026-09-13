@@ -3,56 +3,54 @@
   "market": "northeast-florida",
   "service": "commercial-turf",
   "title": "Commercial Turf in Northeast Florida | TIMELESS Grass & Greens",
-  "description": "Commercial turf from Fernandina Beach to St. Augustine Shores, planned around county landscape codes, stormwater permits and city turf rules. Free estimate.",
+  "description": "Commercial turf from Fernandina Beach to St. Augustine Shores, planned around stormwater permits and county and city landscape codes. Free estimate.",
   "h1": "Turf for your courtyard, dog run or play area, planned around local code.",
-  "lede": "Put turf in a courtyard, dog run or play area on business or shared property from Fernandina Beach to St. Augustine Shores. Here your county or city code and the site’s stormwater permit set the terms, so check both early. Then book a free visit for a custom layout and written price.",
+  "lede": "Put turf in a courtyard, dog run or play area on business or shared property from Fernandina Beach to St. Augustine Shores. Your county or city code and the site’s stormwater permit set the terms, so bring both to a free visit for a custom layout and written price.",
   "wins": [
     "A courtyard, dog run or play area with no mowing",
-    "Required planting kept on the plan, with turf beside it",
-    "Stormwater permit questions settled before the base goes in"
+    "A layout that keeps turf out of required planting",
+    "Stormwater permit questions asked before the base is planned"
   ],
   "answer": {
     "question": "Does Florida’s synthetic turf law cover commercial property?",
-    "answer": "No. DEP’s FAQ says Rule 62-308.100 applies only to single-family residential properties of 1 acre or less, not to condominiums, parks or commercial properties. The limits section 125.572 puts on local rules are tied to DEP’s standards for single-family residential property. On a commercial site, your county or city code and any stormwater permit set the terms. Call 303-349-2368 for a free estimate."
+    "answer": "No. Rule 62-308.100, in force since 19 May 2026, sets turf standards for single-family lots of 1 acre or less, and DEP’s FAQ says it doesn’t apply to commercial properties. The limits section 125.572 puts on a local government refer to those single-family standards. On your site, the county or city code and any stormwater permit set the terms. Call 303-349-2368 for a free estimate."
   },
   "blocks": [
     {
-      "icon": "shield",
-      "kicker": "The state rule",
-      "h2": "The state turf rule leaves your site to local code.",
-      "paras": [
-        "The statewide shield against local turf bans isn’t built for your site. Under <a href=\"https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&amp;URL=0100-0199/0125/Sections/0125.572.html\" target=\"_blank\" rel=\"nofollow noopener\">section 125.572</a> of the 2026 Florida Statutes, a city or county can’t ban turf that meets DEP’s standards for single-family residential property, or regulate turf inconsistently with those standards. On a restaurant patio, office courtyard or daycare yard, don’t count on it to override a stricter county or city rule.",
-        "The home-lot standards don’t carry over on their own either. <a href=\"https://www.flrules.org/gateway/readFile.asp?sid=0&amp;tid=30839130&amp;type=1&amp;file=62-308.100.doc\" target=\"_blank\" rel=\"nofollow noopener\">Rule 62-308.100</a>, in effect since 19 May 2026, is a set of minimum standards local governments must use, and <a href=\"https://floridadep.gov/sites/default/files/SyntheticTurfFAQ%20final.pdf\" target=\"_blank\" rel=\"nofollow noopener\">DEP’s FAQ</a> says the department runs no permit, inspection or enforcement program under it. Ask the reviewing office which turf standards, if any, it applies to your site. Our <a href=\"/guides/florida-turf-infill-rules/\">Florida turf rules guide</a> covers the home-lot standard."
-      ]
-    },
-    {
       "icon": "drop",
-      "kicker": "Water management district",
-      "h2": "Ask whether the turf area changes a stormwater permit.",
+      "kicker": "Stormwater permits",
+      "h2": "Adding turf can change your stormwater permit.",
       "paras": [
-        "Florida’s <a href=\"https://www.flrules.org/gateway/readFile.asp?sid=0&amp;tid=20397080&amp;type=1&amp;file=62-330.020.doc\" target=\"_blank\" rel=\"nofollow noopener\">Rule 62-330.020</a> requires an environmental resource permit for work that adds up to more than 4,000 square feet of impervious and semi-impervious surface used by vehicles, more than 9,000 square feet of it in total, or a project area over five acres. It also covers work in wetlands or other surface waters, work that’s part of a larger common plan of development, and any change to a project already permitted. The rule’s carve-outs include listed exemptions, grandfathered projects, routine maintenance of a permitted project that isn’t being altered, and the 10/2 general permit for upland stormwater systems.",
-        "The St. Johns River Water Management District’s <a href=\"https://aws.sjrwmd.com/SJRWMD/permitting/AH_I_thru_Appendix_D.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Applicant’s Handbook, Volume I</a>, dated June 28, 2024, defines impervious as surfaces that don’t let water through, or barely do. Semi-impervious means surfaces that partly restrict it, such as gravel, limerock and certain compacted soils. Neither definition names artificial turf, so ask the District how it will count the turf and its stone base before you set a budget.",
-        "If the site was built under a stormwater permit, the handbook lists adding more than 10 percent or 0.5 acres of impervious and semi-impervious surface, whichever is less, as one factor that makes a modification more than minor, unless the original permit already allowed enough treatment and flood capacity for the change. Bring the permit number, the approved drainage plan and the turf product’s drainage data to that conversation before the grass comes out. Our <a href=\"/guides/is-artificial-turf-impervious/\">impervious surface guide</a> lists the questions to ask."
+        "On a site that already has an environmental resource permit, a turf area can count as a change. <a href=\"https://www.flrules.org/gateway/readFile.asp?sid=0&amp;tid=20397080&amp;type=1&amp;file=62-330.020.doc\" target=\"_blank\" rel=\"nofollow noopener\">Rule 62-330.020</a> requires a permit for any modification or alteration of a previously permitted project. On any site, it also requires one for a project that, alone or with work done after October 1, 2013, totals more than 9,000 square feet of impervious and semi-impervious surface, or more than 4,000 square feet of it used by vehicles. Its exceptions include listed exemptions and the 10/2 general permit for upland stormwater systems.",
+        "The statewide <a href=\"https://aws.sjrwmd.com/SJRWMD/permitting/AH_I_thru_Appendix_D.pdf\" target=\"_blank\" rel=\"nofollow noopener\">ERP Applicant’s Handbook, Volume I</a>, adopted by DEP in <a href=\"https://www.flrules.org/gateway/readFile.asp?sid=0&amp;tid=30666082&amp;type=1&amp;file=62-330.010.doc\" target=\"_blank\" rel=\"nofollow noopener\">Rule 62-330.010</a> and used by the St. Johns River Water Management District, defines impervious as surfaces that don’t let water through, or barely do. Semi-impervious means surfaces that partly restrict it, such as gravel, limerock and certain compacted soils. Neither definition mentions turf, so get the reviewing agency’s answer on how it counts the turf and its stone base before you set a budget.",
+        "If your site has a permit, the handbook weighs an increase of more than 10 percent or 0.5 acres of impervious and semi-impervious surface, whichever is less, in deciding whether a change is more than minor, unless the site was permitted with enough stormwater treatment and flood attenuation for it. Before the grass comes out, take the permit number, the approved drainage plan and the turf’s drainage data to the agency that issued the permit. Our <a href=\"/guides/is-artificial-turf-impervious/\">impervious surface guide</a> lists the questions to ask."
       ]
     },
     {
       "icon": "building",
-      "kicker": "County landscape codes",
-      "h2": "Required planting stays planting. Turf goes beside it.",
+      "kicker": "Landscape codes",
+      "h2": "Keep turf out of the planting your code requires.",
       "paras": [
-        "Two county codes say so outright. In unincorporated Clay County, <a href=\"https://library.municode.com/fl/clay_county/codes/code_of_ordinances?nodeId=CO_CH18.5VE_ARTIIILA_DIV1GE_S18.5-53GELARE\" target=\"_blank\" rel=\"nofollow noopener\">Sec. 18.5-53</a> says synthetic or artificial turf can’t be used in place of the required plants, and <a href=\"https://library.municode.com/fl/clay_county/codes/code_of_ordinances?nodeId=CO_CH18.5VE_ARTIIILA_DIV1GE_S18.5-51AP\" target=\"_blank\" rel=\"nofollow noopener\">Sec. 18.5-51</a> applies those standards to the paved ground areas of all nonresidential buildings. In unincorporated Nassau County, <a href=\"https://library.municode.com/fl/nassau_county/codes/code_of_ordinances?nodeId=APXALADECO_ORDINANCE_NO._97-19NACOFL_ART37NAREPR_S37.05LA\" target=\"_blank\" rel=\"nofollow noopener\">Sec. 37.05</a> says synthetic or artificial trees, shrubs, groundcovers or vines are not acceptable substitutes.",
-        "Whether a code reaches a finished site depends on the work. Nassau’s section covers all new development. A site built under earlier landscaping rules doesn’t have to meet it unless you redevelop, reconfigure, expand or change the use, and even then not if the site has 7,500 square feet of impervious area or less and adds no more than 750, or has more and adds less than 2,000 square feet and less than 10 percent of the existing impervious area. In Jacksonville, <a href=\"https://library.municode.com/fl/jacksonville/codes/code_of_ordinances?nodeId=TITXVIILAUS_CH656ZOCO_PT12LATRPRRE_SPCLARE_S656.1209AP\" target=\"_blank\" rel=\"nofollow noopener\">Sec. 656.1209</a> covers new landscapes, and reaches an existing commercial site once renovations within two years total at least 60 percent of the assessed value of the lot improvements, or the building’s square footage grows by 60 percent. <a href=\"https://library.municode.com/fl/jacksonville/codes/code_of_ordinances?nodeId=TITXVIILAUS_CH656ZOCO_PT12LATRPRRE_SPCLARE_S656.1217LAIRSYPLRE\" target=\"_blank\" rel=\"nofollow noopener\">Sec. 656.1217</a> requires an approved landscape plan before any building or paving permit is issued.",
-        "In unincorporated St. Johns County, <a href=\"https://www.sjcfl.us/wp-content/uploads/2024/01/article-vi.pdf\" target=\"_blank\" rel=\"nofollow noopener\">LDC Section 6.06.02.A.5</a> (January 12, 2026) lets rocks, gravel and mulch sit with living plants and says artificial plants can’t meet any landscaping requirement. It doesn’t name turf, so ask <a href=\"https://www.sjcfl.us/departments/development-review/\" target=\"_blank\" rel=\"nofollow noopener\">Development Review</a>, which handles commercial plan review, how it applies that line to your plan. The county’s <a href=\"https://www.sjcfl.us/wp-content/uploads/2024/01/Article-XII.pdf\" target=\"_blank\" rel=\"nofollow noopener\">impervious surface definition</a> (June 2, 2026) lists buildings, concrete, pools, wet retention and detention areas, and pavement or compacted materials used for parking or roadways. Turf isn’t named there either.",
-        "If your St. Johns site was built under approved construction plans, ask whether turf counts as a change to them. <a href=\"https://www.sjcfl.us/wp-content/uploads/2023/08/Section-13.0-Construction-Plans.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Section 13.16</a> of the county’s construction plans manual, revised May 2026, says changes to approved plans need Development Review approval before they go in the field. A change that significantly alters the drainage or site plan goes through the same process as a new project."
+        "Three local codes name synthetic turf or lawns outright. In unincorporated Clay County, <a href=\"https://library.municode.com/fl/clay_county/codes/code_of_ordinances?nodeId=CO_CH18.5VE_ARTIIILA_DIV1GE_S18.5-51AP\" target=\"_blank\" rel=\"nofollow noopener\">Sec. 18.5-51</a> sets landscaping standards for the paved ground areas of nonresidential buildings, and <a href=\"https://library.municode.com/fl/clay_county/codes/code_of_ordinances?nodeId=CO_CH18.5VE_ARTIIILA_DIV1GE_S18.5-53GELARE\" target=\"_blank\" rel=\"nofollow noopener\">Sec. 18.5-53</a> says synthetic or artificial turf shall not be used in lieu of the plants that section requires. Jacksonville’s zoning code, in <a href=\"https://library.municode.com/fl/jacksonville/codes/code_of_ordinances?nodeId=TITXVIILAUS_CH656ZOCO_PT16DE_S656.1601DE\" target=\"_blank\" rel=\"nofollow noopener\">Sec. 656.1601</a>, and Jacksonville Beach’s land development code, in <a href=\"https://library.municode.com/fl/jacksonville_beach/codes/code_of_ordinances?nodeId=PTIICOOR_CH34LADECO_ARTIIIDE_S34-300GE\" target=\"_blank\" rel=\"nofollow noopener\">Sec. 34-300</a>, both define landscaping as grass, ground covers, shrubs, hedges, trees, rocks, pebbles, decorative mulch, walls or fences, but not paving, synthetic plant material or synthetic lawns. Where Jacksonville’s landscape rules define a term differently, <a href=\"https://library.municode.com/fl/jacksonville/codes/code_of_ordinances?nodeId=TITXVIILAUS_CH656ZOCO_PT12LATRPRRE_SPAGEPR_S656.1203DE\" target=\"_blank\" rel=\"nofollow noopener\">Sec. 656.1203</a> applies the more restrictive definition.",
+        "Elsewhere, the rules name artificial plants or mulch rather than turf. Nassau County’s <a href=\"https://library.municode.com/fl/nassau_county/codes/code_of_ordinances?nodeId=APXALADECO_ORDINANCE_NO._97-19NACOFL_ART37NAREPR_S37.05LA\" target=\"_blank\" rel=\"nofollow noopener\">Sec. 37.05</a> says synthetic or artificial trees, shrubs, groundcovers or vines are not acceptable substitutes. St. Johns County’s <a href=\"https://www.sjcfl.us/wp-content/uploads/2024/01/article-vi.pdf\" target=\"_blank\" rel=\"nofollow noopener\">LDC Section 6.06.02.A.5</a> says artificial plants can’t meet any landscaping requirement, and Fernandina Beach’s <a href=\"https://library.municode.com/fl/fernandina_beach/codes/land_development_code?nodeId=CH4SIDERE_4.05.03LAMAST\" target=\"_blank\" rel=\"nofollow noopener\">LDC 4.05.03</a> doesn’t allow artificial mulch in required planting areas. If your plan counts turf toward required landscaping in any of them, get the reviewer’s answer in writing first. In St. Johns County, commercial plan review sits with <a href=\"https://www.sjcfl.us/departments/development-review/\" target=\"_blank\" rel=\"nofollow noopener\">Development Review</a>."
       ]
     },
     {
       "icon": "file",
-      "kicker": "City rules",
-      "h2": "In Atlantic Beach, the base gets inspected first.",
+      "kicker": "Existing sites",
+      "h2": "Know what brings an older site under today’s code.",
       "paras": [
-        "Cities can set their own terms. <a href=\"https://coab.us/DocumentCenter/View/15920/Turf-Installation-Guidelines\" target=\"_blank\" rel=\"nofollow noopener\">Atlantic Beach’s turf installation guidelines</a> (undated, online as of September 2026) apply to all artificial turf installations. They call for a turf system rated at 100 inches per hour or more over at least 4 inches of free-draining stone, with product specifications, permeability test results, installation details and a site plan for review. The city inspects the stone base before turf covers it.",
-        "If your site has a retention area, plan around it. The guidelines allow turf in a privately owned retention or drainage area only if the basin keeps its designed storage and function, with drainage structures, overflow paths and maintenance access left clear. The city may ask for engineering documentation that stormwater capacity and drainage still work. Elsewhere, treat turf inside a permitted stormwater system as a question for the reviewing office and the District first."
+        "In Jacksonville, the landscape rules reach the rest of an existing commercial site only when renovations within two years total at least 60 percent of the assessed value of the lot improvements, or the building grows by 60 percent. That’s the test in <a href=\"https://library.municode.com/fl/jacksonville/codes/code_of_ordinances?nodeId=TITXVIILAUS_CH656ZOCO_PT12LATRPRRE_SPCLARE_S656.1209AP\" target=\"_blank\" rel=\"nofollow noopener\">Sec. 656.1209</a>. If your turf job needs a building or paving permit, <a href=\"https://library.municode.com/fl/jacksonville/codes/code_of_ordinances?nodeId=TITXVIILAUS_CH656ZOCO_PT12LATRPRRE_SPCLARE_S656.1217LAIRSYPLRE\" target=\"_blank\" rel=\"nofollow noopener\">Sec. 656.1217</a> requires an approved landscape plan first, so ask the Planning and Development Department whether it needs either.",
+        "In Nassau County, a site built under earlier landscaping rules has to meet Sec. 37.05 only when you redevelop, reconfigure, expand or change its use. Even then it doesn’t if the site has 7,500 square feet of impervious area or less and adds 750 or less, or has more and adds under 2,000 square feet and under 10 percent of its existing impervious area. Ask the county how it counts turf against those figures."
+      ]
+    },
+    {
+      "icon": "pin",
+      "kicker": "Atlantic Beach",
+      "h2": "In Atlantic Beach, the city inspects the base first.",
+      "paras": [
+        "<a href=\"https://coab.us/DocumentCenter/View/15920/Turf-Installation-Guidelines\" target=\"_blank\" rel=\"nofollow noopener\">Atlantic Beach’s turf installation guidelines</a> apply to all artificial turf installations in the city. To count as permeable for lot coverage, the system must drain at least 100 inches per hour, over a free-draining stone base at least 4 inches deep. The city reviews product specifications, permeability test results, installation details and a site plan, and inspects the base before turf covers it.",
+        "Turf can go in a privately owned retention or drainage area only if the basin keeps its designed storage and function, with drainage structures, overflow paths and maintenance access left clear. The city may ask for engineering documentation showing the drainage still works. Our <a href=\"/northeast-florida/atlantic-beach-fl/\">Atlantic Beach page</a> covers the city’s impervious cover limit."
       ]
     },
     {
@@ -60,29 +58,33 @@
       "kicker": "Your estimate",
       "h2": "Bring the site’s permits to the free visit.",
       "paras": [
-        "Bring the parcel address, the approved site plan, the landscape plan the property was built under and any stormwater permit number. Mark the required planting, retention areas, swales and drainage structures. We measure the area, check the ground and draw a custom layout you approve before work starts, then give you a written price.",
+        "Bring the parcel address, the approved site plan and landscape plan, and any stormwater permit number. Mark the required planting, retention areas, swales and drainage structures. We measure the area, check the ground and draw a custom layout you approve before work starts, then give you a written price.",
         "If a reviewer wants product specifications, drainage data or a base cross-section, agree who gathers and submits them before you set a start date. See the <a href=\"/services/commercial-turf/\">commercial turf service</a> for surface options, and the <a href=\"/northeast-florida/\">northeast Florida page</a> for everything else we install here."
       ]
     }
   ],
   "faq": [
     {
-      "q": "A community development district or association manages our space. Does the state law help?",
-      "a": "No. DEP’s FAQ says the rule doesn’t address HOA requirements or deed restrictions. And since 1 July 2026, <a href=\"https://laws.flrules.org/files/Ch_2026-164.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Ch. 2026-164</a> says section 125.572’s limits on local rules don’t apply when a community development district enforces deed restrictions. Get the district’s or association’s written approval, and check the county or city code for the parcel too. Our <a href=\"/guides/florida-friendly-landscaping-and-hoas/\">Florida HOA guide</a> covers the association side."
+      "q": "Does Florida’s rubber infill limit apply to our play area?",
+      "a": "No. The limit to natural infill such as sand, rock or shell, with rubber or synthetic infill only within the footprint of playground equipment, is part of the home-lot rule. Choose the infill for how the space is used."
     },
     {
-      "q": "Does Florida’s rubber infill limit apply to our play area?",
-      "a": "No. The limit to natural infill such as sand, rock or shell, with rubber or synthetic infill only within the footprint of playground equipment, is part of the home-lot rule. Choose the infill for how the space is used, and ask the reviewing office whether local code sets its own terms."
+      "q": "We’re still building in St. Johns County. Can we add turf to the approved plans?",
+      "a": "Only with approval first. <a href=\"https://www.sjcfl.us/wp-content/uploads/2023/08/Section-13.0-Construction-Plans.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Section 13.16</a> of the county’s construction plans manual says changes to approved construction plans need Development Review approval before they go in the field. Minor changes may be approved without a submittal and documented on the as-built survey. A change that significantly alters the drainage plan or site plan goes through the same process as a new project, fees included."
+    },
+    {
+      "q": "Which office reviews a new stormwater permit here?",
+      "a": "It depends on the project. The handbook sends applications to the agency the operating and delegation agreements make responsible for that type of work at that location. Its contact list places Clay, Duval, Nassau and St. Johns counties in DEP’s Northeast District, based in Jacksonville, and ERP staff can meet with you before you apply to say which agency takes your project."
     }
   ],
   "towns": [
     "jacksonville-fl",
+    "jacksonville-beach-fl",
     "atlantic-beach-fl",
-    "st-johns-fl",
-    "world-golf-village-fl",
-    "vilano-beach-fl",
-    "orange-park-fl",
-    "amelia-island-fl"
+    "fernandina-beach-fl",
+    "fleming-island-fl",
+    "nassauville-fl",
+    "st-johns-fl"
   ],
   "sources": [
     {
@@ -98,44 +100,56 @@
       "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0125/Sections/0125.572.html"
     },
     {
-      "label": "Laws of Florida, Ch. 2026-164 (amending s. 125.572, effective 1 July 2026)",
-      "url": "https://laws.flrules.org/files/Ch_2026-164.pdf"
-    },
-    {
-      "label": "Rule 62-330.020, F.A.C.: regulated activities",
+      "label": "Rule 62-330.020, F.A.C.: regulated activities (last amended 1 June 2018)",
       "url": "https://www.flrules.org/gateway/readFile.asp?sid=0&tid=20397080&type=1&file=62-330.020.doc"
     },
     {
-      "label": "SJRWMD: ERP Applicant’s Handbook, Volume I (June 28, 2024)",
+      "label": "Rule 62-330.010, F.A.C.: purpose and implementation (amended 7 April 2026)",
+      "url": "https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30666082&type=1&file=62-330.010.doc"
+    },
+    {
+      "label": "DEP and water management districts: ERP Applicant’s Handbook, Volume I (effective June 28, 2024; SJRWMD copy)",
       "url": "https://aws.sjrwmd.com/SJRWMD/permitting/AH_I_thru_Appendix_D.pdf"
     },
     {
-      "label": "Clay County Code Sec. 18.5-51 (application of landscaping article)",
+      "label": "Clay County Code Sec. 18.5-51 (application of landscaping article; Municode Supp. 86)",
       "url": "https://library.municode.com/fl/clay_county/codes/code_of_ordinances?nodeId=CO_CH18.5VE_ARTIIILA_DIV1GE_S18.5-51AP"
     },
     {
-      "label": "Clay County Code Sec. 18.5-53 (general landscaping requirements)",
+      "label": "Clay County Code Sec. 18.5-53 (general landscaping requirements; Municode Supp. 86)",
       "url": "https://library.municode.com/fl/clay_county/codes/code_of_ordinances?nodeId=CO_CH18.5VE_ARTIIILA_DIV1GE_S18.5-53GELARE"
     },
     {
-      "label": "Nassau County LDC Sec. 37.05 (landscaping)",
-      "url": "https://library.municode.com/fl/nassau_county/codes/code_of_ordinances?nodeId=APXALADECO_ORDINANCE_NO._97-19NACOFL_ART37NAREPR_S37.05LA"
+      "label": "Jacksonville Ordinance Code Sec. 656.1601 (zoning definitions; Municode Supp. 6 Update 1)",
+      "url": "https://library.municode.com/fl/jacksonville/codes/code_of_ordinances?nodeId=TITXVIILAUS_CH656ZOCO_PT16DE_S656.1601DE"
     },
     {
-      "label": "Jacksonville Ordinance Code Sec. 656.1209 (applicability)",
+      "label": "Jacksonville Ordinance Code Sec. 656.1203 (landscape definitions; Municode Supp. 6 Update 1)",
+      "url": "https://library.municode.com/fl/jacksonville/codes/code_of_ordinances?nodeId=TITXVIILAUS_CH656ZOCO_PT12LATRPRRE_SPAGEPR_S656.1203DE"
+    },
+    {
+      "label": "Jacksonville Ordinance Code Sec. 656.1209 (applicability; Municode Supp. 6 Update 1)",
       "url": "https://library.municode.com/fl/jacksonville/codes/code_of_ordinances?nodeId=TITXVIILAUS_CH656ZOCO_PT12LATRPRRE_SPCLARE_S656.1209AP"
     },
     {
-      "label": "Jacksonville Ordinance Code Sec. 656.1217 (landscape plans required)",
+      "label": "Jacksonville Ordinance Code Sec. 656.1217 (landscape plans required; Municode Supp. 6 Update 1)",
       "url": "https://library.municode.com/fl/jacksonville/codes/code_of_ordinances?nodeId=TITXVIILAUS_CH656ZOCO_PT12LATRPRRE_SPCLARE_S656.1217LAIRSYPLRE"
+    },
+    {
+      "label": "Jacksonville Beach Code Sec. 34-300 (land development code definitions; Municode Supp. 60)",
+      "url": "https://library.municode.com/fl/jacksonville_beach/codes/code_of_ordinances?nodeId=PTIICOOR_CH34LADECO_ARTIIIDE_S34-300GE"
+    },
+    {
+      "label": "Nassau County LDC Sec. 37.05 (landscaping; Municode Supp. 17)",
+      "url": "https://library.municode.com/fl/nassau_county/codes/code_of_ordinances?nodeId=APXALADECO_ORDINANCE_NO._97-19NACOFL_ART37NAREPR_S37.05LA"
     },
     {
       "label": "St. Johns County LDC, Article VI (Sec. 6.06.02, January 12, 2026)",
       "url": "https://www.sjcfl.us/wp-content/uploads/2024/01/article-vi.pdf"
     },
     {
-      "label": "St. Johns County LDC, Article XII (definitions, June 2, 2026)",
-      "url": "https://www.sjcfl.us/wp-content/uploads/2024/01/Article-XII.pdf"
+      "label": "Fernandina Beach LDC 4.05.03 (landscape materials standards; Municode, checked September 2026)",
+      "url": "https://library.municode.com/fl/fernandina_beach/codes/land_development_code?nodeId=CH4SIDERE_4.05.03LAMAST"
     },
     {
       "label": "St. Johns County: Section 13.0 Construction Plans (revised May 2026)",
@@ -146,7 +160,7 @@
       "url": "https://www.sjcfl.us/departments/development-review/"
     },
     {
-      "label": "City of Atlantic Beach: Artificial Turf Installation Guidelines (undated)",
+      "label": "City of Atlantic Beach: Artificial Turf Installation Guidelines (undated; file created 14 May 2026)",
       "url": "https://coab.us/DocumentCenter/View/15920/Turf-Installation-Guidelines"
     }
   ],
@@ -155,6 +169,7 @@
     "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0125/Sections/0125.572.html",
     "https://www.flrules.org/gateway/readFile.asp?sid=0&tid=20397080&type=1&file=62-330.020.doc",
     "https://aws.sjrwmd.com/SJRWMD/permitting/AH_I_thru_Appendix_D.pdf",
+    "https://library.municode.com/fl/jacksonville/codes/code_of_ordinances?nodeId=TITXVIILAUS_CH656ZOCO_PT16DE_S656.1601DE",
     "https://coab.us/DocumentCenter/View/15920/Turf-Installation-Guidelines"
   ],
   "checked": "2026-09-12"

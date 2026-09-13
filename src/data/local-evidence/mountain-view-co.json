@@ -1,0 +1,129 @@
+{
+  "intent": "What does the Town of Mountain View require before artificial turf goes into a yard that a street or alley can see, and whose watering rules reach a Mountain View lawn in 2026?",
+  "distinctValue": "Mountain View is a twelve-block home-rule town with its own zoning code and the most direct turf rule in this part of the metro: a dedicated residential artificial turf permit (16.02.110, Ord. 2020-07-20A) for turf in a front yard or in a side or rear yard visible from public right-of-way, filed with the Town Clerk with two scaled site plans and the manufacturer's documents (16.02.120). The code's own definitions make an alley a public right-of-way, so rear yards seen from the alley need the permit. The page also sets out the product and installation floor (1.25-inch pile, 50 oz/sq yd face weight, compacted porous base, nails and glue, solid barrier at beds), the nonconforming-turf rule at the 50% replacement threshold, and the new-house landscaping minimums (30% permeable, 70% living in front and side yards) that apply only to lots with a new primary residential structure, which the research brief had stated too broadly. It flags that the turf rule's cross-reference to 16.04.040(f) now lands on the sidewalk setback while the screened-fence test sits at (g), so the reader is told to get the town's written answer. The fee is set by Council resolution and is not printed; the reader is sent to Town Hall. Water: the Wheat Ridge Water District, a Denver Water Master Meter distributor, supplies and bills the town and has ended lawn watering after 30 September 2026. None of this is on the Wheat Ridge, Edgewater, Lakewood or Denver pages. The code requires a minimum eight-year manufacturer's warranty on the application; the page describes this only as a manufacturer document the town requires, never as something the business provides.",
+  "sources": [
+    {
+      "label": "Mountain View Municipal Code, Ch. 16 Art. 2: Permits Required (read through r.jina.ai; the site blocks direct fetches)",
+      "url": "https://mountainview.municipal.codes/Code/16.2",
+      "checked": "2026-09-12",
+      "supports": [
+        "16.02.110 Residential artificial turf permit: \"It shall be unlawful for any person, firm, or corporation to install or reinstall artificial turf in a residential front yard, side yard, or rear yard visible from public right-of-way without first obtaining an artificial turf permit. (Ord. 2020-07-20A §3)\"",
+        "16.02.120 Application for residential artificial turf permit: \"An applicant for an artificial turf permit shall submit a completed application, on a form provided by the Town, to the Town Clerk, which shall include the following information: An application fee in an amount determined by resolution of the Town Council; Two (2) copies of a scaled site plan showing property lines, access and drive location, existing and proposed buildings, existing and proposed landscaping, and existing and proposed locations of artificial turf; Manufacturer's documentation including specifications sheet, installation instructions and a minimum eight (8) year warranty that protects against color fading and decrease in pile height; and Any other information deemed necessary by the Zoning Administrator. (Ord. 2020-07-20A §3)\"",
+        "16.02.030 Fence permit: \"It shall be unlawful for any person, firm, or corporation to erect, construct, or reconstruct a fence without first obtaining a fence permit except that minor repairs that result in the reconstruction of less than twenty-five percent (25%) of the total linear feet of a fence within a calendar year shall be exempt from the requirement to obtain a permit. (Ord. 2024-07-15D §1; Ord. 2019-07-08 §1)\"",
+        "Page footer: \"The Mountain View Municipal Code is current through Ordinance 2026-04-20B, passed May 18, 2026.\""
+      ]
+    },
+    {
+      "label": "Mountain View Municipal Code, Ch. 16 Art. 4: Residential-2 (R-2) Zone District",
+      "url": "https://mountainview.municipal.codes/Code/16.4",
+      "checked": "2026-09-12",
+      "supports": [
+        "16.04.040(a): \"Fences, hedges, and walls shall not exceed: (1) Four (4) feet in height when located: a. In a front yard; (2) Six (6) feet in height when located in a: a. Rear yard; or b. Side yard. (3) Eight (8) feet in height when located in a side yard that abuts a nonresidential use.\"",
+        "16.04.040(d): \"Barbed wire, chain link, and electric fences shall not be permitted.\"",
+        "16.04.040(e): \"Fences shall be set back ten (10) feet from the centerline of any alley.\"",
+        "16.04.040(f): \"Fences shall be set back one (1) foot from any public sidewalk.\"",
+        "16.04.040(g): \"Fences shall be considered screened if they are a minimum of six (6) feet in height and have a maximum picket spacing of no more than twenty percent (20%) of the width of the picket board face.\" (subsection letters confirmed from the section anchors 16.04.040(a) to 16.04.040(h) on 2026-09-12)",
+        "16.04.045(a): \"With the exception of Subsection (d) of this Section, the following landscaping requirements shall only apply to lots on which a new primary residential structure is being built\"",
+        "16.04.045(b): \"The minimum permeable landscaped area shall be thirty percent (30%) of the entire zone lot.\" (b)(1): \"In the front and side yards, a minimum of seventy percent (70%) of the required landscaped area shall be comprised of living material, with a maximum of thirty percent (30%) permitted as nonliving material.\"",
+        "16.04.045(c): \"Prior to the issuance of a certificate of occupancy, lots containing single-family or two-family residences in the R-2 Zone District shall be landscaped as follows: (1) Tree lawns and front setback areas shall be landscaped with trees, living turf (sod, grass, etc.), low ground covers, shrubs, or flowers. ... (3) At least one (1) ornamental, shade, or evergreen tree shall be installed in the front setback area or tree lawn.\"",
+        "16.04.045(d): \"Artificial turf located in front yards, side yards, or rear yards visible from public right-of-way shall only be permitted subject to the following standards and permit requirements per Section 16.02.120. Artificial turf located in side yards or rear yards not visible from public right-of-way, as determined by Section 16.04.040(f), shall not require a permit and may use the following standards as advisory guidelines.\"",
+        "16.04.045(d)(1): \"Artificial turf shall not be considered living material and may not be used to meet the minimum landscaping requirements for new residential structures.\"",
+        "16.04.045(d)(2): \"Artificial turf must consist of cut pile infill and shall be manufactured from polypropylene, polyethylene, or a blend of these materials. The turf shall have a minimum pile height of one and one-quarter (1.25) inches and a minimum face weight of fifty (50) ounces per square yard. The use of indoor or outdoor plastic or nylon carpeting as outdoor artificial turf is prohibited.\"",
+        "16.04.045(d)(3): \"Artificial turf must be installed, at a minimum, according to manufacturer's specifications and must include a minimum eight (8) year manufacturer's warranty that protects against color fading and decrease in pile height.\"",
+        "16.04.045(d)(4): \"Proper drainage, slope, and grade shall be provided to prevent excess runoff or flooding. Artificial turf shall be permanently anchored with nails and glue and shall be installed over a compacted and porous base material. Artificial turf shall also be separated from live plant areas by a solid barrier device such as a concrete mow strip or bender board to prevent intrusion of living plant material into the artificial turf area.\"",
+        "16.04.045(d)(5): \"Artificial turf must be maintained in a natural, green, fadeless condition that mimics the appearance of natural grasses and be kept free of weeds, debris, stains, tears, holes, impressions, and odors. An infill material consisting of ground rubber, cleaned sand and rubber, silica granules, or similar medium shall be brushed into the fibers to ensure proper maintenance.\"",
+        "16.04.045(d)(6): \"Artificial turf that was legally installed prior to the adoption of these standards and does not conform with the provisions herein shall be considered nonconforming and may continue. Nonconforming artificial turf shall not be enlarged, expanded, or extended. It may be altered to decrease the extent of the nonconformity, and may undergo typical maintenance, repair, and upkeep. In the event that fifty percent (50%) or more of a nonconforming artificial turf area is damaged or removed and replaced with new artificial turf, it must be replaced in accordance with the full provisions of this Subsection (d). (Ord. 2020-07-20A §5; Ord. 2019-07-08 §1)\""
+      ]
+    },
+    {
+      "label": "Mountain View Municipal Code, Ch. 16 Art. 5: Residential-3 (R-3) Zone District",
+      "url": "https://mountainview.municipal.codes/Code/16.5",
+      "checked": "2026-09-12",
+      "supports": [
+        "16.05.045: \"With the exception of Subsection (d) of this Section, the following landscaping requirements shall only apply to lots on which a new primary residential structure is being built. The minimum permeable landscaped area shall be thirty percent (30%) of the zone lot. In the front and side yards, a minimum of seventy percent (70%) of the required landscaped area shall be comprised of living material, with a maximum of thirty percent (30%) permitted as nonliving material.\"",
+        "16.05.045(d): \"Artificial turf located in side yards or rear yards not visible from public right-of-way, as determined in Section 16.05.040(f), shall not require a permit and may use the following standards as advisory guidelines.\" followed by the same pile height (1.25 inches), face weight (fifty (50) ounces per square yard), installation, maintenance and nonconforming (fifty percent (50%)) standards as 16.04.045(d). (Ord. 2020-07-20A §7)"
+      ]
+    },
+    {
+      "label": "Mountain View Municipal Code 16.01.090: Definitions",
+      "url": "https://mountainview.municipal.codes/Code/16.01.090",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"Alley\" means a public right-of-way within a block that is less than twenty (20) feet in width, which provides access to the rear of residential or commercial establishments and which is generally a secondary means of access to the property abutting along its length.",
+        "\"Right-of-way\" means property dedicated to public use, such as roads, streets, utilities, pedestrian and bicycle paths and alleys.",
+        "\"Yard, rear\" means the portion of a residential lot that is behind the rear-facing façade of the principal structure.",
+        "\"Zoning Administrator\" means the Mayor of the Town of Mountain View, or the official designated by the Town Council to be responsible for accepting, processing, and reviewing land use development applications"
+      ]
+    },
+    {
+      "label": "Town of Mountain View: Residential Services",
+      "url": "https://www.tomv.org/community-local-businesses/page/residential-services",
+      "checked": "2026-09-12",
+      "supports": [
+        "The town consists of a twelve block area from the west side of Sheridan Boulevard to the east side of Fenton Street and from W 44th Avenue to W 41st Avenue. While the town is neighbors to Denver to the east, Lakeside to the north and Wheat Ridge to the south and west.",
+        "Water for the Town of Mountain View is also provided by and billed by the Wheat Ridge Water District. Water issues should be reported directly to them at 303-424-2844.",
+        "Town of Mountain View, 4176 Benton St., Mountain View, CO 80212. Phone: (303) 421-7282. Hours: Monday - Thursday - 9am to 5pm, Closed Friday"
+      ]
+    },
+    {
+      "label": "Town of Mountain View: Building Department",
+      "url": "https://www.tomv.org/building-department",
+      "checked": "2026-09-12",
+      "supports": [
+        "You may also schedule a meeting with us to begin the process of thinking through a project you are planning. These meetings are called Design Review Committee (DRC) meetings, and are a free service designed to assist property owners in the planning stages of their projects.",
+        "Fence replacements: Please Note: The Public Works Department handles fence replacement permits, rather than the Building Department and SafeBuilt. Fence permits are obtained by applying for a Right-of-Way (ROW) permit through the Public Works Department."
+      ]
+    },
+    {
+      "label": "Wikipedia: Mountain View, Colorado",
+      "url": "https://en.wikipedia.org/wiki/Mountain_View,_Colorado",
+      "checked": "2026-09-12",
+      "supports": [
+        "The Town of Mountain View is a home rule municipality located in Jefferson County, Colorado, United States.",
+        "The Denver Post Office (ZIP Code 80212) serves Mountain View.",
+        "Mountain View was incorporated in 1904 on the land occupied by the Berkeley Annex subdivision established in 1888"
+      ]
+    },
+    {
+      "label": "Wheat Ridge Water District: All lawn watering is prohibited in the Wheat Ridge Water District after September 30, 2026",
+      "url": "https://www.wrwdistrict.com/all-lawn-watering-is-prohibited-in-the-wheat-ridge-water-district-after-september-30-2026",
+      "checked": "2026-09-12",
+      "supports": [
+        "As a Water Distributor for Denver Water, the Wheat Ridge Board of Directors has resolved that the Wheat Ridge Water District will be required to follow the Denver Board of Water Commissioners' decision to end lawn watering season effective October 1, 2026.",
+        "Beginning October 1, 2026, all lawn watering and lawn spray irrigation will be prohibited. The final day lawn watering will be allowed will be September 30, 2026.",
+        "Hand-watering with an automatic shut off nozzle, watering can, low-volume no-spray irrigation system, or similar method is permitted for grees, shrubs, perennials, annuals and vegetables, as needed, but not between 10:00 a.m and 6:00 p.m.",
+        "No variance for new seed or sod will be issued.",
+        "Drought surcharges will remain in effect during the Level One Drought declaration, and at least until April 30, 2027, unless further action by the Wheat Ridge Water District Board of Directors has occured."
+      ]
+    },
+    {
+      "label": "Wheat Ridge Water District: 2026 Watering Rules",
+      "url": "https://www.wrwdistrict.com/2026-watering-rules",
+      "checked": "2026-09-12",
+      "supports": [
+        "Stage 1 Drought Mandatory Restrictions are now in effect.",
+        "Lawn watering will only be allowed on assigned days and further only before 10 a.m. or after 6 p.m.",
+        "Due to ongoing drought conditions, the Wheat Ridge Water District will not grant any variance for planting seed and sod.",
+        "Enforcement and Fines: First Violation - Warning; Second Violation - $ 250.00 fine; Third Violation - $ 500.00 fine; Fourth (and subsequent) Violations - Up to $1000.00 fine each time"
+      ]
+    },
+    {
+      "label": "Wheat Ridge Water District: Drought Pricing",
+      "url": "https://www.wrwdistrict.com/drought-pricing",
+      "checked": "2026-09-12",
+      "supports": [
+        "The Board of the Wheat Ridge Water District adopted a resolution approving the implementation of temporary drought pricing for water used above 6000 gallons consumed monthly for residential and duplex properties and a fixed charge to all Commercial, multi-family dwellings, parks and governments.",
+        "The drought pricing will apply starting with May water use (reflected in June bills) and will be in effect through April 30, 2027, or until further action by the board."
+      ]
+    },
+    {
+      "label": "Denver Water: distributors",
+      "url": "https://www.denverwater.org/about-us/how-we-operate/service-area/distributors",
+      "checked": "2026-09-12",
+      "supports": [
+        "Master Meter — A Master Meter distributor owns and is responsible for construction, operation, maintenance, and replacement of its water system. Denver Water delivers water to the distributor through one or more master meters and bills the distributor at the established \"Wholesale (Master Meter)\" rate. The Distributor, not Denver Water, is responsible for reading the meters of its individual customers and for billing its individual customers according to rate schedules established by the Distributor.",
+        "Master Meter Distributors ... Wheat Ridge Water District, 303-424-2844"
+      ]
+    }
+  ]
+}

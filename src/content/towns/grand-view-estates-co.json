@@ -1,0 +1,141 @@
+{
+  "status": "published",
+  "market": "denver-metro",
+  "name": "Grand View Estates",
+  "state": "CO",
+  "placeType": "Place",
+  "county": "Douglas",
+  "title": "Artificial Turf in Grand View Estates, CO | TIMELESS Grass & Greens",
+  "description": "Turf for a Grand View Estates lot on a private well and septic: check what your well permit allows, keep the base off the leach field, and plan for slope or clay.",
+  "h1": "A green yard that doesn't lean on your Grand View Estates well.",
+  "lede": "Your well permit, not a water utility, decides whether grass here can be watered at all. Start with a free visit to measure the lot, find the septic field and check the ground.",
+  "wins": [
+    "No irrigation drawn from your well",
+    "A layout kept clear of the septic field",
+    "A base planned for slope, clay or creek-bottom ground"
+  ],
+  "answer": {
+    "question": "What should I check before planning turf in Grand View Estates?",
+    "answer": "Start with your well permit. The Colorado Division of Water Resources' Well Permit Search opens its file, which lists the uses your well allows, and some permits allow no outdoor water use at all. Next, find your septic tank and leach field, because state rules keep compaction off the soil treatment area. Take zoning questions to Douglas County, since the neighborhood association says it has no zoning authority."
+  },
+  "blocks": [
+    {
+      "icon": "drop",
+      "kicker": "The local rule",
+      "h2": "Your well permit decides what water leaves the house.",
+      "paras": [
+        "Grand View Estates runs on private wells rather than a water utility, so there's no watering calendar to look up. The <a href=\"https://gerwcd.colorado.gov/about\" target=\"_blank\" rel=\"nofollow noopener\">Grandview Estates Rural Water Conservation District</a> exists to protect that individual exempt well supply. Whether you may water a lawn at all is written on the permit for your well.",
+        "Colorado's <a href=\"https://dnrweblink.state.co.us/dwr/ElectronicFile.aspx?docid=4187690&dbid=0\" target=\"_blank\" rel=\"nofollow noopener\">Guideline 2023-1</a> explains why that matters here. An exempt permit issued under the state's standard presumption on a parcel of less than 35 acres is limited to household use inside one home, with no outdoor use, and most lots in Grand View Estates are two acres. Other permits, including registrations for wells put to use before May 8, 1972, can allow watering of up to one acre of home gardens and lawns.",
+        "So look before you plan. The Division of Water Resources' <a href=\"https://dwr.colorado.gov/services/well-permitting\" target=\"_blank\" rel=\"nofollow noopener\">Well Permit Search</a> opens the file for your well, and that file lists its allowable uses. An artificial lawn takes no irrigation either way."
+      ]
+    },
+    {
+      "icon": "clock",
+      "kicker": "Water under the lot",
+      "h2": "The groundwater here gets used up, not refilled.",
+      "paras": [
+        "Wells in Grand View Estates are mostly finished in the Dawson and Denver aquifers, the upper layers of the Denver Basin (<a href=\"https://grandviewestatesparker.com/geha/\" target=\"_blank\" rel=\"nofollow noopener\">Grandview Estates HOA</a>). The state's <a href=\"https://dwr.colorado.gov/services/well-permitting/denver-basin\" target=\"_blank\" rel=\"nofollow noopener\">Division of Water Resources</a> says that water is not renewable: once it's pumped, it's gone without replacement. Withdrawals are tied to the water under the land, averaging one percent of it a year over an aquifer life of a hundred years.",
+        "That's why the conservation district exists. Voters formed it in November 2007 as a local government, and a 1.5 mill levy on each property has paid for USGS well-level and water-quality monitoring and the defense of water rights (<a href=\"https://gerwcd.colorado.gov/about\" target=\"_blank\" rel=\"nofollow noopener\">GERWCD</a>). Questions about the wells around your lot go to the district at 720-987-9701."
+      ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "Septic",
+      "h2": "Find the leach field before any base goes down.",
+      "paras": [
+        "Homes here use septic systems, which the Douglas County Health Department permits, repairs included (<a href=\"https://grandviewestatesparker.com/geha/\" target=\"_blank\" rel=\"nofollow noopener\">Grandview Estates HOA</a>). Colorado's septic rule, <a href=\"https://la-h-health.colorado.gov/sites/g/files/lrnvjt2201/files/documents/Consolidated%20Reg%2043_05_19_2026.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Regulation 43</a>, restricts what happens on the ground over a system. The soil treatment area must not be damaged or compacted by livestock, vehicles, recreational use or other site development.",
+        "The same rule finishes that area with a cover of soil suitable for vegetation, at least 10 inches deep, graded so stormwater runs away from it. A compacted gravel base under turf is the opposite, so we keep the layout off the tank and the soil treatment area, and slope nearby turf so its runoff heads elsewhere.",
+        "The association lists the Douglas County Health Department at 720-643-2400 for septic and well questions (<a href=\"https://grandviewestatesparker.com/faq/\" target=\"_blank\" rel=\"nofollow noopener\">GEHA FAQ</a>); ask whether it holds a permit record showing where your system sits. On the free visit we mark it, along with the wellhead, paddocks and gravel drives that shape the layout."
+      ]
+    },
+    {
+      "icon": "ruler",
+      "kicker": "The ground",
+      "h2": "Hillside gravel, flat clay loam and a creek bottom.",
+      "paras": [
+        "Inside the census boundary, USDA's soil survey maps the largest share of Grand View Estates as Newlin gravelly sandy loam on 8 to 30 percent slopes. It drains well, but on a slope like that, grade and edging decide whether a lawn stays put. The flatter ground is mostly Fondis clay loam on 1 to 3 percent slopes, reaching 45% clay, and Satanta loam (<a href=\"https://sdmdataaccess.sc.egov.usda.gov/\" target=\"_blank\" rel=\"nofollow noopener\">USDA Soil Data Access</a>).",
+        "A strip of loamy alluvial land runs through the neighborhood as well, and the survey rates it for frequent flooding. The planning text quoted in the association's <a href=\"https://grandviewestatesparker.com/descriptions-grandview-zoning/\" target=\"_blank\" rel=\"nofollow noopener\">2015 zoning letter</a> also refers to the floodplain of Happy Canyon Creek. If your yard runs down into low ground, ask Douglas County whether it sits in a mapped floodplain before a base is built there.",
+        "On the free visit we check which ground you're on, then plan site prep and a base for it: grade and firm edges on the slopes, and a way out for water on the clay."
+      ]
+    },
+    {
+      "icon": "file",
+      "kicker": "Who decides",
+      "h2": "Zoning questions go to Douglas County, not the association.",
+      "paras": [
+        "Grand View Estates sits beside Parker but under Douglas County zoning. The association's 2015 letter says the county zoning map shows it as Estate Residential. <a href=\"/denver-metro/foxfield-co/\">Foxfield</a> is a town that writes its own code; Grand View Estates has no town hall to ask.",
+        "The Grandview Estates Homeowners Association describes itself as a volunteer association, keeps its dues voluntary, and says its board has no authority over enforcing zoning violations (<a href=\"https://grandviewestatesparker.com/faq/\" target=\"_blank\" rel=\"nofollow noopener\">GEHA FAQ</a>). It points zoning concerns to Douglas County Zoning at 303-660-7460. The association does post its original covenants, so read them, and our guide to <a href=\"/guides/colorado-hoa-turf-rules/\">Colorado HOA turf rules</a> covers where state law limits an association's say."
+      ]
+    }
+  ],
+  "services": [
+    "residential-turf",
+    "pet-turf",
+    "putting-greens"
+  ],
+  "servicesNote": "Compare an artificial lawn, a dog area or a backyard putting green laid out around your wellhead, your septic field and the slope of your lot.",
+  "faq": [
+    {
+      "q": "Who installs artificial turf in Grand View Estates, CO?",
+      "a": "We install artificial turf, pet turf and backyard putting greens in Grand View Estates, CO. Homes here run on private wells, whose permits set any outdoor water use, and on septic systems, whose soil treatment areas state rules keep free of compaction, so each layout is planned around both. Call 303-349-2368 for a free estimate."
+    },
+    {
+      "q": "Can I hose off pet turf with water from my well?",
+      "a": "Check your permit first. For a household-use-only permit, <a href=\"https://dnrweblink.state.co.us/dwr/ElectronicFile.aspx?docid=4187690&dbid=0\" target=\"_blank\" rel=\"nofollow noopener\">DWR Guideline 2023-1</a> lists washing decks or other outdoor features as use outside the dwelling, so ask the Division of Water Resources whether rinsing a dog area counts before you rely on it. Our <a href=\"/denver-metro/pet-turf/\">Denver-area pet turf page</a> covers the rest of a dog area's care."
+    },
+    {
+      "q": "If I swap my grass for turf, can I use that water for something else?",
+      "a": "Only with certain Denver Basin permits, and only by re-permitting the well. The guideline lets those permits trade between listed uses, counting 1,000 square feet of home lawn and garden as 0.05 acre-feet a year, but you must file a new permit application and fee, and an unlisted use such as filling a swimming pool can't be traded in (<a href=\"https://dnrweblink.state.co.us/dwr/ElectronicFile.aspx?docid=4187690&dbid=0\" target=\"_blank\" rel=\"nofollow noopener\">DWR Guideline 2023-1</a>)."
+    }
+  ],
+  "nearby": [
+    "stonegate-co",
+    "meridian-co",
+    "lone-tree-co",
+    "foxfield-co"
+  ],
+  "sources": [
+    {
+      "label": "Grandview Estates Rural Water Conservation District: About",
+      "url": "https://gerwcd.colorado.gov/about"
+    },
+    {
+      "label": "Colorado Division of Water Resources: Guideline 2023-1, Uses of Water From Exempt and Small Capacity Wells",
+      "url": "https://dnrweblink.state.co.us/dwr/ElectronicFile.aspx?docid=4187690&dbid=0"
+    },
+    {
+      "label": "Colorado Division of Water Resources: Well Permitting",
+      "url": "https://dwr.colorado.gov/services/well-permitting"
+    },
+    {
+      "label": "Colorado Division of Water Resources: Denver Basin",
+      "url": "https://dwr.colorado.gov/services/well-permitting/denver-basin"
+    },
+    {
+      "label": "Colorado Water Quality Control Commission: Regulation 43, On-Site Wastewater Treatment System Regulation (5 CCR 1002-43), consolidated text effective May 19, 2026",
+      "url": "https://la-h-health.colorado.gov/sites/g/files/lrnvjt2201/files/documents/Consolidated%20Reg%2043_05_19_2026.pdf"
+    },
+    {
+      "label": "Grandview Estates HOA: GEHA resources page",
+      "url": "https://grandviewestatesparker.com/geha/"
+    },
+    {
+      "label": "Grandview Estates HOA: FAQ",
+      "url": "https://grandviewestatesparker.com/faq/"
+    },
+    {
+      "label": "Grandview Estates HOA: Descriptions of Grand View Zoning (October 2015)",
+      "url": "https://grandviewestatesparker.com/descriptions-grandview-zoning/"
+    },
+    {
+      "label": "USDA Soil Data Access (SSURGO, Castle Rock Area survey CO622): map units within the Grand View Estates census boundary",
+      "url": "https://sdmdataaccess.sc.egov.usda.gov/"
+    }
+  ],
+  "publicReferences": [
+    "https://gerwcd.colorado.gov/about",
+    "https://dnrweblink.state.co.us/dwr/ElectronicFile.aspx?docid=4187690&dbid=0",
+    "https://dwr.colorado.gov/services/well-permitting/denver-basin"
+  ],
+  "checked": "2026-09-12"
+}

@@ -1,0 +1,189 @@
+{
+  "intent": "Can I put artificial turf in my yard in Sheridan, Colorado, and which city rules, permits, water provider and fees apply to it?",
+  "distinctValue": "Corrects the research brief. The brief read the City's 2009 zoning PDF (DocumentCenter/View/167, Ord. 1-2009) and the eLaws mirror, and concluded Chapter 56 had no turf rule. The City's own Municipal Code page says the official code is maintained by Municode, and Municode is codified through Ordinance No. 7-2026, enacted April 27, 2026. That ordinance added Sec. 56-516.5, which prohibits artificial turf in new development and redevelopment on 'applicable property' (commercial, institutional, industrial, common interest communities, and residential development of five or more units) except where state law exempts it, and amended Sec. 56-512 so existing development never has to retrofit. Existing single-family dwellings remain exempt from the whole landscaping article, and Sec. 56-516(b) (2009) already said no artificial turf is allowed where the article does apply, which includes HOA common areas. The eLaws mirror also shows an older floodplain article; Municode renumbers it (definitions now Sec. 56-385, permit procedures Sec. 56-388). Everything else on the page is local and unsettled items are framed as questions to a named office: whether artificial turf needs the Plumbing/Mechanical/Landscaping Permit (Permit Technician, 303-438-3302); whether lifting a lawn triggers the Sec. 56-517 landscape-plan requirement for an exempt single-family home; whether a lot is in the special flood hazard area where grading and excavation need a floodplain development permit; how the Sec. 70-85 drainage fee is calculated and whether turf changes it (the code sets the amount by council resolution and gives no method). Also: Denver Water lists the City of Sheridan as a Total Service distributor, and lists a similarly named South Sheridan Water and Sanitary Sewer District separately under Read and Bill. The license line on the building permit form is written only as a question for the city; the page never states or implies the business holds a Sheridan license.",
+  "sources": [
+    {
+      "label": "Sheridan Municipal Code Sec. 56-516.5: restrictions on nonfunctional turf, artificial turf and invasive plant species",
+      "url": "https://library.municode.com/co/sheridan/codes/code_of_ordinances?nodeId=PTIICOOR_CH56ZO_ARTXXIILA_S56-516.5RENOTUARTUINPLSP",
+      "checked": "2026-09-12",
+      "supports": [
+        "Sec. 56-516.5. - Restrictions on nonfunctional turf, artificial turf, and invasive plant species.",
+        "The installation, planting, or placement of nonfunctional turf, artificial turf, or invasive plant species as part of a new development or redevelopment project is prohibited on applicable property, as defined in this article.",
+        "(a) Applicability. The restrictions set forth in this section apply only to new development and redevelopment, as described in section 56-512 (c), and only to applicable property as defined in this article. Nothing in this section shall be construed to require the removal or replacement of lawfully installed landscaping on existing development, except as otherwise expressly required by state law or this Code.",
+        "(c) Artificial turf. Artificial turf is prohibited, except where expressly exempted by state law. Any artificial turf proposed pursuant to a state-law exemption shall be subject to all applicable design, safety, and maintenance standards of this Code and shall require approval as part of a landscape plan.",
+        "( Ord. No. 7-2026 , § 3, 4-27-2026)",
+        "Municode banner for the Sheridan code (Supplement 21 Update 1, online 2026-07-15): \"Codified through Ordinance No. 7-2026, enacted April 27, 2026. (Supp. No. 21, Update 1)\""
+      ]
+    },
+    {
+      "label": "Sheridan Municipal Code Sec. 56-519: landscaping definitions",
+      "url": "https://library.municode.com/co/sheridan/codes/code_of_ordinances?nodeId=PTIICOOR_CH56ZO_ARTXXIILA_S56-519DE",
+      "checked": "2026-09-12",
+      "supports": [
+        "(g) New development means the construction of any improvement on real property requiring the issuance of building permit including but not limited to buildings, structures, streets, roadways, sidewalks, curbs and gutters but excluding construction consisting exclusively of fencing.",
+        "(j) Redevelopment or redeveloped portion means the demolition and replacement of any building or structure or an addition to an existing building or structure resulting in an increase of gross square footage of more than 25 percent. The redeveloped portion of an existing development shall be the portion of the existing development reasonably affected, in the opinion of the building official, by the redevelopment.",
+        "(n) Applicable property means any property within the city that is developed or used for: commercial, institutional, or industrial purposes; a common interest community, including common areas and other property owned or maintained by an owners' association; or residential development consisting of five or more dwelling units.",
+        "(o) Artificial turf means a manufactured surface of synthetic fibers, synthetic blades, or similar materials designed to resemble grass or turf, including infill systems, that is installed or placed in lieu of living ground cover.",
+        "(Ord. No. 7-2009, § 2, 10-28-2009; Ord. No. 7-2026 , § 4, 4-27-2026)"
+      ]
+    },
+    {
+      "label": "Sheridan Municipal Code Sec. 56-512: landscaping applicability",
+      "url": "https://library.municode.com/co/sheridan/codes/code_of_ordinances?nodeId=PTIICOOR_CH56ZO_ARTXXIILA_S56-512AP",
+      "checked": "2026-09-12",
+      "supports": [
+        "(a) Single-family dwellings. Existing attached and detached single-family dwellings and adjacent rights-of-way, except for arterial rights-of-way, shall be maintained so as not to violate Chapter 46 , Article III of this Code, but are otherwise exempt from the requirements of this article. Common areas, such as open space, landscaped tracks, or clubhouse areas, shall comply with the requirements of this article.",
+        "(c) New development and redevelopment. All new development and the redeveloped portion of an existing development shall comply with the requirements of this article.",
+        "(d) Existing development. ... Nothing in this subsection shall be construed to require existing development to retrofit landscaping solely to comply with restrictions applicable only to new development or redevelopment, unless otherwise expressly required by this Code.",
+        "(Ord. No. 7-2009, § 2, 10-28-2009; Ord. No. 7-2026 , § 2, 4-27-2026)"
+      ]
+    },
+    {
+      "label": "Sheridan Municipal Code Sec. 56-516: materials used for landscaping",
+      "url": "https://library.municode.com/co/sheridan/codes/code_of_ordinances?nodeId=PTIICOOR_CH56ZO_ARTXXIILA_S56-516MAUSLA",
+      "checked": "2026-09-12",
+      "supports": [
+        "(b) Prohibited or restricted materials. ... No artificial trees, shrubs, turf or plants are allowed.",
+        "(Ord. No. 7-2009, § 2, 10-28-2009)"
+      ]
+    },
+    {
+      "label": "Sheridan Municipal Code Sec. 56-517: approval of landscaping plan",
+      "url": "https://library.municode.com/co/sheridan/codes/code_of_ordinances?nodeId=PTIICOOR_CH56ZO_ARTXXIILA_S56-517APLAPL",
+      "checked": "2026-09-12",
+      "supports": [
+        "(a) Review process. (1) Sitework . A landscape plan approved by the building official is required prior to any grading, bulldozing or other extensive removal of existing vegetation, other than the construction of a private road or driveway to provide access to a property."
+      ]
+    },
+    {
+      "label": "City of Sheridan: Permit, Planning, and Right of Way Applications",
+      "url": "https://ci.sheridan.co.us/421/Permit-Planning-and-Right-of-Way-Applica",
+      "checked": "2026-09-12",
+      "supports": [
+        "Plumbing/Mechanical/Landscaping Permit application is required for all new installations or replacements.",
+        "Over the counter permits must be payed in FULL.",
+        "For more information, or to schedule an inspection, please email our Permit Technician or call at 303-438-3302.",
+        "Call 303-762-2200 to consult with the Permit Tech, Building Official, a City Planner, or Public Works Director."
+      ]
+    },
+    {
+      "label": "City of Sheridan: building permit application (PDF)",
+      "url": "http://ci.sheridan.co.us/DocumentCenter/View/209",
+      "checked": "2026-09-12",
+      "supports": [
+        "CONTRACTOR NAME: / CITY OF SHERIDAN LICENSE #:",
+        "SUBCONTRACTORS (A General Contractor possessing a City of Sheridan license in classes A-D must be listed if two or more disciplines are working on the project. All subcontractors on project must be licensed in the City of Sheridan and listed below. Please provide firm name, Sheridan license number, contact phone number and email address for each subcontractor)"
+      ]
+    },
+    {
+      "label": "City of Sheridan: applying for a permit as a homeowner",
+      "url": "https://ci.sheridan.co.us/503/Applying-for-a-Permit-as-a-Homeowner",
+      "checked": "2026-09-12",
+      "supports": [
+        "Owner-occupants of single-family homes in Sheridan have the option of applying for residential permits without using a licensed contractor. By signing the homeowner's affidavit you take on the responsibilities for all construction and associated inspections.",
+        "Please note, if you chose to hire individual contractors to assist in your project, those contractors must be licensed with the City of Sheridan."
+      ]
+    },
+    {
+      "label": "City of Sheridan: Municipal Code page",
+      "url": "https://ci.sheridan.co.us/93/Municipal-Code",
+      "checked": "2026-09-12",
+      "supports": [
+        "The City of Sheridan Municipal Code is maintained online by the Municipal Code Corporation of Tallahassee, Florida.",
+        "The page links to http://www.municode.com/resources/gateway.aspx?productid=13923, which redirects to https://library.municode.com/co/sheridan/codes/code_of_ordinances"
+      ]
+    },
+    {
+      "label": "Denver Water: distributors",
+      "url": "https://www.denverwater.org/about-us/how-we-operate/service-area/distributors",
+      "checked": "2026-09-12",
+      "supports": [
+        "Total Service — Under Total Service contracts, Denver Water owns the water system and is responsible for its operation, maintenance and replacement. Denver Water reads each individual customer's meter and bills each individual customer at the established \"Total Service\" rate. In Total Service Areas, water service is provided to the customers in the same manner as that provided to customers inside Denver.",
+        "Total Service Distributors ... Sheridan, City of (Total Service) 303-762-2200",
+        "Read and Bill Distributors ... South Sheridan Water and Sanitary Sewer District 303-381-4960"
+      ]
+    },
+    {
+      "label": "Denver Water: drought (2026 Stage 1)",
+      "url": "https://www.denverwater.org/drought",
+      "checked": "2026-09-12",
+      "supports": [
+        "Stage 1 drought means Denver Water is asking customers to reduce their total water use (outdoors and indoors) by at least 20%",
+        "The Stage 1 drought declaration is in effect from March 25, 2026 through April 30, 2027, or until further notice.",
+        "Beginning Oct. 1: Watering of grass or use of spray irrigation systems are prohibited and will be subject to water-waste violations and charges. Trees, shrubs and other plants may continue to be watered using a hand-held hose with an automatic shutoff nozzle or low-volume irrigation, such as a drip line.",
+        "As drought conditions have worsened, on Aug. 26, the Denver Board of Water Commissioners declared a formal end to lawn watering season beginning Oct. 1."
+      ]
+    },
+    {
+      "label": "Sheridan Municipal Code Sec. 70-85: drainage fees on developed land",
+      "url": "https://library.municode.com/co/sheridan/codes/code_of_ordinances?nodeId=PTIICOOR_CH70ST_ARTIIIDRUTEN_DIV2DRUTFE_S70-85FEESDELA",
+      "checked": "2026-09-12",
+      "supports": [
+        "There is hereby imposed on each and every improved lot and parcel of land within the city a monthly usage fee for drainage services and facilities. For purposes of this section, the term \"improved lot and parcel of land\" shall mean those properties, which contain impervious improvements, such as, by illustration only, driveways, parking lots, residences, buildings and structures.",
+        "(Ord. No. 14-2004, § 2, 9-22-2004)"
+      ]
+    },
+    {
+      "label": "Sheridan Municipal Code Sec. 70-86: fee imposition and appeal",
+      "url": "https://library.municode.com/co/sheridan/codes/code_of_ordinances?nodeId=PTIICOOR_CH70ST_ARTIIIDRUTEN_DIV2DRUTFE_S70-86FEIMAP",
+      "checked": "2026-09-12",
+      "supports": [
+        "(a) Fee amount. The amount of the fee shall be established by resolution of the city council.",
+        "(b) Property owner disputes; petition for hearing. (1) Any property owner who disputes the amount of the fees assessed pursuant to this section shall petition the city manager for a hearing on the assessment no later than 30 days after having been initially billed for such assessment."
+      ]
+    },
+    {
+      "label": "City of Sheridan: design criteria",
+      "url": "https://ci.sheridan.co.us/438/City-of-Sheridan-Design-Criteria",
+      "checked": "2026-09-12",
+      "supports": [
+        "Frost Line Depth: 36 inches",
+        "Flood Hazards: Yes – See Section 56 Article XVII of Sheridan Municipal Code"
+      ]
+    },
+    {
+      "label": "Sheridan Municipal Code Sec. 56-385: floodplain definitions",
+      "url": "https://library.municode.com/co/sheridan/codes/code_of_ordinances?nodeId=PTIICOOR_CH56ZO_ARTXVIIOOOVDI_S56-385DE",
+      "checked": "2026-09-12",
+      "supports": [
+        "Development means any man-made change in improved and unimproved real estate, including but not limited to buildings or other structures, mining, dredging, filling, grading, paving, excavation or drilling operations or storage of equipment or materials.",
+        "Floodplain development permit means a permit required before construction or development begins within any special flood hazard area (SFHA).",
+        "Special flood hazard area means the land in the floodplain within a community subject to a one percent or greater chance of flooding in any given year, for example, the 100-year floodplain."
+      ]
+    },
+    {
+      "label": "Sheridan Municipal Code Sec. 56-388: floodplain permit procedures",
+      "url": "https://library.municode.com/co/sheridan/codes/code_of_ordinances?nodeId=PTIICOOR_CH56ZO_ARTXVIIOOOVDI_S56-388PEPR",
+      "checked": "2026-09-12",
+      "supports": [
+        "Application for a floodplain development permit shall be presented to the floodplain administrator on forms furnished by the administrator and may include, but not be limited to, plans in duplicate drawn to scale showing the location, dimensions, and elevation of proposed landscape alterations, existing and proposed structures, including the placement of manufactured homes, and the location of the foregoing in relation to special flood hazard area."
+      ]
+    },
+    {
+      "label": "Sheridan Municipal Code Sec. 56-432: fence permit required",
+      "url": "https://library.municode.com/co/sheridan/codes/code_of_ordinances?nodeId=PTIICOOR_CH56ZO_ARTXIXFE_S56-432PERE",
+      "checked": "2026-09-12",
+      "supports": [
+        "No person shall erect, alter, construct or reconstruct a fence in the city without first obtaining a permit to do so. No permit is necessary for reconstruction or repair of less than 25 percent of an existing fence which has had a permit."
+      ]
+    },
+    {
+      "label": "Sheridan Municipal Code Sec. 56-436: fences in residential districts",
+      "url": "https://library.municode.com/co/sheridan/codes/code_of_ordinances?nodeId=PTIICOOR_CH56ZO_ARTXIXFE_S56-436GEREALREDI",
+      "checked": "2026-09-12",
+      "supports": [
+        "(a) Fences installed within the front yard shall be not less than 50 percent open and shall not exceed a height of 42 inches above adjoining grade.",
+        "(b) Side yard fences back of the front building line and rear yard fences may be of any class, but shall not exceed a height of six feet."
+      ]
+    },
+    {
+      "label": "Sheridan Municipal Code Sec. 46-236: grass and weeds",
+      "url": "https://library.municode.com/co/sheridan/codes/code_of_ordinances?nodeId=PTIICOOR_CH46NUEN_ARTIXGRWE_S46-236REREEX",
+      "checked": "2026-09-12",
+      "supports": [
+        "It is unlawful, and shall constitute a nuisance for any person who is an owner, owner's agent, occupant, or lessee of any occupied or unoccupied lot or any parcel of land in the city, to ... permit or maintain on any such parcel of land, or lot, any accumulation, collection, presence or growth of any of the following: ... (b) Turf grass or weeds over eight inches in height.",
+        "(Ord. No. 4-2009, § 1, 9-23-2009)"
+      ]
+    }
+  ]
+}

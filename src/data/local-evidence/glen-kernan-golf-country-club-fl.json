@@ -1,0 +1,98 @@
+{
+  "intent": "A Glen Kernan homeowner wants artificial turf, a backyard putting green or a dog area and needs to know what the community's own Architectural Review Board allows, where on the lot it may go, what the request must show, and what Florida law does and does not change for a guard-gated golf community inside the City of Jacksonville.",
+  "distinctValue": "The Jacksonville page, which folded this community in, says nothing about Glen Kernan's own rules. This page leads with Section 5G of the Glen Kernan Architectural Design Standards (released April 7, 2025; first update revised June 22, 2026, opened as a 48-page PDF on 2026-09-12): artificial grass is acceptable only in small rear-yard areas such as around pool decks, spas or putting greens, must be complemented by landscaping, and is prohibited in front and side yards, with artificial plants prohibited outright. It adds the recreational-structures rule that small putting greens need landscape screening and ARB review, the remodeling rule that brings changes to existing landscaping (sod included) under the current standard despite the grandfathering clause, the resident-portal route for existing-home requests, the 20-business-day review target, the 35% lot-coverage cap and pervious/impervious calculations, the easement and conservation-area limits, tree drip-line protection, the ARB's refusal to review drainage (grading changes go to Duval County), the permitted sod varieties and the ban on gravel, sand or rubber mulch as sod substitutes, the irrigation standard, construction hours, and the two manned gates. It explains why Fla. Stat. 720.3045 does not shield turf visible from a community golf course or adjacent parcel, that Fla. Stat. 125.572 and DEP's rule bind local government and not HOAs, and that Fla. Stat. 720.3035 requires a written, specific denial. Unsettled points become questions for the ARB: how big 'small' may be (the standard gives no figure), whether a dog area counts (5G does not name one and the standard says unaddressed topics are not authority to act), whether turf may sit in an easement, how turf counts toward lot coverage, and which irrigation water source a system may use (the section says domestic water only and also sets rules for irrigation wells). No fee amounts, lot prices or resident details are used. The SJRWMD water-shortage page returned 403 on 2026-09-12, so the page states no watering days and links to the Jacksonville page instead.",
+  "sources": [
+    {
+      "label": "Glen Kernan Architectural Design Standards (PDF, released April 7, 2025; revised June 22, 2026)",
+      "url": "https://www.parcgroup.net/hubfs/Glen-Kernan/Glen%20Kernan%20ARB%20Guidelines.pdf?hsLang=en",
+      "checked": "2026-09-12",
+      "supports": [
+        "OFFICIAL RELEASE – APRIL 7, 2025",
+        "FIRST OFFICIAL UPDATE (REVISED) – JUNE 22, 2026",
+        "G. Artificial Grass/Turf 1. Use of artificial grass in small areas in the rear yard such as around pool decks, spas, or putting greens is acceptable.",
+        "a. Small areas with artificial grass should be complemented by landscaping to preserve a natural appearance.",
+        "2. The use of artificial grass in the front or side yard is prohibited.",
+        "3. The use of any artificial plants or other artificial vegetations is prohibited.",
+        "Landscape Review Checklist: ☐ Artificial grass is being used around the pool deck or spa",
+        "As a result, a plan may meet the individual guidelines outlined in this manual but still fail to receive approval if, in the sole judgment of the ARB, its overall aesthetic impact is deemed unsuitable for the community.",
+        "The fact that a topic is not explicitly addressed herein does not constitute authority to act.",
+        "No recreational structure, including but not limited to, basketball backboards, tennis courts, platforms, dog houses, playhouses and play forts, shall be constructed on any part of a Lot without prior approval of the ARB.",
+        "Small putting greens may be allowed with proper landscape screening and must be submitted to the ARB for review.",
+        "Most of the homes in Glen Kernan will be visible from all sides and various angles, particularly if the lot is located on the golf course.",
+        "All home or lot improvements approved prior to this update are grandfathered under previous ARB Guidelines.",
+        "Any changes or renovations to existing structures (including pools, garages, walkways, exterior repainting or re-staining, etc.) and to existing landscaping (including sod, flowers, shrubs/hedges, trees, etc.) are required to meet all criteria established by the Declaration and the provisions of this document.",
+        "Please submit existing ARB requests using the resident portal on the HOA website (glenkernanhoa.connectresident.com).",
+        "Once a submittal is deemed complete: the ARB will strive to approve, disapprove, or provide comments within twenty (20) business days.",
+        "No permitting, site clearing, material deliveries or construction activity of any kind may begin without prior plan approval by the ARB.",
+        "Landscape Plan at 1” = 10 ft scale including a. Required Street Tree(s), drainage arrows, and plant specifications table",
+        "Calculations for total pervious and impervious area and the total lot coverage %.",
+        "The maximum lot coverage percentage for Glen Kernan homesites is 35% and should be calculated in accordance with Duval County standards and policies.",
+        "Submission of the drainage plan is required for reference purposes only. The ARB does not review, evaluate, or approve drainage design. Any changes to the grading plan must be reviewed by Duval County during the permit process.",
+        "It is the Builder’s sole responsibility to ensure the lot is graded in accordance with the Glen Kernan Neighborhood Site Plan as approved by Duval County.",
+        "Permanent structures like patios, pools, or sidewalks cannot be built in these easement areas.",
+        "No fill may be placed within the drip line of trees, and barricaded areas must remain free of parked vehicles and stored materials.",
+        "Parking within the drip line of a preserved tree is prohibited.",
+        "Preserved trees used as credit toward tree planting requirements that are damaged or do not survive for period of 12 months after completion of construction must be replaced.",
+        "Areas within the community designated as “conservation” on the recorded plats and Neighborhood Site Plan are areas governed by the terms and conditions of the environmental permits issued by St. Johns River Water Management District and Army Corps of Engineers.",
+        "These permits prohibit any construction, filling, removal of earth, cutting or removal of trees or other plants within these “conservation” areas.",
+        "No excavation or filling of lakes or jurisdictional areas is permitted without written approval of the ARB and the appropriate regulatory agencies.",
+        "The owner is responsible for maintenance of right of ways, lake banks, jurisdictional area edges, etc. which fall within their lot.",
+        "1. St. Augustine “Floratam”, Bermuda and Zoysia sods are the only acceptable varieties of sod.",
+        "a. Rubber mulch, sand, gravel, rocks, pebbles, etc. are not acceptable alternatives to sod.",
+        "1. All sodded and planted areas must be irrigated.",
+        "3. Irrigation wells must be located within landscape beds, and appropriate landscape material is required around the well to provide full visual screening.",
+        "b. All sodded and ground cover areas shall contain spray pop-up heads.",
+        "e. The system shall be fully automatic and use domestic water only.",
+        "D. Front Yard Guidelines – Applicable to New Lots ... 1. The landscape plan must provide a minimum of one tree for every 750 square feet of front yard area excluding driveway walkway areas and patios/pools.",
+        "5. Approximately 25% (one-quarter) of the front yard area should consist of shrubs and ground covers.",
+        "a. Monday through Saturday: 8:00am to 6:00pm b. No work is allowed on Sunday or Holidays without prior approval."
+      ]
+    },
+    {
+      "label": "Glen Kernan: frequently asked questions",
+      "url": "https://www.parcgroup.net/glen-kernan-frequently-asked-questions",
+      "checked": "2026-09-12",
+      "supports": [
+        "Glen Kernan has an East and West gated entrance. The West Gate is located off Kernan Blvd and the East Gate is located off Hodges Blvd.",
+        "Yes, Glen Kernan has two manned security gates.",
+        "How many homesites are there in Glen Kernan’s final phase and what is the average size? Glen Kernan features 138 estate homesites which are approximately 90’ – 144’ wide and approximately 170’ – 300’ deep.",
+        "Most homesites will be left natural, some lots may be cleared.",
+        "the covenants also includes other provisions such as a prohibition on basketball courts, trampolines, and vehicles parking in the street overnight.",
+        "The neighborhood is located in Jacksonville, Florida and the zip/postal code is 32224."
+      ]
+    },
+    {
+      "label": "Fla. Stat. 720.3045: installation, display, and storage of items",
+      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0700-0799/0720/Sections/0720.3045.html",
+      "checked": "2026-09-12",
+      "supports": [
+        "an association may not restrict parcel owners or their tenants from installing, displaying, or storing any items on a parcel which are not visible from the parcel’s frontage or an adjacent parcel, an adjacent common area, or a community golf course, including, but not limited to, artificial turf"
+      ]
+    },
+    {
+      "label": "Fla. Stat. 125.572: regulation of synthetic turf",
+      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0100-0199%2F0125%2FSections%2F0125.572.html",
+      "checked": "2026-09-12",
+      "supports": [
+        "The Department of Environmental Protection shall adopt minimum standards for the installation of synthetic turf on single-family residential properties 1 acre or less in size.",
+        "a local government may not: 1. Adopt or enforce any ordinance, resolution, order, rule, or policy that prohibits, or is enforced to prohibit, a property owner from installing synthetic turf that complies with Department of Environmental Protection standards adopted pursuant to this section which apply to single-family residential property."
+      ]
+    },
+    {
+      "label": "Florida DEP: Synthetic Turf FAQ",
+      "url": "https://floridadep.gov/sites/default/files/SyntheticTurfFAQ%20final.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "Does this rule regulate Homeowners’ Associations (HOAs) or private deed restrictions? No. This rule does not address HOA requirements, deed restrictions or other private property agreements."
+      ]
+    },
+    {
+      "label": "Fla. Stat. 720.3035: architectural control covenants",
+      "url": "https://www.flsenate.gov/Laws/Statutes/2025/720.3035",
+      "checked": "2026-09-12",
+      "supports": [
+        "If the association or any architectural, construction improvement, or other such similar committee of the association denies a parcel owner’s request or application for the construction of a structure or other improvement on a parcel, the association or committee must provide written notice to the parcel owner stating with specificity the rule or covenant on which the association or committee relied when denying the request or application and the specific aspect or part of the proposed improvement that does not conform to such rule or covenant."
+      ]
+    }
+  ]
+}

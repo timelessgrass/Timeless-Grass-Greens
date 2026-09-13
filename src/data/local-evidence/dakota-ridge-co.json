@@ -1,0 +1,170 @@
+{
+  "intent": "A Dakota Ridge homeowner planning artificial turf wants to know which rules apply in an unincorporated part of Jefferson County: where turf may meet the house under the county's 2026 Wildfire Resiliency Code, what the hogback's dipping bedrock means for the ground under the yard, and which water district's surcharge and season apply to the address.",
+  "distinctValue": "Leads with the Jefferson County Wildfire Resiliency Code, which applies to all unincorporated Jefferson County for permits applied for on or after 1 July 2026 and reaches parcels inside the county's WUI Overlay District map. Where a permit for a new house, an addition, a deck reconstruction (any beam, post or 25% or more of the joists) or re-siding of 25 percent or more of the walls brings the code in, Structure Ignition Zone 1 (0-5 feet; decks count as structures) takes noncombustible, hard surface materials such as rock, gravel, sand, concrete, bare earth or stone/concrete pavers (Sections 502.1.2 and 503.1.2). The code's text layer never names turf, synthetic or artificial surfaces, so the page tells the reader to start turf 5 feet off the house and deck or to seek written approval of an alternative material under Section 104.2.2.2. It reads the county's February 2026 WUI map for the Dakota Ridge area (Class 1 blue between C-470 and Kipling south of Quincy, Class 2 orange west of C-470) while sending readers to the interactive map and Planning & Zoning, and adds from Zoning Resolution Section 39 the Class 2 driveway extension, specialist inspections paid by the applicant, 3-year Defensible Space Permit validity and the boundary-contest route. Second, it places the western part of the community by the county's Designated Dipping Bedrock Area (guide rev. 29 August 2024; western boundary on the hogback's eastern dip slope; band drawn along C-470), with the guide's heaving-bedrock mechanism, the existing-subdivision exemption and the buyer's engineer suggestion, and tells the reader to ask Planning & Zoning about the lot. Third, water: Lakehurst Water and Sanitation District is a Denver Water Master Meter distributor that bills on its own schedules, and its district map takes in streets south of Quincy Avenue that fall inside the Dakota Ridge CDP (checked against Census TIGERweb); its 2026 residential drought surcharge is $1.65 per 1,000 gallons above 5,000 gallons a month, grass watering is prohibited after 30 September 2026, willful violations carry fines up to $2,000, and restrictions and surcharges run through 30 April 2027. Southwest Metro's call-to-confirm line covers the question for other addresses. None of the neighbouring Ken Caryl, Lakewood or Columbine pages carries the county wildfire code, the dipping-bedrock overlay or Lakehurst.",
+  "sources": [
+    {
+      "label": "Wikipedia: Dakota Ridge, Colorado",
+      "url": "https://en.wikipedia.org/wiki/Dakota_Ridge,_Colorado",
+      "checked": "2026-09-12",
+      "supports": [
+        "Unincorporated community in Colorado, US",
+        "Government Type Unincorporated community Body Jefferson County",
+        "Dakota Ridge is bordered to the east by Denver, to the north by Lakewood, and to the south by unincorporated Ken Caryl. It is bordered to the west by the Dakota Hogback, a sharp hogback ridge that to the north near Morrison is also known as Dinosaur Ridge.",
+        "Colorado State Highway 470, part of the beltway around the Denver metropolitan area, runs through the western part of the community, leading north to Golden and southeast to Highlands Ranch."
+      ]
+    },
+    {
+      "label": "Jefferson County Wildfire Resiliency Code (county-hosted accessible PDF, effective July 1, 2026)",
+      "url": "https://www.jeffco.us/DocumentCenter/View/57852/",
+      "checked": "2026-09-12",
+      "supports": [
+        "This Wildfire Resiliency Code shall apply to all unincorporated areas of Jefferson County.",
+        "101.2.1 Date effective. This code shall become effective on July 1, 2026, and shall apply to all permits applied for on or after July 1, 2026.",
+        "303.1 Applicability of Code Provisions. The requirements of this code shall apply to all parcels located within designated wildland-urban interface and intermix areas derived from corresponding fire intensity classifications and ember exposure areas as identified on the Jefferson County Wildland-Urban Interface Overlay District map.",
+        "502.1 Structure Ignition Zone 1 (0-5 feet): Immediate Zone.",
+        "502.1.2 Materials. Use noncombustible, hard surface materials in this zone, such as rock, gravel, sand, concrete, bare earth or stone/concrete pavers.",
+        "502.1.3 Plantings. Remove all plantings including shrubs, slash, combustible mulch and other woody debris.",
+        "503.1.2 Materials. Use noncombustible, hard surface materials in this zone, such as rock, gravel, sand, concrete, bare earth or stone/concrete pavers.",
+        "502.2 Structure Ignition Zone 2 (5-30 feet): Intermediate Zone.",
+        "502.2.6 Prohibited Plants. Juniperus spp. (Juniper species), Thuja occidentalis (American arborvitae), Thuja orientalis (Oriental arborvitae), Quercus gambelii (Gambel oak) are prohibited.",
+        "104.2.2 Alternative materials, design and methods. The provisions of this code are not intended to prevent the installation of any material or to prohibit any design or method of construction not specifically prescribed by this code, provided that any such alternative is not specifically prohibited by this code and has been approved.",
+        "104.2.2.2 Application and disposition. A request to use an alternative material, design or method of construction shall be submitted in writing to the code official for approval. Where the alternative material, design or method of construction is not approved, the code official shall respond in writing, stating the reasons the alternative was not approved.",
+        "NEGATIVE FINDING: the PDF text layer (pdftotext, layout mode) returns zero hits for \"turf\", \"synthetic\" and \"artificial\", in this county-hosted copy and in the copy the Town of Morrison hosts (https://morrisonco.us/DocumentCenter/View/2931/Jefferson-County-Wildfire-Resiliency-Code-2026). The Zone 1 materials list names rock, gravel, sand, concrete, bare earth and stone/concrete pavers only, after \"such as\", so the page says turf is not on the list and routes a closer edge to a written alternative-material request rather than stating turf is allowed or banned."
+      ]
+    },
+    {
+      "label": "Jefferson County: Defensible Space & Structure Hardening (Wildfire Resiliency Code overview and FAQ)",
+      "url": "https://www.jeffco.us/2672/Defensible-Space-Wildfire-Mitigation",
+      "checked": "2026-09-12",
+      "supports": [
+        "On March 10, 2026, the Jefferson County Board of County Commissioners (BCC) approved the WRC, updates to Zoning Resolution Section 39 Wildland Urban Interface Overlay District, and a new Wildland Urban Interface (WUI) Overlay District map.",
+        "The WRC and associated updates are effective as of July 1, 2026.",
+        "The WRC is not retroactive. It applies to the construction of new buildings and the exterior alteration of existing buildings such as building additions, deck replacements, re-siding, and re-roofing.",
+        "The WRC only applies to unincorporated properties located in the Jefferson County WUI.",
+        "Please use the online map to see if your property is located within the Jefferson County WUI or contact Jefferson County Planning & Zoning for assistance. The map and WRC only apply to unincorporated Jefferson County. If your property is light or dark blue, then you are located within WUI Class 1. If your property is orange, then you are located within WUI Class 2.",
+        "If someone is replacing their entire roof and their property is located within the WUI, the new roof will need to follow the roofing standards in WRC Chapter 4. No defensible space is required for re-roofing.",
+        "The reconstruction, replacement, alteration, or repair of the exterior walls of an existing building, when less than 25 percent of the surface area of all exterior walls is affected.",
+        "Zone 1 is 0-5 feet from a structure. (Decks are considered structures as well.) Zone 2 is 5-30 feet and Zone 3 is 30-100 feet from a structure.",
+        "Defensible space within Zone 3 only applies to properties within Class 2, which is a higher wildfire risk area.",
+        "Space tree crowns a minimum of 6-10 feet apart",
+        "No Junipers, Arborvitae, or Gambel oak plants",
+        "Do I need a permit if I'm only replacing my deck floor surface (the decking planks)? No, however, if you replace any beam, post, and/or 25% or more of the deck joists, it is considered deck reconstruction which requires a permit and the deck will have to be reconstructed to meet the WUI Structural Hardening and Defensible Space requirements for new decks.",
+        "Defensible space is assessed by a private contractor defined in the WRC as a Wildfire Mitigation Specialist (Specialist)*. The property owner is responsible for hiring a County-approved Specialist to conduct the inspections.",
+        "The Specialist would conduct an initial inspection to inform the property owner what work needs to be done to meet the County's defensible space requirements.",
+        "There is no fee charged by the County for defensible space.",
+        "Defensible Space Questions: Contact Planning & Zoning ... Call 303-271-8700"
+      ]
+    },
+    {
+      "label": "Jefferson County: Wildland Urban Interface (WUI) Overlay for Unincorporated Jefferson County, Colorado, February 2026 (PDF map)",
+      "url": "https://www.jeffco.us/DocumentCenter/View/58294/",
+      "checked": "2026-09-12",
+      "supports": [
+        "Wildland Urban Interface (WUI) Overlay for Unincorporated Jefferson County, Colorado February 2026",
+        "WUI Overlay Type: Class 2 Intermix; Class 1 Interface Perimeter; Class 1 Interface Interior",
+        "MAP READING (PDF rendered at 200 dpi and read by eye; not a text quote): between C-470 and Kipling St. (grid 10000 W), from Quincy Av. (4300 S) south to Chatfield Av. (8300 S), most blocks are shaded light blue (Class 1 Interface Perimeter) or dark blue (Class 1 Interface Interior), with some blocks left white; immediately west of C-470, along the hogback, the shading is orange (Class 2 Intermix). The PDF shows no parcel lines, so the page says much of that ground is Class 1 and sends readers to the interactive map or Planning & Zoning for their own lot. The interactive map was not queried."
+      ]
+    },
+    {
+      "label": "Jefferson County Zoning Resolution, Section 39: Wildland Urban Interface Overlay District (amended 03-10-26)",
+      "url": "https://www.jeffco.us/DocumentCenter/View/2474/",
+      "checked": "2026-09-12",
+      "supports": [
+        "Section 39 - Wildland Urban Interface Overlay District",
+        "For the purposes of defensible space for properties within the Class 2 Intermix as shown on the WUI Overlay Map and referenced in the Jefferson County Wildfire Resiliency Code, Structure Ignition Zone 2 mitigation standards shall extend 10-feet on each side of the driveway.",
+        "A final inspection shall be completed and compliance documentation shall be submitted to the County by a Wildfire Mitigation Specialist before a permit can be issued or before a Certificate of Occupancy or Final Approval can be issued for the newly created structure or addition. The cost of inspection and certification shall be borne entirely by the permit applicant.",
+        "A completed Defensible Space Permit shall be valid for a period of 3 years.",
+        "In all cases, a person contesting the location of the WUI Overlay District boundary or the severity of conditions at a specific location within the WUI Overlay District shall be given a reasonable opportunity to present their case to the Director of Planning and Zoning and shall submit forestry and topographic evidence to support such contests. The Director of Planning and Zoning shall not allow deviations from the boundary line as mapped. A change to the WUI Overlay District boundary is a regulatory change that must be approved by the Board of County Commissioners."
+      ]
+    },
+    {
+      "label": "Jefferson County: Designated Dipping Bedrock Area Guide (rev. 08-29-2024)",
+      "url": "https://www.jeffco.us/DocumentCenter/View/2074/Designated-Dipping-Bedrock-Area-Guide-PDF",
+      "checked": "2026-09-12",
+      "supports": [
+        "The Designated Dipping Bedrock Area (DDBA) defines an area of Jefferson County where heaving bedrock is possible under certain geological and human-influenced conditions.",
+        "In such areas, ridges of \"heaving bedrock,\" as large as two feet high, several tens of feet wide, and several hundreds of feet long have been mapped. The ridges form where adjacent, dipping layers of bedrock, each possessing a different potential for expansion, are exposed to water.",
+        "We see damage from heaving bedrock typically within ten years after development and ground deformations may continue for years or decades.",
+        "Existing subdivisions are not subject to most of the overlay district regulations. However, large additions or remedial, structural repair work may be subject to minimum foundation-design standards and special review of the Building Safety Department.",
+        "Potential home buyers should be aware that the distribution of areas of damage within the DDBA may be erratic. A home that exhibits structural damage may be next to other homes that have no damage.",
+        "When purchasing an existing home within the map area, or any other expansive soil area, the buyer may want to have an engineer conduct a detailed evaluation of the home to ensure that it is structurally sound.",
+        "The western boundary corresponds to the contact between the Graneros Shale and underlying Dakota Sandstone on the eastern dip slope of the Hogback ridge",
+        "Bedrock layers underlying the DDBA dip to the east or northeast at 30 to 90 degrees from horizontal.",
+        "Designated Dipping Bedrock Area Guide | Page 4 of 4 rev. 08-29-2024",
+        "MAP READING (page 4, 'Area of Potential Heaving Bedrock Associated with Expansive, Steeply Dipping Bedrock in Jefferson County, Colorado', rendered and read by eye): the hatched band runs along C-470 from south of Morrison past W Bowles Ave, W Ken Caryl Ave and Chatfield Ave toward Littleton. With Wikipedia placing C-470 in the western part of Dakota Ridge and the hogback on its western border, the western part of the community lies along the band. The map shows no parcel lines, so the page does not say any given lot is inside and tells readers to ask Planning & Zoning."
+      ]
+    },
+    {
+      "label": "Jefferson County Planning & Zoning: Geology",
+      "url": "https://www.jeffco.us/2712/Geology",
+      "checked": "2026-09-12",
+      "supports": [
+        "Dipping Bedrock An area of potential heaving bedrock associated with expansive, steeply dipping bedrock in Jefferson County. Please reference our Designated Dipping Bedrock Area Guide (PDF) and the Dipping Bedrock Section of the Zoning Resolution for more information.",
+        "Contact Us Planning & Zoning Division Physical Address 100 Jefferson County Parkway Suite 3550 Golden, CO 80419 Phone 303-271-8700"
+      ]
+    },
+    {
+      "label": "Denver Water: distributors in its service area",
+      "url": "https://www.denverwater.org/about-us/how-we-operate/service-area/distributors",
+      "checked": "2026-09-12",
+      "supports": [
+        "Outside the City and County of Denver, Denver Water provides residential water service through contractual relationships with distributors.",
+        "Master Meter — A Master Meter distributor owns and is responsible for construction, operation, maintenance, and replacement of its water system. Denver Water delivers water to the distributor through one or more master meters and bills the distributor at the established \"Wholesale (Master Meter)\" rate. The Distributor, not Denver Water, is responsible for reading the meters of its individual customers and for billing its individual customers according to rate schedules established by the Distributor.",
+        "Master Meter Distributors ... Lakehurst Water and Sanitation District 303-985-7895",
+        "Read and Bill Distributors ... Southwest Metropolitan Water and Sanitation District 303-979-2333"
+      ]
+    },
+    {
+      "label": "Lakehurst Water and Sanitation District: District Map",
+      "url": "https://lakehurstwater.org/about-us/district-map/",
+      "checked": "2026-09-12",
+      "supports": [
+        "LAKEHURST WATER & SANITATION DISTRICT BOUNDARY (map image MapForWebSite.jpg on the District Map page)",
+        "MAP READING (read by eye): the shaded district runs from the C-470 / US-285 interchange east between W Hampden Ave and W Quincy Ave toward S Wadsworth Blvd, with a western lobe south of W Quincy Ave between C-470 and S Simms St (S Eldridge St, S Youngfield St, S Ward Way, W Temple Dr, W Chenango Dr) and a southern lobe between S Simms St and S Kipling Pkwy reaching past W Belleview Ave to about W Brandt Pl. The page therefore says the map takes in neighborhoods south of Quincy Avenue between Kipling Parkway and C-470, not that it covers all of Dakota Ridge.",
+        "Lakehurst District Office 7995 W Quincy Ave Littleton CO 80123 303-985-7895"
+      ]
+    },
+    {
+      "label": "Lakehurst Water and Sanitation District: Drought (restrictions and Drought Surcharge Letter dated May 10, 2026)",
+      "url": "https://lakehurstwater.org/drought/",
+      "checked": "2026-09-12",
+      "supports": [
+        "Watering Grass Prohibited as of October 1, 2026",
+        "The mandatory watering restrictions and surcharges remain in effect through April 30, 2027, with the new additional rule of grass watering being prohibited after September 30, 2026.",
+        "Spray irrigation after September 30 is an unauthorized use of water and a willful violation of the water use restrictions. Willful violations are subject to fines up to $2,000, installation of a flow restrictor, and suspension of water service.",
+        "The Lakehurst Water and Sanitation District has implemented Denver Water's Mandatory Drought Restriction Program.",
+        "Drought Surcharge Letter May 10, 2026",
+        "The surcharge will be a separate charge on the bill starting in June for May consumption. Lakehurst has determined, based on average use, the AWC for all residential customers to be 5,000 gallons per month. Any use over that amount will be assessed an additional surcharge of $1.65 per 1,000 gallons.",
+        "NOT QUOTED: the odd/even watering-day table renders as icons with no text, so the page gives no watering days."
+      ]
+    },
+    {
+      "label": "Southwest Metropolitan Water and Sanitation District: District Boundary Map",
+      "url": "https://swmetrowsdco.gov/district-boundary-map",
+      "checked": "2026-09-12",
+      "supports": [
+        "Southwest Metropolitan Water and Sanitation District provides water distribution and wastewater collection services to approximately 18,000 residences and businesses in western Arapahoe, eastern Jefferson, and northern Douglas Counties. To verify if you are within the district boundaries, contact the office at 303-979-2333",
+        "NOT CONFIRMED: the boundary map image on this page is a 300 x 200 thumbnail, so whether the district serves any Dakota Ridge address was not established; the page only repeats the district's own call-to-confirm line."
+      ]
+    },
+    {
+      "label": "U.S. Census Bureau TIGERweb: Places, County Subdivisions (identify queries)",
+      "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer",
+      "checked": "2026-09-12",
+      "supports": [
+        "identify at -105.129, 39.622 (Wikipedia's coordinates for the CDP): Census Designated Places=Dakota Ridge CDP",
+        "identify at -105.135, 39.632 (approximate point in Lakehurst's western lobe, south of W Quincy Ave): Census Designated Places=Dakota Ridge CDP",
+        "identify at -105.118, 39.620 (approximate point in Lakehurst's southern lobe near S Simms St and W Belleview Ave): Census Designated Places=Dakota Ridge CDP",
+        "identify at -105.14, 39.61 (W Bowles Ave near C-470, outside Lakehurst's mapped boundary): Census Designated Places=Dakota Ridge CDP",
+        "identify at -105.105, 39.596 (W Coal Mine Ave near S Kipling St): Census Designated Places=Ken Caryl CDP",
+        "Points were placed from the Denver street grid, not geocoded addresses, so they support 'Lakehurst's map takes in streets inside Dakota Ridge' and 'not every Dakota Ridge address is in Lakehurst', not any single address."
+      ]
+    }
+  ],
+  "unresolved": [
+    "Whether a given Dakota Ridge parcel is in the WUI Overlay District, and which class: the February 2026 PDF has no parcel lines and the interactive map was not queried. The page sends readers to the interactive map and Planning & Zoning (303-271-8700).",
+    "Whether synthetic turf can be approved inside Structure Ignition Zone 1: the code does not name turf; the page routes the question to a written alternative-material request under Section 104.2.2.2.",
+    "Whether a given lot is inside the Designated Dipping Bedrock Area: the guide's map has no parcel lines; the page tells readers to ask Planning & Zoning.",
+    "Which water districts other than Lakehurst serve Dakota Ridge addresses: not established. The page tells readers to read the district name on the bill and repeats Southwest Metro's call-to-confirm line."
+  ]
+}

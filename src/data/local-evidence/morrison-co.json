@@ -1,0 +1,103 @@
+{
+  "intent": "Morrison is a home rule town with its own Land Use Code. Does that code allow artificial turf, what does a homeowner have to do before a turf project, and when do the Town's floodplain and grading rules reach a yard on Bear Creek or a hillside?",
+  "distinctValue": "REPAIRED 2026-09-13, after a weak-repairs 'distinct' verdict: the prior draft led with the turf clause (true everywhere in the market) and quoted grading/floodplain/Substantial-Improvement standards the page's own sources scope to subdivision, site plan and structure applications, not an ordinary backyard swap. The repair reorganizes around what actually changes for a Morrison buyer: (1) the code's STRUCTURE definition (Art. F) excepts \"paved areas, walks, tennis courts, and similar outdoor areas\" from the definition of a structure, so a turf lawn, dog run or putting green plausibly reads as an outdoor area rather than a structure — stated as an inference (\"reads the same way\", \"probably not\"), not a quoted answer, with the FAQ pointing the reader to ask staff for it in writing, since the code never names turf or putting greens under that exception; (2) the inquiry form and Article D's application standards (D.1: new development, subdivisions, Substantial Improvement) don't fit a project that is neither, so most backyard turf needs no Town application at all — the previous draft's h2 (\"Every project starts with the Town's inquiry form\") overstated this; (3) the 3:1 grading rule and terracing are now scoped explicitly to subdivision/site-plan applications rather than presented as general yard rules; (4) the 80465/Jefferson-County caveat (already the strongest local fact per the review) is promoted higher and framed as the first check — Title 10 only binds lots inside Town limits, checked on the 2025 zoning map; (5) the Bear Creek/1874 fact is kept but tied causally to why the Town maps a flood hazard area, instead of standing alone as trivia; (6) the HOA/business FAQ and putting-green FAQ are reworded from scratch (not copied from the prior draft) to avoid the near-duplicate phrasing the review flagged against Golden's and Lakewood's FAQs. No new sources were opened; every claim in the repaired page traces to quotes already on file below. RESOLVED 2026-09-12 (unchanged terms, still true): Morrison's Land Use Code (Title 10, Ord. No. 553) names artificial turf directly: Art. D.7(f)iii bans artificial trees, shrubs and plants \"(not including artificial turf)\". The same wording is in the draft on the 18 June 2024 agenda, so the carve-out held through the rewrite. ADOPTION CHECKED: the ordinance copy on the 20 May 2025 agenda has a blank adoption date, but the 20 May 2025 minutes, printed in the 3 June 2025 Board packet, record a motion to adopt Ordinance No. 553 and say all members present voted aye. The two changes in that motion (a hotel limit in MX-N and a shorter exterior-lighting deadline) don't touch landscaping, floodplain, grading, fences or definitions. The standalone minutes PDFs are Xerox scans with no text layer, so the packet copy is the one quoted. The exhibit still says \"This Chapter shall become effective on June 18, 2024\", which looks carried over from the draft, so the page gives the adoption vote date and no effective date. What else the page takes from the code: 50 percent native plants and low-water non-natives on a development site (D.7(f)); Article D applies to new development, subdivisions and Substantial Improvement (30 percent of a structure's market value); development is any man-made change to real estate; a floodplain development permit before new development in a FEMA special flood hazard area, including LOMR-F land (D.4(a), E.4(f)), decided by Staff with appeal to the Board at a public hearing (Table E-1); floodway no-rise rule; grading limits of 3:1, terracing at 20-foot vertical intervals, five-foot benches, 3:1 within 20 feet of a property line (D.4(d)); minor site plan triggers (E.4(b)); ten business days for completeness (E.2(g)); referral agencies including Mile High Flood District; the structure definition's exception for paved areas, walks, tennis courts and similar outdoor areas; the impervious surface definition naming plastic and gravel; fence heights (D.9). The Planning & Zoning page makes the Planning & Development Inquiry Form a prerequisite to meeting staff or applying. The Public Works page makes the Town the water and sewer utility with Bear Creek as raw water source. Wikipedia supplies the 80465 ZIP caveat (about 5,000 addresses, many in unincorporated Jefferson County) and the 1874 platting on Bear Creek. None of this is on the Lakewood, Golden or Ken Caryl pages. NOT USED: (1) the adopted codified text on American Legal (codelibrary.amlegal.com) returned a Cloudflare 403, so the page quotes the agenda copy and names it; (2) the Inquiry Form page itself (/423/Planning-Development-Inquiry) returned 403, so the page relies on the Planning & Zoning page's description; (3) FEMA's Map Service Center did not connect, so the page doesn't say which lots are mapped and sends the reader to the Town; (4) no Town watering rules are stated, because the April 2026 watering notice could not be opened and the Other Water Districts link returns 404; (5) Town office hours differ between the Planning page (8:00am to 4:30pm) and the footer (8:30 am - 4:30 pm), so no hours are given.",
+  "sources": [
+    {
+      "label": "Town of Morrison: Planning & Zoning",
+      "url": "https://www.morrisonco.us/152/Planning-Zoning",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"Interested in a planning or development project in Morrison? All planning & development applications must submit a Planning & Development Inquiry Form.\"",
+        "\"The form ensures staff can best assist with your inquiry and route it accordingly. The information you share will determine the next steps including application type and what information is required for a complete application. This form is required prior to meeting with staff or submitting an application.\"",
+        "Links listed on the page: \"Title 10 Land Use Code 2025\", \"Morrison Zoning Map 2025\", \"Engineering Design Standards 2024\".",
+        "Administration: \"321 Colorado Highway 8, Morrison, CO 80465\"; \"Phone: 303-697-8749\"."
+      ]
+    },
+    {
+      "label": "Town of Morrison: Ordinance No. 553 and the Land Use Code (Title 10), 20 May 2025 Board of Trustees agenda",
+      "url": "https://www.morrisonco.us/AgendaCenter/ViewFile/ArchivedAgenda/_05202025-734",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"ORDINANCE NO. 553 AN ORDINANCE AMENDING TITLES 7 AND 10 OF THE MORRISON MUNICIPAL CODE REGARDING LAND USE REGULATIONS\"; \"the Town of Morrison is a Colorado home rule municipality operating under a Home Rule Charter\"; adoption line reads \"this ____ day of ________ 2025\".",
+        "D.7(f)i: \"A minimum of 50 percent of the plants on a development site shall be native species.\"",
+        "D.7(f)ii: \"Any non-native plant species shall have low water usage and be drought tolerant and freeze resistant.\"",
+        "D.7(f)iii: \"Artificial trees, shrubs, or plants (not including artificial turf) shall be prohibited.\"",
+        "D.7(f)iv(1): \"No one plant species shall comprise more than 50 percent of the quantity of required landscape materials.\"",
+        "D.1: \"The requirements of this Article apply to all new developments and subdivisions, and Substantial Improvement of existing development unless specifically stated otherwise in this Article.\"",
+        "Art. F: \"DEVELOPMENT Any man-made change to improved or unimproved real estate, including a change in use or the creation of a subdivision.\"",
+        "Art. F: \"SUBSTANTIAL IMPROVEMENT Any reconstruction, rehabilitation, addition, or other improvement of a structure, the cost of which equals or exceeds 30 percent of the market value of the structure before the start of construction of the improvement.\"",
+        "D.4(a)i-ii: \"All new development and Substantial Improvements to existing development in a special flood hazard area as delineated by the most recent report available from the Federal Emergency Management Agency (FEMA) and areas removed from the floodplain by the issuance of a FEMA letter of map revision based on fill (LOMR-F) shall comply with the standards in this section.\" \"A floodplain development permit issued pursuant to Article E.4(f) shall be required prior to any new development or Substantial Improvement that is subject to this Section.\"",
+        "D.4(a)iii(1): \"No channelization or flow diversion projects shall be permitted unless the applicant establishes that no adverse impact to adjoining properties will occur and the historic flow with the same flow characterizations are established upon completion of the channelization or diversion.\"",
+        "D.4(a)iii(2): \"No new development or Substantial Improvement shall occur in a designated floodway unless the applicant demonstrates through hydrologic and hydraulic analyses performed by a licensed Colorado professional engineer that the proposed encroachment would not result in any increase in flood levels within the Town during the occurrence of the base flood discharge.\"",
+        "Table E-1: \"Floodplain Development Permit Article E.4(f) D <A>\" under Staff and Board of Trustees; legend: \"D = Review and Decision; A = Appeal; < > = Public Hearing Required\".",
+        "D.4(c)i: \"This Section shall apply to all subdivision and site plan applications that propose to increase impervious surface area.\"",
+        "D.4(d)i: \"This Section shall apply to all subdivision and site plan applications that include any land-disturbing activity that requires the grading of slopes except the construction of public trails.\"",
+        "D.4(d)ii(1)-(2): \"All unarmored and structurally unretained graded slopes and fills shall be limited to a 3:1 grade (three feet horizontal to one foot vertical).\" \"Any graded or fill slope which exceeds a 3:1 grade shall be required to use universally accepted armoring techniques, or retaining structures as approved by the Town Engineer or, at the developers expense, certification by a licensed professional engineer stating that the slopes can be stabilized by plantings, vegetative seeding, mulching.\"",
+        "D.4(d)ii(3)-(4): \"Any graded or fill slope which exceeds a 3:1 grade shall be terraced at 20-foot vertical intervals. Slopes graded between 2:1 and 3:1 shall have a minimum bench width of five feet. Slopes steeper than 2:1 shall have a minimum bench width of five feet\" \"Maximum slopes proposed within a minimum of 20 feet of an established property line or any required setback adjacent to a property line shall be 3:1 tying into existing grades along perimeter or property line of the site or retained via retaining walls or other acceptable measures.\"",
+        "E.4(b)i: \"A minor site plan is required for any of the following activities: (1) Construction of accessory structures of less than 200 square feet; (2) Construction of a sign; (3) A change in use that involves or requires site improvements; (4) Expansions, alterations, or modifications that increase the gross floor area of an existing structure by no more than 25 percent; and (5) The alteration of any vehicular parking area.\"",
+        "E.2(g)i-ii: \"Staff shall determine whether the application is complete or incomplete within ten business days of submittal.\" \"Staff shall distribute the complete application to appropriate staff and review agencies, which may include: ... (6) Mile High Flood District\".",
+        "Art. F: \"STRUCTURE ... any piece of work artificially built up or composed of parts joined together in some definite manner, which is located on or in the ground ... Paved areas, walks, tennis courts, and similar outdoor areas and fences or walls two feet or less in height are excepted.\"",
+        "Art. F: \"IMPERVIOUS SURFACE Any surface artificially covered or hardened to prevent or impede the percolation or absorption of water into the ground, including but not limited to asphalt, concrete, roofing material, brick, plastic, gravel, or swimming pools.\"",
+        "D.9(a): \"Walls and fences in front yards shall not exceed four feet in height\"; \"Walls and fences in side or rear yards shall not exceed six feet in height\"; \"Fences constructed on top of a retaining wall shall be permitted an additional two feet of height above the applicable requirement.\"",
+        "D.4(c)iii(4): \"No fences or structures shall be constructed across an open drainage channel or easement that will reduce or restrict the flow of water unless part of an approved retention or detention facility or a revocable permit has been approved to allow the fence or structure.\"",
+        "Table B-1 zoning districts: RR Rural Residential, RE Residential Estate, R1 Low-Density Residential, R2 Medium-Density Residential, HD Historic Downtown, MX-N Mixed Use Neighborhood, LI Light Industrial, PD Planned Development (eight). \"The HD district is intended for a mix of residential and commercial uses that seek to preserve and enhance the historic downtown character of the Town.\""
+      ]
+    },
+    {
+      "label": "Town of Morrison: 3 June 2025 Board of Trustees packet, with the 20 May 2025 minutes",
+      "url": "https://www.morrisonco.us/AgendaCenter/ViewFile/Agenda/_06032025-1027",
+      "checked": "2026-09-12",
+      "supports": [
+        "Consent agenda: \"a. Minutes i. May 20, 2025\"; minutes heading \"REGULAR MEETING OF THE BOARD OF TRUSTEES TUESDAY, MAY 20, 2025\".",
+        "\"a. Ordinance 553- Amending Title 7 and 10 of the Morrison Municipal Code.\" \"Mayor Wolfe opened the Ordinance 553- Amending Title 7 and 10 of the Morison Municipal Code Regarding Land Use Regulations Public Hearing at 7:08 P.M.\"",
+        "\"A motion was made by Trustee Sutton to adopt Ordinance NO. 553- AN ORDINANCE AMENDING TITLES 7 AND 10 OF THE MORRISON MUNICIPAL CODE REGARDING LAND USE REGULATIONS with the following changes: one hotel in the MX-N District with a ninety-hotel room limit and shortening the non-conforming deadline for exterior lighting to one year. The motion was seconded by Trustee Way. All members present voted aye. The motion carried.\""
+      ]
+    },
+    {
+      "label": "Checked, not linked on the page: Town of Morrison, 18 June 2024 agenda, draft Title 10 Land Use Code",
+      "url": "https://www.morrisonco.us/AgendaCenter/ViewFile/Agenda/_06182024-967",
+      "checked": "2026-09-12",
+      "supports": [
+        "Draft D.6(f)iii: \"Artificial trees, shrubs, or plants (not including artificial turf) shall be prohibited.\" The carve-out predates Ordinance No. 553.",
+        "Draft A.4: \"This Chapter shall become effective on June 18, 2024.\" The same sentence survives in the May 2025 exhibit, so the page states no effective date."
+      ]
+    },
+    {
+      "label": "Town of Morrison: Engineering Design Standards and Specifications, revised September 2024",
+      "url": "https://www.morrisonco.us/DocumentCenter/View/2797/Engineering-Design-Standards-2024",
+      "checked": "2026-09-12",
+      "supports": [
+        "Cover: \"ENGINEERING DESIGN STANDARDS AND SPECIFICATIONS TOWN OF MORRISON REVISED SEPTEMBER 2024\".",
+        "Part I, Section 3.D, Natural Contours: \"In all subdivision design, the natural contours of the land should be preserved whenever feasible. Grading, overlot grading, scarring of natural terrain features, and other topographical changes shall be kept to a minimum to preserve drainage patterns. The removal of vegetation is to be minimized as is the impact on the aesthetics of the special terrain in Morrison.\""
+      ]
+    },
+    {
+      "label": "Town of Morrison: Official Zoning Map 2025",
+      "url": "https://www.morrisonco.us/DocumentCenter/View/2796/Morrison-Zoning-Map-2025",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"OFFICIAL ZONING MAP\"; \"This is the official zoning map of the Town of Morrison, County of Jefferson, State of Colorado\"; legend lists RR - Rural Residential, RE - Residential Estate, R1 - Low Density Residential, HD, MX-N, PD."
+      ]
+    },
+    {
+      "label": "Town of Morrison: Public Works Department",
+      "url": "https://www.morrisonco.us/157/Public-Works-Department",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"The citizens of Morrison rely on the Public Works Department to provide safe and reliable streets, grounds, buildings, water and sewer services.\"",
+        "\"Bear Creek is Morrison's raw water source. Water diverted from Bear Creek is treated at a state of the art membrane filtration plant. Depending on the volume of flow in Bear Creek, raw water can be stored at 2 off stream reservoirs for use during periods of drought or during episodes of poor water quality in Bear Creek.\"",
+        "Contact: \"Phone: 303-697-8749\"."
+      ]
+    },
+    {
+      "label": "Wikipedia: Morrison, Colorado",
+      "url": "https://en.wikipedia.org/wiki/Morrison,_Colorado",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"Morrison is a home rule municipality in Jefferson County, Colorado, United States.\"",
+        "\"George Morrison later moved south to Bear Creek, where he founded the Morrison Stone, Lime, and Town Co., and in 1874 platted the town that became known as Morrison, or briefly as Mt. Morrison.\"",
+        "\"The Morrison postal ZIP code (80465) extends west up Turkey Creek Canyon and south of the town. It thus applies to an area covering approximately 5,000 addresses. Because the Morrison Post Office serves this large area beyond the town boundaries proper, many events and people connected with \\\"Morrison\\\" are actually in unincorporated portions of Jefferson County.\""
+      ]
+    }
+  ]
+}

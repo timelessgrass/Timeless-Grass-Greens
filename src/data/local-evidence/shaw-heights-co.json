@@ -1,0 +1,118 @@
+{
+  "intent": "I live in Shaw Heights with a Westminster address and Westminster water. Do Westminster's artificial turf rules decide where turf can go in my yard, and if not, whose rules do, and who do I ask?",
+  "distinctValue": "Shaw Heights is unincorporated Adams County, and Westminster's own 2025 and 2026 water rate sheets bill it as a separate customer class (Shaw Heights 1.10 against In City 1.0 and Out of City 1.25). So the Westminster landscape regulations that the Westminster page presents (turf only in yard areas not adjacent to a street, park or open space) are city rules that do not govern the lot. What governs it is the Adams County Development Standards and Regulations: 4-19-04-01 says no artificial turf shall be used as a landscape material, but 4-19-02 applies that section only to new development and to existing development needing a change in use permit, so a re-landscape of an existing house is an open question for the county's Planner of the Day, with a zoning verification application as the formal route. Time-sensitive and local only to unincorporated Adams County: the Development Standards Overhaul draft (case PRC2026-00016) keeps the turf line, adds a functional-use test, says Div. 4-04 generally applies to new construction, and goes to hearings on 22 October and 17 November 2026 with a 1 January 2027 start if adopted. Also local: Shaw Heights' own Westminster water tiers, sewer billed on average winter use, and USDA soil at the centre of the CDP (Platner loam, 3 to 5 percent slopes, smectitic, clay reaching 40% with linear extensibility of 7.3).",
+  "sources": [
+    {
+      "label": "City of Westminster: water rates, 2025 and 2026 (PDF)",
+      "url": "https://www.westminsterco.gov/Archive/ViewFile/Item/165",
+      "checked": "2026-09-12",
+      "supports": [
+        "City of Westminster Water Rates",
+        "WATER (Per 1,000 Gallons) 2025 In City (1.0) Shaw Heights (1.10) Out of City (1.25)",
+        "WATER (Per 1,000 Gallons) 2026 In City (1.0) Shaw Heights (1.10) Out of City (1.25)",
+        "2026 Residential (Single Family) Tier 1 (1,000 - 8,000 gallons) $ 4.20 $ 4.62 $ 5.25",
+        "2026 Tier 2 (9,000 - 40,000 gallons) $ 7.66 $ 8.43 $ 9.58",
+        "2026 Tier 3 (Over 41,000 gallons) $ 9.58 $ 10.54 $ 11.98",
+        "SEWER (Per 1,000 Gallons Average Winter Use)* 2026 In City (1.0) Shaw Heights (1.0) Out of City (1.25)"
+      ]
+    },
+    {
+      "label": "Shaw Heights, Colorado (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Shaw_Heights,_Colorado",
+      "checked": "2026-09-12",
+      "supports": [
+        "Shaw Heights is an unincorporated community and a census-designated place (CDP) located in and governed by Adams County, Colorado, United States.",
+        "The Westminster post office (Zip code 80031) serves the area."
+      ]
+    },
+    {
+      "label": "City of Westminster: Landscape Regulations 2004 (PDF)",
+      "url": "https://www.westminsterco.gov/DocumentCenter/View/1138/City-of-Westminster-Landscape-Regulations-PDF",
+      "checked": "2026-09-12",
+      "supports": [
+        "These Landscape Regulations have been adopted by the Westminster City Council. All areas to be landscaped shall incorporate the requirements herein. Enforcement of the regulations shall be as provided in Section 1-8-1 of the Westminster Municipal Code.",
+        "The use of artificial turf is generally prohibited, except for use in single-family detached or duplex lot yard areas not adjacent to a street, or public or private park or open space."
+      ]
+    },
+    {
+      "label": "Adams County Development Standards and Regulations, Chapter 4, October 1, 2024 (PDF)",
+      "url": "https://adamscountyco.gov/wp-content/uploads/2025/08/dsr-chapter-04.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "Chapter 4—Design Requirements and Performance Standards, October 1, 2024",
+        "4-19-04-01 LANDSCAPE MATERIALS: No artificial trees, plants, or turf shall be used as a landscape material. If an applicant is interested in using artificial turf in their development, they shall meet the minimum standards for required plant materials and submit a request for an alternative turf design with drainage specifications to the Director of Community and Economic Development.",
+        "4-19-02 APPLICABILITY: The provisions of this article shall apply to development, which meets one (1) of the following and is not exempt: 1. All new development which has not applied for a building permit before the effective date of this Section; or 2. Existing development which requires a change in use permit as determined within the Change in Use Section of Chapter 4.",
+        "4-02-01 CHANGE IN USE: A change in use of property occurs whenever the essential character or nature of the activity conducted on a lot changes. All changes in use require zoning review and building permit approval."
+      ]
+    },
+    {
+      "label": "Adams County: Planning & Development",
+      "url": "https://adamscountyco.gov/our-county/community-economic-development/planning-development/",
+      "checked": "2026-09-12",
+      "supports": [
+        "The division is primarily responsible for ensuring that land uses within the unincorporated portions of the county are developed in compliance with the county's adopted codes and regulations while also reviewing and issuing development permits, land use permits, and a variety of other specialized permits.",
+        "Please contact the Planner of the Day* at 720.523.6800 or cedd-plan@adamscountyco.gov.",
+        "The information and recommendations provided by the Planner of the Day are intended for general informational purposes only and are based on the facts presented to this office and the regulations in effect as of today's date.",
+        "For formal guidance and official County positions, final action on a completed application is required. To start the process, please fill out a zoning verification or conceptual review meeting application through the ePermit Center.",
+        "Note: On April 21, 2026, the Board of County Commissioners adopted the 2024 editions of the International Codes. These codes will go into effect on July 1, 2026."
+      ]
+    },
+    {
+      "label": "Adams County: Permits & Licensing",
+      "url": "https://adamscountyco.gov/our-county/community-economic-development/permits-licensing/",
+      "checked": "2026-09-12",
+      "supports": [
+        "For questions and information about Permits & Licensing in Adams County, please contact: 720-523-6800 Monday – Friday 8:00 a.m. – 4:30 p.m.",
+        "Note: On April 21, 2026, the Board of County Commissioners adopted the 2024 editions of the International Codes. These codes will go into effect on July 1, 2026."
+      ]
+    },
+    {
+      "label": "Adams County: Development Standards & Regulations Draft (Engage with Adams)",
+      "url": "https://publicinput.com/j80053",
+      "checked": "2026-09-12",
+      "supports": [
+        "Planning Commission Hearing: Thursday, October 22, 2026 @ 6:00 PM in Adams County Government Center hearing room",
+        "Board of County Commissioners: Tuesday, November 17, 2026 @ 9:30 AM in Adams County Government Center hearing room",
+        "If adopted, start date of new regs: January 1, 2027",
+        "Please note the case number for this project: PRC2026-00016.",
+        "If you wish to give written comment on this project, you may email those comments to Lia Campbell at LCampbell@adamscountyco.gov, until October 2, 2026."
+      ]
+    },
+    {
+      "label": "Adams County: DRAFT Development Standards and Regulations, Chapter 4 (PDF)",
+      "url": "https://publicinput.com/Customer/File/Full/e40b4904-fb03-43e3-a1e2-576485de1223",
+      "checked": "2026-09-12",
+      "supports": [
+        "For example, Div. 4-04, Landscaping and Buffering, generally applies to new construction; however, some provisions of the Division apply to nonresidential development that do not apply to all residential types of development.",
+        "Landscape Materials. No artificial trees, plants, or turfgrass shall be used as a landscape material. If an applicant is interested in using artificial turf in their development, they shall meet the minimum standards for required plant materials, demonstrate a functional use for the artificial turf, and submit a request for an alternative turf design with drainage specifications to the Director of Community and Economic Development.",
+        "No person shall install, plant, or place, or allow any person to install, plant, or place, any nonfunctional turfgrass, nonfunctional artificial turf, or invasive plant species, as part of a new development project or redevelopment project, on any portion of applicable property.",
+        "For purposes of this prohibition, \"applicable property\" means: (A) Commercial, institutional, or industrial property as defined in C.R.S. § 37-60-135(2)(b); (B) Common interest community property as defined in C.R.S. § 38-33.3-103(8); or (C) A street right-of-way, parking lot, median, or transportation corridor.",
+        "On and after January 1, 2028, no person shall install, plant, or place ... (D) A multifamily residential housing premises property that includes more than twelve dwelling units."
+      ]
+    },
+    {
+      "label": "City of Westminster: Drought Watch notice, March 31, 2026",
+      "url": "https://westy.news/drought/",
+      "checked": "2026-09-12",
+      "supports": [
+        "March 31, 2026",
+        "The City of Westminster will enact a Drought Watch effective Wednesday, April 15, in response to Colorado's dry conditions and record-low snowpack, and its impact to the City's projected water supply.",
+        "Mandatory watering restrictions are not currently in place.",
+        "Limit lawn watering to no more than three days per week. Water before 10 am or after 6 pm to reduce evaporation.",
+        "During the summer, three out of every four gallons of water are used to water a home's lawn and garden",
+        "including free sprinkler audits through Slow the Flow, Lawn Replacement assistance, Garden in a Box discounts, and water-wise landscaping education."
+      ]
+    },
+    {
+      "label": "USDA Soil Data Access (SSURGO)",
+      "url": "https://sdmdataaccess.sc.egov.usda.gov/",
+      "checked": "2026-09-12",
+      "supports": [
+        "Point query at -105.0414, 39.8553 (centre of Shaw Heights CDP): map unit PlC, Platner loam, 3 to 5 percent slopes",
+        "Platner, comppct_r 85, Fine, smectitic, mesic Aridic Paleustolls, Well drained, slope 3-5",
+        "Platner claytotal_r: 19 in the top horizon, 40 maximum in any horizon; lep_r (linear extensibility) maximum 7.3",
+        "Wages, comppct_r 10, Fine-loamy, mixed, superactive, mesic Aridic Argiustolls; Stoneham, comppct_r 5, Fine-loamy, mixed, superactive, mesic Aridic Haplustalfs"
+      ]
+    }
+  ]
+}

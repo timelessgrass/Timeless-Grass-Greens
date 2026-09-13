@@ -1,0 +1,160 @@
+{
+  "intent": "How much of a Green Cove Springs lot can be hard surface, will a turf area count against that limit, who at the city answers it, and what the city's own water utility, soil and stormwater billing mean for a turf lawn, dog area or putting green inside city limits (Clay County).",
+  "distinctValue": "Green Cove Springs is an incorporated city with its own land development code and its own water utility, and none of it is on the nearby Clay County pages, which cover unincorporated county code and CCUA. Sec. 113-4 caps impervious surface by land use district (40% residential low density, 50% residential medium and Transition, 70% residential high density, 100% Downtown Core), computed as total impervious surface over gross site area, and subsection (c) excludes porous paving materials used in accordance with the construction manual. Sec. 113-3 requires development to avoid unnecessary impervious surface cover. A text search of the mirrored LDC chapters (101, 109, 113, 117, 121, 125) found no use of 'synthetic' and no 'artificial' except lighting and communication towers, so the code does not say how artificial turf is counted; the page turns that into questions for Development Services (land use district, which construction manual, whether permeable turf can be documented as porous). Planning & Zoning reviews development plans before building permits. The city's stormwater user fee is billed on impervious surface in ESUs of 3,000 square feet, so turf's classification may also matter on the bill: another ask-the-city item. The city pumps its own water (Harbor Road and Reynolds plants, five Floridan Aquifer wells, nearly 50% used for irrigation); its 13 May 2026 notice puts the SJRWMD Phase III one-day schedule on all sources including wells and further restricts new sod, and its conservation page (checked 12 September 2026) tells residents to delay new sod. Magnolia Point's reclaimed water system is designed but on hold. USDA SDA at 29.9919, -81.6784 gives Cassia fine sand, Mandarin 80%, somewhat poorly drained, minimum annual water table depth 77 cm (about 30 inches). The LDC was read through the Zoneomics mirror because Municode blocks automated fetches. Section 125.572, F.S. sits in the county chapter and its text does not define local government, so the page reports what the DEP rule and FAQ say and sends the city-application question to Development Services.",
+  "sources": [
+    {
+      "label": "Green Cove Springs Land Development Code, Ch. 113 (Zoneomics mirror)",
+      "url": "https://www.zoneomics.com/code/green-cove-springs-FL/chapter_5",
+      "checked": "2026-09-12",
+      "supports": [
+        "Sec. 113-3. - Principles of development design. ... All development shall be designed to avoid unnecessary impervious surface cover;",
+        "Sec. 113-4. - Impervious surface coverage. (a) Generally. Impervious surface on a development site shall not exceed the ratios provided in the table in subsection (d) of this section.",
+        "(b) Ratio calculation. The impervious surface ratio is calculated by dividing the total impervious surface by the gross site area.",
+        "(c) Alternative paving materials. If porous paving materials are used in accordance with the construction manual, then the area covered with porous paving materials shall not be counted as impervious surface.",
+        "(d) Table of impervious surface ratios. Land Use District / Maximum Impervious Percent: Residential low density 40; Residential medium 50; Residential high density 70; Commercial low intensity 70; Downtown Core 100; Primary Corridor 80; Secondary Corridor 70; Transition 50",
+        "(Code 2001, § 98-4; Ord. No. O-01-2000, § 6.01.02, 6-6-2000; Ord. No. O-08-2011, § 5, 12-6-2011; Ord. No. O-13-2024, § 10, 5-21-2024)",
+        "Sec. 113-243 definitions: Turf means upper layer of soil bound by grass and plant roots into a thick mat.",
+        "Groundcover means a low-growing plant, including turf grass, that, by the nature of its growth characteristics, completely covers the ground and does not usually exceed two feet in height.",
+        "Drip line means the vertical line running through the outermost portion of the tree crown projected vertically to the ground.",
+        "Sec. 113-277. - Drought-tolerant plant standards applicable to required landscaping. ... Industrial, commercial, civic, and multifamily residential buildings or structures and common areas of single-family or multifamily residential developments shall incorporate drought tolerant trees, shrubs, and groundcovers in landscape plans as a water conservation measure.",
+        "In addition, mulches and drought tolerant groundcovers shall replace narrow turf areas where irrigation is impractical.",
+        "Sec. 113-278. - Conditions for tree removal. The development services director shall issue the permit for removal of a tree if one of the following reasons for removal is found to be present:"
+      ]
+    },
+    {
+      "label": "City of Green Cove Springs: Planning & Zoning",
+      "url": "https://www.greencovesprings.com/206/Planning-Zoning",
+      "checked": "2026-09-12",
+      "supports": [
+        "All plans for development, whether it be a new building, the modification of or addition to an existing building, the addition of items such as swimming pools, fences and screens, and signs, require the review and approval of Planning and Zoning prior to the approval of an application for a building permit.",
+        "Use the Green Cove Springs Application Portal to apply for new permits, planning projects, or lien search requests! You'll also find there public notices, a parcel search option to research properties, and a place to report Code Enforcement concerns."
+      ]
+    },
+    {
+      "label": "City of Green Cove Springs: Development Services",
+      "url": "https://www.greencovesprings.com/191/Development-Services",
+      "checked": "2026-09-12",
+      "supports": [
+        "The Department manages Comprehensive Planning, Land Development Regulations (LDRs), land use and zoning, building permits, and code enforcement to ensure development aligns with the City's long-term vision.",
+        "If you have questions, contact your Development Services department at 904.297.7500 or planning@greencovesprings.com.",
+        "Physical Address: 321 Walnut Street, Green Cove Springs, FL 32043",
+        "Hours of Operation: Monday through Thursday 7:00 am to 5:30 pm. Closed: Friday and Holidays"
+      ]
+    },
+    {
+      "label": "USDA Soil Data Access (SSURGO), point query in central Green Cove Springs",
+      "url": "https://sdmdataaccess.sc.egov.usda.gov/",
+      "checked": "2026-09-12",
+      "supports": [
+        "Query point WKT point(-81.6784 29.9919), latitude 29.9919, longitude -81.6784, run 2026-09-12 against SDA_Get_Mukey_from_intersection_with_WktWgs84.",
+        "mukey 2771248, muname Cassia fine sand; component Mandarin, comppct_r 80, drainagecl Somewhat poorly drained, hydgrp A, taxclname Sandy, siliceous, thermic Oxyaquic Alorthods, slope_l 0, slope_h 2",
+        "muaggatt wtdepannmin 77 (centimeters, about 30 inches); flodfreqdcd None; pondfreqprs 0"
+      ]
+    },
+    {
+      "label": "DEP Rule 62-308.100, F.A.C.: synthetic turf (adopted rule text)",
+      "url": "https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc",
+      "checked": "2026-09-12",
+      "supports": [
+        "(1)(b) Pursuant to s. 125.572, F.S., this rule establishes minimum standards for the installation of synthetic turf on single-family residential properties of 1 acre or less in size. Pursuant to s. 125.572(3), F.S., local governments may not regulate synthetic turf in a manner inconsistent with these minimum standards.",
+        "(2)(d) Subgrade shall be composed of natural materials, such as crushed rock, or crushed concrete that meets the permeability requirements of this rule. Subgrade materials shall be washed prior to installation to prevent fines from binding.",
+        "(4)(a) Synthetic turf must be permeable and affixed to permeable backing with a pervious subgrade. A local government may establish a quantifiable standard of a maximum of 10 inches per hour for all layers.",
+        "(4)(b) Synthetic turf must be installed over a subgrade prepared for positive drainage and evenly graded porous material.",
+        "(5)(a) Installation of synthetic turf must be designed and installed to prevent pooling or an increase in the stormwater runoff volume, direction, or rates to adjacent properties and, where possible, runoff shall be directed to on-site pervious areas.",
+        "(5)(b) Installation of synthetic turf must not alter the permitted stormwater management system as designed and shall not be installed within a swale, ditch, stormwater pond, or a stormwater pond's littoral zone.",
+        "(6)(a) In-ground irrigation systems cannot be used to irrigate synthetic turf areas. (b) If any in-ground system is already installed, a local government may require that irrigation heads be removed and pipe capped.",
+        "(8)(a) Installation of synthetic turf cannot compromise the health of nearby trees, including damage to tree roots, other than those identified as a noxious weed as defined in Chapter 581, F.S.",
+        "(8)(b) Synthetic turf shall not be installed inside tree drip lines, whether on the property or adjacent properties, unless the tree is a noxious weed as defined by Chapter 581, F.S., or unless a certified arborist, using site specific information and best professional judgment, certifies that installation within that drip line would not be harmful to the tree.",
+        "Rulemaking Authority 125.572 FS. Law Implemented 125.572 FS. History–New 5-19-26. (effective 19 May 2026)"
+      ]
+    },
+    {
+      "label": "Florida DEP: Synthetic Turf FAQ",
+      "url": "https://floridadep.gov/sites/default/files/SyntheticTurfFAQ%20final.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "No. DEP does not issue permits or require authorization for the installation of synthetic turf.",
+        "Yes. Local governments may still regulate synthetic turf, provided the local government does not regulate the installation of synthetic turf in a manner that is inconsistent with DEP's adopted minimum standards.",
+        "No. DEP is not implementing a permitting, inspection or enforcement program under this rule.",
+        "Questions regarding local permitting, installation requirements or potential local ordinance violations should be directed to the applicable local government.",
+        "No. This rule does not address HOA requirements, deed restrictions or other private property agreements."
+      ]
+    },
+    {
+      "label": "Fla. Stat. 125.572: regulation of synthetic turf",
+      "url": "https://www.flsenate.gov/Laws/Statutes/2025/125.572",
+      "checked": "2026-09-12",
+      "supports": [
+        "(3) Upon the Department of Environmental Protection adopting rules pursuant to subsection (4), a local government may not: (a) Adopt or enforce any ordinance, resolution, order, rule, or policy that prohibits, or is enforced to prohibit, a property owner from installing synthetic turf that complies with Department of Environmental Protection standards adopted pursuant to this section which apply to single-family residential property.",
+        "History. — s. 1, ch. 2025-140."
+      ]
+    },
+    {
+      "label": "City of Green Cove Springs: stormwater projects",
+      "url": "https://www.greencovesprings.com/419/Stormwater-Projects",
+      "checked": "2026-09-12",
+      "supports": [
+        "Clay Street Stormwater Upgrades: Stormwater upgrades along Clay Street to replace pipes and repair river bulkhead",
+        "Ferris Street Storm Basin Project: Replacing stormwater pipes along Ferris Street and connecting streets.",
+        "Oakridge Stormwater Project: Installing new stormwater piping and stormwater pond on Oakridge from Walnut Street to Martin Luther King Jr. Boulevard."
+      ]
+    },
+    {
+      "label": "City of Green Cove Springs: Water / Wastewater Division",
+      "url": "https://www.greencovesprings.com/279/Water-Wastewater-Division",
+      "checked": "2026-09-12",
+      "supports": [
+        "Water for the City is provided by two water treatment plants, the Harbor Road Water Treatment Facility (WTF) and the Reynolds WTF. The water from these plants are combined to form one system which consists of five wells which pull from the Floridan Aquifer, four groundwater storage tanks, and three elevated storage tanks (towers).",
+        "Nearly 50% of the water produced by the City is used for irrigation.",
+        "The final effluent is discharged one of two ways - into lakes at Magnolia Point Golf and Country Club for irrigation (called reclaimed water or reuse) or directly into the St. Johns River."
+      ]
+    },
+    {
+      "label": "City of Green Cove Springs: Phase III Extreme Water Declaration notice",
+      "url": "https://www.greencovesprings.com/AlertCenter.aspx?AID=Phase-III-Extreme-Water-Declaration-by-t-118",
+      "checked": "2026-09-12",
+      "supports": [
+        "May 13, 2026 5:21 PM. Phase III Extreme Water Declaration by the St. Johns River Water Management District",
+        "Due to ongoing dry weather and below-average rainfall, a Phase III Extreme Water Shortage has been declared for our area by the St. Johns River Water Management District.",
+        "Lawn irrigation is limited to ONE day per week. Watering is only allowed between 6 p.m. and 8 a.m.",
+        "Irrigation of new plantings, including sod, is further restricted.",
+        "Homes with odd-numbered addresses (ending in 1, 3, 5, 7, or 9): Saturdays. Homes with even-numbered addresses (ending in 0, 2, 4, 6, or 8): Sundays. Businesses and nonresidential properties: Tuesdays",
+        "These restrictions apply to all water sources, including private wells and irrigation pumps."
+      ]
+    },
+    {
+      "label": "City of Green Cove Springs: water conservation",
+      "url": "https://www.greencovesprings.com/448/Water-Conservation",
+      "checked": "2026-09-12",
+      "supports": [
+        "Landscape irrigation in areas subject to a Phase III Extreme Water Shortage is limited to one day per week.",
+        "Currently, the watering schedule for this area is: Homes with odd numbered or no addresses Saturday; Homes with even numbered addresses Sunday; Nonresidential properties Tuesday",
+        "Irrigation is limited to no more than three-quarters of an inch of water per zone and no more than one hour per zone on your scheduled day.",
+        "Restrictions apply to private wells and pumps, ground or surface water and water from public and private utilities.",
+        "Delay installing new sod or other high-water use landscaping until conditions improve, if possible."
+      ]
+    },
+    {
+      "label": "City of Green Cove Springs: Magnolia Point Reclaimed Water System",
+      "url": "https://www.greencovesprings.com/582/Magnolia-Point-Reclaimed-Water-System",
+      "checked": "2026-09-12",
+      "supports": [
+        "Description: Installation of reclaimed water system in Magnolia Point.",
+        "When fully implemented, this conversion will save about 73.9 million gallons of Floridan Aquifer water each year.",
+        "Current Progress: Design has been completed, and construction is on hold pending alternate projects and funding.",
+        "Timeline: The Magnolia Point Reclaimed Water Project is temporarily on hold and will resume at a later date."
+      ]
+    },
+    {
+      "label": "City of Green Cove Springs: stormwater fee information",
+      "url": "https://www.greencovesprings.com/682/Information-on-Proposed-Stormwater-Base-",
+      "checked": "2026-09-12",
+      "supports": [
+        "The fee consists of two parts: A base fee charged to every property. A user fee based on the amount of impervious surface on a property, such as roofs, driveways, parking areas, and other hard surfaces that create stormwater runoff.",
+        "The user fee is calculated using Equivalent Stormwater Units (ESUs).",
+        "An Equivalent Stormwater Unit (ESU) represents 3,000 square feet of impervious surface, which is the average amount for a typical single-family home.",
+        "Greg Bauer, Public Works Director, 904-297-7012"
+      ]
+    }
+  ]
+}

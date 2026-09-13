@@ -1,0 +1,141 @@
+{
+  "intent": "Do I need a permit to put artificial turf in my Sunset Beach, NC yard, does it count against the Town's impervious limit, and can it go near the marsh or waterway?",
+  "distinctValue": "Sunset Beach is the one Grand Strand town page that leads with numbers the Town publishes itself. Its Stormwater Requirements page gives three thresholds: more than 200 sq ft of new impervious coverage needs a stormwater design, impervious coverage is capped at 45%, and more than 4 inches of fill needs a Brunswick County stormwater plan. The UDO (adopted September 5, 2023, as amended; the posted PDF was opened in full on 2026-09-12) supplies the approval steps none of the neighbouring pages carry: a zoning permit for any activity that increases impervious square footage (2.12(B)), a Town Fill and Grade permit for grading, filling or excavation, with no scaled grading plan on a single-family or duplex lot when fill stays at 4 inches or less and a 90-day completion window (2.12(H)), the CAMA LPO as final decision-maker on CAMA minor permits (Table 2.1), the as-built survey showing impervious percentages (2.12(J)), the 20% cap in CR-1, CR-2 and AF-1 (2.13(B)(4)), the sealed PE letter at 1.41 in/hr for alternative materials (Impervious Surface definition), the ban on solid plastic cover and the limits on rubberized mulch (landscaping section), fence heights, and no tree removal permit on an occupied single-family or two-family lot. The County jurisdiction table puts zoning, flood, building inspection and CAMA with the Town, while the County's stormwater page says it administers its ordinance in Sunset Beach by agreement, and lists its residential permit triggers. For marsh and waterway lots, the codified 15A NCAC 07H .0209 (amended effective November 1, 2025) sets the 75/575-foot AEC, the 30 percent impervious cap and the 30-foot buffer whose exception list does not name turf; the 2021 CRC 10-1 vote and a 2025 variance request for turf within the buffer show turf there is treated as not allowed by right. Carolina Shores and Shallotte carry none of these numbers. The nc-vs-sc-built-upon-area guide already carries the state statute, so the page links to it instead of restating G.S. 143-214.7D. Legacy demographics (age, vacancy, second homes) and golf course brand names are deliberately not used.",
+  "sources": [
+    {
+      "label": "Town of Sunset Beach: Stormwater Requirements (Planning & Zoning)",
+      "url": "https://sunsetbeachnc.gov/?SEC=9FDD3B05-1B7F-4B02-A674-9E9415FD1D7A&DE=B213897E-E451-45B6-86ED-336228B8C6C5",
+      "checked": "2026-09-12",
+      "supports": [
+        "Stormwater Plan: All New construction and additions of more than 200 square feet of impervious coverage will require a stormwater design.",
+        "Impervious Coverage: 45% impervious coverage is the maximum amour allowed on properties in the Town's jurisdiction.",
+        "Lot Fill: If you add more than 4\" of fill to any portion of your lot a County Stormwater plan is required.",
+        "A forested area allows for about 18 inches per hour of infiltration, where an average lawn allows for about 2 inches per hour. Impervious surfaces like pavement and rooftops, offer no infiltration at all.",
+        "The page carries no date; figures stated as checked 2026-09-12 (September 2026)."
+      ]
+    },
+    {
+      "label": "Town of Sunset Beach Unified Development Ordinance (posted PDF, 251 pages, file dated 2026-08-13)",
+      "url": "https://rebuild-sunsetbeachnc.govoffice2.com/vertical/Sites/%7BC59DF5BC-1B90-44CB-AD2A-9DAE0D811CD0%7D/uploads/2023_ToSB_UDO_(Working_Copy)_Full.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "The provisions in this ordinance were originally adopted September 5, 2023, and became effective immediately and as subsequently amended.",
+        "2.12(B)(1) A zoning permit shall be required for changes of use or of any of the following: all new principle and accessory structures; enlargements of existing structures; construction/installation of fences/walls, piers, docks, decks, stairs, signs, and driveways; and/or any activity which proposes to increase the amount of impervious square footage on a lot.",
+        "2.12(B)(2) It shall be unlawful to commence site preparation or excavation ... or the paving, site disturbance, tree removal, or other installation or construction of a hardened surface upon the site, until the UDO Administrator has issued a zoning permit for such work or use.",
+        "2.12(H)(2) No lot, parcel or tract of land may be disturbed by grading, filling, excavation, and removal of trees or removal of stumps without a Town Fill and Grade permit. Permits for Fill and Grade shall be accompanied by a scaled grading plan depicting elevation change prepared by a licensed surveyor, landscape architect, or professional engineer. For single-family residential and duplex dwelling uses, when fill is not proposed in excess of four (4) inches, a scaled grading plan is not required.",
+        "2.12(H)(4) Site work in accordance with the approved Town Fill and Grade permit must be complete within 90 days of issuance.",
+        "2.12(I) CAMA permits shall be issued by the Division of Coastal Management or designated town Local Permit Officer for any development within a regulated Area of Environmental Concern as defined by NCGS 113A-113.",
+        "2.12(J)(2) A final as-built survey prepared by a registered land surveyor licensed to practice in North Carolina must be submitted to the UDO Administrator for new construction of any principle building or for compliance with impervious coverage or fill/grade requirements, as necessary. a) The as-built survey must include information regarding impervious surface percentages. b) If the subject property is within a CAMA AEC, the survey must include information specific to the impervious surface percentage within the limits of the AEC.",
+        "2.13(B)(2) Residential development may not exceed 45% impervious surface of total lot area ... For the purposes of this section, residential development shall include single- family and duplex dwellings.",
+        "2.13(B)(4) Within the CR-1, CR-2, and AF-1 zoning district, not more than 20% of the total lot area may be covered by impervious surfaces.",
+        "2.13(C)(1) A stormwater management plan shall be required prior to the issuance of any permits for new construction or renovation/expansion projects where the impervious surface coverage increases by greater than 200 square feet.",
+        "2.13(C)(2) All stormwater management plans must be designed by a professional engineer, registered landscape architect (to the extent the North Carolina General Statutes, Chapter 89A allow), or licensed surveyor (to the extent the North Carolina General Statutes, Chapter 89C allow).",
+        "Table 2.1 Review Procedures Summary: CAMA Minor Permit, FD (final decision) by CAMA LPO. [1] CAMA general and major permits are decided by the NC Division of Coastal Management and Coastal Resources Commission.",
+        "Impervious Surface (definition): Alternative materials, not subject to the definition of impervious surface, may be proposed subject to certification of a licensed and certified North Carolina professional engineer of compliance with the hydraulic conductivity standard of 1.41 inches per hour or greater. Such certification shall be in the form of a letter under seal.",
+        "Landscaping 3. Only landscaping fabric which allows rain water to flow through is permitted. Solid plastic cover is prohibited.",
+        "Landscaping 4(a) The use of nonbiodegradable, manmade mulch is an approved landscape material as long as the following conditions are met (this includes recycled tire mulch and other rubberized products): i. This material shall not be located in the BR-1, BR-2, BB-1, or CR- 1 zoning districts; ii. This material shall not be used within the Limit of Moderate Wave Action (LiMWA) as defined in Article 5; iii. This material shall not be placed within 30 feet of a water body; and iv. This material shall be placed inside a landscaping boarder or barrier.",
+        "3.2(A) G. BR-1: Beach Residential District. H. BR-2: Beach Residential District. I. BB-1: Beach Business District ... for that area of the community bounded by the Intracoastal Waterway on the north and the Atlantic Ocean on the south. L. AF-1: Agricultural-Forestry District. N. CR-1: Conservation Reserve District. O. CR-2: Conservation Preservation District.",
+        "Fences, Standalone Residential Lots 1. In the BR-1, BR-2, and CR-1 residential zoning districts, a fence or wall may be constructed not to exceed four (4) feet in height from natural ground level. 2. In all mainland residential zoning districts, a fence or wall may be constructed not to exceed six (6) feet in height from natural ground level. 3(a) ... a fence installed facing the ocean, waterway, marsh, lakes, or golf course may not exceed four (4) feet in height and shall be at least 50% transparent.",
+        "Tree removal b) A tree removal permit is not required for a lot occupied by a single-family or two- family residence."
+      ]
+    },
+    {
+      "label": "Town of Sunset Beach: Planning & Zoning",
+      "url": "https://sunsetbeachnc.gov/planning",
+      "checked": "2026-09-12",
+      "supports": [
+        "Planning Staff are available to meet with individuals to answer specific questions; appointments are recommended.",
+        "Staff is dedicated to educating property owners and contractors on the permitting process, as well as providing information on regulations and codes that relate to a proposed project.",
+        "Links listed: Landscaping Requirements; Unified Development Ordinance (UDO); Storm Water Requirements; Apply for a Fence Permit (online permit portal)."
+      ]
+    },
+    {
+      "label": "Town of Sunset Beach: Building Inspections",
+      "url": "https://sunsetbeachnc.gov/index.asp?SEC=3D2CE96C-8DD2-4855-A7C3-1694E41464F5",
+      "checked": "2026-09-12",
+      "supports": [
+        "The Town has a Chief Building Inspector, three full-time building inspectors, a CAMA LPO and an administrative assistant to assist you with questions.",
+        "Topics listed: Flood Plain & FEMA Requirements; CAMA; Elevation Certificates; CAMA Permitting; Fence Permit."
+      ]
+    },
+    {
+      "label": "Town of Sunset Beach: CAMA Permitting",
+      "url": "https://sunsetbeachnc.gov/index.asp?SEC={6F079189-96AC-4CAA-9AC9-9F77C1AF58E3}",
+      "checked": "2026-09-12",
+      "supports": [
+        "You may petition the CRC for a variance to undertake a project that is prohibited by the CRC's development standards.",
+        "You must have received a permit decision before you can seek a variance.",
+        "To apply for a variance, you must file a petition for a variance with the Division of Coastal Management (DCM) Director and the State Attorney General's Office on a standard form ... The petition must be received six weeks before the next scheduled CRC meeting for it to be eligible to be heard at that meeting.",
+        "To be granted a variance, you must show that (per 113A 120.1): Strict application of the CRC's development standards would result in unnecessary hardships. These hardships result from conditions peculiar to the property, such as its location, size or topography. The hardships did not result from actions taken by the petitioner."
+      ]
+    },
+    {
+      "label": "Brunswick County: Municipal Jurisdictions table",
+      "url": "https://www.brunswickcountync.gov/192/Municipal-Jurisdictions",
+      "checked": "2026-09-12",
+      "supports": [
+        "Columns: Municipality | Flood Jurisdiction | Building Inspection | C.A.M.A. | Addressing | Zoning | Privilege License | Office Hours | Fire Inspection | Stormwater",
+        "Sunset Beach | Town | Town | Town | Town | Town | (blank) | 8:30 AM to 5 PM Monday through Friday | Town | Town"
+      ]
+    },
+    {
+      "label": "Brunswick County: Stormwater Ordinance",
+      "url": "https://www.brunswickcountync.gov/248/Stormwater-Ordinance",
+      "checked": "2026-09-12",
+      "supports": [
+        "The stormwater ordinance became effective September 16, 2002. The unincorporated areas of the county are subject to the ordinance. The county also has agreements in place to administer the Stormwater Ordinance in Belville, Boiling Spring Lakes, Bolivia, St. James and Sunset Beach.",
+        "A county Stormwater Permit is required for: All non-residential new development. Non-residential redevelopment that increases impervious surface on the site. Residential development that disturbs greater than an acre. Residential developments where the site will be graded, filled, or excavated and thereby change the elevation of a location by more than four inches. Residential development or any related disturbance within 30 feet of the banks of a natural stream or water body."
+      ]
+    },
+    {
+      "label": "15A NCAC 07H .0209 Coastal Shorelines, codified text from the Office of Administrative Hearings (PDF dated 2026-06-04)",
+      "url": "http://reports.oah.state.nc.us/ncac/title%2015a%20-%20environmental%20quality/chapter%2007%20-%20coastal%20management/subchapter%20h/15a%20ncac%2007h%20.0209.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "(a)(1) Estuarine shorelines AEC are those non-ocean shorelines extending from the normal high water level or normal water level along the estuarine waters ... for a distance of 75 feet landward. For those estuarine shorelines immediately contiguous to waters classified as Outstanding Resource Waters (ORW) by the Environmental Management Commission (EMC), the estuarine shoreline AEC shall extend to 575 feet landward from the normal high water level or normal water level",
+        "(d)(2) Impervious surfaces shall not exceed 30 percent of the AEC area of the lot, unless the applicant can demonstrate, through innovative design, that the protection provided by the design would be equal to or exceed the protection by the 30 percent limitation.",
+        "(d)(10) Within the Coastal Shorelines category (estuarine and public trust shoreline AECs), new development shall be located a distance of 30 feet landward of the normal water level or normal high water level, with the exception of the following: (A) Water-dependent uses ... (B) Pile-supported signs ... (C) Post- or pile-supported fences; (D) Elevated, slatted, wooden boardwalks ... (E) Crab Shedders ... (F) Decks/Observation Decks ... (G) Grading, excavation and landscaping with no wetland fill except when required by a permitted shoreline stabilization project. Projects shall not increase stormwater runoff to adjacent estuarine and public trust waters; (H) Development over existing impervious surfaces, provided that the existing impervious surface is not increased; (I) ... (J) ...",
+        "Artificial turf is not named anywhere in the rule text.",
+        "History Note: ... Readopted Eff. July 1, 2020; Amended Eff. November 1, 2025."
+      ]
+    },
+    {
+      "label": "NC DEQ: 15A NCAC 07H .0209 amendment document (the brief's copy)",
+      "url": "https://deq.nc.gov/coastal-management/rule-changes/15a-ncac-07h-0209/download?attachment=",
+      "checked": "2026-09-12",
+      "supports": [
+        "15A NCAC 07H .0209 is proposed for amendment as follows:",
+        "History Note ... Amended Eff. November 1, 2025.",
+        "The (a)(1), (d)(2) and (d)(10) wording matches the codified OAH text above; the amendment marks changes to (g) Urban Waterfronts."
+      ]
+    },
+    {
+      "label": "NC DEQ press release: State coastal commission to meet in New Bern Aug. 27-28 (2025)",
+      "url": "https://www.deq.nc.gov/news/press-releases/2025/08/14/state-coastal-commission-meet-new-bern-aug-27-28",
+      "checked": "2026-09-12",
+      "supports": [
+        "Aug 27, 2025. The N.C. Coastal Resources Commission (CRC) will meet Aug. 27 and Aug. 28 at the Tryon Palace - History Center, 529 S. Front St., New Bern.",
+        "Aug. 27 • Consideration of variance requests regarding petitioner Krichman, Carolina Beach, Artificial Turf within Buffer; petitioner Hreha-Caruso, Frisco Covered Deck within Buffer"
+      ]
+    },
+    {
+      "label": "Coastal Review (North Carolina Coastal Federation): Coastal Resources Commission digs in on artificial turf, September 2021",
+      "url": "https://coastalreview.org/2021/09/coastal-resources-commission-digs-in-on-artificial-turf/",
+      "checked": "2026-09-12",
+      "supports": [
+        "During the meeting of the Coastal Resources Commission Wednesday, Sept. 15 [2021] ...",
+        "There are some exceptions to the rules, such as pile-supported signs, elevated, slatted wooden boardwalks, crab shedders, decks and grading, excavation, and landscaping as long as it excludes wetland fill ... However, the state does not have standards for artificial turf being installed within that buffer, Mairs explained.",
+        "Commissioners voted 10-1, with Baldwin dissenting, to prohibit the installation of artificial turf within the 30-foot buffer.",
+        "\"In the limited enforcement cases we've had so far, we've only required removal of the artificial turf and have not assessed any civil penalties,\" Simmons said."
+      ]
+    }
+  ],
+  "unresolved": [
+    "The UDO copy on the Town's server is titled a 2023 working copy although the PDF file is dated 2026-08-13. The Municode copy was not opened (403). The page date-stamps the UDO figures and sends the reader to Planning & Zoning.",
+    "The legacy research reports a 3 November 2025 amendment to Town Code Chapter 97 on tree preservation. It was not opened, so the tree FAQ cites only the UDO line and carries its check date.",
+    "Whether a turf system (turf, base and fabric) counts as impervious under the Town's definition, and whether the Town accepts G.S. 143-214.7D(b)(6) without the sealed PE letter, is not settled by any Town page. The page states both routes and tells the reader to ask the Town which documents it wants.",
+    "Whether rubber infill under turf is 'nonbiodegradable, manmade mulch' under the landscaping section is not stated. The page tells the reader to ask Planning & Zoning.",
+    "The County jurisdiction table lists the Town for stormwater, while the County stormwater page says the County administers its ordinance in Sunset Beach by agreement. The page reports both.",
+    "The 2021 CRC vote is reported by Coastal Review, not by a rule text; the codified 07H .0209(d)(10) exception list does not name turf but does list landscaping. The August 2025 variance request shows turf in the buffer still went to a variance. The outcome of that request was not opened. The page tells the reader to ask the Town's CAMA LPO where the buffer falls on the lot."
+  ]
+}

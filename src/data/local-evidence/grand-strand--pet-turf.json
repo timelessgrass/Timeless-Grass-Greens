@@ -1,6 +1,6 @@
 {
-  "intent": "I want artificial turf for my dog on the Grand Strand. What do I need to plan for here that a generic pet-turf page won't tell me: summer heat and shade rules, where waste and rinse water are allowed to go, standing water, flood-zone permits, and anything special if I keep several dogs?",
-  "distinctValue": "The national pet-turf page covers layout, cleaning access and odor in general terms, and sibling Grand Strand pages already carry the soil pair and the state-line surface rules. This page is built on the local rules that change how a dog area is planned, read in the live Municode text through the Municode API on 2026-09-12. (1) Heat and shade: NOAA's 1991-2020 normals for the North Myrtle Beach airport give average July and August daily highs of 87.6 and 86.5 degrees F, above the 85-degree line in Horry County Code Sec. 4-3, which requires whole-body shade in daylight for a dog outside more than thirty minutes without the physical presence of an owner or caretaker and says a doghouse is inadequate. Sec. 4-2 keeps that chapter out of incorporated municipalities unless a majority of the governing body asks by written, signed resolution and county council approves. North Myrtle Beach Sec. 4-1 requires whole-body shade for dogs left outside and unattended with no temperature trigger, defines outside and unattended as more than fifteen minutes and not in visual range and physical presence of the owner, expressly including a securely fenced yard, and Sec. 4-5(e) bars leaving such a dog out during a National Weather Service severe weather advisory or warning. (2) Waste and odor: Horry 4-3 and NMB 4-1 require a containment area free of accumulated waste; Myrtle Beach Sec. 4-5(4) declares unsanitary conditions resulting in offensive odors a public nuisance; NMB Sec. 13-85(a) bars leaving pet fecal matter on public or private property where it may cause or contribute to pollution; Myrtle Beach Sec. 18-5(a)(5) lists animal feces among materials that may not be discharged into city stormwater facilities or waters of the state; Horry Sec. 17.7-29(b)(1), in an article that applies to unincorporated areas (Sec. 17.7-28(b)), defines illicit discharges as all non-stormwater discharges except a list that includes lawn watering and landscape irrigation and does not mention washing a pet area, so the page tells readers to ask the county. (3) Standing water: the same drainage clause in Horry 4-3 and NMB 4-1; Horry 4-3 points to Sec. 10-19, which bars letting property serve as a mosquito breeding place and requires keeping ditches, ponds and pipes clear. One sentence carries the USDA Leon and Newhan descriptions, with the Loris page for detail; no inference about urine or drying speed is attributed to USDA. (4) Flood-zone lots: Horry Ch. 9 Sec. 9-5 applies the chapter to FEMA special flood hazard areas and the supplemental flood zone; Sec. 9-1 defines development to include filling, grading, paving and excavation; Sec. 9-6 requires a development permit before any development; Sec. 9-33 sends the application to the floodplain administrator; Sec. 9-51(13) requires compensatory storage when fill is used. The page tells readers to ask about a permit before any digging, raised or not, and treats fill as a second question. (5) Several dogs: Myrtle Beach Sec. 4-1 includes an owner or keeper of four or more dogs over four months of age in its kennel definition, and Sec. 4-12 requires an animal control inspection and, for non-commercial kennels, sealed impervious floors sloped to the sanitary sewer and 15 square feet per animal; the page tells multi-dog owners to ask animal control before planning turf. The state line gets one FAQ that names North Myrtle Beach Sec. 23-129.4 with its exact scope and its subsection (f) point that the standard applies regardless of native soil conditions with no site-specific soil testing, and links the NC vs SC guide; the page no longer states the content of N.C.G.S. 143-214.7D, because ncleg.gov (HTML and PDF) still returned 403 on 2026-09-12 and the only reachable copy was a consultant's April 2026 blog quotation. The Horry County government site timed out and cityofmyrtlebeach.com and des.sc.gov returned 403 on 2026-09-12, so no claim rests on those sites. Pet-odor cleaning is not sold on this page.",
+  "intent": "I want artificial turf for my dog on the Grand Strand, anywhere from Shallotte, NC to Burgess, SC. What do I need to plan for here that a generic pet-turf page won't tell me: summer heat and shade rules, what counts as shelter, how far a tie-out has to reach, where waste and rinse water may go, flood-zone permits, and anything special if I keep several dogs?",
+  "distinctValue": "The national pet-turf page covers layout, cleaning access and odor in general terms, and sibling Grand Strand pages already carry the Leon/Newhan soil pair and the state-line pervious-surface rules, so this page carries neither. It is built on the local animal, stormwater and flood codes that change how a dog area is laid out, each read in the live Municode text through the Municode API on 2026-09-12, with the code version dated. (1) Heat and shelter: NOAA 1991-2020 monthly normals for the North Myrtle Beach airport (July 87.6 F, August 86.5 F). Horry County Sec. 4-3(b)(1)c requires whole-body shade in daylight at a forecast or actual 85 F for a dog outside more than thirty minutes without an owner or caretaker present, says a doghouse is inadequate protection from the sun, and 4-3(b)(1)e says trees and shrubbery do not meet the criteria for proper shelter; Sec. 4-2 keeps the chapter out of incorporated municipalities unless they opt in. North Myrtle Beach Sec. 4-1 requires whole-body shade for dogs outside and unattended with no temperature trigger, expressly including a fenced yard, and Sec. 4-5(e) bars leaving such a dog out in a National Weather Service severe weather advisory or warning. Brunswick County, NC Sec. 1-3-101 defines adequate shelter as an enclosure of at least three sides, a roof and a floor and excludes space underneath outside steps, decks and stoops. (2) Tie-outs, found on no other page: Horry 4-3(d)(2) (tether at least eight feet with swivels at both ends; trolley no less than eight feet long and no more than seven feet above ground; nothing that impedes the tether; no tethering above 90 F or in thunderstorms, tropical storms or hurricanes), tied to NOAA's annual normal of 20.9 days a year at or above 90 F at the same station; North Myrtle Beach 4-5(d) (at least ten feet or four times body length, not across the property line, not 10 p.m. to 6 a.m. or with no owner or keeper present); Myrtle Beach 4-1 and Conway 6-4-21 (tethering more than two hours in any continuous twelve-hour period, or with no responsible person present, is mistreatment); Brunswick County 1-3-103(13) (at least ten feet of travel perpendicular to the anchor; a pulley's stationary cable at least ten feet) and 1-3-254 (an animal housed or restrained less than fifteen feet from a public street, road or sidewalk may be deemed a public nuisance at Animal Protective Services' discretion). (3) Water and waste: the drainage and waste-free containment clause shared by Horry 4-3 and NMB 4-1; Horry 10-19 (mosquito breeding; keep ditches, ponds and pipes clear); NMB 13-85(a) (no pet fecal matter left on public or private property where it may cause or contribute to pollution); Conway 6-4-36(c) (animal waste disposed of without harm to the environment); Brunswick 1-3-103(2) (shelter and surrounding area kept clean at all times); Horry 17.7-29(b)(1) exceptions list lawn watering and landscape irrigation but not washing a pet area, so the page says ask the county. (4) Flood-zone lots: Horry Ch. 9 Sec. 9-1 (development includes filling, grading and excavation; supplemental flood zone; compensatory storage), 9-5 (scope), 9-6 (permit before development), 9-33 (apply to the floodplain administrator), 9-51(13) (compensatory storage when fill is used); the page says to ask whether extra base counts as fill and does not assert that it does. Myrtle Beach 4-1 and Conway 6-4-21 treat failing to provide shelter from floods, tropical storms or hurricanes as mistreatment. (5) Several dogs: Myrtle Beach 4-1 kennel definition (an owner or keeper of four or more dogs over four months of age) and 4-12 (inspection; non-commercial kennels on the sanitary sewer with sealed impervious floors sloped half an inch per foot; 15 square feet per animal). (6) North Carolina side: Brunswick County Ch. 1-3 as codified on Municode (Supplement 26, codified through Ordinance No. UDO-21-01 of May 17, 2021; the tethering subsection was last amended 3-19-18); Municode's OrdBank lists three Ordinances of 10-20-2025 awaiting codification whose text the API did not return, so the page tells readers to ask the sheriff's Animal Protective Services whether the rules have changed and whether they reach a town address. Shallotte Ch. 91 (Republication, tracked through 2026-04-30) holds only barking-dog nuisance, running at large, and abatement and penalty sections. Carolina Shores' code is on American Legal, which returned 403 on 2026-09-12, so the page makes no claim about it and says ask the town. The page no longer names or states N.C.G.S. 143-214.7D (ncleg.gov HTML and PDF returned 403 on 2026-09-12) and no longer carries the NMB pervious-surface FAQ, the Myrtle Beach odor and stormwater feces rules, the USDA soil sentence or a process recap. No claim rests on the Horry County, Myrtle Beach or SC DES websites.",
   "sources": [
     {
       "label": "NOAA NCEI U.S. Climate Normals 1991-2020, monthly normals, N Myrtle Beach Airport (USW00093718)",
@@ -8,8 +8,17 @@
       "checked": "2026-09-12",
       "supports": [
         "STATION USW00093718, NAME \"N MYRTLE BCH AP, SC US\", dataset normals-monthly 1991-2020",
-        "MLY-TMAX-NORMAL: month 06 = 84.8; month 07 = 87.6; month 08 = 86.5; month 09 = 83.2 (degrees F)",
-        "Annual/seasonal file for the same station (https://www.ncei.noaa.gov/data/normals-annualseasonal/1991-2020/access/USW00093718.csv): JJA-TMAX-NORMAL = 86.3; ANN-TMAX-AVGNDS-GRTH090 = 20.9"
+        "MLY-TMAX-NORMAL: month 06 = 84.8; month 07 = 87.6; month 08 = 86.5; month 09 = 83.2 (degrees F)"
+      ]
+    },
+    {
+      "label": "NOAA NCEI U.S. Climate Normals 1991-2020, annual/seasonal normals, N Myrtle Beach Airport (USW00093718)",
+      "url": "https://www.ncei.noaa.gov/data/normals-annualseasonal/1991-2020/access/USW00093718.csv",
+      "checked": "2026-09-12",
+      "supports": [
+        "STATION USW00093718, NAME \"N MYRTLE BCH AP, SC US\", dataset normals-annualseasonal 1991-2020",
+        "ANN-TMAX-AVGNDS-GRTH090 = 20.9; JJA-TMAX-AVGNDS-GRTH090 = 17.9; JJA-TMAX-NORMAL = 86.3",
+        "Column definition, https://www.ncei.noaa.gov/data/normals-annualseasonal/1991-2020/doc/Readme_By-Variable_By-Station_Normals_Files.txt: \"GRTHnnn and LSTHnnn corresponding to values greater/less than or equal to the value nnn. Units of nnn are whole degrees Fahrenheit. Example: JJA-TMAX-AVGNDS-GRTH090 is the average number of days in the months of June, July, and August for which the maximum temperature is greater than or equal to 90.\""
       ]
     },
     {
@@ -21,7 +30,9 @@
         "Sec. 4-2. - Applicability. The provisions of this chapter shall not apply to those areas of the county located within the confines of any legally incorporated municipality within the county, unless a majority of the governing body of a municipality, by written and signed resolution, formally requests to include the area of such municipality within the coverage of this chapter and the county council has acted favorably on such a request and has so notified such municipality of its approval of such a request. (Ord. No. 69-07, 5-15-07)",
         "Sec. 4-3(b)(1): The containment area for the animal shall be free of accumulated waste and debris so that the animal shall be free to walk or lie down without coming in contact with waste or debris; shall be free of unsanitary conditions; reasonable measures should be taken to keep the area free of ticks, fleas, flies, and also comply with the county mosquito ordinance section 10-19, exterior property maintenance. A suitable method of drainage shall be provided to rapidly eliminate any excess water or moisture.",
         "For dogs outside for more than thirty (30) minutes without the physical presence of an owner or caretaker, proper shelter shall meet the following minimum standards:",
-        "c. During times when the forecasted or actual outdoor temperature measures eighty-five (85) degrees Fahrenheit or higher, each dog must be afforded one (1) or more separate areas of shade large enough to accommodate the entire body of the dog at one time to ensure protection from the direct rays of the sun during all daylight hours. A doghouse is inadequate protection from the sun."
+        "c. During times when the forecasted or actual outdoor temperature measures eighty-five (85) degrees Fahrenheit or higher, each dog must be afforded one (1) or more separate areas of shade large enough to accommodate the entire body of the dog at one time to ensure protection from the direct rays of the sun during all daylight hours. A doghouse is inadequate protection from the sun.",
+        "e. Trees, shrubbery, abandoned cars and the like, stacked cages without dividers, cages with wire floors without a solid resting platform, do not meet the criteria for \"proper shelter\"",
+        "Sec. 4-3(d)(2) Tethering. It shall be unlawful to tether an animal while outdoors except when all of the following conditions are met: a. The animal must be over the age of six (6) months. ... c. The tether has the following properties: 1. A minimum eight-foot length; 2. A swivel-type termination at both ends; and 3. Total weight does not exceed ten (10) percent of the animal's body weight. d. The animal is not tethered outside during extreme weather, including, but not limited to, temperatures above ninety (90) degrees Fahrenheit or below forty-five (45) degrees Fahrenheit snow hail tornadoes, thunderstorms tropical storms or hurricanes. e. The animal is tethered so as to prevent injury, strangulation or entanglement. f. The animal has access to water and shelter. g. The animal is not tethered where any object may interfere or impede free movement of the tether. ... k. Any pulley, running line or trolley system to which a tether is attached shall be no less than eight (8) feet in length and no more than seven (7) feet above ground."
       ]
     },
     {
@@ -41,6 +52,7 @@
       "url": "https://library.municode.com/sc/north_myrtle_beach/codes/code_of_ordinances?nodeId=COOR_CH4ANFO_ARTIINGE_S4-5CRPOAN",
       "checked": "2026-09-12",
       "supports": [
+        "(d) It shall be unlawful for any person to allow a dog to be tethered: (1) between the hours of 10:00 p.m. and 6:00 a.m. or when no owner or keeper of the dog is present on the premises; (2) by a tether of less than ten (10) feet in length, or less than four (4) times the length of the dog's body from tip of nose to base of tail, whichever is greater; (3) by a tether the length of which allows the dog to cross the property line of the property on which it is tethered; (4) using a logging chain, tow chain, or other tether that causes injury or pain to the dog because of the material of which it is made or because of the size or weight of the tether; (5) by attaching the tether to the dog by a collar that is not properly fitted or by means of a choke chain collar, pinch collar, or prong collar; (6) in an area likely to cause injury or pain to the dog because of entanglement or because of surrounding structures.",
         "(e) It shall be unlawful to leave a dog outside and unattended during extreme weather. (Code 1970, §§ 5-5, 5-6; Ord. of 3-19-80; Ord. No. 02-45, § 2, 10-21-02; Ord. No. 19-36, 8-19-19)"
       ]
     },
@@ -53,22 +65,62 @@
       ]
     },
     {
-      "label": "Myrtle Beach Code of Ordinances, Ch. 4 (Animals): Secs. 4-1, 4-5 and 4-12",
+      "label": "Myrtle Beach Code of Ordinances, Ch. 4 (Animals): Secs. 4-1 and 4-12",
       "url": "https://library.municode.com/sc/myrtle_beach/codes/code_of_ordinances?nodeId=COOR_CH4AN",
       "checked": "2026-09-12",
       "supports": [
         "Municode latest job for product 10726 (API, read 2026-09-12): Republication, codified through Ordinance No. 2025-30, enacted April 22, 2025; MaxTrackingDate 2026-02-16 (current through 16 February 2026).",
         "Sec. 4-1: Kennel means any facility wherein a person, business entity or organization regularly keeps six or more dogs or other animals for any purpose and receives compensation or barter for the service or for the sale of the animal, or a owner or keeper of four or more dogs over four months of age.",
-        "Sec. 4-5: By way of example and not of limitation, the following acts or actions by an owner or keeper of any animal are declared to be a public nuisance and are therefore unlawful: ... (4) Maintaining animals in an environment of unsanitary conditions which results in offensive odors or is dangerous to the animal or to the public health, welfare or safety.",
+        "Sec. 4-1: Mistreatment of animals means a failure, whether intentional or not, to provide veterinary care or wholesome and adequate food, water and appropriate shelter, kept free of waste and debris and which provides protection from harsh weather including, but not limited to, extreme heat, freezing temperatures, snow, hail, tornadoes, thunderstorms, floods, tropical storms or hurricanes. ... Mistreatment shall also include tethering of an animal for more than two hours in any continuous twelve-hour period, tethering of an animal on a premise without a responsible person present, tethering of an animal that is sick or injured, tethering of an animal on a restraining device that exceeds more than ten percent of the body weight of the animal and has a length of less than ten feet, tethering of an animal by any chain or metal restraining devise in which the metal is in direct contact with the skin, and tethering of an animal in such a manner as to cause injury, strangulation or entanglement.",
         "Sec. 4-12. - Kennels. No person shall own or operate a kennel without an inspection by the animal control officer. Commercial kennels shall be constructed, maintained and operated in conformance with the current standards and procedures promulgated by the Humane Society of the United States. Non-commercial kennels must be connected to the city's sanitary sewer system with floors constructed of impervious material, treated with sealer and a slope of at least one half inch per foot for drainage to the sanitary sewer. Enclosures must have at least 15 square feet per animal and comply with all applicable building and zoning codes for structures. (Ord. No. 2001-17, 7-10-01)"
       ]
     },
     {
-      "label": "Myrtle Beach Code of Ordinances, Ch. 18, Sec. 18-5 (Prohibition of non-stormwater discharges)",
-      "url": "https://library.municode.com/sc/myrtle_beach/codes/code_of_ordinances?nodeId=COOR_CH18STMA_ARTIINGE_S18-5PRNORDIINSTMAFAWAST",
+      "label": "Conway Municipal Code, Title 6, Ch. 4, Art. B (Secs. 6-4-21 and 6-4-36)",
+      "url": "https://library.municode.com/sc/conway/codes/code_of_ordinances?nodeId=TIT6HESA_CH4ANFO_ARTBDOCAPE",
       "checked": "2026-09-12",
       "supports": [
-        "(a) Prohibitions. No person shall discharge or cause to be discharged into the city stormwater management facilities or waters of the state any of the following: ... (5) Solid or floatable waste. Solid or floatable discharges which will or may cause interference with the proper operation of the stormwater management facilities. Prohibited materials include, but are not limited to, grease, garbage, animal feces, ashes, cinders, sand, ..."
+        "Municode latest job for product 16288 (API, read 2026-09-12): Supplement 66, codified through Ordinance No. 2025-08-04 (G), enacted August 4, 2025; MaxTrackingDate 2025-09-12 (current through 12 September 2025).",
+        "Sec. 6-4-21: Mistreatment of animals means a failure, whether intentional or not, to provide veterinary care or wholesome and adequate food, water and appropriate shelter, kept free of waste and debris and which provides protection from harsh weather including, but not limited to, extreme heat, freezing temperatures, snow, hail, tornadoes, thunderstorms, floods, tropical storms or hurricanes. ... Mistreatment shall also include tethering of an animal for more than two (2) hours in any continuous 12 hour period, tethering of an animal on a premises without a responsible person present, tethering of an animal that is sick or injured, tethering of an animal on a restraining device that exceeds more than 10 percent of the body weight of the animal and has a length of less than 10 feet, tethering of an animal by any chain or metal restraining devise in which the metal is in direct contact with the skin, and tethering of an animal in such a manner as to cause injury, strangulation or entanglement.",
+        "Sec. 6-4-36(c): Sanitary conditions. Food and bedding shall be clean, dry, and vermin-free. Enclosures, tanks or pens or any confining structure or device shall be kept disinfected and with adequate ventilation. Animal waste must be disposed of without harm to the environment."
+      ]
+    },
+    {
+      "label": "Brunswick County, NC Code of Ordinances, Ch. 1-3, Art. III, Sec. 1-3-101 (Definitions)",
+      "url": "https://library.municode.com/nc/brunswick_county/codes/code_of_ordinances?nodeId=PTICOOR_CH1-3ANCO_ARTIIIANCR_S1-3-101DE",
+      "checked": "2026-09-12",
+      "supports": [
+        "Municode latest job for product 19946 (API, read 2026-09-12): Supplement 26, codified through Ordinance No. UDO-21-01, adopted May 17, 2021; MaxTrackingDate 2022-01-19. Chapter editor's note: Printed herein is the Brunswick County Animal Ordinance as revised through June 18, 2012. Municode OrdBank (API) lists three new ordinances, Ordinance of 10-20-2025(1), (2) and (3), not yet codified; their text was not returned.",
+        "Adequate shelter means an enclosure of at least three (3) sides, a roof and a floor. The enclosure shall be ventilated and must have sufficient room for the animal(s) to move around freely and to lie down comfortably. Animals housed under the following conditions shall not constitute adequate shelter: (1) Underneath outside steps, decks and stoops; (2) Inside of vehicles; (3) Underneath vehicles; (4) Inside metal barrels placed in direct sunlight during the summer; or (5) Inside cardboard boxes.",
+        "Sec. 1-3-3(1): Authority is hereby granted to the county sheriff to enforce this chapter. This chapter shall be enforced by the sheriff, all sheriff's deputies, and all animal protective services officers."
+      ]
+    },
+    {
+      "label": "Brunswick County, NC Code of Ordinances, Ch. 1-3, Art. III, Sec. 1-3-103 (General care and prohibited acts)",
+      "url": "https://library.municode.com/nc/brunswick_county/codes/code_of_ordinances?nodeId=PTICOOR_CH1-3ANCO_ARTIIIANCR_S1-3-103GECAPRAC",
+      "checked": "2026-09-12",
+      "supports": [
+        "(2) Clean shelter. All shelter for animals and the area surrounding said shelter shall be kept clean at all times.",
+        "(13) Tethering. Tethering is defined as a means of tying or fastening a dog outdoors on a rope, cable, or other line for the purpose of restraint. Tethering does not include restraint of a dog on an attended leash. Tethering is prohibited except as set out hereafter. Dogs over six (6) months of age may be tethered to a restraint system outdoors. A restraint system can be an overhead pulley system, a retractable cable system or a swiveled cable anchored into the ground. All of these systems must allow the dog a minimum of ten (10) feet of travel perpendicular to the anchor point. For a pulley system, the stationary cable that the pulley runs on must be at least ten (10) feet in length and anchored on each end to a stationary object. The line attached to the pulley must allow the dog to move perpendicularly at least ten (10) feet from the stationary cable. ... (Ord. of 6-18-12; Ord. of 3-19-18, § 1)"
+      ]
+    },
+    {
+      "label": "Brunswick County, NC Code of Ordinances, Ch. 1-3, Art. VI, Sec. 1-3-254",
+      "url": "https://library.municode.com/nc/brunswick_county/codes/code_of_ordinances?nodeId=PTICOOR_CH1-3ANCO_ARTVIANNU_S1-3-254ANHORELEFI15FEPUWA",
+      "checked": "2026-09-12",
+      "supports": [
+        "Sec. 1-3-254. - Animal housed or restrained less than fifteen (15) feet from public way. Any animal housed or restrained less than fifteen (15) feet from public street, road or sidewalk may be deemed a public nuisance if, in the discretion of animal protective services, the animal poses a threat to the general safety, health and welfare of the general public. (Ord. of 6-18-12)"
+      ]
+    },
+    {
+      "label": "Shallotte, NC Code of Ordinances, Title IX, Ch. 91 (Animals)",
+      "url": "https://library.municode.com/nc/shallotte/codes/code_of_ordinances?nodeId=TITIXGERE_CH91AN",
+      "checked": "2026-09-12",
+      "supports": [
+        "Municode latest job for product 17314 (API, read 2026-09-12): Republication, codified through Ordinance No. 14-17, enacted December 2, 2014; MaxTrackingDate 2026-04-30.",
+        "Chapter 91 sections: § 91.01 Keeping of certain dogs a nuisance; § 91.02 Complaint and notice; § 91.03 Abatement; § 91.04 Impoundment upon failure to abate; destruction; § 91.05 Failure to abate a misdemeanor; § 91.06 Dogs running at large prohibited; § 91.99 Penalty. None mentions shelter, shade or tethering.",
+        "§ 91.01(A): The keeping within the corporate limits of the town of one or more dogs which, by prolonged and habitual barking, howling or whining cause serious annoyance to neighboring residents and interfere with the reasonable use and enjoyment of the premises occupied by the residents, is hereby declared to be a public nuisance, and shall be abated as provided in this chapter.",
+        "§ 91.06(A): It shall be unlawful for any owner of a dog to permit the dog to run at large or to be off the premises of its owner and not on a leash, under the physical restraint of a competent person."
       ]
     },
     {
@@ -87,26 +139,6 @@
       "supports": [
         "Sec. 17.7-28(b): The provisions of this article shall apply throughout the unincorporated areas in Horry County, South Carolina.",
         "Sec. 17.7-29(b): The county stormwater department shall have the authority to: (1) Prohibit and eliminate illicit connections and discharges to the county's stormwater system. ... Illicit discharges include all non-stormwater discharges except those from NPDES permitted industrial sources, fire-fighting activities, water line flushing, landscape irrigation, diverted stream flows, rising ground waters, unpolluted pumped ground water, discharges from potable water sources, foundation drains, air conditioning condensation, irrigation water, springs, water from crawl space pumps, footing drains, lawn watering, individual residential car washing, flows from riparian habitats and wetlands, dechlorinated swimming pool discharges, and street wash water."
-      ]
-    },
-    {
-      "label": "USDA Official Series Description: Leon",
-      "url": "https://soilseries.sc.egov.usda.gov/OSD_Docs/L/LEON.html",
-      "checked": "2026-09-12",
-      "supports": [
-        "Poorly drained and very poorly drained; moderate to moderately rapid permeability in the A and E horizons, moderate to moderately slow permeability in the Bh horizons, and rapidly permeable in the other layers.",
-        "The water table is at depths of 6 to 18 inches for 1 to 4 months during most years.",
-        "The Atlantic and Gulf Coastal Plain from Mississippi, Alabama, Florida, Georgia, South Carolina, North Carolina, Virginia and Maryland."
-      ]
-    },
-    {
-      "label": "USDA Official Series Description: Newhan",
-      "url": "https://soilseries.sc.egov.usda.gov/OSD_Docs/N/NEWHAN.html",
-      "checked": "2026-09-12",
-      "supports": [
-        "Excessively drained; slow runoff; very rapid permeability.",
-        "Newhan soils are on gently undulating dunes commonly near beaches and waterways along the coast.",
-        "Florida, North Carolina, South Carolina, and Virginia."
       ]
     },
     {
@@ -135,18 +167,6 @@
       "checked": "2026-09-12",
       "supports": [
         "(13) Compensatory storage must be provided when fill is used for development within the special flood hazard area or supplemental flood zone with the exception to major highways and publicly owned facilities. ... Compensatory storage must be provided to offset any loss of flood storage capacity to the base flood elevation or supplemental flood elevation whichever is higher. Engineering analyses will be required."
-      ]
-    },
-    {
-      "label": "North Myrtle Beach Code Sec. 23-129.4 (Ord. No. 25-45)",
-      "url": "https://library.municode.com/sc/north_myrtle_beach/codes/code_of_ordinances?nodeId=COOR_CH23ZO_ARTVIIGESURE_S23-129.4STPESUIMSUSIMIDURENOSUSIECDEPLRE",
-      "checked": "2026-09-12",
-      "supports": [
-        "Sec. 23-129.4. - Standards for pervious surfaces and impervious surfaces for single-family and duplex residences not subject to site-specific development plan review.",
-        "(2) Standards for pervious materials: To be considered pervious and excluded from impervious surface calculations, a material or system must: a. Be installed in a manner that allows water infiltration through the surface and into the ground; b. Demonstrate a minimum infiltration rate of two (2) inches per hour, based on manufacturer testing or accepted industry standards; c. Be installed according to manufacturer specifications, including required base materials and installation methods to achieve pervious performance; d. Permits for pervious surfaces are subject to inspection to confirm installation per approved specifications; e. Property owners are responsible for maintaining the system to ensure continued infiltration over time;",
-        "f. This standard applies regardless of native soil conditions. Site-specific soil testing is not required.",
-        "g. If these criteria are not met, the surface will be considered impervious, regardless of material type or labeling.",
-        "(Ord. No. 10-03, § 1, 4-5-10; Ord. No. 25-45, § 2, 10-6-25)"
       ]
     }
   ]

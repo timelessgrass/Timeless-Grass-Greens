@@ -1,0 +1,169 @@
+{
+  "intent": "My artificial lawn in Duval, Clay, Nassau or St. Johns County is worn out, puddles or was torn up by a storm. Does the replacement have to meet Florida's new turf rule, can I reuse the old base and infill, do I need a flood permit to rebuild the base, and where does the old turf legally go?",
+  "distinctValue": "No other area has a replacement page, and the national replacement page only says to 'ask about locally available reuse or recycling options' and to check approvals. This page tells a northeast Florida buyer that DEP's FAQ does not require removal of existing turf, but a replacement on a single-family lot of one acre or less is a new installation held to Rule 62-308.100 (effective 19 May 2026) for s. 125.572(3)(a) protection: infill limited to clean silica sand, rock, shell, other natural material or non-toxic coated silica sand, with rubber or other synthetic infill only under playground equipment and infill kept from washing off the lot (2)(c); natural washed subgrade (2)(d), with the rule silent on reusing a base already in place, so the reader is sent to the local building office; positive drainage, no pooling or added runoff, and no turf in swales, ditches or ponds (4)-(5); anchoring at all edges and seams against wind or flooding (9)(b); and new turf, backing and infill disposable at any Chapter 62-701 permitted landfill (2)(b). For storm-damaged bases it sets out that Clay County Ordinance 87-45 requires a permit before development in a Special Flood Hazard Area and names filling, grading and excavation as development, and that St. Johns County requires a construction permit for any floodplain development under an LDC definition that names filling, grading and excavations, leaving open whether a turf base swap alone triggers either. For disposal it compares four county routes from primary pages: Jacksonville Ordinance Code 380.207 (city garbage service not responsible for building material, dirt or rock from a contractor's work) and 380.302 (solid waste only to director-designated sites); Clay County (bulk pickup excludes construction and remodeling debris including carpet and flooring, remodeling businesses dispose of their own waste, business waste to Rosemary Hill SWMF with fees, residents' no-charge drop-off limits); Nassau County (the Callahan Convenience Recycling Center refuses residential construction and demolition debris such as carpet and remodeling material and refers residents to a private fee-charging recycling center in Yulee); and St. Johns County (C&D not collected curbside, required to go to one of two listed C&D sites, and storm debris separated into vegetation and construction debris piles). It flags that s. 403.703(6) and none of those county pages names artificial turf.",
+  "sources": [
+    {
+      "label": "Rule 62-308.100, F.A.C.: adopted rule text",
+      "url": "https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc",
+      "checked": "2026-09-12",
+      "supports": [
+        "(b) Pursuant to s. 125.572, F.S., this rule establishes minimum standards for the installation of synthetic turf on single-family residential properties of 1 acre or less in size.",
+        "(b) Synthetic turf, including backing materials and infill, must be disposable under normal conditions at any Chapter 62-701, F.A.C., Florida permitted landfill.",
+        "(c) Infill material, if used, shall only be clean silica sand, rock, shell, or other natural material, except that coated silica sand may be used provided that any coating used is non-toxic and meets the requirements described in paragraphs (2)(a) and (2)(b). Rubber or any other synthetic infill material is allowed only within the footprint of playground equipment and must also meet the requirements described in paragraphs (2)(a) and (2)(b). Installation shall be designed to prevent washing away of any infill material off the residential property.",
+        "(d) Subgrade shall be composed of natural materials, such as crushed rock, or crushed concrete that meets the permeability requirements of this rule. Subgrade materials shall be washed prior to installation to prevent fines from binding.",
+        "(b) Synthetic turf must be installed over a subgrade prepared for positive drainage and evenly graded porous material.",
+        "(c) Soil beneath installed subgrade shall not be compacted to the extent that it adversely impacts percolation through the soil.",
+        "(a) Installation of synthetic turf must be designed and installed to prevent pooling or an increase in the stormwater runoff volume, direction, or rates to adjacent properties and, where possible, runoff shall be directed to on-site pervious areas.",
+        "(b) Installation of synthetic turf must not alter the permitted stormwater management system as designed and shall not be installed within a swale, ditch, stormwater pond, or a stormwater pond’s littoral zone.",
+        "(a) Synthetic turf shall be installed according to manufacturer’s specifications.",
+        "(b) Synthetic turf shall be anchored at all edges and seams that, at a minimum, will withstand the effects of wind or flooding.",
+        "Rulemaking Authority 125.572 FS. Law Implemented 125.572 FS. History–New 5-19-26."
+      ]
+    },
+    {
+      "label": "Florida DEP: Minimum Standards for the Installation of Synthetic Turf, Frequently Asked Questions",
+      "url": "https://floridadep.gov/sites/default/files/SyntheticTurfFAQ%20final.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "Does the rule require removal of existing synthetic turf? No. The rule does not require homeowners to remove existing synthetic turf installations.",
+        "Does DEP inspect or enforce synthetic turf installations? No. DEP is not implementing a permitting, inspection or enforcement program under this rule.",
+        "Questions regarding local permitting, installation requirements or potential local ordinance violations should be directed to the applicable local government.",
+        "No. This rule only applies to single-family residential properties that are 1 acre or less in size."
+      ]
+    },
+    {
+      "label": "Fla. Stat. 125.572: regulation of synthetic turf (current text, Florida Legislature)",
+      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0100-0199%2F0125%2FSections%2F0125.572.html",
+      "checked": "2026-09-12",
+      "supports": [
+        "(3)(a) Upon the Department of Environmental Protection adopting rules pursuant to subsection (4), a local government may not: 1. Adopt or enforce any ordinance, resolution, order, rule, or policy that prohibits, or is enforced to prohibit, a property owner from installing synthetic turf that complies with Department of Environmental Protection standards adopted pursuant to this section which apply to single-family residential property."
+      ]
+    },
+    {
+      "label": "Fla. Stat. 403.703: definitions (subsection 6, construction and demolition debris)",
+      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0400-0499/0403/Sections/0403.703.html",
+      "checked": "2026-09-12",
+      "supports": [
+        "(6) “Construction and demolition debris” means discarded materials generally considered to be not water-soluble and nonhazardous in nature, including, but not limited to, steel, glass, brick, concrete, asphalt roofing material, pipe, gypsum wallboard, and lumber, from the construction or destruction of a structure as part of a construction or demolition project or from the renovation of a structure,"
+      ]
+    },
+    {
+      "label": "Clay County Planning and Zoning: Development Within a Flood Plain",
+      "url": "https://www.claycountygov.com/government/planning-and-zoning/flood-fema-info/development-within-a-flood-plain",
+      "checked": "2026-09-12",
+      "supports": [
+        "Clay County Ordinance 87-45 requires that all development within Special Flood Hazard Areas obtain a permit before work begins.",
+        "Development includes any man-made change to improved or unimproved real estate, including buildings, structures, mining, dredging, filling, grading, paving, excavation, drilling operations, and permanent storage of materials.",
+        "Questions regarding Floodplain Permit forms and required documentation should be directed to the Clay County Floodplain Manager."
+      ]
+    },
+    {
+      "label": "St. Johns County: Floodplain Management",
+      "url": "https://www.sjcfl.us/departments/floodplain-management/",
+      "checked": "2026-09-12",
+      "supports": [
+        "St Johns County Land Development Code & Florida Building Code regulations apply to all development that is wholly within or partially within any Special Flood Hazard Areas (including Flood Zones A, AE, AH, AO & VE).",
+        "Any development in the floodplain requires a construction permit."
+      ]
+    },
+    {
+      "label": "St. Johns County Land Development Code, Article XII (definitions), edition of June 2, 2026",
+      "url": "https://www.sjcfl.us/wp-content/uploads/2024/01/Article-XII.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "Development: Any man-made change to improved or unimproved structure and/or real estate, including but not limited to, buildings or other structures, tanks, temporary structures, temporary or permanent storage of equipment or materials",
+        "A. Mining, dredging, filling, grading, paving, excavations,",
+        "June 2, 2026"
+      ]
+    },
+    {
+      "label": "Clay County: Bulk waste",
+      "url": "https://www.claycountygov.com/community/garbage-and-recycling/bulk-waste",
+      "checked": "2026-09-12",
+      "supports": [
+        "Items Not Accepted as Bulk Waste",
+        "Construction and remodeling debris, including boards, cabinets, carpet, flooring, tile, sinks, fencing, outbuildings, decks, pallets, dog houses, brick, concrete, doors, windows, siding, and shingles",
+        "Professional home repair and remodeling businesses are responsible for collecting and disposing of their own waste.",
+        "Bring up to one level pickup truck load at no charge to an Environmental Convenience Center.",
+        "If you receive County garbage collection service, you may bring up to 500 pounds per month at no charge to the Rosemary Hill Solid Waste Facility. Amounts over 500 pounds are charged regular fees."
+      ]
+    },
+    {
+      "label": "Clay County: Commercial waste",
+      "url": "https://www.claycountygov.com/community/garbage-and-recycling/commercial-waste",
+      "checked": "2026-09-12",
+      "supports": [
+        "Business Waste Disposal: All business-generated waste must be taken to the Rosemary Hill Solid Waste Management Facility (SWMF). Disposal fees apply."
+      ]
+    },
+    {
+      "label": "Clay County: Environmental Convenience Centers, drop-off hours and locations",
+      "url": "https://www.claycountygov.com/community/garbage-and-recycling/facilities",
+      "checked": "2026-09-12",
+      "supports": [
+        "Rosemary Hill Solid Waste Management Facility ADDRESS: 3545 Rosemary Hill Road Green Cove Springs, FL 32043"
+      ]
+    },
+    {
+      "label": "Nassau County: Convenience Recycling Center",
+      "url": "https://www.nassaucountyfl.com/368/Convenience-Recycling-Center",
+      "checked": "2026-09-12",
+      "supports": [
+        "The Nassau County Convenience Recycling Center, located at 46026 Landfill Road Callahan, Florida 32011, will accept residential waste generated by Nassau County residents only at no charge.",
+        "Yard waste and residential construction demolition debris (such as carpet and remodeling material) will not be accepted at the Center. These items can be taken to Sandhill Recycle Center located on CR108 in Yulee, Florida 904-225-2801. Sandhill Recycle Center does charge a fee for these materials since they are not affiliated with Nassau County."
+      ]
+    },
+    {
+      "label": "St. Johns County: Construction and demolition debris disposal",
+      "url": "https://www.sjcfl.us/construction-and-demolition-debris-disposal/",
+      "checked": "2026-09-12",
+      "supports": [
+        "Residents and businesses are required to dispose of construction and demolition debris at one of the following locations:",
+        "St. Marks C&D Disposal Facility 1000 St Marks Pond Blvd St. Augustine, FL 32095"
+      ]
+    },
+    {
+      "label": "St. Johns County: Garbage collection",
+      "url": "https://www.sjcfl.us/garbage-collection/",
+      "checked": "2026-09-12",
+      "supports": [
+        "Special waste such as tires, construction & demolition debris, and household hazardous waste is not collected curbside."
+      ]
+    },
+    {
+      "label": "St. Johns County: Storm debris",
+      "url": "https://www.sjcfl.us/storm-debris/",
+      "checked": "2026-09-12",
+      "supports": [
+        "Place storm debris in piles along the curb (not in the roadway) and at least three feet from utility boxes, mailboxes, poles, fire hydrants, and other obstacles.",
+        "Separate vegetation from all other storm-related debris such as construction debris and appliances."
+      ]
+    },
+    {
+      "label": "Jacksonville Ordinance Code Sec. 380.207: collection of building materials and industrial waste",
+      "url": "https://jacksonville.elaws.us/code/coor_titlex_ch380_pt2_sec380.207",
+      "checked": "2026-09-12",
+      "supports": [
+        "The garbage collection service shall not be responsible for the collecting or hauling of trash, discarded building material, dirt, rock, plaster, lumber, metal, noncombustible refuse or other like material originating from private property preliminary to, during, or subsequent to the construction of new buildings of whatever type, in amounts exceeding one cubic yard each week in non-automated collection areas and in amounts exceeding two cubic yards every other week in automated collection areas, or when these materials result from work performed by a construction or building contractor."
+      ]
+    },
+    {
+      "label": "Jacksonville Ordinance Code Sec. 380.302: required disposal procedure",
+      "url": "https://jacksonville.elaws.us/code/coor_titlex_ch380_pt3_sec380.302",
+      "checked": "2026-09-12",
+      "supports": [
+        "Solid waste will be deposited only in sites designated by the Director of Solid Waste and Resource Management.",
+        "The Director of Solid Waste and Resource Management shall specify the materials or items that will be accepted at each of the City-operated trash disposal sites or sanitary landfills"
+      ]
+    }
+  ],
+  "unresolved": [
+    "Rule 62-308.100(2)(d) requires subgrade materials to be washed prior to installation; the rule does not say whether an existing base left in place can satisfy that on a replacement. The page sends the reader to the city or county building office.",
+    "Whether a replacement lawn is an 'installation' under the rule is read from the rule's scope ('minimum standards for the installation of synthetic turf'); no DEP text addresses replacement directly beyond saying existing turf need not be removed.",
+    "Neither Clay County's floodplain page nor St. Johns County's says whether replacing a turf base alone is development needing a floodplain permit; both definitions name filling, grading and excavation. Jacksonville's and Nassau County's floodplain pages were not read (jacksonville.gov returned 403 to every fetch method tried), so the page tells Duval and Nassau readers to ask the office that issues building permits.",
+    "No county source and not s. 403.703(6) names artificial turf; Clay and Nassau both place carpet and flooring in construction or remodeling debris. The page states what each source says and tells the reader to call ahead rather than classifying turf.",
+    "Jacksonville's Solid Waste Division pages on jacksonville.gov returned HTTP 403 to curl, WebFetch and headless Chrome, so Duval disposal is drawn from the Ordinance Code only; the designated sites and accepted-materials lists that s. 380.302 requires were not seen.",
+    "Clay County pages were read in a headless Chrome session on 12 September 2026 after plain fetches returned 403.",
+    "The page does not name the private recycling center in Yulee, the St. Johns C&D disposal sites or any hauler, to avoid company names; the county pages linked name them."
+  ]
+}

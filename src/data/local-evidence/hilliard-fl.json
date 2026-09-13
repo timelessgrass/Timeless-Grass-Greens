@@ -1,0 +1,212 @@
+{
+  "intent": "Inside Hilliard's town limits, do I need the town's permission before a turf base is dug, and which watering rules apply to my yard?",
+  "distinctValue": "Hilliard is an incorporated town with its own land development code, its own water and sewer utility and its own forms, none of which appear on the neighbouring Nassau Village-Ratliff, Nassauville or Baldwin pages. Its code, Sec. 62-353, says no excavation or filling can occur on a lot unless an active permit has been issued, sends permission for excavation for site clearing to the Planning and Zoning Board, and lists one exception: four loads of fill per year on homesteaded properties. The town's Site Clearing/Site Work application (updated 1/2026) asks for a site plan, a statement of proposed work, proof of ownership, a St. Johns River Water Management District permit or letter of exception, a notarized signature and a $200 fee, confirmed in the Resolution 2026-09 fee schedule, and warns that work before approval results in a code enforcement violation. The tree article treats root damage and grade changes over roots as tree removal. Town Public Works supplies water from four Floridan aquifer wells, and its January 2026 notice bans lawn watering from 10 a.m. to 4 p.m., which is looser than the district's Phase III 8 a.m. to 6 p.m. ban, still in effect on 3 September 2026. The page turns that into questions a homeowner can put to the Land Use Administrator before a dig date is set.",
+  "sources": [
+    {
+      "label": "Town of Hilliard: Site Clearing/Site Work Exception Application (updated 1/2026)",
+      "url": "https://www.townofhilliard.com/sites/default/files/fileattachments/town_hall/page/2251/application_-_site_clearing_or_site_work_01.2026.pdf",
+      "checked": "2026-09-12",
+      "note": "Two-page PDF, text layer extracted with pdftotext. The form's own heading misspells EXCEPTION as EXCPETION.",
+      "supports": [
+        "TOWN OF HILLIARD SITE CLEARING/SITE WORK EXCPETION APPLICATION",
+        "15859 W CR 108 Hilliard, FL 32046",
+        "Phone: 904-845-3555",
+        "1. Site Plan including but not limited to: i. Name, location, owner, and designer of the proposed development. ii. Vicinity map - indicating general location of the site and all abutting streets and properties. iii. Statement of Proposed Work",
+        "2. Legal description with tax parcel number",
+        "3. Warranty Deed or other proof of ownership",
+        "4. Permit or Letter of Exception from the St. Johns River Water Management District",
+        "5. Fee i. $200.00",
+        "No application shall be accepted for processing until the required application fee is paid in full.",
+        "A completeness review of the application will be conducted within ten (10) business days of receipt. If the application is determined to be incomplete, the applicant will be required to provide the needed documents prior to approval of work. Work prior to approval will result in a Code Enforcement Violation.",
+        "NOTARY SEAL",
+        "Updated 1/2026"
+      ]
+    },
+    {
+      "label": "Town of Hilliard Resolution No. 2026-09: Unified Fee Schedule (Exhibit A)",
+      "url": "https://www.townofhilliard.com/sites/default/files/fileattachments/town_hall/page/2251/resolution_2026-09_-_zoning_001.pdf",
+      "checked": "2026-09-12",
+      "note": "Scanned six-page PDF; the OCR layer reads 'Site Ctearing / Site Work (Horizontal. Onty) $200.00', corrected here. Exhibit A pages are stamped updated 7/2026.",
+      "supports": [
+        "RESOLUTION NO. 2026-09 A RESOLUTION OF THE TOWN COUNCIL OF THE TOWN OF HILLIARD, FLORIDA, AMENDING RESOLUTION NO. 2026-06, THE TOWN OF HILLIARD UNIFIED FEE SCHEDULE",
+        "ZONING & LAND DEVELOPMENT REGULATION FEES",
+        "Site Plan: Site Clearing / Site Work (Horizontal Only) $200.00",
+        "Site Plan Review - No Utility Extension Needed $500.00"
+      ]
+    },
+    {
+      "label": "Hilliard Code of Ordinances Sec. 62-353: excavation and/or filling",
+      "url": "https://library.municode.com/fl/hilliard/codes/code_of_ordinances?nodeId=PTIIILADERE_CH62ZOLADERE_ARTVISURE_DIV1GE_S62-353EXFI",
+      "checked": "2026-09-12",
+      "note": "Read through Municode's content API (client 8768, product 14456, job 477242), which serves the same text the library page renders. Banner: CODE OF ORDINANCES Town of HILLIARD, FLORIDA, Codified through Ordinance No. 2025-17, enacted December 18, 2025. (Supp. No. 10). The town's own links still point at the old node PTIICOOR_CH62ZOLADERE; the chapter now sits in Part III.",
+      "supports": [
+        "Sec. 62-353. - Excavation and/or filling.",
+        "No excavation or filling can occur on a lot unless an active permit has been issued for the property. No runoff or fill can impede on adjoining properties. Permission for excavation for site clearing must be granted by the planning and zoning board and any necessary state permits are secured, except for the following: (1) Four loads of fill per year on homesteaded properties.",
+        "(Ord. No. 2023-14, § 1(Att. A), 12-7-2023)"
+      ]
+    },
+    {
+      "label": "Town of Hilliard: Land Use & Zoning Board",
+      "url": "https://www.townofhilliard.com/bc-pzb",
+      "checked": "2026-09-12",
+      "supports": [
+        "The Town of Hilliard's Land Use Administrator ... administers and enforces the provisions of the Zoning and Land Development Regulations as stated in the Hilliard Town Code.",
+        "Reviews all applications for building permits including plot plans to determine whether the proposal of work is in compliance with the provisions of the Zoning and Land Development Regulations.",
+        "... is available to advise and provide procedural information to the public in reference to the Town's Zoning and Land Development Regulations by appointment.",
+        "Land Use Administrator 904.675.6172",
+        "The Planning & Zoning Board meets on the fourth Thursday of every month in the chambers at Town Hall at 7:00 p.m."
+      ]
+    },
+    {
+      "label": "Town of Hilliard: Planning & Zoning (forms and fee resolution)",
+      "url": "https://www.townofhilliard.com/town-hall/page/planning-zoning",
+      "checked": "2026-09-12",
+      "supports": [
+        "Application - Site Clearing/Site Work (321 KB)",
+        "Resolution No. 2026-09 - Zoning & Land Use Fees (2 MB)",
+        "Address: 15859 West County Road 108 | Hilliard, FL 32046",
+        "Hours: Monday - Friday 9:00 a.m. - 5:00 p.m.",
+        "Phone: 904-845-3555"
+      ]
+    },
+    {
+      "label": "Hilliard Code of Ordinances, Chapter 62, Article XII: Trees (Secs. 62-570 to 62-575)",
+      "url": "https://library.municode.com/fl/hilliard/codes/code_of_ordinances?nodeId=PTIIILADERE_CH62ZOLADERE_ARTXIITR",
+      "checked": "2026-09-12",
+      "note": "Same Municode job 477242 (Supp. No. 10). Sec. 62-571's heading says exemptions from the landscape requirements of the Code; whether that reaches the Sec. 62-570 removal permit on a house lot is left as a question for the Land Use Administrator.",
+      "supports": [
+        "Sec. 62-570. (a) Removal of a tree includes any act which will cause a tree to die, such as damage inflicted upon the root system by heavy machinery, changing the natural grade above the root system or round the trunk, damage, including fire damage, inflicted on the tree permitting infection or pest infestation.",
+        "Sec. 62-570. (b) It shall be unlawful for any person, organization, society, association or corporation or any agent or representative thereof, directly or indirectly, to cut down, destroy, remove or move, or effectively destroy through damaging any tree located on any property without obtaining a permit.",
+        "Sec. 62-571. The following are exempt from the landscape requirements of the Code. ... (2) One- and two-family dwelling units.",
+        "Sec. 62-571. (4) Exempt trees. The following types of trees shall be exempt from the provisions of this section and removal allowed without a permit: ... All pines Pinus",
+        "Sec. 62-574. (1) a. Live oaks. 1. All efforts shall be made to maintain all live oak trees on the site."
+      ]
+    },
+    {
+      "label": "Hilliard Code of Ordinances Sec. 62-565: required landscaping",
+      "url": "https://library.municode.com/fl/hilliard/codes/code_of_ordinances?nodeId=PTIIILADERE_CH62ZOLADERE_ARTXILA_S62-565RELA",
+      "checked": "2026-09-12",
+      "supports": [
+        "(a) Landscape requirements for one-family dwellings and two-family dwellings for development as part of a PUD rezoning shall be as follows: (1) At least one canopy tree, two and one-half inches DBH, shall be located in the required front yard of each dwelling unit. (2) The lot shall be sodded, seeded, or appropriate ground cover for erosion control."
+      ]
+    },
+    {
+      "label": "Hilliard Code of Ordinances Sec. 62-283: single-family district R-1",
+      "url": "https://library.municode.com/fl/hilliard/codes/code_of_ordinances?nodeId=PTIIILADERE_CH62ZOLADERE_ARTIVDIRE_S62-283SIMIDI",
+      "checked": "2026-09-12",
+      "supports": [
+        "Sec. 62-283. - Single-family district R-1.",
+        "(c) Maximum lot coverage. Maximum lot coverage by all buildings and accessory structures shall not exceed 30 percent of lot area."
+      ]
+    },
+    {
+      "label": "Hilliard Code of Ordinances Sec. 62-284: single-family district R-2",
+      "url": "https://library.municode.com/fl/hilliard/codes/code_of_ordinances?nodeId=PTIIILADERE_CH62ZOLADERE_ARTIVDIRE_S62-284SIMIDI",
+      "checked": "2026-09-12",
+      "supports": [
+        "Sec. 62-284. - Single-family district R-2.",
+        "(c) Maximum lot coverage. Maximum lot coverage by all buildings and accessory structures shall not exceed 30 percent of lot area."
+      ]
+    },
+    {
+      "label": "Hilliard Code of Ordinances Sec. 62-473: floodplain permits required",
+      "url": "https://library.municode.com/fl/hilliard/codes/code_of_ordinances?nodeId=PTIIILADERE_CH62ZOLADERE_ARTVIIIFLDAPR_DIV4PE_S62-473PERE",
+      "checked": "2026-09-12",
+      "supports": [
+        "Any owner or owner's authorized agent (hereinafter \"applicant\") who intends to undertake any development activity within the scope of this article, including buildings, structures and facilities exempt from the Florida Building Code, which is wholly within or partially within any flood hazard area shall first make application to the floodplain administrator, and the building official if applicable, and shall obtain the required permit(s) and approval(s)."
+      ]
+    },
+    {
+      "label": "Hilliard Code of Ordinances Sec. 58-47: connecting private wells",
+      "url": "https://library.municode.com/fl/hilliard/codes/code_of_ordinances?nodeId=PTIICOOR_CH58UT_ARTIICO_S58-47COPRWE",
+      "checked": "2026-09-12",
+      "supports": [
+        "Sec. 58-47. - Connecting private wells.",
+        "(c) Digging and installation of wells for other than irrigation purposes is prohibited if town water service is available to the lot. No well shall be dug without a state permit and inspection."
+      ]
+    },
+    {
+      "label": "Town of Hilliard Public Works: Water Conservation Update (updated 1/2026)",
+      "url": "https://www.townofhilliard.com/sites/default/files/fileattachments/public_works/page/1401/update_-_water_conservation.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "This is a reminder that even though we have received quite a bit of rain, we are still in the middle of a severe drought. Due to increased water demand confined aquifer levels have dropped dramatically.",
+        "1. Lawn watering is not allowed between 10 A.M. and 4 P.M.",
+        "Updated 1/2026"
+      ]
+    },
+    {
+      "label": "Town of Hilliard: Water & Sewer",
+      "url": "https://www.townofhilliard.com/publicworks/page/water-sewer",
+      "checked": "2026-09-12",
+      "supports": [
+        "If you would like to open a Water or Sewer account, or both, with the Town of Hilliard, you may download an application for service below, or obtain an application at Town Hall.",
+        "If you have any questions regarding water and sewer service, please contact Town Hall at (904) 845-3555.",
+        "Update - Water Conservation (147 KB)"
+      ]
+    },
+    {
+      "label": "Town of Hilliard Comprehensive Plan 2040 (adopted)",
+      "url": "https://www.townofhilliard.com/system/temporary/filefield_paths/comprehensive_plan_-_adopted_clean-.pdf",
+      "checked": "2026-09-12",
+      "note": "Linked from the town's Planning & Zoning page as 'Adopted Comprehensive Plan 2040'. The soil map legend is extracted text from the map titled Soil Types, Town of Hilliard, dated 3/31/2020.",
+      "supports": [
+        "COMPREHENSIVE PLAN 2040",
+        "Most of the businesses and residents in the Town are served by the Town's water system.",
+        "Potable water is obtained from the Floridan Aquifer. The Town has four wells each of which has a pumping capacity of 350 gallons per minute (g.p.m.).",
+        "The Floridian Aquifer lies 400-500 feet below the ground surface in the Hilliard area. In comparison to other area of the state, recharge to the Floridian Aquifer in the Hilliard area is very low. The surficial aquifer lies just below the land surface and extends through the planning area.",
+        "The Town of Hilliard is the operator of the sanitary sewer system in the town limits.",
+        "The Town does not have any reuse service areas in the town limits.",
+        "Soil Types, Town of Hilliard, legend: ALBANY, ELLABELLE, MEADOWBROOK, AQUALFS, EVERGREEN, RIDGEWOOD, BLANTON, GOLDHEAD, RUTLEGE, BOULOGNE, HURRICANE, URBAN LAND, BUCCANEER, KINGSFERRY, WATER, CENTENARY, LEON"
+      ]
+    },
+    {
+      "label": "St. Johns River Water Management District: Water Shortage Order Declaring a Phase III Extreme Water Shortage, F.O.R. No. 2026-0005 (order 2026-017)",
+      "url": "https://aws.sjrwmd.com/SJRWMD/government/2026-017-WSO-Phase-III.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "This matter came before the Executive Director of the St. Johns River Water Management District (\"District\") on May 11, 2026, at District Headquarters in Palatka, Florida.",
+        "A Phase III Extreme Water Shortage is declared for all sources of water within the following areas: a. All of Clay, Duval, Flagler, Nassau, Putnam, and St. Johns counties.",
+        "The following restrictions and measures, as detailed in rules 40C-21.601, 40C-21.631, and 40C-21.641, F.A.C., are imposed for all sources and uses of water, including those exempt from permitting pursuant to Chapter 40C-2, F.A.C., except for the domestic use of water as defined in section 373.019(6), F.S., and users whose sole source of water is reclaimed water or seawater.",
+        "All residential landscape irrigation is limited to one day a week (Eastern Standard Time one day a week irrigation schedule), regardless of time of year.",
+        "Odd numbered addresses: Saturday. Even Numbered Addresses: Sunday. Non-residential: Tuesday",
+        "Landscape Irrigation is prohibited between the hours of 8:00 a.m. and 6:00p.m.",
+        "RENDERED this 11th day of May, 2026."
+      ]
+    },
+    {
+      "label": "St. Johns River Water Management District: water resources update (3 September 2026)",
+      "url": "https://www.sjrwmd.com/2026/09/one-year-of-below-average-rainfall-continues-to-impact-water-resources-across-portions-of-the-district/",
+      "checked": "2026-09-12",
+      "note": "The site returns 403 to curl; read through a fetch tool.",
+      "supports": [
+        "Published by Communications at September 3, 2026",
+        "The District's Phase III Extreme Water Shortage declaration remains in effect within affected areas as staff continue monitoring rainfall, groundwater levels, spring flows and other drought indicators.",
+        "Residential and commercial properties are limited to one day per week of landscape irrigation",
+        "Landscape irrigation is prohibited between 8 a.m. and 6 p.m. daily."
+      ]
+    },
+    {
+      "label": "St. Johns River Water Management District: watering restrictions",
+      "url": "https://www.sjrwmd.com/wateringrestrictions/",
+      "checked": "2026-09-12",
+      "note": "The site returns 403 to curl; read through a fetch tool.",
+      "supports": [
+        "Water Shortage Order (2026-017)",
+        "Irrigation is never allowed between 8 a.m. and 6 p.m.",
+        "Residential odd-numbered or no address: Saturday",
+        "Residential even-numbered address: Sunday",
+        "Restrictions apply to private wells and pumps, ground or surface water and water from public and private utilities."
+      ]
+    }
+  ],
+  "unresolved": [
+    "Whether a residential turf base counts as excavation or filling under Sec. 62-353, and whether it needs the Site Clearing/Site Work application, is not stated in the code or on the form. The page sends the reader to the Land Use Administrator (904-675-6172) for a written answer before a dig date is set.",
+    "Sec. 62-353's exception for four loads of fill per year on homesteaded properties follows the Planning and Zoning Board sentence; whether it also relieves the active-permit sentence is not clear from the text. The page quotes the exception and tells the reader to ask.",
+    "Sec. 62-571 exempts one- and two-family dwelling units from the landscape requirements, and all pines from the tree section, but does not say plainly whether the Sec. 62-570 removal permit applies to a hardwood on a house lot. The page asks the reader to confirm with the Land Use Administrator.",
+    "Whether a PUD home's front-yard ground cover requirement (Sec. 62-565(a)) accepts synthetic turf is not addressed; the page frames it as a question.",
+    "The lot coverage caps count buildings and accessory structures and do not mention ground covers; the page says so and sends a reader near the cap to ask.",
+    "The 2026 Planning & Zoning deadline calendar is a scanned image with no text layer, so the page gives only the board's standing meeting day and time.",
+    "The district's watering restrictions page says 'Portions of ... Nassau ... counties within the District', while the signed order says 'All of ... Nassau'; the page follows the signed order."
+  ]
+}

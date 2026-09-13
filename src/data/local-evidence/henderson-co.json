@@ -1,0 +1,146 @@
+{
+  "intent": "My Henderson home is on a well and a septic system. Can I water a lawn at all, where can artificial turf go without trouble for the leach field, and does Adams County or a neighbouring city set the rules for my lot?",
+  "distinctValue": "Leads with the state well-permit rule that decides whether a Henderson lawn may be watered at all (Guideline 2023-1: household-use-only exempt wells on parcels under 35 acres have no allowed outdoor uses), names the two small groundwater community systems EPA lists at Henderson addresses, and applies Adams County Health Department Regulation O-26 (effective 5 January 2026) to turf placement: Section 11.10 bars compaction and recreational use over a soil treatment area, Table 6 keeps a field 100 feet from a well, and buried septic lids are a use-permit deficiency. It adds the Adams County DSR line that artificial turf is not a landscape material (4-19-04-01) and how that section applies. Brighton's page is city water and city code, Todd Creek's is metro-district non-potable water, and Commerce City's is South Adams County Water; none carries the well-permit or septic rules.",
+  "sources": [
+    {
+      "label": "Colorado Division of Water Resources: Guideline 2023-1",
+      "url": "https://dnrweblink.state.co.us/dwr/ElectronicFile.aspx?docid=4187690&dbid=0",
+      "checked": "2026-09-12",
+      "supports": [
+        "Guideline 2023-1 Uses of Water From Exempt and Small Capacity Wells",
+        "The majority of exempt wells are issued under this statute; which prescribes allowed uses for three types of parcels: those less than 35 acres, those equal to or greater than 35 acres, and those that are located in cluster developments as defined in section 30-28-403.",
+        "Exempt well permits issued pursuant to section 37-92-602(3)(b)(II)(A) on parcels less than 35 acres, which are not on parcels created through a cluster development, are limited to ordinary household purposes inside one single-family dwelling, with no allowed outdoor uses.",
+        "Use of water outside of the dwelling structure including, but not limited to: Growing plants that are not inside the dwelling, including those grown in a greenhouse; Washing vehicles, windows, decks, or other outdoor features.",
+        "Exempt well permits may include the \"irrigation of not over one acre of home gardens and lawn\" pursuant to section 37-92-602(1)(b), but may be permitted for less than one acre in some instances (e.g. some well permits in Denver Basin).",
+        "Permits that allow for lawn and garden irrigation do not allow for water to be used for washing vehicles or machinery, or filling or supplying water to landscape features such as pools, ponds, fountains, waterfalls, or other landscape structures.",
+        "For well permits that do not include use of water for lawn and garden irrigation (such as household use only well permits), watering of plants is strictly limited to growing personal plants indoors that will not be sold."
+      ]
+    },
+    {
+      "label": "Colorado Division of Water Resources: Well Permits search",
+      "url": "https://dwr.state.co.us/Tools/WellPermits",
+      "checked": "2026-09-12",
+      "supports": [
+        "Well Permits",
+        "If you know your permit number: 1. Do not touch the top four items, so they still say 'All'. 2. Click the word 'Select', just above the bouncing arrow. 3. From the dropdown list, click 'Permit Number'. 4. Type your permit number, numbers only, in the 'From' box.",
+        "Search fields include Address, Applicant, County, Parcel ID, Permit Status, Permitted Use, WDID and Well Name."
+      ]
+    },
+    {
+      "label": "US EPA SDWIS: Hazeltine Heights Water",
+      "url": "https://data.epa.gov/efservice/WATER_SYSTEM/PRIMACY_AGENCY_CODE/CO/PWS_NAME/CONTAINING/HAZELTINE/JSON",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"pwsid\": \"CO0101070\", \"pws_name\": \"HAZELTINE HEIGHTS WATER\"",
+        "\"pws_activity_code\": \"A\", \"pws_type_code\": \"CWS\"",
+        "\"gw_sw_code\": \"GW\", \"primary_source_code\": \"GW\"",
+        "\"service_connections_count\": 88",
+        "\"address_line2\": \"PO BOX 38\", \"city_name\": \"HENDERSON\", \"zip_code\": \"80640\""
+      ]
+    },
+    {
+      "label": "US EPA SDWIS: Tucson WC",
+      "url": "https://data.epa.gov/efservice/WATER_SYSTEM/PRIMACY_AGENCY_CODE/CO/PWS_NAME/CONTAINING/TUCSON/JSON",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"pwsid\": \"CO0101158\", \"pws_name\": \"TUCSON WC\"",
+        "\"pws_activity_code\": \"A\", \"pws_type_code\": \"CWS\"",
+        "\"gw_sw_code\": \"GW\", \"primary_source_code\": \"GW\"",
+        "\"service_connections_count\": 36",
+        "\"address_line1\": \"12563 SALEM ST\", \"city_name\": \"HENDERSON\", \"zip_code\": \"80640\""
+      ]
+    },
+    {
+      "label": "Adams County Health Department: Regulation O-26",
+      "url": "https://adamscountyhealthdepartment.org/wp-content/uploads/sites/2/2026/01/eh-wq-septic-system-regulations-2026.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "REGULATION O-26 On-Site Wastewater Treatment Systems. Effective Date: January 5, 2026",
+        "4.2 A. The owner or seller of a property served by an OWTS shall obtain an inspection report and the issuance of a Use Permit, as applicable, dated within 12 months prior to the occurrence of one (1) or more of the following events: 1) The sale of the property, as more fully defined in Section 4.3, herein; 2) A remodel that includes any additional flow to the current system; 3) A change in use of the property from residential to commercial, or commercial to commercial;",
+        "11.10 Surface Activity. A. Activity or use on the surface of the ground over any part of the OWTS must be restricted. The soil treatment area must not be subject to damage or soil compaction from livestock, vehicular traffic, recreational use, or other site development activity.",
+        "6) A final cover of soil suitable for vegetation at least 10 inches deep must be placed from the top of the geotextile or similar pervious material in a rock and pipe system, chamber, or manufactured media up to the final surface grade of the soil treatment area.",
+        "7) Following construction, the ground surface must be graded to divert storm water runoff or other outside water from the soil treatment area.",
+        "TABLE 6: MINIMUM HORIZONTAL DISTANCES IN FEET BETWEEN OWTS COMPONENTS AND WATER, PHYSICAL, AND HEALTH IMPACT FEATURES. Row: STA trench, STA bed, unlined sand filter, sub-surface dispersal system, seepage pit. Column: Spring, well, suction line, underground potable water supply cistern: 100 (footnote 3 adds distance for design flows between 1,000 and 2,000 gallons per day)."
+      ]
+    },
+    {
+      "label": "Adams County Board of Health: Resolution 2025-012",
+      "url": "https://adamscountyhealthdepartment.org/wp-content/uploads/sites/2/2025/12/boh-resolution-septic-systems-regulations-2025.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "RESOLUTION ADOPTING REGULATION NO. O-26 ON-SITE WASTEWATER TREATMENT SYSTEMS. Resolution No. 2025-012",
+        "hereby adopts Regulation No. O-26, Adams County Health Department Regulations for On-Site Wastewater Treatment Systems, amending and replacing Regulation O-22, effective January 5, 2026.",
+        "ADOPTED, this 20th day of November, 2025."
+      ]
+    },
+    {
+      "label": "Adams County Health Department: OWTS Use Permit FAQ (revised 12/2025)",
+      "url": "https://adamscountyhealthdepartment.org/wp-content/uploads/sites/2/2026/01/eh-wq-septic-system-faqs-2026.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "Phone: 303-288-6816 Email: ehwaterprogram@adamscountyco.gov",
+        "That inspector will check the septic tank, electrical connections, controls and pumps (if the OWTS has these), and the soil treatment area (leach field).",
+        "All deficiencies with the OWTS found by the inspector will need to be repaired before ACHD can issue a use permit. Examples of these include but are not limited to electrical connections that don't meet code, damaged septic tank lids, pump not working, risers and lids below grade, etc.",
+        "In cases where the home is being sold or changing ownership, the owner or seller of the home will be required to obtain the \"Use Permit\".",
+        "A Use Permit for a sale is valid until the date of real estate closing or for a period of twelve months, whichever comes first."
+      ]
+    },
+    {
+      "label": "Adams County Health Department: septic systems",
+      "url": "https://adamscountyhealthdepartment.org/licensing-inspections/septic-systems/",
+      "checked": "2026-09-12",
+      "supports": [
+        "Phone: 303.288.6816. Email: ehwaterprogram@adamscountyco.gov",
+        "A use/transfer of title permit is required to sell a home or business with an existing septic system in most cases.",
+        "Septic System Lookup Tool"
+      ]
+    },
+    {
+      "label": "Adams County Development Standards and Regulations: Chapter 4 (October 1, 2024)",
+      "url": "https://adamscountyco.gov/wp-content/uploads/2025/08/dsr-chapter-04.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "Chapter 4—Design Requirements and Performance Standards. October 1, 2024",
+        "4-19-02 APPLICABILITY. The provisions of this article shall apply to development, which meets one (1) of the following and is not exempt: 1. All new development which has not applied for a building permit before the effective date of this Section; or 2. Existing development which requires a change in use permit as determined within the Change in Use Section of Chapter 4.",
+        "4-19-04-01 LANDSCAPE MATERIALS. No artificial trees, plants, or turf shall be used as a landscape material. If an applicant is interested in using artificial turf in their development, they shall meet the minimum standards for required plant materials and submit a request for an alternative turf design with drainage specifications to the Director of Community and Economic Development.",
+        "4-19-09-01-01 SINGLE FAMILY DWELLING LANDSCAPING. 1. Front and Side Setbacks: The entire front and side setbacks shall be landscaped, except for driveways. 2. Back Yard Setback: A minimum thirty percent (30%) of the back yard shall be landscaped.",
+        "Single-family residential uses in eastern Adams County are not required to install landscaping or automatic irrigation systems."
+      ]
+    },
+    {
+      "label": "Adams County: Planning & Development",
+      "url": "https://adamscountyco.gov/our-county/community-economic-development/planning-development/",
+      "checked": "2026-09-12",
+      "supports": [
+        "Please contact the Planner of the Day* at 720.523.6800 or cedd-plan@adamscountyco.gov",
+        "please fill out a zoning verification or conceptual review meeting application through the ePermit Center."
+      ]
+    },
+    {
+      "label": "Wikipedia: Henderson, Colorado",
+      "url": "https://en.wikipedia.org/wiki/Henderson,_Colorado",
+      "checked": "2026-09-12",
+      "supports": [
+        "Henderson, formerly known as Henderson Island, is an unincorporated community and a U.S. Post Office in Adams County, Colorado, United States. Henderson has the ZIP Code 80640.",
+        "Portions of the Henderson area have been annexed by Commerce City, Brighton, and Thornton.",
+        "Coordinates: 39.92083°N 104.88389°W"
+      ]
+    },
+    {
+      "label": "USDA Soil Data Access",
+      "url": "https://sdmdataaccess.sc.egov.usda.gov/",
+      "checked": "2026-09-12",
+      "supports": [
+        "Point query at 39.92083, -104.88389 (Wikipedia's coordinates for Henderson): map unit NuB, Nunn clay loam, 1 to 3 percent slopes; Nunn 85%, Fine, smectitic, mesic Aridic Argiustolls, Well drained.",
+        "Point query at 39.9205, -104.8658, about a mile east: map unit VoA, Vona sandy loam, 0 to 1 percent slopes; Vona 90%, Coarse-loamy, mixed, mesic Ustollic Haplargids, Well drained."
+      ]
+    }
+  ],
+  "unresolved": [
+    "O-26 does not name artificial turf. Whether a turf base or turf surface may sit over or beside a soil treatment area is not stated; the page sends the reader to the Adams County Health Department Water Quality team (303-288-6816).",
+    "Whether DSR Section 4-19 reaches turf added behind an existing single-family home that needs no change in use permit is not stated; the page sends the reader to the county Planner of the Day.",
+    "Whether a given Henderson parcel is in urban or eastern Adams County, and whether it is unincorporated or annexed into Commerce City, Brighton or Thornton, was not checked parcel by parcel.",
+    "Neither EPA record says whether Hazeltine Heights Water or Tucson WC limits outdoor watering; the page tells the reader to ask the system that bills them.",
+    "No published count of private domestic wells in Henderson was found, so the page states none. Henderson is not a Census place, and the page gives no population."
+  ]
+}

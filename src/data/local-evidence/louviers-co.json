@@ -1,0 +1,113 @@
+{
+  "intent": "Which watering rules apply to a Louviers yard, what each drought stage allows while a yard is being redone, and what else local (new water lines, the water supply, the soil) should shape a turf layout?",
+  "distinctValue": "Louviers has its own water and sanitation district with its own signed drought restrictions, adopted 21 April 2026: homes water Tuesday, Thursday and Saturday at Stage 1 (never 10 a.m. to 6 p.m.), Tuesday and Saturday at Stage 2, when no new lawns, trees, perennials or shrubs may be planted, and Stage 3 may prohibit all outdoor use. None of the nearest pages (Sterling Ranch, Highlands Ranch, Castle Pines, Castle Rock) has these days, the Stage 2 planting ban, the district's penalty ladder or its written-notice rule. The page also carries the district's 2026 water main and service line replacement (a reason to locate lines before a base is dug), the variance process and its September/October/November 2026 board meetings, and USDA soil data showing mostly well-drained ground at and around the center of town, with one small pocket of high-clay Louviers soil on nearby slopes. The district's site does not say which stage is in force as of 12 September 2026, so the page tells the reader to find the notice or ask.",
+  "sources": [
+    {
+      "label": "Louviers Water and Sanitation District: resolution adopting drought and water shortage restrictions (signed)",
+      "url": "https://www.louvierswsd.com/files/dd71da165/LWSD_-_Resolution_Adopting_Drought_and_Water_Shortage_Response_-_2026+SIGNED.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"APPROVED AND ADOPTED THIS 21st day of April 2026.\"",
+        "\"The District owns, operates, and maintains water facilities and improvements, including a water supply, storage, treatment, and distribution system\"",
+        "\"At the sole discretion of the Board, Drought and Water Shortage Restrictions (the “Restrictions”) will go into effect for limited periods of time.\"",
+        "\"The following Restrictions apply to all customers and users of the Louviers Water and Sanitation District (the “District”) and pertain to the use of water supplied by the District.\"",
+        "\"There are four stages of Restrictions (each a “Stage”): a. Voluntary Drought Restrictions b. Stage 1 Drought Restrictions c. Stage 2 Drought Restrictions d. Stage 3 Drought Restrictions\"",
+        "\"The District will provide written notice to all customers when a Stage is implemented. This notice shall specify: a. The specific stage in effect; b. The effective date of the stage; and c. The restrictions that customers are required to follow during the designated stage.\"",
+        "Penalties: \"Upon a first violation, the District will issue a written notice to the customer identifying the violation.\" / Second: \"inform the customer that a Violation Charge will be applied to the customer’s water bill.\" / Third: \"The notice will also advise the customer of the opportunity for a hearing\" / Fourth: \"the District may temporarily discontinue the customer’s water service until the violation is corrected and all outstanding penalties and water service charges have been paid ... The customer will be responsible for all applicable service shut off/turn on fees.\"",
+        "Voluntary: \"All Stage 1 Drought Restrictions on a voluntary basis. No enforcement, and no penalties or fines for noncompliance.\"",
+        "Stage 1: \"All customers shall limit outdoor watering to no more than three days per week.\" / \"Residential property: Tuesday, Thursday, and Saturday.\" / \"All other Property (including DuPont Park, Triangle Park, Village Club Park and right-of-way taps): Monday, Wednesday, and Friday.\" / \"Outdoor watering is prohibited between the hours of 10:00 a.m. and 6:00 p.m.\"",
+        "Stage 1: \"Trees, shrubs, and perennials may be watered on any day using a hand-held hose or other low-volume, dripline, or non-spray irrigation methods.\" / \"Annuals plantings, vegetable/fruit/herb gardens and community gardens ... may be watered on any day using a hand-held hose or other low-volume, dripline, or non-spray irrigation methods.\"",
+        "Stage 1: \"Power washing is only permitted on assigned watering days, except when necessary for immediate health or safety reasons.\"",
+        "Stages 1 and 2: \"The Board may, in its discretion, grant variances from these restrictions. Variances may be approved in writing for specific uses, water sources, time periods, seasonal needs, or other circumstances as determined by the Board.\"",
+        "Stage 2: \"All customers shall limit outdoor watering to no more than two days per week.\" / \"Residential property: Tuesday and Saturday.\" / \"Outdoor watering is prohibited between the hours of 10:00 a.m. and 6:00 p.m.\"",
+        "Stage 2: \"Existing trees, shrubs, and perennials should be watered in accordance with the Outdoor Irrigation Schedule and only by means of a hand-held hose or other low-volume, dripline, or non-spray irrigation methods. No new lawns, trees, perennials, or shrubs may be planted.\"",
+        "Stage 2: \"No new annual plantings, vegetable/fruit/herb gardens and community gardens may be planted.\"",
+        "Stage 2: \"The use of water to clean outdoor impervious surfaces such as sidewalks, driveways and patios is prohibited, except when necessary for immediate public health or safety reasons.\"",
+        "Stage 3: \"A Stage 3 response activates a rationing program. ... During this stage, all outdoor water use may be prohibited, and indoor water use may be restricted.\"",
+        "The document does not mention artificial, synthetic or nonvegetative turf."
+      ]
+    },
+    {
+      "label": "Louviers Water and Sanitation District: rules, regulations and policies",
+      "url": "https://www.louvierswsd.com/rules-regulations-policies",
+      "checked": "2026-09-12",
+      "supports": [
+        "Lists under 2026: \"LWSD - 2026 LWSD Resolution Adopting Drought & Water Shortage Response\" and \"LWSD - 2026 LWSD Resolution Adopting Amended Rules and Regulations and Accessory Dwelling Unit Policy\".",
+        "Neither this page, the home page, the water conservation plan page nor the wildfire and water conservation page states which drought stage, if any, is in force (checked 12 September 2026)."
+      ]
+    },
+    {
+      "label": "Louviers Water and Sanitation District: home page",
+      "url": "https://www.louvierswsd.com/",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"Louviers Water and Sanitation District provides water and sewer services to the town of Louviers.\"",
+        "Board Meetings listing: \"Sep 15 2026 Board Meeting\", \"Oct 27 2026 Board Meeting\", \"Nov 17 2026 Board Meeting\".",
+        "The site's navigation lists no rebate page (District Information, Payment & Billing, Board of Directors, Rates, Budget, Contact Us)."
+      ]
+    },
+    {
+      "label": "Louviers Water and Sanitation District: special board meeting agenda, 15 September 2026",
+      "url": "https://www.louvierswsd.com/files/362d79cde/LWSD+Agenda_09.15.2026+DRAFT.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"LOUVIERS WATER AND SANITATION DISTRICT Special Board Meeting Agenda Date: Tuesday, September 15, 2026 Time: 6:30 P.M.\"",
+        "\"Executive Session ... to receive legal advice regarding potential renewable water and wastewater services for the District related to Intergovernmental Agreements with Dominion Water and Sanitation District\"",
+        "\"Construction Update: Engineer Report on Construction Projects\"",
+        "\"Rules and Regulations Update – Progress report\"",
+        "\"The next meeting is scheduled for October 27, 2026, at 6:30 pm.\""
+      ]
+    },
+    {
+      "label": "Louviers Water and Sanitation District: contact us",
+      "url": "https://www.louvierswsd.com/contact-us",
+      "checked": "2026-09-13",
+      "supports": [
+        "District Management contact: \"303.482.1002 ext 5\", email info@ccrider.us, Circuit Rider of Colorado.",
+        "Emergency Contact: \"303-800-1191 for 24 hour emergency response.\""
+      ]
+    },
+    {
+      "label": "Louviers Water and Sanitation District: construction notice and water meter replacement notice",
+      "url": "https://www.louvierswsd.com/construction-notice-and-water-meter-replacement-notice",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"FEBRUARY 11, 2026 Staging and construction work will soon begin work to replace water mains and individual water service lines in portions of Louviers.\"",
+        "\"The District’s contractor ... is anticipated to mobilize to site approximately March 10th, start installing water main approximately April 6th, and continue construction through approximately August 2026.\"",
+        "\"A select number of homes which have not yet had meter replacements completed to date will be contacted during this construction project to replace the water line and meter at the same time.\"",
+        "\"Please contact us if to update your contact information to receive notices or if you have questions or concerns at: info@ccrider.us or 303-482-1002.\""
+      ]
+    },
+    {
+      "label": "Louviers Water and Sanitation District: Douglas County federal funding award",
+      "url": "https://www.louvierswsd.com/douglas-county-water-infrastructure-project-advances-through-federal-funding-award",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"The Louviers Water & Sanitation District Drinking Water Distribution Replacement project will support the replacement of approximately 12,000 feet of aging galvanized steel pipe, 86 service lines, and 15 fire hydrants in Louviers.\""
+      ]
+    },
+    {
+      "label": "Wikipedia: Louviers, Colorado",
+      "url": "https://en.wikipedia.org/wiki/Louviers,_Colorado",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"Louviers is an unincorporated town, a post office, and a census-designated place (CDP) located in and governed by Douglas County, Colorado, United States.\"",
+        "\"Louviers was laid out by the DuPont Company in 1906\"",
+        "\"The eastern border of Louviers is U.S. Route 85\"",
+        "Infobox: \"Elevation 5,614 ft (1,711 m)\""
+      ]
+    },
+    {
+      "label": "USDA Soil Data Access (SSURGO), Castle Rock Area, Colorado (CO622)",
+      "url": "https://sdmdataaccess.sc.egov.usda.gov/",
+      "checked": "2026-09-12",
+      "supports": [
+        "Point query at point(-104.99944 39.48), the Wikipedia/GNIS coordinates for Louviers: map unit 498738 \"Loamy alluvial land\"; component Loamy alluvial land 80 percent, hydgrp C, drainagecl \"Well drained\", slope 1 to 5; horizons 0-51 cm claytotal_r 19, lep_r 1.5; 51-102 cm claytotal_r 21.5, lep_r 1.5.",
+        "A 5 by 5 point grid from 39.474 to 39.486 N and 105.007 to 104.991 W (about half a mile each way from the center point) returned: Loamy alluvial land (8 points); Newlin gravelly sandy loam, 8 to 30 percent slopes (5); Blakeland-Orsa association, 1 to 4 percent slopes (5); Sampson loam (3); Newlin-Satanta complex, 5 to 20 percent slopes (1); Sandy wet alluvial land (1); Bresser-Louviers complex, 7 to 30 percent slopes (1); Fondis-Kutch association (1).",
+        "Map unit 498702 \"Blakeland-Orsa association, 1 to 4 percent slopes\": Blakeland 50 percent, hydgrp A, Well drained; Orsa 35 percent, hydgrp A, Somewhat excessively drained.",
+        "Map unit 498761 \"Sampson loam\": Sampson 80 percent, hydgrp B, Well drained.",
+        "Map unit 498705 \"Bresser-Louviers complex, 7 to 30 percent slopes\": Bresser 45 percent, hydgrp B; Louviers 30 percent, hydgrp D, Well drained, slope 15 to 30; Louviers horizons 0-10 cm claytotal_r 45, lep_r 7.5; 10-30 cm claytotal_r 42.5, lep_r 7.5."
+      ]
+    }
+  ]
+}

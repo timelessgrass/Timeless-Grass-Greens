@@ -1,0 +1,151 @@
+{
+  "intent": "Can artificial turf go into my Federal Heights yard or site, what does the city's own code say about turf, irrigation and upkeep, whose drought rules apply to my water, and which city office do I ask?",
+  "distinctValue": "Federal Heights is its own home-rule city with its own zoning code and water bought from Westminster, so the Westminster, Northglenn and Thornton pages mislead a buyer here. Its code (Sec. 70-512(1)a) bars artificial turf from fulfilling the minimum landscaping requirement, and (1)b and (1)d require every area not covered by parking or structures to be landscaped and automatically irrigated with 100 percent coverage. Those rules reach sites that need a landscape plan (70-507), which follows the site development plan trigger in 70-468: new principal buildings, additions over 20 percent and 20 percent changes to mobile home parks, with detached single-family, two-family and existing park setups excluded. Once approved, the plan binds later owners (70-513, which also reaches existing development), changes below the minimum or with dissimilar materials are not minor (70-509), and 70-514 sets 30 days' notice before the city corrects and bills. A search of the whole code finds turf only in 70-512, so the house-lot question is referred to Planning (303-412-3530) rather than answered. Also local and on no neighbouring page: the fence and retaining wall permit (70-541) and wall trigger (70-542), the R-4 park recreation set-aside of 8 percent in parcels of at least 2.4 acres (70-293), park operator responsibility (70-294), the six-inch weed rule (30-189), the 100 percent Westminster supply from Standley Lake in 2025, the voluntary Drought Watch from April 15, 2026 still in place on 2026-09-12, and USDA points in the city showing Platner and Renohill loam over a 40 to 45 percent clay layer.",
+  "sources": [
+    {
+      "label": "Federal Heights Municipal Code: Chapter 70, Article IX, Landscape Plan (Sec. 70-506 to 70-542)",
+      "url": "https://library.municode.com/co/federal_heights/codes/code_of_ordinances?nodeId=PTIIMUCO_CH70ZO_ARTIXLAPL",
+      "checked": "2026-09-12",
+      "supports": [
+        "MUNICIPAL CODE City of FEDERAL HEIGHTS, COLORADO Codified through Ordinance No. 26-03, enacted March 17, 2026. (Supp. No. 42)",
+        "Sec. 70-507. - Requirement for a landscape plan. An approved landscape plan shall be required with any of the following: (1) Site development plan applications submitted pursuant to section 70-468 (1) or (2). (2)—(4) Reserved. (5) An increase of ten percent or more in parking lot area.",
+        "Sec. 70-508. (a) The planning and zoning commission shall review landscape plan applications required by section 70-507 (1) and (2) and shall forward a recommendation to the city council of approval, approval with conditions or denial. The city council shall consider such landscape plan applications and shall make a decision of approval, approval with conditions or denial of the plan.",
+        "Sec. 70-509. Modifications other than minor modifications shall be processed and acted upon as new applications for approval of landscape plans.",
+        "Sec. 70-509. (b) The term \"minor modifications,\" for the purposes of this article, shall be defined as any proposed modification which: (1) Does not involve a decrease in the total percentage of the approved landscaped area to that below the minimum allowed. ... (3) Does not result in a change in landscaping materials that are dissimilar in the volume of the original approval. ... (5) Does not involve a change that alters the drainage patterns or grading plans.",
+        "Sec. 70-511. The plan shall contain the following information: ... (6) Location and type of irrigation system. ... (8) Landscape maintenance note to include requirements of section 70-513.",
+        "Sec. 70-512. (1) General requirements. a. Landscaping shall include any combination of grass, flowers, shrubbery, deciduous and coniferous trees, succulents, cacti, xeriscape, ground cover, bark, rock or ornamental objects as listed on the approved city landscaping materials list.",
+        "Sec. 70-512. No artificial trees, shrubs, turf or plants shall be used to fulfill the minimum requirements for landscaping.",
+        "Sec. 70-512. b. All required open space areas or areas not covered by parking areas or structures shall be landscaped.",
+        "Sec. 70-512. d. All landscaped areas are to be automatically irrigated by an underground system providing 100 percent irrigation coverage.",
+        "Sec. 70-512. (2) e. Rock and stone shall be a minimum of three-quarters-inch in size, and poured to a minimum depth of three inches over a minimum ten-mil plastic ground cover.",
+        "Sec. 70-513. (a) The owner of the property, his successors, heirs and assigns shall be responsible for the property maintenance of the area subject to an approved landscape plan. The maintenance provision of this section shall also apply to existing development and vacant properties.",
+        "Sec. 70-513. (b) Landscaping shall be continuously maintained including necessary watering, weeding, pruning, pest control, and replacement of dead or diseased plant materials. Replacement of landscaping shall be of the same type of plant material as set forth in the approved landscape plan. Replacement shall occur in the next planting season, but in any event, such replacement time shall not exceed 180 days.",
+        "Sec. 70-514. (c) (1) The city shall notify the property owner in writing of said violation and of a 30-day period in which to rectify the violation. ... (3) Failure of the property owner to rectify the violations within 30 days shall be cause for the city to correct the violation at a cost to be billed to the property owner.",
+        "Sec. 70-541. - Permit required. A building permit must be obtained prior to the construction of any fence or retaining wall. A drawing shall be submitted with the permit application showing the location and type of fence or retaining wall to be erected.",
+        "Sec. 70-542. (b) (3) Retaining walls shall be required whenever the slope of the ground surface exceeds one foot of drop for each three feet of distance on such ground surface."
+      ]
+    },
+    {
+      "label": "Federal Heights Municipal Code: Chapter 70, Article VIII, Site Development Plan (Sec. 70-468)",
+      "url": "https://library.municode.com/co/federal_heights/codes/code_of_ordinances?nodeId=PTIIMUCO_CH70ZO_ARTVIIISIDEPL",
+      "checked": "2026-09-12",
+      "supports": [
+        "Sec. 70-468. - Requirement for a site development plan. An approved site development plan shall be required with any of the following applications: (1) Building permit applications for all new principal buildings with the exception of detached single-family dwellings, two-family dwellings and existing mobile home park manufactured home setups.",
+        "(2) Building permit applications for accessory buildings and additions to existing principal buildings if such accessory building or addition exceeds 20 percent of the gross floor area of all structures located on the site or a 20 percent change to an existing mobile home park except that a site development plan shall not be required for accessory structures and additions to single-family dwellings and two-family dwellings."
+      ]
+    },
+    {
+      "label": "Municode search of the Federal Heights Code of Ordinances for turf, artificial and synthetic",
+      "url": "https://api.municode.com/search?clientId=2184&contentTypeId=CODES&searchText=turf&productIds=13967&mode=CURRENT",
+      "checked": "2026-09-12",
+      "supports": [
+        "searchText=turf: total 1 hit - Sec. 70-512. - Review criteria.",
+        "searchText=artificial: total 8 hits - Sec. 70-512 (turf), Sec. 30-217 (artificial channel), Sec. 46-22 (fence), Sec. 70-602 (artificial lighting), Sec. 70-902 (artificial tree for wireless facilities), Sec. 54-20 (prosthetic devices), Sec. 34-22 (channelization), Sec. 70-904 (lighting). Only Sec. 70-512 concerns turf.",
+        "searchText=synthetic: total 1 hit - Sec. 38-95, synthetic cannabinoids."
+      ]
+    },
+    {
+      "label": "Federal Heights Municipal Code: Chapter 70, Article VII, Division 5, R-4 mobile home district (Sec. 70-293, 70-294)",
+      "url": "https://library.municode.com/co/federal_heights/codes/code_of_ordinances?nodeId=PTIIMUCO_CH70ZO_ARTVIIDIDIRE_DIV5SIMIMOHODI",
+      "checked": "2026-09-12",
+      "supports": [
+        "Sec. 70-293. (a) Recreational area. An amount equal to eight percent of the mobile home park area in the R-4 district shall be devoted to recreational and park usage, and further, that said area is to be in parcels of not less than 2.4 acres.",
+        "Sec. 70-294. (a) (1) The owner or operator of any mobile home park shall arrange for the management and supervision of such mobile home park so as to enforce or cause compliance with the provisions of these rules and regulations, as well as all ordinances of the city.",
+        "Sec. 70-294. (2) The owner, operator and attendant of every mobile home park shall assume full responsibility for maintaining in good repair and condition, all facilities of the mobile home park as required herein.",
+        "Sec. 70-294. (c) (2) a. Conformity. No alterations or additions shall be made to or within any mobile home park unless in conformity with the city building code."
+      ]
+    },
+    {
+      "label": "Federal Heights Municipal Code: Chapter 30, Article VI, Weeds, High Grass and Rank Vegetation (Sec. 30-189)",
+      "url": "https://library.municode.com/co/federal_heights/codes/code_of_ordinances?nodeId=PTIIMUCO_CH30EN_ARTVIWEHIGRRAVE",
+      "checked": "2026-09-12",
+      "supports": [
+        "Sec. 30-189. (a) Generally. It shall be unlawful for any person who is an owner, lessee or occupant ... having control of any lot or parcel of land in the city ... including, without limitation, public and utility easements and drainageways within such property and the adjacent area of land between the property line and the traveled portion of any street or roadway commonly known as the \"planter strip,\" to permit or maintain on such lot, or parcel of land, any growth of weeds or other rank vegetation or grass that is more than six inches in height within 100 feet of a building or street, or more than 15 inches in height in all other areas."
+      ]
+    },
+    {
+      "label": "City of Federal Heights: Development Review Application (PDF)",
+      "url": "https://federalheightsco.govoffice3.com/vertical/Sites/%7B30BDEC4F-3AAB-430C-A5CC-E2BE8097AC8C%7D/uploads/Development_Review_Application_Fillable_Form_20260716.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "Planning Department 303-412-3530",
+        "Development Review Application",
+        "Site Plan Review $1,000.00",
+        "Landscape Plan Review (only) $250.00"
+      ]
+    },
+    {
+      "label": "City of Federal Heights: Planning and Zoning",
+      "url": "https://www.fedheights.org/planning",
+      "checked": "2026-09-12",
+      "supports": [
+        "General zoning requests and land use inquires",
+        "Review of development plans and permits",
+        "Landscape Plan Regulations and Guidelines",
+        "Development Review Application",
+        "City Planner (303) 412-3530"
+      ]
+    },
+    {
+      "label": "City of Federal Heights: Building Department",
+      "url": "https://www.fedheights.org/building",
+      "checked": "2026-09-12",
+      "supports": [
+        "Building Permit Application (English)",
+        "Schedule an Inspection by Phone (303) 412-3534"
+      ]
+    },
+    {
+      "label": "City of Federal Heights: Drought Watch 2026",
+      "url": "https://www.fedheights.org/drought",
+      "checked": "2026-09-12",
+      "supports": [
+        "Drought Watch Beginning April 15, 2026",
+        "As Federal Heights water is purchased from the City of Westminster, the city follows and supports Westminster's Drought Management Plan.",
+        "Clear Creek Basin's snowpack, which is the main water source, is trending similarly to 2002, the driest year on record.",
+        "While mandatory watering restrictions are not in place at this time, residents can help protect our water supply and reduce the need for stricter measures.",
+        "Limit watering to no more than 3 days per week.",
+        "Water lawns before 10 am or after 6 pm to minimize evaporation.",
+        "contact Federal Heights Public Works at 303-412-3539 to learn more about the current drought status"
+      ]
+    },
+    {
+      "label": "City of Federal Heights: 2026 Water Quality Report for 2025 (PDF)",
+      "url": "https://federalheightsco.govoffice3.com/vertical/Sites/%7B30BDEC4F-3AAB-430C-A5CC-E2BE8097AC8C%7D/uploads/2026_for_2025_Water_Quality_Report_-CCR_-_Final_-_062426_ADA.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "In 2025, 100% of our supplied water was treated surface water purchased from the City of Westminster. Their source of water is from Standley Lake, which is located west of the city.",
+        "In prior years, 1% to 3% of our water was provided by an 800-foot-deep well, located within the city limits of Federal Heights, drawing groundwater from the Arapahoe aquifer."
+      ]
+    },
+    {
+      "label": "City of Westminster: Drought Watch",
+      "url": "https://our.westminsterco.gov/drought",
+      "checked": "2026-09-12",
+      "supports": [
+        "At this time, the City is under Drought Watch with voluntary guidelines to water turf grass no more than 3 days per week.",
+        "We had one of the hottest and driest winters on record and our snowpack is exceptionally low. However, our storage account in Standley Lake is 95% full.",
+        "Mandatory watering restrictions are not currently in place."
+      ]
+    },
+    {
+      "label": "USDA Soil Data Access (SSURGO), point queries at 39.8605 -105.0230 and 39.8730 -105.0010",
+      "url": "https://sdmdataaccess.nrcs.usda.gov/",
+      "checked": "2026-09-12",
+      "supports": [
+        "POINT(-105.0230 39.8605): Platner loam, 0 to 3 percent slopes; Platner 85%; Well drained; Ap 0-15 cm claytotal_r 19, lep_r 2, ksat_r 9.17; Bt1 15-28 cm claytotal_r 40, lep_r 7.3, ksat_r 0.915; Bt2 28-51 cm claytotal_r 40, lep_r 7.3, ksat_r 0.915; Bk1 51-69 cm claytotal_r 26.5",
+        "POINT(-105.0010 39.8730): Renohill loam, 3 to 9 percent slopes; Renohill 85%; Well drained; H1 0-10 cm claytotal_r 23, lep_r 1.5, ksat_r 9; H2 10-58 cm claytotal_r 45, lep_r 7.5, ksat_r 1; H3 58-71 cm claytotal_r 31",
+        "Depth conversion used on the page: 15 cm is about 6 inches, 51 cm is about 20 inches, 10 cm is about 4 inches. Ksat ratio topsoil to clay layer: 9.17/0.915 and 9/1, about ten times."
+      ]
+    },
+    {
+      "label": "Federal Heights, Colorado (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Federal_Heights,_Colorado",
+      "checked": "2026-09-12",
+      "supports": [
+        "Home rule city in Adams County, Colorado, United States",
+        "The Town of Federal Heights was incorporated on May 19, 1940."
+      ]
+    }
+  ]
+}

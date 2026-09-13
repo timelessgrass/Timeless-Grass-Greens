@@ -1,0 +1,133 @@
+{
+  "intent": "Do I need a permit to put artificial turf on my Atlantic Beach, SC lot, how does the town count turf against its impervious-surface cap, and what else (stormwater, flood, covenants, oceanfront, trees, ground) do I have to sort out first?",
+  "distinctValue": "Atlantic Beach is a separate town with its own Land Management Ordinance (version dated 3.21.2025), so North Myrtle Beach's Sec. 23-129.4 pervious test does not apply. Sec. 5.3.320(A)(3) requires a zoning permit for improving any lot by grading, removing trees, filling or surfacing, and Sec. 5.3.320(B) holds any building permit until zoning approval. Table 5.3.420A caps impervious surface at 40% in R2 (open space at least 55%) and 50% in MS1R (open space at least 40%); the Development Process Guide (updated 08/2025) says single-family and duplexes are only allowed in R2 and MS1R (single-family in WF1 by Special Exception). The ordinance never mentions turf: impervious means a surface that does not absorb or percolate water (buildings, asphalt or concrete, water bodies) while pervious passes air and water but is 'not covered by manmade materials', so the page sends the reader to the guide's Zoning Determination Letter and the Administrator (Town Manager or designee, Secs. 5.3.200-5.3.201), with the 15-day appeal to the BZA (Sec. 5.3.330). It adds the application contents (Sec. 5.3.322) and review times from the guide (10 business days for home lots, 20 for commercial), the stormwater exemptions of Sec. 5.3.1053 (no more than 5,000 sq ft disturbed and no disruption of drainage; modifications to existing single-family homes, still subject to the Flood Damage Prevention Ordinance), the flood ordinance's development permit (Exhibit D2, Secs. 4, 5, 32 and the definition of development), the covenant question of Sec. 5.3.6 and the town's February 2026 Restrictive Covenants Affidavit, the oceanfront shore protection line and dune rules (Secs. 5.3.803, 5.3.805) and the guide's SCDES Critical Area Permit, the tree permit and protection zone (Secs. 5.3.661, 5.3.662, 5.3.666), and SSURGO point queries inside the census town boundary showing Newhan, Lakeland and Leon soils. None of the neighbouring pages carries any of this. Legacy demographic figures (income, ownership, poverty) are deliberately not used.",
+  "sources": [
+    {
+      "label": "Town of Atlantic Beach Land Management Ordinance (version dated 3.21.2025)",
+      "url": "https://www.townofatlanticbeachsc.com/page/open/1907/0/AtlanticBeach%20Land%20Management%20Ordinance%203.21.2025.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "File name on the town's Permits, Zoning and Documents page: AtlanticBeach Land Management Ordinance 3.21.2025.pdf. pdfinfo ModDate: Fri Mar 21 2025.",
+        "SECTION 5.3.320 Zoning Permit Required. A. Except where expressly exempted, a zoning permit will be required for any of the following activities: ... 3. Improving any lot by grading, removing trees, filling or surfacing, constructing new driveways, or the construction, removal, or alteration of parking lots;",
+        "B. No building permit application shall be approved by the building official until zoning permit approval has been granted.",
+        "SECTION 5.3.322 Application Required for all Zoning Permits ... 1. The name of the applicant and property owner, if different; 2. The current mailing address of the applicant; 3. The street address and tax map parcel number of the property for which the application is being considered; 4. A legal description of the property to include a plat or plot plan; 5. A written description of the existing and future use of the property as well as the activity, construction, or other improvement for which a permit is sought; 6. The signature of the property owner(s);",
+        "Administrator: The Atlantic Beach Town Manager or his designee.",
+        "SECTION 5.3.200 Designation of LMO Administrator. The Town Manager, or the person designated by the Town Manager, shall be the Administrator to whom reference is made throughout this Chapter.",
+        "SECTION 5.3.201 Powers and Duties of the Administrator ... A. Make administrative interpretations of this Chapter;",
+        "SECTION 5.3.330 Appeals from Decisions of the Administrator (Zoning). A. Any person aggrieved ... may appeal a decision of the Administrator in the enforcement or administration of the zoning provisions of this Chapter. Such appeals are made to the Board of Zoning Appeals and shall be taken within fifteen (15) calendar days of the determination from which the appeal is sought.",
+        "SECTION 5.3.420 District Standards ... Table 5.3.420A District Bulk, Dimensional & Density Standards. Maximum Impervious Surface Coverage: R2 40%, MS1 60%, MS1R 50%, MS2 70%, G 65%, HWY 70%, WF1 45%, WF2 50%. Minimum Open Space: CP 100%, R2 55%, MS1 30%, MS1R 40%, MS2 20%, G 20%, HWY 20%, WF1 45%, WF2 40%. (Column reading confirmed against the rendered table on ordinance page 68.)",
+        "Impervious Surface: A surface which does not absorb or percolate water. It includes all buildings, and asphalt or concrete parking areas, driveways, roads, sidewalks, and any areas of concrete or asphalt and/or any water bodies.",
+        "Pervious Surface: A surface which allows natural passage of air and water through it. It includes natural earth surfaces as well as some forms of porous paving such as oyster shell and gravel, and it is not covered by manmade materials or structures such as buildings or paving.",
+        "Open Space: Land area not covered by buildings, parking areas, or other accessory structures.",
+        "A text search of the ordinance for turf, artificial and synthetic finds no mention of turf (only 'synthetic fiber' in the tent trailer definition and 'artificial structures' in the shoreline article).",
+        "SECTION 5.3.1053 Applicability and Exceptions. All development shall include adequate provisions for stormwater management. The following developments are exempt from the requirements of sections 5.3.1055 to 5.3.1061: ... 2. The establishment of a single family residential structure and its accessory structures that are part of an approved subdivision, or additions or modifications to existing single family residential structures. Such activities are, however, subject to the Town of Atlantic Beach Flood Damage Prevention Ordinance; ... 5. Developments that do not disturb more than 5,000 square feet of land in total, nor disrupt existing drainage patterns.",
+        "Exhibit D2. FLOOD DAMAGE PREVENTION ORDINANCE ... SECTION 4 Lands to Which this Ordinance Applies. This ordinance shall apply to all areas of special flood hazard within the Town of Atlantic Beach as identified by the Federal Emergency Management Agency (FEMA) ...",
+        "SECTION 5 Establishment of Development Permit. A development permit in conformance with the provisions of this ordinance shall be required prior to the commencement of any developmental activities.",
+        "12. Development – any man –made change to improved or unimproved real estate, including, but not limited to, buildings or other structures, mining, dredging, filling, grading, paving, excavating, drilling operations, or storage of materials or equipment.",
+        "SECTION 32 Development Permit and Certification Requirements. A. Development Permit – Application for a development permit shall be made to the Planning Administrator on forms furnished by him or her prior to any development activities ... 1. A plot plan that shows the 100 –year floodplain contour or a statement that the entire lot is within the floodplain must be provided by the development permit applicant when the lot is within or appears to be within the floodplain as mapped by the Federal Emergency Management Agency ... The plot plan must be prepared by or under the direct supervision of a registered land surveyor or professional engineer and certified.",
+        "SECTION 5.3.6 Relationship to Deed Restrictions. In accordance with S.C. Code Ann. § 6-29-1145, Town applications for zoning and land development permits or approvals, other than those authorizing the building or placement of a structure on a tract or parcel of land, shall ask whether the subject tract or parcel of land is restricted by any recorded covenant that is contrary to, conflicts with, or prohibits the proposed activity. If the Town has actual notice of such a restrictive covenant, whether from the application or other source, the Town shall not issue the permit unless the Town receives written confirmation and proof from the applicant that the restrictive covenant has been released ... The issuance of a permit does not affect the applicant's obligations under any recorded covenants.",
+        "SECTION 5.3.803 Construction along the Ocean Front. A shore protection line and SCDHEC-OCRM setback line must be determined prior to construction on any lot contiguous to the Atlantic Ocean. ... property owners, developers, and contractors shall be required, prior to construction, to construct a fence or barrier no less than three (3) feet in height along the shore protection line for the entire width of the property, thereby identifying the shore protection area.",
+        "SECTION 5.3.805 Sand Dune and Vegetation Protection Standards. It shall be unlawful for any person, firm, corporation, or private authority to damage, destroy, remove, alter, or relocate in any manner sand, sand dunes, or vegetation lying seaward of the shore protection line ... without first having obtained a permit from the Administrator in accordance with this Chapter.",
+        "SECTION 5.3.661 Preservation of Trees and Native-Vegetation. A. No person shall cut, destroy, cause to be destroyed, move, or remove any tree as required by this section without first obtaining a zoning permit. A zoning permit shall be required prior to the following activities: 1. The removal of any tree six (6) inches or greater in DBH;",
+        "Table 5.3.662 Protected and Specimen Trees: Magnolia (Southern) protected @ 8 inches but less than 16 inches; Oak (Live) protected @ 8 inches but less than 24 inches; Pine (Long Leaf) protected @ 8 inches but less than 24 inches.",
+        "SECTION 5.3.666 Establishment of a Tree Protection Zone. A. Prior to commencement of any grading, construction, or tree removal, a tree protection zone for any tree located within twenty-five (25) feet of any proposed grading, construction, or tree removal should be established by physical barriers and maintained until such work is completed. ... C. The cleaning of equipment, storage of materials or dirt, disposal of waste material ... within the tree protection zone shall be prohibited."
+      ]
+    },
+    {
+      "label": "Town of Atlantic Beach Development Process Guide (updated 08/2025)",
+      "url": "https://www.townofatlanticbeachsc.com/upload/page/0143/Town%20of%20AB%20Development%20Process%20Guide%20pdf.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "Updated 08/2025",
+        "Step 1: Check Property Title and Restrictions. Make sure the property has clear ownership and look for any deed restriction or covenants.",
+        "Step 3: Know your Zoning ... You can request a Zoning Determination Letter from the Town if you want to confirm what's allowed on your property before starting a project.",
+        "Single-family and duplexesare only allowed in the R2 and MS1R zoning districts. Single-family may be allowed in the WF 1 district with approval of a Special Exception by the Board of Zoning Appeals.",
+        "d) Clearly show required site information such as setbacks, lot width, lot size, building height, lot coverage, and open space.",
+        "Three (3) copies of the site plan and a digital c opy of the submission documents, unless directed otherwise by the town.",
+        "1. Complete applications with abbreviated site plans are to be reviewed within 10 business days. 2. If any correctionsare needed, commentsare to be provided stating such. ... 3. Once all comments have been addressed, a Preliminary Zoning Permit will be issued (with or without conditions). ... The building permit cannot be approved until a Final Zoning Permit has been issued.",
+        "Multi-family, Commercial, Office & Mixed-Use Development ... d) Landscape Plan: Identify protected and specimen trees, required landscape buffers, and tree coverage calculations. ... l. Complete applications are to be reviewed within 20 business days.",
+        "Step 2: Town Stormwater Review (if applicable). If the proposed project is likely to exceed 5,000 sq. ft. of land disturbance, then a Town stormwater review is necessary (barring project being excluded). A Stormwater Management Plan will need to be submitted to the Town for review. ... a) Must be prepared by a licensed South Carolina professional engineer;",
+        "SCDES - Bureau of Coastal Management - Critical Area Permit (Beachfront Property). SCDES reviews for impacts to dunes and beachfront and any areas within the SC Beachfront Jurisdictional Lines.",
+        "City of North Myrtle Beach - Water & Sewer Permit. If you are connecting to the City of North Myrtle Beach water system, applicants must coordinate directly with the City to determine water tie-in requirements and obtain any necessary permits."
+      ]
+    },
+    {
+      "label": "Town of Atlantic Beach: Permits, Zoning and Documents",
+      "url": "https://www.townofatlanticbeachsc.com/page/documents-forms-permits",
+      "checked": "2026-09-12",
+      "supports": [
+        "Permits, Zoning and Documents. Permits: Residential Building Permit Application; Commercial Building Permits; Minor Plat Sketch Plan Application; Restrictive Covenants Affidavit. Forms/Documents: ... Development Process Guide. Zoning: Zoning Contact List; Atlantic Beach Zoning Map; Zoning Map (GIS).",
+        "AtlanticBeach Land Management Ordinance 3.21.2025.pdf",
+        "Town of Atlantic Beach | 717 30th Ave. South | Atlantic Beach, South Carolina 29582 | 1-843-663-2284"
+      ]
+    },
+    {
+      "label": "Town of Atlantic Beach: Restrictive Covenants Affidavit (February 2026)",
+      "url": "https://www.townofatlanticbeachsc.com/upload/page/0143/Restrictive%20Covenants%20Affidavitt.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "Atlantic Beach Town Hall, 717 30th Avenue South, Atlantic Beach, SC, 29582, Phone: 843-663-2284. Restrictive Covenants Affidavit (February 2026)",
+        "Per South Carolina Code of Laws Section 6-29-1145, local governments must inquire with an applicant whether the tract or parcel of land is restricted by a recorded covenant that is contrary to, conflicts with, or prohibits an activity for which a permit is being sought.",
+        "All property owners shall complete the following affidavit and submit to the Town with the submission of zoning permits, site plan and plat applications, variance applications, rezoning applications, and any other planning and zoning applications.",
+        "No restrictive covenants apply to the subject property/properties.",
+        "Restrictive covenants apply to the subject property/properties, but the proposed application is not contrary to, does not conflict with, and is not prohibited by those covenants."
+      ]
+    },
+    {
+      "label": "USDA NRCS Soil Data Access (SSURGO point queries in Atlantic Beach)",
+      "url": "https://sdmdataaccess.sc.egov.usda.gov/",
+      "checked": "2026-09-12",
+      "supports": [
+        "SDA_Get_Mukey_from_intersection_with_WktWgs84('point(-78.7150 33.8015)'), ocean side of town: mukey 130159, NhB, Newhan fine sand, 0 to 6 percent slopes; Newhan 96 percent, Excessively drained, hydrologic group A.",
+        "SDA point(-78.71778 33.80361), the town's mapped center: mukey 130152, LaB, Lakeland sand, 0 to 6 percent slopes; Lakeland 100 percent, Excessively drained, hydrologic group A.",
+        "SDA point(-78.7200 33.8060), inland side of town: mukey 130153, Le, Leon fine sand; Leon 100 percent, Poorly drained, hydrologic group A/D.",
+        "All three points fall inside 'Atlantic Beach town' (GEOID 4503205) on the Census TIGERweb incorporated places layer; queries run September 2026."
+      ]
+    },
+    {
+      "label": "USDA official soil series description: Newhan",
+      "url": "https://soilseries.sc.egov.usda.gov/OSD_Docs/N/NEWHAN.html",
+      "checked": "2026-09-12",
+      "supports": [
+        "The Newhan series consists of excessively drained soils, formed from sands deposited by wind.",
+        "C1--2 to 50 inches; light gray (l0YR 7/2) fine sand; single grained; loose; ... common small fragments of colored marine shells",
+        "DRAINAGE AND PERMEABILITY: Excessively drained; slow runoff; very rapid permeability."
+      ]
+    },
+    {
+      "label": "USDA official soil series description: Leon",
+      "url": "https://soilseries.sc.egov.usda.gov/OSD_Docs/L/LEON.html",
+      "checked": "2026-09-12",
+      "supports": [
+        "The Leon series consists of very deep, very poorly and poorly drained, moderately rapid to moderately slowly permeable soils on upland flats, depressions, stream terraces and tidal areas.",
+        "The water table is at depths of 6 to 18 inches for 1 to 4 months during most years."
+      ]
+    },
+    {
+      "label": "USDA official soil series description: Lakeland",
+      "url": "https://soilseries.sc.egov.usda.gov/OSD_Docs/L/LAKELAND.html",
+      "checked": "2026-09-12",
+      "supports": [
+        "The Lakeland series consists of very deep, excessively drained, rapid to very rapidly permeable soils on uplands.",
+        "DRAINAGE AND PERMEABILITY: Excessively drained; rapid to very rapid permeability; slow runoff."
+      ]
+    },
+    {
+      "label": "U.S. Census Bureau TIGERweb: incorporated places layer",
+      "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer",
+      "checked": "2026-09-12",
+      "supports": [
+        "Layer 4 query at -78.7150,33.8015, -78.71778,33.80361 and -78.7200,33.8060 each returns NAME 'Atlantic Beach town', GEOID 4503205."
+      ]
+    }
+  ],
+  "unresolved": [
+    "The ordinance never mentions turf, and its pervious definition excludes surfaces 'covered by manmade materials'. How turf and its base count toward Table 5.3.420A is left to the Town; the page tells the reader to get a Zoning Determination Letter or a written answer from the Administrator.",
+    "Sec. 5.3.1053(2) exempts additions or modifications to existing single-family residential structures; whether a yard surface counts as a modification to the structure is not clear, so the page leans on exemption 5 (no more than 5,000 sq ft, no disrupted drainage) for small jobs and states exemption 2 only in the ordinance's words.",
+    "Exhibit D2 cites a FEMA Flood Insurance Study dated 2003; later map revisions were not checked, so the page names no flood zone or map date and tells the reader to ask the Planning Administrator whether the lot is mapped.",
+    "The zoning map was not opened, so the page does not say which streets are R2, MS1R or WF1; it points to the map on the town's documents page.",
+    "The ordinance names SCDHEC-OCRM; the 2025 guide lists the beachfront Critical Area Permit under SCDES's Bureau of Coastal Management. The page uses the guide's name.",
+    "The town's own affidavit and website footer give Town Hall as 717 30th Avenue South; the north-myrtle-beach-sc page's Atlantic Beach FAQ says 717 Atlantic Street. That page (and its foldedFrom entry for atlantic-beach-sc) is outside this writer's files and should be updated if this page publishes.",
+    "Soil statements come from three SSURGO point queries and USDA series descriptions, not a site visit; the Leon water-table depth is the series' typical range, not a measurement in town."
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "intent": "What should a Grand Strand homeowner check before replacing a whole lawn with artificial turf?",
-  "distinctValue": "A lawn is the surface on a house lot most likely to push a lot past its hard-surface limit, so the page gives the actual limits and how each city counts the turf. (1) North Myrtle Beach: the district limits themselves (R-1 40 percent impervious, R-1A 45 percent, R-1B 50 percent and R-2B 60 percent for a single-family house), which the pet-turf page, the North Myrtle Beach town page and the NC vs SC guide do not give; the purpose clause of Sec. 23-129.4 tying the pervious test to those district limits; and staff's second-reading remark, quoted verbatim, that the ordinance 'would only affect permits if the 40 percent pervious ratio was exceeded', turned into a sizing step. The full test is left to the town page. (2) Myrtle Beach: the 50 percent minimum pervious surface in the R-5 to R-15 single-family districts (Section 1603), the Sec. 203 definitions that count stone, shell or gravel surfacing as impervious and describe landscaped open space as vegetation and permeable ground cover, and the Section 903.L clearing/grubbing permit required before vegetation alteration other than mowing, with its tree protection zone for significant and landmark trees on single-family lots. No other page on the site covers the Myrtle Beach pervious minimum or tree protection. (3) Brunswick County: G.S. 143-214.7D quoted with its federal-law exception and the owner opt-out, kept short and pointed at the state-line guide. Claims that rested only on Internet Archive copies of Horry County web pages (drainage easements, stormwater permitting thresholds, the hurricane checklist and flood-insurance note, HOA pond ownership) were removed because horrycountysc.gov refused connections on 2026-09-12; unincorporated Horry County lots are sent to the county and to the Carolina Forest and Forestbrook pages instead. The storm block, the Carolina Shores community count and the national inclusions FAQ were cut as repeats.",
+  "distinctValue": "A lawn is the surface on a house lot most likely to push a lot past its hard-surface limit, and the one most likely to be dug near a large tree. The page gives the actual limits, how each city counts turf, and the tree rules that reach single-family lots. (1) North Myrtle Beach: the single-family district limits (R-1 40 percent, R-1A 45, R-1B, R-2 and R-3 50, R-2A and R-2B 60), and the R-1H Historic Low-Density Residential Overlay of Sec. 23-31(8), which allows 50 percent on parts of R-1. No other page on the site gives these limits or the overlay. The sizing step (add up hard surfaces, count the lawn as hard surface, then ask the city) is new; the staff remark from the 6 October 2025 minutes is quoted verbatim and limited to the 40 percent figure it names, with the reader told to get the city's answer for other districts. The full Sec. 23-129.4 test is left to the North Myrtle Beach town page; only the 'regardless of material type or labeling' clause, the owner's upkeep duty and the pool-basin exclusion are used, because the sizing step needs them. (2) Myrtle Beach: the Section 1603.B minimum pervious surface by district (50 percent in R-5, R-7, R-8, R-10 and R-15; 25 percent for a single-family house in RMM, RMH and RMV; no figure in the IR row, with the table note that other sections may still set one), the Sec. 203 pervious-surface definition, and the Section 903 tree rules as they apply to a lot with one single-family house: significant and landmark trees, the clearing/grubbing permit before vegetation alteration other than mowing, the extent of the tree protection zone (Sec. 203), what is prohibited in it, the loamy-soil requirement, the neighboring-tree coverage, the limited removal-permit reasons, and the tree survey and site-plan tree statement. No other page covers the Myrtle Beach pervious minimum or tree rules. (3) Horry County: the zoning code's Live Oak Protections, which Sec. 501.C and 503.C.3 apply to single-family lots, the 24-inch specimen live oak threshold and removal limits in Sec. 505.C, and the tree survey requirement in Sec. 505.A.1. No other page covers them. The page does not say whether county zoning reaches a lot inside a city; it tells the reader to ask. (4) North Carolina: one FAQ giving G.S. 143-214.7D(b)(6) and pointing to the state-line guide, which covers it in depth. Removed in the September 2026 repair because other pages already carry them: the Brunswick County block (NC vs SC guide), the soil-test FAQ (pet-turf page), the HOA recording FAQ with S.C. Code 27-30-130 (Longs page and HOA article), the rebate FAQ with the GSWSA watering tips (rebate guide), and the generic unincorporated-county drainage answer (pet-turf page). The earlier removal of claims resting on Internet Archive copies of horrycountysc.gov pages stands; the Horry County facts now on the page come from the county code on Municode, which loaded normally.",
   "sources": [
     {
       "label": "City of North Myrtle Beach Code, Ch. 23, Art. II, Zoning Districts and Development Regulations (version dated 23 July 2026)",
@@ -10,9 +10,16 @@
         "Sec. 23-18. - R-1 Single-Family Residential Low-Density and R-1A Single-Family Residential Low-Medium Districts.",
         "(d) Impervious surface requirements: No more than forty (40) percent of any lot surface shall be impervious to water absorption in the R-1 District and forty-five (45) percent in the R-1A District. For church use, no more than sixty (60) percent of any lot shall be impervious.",
         "Sec. 23-18.1. - R-1B Single-Family Low-Medium Density District. Development regulations table, columns Single-family Dwelling / Church / Other permitted uses: \"Maximum impervious surface ratio 50% 60% 50%\"",
-        "Sec. 23-20.1. - R-2B Single-Family Medium Density District. Development regulations table, columns Single-family dwelling / Church / Other permitted uses: \"Maximum impervious surface Ratio 60% 60% 60%\""
+        "Sec. 23-19. - R-2 Medium Density Residential District. Development standards table, columns Single-family Detached / Semi-detached Dwelling / Duplex / Townhouse / Other Permitted Uses / Multiplex: \"Maximum impervious surface ratio 50% 60% 60% 60% 60% 60%\"",
+        "Sec. 23-20. - R-2A Mid-Rise Multifamily Residential District. Development standards table, columns Single-family Detached / Semi-detached / Duplex / Multiplex / Townhouse / Multifamily / Camp Recreational or Educational: \"Maximum impervious surface ratio 60% 60% 60% 60% 60% 80% NA\"",
+        "Sec. 23-20.1. - R-2B Single-Family Medium Density District. Development regulations table, columns Single-family dwelling / Church / Other permitted uses: \"Maximum impervious surface Ratio 60% 60% 60%\"",
+        "Sec. 23-21. - R-3 Mobile/Manufactured Home Residential District. Development standards table, columns Single-family Detached Residence / Mobile Homes on Individual Lots / Duplexes / Semi-detached Dwelling / Other Permitted Uses: \"Maximum impervious surface ratio 50% 50% 60% 60% 60%\"",
+        "Sec. 23-31. - Overlay zones. \"Overlay zones are applied only in conjunction with other zoning districts, and may grant additional use, relax development standards upon the underlying zoning districts.\"",
+        "(8) R-1H, (Historic Low-Density Residential Overlay) Zone. (1) Purpose and intent: To recognize the historical lot development pattern of several existing R-1 (Single-Family Residential) district neighborhoods that were subdivided prior to the existence of the City of North Myrtle Beach incorporation and establishment of Zoning ...",
+        "(2) Application: Areas of R-1 (Single-Family Residential) where the majority of the existing lots are smaller than the standard R-1 minimum lot size.",
+        "(3) Development standards: ... Maximum impervious surface ratio 50%. All other development standards of the underlying R-1 district shall apply."
       ],
-      "note": "Read with headless Chromium from Municode on 2026-09-12; the page header reads 'VERSION: JUL 23, 2026 (CURRENT)'."
+      "note": "Rendered with headless Chromium (the project's Playwright install) from Municode on 2026-09-12; the page header reads 'VERSION: JUL 23, 2026 (CURRENT)'. R-4 and other districts whose tables mix resort and commercial columns are not used. The page names R-1H as an example overlay; the other overlays in Sec. 23-31 (CPO, ZLL, OPO, OFO, PI-ACO, PI-FADO, TND, CBNO and the Small Lot Outdoor Living Overlay) set no impervious ratio for single-family lots in the text read, which is why the page tells the reader to ask the city about any overlay on the lot."
     },
     {
       "label": "City of North Myrtle Beach Code, Sec. 23-129.4 (version dated 23 July 2026)",
@@ -21,15 +28,12 @@
       "supports": [
         "Sec. 23-129.4. - Standards for pervious surfaces and impervious surfaces for single-family and duplex residences not subject to site-specific development plan review.",
         "(1) Purpose: This section is intended to ensure consistent and performance-based evaluation of surfaces for the purposes of calculating compliance with impervious surface limits established in individual zoning districts.",
-        "b. Demonstrate a minimum infiltration rate of two (2) inches per hour, based on manufacturer testing or accepted industry standards;",
-        "d. Permits for pervious surfaces are subject to inspection to confirm installation per approved specifications;",
         "e. Property owners are responsible for maintaining the system to ensure continued infiltration over time;",
-        "f. This standard applies regardless of native soil conditions. Site-specific soil testing is not required.",
         "g. If these criteria are not met, the surface will be considered impervious, regardless of material type or labeling.",
         "(3) Exemption for pool basins: Although swimming pool basins are impervious, they are excluded from the calculation of impervious surface coverage. This exemption applies only to the pool basin, not to surrounding pool decks, patios, or hardscape.",
         "(Ord. No. 10-03, § 1, 4-5-10; Ord. No. 25-45, § 2, 10-6-25)"
       ],
-      "note": "Read with headless Chromium from Municode on 2026-09-12. The history note lists a 2010 ordinance as well as Ord. No. 25-45, so the page says the pervious test came in with Ord. No. 25-45 rather than that the section was first adopted in 2025. The first-reading ordinance text of 18 August 2025 (nmb.us fileID=3993) has clauses a to f with no native-soil clause; clause f on soil is in the current code."
+      "note": "Rendered with headless Chromium from Municode on 2026-09-12 (version JUL 23, 2026). The history note lists Ord. No. 10-03 (4-5-10) as well as Ord. No. 25-45 (10-6-25); the page says only that council adopted the pervious test at the 6 October 2025 meeting, which the minutes below confirm, and does not give an adoption date for the section as a whole."
     },
     {
       "label": "City of North Myrtle Beach: City Council minutes, Monday, October 6, 2025",
@@ -37,17 +41,18 @@
       "checked": "2026-09-12",
       "supports": [
         "ORDINANCE/SECOND READING: Amendments to Chapter 23, Zoning, of the Code of Ordinances of North Myrtle Beach, South Carolina, defining pervious and impervious surfaces and creating an exception for swimming pools.",
-        "Director Wood explained that the ordinance required the manufacturer’s certification sheet to be included with the permit application.",
+        "Director Wood explained that the ordinance required the manufacturer’s certification sheet to be included with the permit application. He added that additional inspections may be necessary, but would be manageable with the existing staffing levels.",
         "He noted that this would only affect permits if the 40 percent pervious ratio was exceeded.",
         "The motion to approve passed 6-0."
       ],
-      "note": "PDF downloaded with curl and read with pdftotext on 2026-09-12."
+      "note": "PDF downloaded with curl (HTTP 200) and read with pdftotext on 2026-09-12. The remark names only the 40 percent figure; the page quotes it, says it is the R-1 figure, and does not extend it to the 45, 50 or 60 percent districts."
     },
     {
       "label": "City of Myrtle Beach Zoning Code (Appendix A), Article 16, Section 1603, Dimensional Standards (current through 16 February 2026)",
       "url": "https://library.municode.com/sc/myrtle_beach/codes/code_of_ordinances?nodeId=COOR_APXAZO_ART16ARHEDIRE",
       "checked": "2026-09-12",
       "supports": [
+        "1603.A. 1. A cell with only dashes (—-) in the tables indicates that there are no requirements of that type in the respective zoning district. However, such requirements may be provided in other applicable sections of this Ordinance.",
         "1603.B. Requirements for Residential Zoning Districts",
         "Table columns: District / Dwelling Unit* / Min. Lot Area (sq. ft.) / Min. Lot Width / Min. Lot Depth / Max. Height / Max. Horizontal Dimensions / Max. Building Coverage / **Min. Front Yard Setback / **Min. Side Yard Setback / **Min. Rear Lot Setback / Min. Pervious Surface / Min, District Land Area",
         "R-5 SF 5,000 60' L —- 35' —- 40% D J 10' J 20' J 50% —-",
@@ -55,34 +60,59 @@
         "R-8 SF 8,000 60' L —- 35' —- 40% D J 10' J 20' J 50% —-",
         "R-10 SF 10,000 75' L 100' 35' A —- 40% 40' E F J 30' 50% —-",
         "R-15 SF 15,000 80' L 120' 35' A —- 35% 40' F G J 30' 50% —-",
+        "RMM SF, 2F 5,000 50' L —- 35' A 200' 42% 25' B J 10' J 15' C J 25% —-",
+        "RMH, and RMH-MH SF, 2F 5,000 50' L 50' 35' A 200' 42% 25' B J 10' J 15' C J 25% 4 acres",
+        "RMV SF, 2F 5,000 50' L —- 55' 200' 50% Q N N 25% —-",
+        "IR SF 30,000 160' I 120' 35' A —- 35% 40' FG J 30' —- 4.5 acres",
         "* (SF) Single-family, (MF) Multi-family, (2F) Two-family, (TH) Townhouse"
       ],
-      "note": "Read with headless Chromium from Municode on 2026-09-12; the page header reads 'VERSION: FEB 16, 2026 (CURRENT)'. Cells are reproduced in table order as rendered; the page uses only the Min. Pervious Surface column."
+      "note": "Rendered with headless Chromium from Municode on 2026-09-12; the page header reads 'VERSION: FEB 16, 2026 (CURRENT)'. Cells are reproduced in table order as rendered; the page uses only the Min. Pervious Surface column. The IR pervious cell is dashes, so the page says the row gives no figure and quotes the 1603.A note that other sections may still set one."
     },
     {
       "label": "City of Myrtle Beach Zoning Code (Appendix A), Article 2, Section 203, Definitions (current through 16 February 2026)",
       "url": "https://library.municode.com/sc/myrtle_beach/codes/code_of_ordinances?nodeId=COOR_APXAZO_ART2DE_S203DE",
       "checked": "2026-09-12",
       "supports": [
-        "Impervious Surface: Any material that prevents, impedes, or slows infiltration or absorption of storm and surface water directly into the ground at the rate of absorption of vegetations-bearing soils.",
+        "Pervious Surface: Any material that permits full or partial absorption of stormwater or surface water directly into the ground.",
         "Impervious Surface Coverage: The percentage of net land area of the lot covered by impervious surface. For the purpose of computing impervious lot coverage, the following items and like installations are considered impervious: building coverage, parking lots, parking structures, driveways, side-walks, patios, pool decks, wooden decks, grouted cut stone or tile walkways, and stone, shell or gravel surfacing.",
-        "Landscaped Open Space: Landscaped open space consists of lawns, shrubs, trees or other vegetation and permeable ground cover capable of absorbing runoff water.",
-        "A text search of the Article 2 definitions page found no 'turf'. 'Synthetic' appears only in the head shop definition (synthetic marijuana), and 'artificial' only in the grade, illumination, light source and irrigation definitions; no definition refers to artificial grass."
+        "Clearing: The removal of all vegetation.",
+        "Diameter-At-Breast-Height (DBH), Tree: The tree trunk diameter measured in inches at a height 4.5 feet above the ground ...",
+        "Tree Protection Zone: Generally 18 to 24 inches deep and extending a distance from the trunk to the dripline or equal to one-half the height of the tree, whichever is greater.",
+        "A text search of the Article 2 definitions page found no 'turf'. 'Synthetic' appears only in the head shop and synthetic marijuana definitions, and 'artificial' only in the grade, illumination, light source, light spillage, sign and irrigation definitions; no definition refers to artificial grass."
       ],
-      "note": "Read with headless Chromium from Municode on 2026-09-12 (version FEB 16, 2026). The page's 'never mention artificial turf' rests on that search of the definitions only."
+      "note": "Rendered with headless Chromium from Municode on 2026-09-12 (version FEB 16, 2026). The page's 'Turf doesn't appear in the city's definitions' rests on that search of the definitions only. The code does not say whether removing a lawn is 'clearing' or 'vegetation alteration', so the page tells the reader to ask Construction Services."
     },
     {
       "label": "City of Myrtle Beach Zoning Code (Appendix A), Article 9, Section 903, Tree Protection (current through 16 February 2026)",
       "url": "https://library.municode.com/sc/myrtle_beach/codes/code_of_ordinances?nodeId=COOR_APXAZO_ART9LATRPR",
       "checked": "2026-09-12",
       "supports": [
-        "903.A. Applicability. These regulations apply to protected and landmark trees located on public and private property, except on lots containing one single-family residence in any Single-family (R) or Multifamily (RM) district, or residential Planned Unit Development (PUD). On lots containing only one single-family residence and its accessory uses in any Single-family (R) or Multifamily (RM) district, or residential Planned Unit Development (PUD) these regulations apply to only those trees defined as significant trees or landmark trees.",
+        "903.A. Applicability. ... On lots containing only one single-family residence and its accessory uses in any Single-family (R) or Multifamily (RM) district, or residential Planned Unit Development (PUD) these regulations apply to only those trees defined as significant trees or landmark trees.",
         "903.C. Significant Trees. The City hereby declares that the following are significant trees: Live Oak (Quercus virginiana), White Oak (Quercus alba), (Eastern Red Cedar (Juniperus virginiana), Southern Magnolia (Magnolia grandiflora), and Bald Cypress (Taxodium distichum) trees with a 4\" DBH or more.",
-        "903.E. Landmark Trees. The City hereby declares the following trees, which equal or exceed the stated diameter at breast height (DBH), to be landmark trees: ... Quercus virginiana Live Oak 25\"",
-        "903.L. Tree Protection During Clearing, Grubbing, and Development. Prior to the commencement of any site clearing or vegetation alteration, other than mowing, a clearing/grubbing permit shall be obtained from the Construction Services Department. All applications for clearing, grubbing, grading, building, or demolition shall include a Tree Protection Zone Plan (TPZ).",
-        "Grading, filling, ditching and storage in the tree protection zone are prohibited. For all lots containing only one single-family residence and its accessory uses in Single-family (R), Multifamily (RM), or residential Planned Unit Development (PUD), a TPZ shall be designed to protect any and all significant and landmark trees."
+        "903.D. Protected Trees. The City hereby declares that the following are protected trees: 1. Significant trees, as defined in section 903.C - Significant Trees;",
+        "903.E. Landmark Trees. ... Quercus virginiana Live Oak 25\" ... Quercus alba White Oak 25\"",
+        "903.G. Tree Removal Permits. It shall be unlawful to remove or otherwise destroy a protected tree or landmark tree without first obtaining a protected tree or landmark tree removal permit.",
+        "903.G.2. Criteria for issuance of protected or significant tree removal permits. Permits for the removal of a protected or significant tree may be issued for only the following reasons: a. Trees that are hazardous or cause safety-related problems; b. Diseased or infectious trees or trees in decline ... c. Trees or their root systems causing visible damage to structures, and/or areas used for pedestrian and vehicular traffic; ... g. Trees to be removed, pruned, or disturbed within the footprint or within ten feet of the footprint of buildings in Single-family residential (R) districts. h. Trees to be removed, pruned, or disturbed on plans approved by the Community Appearance Board or the Planning Commission whichever has final review responsibility and after all other applicable permits for construction have been issued.",
+        "903.H. Tree Survey. All applications for clearing, grubbing, grading, building, or demolition permits, or for any development or redevelopment of property shall include a tree survey sealed by a registered surveyor. ... 1. For all lots containing only one single-family residence ... the survey shall identify significant and landmark trees as requested by the Construction Services Department. a. If there is a tree located within the area to be constructed upon then location, type and DBH of the tree must be stated on the site plan.",
+        "903.L. Tree Protection During Clearing, Grubbing, and Development. Prior to the commencement of any site clearing or vegetation alteration, other than mowing, a clearing/grubbing permit shall be obtained from the Construction Services Department. All applications for clearing, grubbing, grading, building, or demolition shall include a Tree Protection Zone Plan (TPZ). The TPZ shall be designed to protect the trees and their roots on site as well as those on neighboring properties. Grading, filling, ditching and storage in the tree protection zone are prohibited. For all lots containing only one single-family residence and its accessory uses in Single-family (R), Multifamily (RM), or residential Planned Unit Development (PUD), a TPZ shall be designed to protect any and all significant and landmark trees.",
+        "903.L.3. Assurances that soil disturbance under the canopy of each tree will be limited to ANSI A300 (current edition) standards. Any soil added under the canopy of the tree must be a loamy soil mix to ensure compaction is minimized."
       ],
-      "note": "Read with headless Chromium from Municode on 2026-09-12 (version FEB 16, 2026). The code does not say in terms whether removing a lawn is 'vegetation alteration', so the page tells the reader to ask Construction Services rather than stating that a permit is required."
+      "note": "Rendered with headless Chromium from Municode on 2026-09-12 (version FEB 16, 2026). The page's 'Making room for a lawn is not on the list' is a reading of the 903.G.2 list (a to h); it does not claim the city has refused such a permit. The code does not say in terms whether removing a lawn is 'vegetation alteration', so the page tells the reader to ask Construction Services rather than stating that a permit is required."
+    },
+    {
+      "label": "Horry County Code, Appendix B (Zoning), Article V, Landscape, Buffer and Tree Preservation Standards, Secs. 501, 503 and 505 (current through 12 August 2026)",
+      "url": "https://library.municode.com/sc/horry_county/codes/code_of_ordinances?nodeId=COOR_APXBZO_ARTVLABUTRPRST",
+      "checked": "2026-09-12",
+      "supports": [
+        "Sec. 501. - Applicability. C. Live Oak Standards set by § 505C apply to any property within Horry County including single family residential.",
+        "Sec. 503. - Requirements. C. Exemptions. The following land use activities are hereby exempt from the requirements of the following sections. ... 3. Individual single family residential and duplex structures are exempt from all requirements except the Live Oak Protections set forth in the Tree Preservation sections. This exemption does not apply to major subdivisions for which perimeter buffers or streetscape is required.",
+        "Sec. 505. - Tree preservation. A. Tree survey. 1. ... Any property, including single family residential, within Horry County containing Specimen Live Oaks must submit a tree survey.",
+        "B. Methods to calculate tree size. ... 2. Diameter at breast height. The diameter of a tree trunk measured four and a half (4.5) feet above the ground.",
+        "C. Live oak standards. It is unlawful to injure, participate in, authorize, or cause the removal of any Specimen Live Oak (DBH of twenty-four (24) inches or greater). Authorization to do so shall come from: 1. A variance granted by the Zoning Board of Appeals finding that the tree: ... 2. For all areas within the Garden City Overlay, the Zoning Administrator shall allow the tree to be removed upon a finding that the tree will be located within the footprint of a proposed structure and the structure cannot be reasonably adjusted to preserve the tree. ... 3. The Zoning Administrator may authorize the removal a Specimen Live Oak tree without a variance under the following conditions: a) The tree is diseased or dying as certified by a certified arborist and cannot be properly treated or pruned to alleviate such condition;",
+        "TABLE 5: PROTECTED AND SPECIMEN TREES ... Oak (Live) 8 24",
+        "(Ord. No. 23-2026, § 1, 6-16-26)"
+      ],
+      "note": "Rendered with headless Chromium from Municode on 2026-09-12; the page header reads 'VERSION: AUG 12, 2026 (CURRENT)'. Article V was amended by Ord. No. 23-2026 on 16 June 2026. The Article I text read on the same day does not state in terms where the zoning ordinance applies, so the page does not say whether it reaches a lot inside a city or town and tells the reader to ask the county and the city. The page gives the two authorization routes other than a variance as 'in limited cases, the zoning administrator'. The Table 2-1 and 2-2 'lot coverage' figures in Article II were not used: the Article XIV glossary defines lot coverage as building coverage, which says nothing about how turf counts."
     },
     {
       "label": "N.C. Gen. Stat. 143-214.7D, Limitations on built-upon area requirements",
@@ -95,28 +125,7 @@
         "(d) Except as specifically required by federal law, a local government may not enact, implement, or enforce a local government ordinance, comprehensive plan, or stormwater program that establishes a definition of \"built-upon area\" or impervious surface that does not comply with subsection (b) of this section.",
         "(2024-49, s. 4.48(b).)"
       ],
-      "note": "ncleg.gov returns HTTP 403 to WebFetch and a Cloudflare block to curl. The statute page (published 17 April 2026) was read through the r.jina.ai text reader for this exact URL on 2026-09-12."
-    },
-    {
-      "label": "Grand Strand Water & Sewer Authority: Water Conservation Tips",
-      "url": "https://www.gswsa.com/Community.cfm?page=35",
-      "checked": "2026-09-12",
-      "supports": [
-        "Avoid watering lawn on windy days.",
-        "Make sure sprinklers are wetting only the lawn, rather than onto a driveway or other paved surfaces.",
-        "Irrigate your lawn in the evening/night to reduce the amount of water from evaporating.",
-        "No rebate, incentive or lawn-replacement program is listed on the page."
-      ],
-      "note": "Read live with curl on 2026-09-12. The page's 'lists none' is limited to this page; the FAQ sends the reader to the provider on the water bill and to the rebate guide."
-    },
-    {
-      "label": "South Carolina Homeowners Association Act, S.C. Code Section 27-30-130",
-      "url": "https://www.scstatehouse.gov/code/t27c030.php",
-      "checked": "2026-09-12",
-      "supports": [
-        "(A)(1) Except as otherwise provided in this section, in order to be enforceable, a homeowners association's governing documents must be recorded in the clerk of court's, Register of Mesne Conveyance (RMC), or register of deeds office in the county where the property is located."
-      ],
-      "note": "Read live with curl on 2026-09-12."
+      "note": "ncleg.gov returned HTTP 403 to a direct curl request on 2026-09-12. The statute text was read the same day through the r.jina.ai text reader for this exact URL; subsections (b)(6), (c) and (d) match the quotes above. The page uses only (b)(6) and leaves the rest to the NC vs SC guide."
     }
   ]
 }

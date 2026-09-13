@@ -1,0 +1,154 @@
+{
+  "intent": "In the Riverside Avondale Historic District, does artificial turf need a Certificate of Appropriateness from the City of Jacksonville, which review would it get, and what do the district's own rules say about front yards, back-yard dog-run fences, front-yard parking and the ground?",
+  "distinctValue": "Riverside Avondale is the one place in the northeast Florida service area where a City historic district sits over single-family yards. Jacksonville Ord. Code 307.106(d) requires a Certificate of Appropriateness before any alteration affecting property in a historic district, while 307.107(b) exempts routine lawn and landscape care or maintenance, excluding changes to existing or introduction of new hardscape. Turf over a crushed-rock subgrade is not classified by the code, so the page sends the reader to the Historic Preservation Section (historicpreservation@coj.net) with a specific question. The City's August 1997 district guidelines frame review around what is visible from a public right-of-way, list landscaping and other changes to historic setting as advisory-opinion items, describe front yards as grass lawns bisected by concrete or hexagonal-paver walks, and ask that rock-faced cast concrete retaining walls be retained. The Commission's 26 February 2003 fencing guidelines give six feet in back yards, four in front, a 20-foot setback for fences over four feet, and four feet on both street sides of a corner lot, which decides whether a dog run is seen from the street. The Commission hearing path carries dated, numeric steps (21 days, 200-foot sign spacing, 14 days, 30 days, 12 months, five years). The overlay (656.399.25) bans front-yard parking outside a designated driveway. USDA mapping splits the district between poorly drained Mascotte-Sapelo ground near Five Points (wet layer 31 cm) and Ortega-Kershaw sand in Avondale (147 cm). Florida's 2025/2026 turf preemption (125.572) is stated with its limits: it does not mention historic districts and does not reach duplexes, condominiums or commercial property. The Jacksonville page carries only one sentence on the COA and none of these rules; Orange Park's page mentions its own River Road district without detail.",
+  "sources": [
+    {
+      "label": "Jacksonville Ord. Code 307.106, Approval of changes to landmarks, landmark sites, and property in historic districts; application procedures (eLaws)",
+      "url": "https://jacksonville.elaws.us/code/coor_titlevii_ch307_pt1_sec307.106",
+      "checked": "2026-09-12",
+      "supports": [
+        "307.106(d): “A certificate of appropriateness shall be required, in addition to any other building permits, zoning exceptions, variances, or administrative deviations required by law, prior to commencing any alteration, new construction, demolition, relocation, mothballing or any other action regulated by this Chapter affecting a landmark, landmark site or property located in an historic district.”",
+        "307.106(b): “Whenever any alteration, new construction ... is undertaken on a landmark, landmark site, or property in an historic district without a certificate of appropriateness ... the Director of the Planning and Development Department, or his or her designee, is authorized to issue a notice of violation to stop all work.”",
+        "307.106(e): “The Planning and Development Department shall determine if the application can be administratively approved and if so state its reason for said approval. For those Certificate of Appropriateness applications determined to require Commission approval, the Planning and Development Department shall review the application and forward its recommendations and findings to the Commission prior to the public hearing.”",
+        "307.106(g): “The Commission shall hold a public hearing on each application for a certificate of appropriateness at its next regular meeting, after a completed application has been filed with the Planning and Development Department, at least 21 calendar days before the meeting. The Commission shall make a decision on each application within 30 days after the hearing ...”",
+        "307.106(i): “The applicant for a certificate of appropriateness shall post signs at intervals of not more than 200 feet along all street sides of land upon which the request for a certificate of appropriateness is made. Signage should be posted at least 14 days prior to the scheduled public hearing.”",
+        "307.106(m)(5): “Landscaping. Landscaping shall be compatible with the architectural character and appearance of the landmark and of surrounding structures and landscapes in an historic district.” (criterion for new construction)",
+        "307.106(s): “Any certificate of appropriateness which has been approved pursuant to the provisions of this Section shall expire 12 months from the date of issuance if the work authorized is not commenced within this period. Further, such certificate shall expire if the work authorized is not completed within five years of the date of issuance, unless otherwise extended by the Commission.”"
+      ]
+    },
+    {
+      "label": "Jacksonville Ord. Code 307.107, Administrative Review and Exceptions (eLaws)",
+      "url": "https://jacksonville.elaws.us/code/coor_titlevii_ch307_pt1_sec307.107",
+      "checked": "2026-09-12",
+      "supports": [
+        "307.107(a): “The Commission shall designate and update and amend from time to time a list of routine alterations, minor repairs or other work that may receive immediate approval from the Planning and Development Department without a public hearing when an applicant complies with the applicable Historic District Design Regulations.”",
+        "307.107(b): “A certificate of appropriateness will not be required for any interior alteration that does not affect any exterior fabric or for routine lawn and landscape care or maintenance, excluding changes to existing or introduction of new hardscape.”",
+        "307.107(c): “Any staff administrative review decision can be appealed to the Commission by the applicant and any person with standing under Section 307.202. The filing of such an appeal shall be made within 21 days of the staff approval date.”",
+        "History line: “(Ord. 90-706-486, § 3; Ord. 94-337-183, § 11; Ord. 2003-460-E, § 1; Ord. 2004-482-E, § 1; Ord. 2011-539-E, § 1)” — the section has been amended since the 1997 guidelines."
+      ]
+    },
+    {
+      "label": "Jacksonville Ord. Code 656.399.19, Identification of Character Areas, Riverside/Avondale Zoning Overlay (eLaws)",
+      "url": "https://jacksonville.elaws.us/code/coor_zose_ch656_pt3_subpto_sec656.399.19",
+      "checked": "2026-09-12",
+      "supports": [
+        "“The predominant historic and existing use in the Zoning Overlay is single-family residential.”",
+        "Table 1.0 Character Area Designation, row 17: “Historic Residential — All other areas not designated by a character area or urban transition. Character of the area: predominately historic residential structures.” The other rows are commercial, office, urban transition (row 16) and industrial (row 18) corridors and areas."
+      ]
+    },
+    {
+      "label": "Jacksonville Ord. Code 656.399.25, Historic Residential Character Area Standards (eLaws)",
+      "url": "https://jacksonville.elaws.us/code/coor_zose_ch656_pt3_subpto_sec656.399.25",
+      "checked": "2026-09-12",
+      "supports": [
+        "656.399.25(d): “Development within the Residential Areas identified in Table 1.0 Character Area Designation shall be required to meet the following design standards in addition to the general design standards as follows.”",
+        "656.399.25(d)(2)(b): “Parking in front yards is prohibited, unless in a designated driveway.”",
+        "656.399.25(d)(2)(c): “Parking is prohibited between the street edge and the sidewalk, or if no sidewalk exists, between the street edge and the property line.”",
+        "656.399.15 (Applicability, same subpart, https://jacksonville.elaws.us/code/coor_zose_ch656_pt3_subpto_sec656.399.15): the Subpart is “applied to support the historic designation and characteristics of the Riverside/Avondale and St. Johns Quarter Historic Districts”."
+      ]
+    },
+    {
+      "label": "City of Jacksonville Planning and Development Department, Historic Preservation Guidelines for the Riverside-Avondale Historic District, August 1997, Part 1 (scanned PDF hosted by Riverside Avondale Preservation; pages read visually)",
+      "url": "https://riversideavondale.org/wp-content/uploads/2024/03/Historic-Guidelines.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "Title page: “HISTORIC PRESERVATION GUIDELINES for the RIVERSIDE - AVONDALE HISTORIC DISTRICT, AUGUST, 1997. Prepared By: THE JACKSONVILLE PLANNING AND DEVELOPMENT DEPARTMENT”.",
+        "p. 25: “A Certificate of Appropriateness is required for many permitted activities which change the appearance of an existing building as viewed from a public right-of-way, for new construction and for demolition or relocation of historic buildings.”",
+        "p. 25: “Certificates of Appropriateness may be issued at two levels depending on the complexity of the proposed change. For simple projects, such as the repair of deteriorated features, a Certificate of Appropriateness can generally be issued following an administrative review by the Jacksonville Planning and Development Department staff.” ... “More complex changes will require review by the Jacksonville Historic Preservation Commission conducted as a public hearing.”",
+        "p. 25: “the Jacksonville Planning and Development Department and the Jacksonville Historic Preservation Commission may also issue non-binding recommendations for certain changes not requiring a Certificate of Appropriateness. Examples of such changes might include landscaping, paint colors, and alteration and additions not visible from the public right-of-way.”",
+        "pp. 25–26, “Activities requiring only Planning and Development Department staff review”: includes “2. Deck installation at ground level which is not visible from a public right-of-way and which does not alter a historic building”, “4. Driveway placement”, “6. Fencing size and placement”, “10. Patio or other slab placement”.",
+        "p. 27, “Activities for which Planning and Development Department Staff or Jacksonville Historic Preservation Commission may issue an advisory opinion at the owner's request or their discretion”: “1. Changes to historic features not visible from the public right-of-way. 2. Landscaping or other changes to historic setting.”",
+        "p. 23: “The Jacksonville Historic Preservation Ordinance established the seven-member Jacksonville Historic Preservation Commission.”",
+        "p. 29, Documentation, for projects requiring only staff review: “1. A site plan, showing location of the building, its distance from property lines, its orientation, and the names of front and side streets. A survey of the property containing the aforementioned information may be substituted for a site plan. A description and the location of any changes should be marked clearly on the plan.”",
+        "p. 30: “2. Photographs showing the following views: the building for which changes are proposed together with adjacent buildings; all sides of the subject building visible from the public right-of-way ...” and “3. A sample or manufacturer's description of a replacement material or feature may also be requested by staff.”"
+      ]
+    },
+    {
+      "label": "Historic Preservation Guidelines for the Riverside-Avondale Historic District, Part 2 (Design Guidelines; scanned PDF hosted by Riverside Avondale Preservation; pages read visually)",
+      "url": "https://riversideavondale.org/wp-content/uploads/2024/03/Design-Guidelines.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "p. 72, SETTING: “Masonry retaining walls, particularly cast concrete in a rock-faced pattern with coping and pilasters, are quite common. These features visually link individual buildings to each other and should be retained under Standard 2.”",
+        "p. 73: “Individual lots are characterized by small front yards with buildings set close to the sidewalk and large back yards, where parking and trash storage are most appropriately located. Shrubbery is frequently adjacent to buildings and sidewalks. Most residences have grass lawns bisected by rectilinear sidewalks constructed of poured concrete or hexagonal pavers.”",
+        "p. 74, Recommendations: “3. Use new plant materials, fencing, walkways, streetlights, signs, and benches that are compatible with the character of the neighborhood in size, scale, materials, and color.” and “7. Provide proper site and roof drainage to assure that water does not splash against building or foundation walls, nor drain toward the building.”",
+        "p. 74, Avoid: “4. Changes to the appearance of a building site such as removing historic plants, trees, fencing, walkways, outbuildings, and other features before evaluating their importance.”",
+        "p. 75, Parking and Driveways, Recommendations: “4. Use appropriate materials for driveways such as gravel or concrete poured in ribbons.” Avoid: “2. Parking on the front side of buildings.”"
+      ]
+    },
+    {
+      "label": "Jacksonville Historic Preservation Commission, Fencing Guidelines for Locally Designated Historic Districts (PDF hosted by Riverside Avondale Preservation)",
+      "url": "https://riversideavondale.org/wp-content/uploads/2024/03/Fencing-Guidelines.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "“Guidelines on fencing adopted by the Jacksonville Historic Preservation Commission on February 26, 2003”.",
+        "“Pursuant to 307.107(a), Jacksonville Ordinance Code, the Jacksonville Historic Preservation Commission adopted the following guidelines for fences in locally designated historic districts. Applications for fences that comply with these guidelines may be approved by the Planning and Development Department.”",
+        "Fencing Height: “Front yard: Fences should be no higher than four (4) feet with the support posts or columns of a picket style fence reaching no higher than five (5) feet.” “Back yard: Fences should be no higher than six (6) feet.”",
+        "Fencing Placement: “Fencing enclosing the back yard should be placed behind the front wall massing of the structure.” “In order for a fence to be taller than four (4) feet along the side yard of a property, the fence must be set back at least twenty (20) feet from the right-of-way of the primary front yard.”",
+        "Corner lots: “A four (4) foot fence is appropriate for both street elevations of a corner lot.”",
+        "Fencing Materials: “Inappropriate fencing materials such as vinyl or chain link can be installed on the backyard of an interior lot if it will not be visible from the right-of-way.”"
+      ]
+    },
+    {
+      "label": "Riverside Avondale Preservation: COJ Historic Preservation Guidelines",
+      "url": "https://riversideavondale.org/coj-historic-preservation-guidelines/",
+      "checked": "2026-09-12",
+      "supports": [
+        "“The following guidelines were developed by the City of Jacksonville Planning and Development Department when Riverside Avondale was designated as a historic district.”",
+        "“For a step-by-step process and to figure out if your home is in the historic district, watch our free videos we put together for you!”",
+        "“We are a nonprofit agency that serves as a liaison between neighborhood residents, businesses, and the City ... While we are an important voice for the district, we do not have final decision-making power.”",
+        "“The Historic Preservation Section coordinates the City's Historic Preservation program including the Certificate of Appropriateness (COA) process and can approve COAs that meet Administrative Review criteria.”",
+        "“The JHPC is comprised of seven (7) individuals appointed by the Mayor.”",
+        "Contact: “CITY OF JACKSONVILLE - HISTORIC PRESERVATION SECTION ... historicpreservation@coj.net”."
+      ]
+    },
+    {
+      "label": "Fla. Stat. 125.572, Regulation of synthetic turf (Florida Legislature)",
+      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0100-0199%2F0125%2FSections%2F0125.572.html",
+      "checked": "2026-09-12",
+      "supports": [
+        "125.572(3)(a): “Upon the Department of Environmental Protection adopting rules pursuant to subsection (4), a local government may not: 1. Adopt or enforce any ordinance, resolution, order, rule, or policy that prohibits, or is enforced to prohibit, a property owner from installing synthetic turf that complies with Department of Environmental Protection standards adopted pursuant to this section which apply to single-family residential property. 2. Adopt or enforce any ordinance, resolution, order, rule, or policy that regulates synthetic turf which is inconsistent with the Department of Environmental Protection standards ...”",
+        "125.572(2): standards for “single-family residential properties 1 acre or less in size.”",
+        "History: “s. 1, ch. 2025-140; s. 1, ch. 2026-164.” The section text contains no reference to historic districts or historic preservation."
+      ]
+    },
+    {
+      "label": "Florida DEP, Synthetic Turf FAQ (PDF)",
+      "url": "https://floridadep.gov/sites/default/files/SyntheticTurfFAQ%20final.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "“Does this rule apply to condominiums, duplexes, parks, athletic fields or commercial properties? No. This rule only applies to single-family residential properties that are 1 acre or less in size.”",
+        "“Can local governments still regulate synthetic turf? Yes. Local governments may still regulate synthetic turf, provided the local government does not regulate the installation of synthetic turf in a manner that is inconsistent with DEP's adopted minimum standards.”",
+        "“What should I do if I believe a local government regulation is inconsistent with section 125.572, Florida Statutes? You may contact your local government or consult legal counsel regarding questions about local ordinances or their application.”"
+      ]
+    },
+    {
+      "label": "Rule 62-308.100, F.A.C., Synthetic Turf (adopted rule text)",
+      "url": "https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc",
+      "checked": "2026-09-12",
+      "supports": [
+        "62-308.100(4)(b): “Synthetic turf must be installed over a subgrade prepared for positive drainage and evenly graded porous material.”",
+        "62-308.100(5)(a): “Installation of synthetic turf must be designed and installed to prevent pooling or an increase in the stormwater runoff volume, direction, or rates to adjacent properties ...”",
+        "62-308.100(2)(d): “Subgrade shall be composed of natural materials, such as crushed rock, or crushed concrete that meets the permeability requirements of this rule.”",
+        "62-308.100(8)(b): “Synthetic turf shall not be installed inside tree drip lines, whether on the property or adjacent properties, unless the tree is a noxious weed ... or unless a certified arborist, using site specific information and best professional judgment, certifies that installation within that drip line would not be harmful to the tree.”",
+        "“History–New 5-19-26.”"
+      ]
+    },
+    {
+      "label": "USDA NRCS Soil Data Access, SSURGO tabular and spatial query (Duval County)",
+      "url": "https://sdmdataaccess.sc.egov.usda.gov/",
+      "checked": "2026-09-12",
+      "supports": [
+        "Query via SDA_Get_Mukey_from_intersection_with_WktWgs84 at point(-81.6880 30.3150) and point(-81.6920 30.3100), near Five Points: map unit 73 “Urban land-Mascotte-Sapelo complex, 0 to 2 percent slopes”; components “Urban land” 35 percent; “Mascotte” 30 percent, drainagecl “Poorly drained”, hydgrp C/D, shallowest ‘Wet’ soil-moisture depth 31 cm; “Sapelo” 25 percent, “Poorly drained”, B/D, 31 cm. (31 cm is about 12 inches.)",
+        "Query at point(-81.7050 30.2960), point(-81.7120 30.2910) and point(-81.7000 30.3000), Avondale around St. Johns Avenue: map unit 72 “Urban land-Ortega-Kershaw complex, 0 to 8 percent slopes”; components “Urban land” 35 percent; “Ortega” 30 percent, “Moderately well drained”, hydgrp A, shallowest ‘Wet’ depth 147 cm; “Kershaw” 25 percent, “Excessively drained”, hydgrp A, no wet layer recorded. (147 cm is about 58 inches.)",
+        "Query at point(-81.6960 30.3050), between the two: map unit 75 “Urban land-Hurricane-Albany complex, 0 to 5 percent slopes”; “Hurricane” 30 percent, “Somewhat poorly drained”, wet at 84 cm; “Albany” 20 percent, “Somewhat poorly drained”, wet at 53 cm."
+      ]
+    }
+  ],
+  "reviewNotes": [
+    "Brief check. Held: the COA requirement (307.106(d)), immediate staff approval of listed routine work (307.107(a)), expiry at 12 months unstarted and five years unfinished (307.106(s)), the August 1997 City guidelines, the fencing guidelines, and the front-yard parking ban (656.399.25(d)(2)(b)). Adjusted: the 1997 guidelines do not say that all exterior work not visible from a public right-of-way gets immediate staff approval. They list ground-level decks not visible from the right-of-way as a staff-review item, and put landscaping and non-visible changes on the advisory-opinion list. The page says that, and dates the guidelines. Added: 307.107(b)'s landscape-care exemption and its hardscape exclusion, which is the actual hinge for turf, and the Commission hearing steps in 307.106(g) and (i).",
+    "Unsettled, and put to the reader as a question for historicpreservation@coj.net: whether turf over a crushed-rock subgrade is 'routine lawn and landscape care' or 'new hardscape' under 307.107(b), and how Fla. Stat. 125.572(3) interacts with a COA review of a single-family lot. Neither the code nor the statute nor the DEP FAQ addresses it.",
+    "The two guideline PDFs are image scans with no text layer and no OCR tool on this machine; pages were rendered with pdftoppm and read visually (Part 1 printed pp. 23–30; Part 2 printed pp. 69–75). jacksonville.gov returned 403 to command-line fetches, so the Historic Preservation Section's role and contact are quoted from Riverside Avondale Preservation's page, and the code from eLaws.",
+    "USDA points are approximate sample coordinates; the page names the areas generally (near Five Points; Avondale around St. Johns Avenue) and does not assign a soil to any address.",
+    "Left for the orchestrator, per the brief: redirecting the legacy riverside-fl slug and trimming the COA sentence from src/content/towns/jacksonville-fl.json. This writer was limited to the two files."
+  ]
+}

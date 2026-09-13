@@ -1,0 +1,96 @@
+{
+  "intent": "My Welby home is in unincorporated Adams County and North Washington Street Water and Sanitation District may bill my water. Can I still water the lawn and the vegetable garden this fall and next spring, does the county's turf ban reach my farm-zoned or industrial parcel, and what does the ground under my yard need?",
+  "distinctValue": "The nearest pages point a Welby reader the wrong way: Thornton's page runs on a city permit and Thornton Water's rebate, Commerce City's names South Adams County Water, and Sherrelwood's covers Crestview Water and the county's change-in-use test for an ordinary house lot. This page covers what is Welby's own. (1) The district with its office in Welby, 3172 E. 78th Avenue, whose 2026 notice splits garden from lawn: annuals and vegetables may be watered any day until the first frost by hand-held hose or non-spray irrigation, trees, shrubs and perennials likewise, while lawn watering and spray irrigation stop from 1 October 2026 and sprinklers stay off in spring 2027 until a resolution permits them. That split matters on ground settled for irrigated farming (Clear Creek water rights; the 1923 Vegetable Producers Cooperative Association). (2) The Adams County DSR agricultural exemption: 4-19-02 exempts agricultural uses from the landscaping section whose 4-19-04-01 bars artificial turf, and crops or pasture are not landscaping. The county's April 2014 Welby plan counts 158 A-1 parcels, 22.20% of the area. The page tells the reader to ask the county whether a house lawn on A-1 land counts, rather than asserting it. (3) Welby's 181 I-1 parcels (21.68%) against the draft code PRC2026-00016, which bars nonfunctional artificial turf on industrial, commercial and institutional property and adds a functional-use test; comments to 2 October 2026, start 1 January 2027 if adopted. (4) Soils checked at points the Census geocoder places in Welby CDP: wet loamy alluvial land at the district office, Nunn clay loam on the flats, Samsil-Shingle clay over shallow bedrock at 8300 Washington Street. The change-in-use test and draft hearing detail are linked to the Sherrelwood page, not repeated. Caveat: no district service-area map was found, so the page tells readers to check the bill and ask the district.",
+  "sources": [
+    {
+      "label": "North Washington Street Water and Sanitation District: drought and watering restrictions 2026",
+      "url": "https://www.nwashingtonwaterco.gov/drought-watering-restrictions-2026",
+      "checked": "2026-09-12",
+      "supports": [
+        "Lawn watering and spray irrigation must stop beginning October 1, 2026, except as permitted below.",
+        "Sprinklers must remain off in spring 2027 until an official resolution permits their use.",
+        "Through September 30 (30 September): Customers may water no more than two days per week on their assigned days.",
+        "Even addresses: Sunday and Thursday only. Odd addresses: Wednesday and Saturday only. All others (multifamily, commercial, HOAs): Tuesday and Friday only.",
+        "Water only between 6 p.m. and 10 a.m.",
+        "Trees, shrubs and perennials may be watered any day with a hand-held hose equipped with a shut-off nozzle or low-volume, non-spray irrigation, such as a drip system.",
+        "Annuals and vegetables may be watered any day until the first frost with a hand-held hose equipped with a shut-off nozzle or low-volume, non-spray irrigation.",
+        "By contract, North Washington Street Water and Sanitation District and its customers are required to follow Denver Water's watering restrictions.",
+        "3172 E. 78th Avenue, Denver CO 80229 | (303) 288-6664, written on the page as 303-288-6664"
+      ]
+    },
+    {
+      "label": "North Washington Street Water and Sanitation District: home page",
+      "url": "https://www.nwashingtonwaterco.gov/",
+      "checked": "2026-09-12",
+      "supports": [
+        "3172 E. 78th Avenue, Denver CO 80229 | (303) 288-6664",
+        "Drought & Watering Restrictions 2026: Review current drought conditions and 2026 watering restrictions.",
+        "No service-area map or list of streets served appears on the home page; the page tells readers to check their bill and ask the district."
+      ]
+    },
+    {
+      "label": "Adams County Development Standards and Regulations, Chapter 4, October 1, 2024 edition (PDF)",
+      "url": "https://adamscountyco.gov/wp-content/uploads/2025/08/dsr-chapter-04.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "4-19-04-01 LANDSCAPE MATERIALS: No artificial trees, plants, or turf shall be used as a landscape material. If an applicant is interested in using artificial turf in their development, they shall meet the minimum standards for required plant materials and submit a request for an alternative turf design with drainage specifications to the Director of Community and Economic Development. Areas for cultivation of crops or pasture shall not be considered landscaped.",
+        "4-19-02 APPLICABILITY: Development which satisfies one (1) of the following criteria shall be exempt from this section: 1. Agricultural uses.",
+        "The provisions of this article shall apply to development, which meets one (1) of the following and is not exempt: 1. All new development which has not applied for a building permit before the effective date of this Section; or 2. Existing development which requires a change in use permit as determined within the Change in Use Section of Chapter 4.",
+        "4-19-08-01-01-01 GRADING STANDARD: The following grading standard shall apply to all new landscaping and buffering areas: Lawn and grassed areas, Maximum Slope 4:1, Minimum Slope 100:1.",
+        "Page header: Chapter 4 - Design Requirements and Performance Standards, Landscaping, October 1, 2024."
+      ]
+    },
+    {
+      "label": "Adams County: Development Standards & Regulations draft, project page (PublicInput)",
+      "url": "https://publicinput.com/j80053",
+      "checked": "2026-09-12",
+      "supports": [
+        "Planning Commission Hearing: Thursday, October 22, 2026 @ 6:00 PM in Adams County Government Center hearing room",
+        "Board of County Commissioners: Tuesday, November 17, 2026 @ 9:30 AM in Adams County Government Center hearing room",
+        "If adopted, start date of new regs: January 1, 2027",
+        "Please note the case number for this project: PRC2026-00016.",
+        "If you wish to give written comment on this project, you may email those comments ... until October 2, 2026."
+      ]
+    },
+    {
+      "label": "Adams County: DRAFT Development Standards and Regulations (PDF, linked from the project page)",
+      "url": "https://publicinput.com/Customer/File/Full/5107d712-de57-4455-88fb-b591b20ac560",
+      "checked": "2026-09-12",
+      "supports": [
+        "Div. 4-04 Landscaping and Buffering, 4-04-01 K.1 Landscape Materials: No artificial trees, plants, or turfgrass shall be used as a landscape material. If an applicant is interested in using artificial turf in their development, they shall meet the minimum standards for required plant materials, demonstrate a functional use for the artificial turf, and submit a request for an alternative turf design with drainage specifications to the Director of Community and Economic Development.",
+        "4-04-01 Q.2.a: No person shall install, plant, or place, or allow any person to install, plant, or place, any nonfunctional turfgrass, nonfunctional artificial turf, or invasive plant species, as part of a new development project or redevelopment project, on any portion of applicable property.",
+        "Applicable property means: (A) Commercial, institutional, or industrial property as defined in C.R.S. 37-60-135(2)(b); (B) Common interest community property as defined in C.R.S. 38-33.3-103(8); or (C) A street right-of-way, parking lot, median, or transportation corridor.",
+        "4-04-01 Q.4 High-Water Use Turfgrass: The use of high-water turfgrass shall be prohibited in new developments, except where a functional use is defined, such as active recreational areas like parks and athletic fields."
+      ]
+    },
+    {
+      "label": "Adams County: WELBY: Where Deep Roots Grow, A Community Plan for Future Development, April 2014 (PDF)",
+      "url": "https://adamscountyco.gov/wp-content/uploads/2025/08/WELBY.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "Prepared by Adams County Planning and Development Department and the Welby Community, April 2014.",
+        "Welby is a U.S. Census Designated Place (CDP) with designated boundaries of south of E. 88th Avenue, west of the South Platte River, north of I-76, and east of I-25.",
+        "Welby is a Census Designated Place ... representing 16.6% of the population of unincorporated Adams County. (Community profile table columns: Welby, Adams County, Unincorporated Adams County.)",
+        "Due to the high costs of freighting goods from the east, Welby settlers secured water rights from Clear Creek for irrigation purposes.",
+        "To ensure fair prices, farming families formed the Vegetable Producers Cooperative Association or the \"Garden Association\" in 1923.",
+        "Appendix C zoning table: A-1, 158 parcels, 19,425,342.2 total sq ft, average 122,945.2 sq ft (about 2.82 acres), 22.20% of total area.",
+        "Appendix C zoning table: R-1-C, 2,384 parcels, 26,267,121.8 total sq ft, average 11,018.1 sq ft, 30.02% of total area.",
+        "Appendix C zoning table: I-1, 181 parcels, 18,968,351.3 total sq ft, average 104,797.5 sq ft, 21.68% of total area.",
+        "Welby Planned Unit Developments, Residential: Chapparal Village, Devonshire Square, Welby Hill Duplex, High Point Village, Springbrook Park, McDougal Street Subdivision, Riverside Subdivision, Shiloh Townhome, The Estates at Devonshire, Riverdale Farms, Roller Subdivision, Crown Park Subdivision.",
+        "In March 2006, Clear Creek was part of a major drainageway planning study (Master Development Plan) from its confluence at the South Platte River to approximately 2,000 feet upstream of Highway 6 in the City of Golden.",
+        "The Basin is near full development within the study area, and as such drainage improvements are necessary because development has encroached into the Clear Creek floodplain."
+      ]
+    },
+    {
+      "label": "USDA NRCS Soil Data Access (SSURGO), queried with Census Geocoder locations",
+      "url": "https://sdmdataaccess.nrcs.usda.gov/",
+      "checked": "2026-09-12",
+      "supports": [
+        "Census Geocoder: 3172 E 78TH AVE, DENVER, CO, 80229 at -104.95016, 39.83812, in Welby CDP. SDA map unit at that point: Loamy alluvial land, moderately wet (mukey 94059); Loamy alluvial land 70%, slopes 0 to 1 percent, drainage class Somewhat poorly drained; muaggatt wtdepannmin 69 (cm), about 27 inches; flodfreqdcd Occasional.",
+        "Census Geocoder coordinates -104.9660, 39.8355 return Welby CDP. SDA map unit: Nunn clay loam, 0 to 1 percent slopes (mukey 94063), Nunn 85%. Horizons: Ap 0-15 cm claytotal_r 31, lep_r 4.2; Bt1 15-25 cm claytotal_r 38, lep_r 6.8; Bt2 25-66 cm claytotal_r 38, lep_r 6.8. Taxonomy: Fine, smectitic, mesic Aridic Argiustolls.",
+        "Census Geocoder: 8300 WASHINGTON ST, DENVER, CO, 80229 at -104.9778, 39.84658, in Welby CDP. SDA map unit: Samsil-Shingle complex, 3 to 35 percent slopes (mukey 94071); Samsil 40%, Shingle 35%. Samsil H1 0-10 cm claytotal_r 50, lep_r 7.5; H2 10-36 cm claytotal_r 57.5, ksat_r 0.21; restriction Paralithic bedrock at resdept_r 36 cm, about 14 inches. Shingle restriction Paralithic bedrock at 30 cm.",
+        "Census Geocoder: 7700 WASHINGTON ST, DENVER, CO, 80229 at -104.97783, 39.83542, in Welby CDP. SDA map unit: Ulm loam, 3 to 5 percent slopes (mukey 94089), Ulm 80%, Well drained."
+      ]
+    }
+  ]
+}

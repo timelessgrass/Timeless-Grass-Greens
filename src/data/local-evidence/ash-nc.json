@@ -1,0 +1,104 @@
+{
+  "intent": "Before a turf lawn, dog run or putting green goes into a yard in Ash, NC, does the dig, or its distance from a branch, need a Brunswick County stormwater permit, and which county office reviews it?",
+  "distinctValue": "Ash is a crossroads, not a town: a Census Bureau geographic lookup for the crossroads returns Waccamaw township, Brunswick County, with no incorporated place at that point, so the county reviews the work rather than a town. A federal hydrography check of the same area returns six unnamed intermittent streams (NHD ftype 460, fcode 46006) plus the Waccamaw River itself (ftype 558, fcode 55800) within roughly a mile of the crossroads — a concrete reason a yard here, specifically, sits close enough to a mapped waterway for the county's 30-foot buffer rule to matter, not just a fact true of the whole county. Sec. 1.16(b)(iii) requires a Stormwater Management Plan and county Stormwater Permit for filling or excavation that changes the land surface by four inches or more and alters the drainage pattern; the county's web summary drops the drainage clause and says 'more than four inches'. Sec. 1.16(b)(ii) adds the 30-foot stream trigger, with its own exemption for work the manual lists as Exempt or Allowable — the manual's Table of Uses exempts fences and single-family playground equipment, with no row for turf, lawn or grading. Sec. 1.6(p) counts gravel and compacted earth as impervious while Sec. 1.6(d) leaves #57 stone at least four inches thick over geotextile out of built-upon area; the ordinance predates the 2024 state turf exemption and never mentions turf. Form SW-002's 15-percent test has two parts, not one: impervious under 15 percent AND remaining pervious area used to the maximum extent practical to convey and control runoff. The page's water note now cites the county's September 4, 2026 update (Detail/884), which adds a D4 pocket in the county's south end that the prior notice (Detail/807) didn't carry. The ordinance's own Section 2 sets its effective date as September 15, 2002 — one day off the county summary page's 'September 16, 2002' — so the page now sources the date from the ordinance itself rather than repeating the summary page's figure. Neither the Shallotte nor the Carolina Shores page carries the permit trigger or the buffer. The page also serves Freeland, Exum and Longwood where parcels are unincorporated. The statute G.S. 143-214.7D sits behind a Cloudflare challenge and could not be opened directly on 2026-09-12 or 2026-09-13, so the page states its conclusion in its own words and links the site's existing guide (which does quote the statute) rather than presenting a direct quote as freshly verified here.",
+  "sources": [
+    {
+      "label": "Brunswick County Stormwater Quality Management and Discharge Control Ordinance (PDF, 18 pages)",
+      "url": "https://www.brunswickcountync.gov/DocumentCenter/View/7215",
+      "checked": "2026-09-13",
+      "supports": [
+        "Section 1.4 Applicability: \"The provisions of the Ordinance shall apply to all areas within the planning jurisdictional limits of Brunswick County. This Ordinance shall be permanently on file in the office of the Brunswick County Engineering Department.\"",
+        "Section 1.6(d): \"Built-upon Area or BUA. Impervious surface and partially impervious surface to the extent that the partially impervious surface does not allow water to infiltrate through the surface and into the subsoil. BUA does not include a slatted wood deck or the water area of a swimming pool; a surface of number 57 stone, as designated by the American Society for Testing and Materials, laid at least four inches thick over a geotextile fabric; or a trail as defined in G.S. 113A-85 ...\"",
+        "Section 1.6(p): \"Impervious Surface. Any surface which in whole or in part, restricts or prevents the natural absorption of water into the ground. Such surfaces may include, but not be limited to, compacted earth (such as marl and coquina), gravel, concrete, asphalt, or other paving material, and all area covered by the footprint of buildings or structures.\"",
+        "Section 1.6(q): \"Intermittent Streams. A natural drainage way, which shows up as a blue line on the USGS 7.5-minute quadrangle maps and has a contributing drainage area of 300 acres or less, shall be considered an intermittent stream for the purposes of this Ordinance.\"",
+        "Section 1.16(a): \"Where the above conditions are met and where a development does not require the preparation of a Stormwater Management Plan, as provided in Section 1.16(b) of this ordinance, obtaining a Brunswick County Stormwater Permit is not required.\"",
+        "Section 1.16(b): \"Stormwater Management Plans must be prepared for, and shall be approved by, the Stormwater Administrator pursuant to the application for a Stormwater Permit for: ... ii. Any activity that disturbs land within 30 feet of the banks of a stream or other natural waterway within the County, except when such disturbance is designated as Exempt or Allowable in the Brunswick County Storm Water Management Manual.\"",
+        "Section 1.16(b)(iii): \"Any filling or excavation of a parcel that results in a change of land surface of four (4) inches or more and alters the existing drainage pattern; except instances when said filling or excavation is required for on-site sewage treatment systems that is necessary to meet the requirements of the Brunswick County Department of Health (BCDEH) and that is specifically approved and inspected by BCDEH.\"",
+        "Section 1.17(a): \"Riparian buffers shall be maintained on all sides of perennial and intermittent streams, lakes and other natural waterways as provided in the Storm Water Management Manual.\"",
+        "Section 1.17(b)(vi), among the exemptions from the riparian buffer requirement: \"Ditches and manmade conveyances other than modified natural streams.\"",
+        "Section 1.17(c): \"The riparian buffer shall be an undisturbed area extending from the top of channel bank landward a minimum distance of 30 feet measured horizontally on a line perpendicular to the water body.\"",
+        "Page 18, closing clause: \"SECTION 2. This Ordinance shall be in full force and effect on September 15, 2002.\" (read directly from the PDF page image on 2026-09-13).",
+        "Full-text search of the extracted ordinance text on 2026-09-12 returns no occurrence of \"turf\" or \"synthetic\"."
+      ]
+    },
+    {
+      "label": "Brunswick County Engineering: Stormwater Ordinance",
+      "url": "https://www.brunswickcountync.gov/248/Stormwater-Ordinance",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"The stormwater ordinance became effective September 16, 2002. The unincorporated areas of the county are subject to the ordinance. The county also has agreements in place to administer the Stormwater Ordinance in Belville, Boiling Spring Lakes, Bolivia, St. James and Sunset Beach.\" (One day off the ordinance PDF's own Section 2 date of September 15, 2002; the page now cites the ordinance for the date.)",
+        "\"A county Stormwater Permit is required for: ... Residential developments where the site will be graded, filled, or excavated and thereby change the elevation of a location by more than four inches. Residential development or any related disturbance within 30 feet of the banks of a natural stream or water body.\"",
+        "Form links on the page: \"Brunswick County Stormwater Permit Certification Form (Form SW-001) (updated 02-16-2026)\" and \"Brunswick County Stormwater Permit Residential Application Form (Form SW-002) (updated 02-16-2026)\".",
+        "\"For questions, contact ... Stormwater Engineer.\"",
+        "\"The Stormwater Ordinance (PDF) requires individual property owners to maintain all streams, creeks, ditches, swales, pipes, culverts, etc. that are on the private property. The county does not provide maintenance of drainage ways.\"",
+        "\"Fences or walls shall not alter or impede the natural flow of water in any stream, creek, drainage swale or ditch. Drainage easements must be maintained and kept free of obstructions.\""
+      ]
+    },
+    {
+      "label": "Brunswick County Storm Water Management Manual (approved September 16, 2002, updated September 19, 2022)",
+      "url": "https://www.brunswickcountync.gov/DocumentCenter/View/647",
+      "checked": "2026-09-12",
+      "supports": [
+        "Cover: \"Approved by Brunswick County Board of Commissioners September 16, 2002 (Updated September 19, 2022)\".",
+        "Section 3.1.1 Site Plan Requirements for Single-Family Residential Developments and Minor Subdivisions: \"The owner shall provide one or more drawings that show the size, shape, and orientation of property lines; structures, driveways, walkways, and other impervious areas; rivers, streams, swales, wetlands, and other drainage features; utilities and easements; and the names of streets or other local features that identify the location of the property and its existing and proposed features.\"",
+        "Section 4.1: \"The Program requires that 30-foot wide riparian buffers be maintained on all sides of intermittent and perennial streams, ponds, lakes, and other water bodies in the County.\"",
+        "Section 4.2: \"The Storm Water Administrator will prepare and, from time-to-time, correct and update a map portraying the riparian buffer areas covered by the Brunswick County Storm Water Ordinance. ... It is the owner's responsibility to verify the accuracy of that map as it relates to development or other land disturbing activities on a specific parcel.\"",
+        "Table of Uses, marked Exempt: \"Fences, provided that disturbance is minimized and installation does not result in removal of forest vegetation.\"",
+        "Table of Uses, marked Exempt: \"Playground equipment on single-family lots provided that installation and use does not result in vegetation removal.\"",
+        "Reading of the full Table of Uses on 2026-09-12: no row for artificial turf, lawn, landscaping or grading, and a text search of the manual returns no occurrence of \"turf\"."
+      ]
+    },
+    {
+      "label": "Brunswick County Storm Water Permit Residential Application Form SW-002 (PDF)",
+      "url": "https://www.brunswickcountync.gov/DocumentCenter/View/7140",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"(Form SW-002, must be accompanied by completed Form SW-001)\"; residential type options include \"Single lot with one single-family residential structure\".",
+        "\"Calculate pre- and post-development Storm Water runoff from the development for the 1-year, 24-hour storm with one of the approved methods specified in the Brunswick County Storm Water Management Manual.\" The same calculation is asked for the 10-year, 25-year and 100-year, 24-hour storms.",
+        "Question 11 (both clauses required, not just the percentage): \"the overall impervious surface is less than fifteen percent [15 percent] and the remaining pervious portions of the site are utilized to the maximum extent practical to convey and control the Storm Water runoff?\" \"Yes - A flow control SCM is not required for this development but the Brunswick County Storm Water Administrator must approve a variance.\""
+      ]
+    },
+    {
+      "label": "Brunswick County Planning & Community Enforcement",
+      "url": "https://www.brunswickcountync.gov/planning/",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"Brunswick County Planning & Community Enforcement provides public planning services for unincorporated areas of Brunswick County that fall outside the planning jurisdictions of municipalities. The department's responsibilities include but are not limited to, zoning, land subdivision, long-range and transportation planning, specialized planning initiatives, the issuance of Minor CAMA Permits ...\"",
+        "\"Contact the Brunswick County Planning & Community Enforcement Department for help with your land development project, determine the zoning of property you own or wish to buy ...\""
+      ]
+    },
+    {
+      "label": "Brunswick County News Flash: Reminder — burn ban still in effect for unincorporated areas",
+      "url": "https://www.brunswickcountync.gov/m/newsflash/home/detail/884",
+      "checked": "2026-09-13",
+      "supports": [
+        "\"Posted on June 08, 2026 | Last Updated on September 04, 2026\"",
+        "\"All burning within 100 feet of any structure is banned within the unincorporated areas of Brunswick County.\" The ban commenced Monday, June 8, 2026, and remained active as of September 4, 2026.",
+        "\"As of September 3, 2026, Brunswick County was classified as Extreme Drought (D3) ... Some areas in the southern end of the county are also still experiencing Exceptional Drought (D4).\"",
+        "The prohibition does not cover open burning permits issued by the North Carolina Forest Service; permits may still be required from the NC Department of Environmental Quality. Questions go to the Brunswick County Fire Marshal's Office, 910-253-2041.",
+        "This notice (Detail/884) supersedes the June 9 / August 31 notice (Detail/807) previously cited, and is the one now quoted on the page; it adds the D4 pocket the prior notice did not mention."
+      ]
+    },
+    {
+      "label": "U.S. Census Bureau geography lookup, coordinates near the Ash crossroads (NC 130)",
+      "url": "https://geocoding.geo.census.gov/geocoder/geographies/coordinates?x=-78.5878&y=34.0201&benchmark=Public_AR_Current&vintage=Current_Current&layers=all&format=json",
+      "checked": "2026-09-13",
+      "supports": [
+        "Raw JSON response, \"County Subdivisions\" array: {\"BASENAME\": \"Waccamaw\", \"NAME\": \"Waccamaw township\", \"COUNTY\": \"019\", ...} for Brunswick County.",
+        "The \"Counties\" array names \"Brunswick County\" (GEOID 37019) for the point.",
+        "The response's \"geographies\" object has no \"Incorporated Places\" key at all for this point, meaning the Census Bureau's current geography layers show no incorporated place covering it.",
+        "\"input\":{\"location\":{\"x\":-78.5878,\"y\":34.0201}} — coordinates queried, at the NC 130 crossroads commonly identified as Ash."
+      ]
+    },
+    {
+      "label": "USGS National Hydrography Dataset (National Map ArcGIS REST service), streams within roughly a mile of the Ash crossroads",
+      "url": "https://hydro.nationalmap.gov/arcgis/rest/services/nhd/MapServer/6/query?geometry=-78.5878,34.0201&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&distance=1600&units=esriSRUnit_Meter&outFields=gnis_name,ftype,fcode&returnGeometry=false&f=json",
+      "checked": "2026-09-13",
+      "supports": [
+        "Query for features within 1,600 meters (about 1 mile) of the same coordinates used for the Census lookup above, layer 6 (NHDFlowline).",
+        "Raw JSON: 11 features returned. Six carry gnis_name: null with ftype 460 / fcode 46006 (StreamRiver, intermittent) — unnamed branches. Three carry gnis_name: null with ftype 558 / fcode 55800 (Artificial Path, the channel-centerline representation of a named river or an unnamed one). Two carry gnis_name: \"Waccamaw River\" with ftype 558 / fcode 55800.",
+        "A wider query at 3,000 meters additionally returns named features \"Scippio Swamp\", \"Seven Creeks\" and \"Regan Branch\", confirming multiple named tributaries drain toward the Waccamaw in the surrounding area, though none of those three fell inside the roughly 1-mile radius used on the page."
+      ]
+    }
+  ]
+}

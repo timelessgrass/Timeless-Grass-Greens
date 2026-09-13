@@ -1,0 +1,59 @@
+{
+  "intent": "I'm looking at a lot in Grissettown, NC — an unincorporated community, not a town. Who actually regulates artificial turf here, and does digging a base trip a County permit?",
+  "distinctValue": "Grissettown is the one Grand Strand page built entirely around Brunswick County's own Stormwater Quality Management and Discharge Control Ordinance, rather than a town's UDO or stormwater code. Sunset Beach and Calabash each answer to their own town-level rules; Grissettown, as an unincorporated community, answers directly to the County ordinance, in force since September 15, 2002 (Section 2) and applied countywide to all areas within the County's planning jurisdictional limits (Section 1.4). The page states the two triggers in Section 1.16(b) most likely to catch a turf job: a 4-inch-or-more change in land surface that alters the existing drainage pattern (1.16(b)(iii)), and disturbance within 30 feet of a stream bank (1.16(b)(ii)); it also states Section 1.16(a)'s converse, that no Stormwater Permit is required where none of the triggers apply. It states the Section 1.17 riparian buffer exactly as defined — an undisturbed 30-foot strip measured landward from the top of channel bank, perpendicular to the water body — with its stated exemptions. It states the Ordinance's Built-upon Area (BUA) definition precisely, including the number-57-stone-over-geotextile exclusion and the 1.41 inches-per-hour (0.001 cm/s) hydraulic-conductivity figure, and is careful to flag that the 1.41 figure is written for trails in the Ordinance's own text, not for turf — turf is not named in the BUA definition at all, which the page states as an open question for the County rather than an assumed answer. It tells the reader to confirm, before relying on any of this, that their specific parcel is actually unincorporated County land and not inside a neighboring town's limits, since Sunset Beach and Calabash run separate ordinances of their own. The only Grissettown-specific local landmark used is Grissettown Longwood Fire & Rescue, a volunteer department serving the area since 1985 — used only as a place marker, not as a permitting authority.",
+  "sources": [
+    {
+      "label": "Brunswick County: Stormwater Ordinance",
+      "url": "https://www.brunswickcountync.gov/248/Stormwater-Ordinance",
+      "checked": "2026-09-12",
+      "supports": [
+        "Permit trigger quoted on the page (residential developments): \"Residential developments where the site will be graded, filled, or excavated and thereby change the elevation of a location by more than four inches.\"",
+        "Permit trigger quoted on the page (stream proximity): \"Residential development or any related disturbance within 30 feet of the banks of a natural stream or water body.\"",
+        "This summary page points to the full Stormwater Quality Management and Discharge Control Ordinance PDF for the complete text, which was read in full and is the second source below."
+      ]
+    },
+    {
+      "label": "Brunswick County: Stormwater Quality Management and Discharge Control Ordinance (PDF, read in full, 18 pages)",
+      "url": "https://brunswickcountync.gov/DocumentCenter/View/649/Brunswick-County-Stormwater-Ordinance-PDF?bidId=",
+      "checked": "2026-09-12",
+      "supports": [
+        "SECTION 2: \"This Ordinance shall be in full force and effect on September 15, 2002.\"",
+        "Section 1.4 Applicability: \"The provisions of the Ordinance shall apply to all areas within the planning jurisdictional limits of Brunswick County. This Ordinance shall be permanently on file in the office of the Brunswick County Engineering Department.\"",
+        "Section 1.6(d) Built-upon Area or BUA definition: \"Impervious surface and partially impervious surface to the extent that the partially impervious surface does not allow water to infiltrate through the surface and into the subsoil. BUA does not include a slatted wood deck or the water area of a swimming pool; a surface of number 57 stone, as designated by the American Society for Testing and Materials, laid at least four inches thick over a geotextile fabric; or a trail as defined in G.S. 113A-85 that is either unpaved or paved as long as the pavement is porous with a hydraulic conductivity greater than 0.001 centimeters per second (1.41 inches per hour).\"",
+        "Section 1.16(a): \"Where the above conditions are met and where a development does not require the preparation of a Stormwater Management Plan, as provided in Section 1.16(b) of this ordinance, obtaining a Brunswick County Stormwater Permit is not required.\"",
+        "Section 1.16(b): \"Stormwater Management Plans must be prepared for, and shall be approved by, the Stormwater Administrator pursuant to the application for a Stormwater Permit for: i. All non-residential development and any major subdivision as defined in the Brunswick County Unified Development Ordinance. ii. Any activity that disturbs land within 30 feet of the banks of a stream or other natural waterway within the County, except when such disturbance is designated as Exempt or Allowable in the Brunswick County Storm Water Management Manual. iii. Any filling or excavation of a parcel that results in a change of land surface of four (4) inches or more and alters the existing drainage pattern; except instances when said filling or excavation is required for on-site sewage treatment systems that is necessary to meet the requirements of the Brunswick County Department of Health (BCDEH) and that is specifically approved and inspected by BCDEH. iv. Any activity or development that will ultimately result in the disturbance of a total area of one or more acres, except for the following: a) Activity on a bona fide farm, unless the activity is for non-farm purposes. b) Activities on forestland for the production and harvesting of timber and timber products. c) Activities associated with mining that have a valid mining permit.\"",
+        "Section 1.17(a) Riparian Buffers: \"Riparian buffers shall be maintained on all sides of perennial and intermittent streams, lakes and other natural waterways as provided in the Storm Water Management Manual.\"",
+        "Section 1.17(c): \"The riparian buffer shall be an undisturbed area extending from the top of channel bank landward a minimum distance of 30 feet measured horizontally on a line perpendicular to the water body.\"",
+        "Section 1.17(b) exemptions: \"i. Areas along streams or other waterways that are mapped on the USGS quadrangle map or NRCS soils map where such streams or waterways do not actually exist on the ground. ii. Ponds and lakes created for animal watering, irrigation, or other agricultural uses that are not part of a natural drainage way. iii. Where application of these requirements would prevent all prospective use of a lot platted and recorded prior to the effective date of this Ordinance. iv. Water dependent structures... v. Roads, bridges, stormwater management facilities, ponds, and utilities where no other practical alternative exists... vi. Ditches and manmade conveyances other than modified natural streams.\"",
+        "Section 1.17(d): \"The following activities shall not be allowed in buffer areas: i. New on-site sewage systems, which utilize ground adsorption. ii. New structures, except as specifically provided in the Storm Water Management Manual.\"",
+        "Artificial turf is not named anywhere in the BUA definition or elsewhere in this Ordinance's 18 pages — confirmed by reading the full document; the page states this as an open question for the County rather than assuming an answer."
+      ]
+    },
+    {
+      "label": "Brunswick County: Municipal Jurisdictions",
+      "url": "https://www.brunswickcountync.gov/192/Municipal-Jurisdictions",
+      "checked": "2026-09-12",
+      "supports": [
+        "The table lists jurisdiction (Town or County) for flood, building inspection, CAMA, addressing, zoning, stormwater and fire inspection only for named incorporated municipalities, including Sunset Beach and Calabash — both listed as Town-run for zoning and stormwater within their own limits.",
+        "Grissettown does not appear as a row on this table because it is not an incorporated municipality, which supports the page's statement that Sunset Beach and Calabash each run their own separate ordinances distinct from the County's, and that a reader must confirm which side of a town line their Grissettown-area parcel falls on."
+      ]
+    },
+    {
+      "label": "Grissettown Longwood Fire & Rescue: About",
+      "url": "https://www.grissettownfire.net/about",
+      "checked": "2026-09-12",
+      "supports": [
+        "Confirms the department was \"Established in 1985\" as a volunteer fire and rescue organization serving Brunswick County, North Carolina.",
+        "Lists its address as 758 Longwood Road NW, Ocean Isle Beach, NC 28469, confirming Longwood Road as the road name used on the page.",
+        "The page does not provide historical detail about Grissettown as a place or how the community name originated, so none is claimed on the page.",
+        "Used on the page only as a local place marker (name and founding year), not cited for any permitting or regulatory authority — the department does not issue stormwater or building permits."
+      ]
+    }
+  ],
+  "notes": [
+    "Brief caveat (2) honored: the Ordinance's 1.41 inches-per-hour / 0.001 cm/s hydraulic-conductivity figure is written into the Built-upon Area definition specifically for a trail as defined in G.S. 113A-85, not for turf. The page states this explicitly and does not carry the figure over as a turf standard.",
+    "Brief caveat (3) honored: the legacy note about County Stage 1 irrigation schedules naming athletic fields, and the secondary claim that a 2024 NC law exempts some turf from impervious limits (G.S. 143-214.7, which returned 403 when checked), are both left off the page. Neither is cited or implied.",
+    "Brief caveat (1) honored: the page tells the reader to confirm parcel status (unincorporated County vs. inside a neighboring town's limits) with the County's Planning & Community Development office or its GIS map before relying on the County ordinance, rather than asserting Grissettown's boundaries itself.",
+    "Distances and orientation (between Shallotte and Sunset Beach, Shallotte Township) are carried from the build-towns.json brief's own insideOutline framing and are not tied to a specific external URL; no numeric distance figures from that framing are stated on the page."
+  ]
+}

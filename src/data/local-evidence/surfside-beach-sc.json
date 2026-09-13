@@ -1,0 +1,126 @@
+{
+  "intent": "Can I put artificial turf on my Surfside Beach lot, how much of the lot can be hard cover, does turf count toward that cap, and what do the town's tree, landscaping and shore protection rules require before work starts?",
+  "distinctValue": "Surfside Beach is an incorporated town with its own zoning code, and none of the neighbouring pages (Myrtle Beach, Forestbrook, Murrells Inlet) carries any of it. Codified caps (Sec. 17-312, 17-322, 17-333, confirmed on Municode, Supplement 37, codified through Ord. 26-0996 of January 27, 2026): building coverage 30/30/40 percent and impervious coverage 40/45/50 percent in R-1/R-2/R-3. Sec. 17-007 defines impervious surface as land compacted or covered so it is highly resistant to infiltration; artificial turf is not named in Articles I, III, IV, VII or VIII. Worked example on the page: 45 percent of a 6,000 sq ft R-2 minimum lot is 2,700 sq ft (6,000 x 0.45 = 2,700). Trees: Sec. 17-723 minimums (5 trees / 60 in R-1, 5 / 40 in R-2, 3 / 30 in R-3, measured 2 ft up) and Sec. 17-723.2 no-fee zoning permit for trees over 8 inches (25 inches circumference). Sec. 17-723.3 permit conditions for common trees (non-longleaf pines; within 10 feet of structure or driveway) and Sec. 17-723.5 landmark trees (BZA approval for uses other than the primary residence). Current landscaping Division 1 (Sec. 17-701, 17-702: 50/40/20 percent landscaped, 20 percent of it in front yard; landscaping defined without turf) appears on Municode but is missing from the town's Article VII PDF (DocumentCenter 2605), so the page cites Municode. Proposed Ordinance 26-1007: first reading postponed from July 14, 2026, then accepted with changes 6-1 on August 10, 2026, with fines and enforcement to be reviewed before second reading; absent from the August 24 and September 8, 2026 council agendas and the September 15, 2026 workshop agenda, so the page says it is not law as of 12 September 2026. Draft counts pervious artificial turf as landscape material, applies landscaping minimums (20 to 50 percent by lot size, 20 percent in front yard) whenever an activity over 800 sq ft needs a zoning permit, and requires a permit for any tree 3 inches DBH or more measured at 4.5 feet. Shore protection: Sec. 17-802 line 20 feet landward of rear property line or dune crest, Sec. 17-803(3) excludes nonnative grass turf or covering from the strip between the landward dune trough and the line, Sec. 17-807 and 17-808 permits seaward of the line; the brief's Zoneomics-only citation is now confirmed on the town's Municode code. Phone: the regulations PDF prints 843-913-6111 (page 1) and 843-913-6341 (page 2); the department page and tree form list 843-913-6341, and the site footer lists 843-913-6111 for Town Hall. Legacy demographics, home values and unverified commercial targets are deliberately not used; Ordinance 2023-1749 (Surfside, Florida) is not cited.",
+  "sources": [
+    {
+      "label": "Surfside Beach Town Code, Chapter 17, Article III (district regulations)",
+      "url": "https://library.municode.com/sc/surfside_beach/codes/code_of_ordinances?nodeId=VOII_CH17ZO_ARTIIIDIUSRE",
+      "checked": "2026-09-12",
+      "supports": [
+        "Sec. 17-312. - Maximum building and impervious coverage. On any lot within an R-1 low density residential district, the area occupied by all buildings including accessory buildings, shall not exceed thirty (30) percent of the total area of such lot. The maximum impervious coverage on any lot within the R-1 district shall not exceed forty (40) percent of the total area of such lot.",
+        "Sec. 17-322. - Maximum building and impervious coverage. On any lot within an R-2 medium density residential district, the area occupied by all buildings including accessory buildings, shall not exceed thirty (30) percent of the total area of such lot. The maximum impervious coverage on any lot within the R-2 medium residential district shall not exceed forty five (45) percent of the total area of such lot.",
+        "Sec. 17-333. - Maximum building and impervious coverage. On any lot within an R-3 high density and accommodations residential district, the area occupied by all buildings including accessory buildings, shall not exceed forty (40) percent of the total area of such lot. The maximum impervious coverage on any lot within the R-3 district shall not exceed fifty (50) percent of the total area of such lot.",
+        "Sec. 17-308. The minimum size of lots in the R-1 low density residential district is nine thousand (9,000) square feet. Sec. 17-318. The minimum size of lots in the R-2 minimum density residential district is six thousand (6,000) square feet. Sec. 17-328. ... The minimum size lot for a single-family detached dwelling unit is thirty thousand six hundred (3,600) square feet",
+        "Municode job banner: Codified through Ordinance No. 26-0996, enacted January 27, 2026. (Supp. No. 37)",
+        "Arithmetic used on the page: 45 percent of 6,000 square feet = 2,700 square feet."
+      ]
+    },
+    {
+      "label": "Town of Surfside Beach: District Regulations (updated Feb. 8, 2022)",
+      "url": "https://www.surfsidebeach.org/DocumentCenter/View/188/District-Regulations-PDF",
+      "checked": "2026-09-12",
+      "supports": [
+        "TOWN OF SURFSIDE BEACH DISTRICT REGULATIONS 02/8/2022",
+        "R-1 Low Density Residential ... Minimum Lot 9000 sq. ft. ... Maximum Lot Coverage: 30% Maximum Impervious Coverage: 40% Trees: 5 (with each having a minimum diameter of 3” measured 2’ from ground). 60 inches (total trees measured 2 ft. from ground (188\" circumference)",
+        "R-2 Medium Density Residential ... Minimum Lot: 6000 sq. ft. ... Maximum Lot Coverage: 30% ... Maximum Impervious Coverage: 45% ... Trees: 5 ... 40 inches (total trees measured 2 ft. from ground (125\" circumference)",
+        "R-3 High Density/Weekly Rental ... Minimum Lot: 3600 sq. ft. [single detached] ... Maximum Lot Coverage: 40% Max. Impervious Coverage: 50% Trees: 3 ... 30 inches (total trees measured 2 ft. from ground (94\" circumference)",
+        "The Building and Zoning Department 843-913-6111 (page 1); The Building and Zoning Department 843-913-6341 (page 2). Updated 2/8/22"
+      ]
+    },
+    {
+      "label": "Surfside Beach Town Code, Sec. 17-007 (definitions)",
+      "url": "https://library.municode.com/sc/surfside_beach/codes/code_of_ordinances?nodeId=VOII_CH17ZO_ARTIGEPR_S17-007DE",
+      "checked": "2026-09-12",
+      "supports": [
+        "Impervious coverage (percentage) shall mean all nonvertical land within a lot containing impervious surfaces, expressed as a percentage of the lot's area.",
+        "Impervious surface shall mean a land surface, which has been compacted or covered with a layer of material so that it is highly resistant to infiltration by water. This term includes, but is not limited to, most conventionally surfaced streets, roofs, sidewalks, driveways, and parking lots.",
+        "Search of Articles I, III, IV, VII and VIII of Chapter 17 on Municode (Supp. No. 37) for artificial, synthetic and turf: no mention of artificial turf; the only turf wording is Sec. 17-803(3), nonnative grass turf or covering."
+      ]
+    },
+    {
+      "label": "Town of Surfside Beach: Planning, Building & Zoning",
+      "url": "https://www.surfsidebeach.org/184/Planning-Building-Zoning",
+      "checked": "2026-09-12",
+      "supports": [
+        "Zoning Map: Click here",
+        "Contact Us Planning, Building & Zoning Department Phone: 843-913-6341",
+        "Site footer: Town Hall 210 Highway 17 S Surfside Beach, SC Phone: 843-913-6111"
+      ]
+    },
+    {
+      "label": "Surfside Beach Town Code, Chapter 17, Article VII (landscaping and tree protection)",
+      "url": "https://library.municode.com/sc/surfside_beach/codes/code_of_ordinances?nodeId=VOII_CH17ZO_ARTVIILATRPR",
+      "checked": "2026-09-12",
+      "supports": [
+        "Sec. 17-701. - Landscaping defined. Landscaping shall consist of, but not be limited to, any combination of materials such as grass, ground covers, shrubs, flower beds, vines, hedges, and trees. (Ord. No. 17-0839, 8-22-17)",
+        "Sec. 17-702. - Area required to be landscaped per zoning district. R-1 (Low-Density Residential) At least fifty (50) percent At least twenty (20) percent R-2 (Medium-Density Residential) At least forty (40) percent At least twenty (20) percent R-3 (High-Density Residential and Accommodations) At least twenty (20) percent At least twenty (20) percent [columns: percentage of total lot square footage to be landscaped; percentage of landscaping required to be located in the front yard]",
+        "Sec. 17-703. ... New construction, redevelopment or major additions shall have all elements of landscaping installed prior to the issuance of a certificate of zoning compliance in accordance with section 17-206.",
+        "Sec. 17-723. Table 17-723.1 ... R-1 5 trees per lot 3 inches 60 inches; R-2 5 trees per lot 3 inches 40 inches; R-3 3 trees per lot 3 inches 30 inches. ... Mature trees are already beneficial to the town and can be counted towards the required 60\", 40\", and 30\", respectively. [Minimum Diameter measured 2' from ground]",
+        "Sec. 17-723.2. - Zoning permit required for existing residence. No permit. A zoning permit is not required for the removal of trees under eight (8) inches in diameter or twenty-five (25) inches in circumference measured two (2) feet from the ground ... Permit required. Issuance of a no-fee zoning permit is required prior to removal of trees over eight (8) inches in diameter or twenty-five (25) inches in circumference measured two (2) feet from the ground",
+        "Sec. 17-723.3. ... When trees or limbs exceed eight (8) inches in diameter or twenty-five (25) inches in circumference a no-fee permit is required and will be issued as long as one (1) of the following conditions is met: ... (4) The tree is any variety of pine other than a long leaf; or (5) The tree is within ten (10) feet of the primary structure, foundation or driveway ... Tree replacement. If the removal does not maintain the required number of trees, common trees may be replaced with another common tree.",
+        "Sec. 17-723.5. ... Other requests. Requests for the removal of a landmark tree in order to place a pool, accessory structure, or any other type use other than primary residence shall require approval from the board of zoning appeals.",
+        "Sec. 17-750. Common tree shall mean any tree not listed in Table 17-750 herein as a protected, specimen, or landmark tree. Table 17-750: Cypress (Bald), Oak (Live Oak), Oak (Laurel) Landmark Tree @ Greater than 24 inches in diameter/75\" in circumference; Pine (Long Leaf) is listed; other pines are not.",
+        "The town's own Article VII PDF (DocumentCenter/View/2605, created Nov. 3, 2021) matches Division 2 to 4 but omits Division 1 (Sec. 17-701 to 17-703), so the page cites Municode."
+      ]
+    },
+    {
+      "label": "Town of Surfside Beach: Tree Removal Application",
+      "url": "https://www.surfsidebeach.org/FormCenter/Planning-Building-and-Zoning-7/Tree-Removal-Application-51",
+      "checked": "2026-09-12",
+      "supports": [
+        "Town of Surfside Beach TREE REMOVAL APPLICATION TEL: 843-913-6341",
+        "Location of tree(s) requesting be removed: (Trees must be flagged or marked prior to inspection)",
+        "Landmark Tree (Bald Cypress, Laurel or Live Oak over 24 inches in diameter)",
+        "All debris from such operations shall be removed daily. No debris may be left on site overnight. Work must be performed between the hours of 7 a.m. and 8 p.m. Monday through Saturday",
+        "I further understand that I have a right to appeal any decision made by the Code Enforcement Official(s) to the Zoning Board of Appeals."
+      ]
+    },
+    {
+      "label": "Surfside Beach Town Council: minutes of August 10, 2026",
+      "url": "https://www.surfsidebeach.org/AgendaCenter/ViewFile/Minutes/_08102026-1494",
+      "checked": "2026-09-12",
+      "supports": [
+        "TOWN COUNCIL MEETING MINUTES Monday August 10, 2026- 6:00 PM",
+        "C. FIRST READING - 26-1007 ORDINANCE-AN ORDINANCE TO REPEAL CHAPTER 17, \"ZONING\", ARTICLE VII, \"LANDSCAPING AND TREE PROTECTION\", SECTIONS 17-700 THROUGH 17-750, AND REPLACE IT WITH NEW ARTICLE VII",
+        "Although the Planning Commission had forwarded a draft for first reading two weeks earlier, the council postponed that reading to hold a workshop and gather detailed input.",
+        "Additional sections on fines and enforcement required further legal research. Questions arose about whether the proposed large fines were permissible under municipal law and whether penalties should be structured as civil rather than criminal. Council agreed to review these issues before second reading.",
+        "Final vote to accept first reading with changes: Councilmembers Stamey, Kohlmann, Walls, Lawhorn, Fallon and Mayor Krouse voted in favor. Councilmember Hiatt voted against. Motion carried. [6-1]"
+      ]
+    },
+    {
+      "label": "Town of Surfside Beach: draft Ordinance No. 26-1007 (tree protection and landscaping)",
+      "url": "https://www.surfsidebeach.org/AgendaCenter/ViewFile/Item/1701?fileID=7093",
+      "checked": "2026-09-12",
+      "supports": [
+        "Ordinance No. 26-1007 First Reading: 7/14/2026 Second Reading: ______",
+        "Permit Requirement: A formal Tree Removal Permit is required for the removal of any tree with a Diameter at Breast Height (DBH) of three (3) inches or greater.",
+        "Diameter at Breast Height (DBH) shall mean the tree-industry standard for tree measurement taken at 4.5 feet above the ground.",
+        "Landscaping requirements are only applicable where an activity requires a zoning permit and involves over 800 square feet of the lot.",
+        "Landscape Material shall mean live plant material, including but not be limited to, any combination of materials such as grass, ground covers, shrubs, flower beds, vines, hedges, and trees. It shall also include pervious artificial turf.",
+        "The minimum landscaping requirements in Sec. 17.752 shall apply whenever an activity over 800 square feet on a lot requires a zoning permit.",
+        "Landscaping required per lot size: 0-4,999 At least twenty (20) percent; 5,000 - 8,999 At least twenty (20) percent; 9,000 - 14,999 At least thirty (30) percent; 15,000 - 24,999 At least forty (40) percent; 25,000 or greater At least fifty (50) percent; each At least twenty (20) percent of total required landscaping [located in the Front Yard]",
+        "EFFECTIVE DATE This Ordinance shall take effect immediately upon passage. PASSED AND ADOPTED this ____ day of __________,2026."
+      ]
+    },
+    {
+      "label": "Surfside Beach Town Code, Chapter 17, Article VIII (shore protection)",
+      "url": "https://library.municode.com/sc/surfside_beach/codes/code_of_ordinances?nodeId=VOII_CH17ZO_ARTVIIISHPR",
+      "checked": "2026-09-12",
+      "supports": [
+        "Sec. 17-802. (a) On all lots lying contiguous to the Atlantic Ocean, the shore protection line shall be determined to be the line twenty (20) linear feet landward of the property line nearest the Atlantic Ocean (rear property line) or the line twenty (20) linear feet landward of the crest of the primary ocean front sand dune, as determined by SCDHEC-OCRM, whichever such line is further from the Atlantic Ocean.",
+        "Sec. 17-803. (3) Vegetation. ... The town may, at its discretion, allow property owners to landscape the area between the landward trough of the primary ocean front sand dune and the shore protection line with nonnative vegetation but not to include nonnative grass turf or covering. Nonnative vegetation shall not be allowed seaward of the landward through of the primary ocean front sand dune.",
+        "Sec. 17-807. It shall be unlawful for any person ... to damage, destroy, remove, or redistribute sand and sand dunes lying seaward of the shore protection line ... without first having obtained a permit from the code enforcement official.",
+        "Sec. 17-808. It shall be unlawful for any person ... to kill or destroy, remove, or alter the form of any trees, shrubbery, plants, grass, or any other natural form of vegetation growing, living, or situated seaward of the shore protection line ... without first having obtained a permit for such action from the code enforcement official."
+      ]
+    },
+    {
+      "label": "Surfside Beach Town Council agendas: August 24 and September 8, 2026",
+      "url": "https://www.surfsidebeach.org/AgendaCenter/ViewFile/Agenda/_08242026-1499",
+      "checked": "2026-09-12",
+      "supports": [
+        "TOWN COUNCIL MEETING AGENDA Monday, August 24, 2026 - 6:00. Business items 8A to 8F: Strategic Payment Services; SCDJJ memorandum; Resolutions 26-0224 to 26-0227. No item for Ordinance 26-1007.",
+        "TOWN COUNCIL MEETING AGENDA TUESDAY, SEPTEMBER 8, 2026 - 6:00 (https://www.surfsidebeach.org/AgendaCenter/ViewFile/Agenda/_09082026-1507). Business items 7A to 7F: Strategic Payment Services; courthouse bid; four memoranda of agreement. No item for Ordinance 26-1007. The September 15, 2026 workshop agenda covers economic development only."
+      ]
+    }
+  ]
+}

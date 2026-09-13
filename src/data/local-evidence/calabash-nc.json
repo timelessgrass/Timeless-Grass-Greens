@@ -1,0 +1,63 @@
+{
+  "intent": "A Calabash, NC homeowner planning artificial turf, a dog run or a backyard putting green wants to know whether the Town needs a permit or plan, how turf counts against the Town's 25% impervious line, what the Town's ditch and right-of-way rules mean for a front-yard edge, and which office reviews the work.",
+  "distinctValue": "Calabash has its own stormwater chapter (Chapter 53, adopted 10 August 2004) with a Town Storm Water Permit for land of one acre or less and an engineered-plan trigger above 25% impervious on a residential lot, a ban on solid plastic and vinyl landscaping that reaches existing homes, and a prior-approval rule for terrain or drainage changes outside subdivisions. Chapter 54 controls ditches, ditch rights-of-way and the roadside strip the Town mows to the property line. Brunswick County's table shows the Town, not the County, handles zoning, flood, building inspection, CAMA and stormwater. Neither Carolina Shores nor Shallotte carries these rules. Open question: the Town's website (townofcalabash.net) returned 403 on 2026-09-12, so the current status of Chapter 53 Section 8.2 could not be confirmed; the page tells readers to ask the Town. ncleg.gov also returned 403, so G.S. 143-214.7D(b)(6) is taken from WithersRavenel's verbatim quotation and from the site's existing nc-vs-sc-built-upon-area guide.",
+  "sources": [
+    {
+      "label": "Town of Calabash Code, Title V Chapter 53: Stormwater Management (recorded amendment, adopted August 10, 2004)",
+      "url": "https://cms5.revize.com/revize/calabash/document_center/Town%20Ordinances/OCR_Gen_Code_Oct_2013_5ch53.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "Cover: \"TOWN OF CALABASH AMENDMENT TO THE TOWN CODE OF ORDINANCES TITLE V: PUBLIC WORKS CHAPTER 53: STORMWATER MANAGEMENT ADOPTED AUGUST 10, 2004\"; Brunswick County Register of Deeds recording stamp dated 09/21/2004.",
+        "Section 3(2): \"'Built-upon Area' means that portion of an individual development project that is covered by impervious or partially impervious cover including buildings, pavement, compacted soil (including coquina and marl), recreation facilities, gravel roads and parking areas, etc. Wood slatted decks and the water area of a swimming pool and new types of pervious paving material are not considered to be built-upon areas.\"",
+        "Section 3(17): \"High Density Developments\" A development that has a built-upon area greater than 25% of the lot area.",
+        "Section 4: \"1. All property owners regardless of their previous practices, shall be subject to the regulations of this ordinance.\" \"3. All construction activities, whether for future development or improvements on existing development, shall be subject to the regulations of this ordinance.\"",
+        "Section 6(2): \"The subcategories that are most applicable to Calabash are: Coastal Wetlands, Estuarine Waters, Estuaries Shorelines, Public Trust Areas, Ocean Erodible Areas, High Hazard Flood Areas, Inlet Hazard Flood Areas, and Un-vegetated Beach Areas.\"",
+        "Section 7 (Mandatory Standards for Existing Development): \"Persons who fail to comply with the below listed standards shall be subject to a fine of $200 for each violation of this section, after notification by the town.\" Item 2: \"No landscaping using impervious materials such as solid plastic and vinyl will be permitted. Property owners must remove any such materials that were installed prior to the effective date of this ordinance.\"",
+        "SECTION 8.2 DEVELOPMENTS THAT DO NOT REQUIRE STATE CERTIFICATION: \"A Storm Water Permit is required for land that is one acre or less. Residential - Greater than 25% of impervious surface requires an engineered stormwater plan. Commercial - All projects require an engineered plan. Land that is over one acre is state regulated.\"",
+        "Section 8.2: \"In those instances where a Stormwater Permit is denied by the Building Inspector, the applicant may appeal the case to the Planning Board. The appellate authority higher than the Planning Board shall be the Town Council of Calabash.\"",
+        "Section 9(1): \"For construction activities that do not require state certification, all requirements of 8.2 are applicable.\" Section 9(3): \"Construction activities that are under one acre and infringe upon a State-defined Area of Environmental Concern will require a CAMA minor permit from the Town LPO.\" Section 9(4): \"No area outside of a subdivision shall have any change of the terrain, drainage (and the like) without prior approval from the town.\"",
+        "Section 12(1): \"Any person who is found in violation of the requirements listed under Section 7, Section 8.2, or Section 9 may appeal by submitting a written explanation of the appeal to the Storm Water Appeals Board within thirty (30) days of the date of the notification of the fee. The Appeals Board shall consist of the current members of the Town Planning Board.\""
+      ]
+    },
+    {
+      "label": "Town of Calabash Code, Title V Chapter 54: Roadways (Recodification Approval Date: 08 March 2011)",
+      "url": "https://cms5.revize.com/revize/calabash/document_center/Town%20Ordinances/OCR_Gen_Code_Oct_2013_5ch54.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "Page footer: \"Recodification Approval Date: 08 March 2011\".",
+        "§54.22 Drainage Obstruction: \"(A) It shall be unlawful for any person to damage, deface, or cause to malfunction any bridge, culvert, ditch, drain, or other property owned or used by the town, or to obstruct any culvert, ditch, or drain so as to prevent the free flow of water over, or under the streets of the town or cause any street to be inundated. (B) Penalty, $200.00 and each day counts as a separate infraction.\"",
+        "§54.25 Use of Right-of-Way: \"(A) Except as hereinafter provided no obstructions of any type may be planted; cause to be planted; placed or cause to be placed on any streets rights-of-way unless authorized by this chapter. (B) It shall be unlawful for any person to place or cause to be placed any obstruction in any drainage ditch so as impede the flow of water; to place or cause to be placed any obstruction across any drainage ditch without prior authorization of the town; or to place or cause to be placed any obstruction upon any drainage ditch right-of-way so as to impede the movement of maintenance equipment.\"",
+        "§54.25(C): \"Any owner or occupant of property who places or permits to remain any such obstructions on streets, right-of-way; within or across drainage ditches; or upon drainage ditch right-of-way does so at their own risk. Failure on the part of the owner or occupant of a property to remove such obstruction within a reasonable time following notifications by the town will result in such obstruction being removed by the town at the expense of the owner or occupant of the property.\" (D): \"Penalty, $100.00. Each day shall count as a separate infraction.\"",
+        "§54.42 Mowing of roadside easements: \"(B) Mowing will be done on a routine basis from the edge of the roadway pavement to the center of the shoulder ditch at the discretion of the Town Administrator or designee. Mowing of the area from the center of the shoulder ditch to the property line of the landowner will be done no more than two times per year\"; \"(D) Town roads and or roadside easements are described as those areas that are the property of the Town. No mowing of private property is a part of this policy.\""
+      ]
+    },
+    {
+      "label": "Town of Calabash, Article 11: Table of Area, Yard, and Height Requirements (Amended: 4/10/2012; 7/10/2012; 1/12/2022)",
+      "url": "https://cms5.revize.com/revize/calabash/document_center/Town%20Ordinances/Article%2011%20Table%20of%20Area,%20Yard,%20Height%2020220112.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "Page footer: \"Article 11. Table of Area, Yard & Height Amended: 4/10/2012; 7/10/2012; 1/12/2022\".",
+        "Note 1: \"Location of Accessory Building. Accessory buildings may occupy 10% of the gross lot area, and must be built a minimum of 5 (five) feet from any lot line.\"",
+        "Note 8: \"Retaining Walls. The setback and yard requirements of this Ordinance shall not apply to a retaining wall not more than three feet high, as measured from the lowest ground elevation to the top of the wall. A retaining wall greater than three feet in height will require a building permit.\""
+      ]
+    },
+    {
+      "label": "Brunswick County: Municipal Jurisdictions",
+      "url": "https://www.brunswickcountync.gov/192/Municipal-Jurisdictions",
+      "checked": "2026-09-12",
+      "supports": [
+        "Table columns: Municipality | Flood Jurisdiction | Building Inspection | C.A.M.A. | Addressing | Zoning | Privilege License | Office Hours | Fire Inspection | Stormwater.",
+        "Row: Calabash | Town | Town | Town | Town | Town | (blank) | 8:30 AM to 4:30 PM Monday through Friday | Town | Town.",
+        "Row: Shallotte | County | County | Wilmington | Town | Town | (blank) | 8 AM to 5 PM Monday through Friday | County | Town."
+      ]
+    },
+    {
+      "label": "WithersRavenel: Comparative Analysis of Synthetic Turf and Natural Grass",
+      "url": "https://withersravenel.com/news/comparative-analysis-of-synthetic-turf-and-natural-grass/",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"North Carolina General Statutes §143-214.7D(b)(6) stated that the following is not considered built-upon area or impervious surface for state or local stormwater programs: Artificial turf, manufactured to allow water to drain through the backing of the turf, is installed according to the manufacturer's specifications over a pervious surface.\" The statute page itself (ncleg.gov, G.S. 143-214.7D) returned HTTP 403 on 2026-09-12; the same text is quoted from it in src/data/guides.ts (nc-vs-sc-built-upon-area)."
+      ]
+    }
+  ]
+}

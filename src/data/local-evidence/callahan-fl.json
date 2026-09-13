@@ -1,0 +1,130 @@
+{
+  "intent": "Callahan is an incorporated town with its own code, permit desk and water and sewer system, set inside unincorporated Nassau County. What do its own rules ask of a homeowner or business before a turf base goes in, and which office answers the questions the code leaves open?",
+  "distinctValue": "REPAIR (2026-09-13), against both lenses' findings in plans/buildout/build-250/weak-repairs.json: The lead is the Town of Callahan's tree chapter, Ch. 166 (Ord. No. 2008-04, adopted 4-7-2008), reopened and read section-by-section on 2026-09-13 (all 8 sections, §§ 166-1 through 166-8, from the town's own PDF). It counts root damage from heavy machinery and changing the natural grade over the roots or around the trunk as removal only when that causes the tree to die or become likely to die (or a 25% canopy decline on its own), and covers any single-trunk plant at least two feet tall and two inches in diameter at two feet up. No site work may begin until the Building Official issues a tree removal permit backed by a tree survey; free if obtained first, $500 per tree after the fact with 30 days to apply and a $250-a-day fine after that. Reading the full chapter confirms it contains no exemption section for any property type or tree species, unlike Hilliard's Sec. 62-571 (see below), which is now the page's real point of distinction from hilliard-fl.json rather than restating Hilliard's own root-damage-as-removal framing, which the 'distinct' lens correctly flagged as already covered on that page. hilliard-fl is now in this page's nearby list so the contrast is checkable. SCOPE: Sec. 166-2 covers only work that needs a town permit/authorization AND might require tree removal; the presumption applies only to the second prong. The page states this as the town's call, not a settled fact, in both the answer box and block 2. STATE LAW LAYERED ON TOP (new, added to answer the 'source' lens's flagged omission): Florida Rule 62-308.100, F.A.C. (effective 5-19-26, opened 2026-09-13 at flrules.org), sets minimum synthetic-turf standards for single-family lots of 1 acre or less and bars turf inside a tree's drip line unless a certified arborist certifies it won't harm the tree; Fla. Stat. 125.572(3)(a) (opened 2026-09-13) bars Callahan from banning or regulating inconsistently with that standard on such a lot; Fla. Stat. 163.045 (opened 2026-09-13) bars a local government from requiring a permit or fee to remove a tree on a single-family lot once an ISA-certified arborist documents it as an unacceptable risk, which cuts against Ch. 166's own after-the-fact fee and 30-day window in that specific case. This is the page's genuine, buyer-actionable local angle: what state law lets a Callahan homeowner do that the town's own no-exemption chapter alone would not suggest. SECONDARY LOCAL FACTS RETAINED, trimmed to what changes a turf job (the 'distinct' lens found ~375 of 877 words were loosely related code): Ch. 190 §§ 190-49/-50 bar stormwater, roof runoff and subsurface drainage from the town's wastewater system, sending it to storm sewers or a natural outlet the Public Works Director approves (no ditch is a permitted outlet, correcting the prior page's 'wins' bullet); § 190-1 bars water pipes less than 30 inches below a town ditch bottom or within four feet of its outside bluff. Ch. 110 applies to filling and grading in a mapped flood hazard area, with the Town Zoning Administrator as floodplain administrator. DROPPED as not turf-relevant per the 'distinct' lens: mandatory water/sewer hookup (§§ 190-4/-5), the 500-foot septic setback (§ 190-26), and the Ch. 195 site-plan section, since Sec. 195-44 names no businesses, churches or schools and whether a turf job on existing grounds counts as 'construction' was the writer's own reading, not the code's. Neighbouring pages (Nassau Village-Ratliff, Nassauville, Baldwin) carry Nassau County Sec. 37.05, septic setbacks and Baldwin's own code; none carries a town tree ordinance or the state turf-and-arborist rule. The town also sells water/sewer service outside its limits (out-of-town connection charge; separate applications on the Water/Wastewater/Sanitation page), so town water does not prove an address is in town limits. CHECKED AND NOT USED: (1) The permits page displays admin2@townofcallahan-fl.gov but its mailto link points to admin@townofcallahan-fl.gov, so no email address is printed on the page; it links the permits page instead. (2) sjrwmd.com watering-restriction pages returned HTTP 403 to direct requests and could not be re-opened, so no watering-order dates or days are on this page. (3) Ch. 195 defines lot coverage but no residential lot-coverage percentage was found, so none is stated. (4) Ch. 102 fees set no tree permit fee beyond Ch. 166's own terms and were not needed. (5) The legacy research's demographic, school, ball park and population material is not used.",
+  "sources": [
+    {
+      "label": "Town of Callahan Code, Ch. 166: Trees (Ord. No. 2008-04)",
+      "url": "https://www.townofcallahan-fl.gov/wp-content/uploads/CA1432-166.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"[HISTORY: Adopted by the Town Council of the Town of Callahan 4-7-2008 by Ord. No. 2008-04.\"",
+        "§ 166-2: \"'Development' as used in this chapter includes any activities on land or use of land that requires the issuance of a permit or authorization from the Town and might require the removal of trees from the land. Any use that results in the actual removal of a tree or trees is presumed to be a use that might require the removal of trees from the land.\"",
+        "§ 166-3: \"Removal of a tree includes any act in addition to cutting down that causes a tree to die or become likely to die, such as damage inflicted to the root system by heavy machinery, changing the natural grade above the root system or around the trunk... A tree shall be deemed removed or likely to die when it suffers a decline in the tree canopy of 25% or more.\"",
+        "§ 166-4: \"Trees as used in this chapter includes all plants that grow from the ground from predominantly a single point or trunk with the single point or trunk extending from the ground to a height of least two feet with a diameter at two feet above the ground of at least two inches.\"",
+        "§ 166-5: \"No development activity or site work shall begin and no trees may be removed until the Town's Building Official issues a permit for the removal of trees.\"",
+        "§ 166-6 A(1): \"The application for a permit was accompanied by a tree survey that accurately depicts the location, approximate height, approximate diameter, and type of all trees located on the parcel(s) proposed for development and the trees proposed for removal\"; A(2)-(5): cannot be reasonably economically developed without removal; disease, insect attack, age or other damage creating a danger of falling; substantial likelihood of structural damage to a building, utility service, or unsafe vision clearance; not providing habitat to designated endangered or protected species.",
+        "§ 166-6 B: \"There is no fee for a permit to remove trees, as long as the permit is obtained before the removal.\"",
+        "§ 166-7: \"Any person who removes a tree without first obtaining a permit shall apply for and obtain an after-the-fact permit for each tree removed within 30 days of the removal or notice of an illegal removal of trees from the Town. The fee for the after-the-fact permit is $500 per removed tree. Failure to apply for a permit within 30 days after removal or service of notice shall subject the violator of a fine of $250 per day. The individual listed as owner of the property as shown by the official records of the Property Appraiser for Nassau County, Florida will be the individual receiving the notice of illegal tree removal.\"",
+        "§ 166-8: \"Any individual denied a tree removal permit by the Building Official or otherwise aggrieved by a decision of the Building Official regarding the removal of trees may file a written appeal to the Town Council.\""
+      ]
+    },
+    {
+      "label": "Town of Callahan Code, Ch. 190: Water and Sewers (Ord. No. 2019-O04)",
+      "url": "https://www.townofcallahan-fl.gov/wp-content/uploads/CA1432-190-1.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"[HISTORY: Adopted by the Town Council of the Town of Callahan 6-17-2019 by Ord. No. 2019-O04.\"",
+        "§ 190-1: \"It shall be unlawful for any person, party, firm or corporation to install, lay or maintain any pipe or pipes for the purpose of conveying water, for any and all purposes, at a depth of less than 30 inches from the bottom of a Town ditch or within a distance of four feet from the outside bluff of said Town ditch.\"",
+        "§ 190-3 A: \"$1,300 for each water connection and $1,300 for each wastewater connection within the Town's limits. The fee outside of the Town limits is $1,625 to account for additional infrastructure costs associated with providing services beyond the Town's boundaries, plus a surcharge of $325, for a total connection charge of $1,950.\"",
+        "§ 190-4: \"Where the same shall be available, the owner of every lot or parcel of land within the municipal limits of the Town of Callahan, Florida, shall connect or cause the plumbing of any building or buildings thereon to be connected with the municipal waterworks system of the Town of Callahan\"",
+        "§ 190-5: \"shall connect or cause such building or buildings or trailer or trailers to be connected with the public wastewater system of the Town of Callahan, Florida, and use such facilities within three months following notification to so do by the Clerk of the Town of Callahan\"",
+        "§ 190-26: \"No septic tank or other subsurface disposal facility shall be installed where a wastewater collection system runs within 500 feet of any part of the property involved.\"",
+        "§ 190-49: \"No person shall discharge or cause to be discharged any stormwater, surface water, groundwater, roof runoff, subsurface drainage, uncontaminated cooling water or unpolluted industrial process waters to any wastewater collection system.\"",
+        "§ 190-50: \"Stormwater and all other unpolluted drainage shall be discharged to such systems as are specifically designated as storm sewers or to a natural outlet approved by the Public Works Director.\""
+      ]
+    },
+    {
+      "label": "Town of Callahan Code, Ch. 110: Flood Damage Prevention (Ord. No. 2016-O03)",
+      "url": "https://www.townofcallahan-fl.gov/wp-content/uploads/Chapter_110_-_Flood_Damage_Prevention.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"[HISTORY: Adopted by the Town Council of the Town of Callahan 9-6-2016 by Ord. No. 2016-O03.\"",
+        "§ 110-2: \"The provisions of this chapter shall apply to all development that is wholly within or partially within any flood hazard area, including but not limited to the subdivision of land; filling, grading, and other site improvements and utility installations\"",
+        "Definitions: \"DEVELOPMENT — Any man-made change to improved or unimproved real estate, including, but not limited to, buildings or other structures, tanks, temporary structures, temporary or permanent storage of equipment or materials, mining, dredging, filling, grading, paving, excavations, drilling operations or any other land disturbing activities.\"",
+        "§ 110-17: \"The Town Zoning Administrator is designated as the floodplain administrator.\"",
+        "§ 110-19 D: the floodplain administrator shall \"Provide available flood elevation and flood hazard information\"",
+        "§ 110-26: \"Any owner or owner's authorized agent (hereinafter 'applicant') who intends to undertake any development activity within the scope of this chapter... which is wholly within or partially within any flood hazard area shall first make application to the floodplain administrator, and the Building Official if applicable, and shall obtain the required permit(s) and approval(s).\""
+      ]
+    },
+    {
+      "label": "Town of Callahan Code, Ch. 195: Zoning",
+      "url": "https://www.townofcallahan-fl.gov/wp-content/uploads/CA1432-195-1.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "§ 195-3 definitions: \"LANDSCAPING — Any of the following or combination thereof: living materials, such as but not limited to grass, ground covers, shrubs, vines, hedges, trees or palms; and nonliving durable materials commonly used in landscaping, such as but not limited to, rocks, pebbles, sand, walls, fences, berms, sculptures and fountains, but excluding paving.\"",
+        "§ 195-27 A: \"It shall be deemed unlawful to begin the construction of any building, including accessory buildings, prior to the issuance of a building permit.\"",
+        "§ 195-32: \"The Town of Callahan, Florida, has adopted a separate Floodplain Ordinance. Nothing in this chapter shall be construed to relieve any person of the requirements of that ordinance.\"",
+        "§ 195-44: \"A site plan must be submitted to the Zoning Administrator of the Town for later review by the Planning Commission and the Town Council prior to beginning construction other than single-family residential homes and duplexes that do not involve the subdivision or replatting of land.\""
+      ]
+    },
+    {
+      "label": "Town of Callahan: Building & Zoning Permits",
+      "url": "https://www.townofcallahan-fl.gov/zoning-permits/",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"These forms and any questions can be submitted to our Building and Zoning Administrator : admin2@townofcallahan-fl.gov\" (the link's mailto target is admin@townofcallahan-fl.gov)",
+        "\"**Please note that some permits can take up to 48 Hours**\"",
+        "Forms listed: \"Building Permit Site Form, Building Permit Application, Demolition Permit Application, Electrical Permit Application, Inspections Required, Mechanical Permit Application, Notice of Commencement, Plumbing Permit Application, Re-Roof Permit Application, Residential Owners Disclosure Statement, Sign Permit Application\" and zoning applications; no landscaping, tree or turf permit form is listed.",
+        "\"For a review of what is allowed in our Town Limits please review Chapter 195\""
+      ]
+    },
+    {
+      "label": "Town of Callahan: Town Code Book",
+      "url": "https://www.townofcallahan-fl.gov/code/",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"The Current Code on this site may not be the most current Legislation. The Town of Callahan reserves the right to use the most current Legislation that can be found on file in the Clerk's Office.\"",
+        "Chapter list includes \"Chapter 110 – Flood Damage Prevention\", \"Chapter 166 – Trees\", \"Chapter 190 – Water and Sewers\" and \"Chapter 195 – Zoning\"."
+      ]
+    },
+    {
+      "label": "Town of Callahan: Water/Wastewater/Sanitation",
+      "url": "https://www.townofcallahan-fl.gov/water-wastewater-sanitation/",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"Residential Water & Sewer Service Application – Out of Town\"; \"Residential Water & Sewer Service Application – In Town Without Trash\"; \"Residential Water & Sewer Service Application – In Town With Trash\"; \"Commercial Water & Sewer Service Application – Out of Town\""
+      ]
+    },
+    {
+      "label": "Florida Rule 62-308.100, F.A.C.: Synthetic Turf",
+      "url": "https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc",
+      "checked": "2026-09-13",
+      "supports": [
+        "Pursuant to s. 125.572, F.S., this rule establishes minimum standards for the installation of synthetic turf on single-family residential properties of 1 acre or less in size.",
+        "Synthetic turf shall not be installed inside tree drip lines, whether on the property or adjacent properties, unless the tree is a noxious weed as defined by Chapter 581, F.S., or unless a certified arborist, using site specific information and best professional judgment, certifies that installation within that drip line would not be harmful to the tree.",
+        "History—New 5-19-26."
+      ]
+    },
+    {
+      "label": "Fla. Stat. 125.572: regulation of synthetic turf",
+      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0100-0199%2F0125%2FSections%2F0125.572.html",
+      "checked": "2026-09-13",
+      "supports": [
+        "(3)(a) Upon the Department of Environmental Protection adopting rules pursuant to subsection (4), a local government may not: 1. Adopt or enforce any ordinance, resolution, order, rule, or policy that prohibits, or is enforced to prohibit, a property owner from installing synthetic turf that complies with Department of Environmental Protection standards adopted pursuant to this section which apply to single-family residential property. 2. Adopt or enforce any ordinance, resolution, order, rule, or policy that regulates synthetic turf which is inconsistent with the Department of Environmental Protection standards adopted pursuant to this section which apply to single-family residential property.",
+        "(b) This subsection does not apply to the adoption or enforcement of any resolution, order, rule, or policy by a community development district to enforce deed restrictions."
+      ]
+    },
+    {
+      "label": "Fla. Stat. 163.045: exemption from permitting for pruning, trimming, or removal of trees on residential property",
+      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0100-0199%2F0163%2FSections%2F0163.045.html",
+      "checked": "2026-09-13",
+      "supports": [
+        "A local government may not require a notice, application, approval, permit, fee, or mitigation for the pruning, trimming, or removal of a tree on residential property if the property owner obtains documentation from an arborist certified by the International Society of Arboriculture or a Florida licensed landscape architect that the tree poses an unacceptable risk to persons or property.",
+        "\"Residential property\" means a single-family, detached building located on a lot that is actively used for single-family residential purposes.",
+        "A local government may not require a property owner to replant a tree that was pruned, trimmed, or removed in accordance with this section.",
+        "This section does not apply to a local government's exercise of mangrove protection authority."
+      ]
+    },
+    {
+      "label": "Town of Hilliard Code of Ordinances, Chapter 62, Article XII: Trees (Secs. 62-570 to 62-575)",
+      "url": "https://library.municode.com/fl/hilliard/codes/code_of_ordinances?nodeId=PTIIILADERE_CH62ZOLADERE_ARTXIITR",
+      "checked": "2026-09-12",
+      "note": "Reused from src/data/local-evidence/hilliard-fl.json, same Municode job 477242 (Supp. No. 10), to source the Callahan/Hilliard contrast on this page. That file also notes it's unsettled whether Sec. 62-571's exemption (written for landscape requirements) reaches the Sec. 62-570 removal permit on a house lot; this page states only that the exemption list exists in Hilliard's code, not that it clearly covers Hilliard's permit.",
+      "supports": [
+        "Sec. 62-570. (a) Removal of a tree includes any act which will cause a tree to die, such as damage inflicted upon the root system by heavy machinery, changing the natural grade above the root system or round the trunk, damage, including fire damage, inflicted on the tree permitting infection or pest infestation.",
+        "Sec. 62-571. The following are exempt from the landscape requirements of the Code. ... (2) One- and two-family dwelling units.",
+        "Sec. 62-571. (4) Exempt trees. The following types of trees shall be exempt from the provisions of this section and removal allowed without a permit: ... All pines Pinus"
+      ]
+    }
+  ]
+}

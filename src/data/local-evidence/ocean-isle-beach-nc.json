@@ -1,0 +1,37 @@
+{
+  "intent": "Ocean Isle Beach runs its own zoning, flood, building inspection, CAMA and stormwater review, unlike neighboring Shallotte, where flood, building inspection and CAMA are split off to the County and Wilmington. A canal-front or marsh-front yard here also falls inside a state coastal buffer that keeps new development, and artificial turf specifically, back from the water. The page tells a homeowner which office to call and where the state buffer line sits, without stating any Town-specific impervious or lot-coverage number that was not opened and read directly (oibgov.com and Municode returned 403 to automated requests).",
+  "distinctValue": "Neither the Sunset Beach nor Calabash NC pages carry a jurisdiction comparison or note that Ocean Isle Beach keeps every one of the five reviewed functions in-house. The estuarine-shoreline buffer numbers (75 feet, 575 feet near Outstanding Resource Waters, 30-foot setback, 30 percent impervious cap) are the same state rule used on the Sunset Beach page, re-opened and re-quoted here for a different, canal-heavy town where they carry more weight.",
+  "sources": [
+    {
+      "label": "Brunswick County: Municipal Jurisdictions",
+      "url": "https://www.brunswickcountync.gov/192/Municipal-Jurisdictions",
+      "checked": "2026-09-12",
+      "supports": [
+        "Ocean Isle: Zoning Town, Flood Jurisdiction Town, Building Inspection Town, C.A.M.A. Town, Stormwater Town",
+        "Shallotte: Zoning Town, Flood Jurisdiction County, Building Inspection County, C.A.M.A. Wilmington, Stormwater Town"
+      ]
+    },
+    {
+      "label": "15A NCAC 07H .0209, Coastal Shorelines (amended effective November 1, 2025)",
+      "url": "http://reports.oah.state.nc.us/ncac/title%2015a%20-%20environmental%20quality/chapter%2007%20-%20coastal%20management/subchapter%20h/15a%20ncac%2007h%20.0209.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "Estuarine shorelines AEC ... for a distance of 75 feet landward",
+        "For those estuarine shorelines immediately contiguous to waters classified as Outstanding Resource Waters (ORW) ... the estuarine shoreline AEC shall extend to 575 feet landward",
+        "Impervious surfaces shall not exceed 30 percent of the AEC area of the lot",
+        "new development shall be located a distance of 30 feet landward of the normal water level or normal high water level",
+        "Grading, excavation and landscaping with no wetland fill except when required by a permitted shoreline stabilization project",
+        "Amended Eff. November 1, 2025"
+      ]
+    },
+    {
+      "label": "NC DEQ: State coastal commission to meet in New Bern, August 2025",
+      "url": "https://www.deq.nc.gov/news/press-releases/2025/08/14/state-coastal-commission-meet-new-bern-aug-27-28",
+      "checked": "2026-09-12",
+      "supports": [
+        "Consideration of variance requests regarding petitioner Krichman, Carolina Beach, Artificial Turf within Buffer",
+        "The agenda does not name a county for the Carolina Beach property; Carolina Beach itself is in New Hanover County, not Brunswick County"
+      ]
+    }
+  ]
+}

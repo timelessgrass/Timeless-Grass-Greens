@@ -3,56 +3,46 @@
   "market": "denver-metro",
   "service": "indoor-turf",
   "title": "Indoor Turf in the Denver Metro | TIMELESS Grass & Greens",
-  "description": "Indoor turf for Denver-area gyms and studios, planned around the code at your address: floor-finish tests, permits and who to ask. Free visit and written price.",
+  "description": "Indoor turf for Denver-area gyms and studios. Code editions change by city and fire district, so start with yours. Free visit and a custom layout you approve.",
   "h1": "Indoor turf for your gym, planned around the code at your address.",
-  "lede": "Get sled lanes, sprint tracks and training floors planned around your building’s code from the first drawing. Across the Denver metro, the code edition and the office that enforces it change from one address to the next, so we plan the turf, pad and layout around the answers for yours.",
+  "lede": "Get sled lanes, sprint tracks and training floors planned around the rules at your address. Across the Denver metro, building and fire code editions change from one city or fire district to the next, and one town can run two editions at once. Book a free visit and we measure the space, then draw a custom layout for you to approve before any work starts.",
   "wins": [
-    "The code edition and fire office for your address, found first",
-    "Turf and pad with test reports that match where they go",
-    "Lanes and markings laid out around exits and corridors"
+    "Know your code editions before you pick a turf",
+    "Turf and pad matched to the fire-test reports your office wants",
+    "A custom layout you approve before work starts"
   ],
   "answer": {
-    "question": "Does indoor turf in a Denver-area gym have to meet a fire code?",
-    "answer": "Expect it to. Denver’s floor-finish section exempts wood, vinyl and similar traditional floors, and resilient coverings not made of fibers. It does not name turf, so the building department decides how yours is treated. If the rules apply, the turf must pass the pill test or ASTM D2859, and corridors need more unless the building is sprinklered throughout. Outside Denver, the edition depends on who enforces the code at the address. Call 303-349-2368 for a free estimate."
+    "question": "Which code covers indoor turf in a Denver-area gym?",
+    "answer": "It depends on the address. Across the metro, cities, counties and fire districts enforce different editions of the building and fire codes, 2021 at some addresses and 2024 at others. Before you order turf, find out which editions apply at yours, who reviews the plans, and which fire-test reports the office wants for the turf and pad. Call 303-349-2368 for a free estimate."
   },
   "blocks": [
     {
       "icon": "pin",
-      "kicker": "Who enforces the code",
-      "h2": "The code edition can change at the city line.",
+      "kicker": "City by city",
+      "h2": "Your city’s code edition may not be Denver’s.",
       "paras": [
-        "<a href=\"/denver-metro/denver-co/\">Denver</a> works from the 2024 International Building Code and Fire Code with its own amendments, published as the <a href=\"https://www.denvergov.org/files/assets/public/v/3/community-planning-and-development/documents/ds/building-codes/2025_denver_building_code.pdf\" target=\"_blank\" rel=\"nofollow noopener\">2025 Denver Building Code</a> and the <a href=\"https://denver.legistar1.com/denver/attachments/83f4bb5c-cf4f-49fb-a335-bf6486064e81.pdf\" target=\"_blank\" rel=\"nofollow noopener\">2025 Denver Fire Code</a>. The city amended both again in <a href=\"https://denver.legistar1.com/denver/attachments/0f7d44eb-1fef-4335-8d9e-d9336ee707d9.pdf\" target=\"_blank\" rel=\"nofollow noopener\">November 2025</a>, so work from a copy that includes those changes. As of 12 September 2026, <a href=\"/denver-metro/aurora-co/\">Aurora</a>’s building division lists the <a href=\"https://www.auroragov.org/business_services/building_division/adopted_building_codes\" target=\"_blank\" rel=\"nofollow noopener\">2021 editions</a> of both codes.",
-        "In some suburbs a fire protection district reviews the plans, and one district can work from several editions. West Metro Fire Rescue handles plan review, permits and inspections for new construction and changes to existing buildings. Its <a href=\"https://www.westmetrofire.org/adopted-fire-codes-for-west-metro-fire-rescue\" target=\"_blank\" rel=\"nofollow noopener\">code table</a>, checked on 12 September 2026, lists the 2021 International Fire Code for <a href=\"/denver-metro/lakewood-co/\">Lakewood</a>, the 2024 edition for unincorporated Jefferson County and the 2018 edition for unincorporated Douglas County. It also warns that some unincorporated Jefferson County properties have a city or town mailing address, and points to the county assessor’s records to tell them apart.",
-        "For any other address, the building department can tell you which edition it enforces and which fire department or district reviews the plans. Those two answers set the tests your turf and pad need."
+        "<a href=\"/denver-metro/denver-co/\">Denver</a> builds on the 2024 International Building Code and Fire Code with its own amendments, published as the <a href=\"https://www.denvergov.org/files/assets/public/v/3/community-planning-and-development/documents/ds/building-codes/2025_denver_building_code.pdf\" target=\"_blank\" rel=\"nofollow noopener\">2025 Denver Building Code</a> and the <a href=\"https://denver.legistar1.com/denver/attachments/83f4bb5c-cf4f-49fb-a335-bf6486064e81.pdf\" target=\"_blank\" rel=\"nofollow noopener\">2025 Denver Fire Code</a> and amended again in <a href=\"https://denver.legistar1.com/denver/attachments/0f7d44eb-1fef-4335-8d9e-d9336ee707d9.pdf\" target=\"_blank\" rel=\"nofollow noopener\">November 2025</a>.",
+        "Your suburb may be on another edition. As of September 2026, <a href=\"/denver-metro/westminster-co/\">Westminster</a>’s <a href=\"https://www.westminsterco.gov/621/Building-Division\" target=\"_blank\" rel=\"nofollow noopener\">building division</a> lists the 2021 building and fire codes, in effect since June 1, 2024. Broomfield adopted the <a href=\"https://www.broomfield.org/176/Building-Code-Information\" target=\"_blank\" rel=\"nofollow noopener\">2024 codes</a>, fire code included, effective April 15, 2026. <a href=\"/denver-metro/thornton-co/\">Thornton</a> applies the <a href=\"https://www.thorntonco.gov/business-development/city-development/building-permits-inspections\" target=\"_blank\" rel=\"nofollow noopener\">2024 building codes</a> to permit applications from July 1, 2026. <a href=\"/denver-metro/castle-rock-co/\">Castle Rock</a> lists the <a href=\"https://www.crgov.com/2178/Adopted-Building-Codes\" target=\"_blank\" rel=\"nofollow noopener\">2024 building and fire codes</a> for new permit submittals.",
+        "In <a href=\"/denver-metro/erie-co/\">Erie</a>, the two books are different editions. The town’s <a href=\"https://www.erieco.gov/1772/Building-Codes-Design-Criteria\" target=\"_blank\" rel=\"nofollow noopener\">code page</a> lists the 2021 building code and the 2024 fire code, adopted as the fire district adopted it, for permit applications from April 24, 2026. So get both editions for your address, not just the building code’s."
       ]
     },
     {
       "icon": "building",
-      "kicker": "Denver permits",
-      "h2": "In Denver, a new use needs a new certificate.",
+      "kicker": "Fire districts",
+      "h2": "In some suburbs, a fire district reviews your plans.",
       "paras": [
-        "Denver’s exempt-work list, Section 130.3 of the building code, includes floor coverings and carpeting, and says such items shall comply with Chapter 8, the interior finishes chapter. The same section says an exemption does not authorize work that breaks the code.",
-        "A change of use is a separate question. Under Section 142.2, no building or part of one may be used for an occupancy other than the one on its Certificate of Occupancy until the building official issues a new one. Section 133.1 counts a change of use or occupancy as work that affects life safety, which keeps it off the list of interior alterations that can be drawn without an architect or engineer. Turning a warehouse or shop unit into a training floor? Ask Denver’s building department about the new certificate before you sign the lease.",
-        "The building official decides the classification. Denver’s <a href=\"https://up.codes/viewer/denver/ibc-2024/chapter/3/occupancy-classification-and-use\" target=\"_blank\" rel=\"nofollow noopener\">Chapter 3</a> lists gymnasiums without spectator seating in Group A-3, and training and skill development outside a school, such as martial arts and gymnastics, in Group B where it is not classified as assembly."
-      ]
-    },
-    {
-      "icon": "shield",
-      "kicker": "Floor-finish tests",
-      "h2": "Get fire-test reports for the turf and pad together.",
-      "paras": [
-        "Denver’s amendments leave Section 804, the floor-finish section, as the International Code Council published it (<a href=\"https://up.codes/viewer/denver/ibc-2024/chapter/8/interior-finishes\" target=\"_blank\" rel=\"nofollow noopener\">third-party copy</a>). Its exception covers traditional floors such as wood, vinyl, linoleum and terrazzo, and resilient coverings not made of fibers. It does not mention turf, so ask the building department whether yours will be reviewed as a floor covering.",
-        "If it is, it must pass the DOC FF-1 pill test or ASTM D2859 in every occupancy. Carpet-type coverings are tested as proposed for use, including underlayment, and the reports go to the building official on request. Stairway and ramp enclosures, exit passageways, corridors and rooms not walled off from a corridor to the ceiling need at least a Class II radiant-flux rating in Groups A and B. In a building sprinklered throughout under Section 903.3.1.1 or 903.3.1.2, pill-test materials are allowed there instead.",
-        "Tell us whether the turf reaches any of those areas and whether the building is fully sprinklered, so the product you choose comes with the right report."
+        "West Metro Fire Rescue does plan review, permits and inspections for new construction and changes to existing buildings. Its <a href=\"https://www.westmetrofire.org/adopted-fire-codes-for-west-metro-fire-rescue\" target=\"_blank\" rel=\"nofollow noopener\">code table</a> lists the 2021 fire code for <a href=\"/denver-metro/lakewood-co/\">Lakewood</a> and 2024 for unincorporated Jefferson County. Check the county assessor’s record before you trust a mailing address: some unincorporated Jefferson County properties carry a city or town address.",
+        "South Metro Fire Rescue also runs two editions. Its board <a href=\"https://www.southmetro.org/files/eec292b64/Board+of+Directors+Meeting+Minutes+05.04.26.pdf\" target=\"_blank\" rel=\"nofollow noopener\">adopted the 2024 fire code</a> for unincorporated Jefferson County in its district on May 4, 2026, and its <a href=\"https://www.southmetro.org/files/0c1531be3/05.04.26+SMFR+Regular+Board+Meeting+Packet.pdf\" target=\"_blank\" rel=\"nofollow noopener\">2021 code</a> stays in effect for unincorporated Arapahoe County.",
+        "In Douglas County, the lists disagree. The county’s <a href=\"https://www.douglasco.gov/building-division/adopted-building-codes/\" target=\"_blank\" rel=\"nofollow noopener\">Building Division</a> lists 2024 building codes effective July 1, 2026 and the 2024 fire code adopted July 14, 2026. West Metro, which covers only part of the county, still shows the 2018 fire code for unincorporated Douglas County. If your space is outside a town in Douglas County, ask the county and your fire district which edition will review your plans."
       ]
     },
     {
       "icon": "file",
-      "kicker": "Adhesive",
-      "h2": "Gluing the turf down? Settle the fire-code permit first.",
+      "kicker": "Denver change of use",
+      "h2": "Moving your gym into a Denver shop or warehouse? Ask about an architect.",
       "paras": [
-        "The 2025 Denver Fire Code, in its <a href=\"https://denver.legistar1.com/denver/attachments/83f4bb5c-cf4f-49fb-a335-bf6486064e81.pdf\" target=\"_blank\" rel=\"nofollow noopener\">December 2025 version</a>, requires an operational permit for floor finishing or surfacing operations over 350 square feet using Class I or Class II liquids. It does not say whether gluing turf counts. The code makes the Denver Fire Department Prevention Division the agency that enforces it, and the official in charge of the Division is the fire code official.",
-        "If the layout calls for adhesive, get the product’s liquid class from its supplier, then put the permit question to the Division before the install date is set."
+        "In Denver, many interior alterations can be drawn without an architect or engineer, but not ones that affect life safety. The <a href=\"https://www.denvergov.org/files/assets/public/v/3/community-planning-and-development/documents/ds/building-codes/2025_denver_building_code.pdf\" target=\"_blank\" rel=\"nofollow noopener\">building code</a> counts a change of use or occupancy among those, along with changes to the exits and an increase in the number of occupants. You also can’t use a building, or part of one, for an occupancy other than the one on its certificate of occupancy until the building official issues a new certificate.",
+        "The turf is the simpler part. Floor coverings and carpeting are on Denver’s list of work exempt from building permits, though they still have to meet the code’s interior finish chapter. If the space last held a different use, ask Denver’s building department about a new certificate and an architect’s drawings before you sign the lease."
       ]
     },
     {
@@ -60,33 +50,35 @@
       "kicker": "Your free visit",
       "h2": "Bring your code answers to the free visit.",
       "paras": [
-        "On the free visit we measure the training space, check the existing floor and talk through lanes, markings and transitions. You get a custom layout and a written price to approve before work starts.",
-        "Bring the address, a floor plan showing corridors and exits, whether the building is sprinklered, and any landlord or school approval steps. The <a href=\"/services/indoor-turf/\">indoor turf service</a> covers turf, pad and marking choices. For outdoor turf, see the <a href=\"/denver-metro/\">Denver metro page</a> and our <a href=\"/guides/colorado-turf-law/\">Colorado turf guide</a>."
+        "Whatever your edition, get three answers from the office: how it classes a turf floor, which fire-test reports it needs for the turf and pad as one system, and whether corridors, exits or sprinklers raise the rating. If the turf will be glued down, ask whether that needs a fire permit too. Our article on <a href=\"/blog/indoor-turf-for-a-gym/\">indoor turf for a gym</a> explains the tests.",
+        "On the visit we measure the training space, check the existing floor and talk through lanes, markings and transitions. Have the floor plan ready, with exits and corridors marked, and know whether sprinklers cover the whole building. Our <a href=\"/services/indoor-turf/\">indoor facility turf</a> page covers turf, pad and marking choices. For Colorado’s rule on new turf, read <a href=\"/blog/does-artificial-turf-contain-pfas/\">does artificial turf contain PFAS?</a>"
       ]
     }
   ],
   "faq": [
     {
-      "q": "My gym is in Aurora. What changes?",
-      "a": "Your questions go to Aurora, not Denver. Aurora works from older code editions, and Denver’s amendments, including its permit exemption for floor coverings and its floor-finishing permit, apply in Denver only. Ask Aurora’s building division whether a turf floor needs a permit and which fire-test reports it wants to see."
+      "q": "My gym is in Aurora. Can I plan from Denver’s rules?",
+      "a": "No. Take your questions to <a href=\"/denver-metro/aurora-co/\">Aurora</a>. Its <a href=\"https://www.auroragov.org/business_services/building_division/adopted_building_codes\" target=\"_blank\" rel=\"nofollow noopener\">building division</a> lists the 2021 building and fire codes, while Denver builds on the 2024 editions with its own amendments. Aurora’s building division, not Denver’s, answers whether your turf floor calls for a permit and which fire-test reports to bring."
     },
     {
       "q": "Can a public or charter school put turf in its gym?",
-      "a": "Start with the Colorado Division of Fire Prevention and Control. Its <a href=\"https://dfpc.colorado.gov/sections/fire-and-life-safety/building-codes-branch/school-construction\" target=\"_blank\" rel=\"nofollow noopener\">school construction page</a> says work on public schools, institute charter schools, charter schools and junior colleges that is not maintenance or service needs a permit and must follow the Division’s adopted codes. On 12 September 2026, the Division’s <a href=\"https://dfpc.colorado.gov/sections/fire-life-safety/fls-adopted-codes\" target=\"_blank\" rel=\"nofollow noopener\">adopted-codes page</a> listed the 2021 building and fire codes, while West Metro Fire Rescue’s table listed the 2024 fire code for the state public schools program. Ask the Division which edition your project falls under."
+      "a": "Start with the state. The Colorado Division of Fire Prevention and Control’s <a href=\"https://dfpc.colorado.gov/sections/fire-and-life-safety/building-codes-branch/school-construction\" target=\"_blank\" rel=\"nofollow noopener\">school construction page</a> says work on public schools, institute charter schools, charter schools and junior colleges that is not maintenance or service needs a permit and must follow the Division’s adopted codes. The edition is unsettled: the Division’s <a href=\"https://dfpc.colorado.gov/sections/fire-life-safety/fls-adopted-codes\" target=\"_blank\" rel=\"nofollow noopener\">adopted-codes page</a> lists the 2021 building and fire codes, while West Metro’s table lists the 2024 fire code for the state public schools program. Ask the Division which edition your project falls under."
     },
     {
-      "q": "Does Colorado’s PFAS law reach an indoor turf floor?",
-      "a": "Its wording is broad. <a href=\"https://leg.colorado.gov/bill_files/46185/download\" target=\"_blank\" rel=\"nofollow noopener\">SB24-081</a>, as signed, says that on and after January 1, 2026, a person shall not install artificial turf containing intentionally added PFAS chemicals on any portion of property in the state. It still lets you maintain turf installed before that date. Get written PFAS documentation from the manufacturer, and see <a href=\"/blog/does-artificial-turf-contain-pfas/\">does artificial turf contain PFAS?</a> for what it should cover."
+      "q": "My gym is in Boulder, Arvada or another city not named here. Who do I call first?",
+      "a": "That city’s building department. Ask which building and fire code editions it enforces, and whether the city’s fire department or a fire district reviews the plans. Those two answers set the tests your turf and pad need."
     }
   ],
   "towns": [
     "denver-co",
     "aurora-co",
     "lakewood-co",
+    "westminster-co",
+    "thornton-co",
+    "erie-co",
+    "castle-rock-co",
     "centennial-co",
     "englewood-co",
-    "commerce-city-co",
-    "westminster-co",
     "littleton-co"
   ],
   "sources": [
@@ -107,20 +99,28 @@
       "url": "https://denver.legistar1.com/denver/attachments/83f4bb5c-cf4f-49fb-a335-bf6486064e81.pdf"
     },
     {
-      "label": "City and County of Denver: 2025 Denver Fire Code as adopted June 2025 (file 25-0735)",
-      "url": "https://denver.legistar.com/View.ashx?GUID=A512D78F-514F-4FCF-B692-3FA7E1CDF462&ID=14249517&M=F"
-    },
-    {
-      "label": "UpCodes (third-party copy): Denver Commercial Building Code 2025, Chapter 8 Interior Finishes",
-      "url": "https://up.codes/viewer/denver/ibc-2024/chapter/8/interior-finishes"
-    },
-    {
-      "label": "UpCodes (third-party copy): Denver Commercial Building Code 2025, Chapter 3 Occupancy Classification",
-      "url": "https://up.codes/viewer/denver/ibc-2024/chapter/3/occupancy-classification-and-use"
-    },
-    {
       "label": "City of Aurora: adopted building codes (checked 12 September 2026)",
       "url": "https://www.auroragov.org/business_services/building_division/adopted_building_codes"
+    },
+    {
+      "label": "City of Westminster: Building Division, adopted codes (checked 12 September 2026)",
+      "url": "https://www.westminsterco.gov/621/Building-Division"
+    },
+    {
+      "label": "City and County of Broomfield: Building Code Information (checked 12 September 2026)",
+      "url": "https://www.broomfield.org/176/Building-Code-Information"
+    },
+    {
+      "label": "City of Thornton: Building Permits and Inspections, 2024 ICC codes notice (checked 12 September 2026)",
+      "url": "https://www.thorntonco.gov/business-development/city-development/building-permits-inspections"
+    },
+    {
+      "label": "Town of Castle Rock: Adopted Building Codes (checked 12 September 2026)",
+      "url": "https://www.crgov.com/2178/Adopted-Building-Codes"
+    },
+    {
+      "label": "Town of Erie: Building Codes and Design Criteria (checked 12 September 2026)",
+      "url": "https://www.erieco.gov/1772/Building-Codes-Design-Criteria"
     },
     {
       "label": "West Metro Fire Rescue: adopted fire codes by jurisdiction (checked 12 September 2026)",
@@ -129,6 +129,18 @@
     {
       "label": "West Metro Fire Rescue: communities covered",
       "url": "https://www.westmetrofire.org/communities-covered"
+    },
+    {
+      "label": "South Metro Fire Rescue: Board of Directors minutes, 4 May 2026 (Resolution 2026-07)",
+      "url": "https://www.southmetro.org/files/eec292b64/Board+of+Directors+Meeting+Minutes+05.04.26.pdf"
+    },
+    {
+      "label": "South Metro Fire Rescue: Board packet, 4 May 2026 (staff report on Resolution 2026-07)",
+      "url": "https://www.southmetro.org/files/0c1531be3/05.04.26+SMFR+Regular+Board+Meeting+Packet.pdf"
+    },
+    {
+      "label": "Douglas County: Building Codes and Amendments (read from the 13 August 2026 Internet Archive capture)",
+      "url": "https://www.douglasco.gov/building-division/adopted-building-codes/"
     },
     {
       "label": "Colorado Division of Fire Prevention and Control: FLS adopted codes (checked 12 September 2026)",
@@ -146,10 +158,10 @@
   "checked": "2026-09-12",
   "publicReferences": [
     "https://www.denvergov.org/files/assets/public/v/3/community-planning-and-development/documents/ds/building-codes/2025_denver_building_code.pdf",
-    "https://denver.legistar1.com/denver/attachments/83f4bb5c-cf4f-49fb-a335-bf6486064e81.pdf",
     "https://www.westmetrofire.org/adopted-fire-codes-for-west-metro-fire-rescue",
+    "https://www.douglasco.gov/building-division/adopted-building-codes/",
+    "https://www.erieco.gov/1772/Building-Codes-Design-Criteria",
     "https://www.auroragov.org/business_services/building_division/adopted_building_codes",
-    "https://dfpc.colorado.gov/sections/fire-and-life-safety/building-codes-branch/school-construction",
-    "https://leg.colorado.gov/bill_files/46185/download"
+    "https://dfpc.colorado.gov/sections/fire-and-life-safety/building-codes-branch/school-construction"
   ]
 }

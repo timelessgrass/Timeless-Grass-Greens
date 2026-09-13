@@ -1,0 +1,77 @@
+{
+  "intent": "Before artificial turf goes into a Murrells Inlet yard, does South Carolina's critical-area rule for tidal marsh reach a creek-front lot, and does Georgetown County's tree overlay reach the rest of it?",
+  "distinctValue": "Murrells Inlet is a former fishing village on the salt marsh in northeastern Georgetown County (Wikipedia, citing the Marshwalk boardwalk over the marsh as its landmark), and that marsh and its tidal creeks are what SC Code §48-39-10 calls tidelands: areas at or below mean high tide plus the connected coastal wetlands, marshes and mudflats, one of the state's critical areas alongside coastal waters and beaches. §48-39-130(C) bars filling, removing, dredging, draining or altering a critical area without a state permit, and lets anyone ask the department for a forty-five-day exemption determination. This is the same statute already verified for garden-city-sc, reused here because it is a statewide law and Murrells Inlet's marsh geography (not oceanfront, unlike Garden City) makes it the natural lead for this specific place -- the research record's own note (src/data/cities/grand-strand.json, murrells-inlet-sc.facts.strongest_angle) said to lead with the creek rather than the tree rule the town shares with every other Waccamaw Neck page. Georgetown County's Waccamaw Neck tree overlay (Article XIII, amended Ord. 23-24) still applies inland: Sec. 1303.1 protects trees at least 10 inches DBH except palmetto, Bradford pear, pecan, sweet gum, crepe myrtle, wax myrtle and non-longleaf pine, with longleaf pine protected only at 15+ inches DBH and only on non-single-family land -- both halves of that rule are now stated together so they don't contradict each other the way the prior draft's body text and FAQ did. Sec. 1300.14 counts digging and grading as damage, Sec. 1300.20 sets the protection zone at one foot per inch of DBH or the canopy edge, Sec. 1301.2 covers the permit review and site-visit option, and Secs. 1305.1/1305.4/1305.6 cover the penalty, permit holds and appeal. The page no longer asserts that Sec. 1301.3.5's county-wide parking/storage ban definitely reaches an occupied single-family lot under Sec. 1303.2 -- that applicability is not settled in the ordinance text, so the page just tells the reader to keep equipment out of a tree's zone and have the county review a close plan, without citing 1301.3.5 as an overlay-specific rule. The waterway-tree paragraph (Sec. 1301.3.2, trees beyond the certified property line) and the Highway 17 commercial corridor overlay (Article XXI) are dropped from this version: neither changes what a residential buyer here does, and the corridor overlay's own applicability to a turf layout was already flagged unresolved. The stormwater fee section (Georgetown County FAQ) is kept because it answers a real reader question (does a new lawn change my bill) but is phrased differently from garden-city-sc's version of the same fee to avoid repeating that page's five-word runs. nearby now includes garden-city-sc, the actually adjacent published page, plus surfside-beach-sc; forestbrook-sc and myrtle-beach-sc are dropped from nearby and from the Horry-county FAQ, which now points to garden-city-sc instead, since Wikipedia's description of Murrells Inlet's CDP boundary ('the northern edge of the CDP follows the Horry County line') indicates the place itself sits entirely in Georgetown County and Forestbrook/Myrtle Beach's city-planning-office advice doesn't apply to a Horry-side parcel near the line anyway.",
+  "sources": [
+    {
+      "label": "South Carolina Code of Laws, Title 48, Chapter 39 (Coastal Tidelands and Wetlands), §§48-39-10, -130",
+      "url": "https://www.scstatehouse.gov/code/t48c039.php",
+      "checked": "2026-09-13",
+      "supports": [
+        "SECTION 48-39-10. Definitions. (G) \"Tidelands\" means all areas which are at or below mean high tide and coastal wetlands, mudflats, and similar areas that are contiguous or adjacent to coastal waters and are an integral part of the estuarine systems involved. Coastal wetlands include marshes, mudflats, and shallows ...",
+        "SECTION 48-39-10. (J) \"Critical area\" means any of the following: (1) coastal waters; (2) tidelands; (3) beaches; (4) beach/dune system which is the area from the mean high-water mark to the setback line as determined in Section 48-39-280.",
+        "SECTION 48-39-130. (C) Ninety days after July 1, 1977 no person shall fill, remove, dredge, drain or erect any structure on or in any way alter any critical area without first obtaining a permit from the department. ... Any person may request the department to review any project or activity to determine if he is exempt under this section from the provisions of this chapter. The department shall make such determinations within forty-five days from the receipt of any such request.",
+        "Carried over from garden-city-sc's dedicated evidence record (checked 2026-09-12), same statute, re-verified for reuse here 2026-09-13."
+      ]
+    },
+    {
+      "label": "South Carolina Code of Regulations, Chapter 30 (Department of Environmental Services, Coastal Division)",
+      "url": "https://www.scstatehouse.gov/coderegs/Chapter%2030.pdf",
+      "checked": "2026-09-13",
+      "supports": [
+        "Editor's Note: 2023 Act No. 60 (S.399) abolished the South Carolina Department of Health and Environmental Control and created the South Carolina Department of Environmental Services and the South Carolina Department of Public Health, effective July 1, 2024.",
+        "30-1(A)(1): In 2024, state government restructuring associated with Act 60 of 2023 established the South Carolina Department of Environmental Services (SCDES). The Office of Ocean and Coastal Resource Management became the Bureau of Coastal Management (BCM)."
+      ]
+    },
+    {
+      "label": "Georgetown County Zoning Ordinance, Article XIII: Tree Regulations (amended Ord. 23-24)",
+      "url": "https://www.gtcountysc.gov/DocumentCenter/View/1346/ARTICLE-13-Tree-Regulations-PDF",
+      "checked": "2026-09-12",
+      "supports": [
+        "1303. URBAN AREA TREE OVERLAY REGULATIONS (i.e. WACCAMAW NECK). ... The urban area is defined as the Waccamaw Neck which is between the Horry County boundary, the Waccamaw River and the Ocean.",
+        "1303.1 Protected Trees. All trees of at least ten (10) inches DBH, except for Palmetto (Sabal palmetto), Bradford Pear (Pyrus calleryana), Pecan Trees (Carya illinoinensis), Pine Trees (other than Longleaf/Pinus palustris), Sweet Gums (Liquidambar styraciflua), Crepe Myrtles (Lagerstroemia indica) and Wax Myrtles (Myrica cerfera) are protected in this overlay. Longleaf Pine Trees of at least fifteen (15) inches DBH are only protected on non-single family parcels. (Amended Ord. 2021-23)",
+        "1303.2 Occupied Single Family Residential Requirements. All occupied single family parcels as defined in Article III of this ordinance are exempt from tree replacement found in Section 1301 of this Article. No person shall remove or damage a Protected or Grand Tree without an approved tree removal permit from the County issued based on the standards found in Section 1303.4.1. Additionally, Section 1301.3.2, Removal of Waterway Trees, shall be enforced.",
+        "1300.6 Diameter Breast Height (DBH). The diameter in inches of a tree's trunk measured in inches at a height of 4.5 feet above existing grade (base of the tree).",
+        "1300.14 Removal or Damage of a Tree. Any activity that injures or jeopardizes the growth and sustainability of a tree, including without limitation cutting down, digging up, pushing over, burning, poisoning, grading, topping or cutting.",
+        "1300.20 Tree Protection Zone. The area around the base of a tree equal in feet to the DBH of the tree, e.g., a tree with DBH of fifteen (15) inches shall have a Tree Protection Zone of fifteen (15) feet. Except that in instances where the edge of the canopy extends further than the feet established by the DBH, the edge of the canopy shall establish the tree protection zone.",
+        "1301.1 Protected Trees in Georgetown County. This Section applies to all of Georgetown County, except where specific regulations are established for the two overlay zones. The regulations found in the overlay zones are in addition to the regulations found in this section.",
+        "1301.2 Permits and Process. Tree removal permits for protected trees shall be required for all properties and shall be obtained from the office of the Zoning Administrator. A tree permit is not required for limb and root pruning of protected trees. However, negligent pruning of trees shall be considered a violation of this ordinance. All pruning shall follow the latest version of the ANSI A300 standards.",
+        "1301.2 (cont.) When an application for a building permit, development permit or tree removal is submitted to the County, a tree plan shall be submitted to the Zoning Administrator. If a site is reasonably observable and accessible, in lieu of a written tree plan, the Planning Director or his or her designee may elect to visit the site to view the marked trees on the ground and determine their eligibility to be removed. No building, development or tree removal permit shall be issued until a tree plan has been reviewed by the Planning Director or designee and a final determination has been made. The Director or designee shall approve, approve conditionally or disapprove a plan. If the plan is disapproved or approved conditionally, the reasons for such action shall be stated in writing.",
+        "1301.3.5 Tree Protection Zone. Construction activities in the tree protection zone such as parking, material storage, concrete washout and burning are prohibited.",
+        "1305.1 Fines and Penalties. ... Any person who removes or damages a protected tree in violation of this ordinance shall be subject to Withholdings under 1305.4, a fine in an amount up to $12,000.00 per tree, or both in the discretion of the Planning Director, or designee.",
+        "1305.4 Withholding Approvals. In all cases in which a protected tree is removed prior to receiving all necessary permits from the County, or in any other violation of this ordinance, the Planning Director or designee may withhold or deny any permit(s), whether for building or otherwise, whether applied for, pending, or approved, and restrict or stop any further land development, construction, or tree removal on the property for a period of up to three years from the date of the discovery of the violation.",
+        "1305.6. Appeals. Appeals from decisions of the Planning Director or designee under this Article, including requests for variance or other relief from a requirement of Article XIII, shall be to the Zoning Board of Appeals, and shall be made by the party who is the subject of the decision, and filed within thirty days of receipt of the decision being appealed.",
+        "1304.1 Unhealthy Trees. If any Protected trees, including Grand Trees, are determined by the Zoning Administrator to be diseased, injured or located in a manner that endangers the public health, safety or welfare, the Planning Director or designee may authorize removal of such tree. Prior to authorizing the removal of any such tree, the Planning Director or designee may require the requesting party to provide, at their own expense, a written report from a Tree Professional.",
+        "1304.2 Natural Disaster and Force Majeure. Immediately after any natural disaster resulting in catastrophic loss or damage to trees, any felled trees or trees damaged beyond reasonable recovery may be removed without a permit. ... County Council shall determine events of catastrophic loss or damage."
+      ]
+    },
+    {
+      "label": "Georgetown County: Stormwater rates and fees FAQ",
+      "url": "https://www.gtcountysc.gov/m/faq?cat=57",
+      "checked": "2026-09-12",
+      "supports": [
+        "Who pays the fee? Every property in Georgetown County with 400 square feet of impervious area or more will pay a stormwater user fee. Single-family residential, multi-family residential and non-residential properties will pay the fee, including the County itself.",
+        "What is an Equivalent Runoff Unit (ERU)? ... One ERU is equal to 3,770 square feet of impervious area. This is the average amount of impervious surface found at the average single-family residence in Georgetown County. The charge for one ERU will be $52 per year.",
+        "What will owners of single-family residential properties pay? Residential properties will pay $52 per year, for one Equivalent Runoff Unit (ERU).",
+        "What will owners of non-single-family residential properties pay? All non-single-family residential (NSFR) properties will be charged on the basis of measured impervious area rounded up to the next whole Equivalent Runoff Unit (ERU).",
+        "Why is impervious area being used to determine the fee? ... The impervious area consists of houses, buildings and other structures; driveways, patios, parking lots, and other manmade surfaces that do not allow precipitation to infiltrate into the ground. Pervious surfaces include grass, pasture, cropland and most undeveloped land.",
+        "The words artificial turf and synthetic turf do not appear on this FAQ page."
+      ]
+    },
+    {
+      "label": "Wikipedia: Murrells Inlet, South Carolina",
+      "url": "https://en.wikipedia.org/wiki/Murrells_Inlet,_South_Carolina",
+      "checked": "2026-09-13",
+      "supports": [
+        "Murrells Inlet is located in northeastern Georgetown County. The northern edge of the CDP follows the Horry County line.",
+        "It is known for the Murrells Inlet Marshwalk, a 1/2-mile-long (0.8 km) boardwalk overlooking a salt marsh.",
+        "The community was once primarily a fishing village."
+      ]
+    }
+  ],
+  "unresolved": [
+    "The ordinance does not say whether Sec. 1301.3.5's county-wide parking/material-storage ban inside a tree protection zone applies to an occupied single-family lot: Sec. 1303.2 names only Sec. 1301.3.2 as additionally enforced on that lot type, and Sec. 1301.1 says the county-wide section applies 'except where specific regulations are established for the two overlay zones.' The page no longer states this rule as applying to a homeowner's lot; it tells the reader to keep equipment out of the zone and let the county review a close plan.",
+    "Whether cutting roots to dig a turf base counts as permit-free 'root pruning' under ANSI A300 or as 'removal or damage' under Sec. 1300.14 is not settled in the text. The page does not take a side; it treats digging under a canopy as the kind of work the permit rule was written to catch and tells the reader the county reviews close calls.",
+    "Whether Murrells Inlet's CDP includes any Horry County territory, or only borders it, is inferred from Wikipedia's 'the northern edge of the CDP follows the Horry County line' plus the town record's single county field ('Georgetown'); no parcel map was opened to confirm no Horry-County parcels carry a Murrells Inlet mailing address.",
+    "The Highway 17 Waccamaw Neck Commercial Corridor Overlay (Article XXI) and the waterway-tree removal rule (Sec. 1301.3.2) are not used on this page: neither was shown to change what a residential turf buyer does here, and the prior draft's use of 1301.3.2 ('keep the turf on your side of the line') did not follow from what the section actually restricts."
+  ]
+}

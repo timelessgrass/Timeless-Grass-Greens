@@ -1,0 +1,107 @@
+{
+  "intent": "My lawn in The Pinery is struggling, Pinery Water won't let me lay new sod this year, and the Pinery HOA reviews every landscaping change. Can I put in artificial turf, where on the lot, and what does the Architectural Review Committee need from me before it goes in?",
+  "distinctValue": "No neighbouring page names either body that decides a Pinery yard. Stonegate covers the SVOA and Stonegate Village Metropolitan District at Stage 1, Castle Rock the Town ordinance and Castle Rock Water, Castle Pines the CPNMD and CPVMD, Parker the Town's Land Development Ordinance and Parker Water. This page gives the Pinery Water and Wastewater District's Stage 3 rules, framed as a current condition rather than a permanent one (declared as of 1 May 2026 and still marked current on 12 September 2026): a 20% reduction target, the stage set from snowpack, reservoir levels and well production, two residential watering days by even or odd address, no watering of any kind on Fridays, all watering before 10:00am or after 6:00pm, and a ban on installing any new sod. It adds that the district's Turf Replacement Program ($5.00 per square foot up to $2,000) excludes artificial turf and is full for 2026. On the HOA side it gives the Pinery Architectural Standards of 8 August 2023, scoped to lots under the Pinery covenants (filings 1-8A) rather than the whole census place: ARC approval before nonvegetative turf, xeriscape, hardscape or tree removal; turf only in the backyard with color and quality approved (read from the sentence that immediately follows the approval requirement for nonvegetative turf, not from the definition clause); a plot plan with property lines and easements plus turf samples; drainage not to be adversely affected; fire mitigation among the review considerations, kept separate from the roofing section's fire-risk language; neighbour notice framed as the Standards actually state it (\"encourages, and may require\", not a flat requirement); meetings on the second Tuesday at 6:30 p.m. with material due by noon the Friday before; a $50 expedited review that only speeds up feedback, since formal approval still happens at the next regular meeting; a default completion date 90 days after approval. From the ARC FAQ it adds the 10-foot rear and side utility and drainage easements on most lots in filings 1-8A, the approval needed before removing any living tree, and Douglas County's ownership of Pinery streets as the primary source for county governance (replacing the earlier Wikipedia citation). Nearby list swapped Lone Tree, which is farther away, for Parker, the closer place the research record actually compares The Pinery to.",
+  "sources": [
+    {
+      "label": "Pinery Architectural Standards, 8 August 2023 (Pinery HOA)",
+      "url": "https://pinery.org/sites/default/files/media/images/architectural_standards_revised_8.9.2023_final_1.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "Cover and running header: \"Pinery Architectural Review Committee / Architectural Standards / August 8, 2023\"",
+        "\"Changes to the exterior of residences and changes to landscaping require approval of the ARC prior to implementation.\"",
+        "\"please contact our office at 303-841-5305 or ARC@pinery.org before commencing.\"",
+        "\"“Nonvegetative Turf Grass” means any artificial or man-made covering designed to look like or mimic grass or other forms of turf.\"",
+        "\"Approval is required for changes to landscaping, including removal of trees and/or the installation of Xeriscape, Hardscape, or Nonvegetative turf grass. Turf grass is only allowed in the backyard and the color and quality needs to be approved.\"",
+        "\"Submittal for architectural review should include at minimum: Plot plan for property showing: Location of existing dwelling; Location of property lines and easements; Location and type of any proposed landscaping and/or retaining walls ... Samples of turf grass, if applicable\"",
+        "\"In reviewing applications for installation of Xeriscape, Hardscape, and Nonvegetative Turf Grass, the ARC will consider the general aesthetic nature of the community, the feasibility of permitted plants, the ecological impact, local ordinances, and other pertinent considerations (e.g., fire mitigation).\"",
+        "\"Drainage must not be adversely affected by any proposed changes.\"",
+        "\"Submittals received without a proposed completion date will be assigned a completion date of 90 days after ARC approval.\"",
+        "\"The “Property Change Application” form includes an area for signatures of neighbors confirming their awareness that a change is being proposed to the ARC.\" / \"please provide proof of mailing to the neighbor, post-marked at least two weeks prior to the meeting\"",
+        "\"The Architectural Review Committee meets once monthly, normally on the second Tuesday of the month, beginning at 6:30 p.m.\"",
+        "\"In order to adequately cover administrative costs, a $50 fee is required for this expedited service.\" / \"expedited reviews are not available during the week prior to the regularly scheduled ARC meeting.\"",
+        "Property Change Application: \"Pre-meeting early review requested (describe reason for early review) - $50 Fee Required\"",
+        "\"Due to the fact that The Pinery is a high fire risk area and that there is frequent hail, the ARC highly recommends the use of class ‘A’ fire resistant roofs\"",
+        "\"The Association will review and permit Owners to select from at least 3 pre-approved garden designs for installation in front yard lot.\""
+      ]
+    },
+    {
+      "label": "Pinery HOA: Architectural Review Committee",
+      "url": "https://pinery.org/architectural-review-committee",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"The Pinery ARC holds its regular meetings on the second Tuesday of the month in the Community Room, lower level of the Pinery Fire Station.\"",
+        "\"NOTE: Please refer to the current Calendar page for meeting schedules.\"",
+        "\"Meetings begin at 6:30 p.m. with homeowner submittals.\"",
+        "\"Material to be placed on the meeting agenda is due by noon on Fridays before meetings.\"",
+        "\"Phone Number: (303) 841-5305  E-Mail Address: ARC@pinery.org\""
+      ]
+    },
+    {
+      "label": "Pinery HOA: ARC frequently asked questions",
+      "url": "https://pinery.org/arc-frequently-asked-questions",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"The great majority of lots in Pinery filings 1-8A have ten feet (10’) of property inside the rear and side boundaries set aside as ‘Easements’.\"",
+        "\"Within these easements, no structure, planting or other material shall be placed or permitted to remain which may damage or interfere with the installation and maintenance of utilities, or which may change the direction of flow of drainage channels in the easements.\"",
+        "\"Property owners should be aware that items within the easement could be subject to destruction or reinstallation at their expense should utility access be required.\"",
+        "\"All streets within the Pinery are owned and maintained by Douglas County.\"",
+        "\"Within the Pinery areas contained in Filings 1 through 8a, all homeowners must receive approval before removing any living tree.\""
+      ]
+    },
+    {
+      "label": "Pinery Water and Wastewater District: drought update",
+      "url": "https://www.pinerywater.com/drought-update",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"Drought Stage 3 and Mandatory Restrictions begin May 1st - Updated on 4/24/2026\"",
+        "\"The Pinery Water and Wastewater District Board has declared Stage 3 Drought as of May 1, 2026.\"",
+        "\"A dry and warm winter led to record-low snowpack.\"",
+        "Stage table: \"Stage 3 – D3 *Current* | Extreme Drought – Critical | Colorado Drought Monitor Map. Walker Reservoir below 65% capacity. 10% loss of production in alluvial wells. | 20% Reduction in Use | Mandatory watering restrictions. Operational modifications. Limitations on new sod and filling swimming pools.\" (still marked current when checked on 2026-09-12)",
+        "\"Per the 2026 Rates and Fees schedule, the first offense results in a warning, the second offense incurs a $75 fee, and third and subsequent offenses incur a $100 fee per offense.\"",
+        "\"All customer classes are being asked to reduce demand by 20%.\"",
+        "\"For residential customers, each address is given two days to water, although the hand-watering of trees, shrubs and potted plants is allowed on any day. Irrigation (including hand-watering) must occur before 10:00am or after 6:00pm. Water waste (such as runoff onto sidewalks or streets) is always prohibited.\"",
+        "\"Under Stage 3, customers may not fill/re-fill private swimming pools or install any new sod.\"",
+        "\"Please note that no watering of any kind is allowed on Fridays.\""
+      ]
+    },
+    {
+      "label": "Pinery Water and Wastewater District: 2026 mandatory watering schedule",
+      "url": "https://www.pinerywater.com/files/cdd0ad0c7/2026+MANDATORY_Watering_Schedule.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"2026 WATERING SCHEDULE / PINERY RESIDENTIAL & COMMERCIAL CUSTOMERS / Effective May 1st,2026\"",
+        "Sunday: \"EVEN Numbered Addresses\"; Monday: \"ODD Numbered Addresses\"; Tuesday: \"Commercial and Large Irrigators\"; Wednesday: \"EVEN Numbered Addresses\"; Thursday: \"ODD Numbered Addresses\"; Friday: \"No WATERING\"; Saturday: \"Commercial and Large Irrigators\"",
+        "\"No Watering (including hand watering) between 10am & 6pm\""
+      ]
+    },
+    {
+      "label": "Pinery Water and Wastewater District: Turf Replacement Program",
+      "url": "https://www.pinerywater.com/turf-replacement-program",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"Turf Replacement Program FULL FOR 2026\""
+      ]
+    },
+    {
+      "label": "Pinery Water and Wastewater District: 2026 Turf Replacement Program guidelines",
+      "url": "https://www.pinerywater.com/files/e60c1ae37/2026-Turf-Replacement-Guidelines-and-Application-Remediated.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"Residential customers receive a rebate of $5.00 per square foot of high-water use plant material removed, up to $2,000 per project/applicant.\"",
+        "\"Concrete, artificial turf, and impermeable materials are not eligible replacements.\"",
+        "\"The project must provide a minimum coverage of 50% living plant material (as projected at plant maturity).\""
+      ]
+    },
+    {
+      "label": "Colorado General Assembly: SB23-178",
+      "url": "https://leg.colorado.gov/bills/sb23-178",
+      "checked": "2026-09-12",
+      "supports": [
+        "Bill summary: an association's guidelines or rules must \"Not prohibit the use of nonvegetative turf grass in the backyard of a unit owner's property\"",
+        "\"The act requires an association to develop at least 3 garden designs that are preapproved by the association for installation in front yards within the common interest community.\"",
+        "\"The act's provisions apply only to a unit that is a single-family detached home\"",
+        "\"APPROVED by Governor May 17, 2023 / EFFECTIVE August 7, 2023\" (the signed-act PDF returned 403 on 2026-09-12; the bill page was read instead)"
+      ]
+    }
+  ]
+}

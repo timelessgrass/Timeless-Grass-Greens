@@ -1,0 +1,116 @@
+{
+  "intent": "Can artificial turf count toward the landscaping and usable open space a Glendale site plan requires, who answers that, and whose water rules govern a turf dog run or courtyard in the City of Glendale (Arapahoe County, an enclave inside Denver)?",
+  "distinctValue": "Glendale's own zoning code carries a rule no other page on the site has. Sec. 17.16.080 (Landscaping) says artificial plants shall not be used to comply with the section, requires usable open space to be at least ninety percent (90%) living material before it counts, withholds the certificate of occupancy where landscaping requirements are not met, and makes failure to maintain permit-required landscaping a code violation. So turf cannot stand in for required open space, and the practical step is to mark the proposed turf on the approved site development plan and ask the Building & Permits Department (BuildingPermits@glendale.co.us) whether the spot is counted and whether turf there needs review. Chapter 17.16 also closes Cherry Creek Corridor setbacks to anything but landscaping and pedestrian amenities, and bars nonvegetative-only treatment of the 25-foot transition setback. On water, Ch. 13.06 adopts Denver's restrictions (its printed calendar is still dated 2013), sets its own penalties up to $2,000 and a flow restrictor, sells a $25 exemption permit for new sod under Sec. 13.06.060, and limits cleaning with water to assigned days outside 10 a.m. to 6 p.m.; Denver Water lists the city as a Master Meter distributor, so the city reads meters, bills customers and takes water-waste reports. Denver Water's 2026 Stage 1 rules (Tuesday and Friday for multifamily, commercial and HOA common areas; no grass watering or spray irrigation from Oct. 1) and SB24-005 as amended by HB25-1113 (nonfunctional artificial turf; multifamily property with more than twelve dwelling units; functional turf on playgrounds and sports fields) complete the picture. The eCode360 sections and the two signed acts were read through the r.jina.ai reader because the direct fetches were blocked (eCode360) or refused with 403 (leg.colorado.gov).",
+  "sources": [
+    {
+      "label": "Glendale Municipal Code, Sec. 17.16.080 (Landscaping)",
+      "url": "https://ecode360.com/47871317",
+      "checked": "2026-09-12",
+      "supports": [
+        "Artificial plants shall not be used to comply with the requirements of this section;",
+        "The required usable open space must be covered by a minimum of ninety percent (90%) living material to be considered as part of the calculation for usable open space.",
+        "No certificate of occupancy shall be issued where landscaping requirements are not complied with.",
+        "Minimum Usable Open Space. A minimum of twenty-five percent (25%) of the total development area shall be provided as usable open space.",
+        "A minimum of two hundred (200) square feet of usable open space for each residential dwelling unit for the first five hundred (500) units.",
+        "At least one (1) tree, five (5) shrubs, and twenty (20) square feet of perennials shall be planted for every five hundred (500) square feet of open space;",
+        "Automatic irrigation shall be provided for all living plant materials.",
+        "any plant material shall be replaced with materials of a maturity and density equivalent to the lesser of: five (5) years of growth, or actual time of growth since certificate of occupancy of an approved site development plan; within sixty (60) days of its demise",
+        "Failure to maintain landscaping required with approval of a permit shall be a violation of this code and applicable penalties may be imposed.",
+        "The property owner shall be responsible for the continuing upkeep and maintenance of the required open space whether usable or not as provided in Section 17.16.080(G).",
+        "Lots fronting the south side of Cherry Creek Drive South from Colorado Boulevard to Kentucky Avenue.",
+        "Lots abutting or adjacent to the north side of the Cherry Creek floodplain from Colorado Boulevard to Cherry Street.",
+        "Setback areas along the Cherry Creek Corridor shall only include landscaping and pedestrian amenities. These areas shall not include: parking, frontage roads, structures other than signs, and hardscape.",
+        "When a nonresidential use which is over fifteen (15) feet in height shares a common lot line with a residential use, the required side yard setback for the nonresidential use shall be at least twenty-five (25) feet and shall be maintained with landscaped plant material to include trees, shrubs, and grasses.",
+        "In no case shall such a side yard setback be treated with only nonvegetative materials."
+      ]
+    },
+    {
+      "label": "Glendale Municipal Code, Ch. 13.06 (Sec. 13.06.060, Exemptions by permit)",
+      "url": "https://ecode360.com/47870360",
+      "checked": "2026-09-12",
+      "supports": [
+        "The city hereby adopts the water restrictions imposed by Denver and as set forth in this chapter.",
+        "Watering shall be limited to two (2) days a week in accordance with the following schedule between April 1, 2013, and September 30, 2013:",
+        "All other properties (HOA, multifamily, commercial, industrial, government) may water Tuesday and Friday.",
+        "Upon payment of an administrative fee in the amount of twenty-five dollars ($25.00), customers may apply for permits to the city for: New turf sod application for up to three (3) weeks;",
+        "Power washing by individuals: Cleaning with water, except for immediate health or safety reasons, may occur only on assigned water days and not between the hours of 10:00 a.m. and 6:00 p.m.",
+        "Allowing water to pool or flow across the ground or into any drainage way, such as gutters, streets, alleys or storm drains.",
+        "First violation: written warning.",
+        "Second violation: two hundred fifty dollars ($250.00) on the next water bill for single-family residential; up to five hundred dollars ($500.00) for all other accounts.",
+        "Third violation: five hundred dollars ($500.00) on the next water bill for single-family residential; up to two thousand dollars ($2,000) for all other accounts.",
+        "Fourth violation: one thousand dollars ($1,000) on the next water bill for single-family residential; up to two thousand dollars ($2,000) for all other accounts. In addition, the city may install a flow restrictor on the service line that will remain in place during the irrigation season",
+        "Such appeal must be received by the City Manager at 950 South Birch Street, Glendale, Colorado 80246 within fifteen (15) days of the date of the violation notice or the application denial."
+      ]
+    },
+    {
+      "label": "City of Glendale: Building & Permits Department",
+      "url": "https://www.glendale.co.us/107/Building-Permits-Department",
+      "checked": "2026-09-12",
+      "supports": [
+        "New Building Codes effective June 23, 2026",
+        "Permit Application, Fees, and Inspections: All Building Permits, Associated Fees, and Inspection Information"
+      ]
+    },
+    {
+      "label": "City of Glendale: Permit Application, Fees, and Inspections",
+      "url": "https://www.glendale.co.us/429/Permit-Fees-and-Inspections",
+      "checked": "2026-09-12",
+      "supports": [
+        "If you prefer the PDF version you may email BuildingPermits@glendale.co.us and we will provide the PDF copy.",
+        "Main Building Permit Application: Permit application for all project types except signs."
+      ]
+    },
+    {
+      "label": "Denver Water: distributors (Master Meter contracts)",
+      "url": "https://www.denverwater.org/about-us/how-we-operate/service-area/distributors",
+      "checked": "2026-09-12",
+      "supports": [
+        "Master Meter — A Master Meter distributor owns and is responsible for construction, operation, maintenance, and replacement of its water system. Denver Water delivers water to the distributor through one or more master meters and bills the distributor at the established “Wholesale (Master Meter)” rate.",
+        "The Distributor, not Denver Water, is responsible for reading the meters of its individual customers and for billing its individual customers according to rate schedules established by the Distributor.",
+        "Master Meter Distributors ... Glendale, City of"
+      ]
+    },
+    {
+      "label": "Denver Water: summer watering rules",
+      "url": "https://www.denverwater.org/residential/rebates-and-conservation-tips/summer-watering-rules",
+      "checked": "2026-09-12",
+      "supports": [
+        "Stage 1 drought means mandatory outdoor watering is restricted to two days per week on assigned days and only allowed before 10 a.m. or after 6 p.m.",
+        "All others (including multifamily and commercial). ... Tuesday and Friday",
+        "For the online map, you will not be able to place a pin on areas served by Master Meter distributors. Please report water waste directly to the distributor."
+      ]
+    },
+    {
+      "label": "Denver Water: drought (2026 Stage 1 declaration)",
+      "url": "https://www.denverwater.org/drought",
+      "checked": "2026-09-12",
+      "supports": [
+        "As drought conditions have worsened, on Aug. 26, the Denver Board of Water Commissioners declared a formal end to lawn watering season beginning Oct. 1.",
+        "Beginning Oct. 1: Watering of grass or use of spray irrigation systems are prohibited and will be subject to water-waste violations and charges. Trees, shrubs and other plants may continue to be watered using a hand-held hose with an automatic shutoff nozzle or low-volume irrigation, such as a drip line.",
+        "The Stage 1 drought declaration is in effect from March 25, 2026 through April 30, 2027, or until further notice.",
+        "Multifamily residences and HOA-maintained common areas can water on Tuesday and Friday."
+      ]
+    },
+    {
+      "label": "Colorado SB24-005, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2024a_005_signed.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "ON AND AFTER JANUARY 1, 2026, A LOCAL ENTITY SHALL NOT INSTALL, PLANT, OR PLACE, OR ALLOW ANY PERSON TO INSTALL, PLANT, OR PLACE, ANY NONFUNCTIONAL TURF, ARTIFICIAL TURF, OR INVASIVE PLANT SPECIES, AS PART OF A NEW DEVELOPMENT PROJECT OR REDEVELOPMENT PROJECT, ON ANY PORTION OF APPLICABLE PROPERTY WITHIN THE LOCAL ENTITY'S JURISDICTION.",
+        "\"APPLICABLE PROPERTY\" MEANS: (I) COMMERCIAL, INSTITUTIONAL, OR INDUSTRIAL PROPERTY; (II) COMMON INTEREST COMMUNITY PROPERTY; OR (III) A STREET RIGHT-OF-WAY, PARKING LOT, MEDIAN, OR TRANSPORTATION CORRIDOR.",
+        "NOTHING IN THIS SECTION PROHIBITS: ... (d) A LOCAL ENTITY OR THE DEPARTMENT FROM ESTABLISHING PROHIBITIONS ON, OR REQUIREMENTS FOR, NONFUNCTIONAL TURF, ARTIFICIAL TURF, OR INVASIVE PLANT SPECIES THAT ARE MORE STRINGENT THAN THE REQUIREMENTS OF THIS SECTION; OR (e) A LOCAL ENTITY OR THE DEPARTMENT FROM INSTALLING, OR ALLOWING ANY PERSON TO INSTALL, ARTIFICIAL TURF ON ATHLETIC FIELDS OF PLAY."
+      ]
+    },
+    {
+      "label": "Colorado HB25-1113, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2025a_1113_signed.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "(1) On and after January 1, 2026, a local entity shall not install, plant, or place, or allow any person to install, plant, or place, any nonfunctional turf, NONFUNCTIONAL artificial turf, or invasive plant species, as part of a new development project or redevelopment project, on any portion of applicable property within the local entity's jurisdiction.",
+        "(1.5) \"APPLICABLE RESIDENTIAL REAL PROPERTY\" MEANS A MULTIFAMILY RESIDENTIAL HOUSING PREMISES PROPERTY THAT INCLUDES MORE THAN TWELVE DWELLING UNITS.",
+        "(6.5) \"FUNCTIONAL ARTIFICIAL TURF\" MEANS ARTIFICIAL TURF THAT IS: (a) LOCATED IN A RECREATIONAL USE AREA OR OTHER SPACE THAT IS REGULARLY USED FOR CIVIC, COMMUNITY, OR RECREATIONAL PURPOSES, WHICH MAY INCLUDE A PLAYGROUND, A SPORTS FIELD, A PICNIC GROUND, AN AMPHITHEATER, A PORTION OF A PARK, AND THE PLAYING AREA OF A GOLF COURSE",
+        "ON OR BEFORE JANUARY 1, 2028, EACH LOCAL ENTITY WITH LAND USE PLANNING AND ZONING AUTHORITY SHALL ENACT OR AMEND ORDINANCES, RESOLUTIONS, REGULATIONS, OR OTHER LAWS REGULATING NEW DEVELOPMENT PROJECTS AND REDEVELOPMENT PROJECTS TO: (I) REGULATE THE INSTALLATION OF NONFUNCTIONAL TURF ... AND (II) INCLUDE CONSIDERATION OF APPLICABLE RESIDENTIAL REAL PROPERTY."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "intent": "In the gated Deerwood Improvement Association community on Jacksonville's Southside, what does a homeowner have to submit, to whom and by when, before replacing lawn with artificial turf, and what on the lot (sprinklers, oaks, lakes, wet sand) limits where it can go?",
+  "distinctValue": "Scoped to the gated DIA community at the NE corner of Baymeadows Road and Southside Boulevard (32256), not the wider realtor area called Deerwood. The DIA ARC Guidelines, approved by the DIA Board on June 23, 2026, require ARC approval before any work on a residential lot and set a published threshold: ARC review for landscape changes affecting more than 25% of the current landscape, with a landscape plan marked on the site survey and confirmation that irrigation is adequate or will be modified. They carry no turf-specific rule, and the association's Resources page says all landscaping changes need prior approval, so the page tells the reader to ask the ARC Coordinator which applies. Dated fees on the schedule (landscape change: $100 review fee, $100 deposit; $100 expedited fee), the seven-day deadline before twice-monthly meetings, the 60-day start, six-month covenant completion and 30-day final inspection request, and the Covenant Enforcement page's two ARC violation types and 14-day first letter are all specific to this association. The irrigation requirement meets Rule 62-308.100(6), which bars in-ground irrigation of turf areas; the community's oaks and interconnected lakes meet the rule's drip-line and 10-foot waterbody provisions; the ARC's hardwood-for-hardwood tree replacement is local. USDA SSURGO at the country club point (Census-geocoded 10239 Golf Club Dr) returns Urban land-Leon-Boulogne complex, both poorly drained with Wet soil moisture from 31 cm January to October; at the DIA office point (8140 Hollyridge Rd) it returns Urban land-Hurricane-Albany complex, somewhat poorly drained, wet from 84 cm and 53 cm. Covenants differ by unit (21 separate Covenants and Restrictions) and were not posted publicly on the check date. Neighbour pages: Jacksonville covers city-wide water days, historic districts and Mandarin sand; Julington Creek Plantation covers a POA/CDD split in St. Johns County; none carries the DIA threshold, timelines or checklist. The brief's https://www.deerwoodjax.com/home/ URL did not connect on 2026-09-12 (port 443 refused; http /home/ returned 404), so the http home page is cited instead.",
+  "sources": [
+    {
+      "label": "Deerwood Improvement Association: ARC Guidelines",
+      "url": "http://www.deerwoodjax.com/arc-guidelines.html",
+      "checked": "2026-09-12",
+      "supports": [
+        "Approved by the DIA Board of Directors — June 23, 2026",
+        "The DIA requires that all plans be submitted to and approved by the Architectural Review Committee (ARC) before any work begins on a building, structure, or residential lot.",
+        "The ARC meets twice each month and is committed to reviewing applications in a timely manner. Complete application packages must be submitted at least seven (7) days prior to the meeting date. This deadline allows committee members to raise questions and visit sites in advance, improving the likelihood of same-meeting approval.",
+        "Certain projects may qualify for an expedited review — contact the ARC Coordinator to determine whether your project is eligible. An additional $100 Expedited Review Fee applies.",
+        "Simple submittals may be emailed to the ARC Coordinator or placed in the DIA drop box at the Baymeadows gate.",
+        "Complex submittals (with samples, or multiple/large attachments) should be delivered to the DIA office at 8140 Hollyridge Road (behind the Pavilion at the Park).",
+        "Completed ARC Application Form; Letter of request/intent describing the work in detail; Required review fee; Required deposit; Photos of both the front and rear of the home; Completed and signed project-specific checklist",
+        "A simplified checklist exists for “like for like” replacements (roof, driveway, exterior painting, patios, etc.). The General Manager may approve these projects without full ARC review.",
+        "Projects must begin within 60 days of approval.",
+        "Covenants require completion within 6 months (12 months for a new build). Failure without Board-approved extension may result in fines.",
+        "Property owners must request a final inspection within 30 days of project completion. The deposit is refunded after the inspection; failure to request it may result in forfeiture.",
+        "Review fees and impact fees are not refundable.",
+        "Review the covenants for your unit for fence height restrictions and confirm the design does not exceed those limits.",
+        "For lakefront and golf course front properties, any design that blocks the view of the lake or golf course is not desirable.",
+        "Tag all trees to be removed for a site visit by ARC",
+        "Hardwood trees must be replaced with another hardwood tree.",
+        "Landscape changes: ARC review is required for changes affecting more than 25% of the current landscape.",
+        "Detailed landscape plan marked on site survey, including size and type of plant; Photos of the home and existing landscape; Photos and names of plants to be used",
+        "Plans by a landscape designer should include their name and contact information.",
+        "Confirm the irrigation system is adequate or will be modified for the new design.",
+        "Carefully consider the maintenance requirements of the new plan.",
+        "All plant beds are to be mulched with bark or pine straw.",
+        "Submit three separate checks payable to Deerwood Improvement Association, Inc. for the review fee, deposit, and impact fee (if applicable).",
+        "5 — Landscape: Landscape changes $100 $100 $0",
+        "Deposits are refunded upon completion of the required final inspection, which must be requested within 30 days of project completion."
+      ]
+    },
+    {
+      "label": "Deerwood Improvement Association: Community Resources",
+      "url": "http://www.deerwoodjax.com/resources.html",
+      "checked": "2026-09-12",
+      "supports": [
+        "All exterior modifications — including paint colors, landscaping changes, additions, and structures — require prior approval from the Architectural Review Board.",
+        "Documents listed: Amended and Restated Bylaws; Articles of Incorporation; ARC Guidelines & Application Requirements; Realtor & Estate Sale Guidelines; Covenant Enforcement; Rules & Regulations (Coming soon)",
+        "Guest and contractor gate access is managed through the EIQ Connect app — this is separate from the Resident Portal."
+      ]
+    },
+    {
+      "label": "Deerwood Improvement Association: About Deerwood",
+      "url": "http://www.deerwoodjax.com/about.html",
+      "checked": "2026-09-12",
+      "supports": [
+        "Located at the NE corner of Baymeadows Road & Southside Boulevard",
+        "The Board manages the development in accordance with twenty-one separate Covenants and Restrictions, overseeing common areas, architectural standards, and the long-term stewardship of the community.",
+        "From its earliest days, Deerwood was built around its natural assets: the canopy of mature live oaks, the network of interconnected lakes, and the abundant wildlife that called this land home long before the first homes were built.",
+        "At the heart of the community sits the Deerwood Country Club",
+        "21 separate Covenants and Restrictions (twenty-one)"
+      ]
+    },
+    {
+      "label": "Deerwood Improvement Association: Covenant Enforcement",
+      "url": "http://www.deerwoodjax.com/covenant-enforcement.html",
+      "checked": "2026-09-12",
+      "supports": [
+        "An ARC violation occurs when a homeowner: Makes an exterior improvement without first obtaining the required ARC approval, or Receives ARC approval but does not complete the work as approved.",
+        "First letter: 14 days to correct",
+        "The Covenants Enforcement Committee is a group of residents appointed by the Board. Its single job is to review fines that management has levied and decide whether they are appropriate"
+      ]
+    },
+    {
+      "label": "Deerwood Improvement Association: home page",
+      "url": "http://www.deerwoodjax.com/",
+      "checked": "2026-09-12",
+      "supports": [
+        "A private gated community of distinction on Jacksonville's Southside",
+        "Southside District · Jacksonville, Florida 32256"
+      ]
+    },
+    {
+      "label": "Rule 62-308.100, F.A.C.: adopted rule text",
+      "url": "https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc",
+      "checked": "2026-09-12",
+      "supports": [
+        "(1)(b) Pursuant to s. 125.572, F.S., this rule establishes minimum standards for the installation of synthetic turf on single-family residential properties of 1 acre or less in size.",
+        "(6)(a) In-ground irrigation systems cannot be used to irrigate synthetic turf areas. (b) If any in-ground system is already installed, a local government may require that irrigation heads be removed and pipe capped.",
+        "(7)(b) Where no buffer zone has been established, synthetic turf shall be installed no closer than 10 feet from a natural or man-made waterbody as measured from the applicable ordinary or mean high water line except where there is a physical barrier between the synthetic turf and the waterbody (such as, but not limited to, a seawall or bulkhead).",
+        "(8)(b) Synthetic turf shall not be installed inside tree drip lines, whether on the property or adjacent properties, unless ... a certified arborist, using site specific information and best professional judgment, certifies that installation within that drip line would not be harmful to the tree.",
+        "(5)(b) Installation of synthetic turf ... shall not be installed within a swale, ditch, stormwater pond, or a stormwater pond’s littoral zone.",
+        "History–New 5-19-26. Rule 62-308.100"
+      ]
+    },
+    {
+      "label": "Fla. Stat. 720.3045: installation, display and storage of items",
+      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0700-0799/0720/Sections/0720.3045.html",
+      "checked": "2026-09-12",
+      "supports": [
+        "an association may not restrict parcel owners or their tenants from installing, displaying, or storing any items on a parcel which are not visible from the parcel’s frontage or an adjacent parcel, an adjacent common area, or a community golf course, including, but not limited to, artificial turf",
+        "F.S. 720.3045"
+      ]
+    },
+    {
+      "label": "Fla. Stat. 720.3035: architectural control covenants",
+      "url": "https://www.flsenate.gov/Laws/Statutes/2025/720.3035",
+      "checked": "2026-09-12",
+      "supports": [
+        "(1)(a) ... shall be permitted only to the extent that the authority is specifically stated or reasonably inferred as to such location, size, type, or appearance in the declaration of covenants or other published guidelines and standards authorized by the declaration of covenants.",
+        "(4)(a) If the association or any architectural, construction improvement, or other such similar committee of an association denies a parcel owner’s request or application for the construction of a structure or other improvement on a parcel, the association or committee must provide written notice to the parcel owner stating with specificity the rule or covenant on which the association or committee relied",
+        "F.S. 720.3035"
+      ]
+    },
+    {
+      "label": "USDA NRCS Soil Data Access (SSURGO), queried for points at 10239 Golf Club Dr (-81.547629, 30.229070) and 8140 Hollyridge Rd (-81.548103, 30.221494), Census geocoder",
+      "url": "https://sdmdataaccess.nrcs.usda.gov/",
+      "checked": "2026-09-12",
+      "supports": [
+        "738883 | Urban land-Leon-Boulogne complex, 0 to 2 percent slopes | Leon 30 | Poorly drained; Boulogne 25 | Poorly drained; Urban land 35",
+        "Leon and Boulogne (mukey 738883): soil moisture status Wet from 31 cm, January through October",
+        "Leon A 0-20 cm fine sand, E 20-46 cm fine sand, Bh 46-94 cm fine sand; Boulogne A 0-15 cm fine sand, Bh 15-41 cm fine sand",
+        "738887 | Urban land-Hurricane-Albany complex, 0 to 5 percent slopes | Hurricane 30 | Somewhat poorly drained; Albany 20 | Somewhat poorly drained",
+        "Hurricane: Wet from 84 cm; Albany: Wet from 53 cm, January through October"
+      ]
+    },
+    {
+      "label": "USDA Official Series Description: Leon",
+      "url": "https://soilseries.sc.egov.usda.gov/OSD_Docs/L/LEON.html",
+      "checked": "2026-09-12",
+      "supports": [
+        "DRAINAGE AND PERMEABILITY: Poorly drained and very poorly drained; moderate to moderately rapid permeability in the A and E horizons, moderate to moderately slow permeability in the Bh horizons, and rapidly permeable in the other layers."
+      ]
+    },
+    {
+      "label": "USDA Official Series Description: Boulogne",
+      "url": "https://soilseries.sc.egov.usda.gov/OSD_Docs/B/BOULOGNE.html",
+      "checked": "2026-09-12",
+      "supports": [
+        "Drainage class (Agricultural): poorly drained Index Surface Runoff: negligible Internal Free Water Occurrence: shallow, persistent"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "intent": "I live out toward Pireway on the Waccamaw and want an artificial lawn, a dog area or a putting green. Whose permit rule actually covers my yard, and how high does the river get out here?",
+  "distinctValue": "Pireway is not one place for permit purposes, and no other page on this site carries that split. The Census Bureau geocoder places the Pireway crossroads itself (-78.63779, 34.02712) in Bug Hill township, Columbus County, with no incorporated place, so Columbus County Code Chapter 10, Part 1 (Flood Damage Prevention Ordinance) is the governing rule there: a Floodplain Development Permit is required before development, defined to include filling, grading, paving and excavation, inside any Special Flood Hazard Area on the FIRM dated June 2, 2006. But the roads the NWS Freeland gauge names in its flood-impact statements are on the other side of the Waccamaw. The geocoder places Pireway Road NW at Horseshoe Road NW (-78.5866, 34.0122), a Rivergate Drive NW point (-78.6378, 34.0085), and the NC 904 river bridge (-78.6317, 34.0144) all in Brunswick County, Waccamaw township, ZCTA 28420 (Ash) -- not Columbus County. So a buyer on those named roads answers to Brunswick County's rules, which this site already covers in detail on the Ash page, not to the Columbus County ordinance. That county split, tied to gauge stages that name the actual roads, is the genuinely local, action-changing fact here. The NWS Freeland gauge (FREN7) flood statements name Pireway Road NW between Horseshoe Road NW and Rivergate Drive at stages 17, 18 and 19 ft, and its crest history (checked 12 September 2026) includes 22.67 ft on 2018-09-20, 19.3 ft in September 1999, 19 ft on 2016-10-12 and 17.45 ft on 2024-08-12. The Highway 904 gauge near Pireway itself (WRPN7) has no flood stages set. USDA soil data at the crossroads point shows Exum very fine sandy loam (moderately well drained, no flooding class, wet layer about two feet down) with a small Grantham inclusion, wet close to the surface. Not covered by any source here: which specific parcels sit inside a mapped Special Flood Hazard Area or floodway on either side of the river, whether a turf base finished at existing grade counts as fill for Columbus County, and whether Columbus County's draft Chapter 10 update has been adopted -- the page sends those to the county planning offices.",
+  "sources": [
+    {
+      "label": "Columbus County Code of Ordinances, Chapter 10 Planning & Zoning, Part 1 Flood Damage Prevention Ordinance (PDF chapter-10-11-18-25, linked as the current Chapter 10 on the county's Code of Ordinances page)",
+      "url": "https://www.columbusco.org/sites/default/files/uploads/ordinances/chapter-10-11-18-25.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "PART 1 - FLOOD DAMAGE PREVENTION ORDINANCE For Columbus County, North Carolina - Non-Coastal Regular Phase",
+        "Article 3, Section A: This ordinance shall apply to all Special Flood Hazard Areas within the jurisdiction of Columbus County and within the jurisdiction of any other community whose governing body agrees, by resolution, to such applicability.",
+        "Article 3, Section B: The Special Flood Hazard Areas are those identified under the Cooperating Technical State (CTS) agreement between the State of North Carolina and FEMA in its Flood Insurance Study (FIS) and its accompanying Flood Insurance Rate Maps (FIRM), for Columbus County dated June 2, 2006, which are adopted by reference and declared to be a part of this ordinance.",
+        "Article 3, Section C: A Floodplain Development Permit shall be required in conformance with the provisions of this ordinance prior to the commencement of any development activities within Special Flood Hazard Areas determined in accordance with Article 3, Section B of this ordinance.",
+        "Development means any man-made change to improved or unimproved real estate, including, but not limited to, buildings or other structures, mining, dredging, filling, grading, paving, excavation or drilling operations, or storage of equipment or materials.",
+        "Special Flood Hazard Area (SFHA) means the land in the floodplain subject to a one (1 %) percent or greater chance of being flooded in any given year, as determined in Article 3, Section B of this ordinance.",
+        "Floodway means the channel of a river or other watercourse and the adjacent land areas that must be reserved in order to discharge the base flood without cumulatively increasing the water surface elevation more than one (1) foot.",
+        "Article 4, Section A: The County Manager or Designee, hereinafter referred to as the. \"Floodplain Administrator\", is hereby appointed to administer and implement the provisions of this ordinance.",
+        "Article 4, Section B(1): Application for a Floodplain Development Permit shall be made to the floodplain administrator prior to any development activities located within Special Flood Hazard Areas. The following items shall be presented to the floodplain administrator to apply for a floodplain development permit: (a) A plot plan drawn to scale which shall include, but shall not be limited to, the following specific details of the proposed floodplain development: i) The nature, location, dimensions, and elevations of the area of",
+        "Article 4, Section B(2)(f): A statement that no fill material or other development shall encroach into the floodway or non-encroachment area of any watercourse, as applicable.",
+        "Article 4, Section C(2): Advise permittee that additional Federal or State permits (Wetlands, Endangered Species, Erosion and Sedimentation Control, Riparian Buffers, Mining, etc.) may be required",
+        "Article 4, Section C(10): Where interpretation is needed as to the exact location of boundaries of the Special Flood Hazard Areas (for example, where there appears to be a conflict between a mapped boundary and actual field conditions), make the necessary interpretation. The person contesting the location of the boundary shall be given a reasonable opportunity to appeal the interpretation as provided in this article.",
+        "Article 4, Section C(13): When the lowest ground elevation of a parcel or structure in a Special Flood Hazard Area is above the Base Flood Elevation, advise the property owner of the option to apply for a Letter of Map Amendment (LOMA) from FEMA.",
+        "Article 5, Section E(2): Until a regulatory floodway or non-encroachment area is designated, no encroachments, including fill, new construction, substantial improvements, or other development, shall be permitted unless certification with supporting technical data by a registered professional engineer is provided demonstrating that the cumulative effect of the proposed development, when combined with all other existing and anticipated development, will not increase the water surface elevation of the base flood more than one foot at any point within the community.",
+        "Article 5, Section F: The floodways and non-encroachment areas are extremely hazardous areas due to the velocity of floodwaters that have erosion potential and carry debris and potential projectiles.",
+        "Article 5, Section F(1): No encroachments, including fill, new construction, substantial improvements and other developments shall be permitted unless it has been demonstrated that: (a) The proposed encroachment would not result in any increase in the flood levels during the occurrence of the base flood, based on hydrologic and hydraulic analyses performed in accordance with standard engineering practice and presented to the floodplain administrator prior to issuance of floodplain development permit, or (b) A Conditional Letter of Map Revision (CLOMR) has been approved by FEMA."
+      ]
+    },
+    {
+      "label": "National Weather Service gauge data: Waccamaw River at Freeland (FREN7)",
+      "url": "https://api.water.noaa.gov/nwps/v1/gauges/FREN7",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"name\": \"Waccamaw River at Freeland\"; \"downstreamLid\": \"WRPN7\"",
+        "Flood categories: action stage 14, minor stage 15, moderate stage 18, major stage 19 (feet)",
+        "Impact at stage 17: Much of Pireway Road between Horseshoe Road NW and Rivergate Drive will be flooded as will Rivergate Drive.",
+        "Impact at stage 18: Ash-Little River RD at Wet Ash Swamp,Pireway RD between Horseshoe RD NW and Rivergate DR,and Rivergate DR itself may become impassable.",
+        "Impact at stage 19: Extensive flooding. Ash-Little River RD near Wet Ash Swamp,Pireway RD between Horseshoe RD NW and Rivergate DR and Rivergate DR itself will be impassable.",
+        "Historic crest: occurredTime 2018-09-20T04:00:00Z, stage 22.67",
+        "Historic crest: occurredTime 1999-09-21T01:00:00Z, stage 19.3",
+        "Historic crest: occurredTime 2016-10-12T20:30:00Z, stage 19",
+        "Historic crest: occurredTime 2024-08-12T14:15:00Z, stage 17.45"
+      ]
+    },
+    {
+      "label": "National Weather Service gauge data: Waccamaw River at Highway 904 near Pireway (WRPN7)",
+      "url": "https://api.water.noaa.gov/nwps/v1/gauges/WRPN7",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"name\": \"Waccamaw River at Highway 904 near Pireway\"; \"county\": \"Columbus\"",
+        "Flood categories: major, moderate, minor and action stages all -9999 (no flood stages set)"
+      ]
+    },
+    {
+      "label": "Columbus County Planning Department",
+      "url": "https://www.columbusco.org/planning-department",
+      "checked": "2026-09-12",
+      "supports": [
+        "Contact US Planning ... Planning Director 910-640-6608 ... 127 W. Webster St. Whiteville, NC 28472 (910) 640-6608",
+        "CHAPTER 10 Ordinance Updates 06-16-2026",
+        "Ordinance Update Memo PB 06-16-2026"
+      ]
+    },
+    {
+      "label": "Draft Chapter 10 comprehensive ordinance update memo to the Columbus County Planning Board, June 16, 2026",
+      "url": "https://www.columbusco.org/sites/default/files/uploads/planning/2026-06-16_ordinance-update-memo_pb.PDF",
+      "checked": "2026-09-12",
+      "supports": [
+        "To: Columbus County Planning Board ... Date: June 16, 2026 Re: Draft Chapter 10 – Comprehensive Ordinance Update",
+        "The attached draft of Chapter 10 represents a comprehensive review and update of the County's land use regulations, zoning provisions, and subdivision ordinance."
+      ]
+    },
+    {
+      "label": "USDA NRCS Soil Data Access (SSURGO point query at the Pireway crossroads, -78.63779, 34.02712, map unit 115642)",
+      "url": "https://sdmdataaccess.sc.egov.usda.gov/",
+      "checked": "2026-09-12",
+      "supports": [
+        "mukey 115642, muname: Exum very fine sandy loam, 0 to 2 percent slopes",
+        "Exum: comppct_r 90, drainagecl Moderately well drained, flooding frequency None, shallowest soil moisture status 'Wet' at 61 cm",
+        "Grantham: comppct_r 5, drainagecl Poorly drained, flooding frequency None, shallowest soil moisture status 'Wet' at 15 cm"
+      ]
+    },
+    {
+      "label": "U.S. Census Bureau geocoder: geographies at the Pireway crossroads point",
+      "url": "https://geocoding.geo.census.gov/geocoder/geographies/coordinates?x=-78.63779&y=34.02712&benchmark=Public_AR_Current&vintage=Current_Current&layers=all&format=json",
+      "checked": "2026-09-12",
+      "supports": [
+        "Counties: Columbus County",
+        "County Subdivisions: Bug Hill township",
+        "2020 Census ZIP Code Tabulation Areas: ZCTA5 28463",
+        "No Incorporated Places or Census Designated Places geography is returned for the point with layers=all"
+      ]
+    },
+    {
+      "label": "U.S. Census Bureau geocoder: geographies at Pireway Road NW / Horseshoe Road NW",
+      "url": "https://geocoding.geo.census.gov/geocoder/geographies/coordinates?x=-78.5866&y=34.0122&benchmark=Public_AR_Current&vintage=Current_Current&layers=all&format=json",
+      "checked": "2026-09-13",
+      "supports": [
+        "Counties: Brunswick County",
+        "County Subdivisions: Waccamaw township",
+        "No Incorporated Places geography is returned for the point with layers=all"
+      ]
+    },
+    {
+      "label": "U.S. Census Bureau geocoder: geographies at Rivergate Drive NW",
+      "url": "https://geocoding.geo.census.gov/geocoder/geographies/coordinates?x=-78.6378&y=34.0085&benchmark=Public_AR_Current&vintage=Current_Current&layers=all&format=json",
+      "checked": "2026-09-13",
+      "supports": [
+        "Counties: Brunswick County",
+        "County Subdivisions: Waccamaw township",
+        "No Incorporated Places geography is returned for the point with layers=all"
+      ]
+    },
+    {
+      "label": "U.S. Census Bureau geocoder: geographies at the NC 904 Waccamaw River bridge",
+      "url": "https://geocoding.geo.census.gov/geocoder/geographies/coordinates?x=-78.6317&y=34.0144&benchmark=Public_AR_Current&vintage=Current_Current&layers=all&format=json",
+      "checked": "2026-09-13",
+      "supports": [
+        "Counties: Brunswick County",
+        "County Subdivisions: Waccamaw township",
+        "2020 Census ZIP Code Tabulation Areas: ZCTA5 28420"
+      ]
+    },
+    {
+      "label": "USGS Geographic Names: Pireway",
+      "url": "https://carto.nationalmap.gov/arcgis/rest/services/geonames/MapServer/find?searchText=Pireway&contains=true&layers=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25&returnGeometry=true&f=json",
+      "checked": "2026-09-12",
+      "supports": [
+        "gaz_id 992409, gaz_name Pireway, gaz_featureclass Populated Place, state_alpha NC, county_name Columbus"
+      ]
+    }
+  ]
+}

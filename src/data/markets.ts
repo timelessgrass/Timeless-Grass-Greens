@@ -100,6 +100,34 @@ export const MARKETS: Market[] = [
     ],
     guides: [
       {
+        "slug": "north-carolina-hoa-turf-rules",
+        "anchor": "Plan an HOA submission on the North Carolina side"
+      },
+      {
+        "slug": "brunswick-and-horry-county-turf-permit-steps",
+        "anchor": "Follow the county permit steps in Brunswick and Horry"
+      },
+      {
+        "slug": "oceanfront-turf-cccl-and-beachfront-setback",
+        "anchor": "Check the beachfront setback line on an oceanfront lot"
+      },
+      {
+        "slug": "flood-zone-artificial-turf-permits",
+        "anchor": "Check a flood-zone lot before work starts"
+      },
+      {
+        "slug": "artificial-turf-over-a-septic-drainfield",
+        "anchor": "Keep turf clear of a septic drainfield"
+      },
+      {
+        "slug": "artificial-turf-in-the-right-of-way",
+        "anchor": "Ask before turfing the strip by the road"
+      },
+      {
+        "slug": "artificial-turf-for-kennels-and-dog-daycares",
+        "anchor": "Plan turf for a kennel or dog daycare"
+      },
+      {
         "slug": "is-artificial-turf-impervious",
         "anchor": "Check drainage and surface classification"
       },
@@ -173,6 +201,34 @@ export const MARKETS: Market[] = [
       }
     ],
     guides: [
+      {
+        "slug": "colorado-city-artificial-turf-codes",
+        "anchor": "Compare city turf codes across the metro"
+      },
+      {
+        "slug": "colorado-county-grading-permits-for-turf",
+        "anchor": "Check whether grading needs a county permit"
+      },
+      {
+        "slug": "colorado-wildfire-code-and-artificial-turf",
+        "anchor": "Plan turf near the house under wildfire codes"
+      },
+      {
+        "slug": "flood-zone-artificial-turf-permits",
+        "anchor": "Check floodplain rules for your lot"
+      },
+      {
+        "slug": "artificial-turf-over-a-septic-drainfield",
+        "anchor": "Plan turf over or near a septic field"
+      },
+      {
+        "slug": "artificial-turf-in-the-right-of-way",
+        "anchor": "Check the strip between sidewalk and street"
+      },
+      {
+        "slug": "artificial-turf-for-kennels-and-dog-daycares",
+        "anchor": "Surface a kennel or daycare yard"
+      },
       {
         "slug": "colorado-turf-law",
         "anchor": "Check the rules for the proposed turf use"
@@ -252,6 +308,34 @@ export const MARKETS: Market[] = [
       }
     ],
     guides: [
+      {
+        "slug": "northeast-florida-historic-district-turf-review",
+        "anchor": "Check historic-district review before changing a yard"
+      },
+      {
+        "slug": "northeast-florida-tree-rules-and-turf",
+        "anchor": "Protect the trees a turf layout has to work around"
+      },
+      {
+        "slug": "oceanfront-turf-cccl-and-beachfront-setback",
+        "anchor": "Check the coastal construction line on a beach lot"
+      },
+      {
+        "slug": "flood-zone-artificial-turf-permits",
+        "anchor": "Confirm what a flood-zone permit covers"
+      },
+      {
+        "slug": "artificial-turf-over-a-septic-drainfield",
+        "anchor": "Work around a septic drainfield"
+      },
+      {
+        "slug": "artificial-turf-in-the-right-of-way",
+        "anchor": "Ask the city about the right-of-way strip"
+      },
+      {
+        "slug": "artificial-turf-for-kennels-and-dog-daycares",
+        "anchor": "Choose turf for a boarding or daycare yard"
+      },
       {
         "slug": "florida-turf-infill-rules",
         "anchor": "Choose materials within Florida’s requirements"

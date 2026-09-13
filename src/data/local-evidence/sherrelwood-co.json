@@ -1,0 +1,158 @@
+{
+  "intent": "A Sherrelwood homeowner on Crestview water wants to know what the 1 October 2026 watering stop means for the lawn, whether Adams County's artificial-turf rule reaches an existing yard, and whether the county's 2027 code rewrite changes that.",
+  "distinctValue": "None of the neighbouring pages applies here: Thornton's rebate and permit, Northglenn's code section 11-4-7 and Stage 2 fines, and Westminster's landscape rules all belong to cities, and Sherrelwood is unincorporated. The page names the office that does apply: Crestview Water and Sanitation District, a Denver Water master-meter distributor bound by contract to Denver Water's restrictions. It sets out Denver Water Board Resolution #002a-2026, read from the scanned PDF Crestview posts: all grass watering prohibited after 30 September 2026, no grass establishment without a variance, hand or drip watering only for trees, shrubs and perennials, high-traffic grass only on an approved water budget or variance, and fines up to $2,000 for willful violations. It adds that the ban lasts until the board lifts it, so sprinklers stay off in spring 2027 pending a new resolution. It tells buyers to check the water bill, because Crestview calls its own boundary rough. For the county layer it quotes DSR 4-19-04-01 (no artificial turf as a landscape material; an alternative turf design request with drainage specifications to the Director of Community and Economic Development) and 4-19-02 (the rule reaches new development and change of use). It says plainly that the text doesn't name an existing yard, and tells the reader to ask the county in writing. It reports the 2026 rewrite (PRC2026-00016): hearings 22 October and 17 November 2026, comments until 2 October, effective 1 January 2027 if adopted. The updated draft Chapter 4 adds a functional-use test for artificial turf, and its applicability table lists adding landscaping to an existing site as a trigger, against text saying the division generally applies to new construction. That conflict is left as a question for the county. Soil comes from its own USDA Soil Data Access queries at points the Census Geocoder places inside Sherrelwood CDP: Platner and Ulm loams, 6 to 7 inches of loam over 40 to 45% clay with linear extensibility 7.3 to 7.5, and some shallow shale soils. That differs from the Northglenn page's soil figures. The page also cites Adams County Code Compliance's 12-inch grass and weed blight rule.",
+  "sources": [
+    {
+      "label": "Crestview Water & Sanitation District: Drought & Watering Restrictions",
+      "url": "https://www.crestviewwatercolorado.gov/drought-watering-restrictions",
+      "checked": "2026-09-12",
+      "supports": [
+        "EFFECTIVE OCTOBER 1, 2026, NO OUTDOOR WATERING IS ALLOWED. FINES FOR OUTDOOR WATERING WILL BE APPLIED. Denver Water's Board of Water Commissioners has issued this Resolution. Please read below.",
+        "October 1, 2026 Watering Restrictions Resolution.pdf",
+        "On April 8, 2026 the Crestview Board of Directors created DROUGHT RATES (effective May 1, 2026) due to the new DROUGHT RATES being imposed by Denver Water.",
+        "Denver Water has issued Drought Watering Restrictions effective March 25, 2026.",
+        "By contract, Crestview Water and its customers are required to follow Denver Water's watering restrictions.",
+        "Effective immediately, customers in single-family residential properties may water no more than two days per week and must follow a set schedule:",
+        "Addresses ending in even numbers can only water on: Sunday and Thursday.",
+        "Addresses ending in odd numbers can oly water on: Wednesday and Saturday.",
+        "All other customers, including multi-family properties, commercial properties, HOA's and government properties, can only water on Tuesdays and Fridays.",
+        "Water only during cooler times of the day, between 6PM and 10AM",
+        "Denver Water and Crestview Water are developing plans for enforcement of watering restrictions",
+        "7145 Mariposa St., Denver CO 80221"
+      ]
+    },
+    {
+      "label": "Denver Water Board Resolution #002a-2026, amending Resolution #002-2026 declaring a Stage 1 drought, adopted 26 August 2026 (5-page scanned PDF posted by Crestview Water; text read by OCR)",
+      "url": "https://www.crestviewwatercolorado.gov/files/dee7315b4/October+1%2C+2026+Watering+Restrictions+Resolution.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "Board Resolution #002a-2026",
+        "TITLE: BOARD RESOLUTION AMENDING RESOLUTION #002-2026, DECLARING A STAGE 1 DROUGHT",
+        "ADOPTED AND APPROVED ON AUGUST 26, 2026 BY THE CITY AND COUNTY OF DENVER ACTING BY AND THROUGH ITS BOARD OF WATER COMMISSIONERS",
+        "a further drought response must be implemented requiring everyone who receives the Board's water (inside and outside Denver, inside and outside the Combined Service Area, and lessees who receive nonpotable water and potable water under fixed-amount contracts) to reduce water use",
+        "Grass Watering Restrictions. Watering of all grass is prohibited after September 30, 2026, unless one of the following written exceptions apply.",
+        "High Traffic, Active Use Areas. High-traffic, active-use grass areas (e.g., public parks, school grounds, athletic and playing fields, tee boxes, greens) may only be watered after September 30 pursuant to a Denver Water-approved water budget or variance.",
+        "Grass Establishment Variance. Grass establishment is not allowed after September 30 except under special circumstances pursuant to an approved variance. Variances may consider factors such as plant type, area of disturbance, need, time of year, soil type, irrigation type, and other relevant factors",
+        "Irrigation of Trees, Shrubs and Perennials. Trees, shrubs, and perennials may not be watered by spray irrigation, but may continue to be watered any day by means of a hand-held hose with an automatic shutoff nozzle or low-volume non-spray irrigation.",
+        "Compliance: Grass watering after September 30 is an unauthorized use of water and a willful violation of the water use restrictions and Operating Rules. Willful violations are subject to all applicable enforcement provisions and penalties under the Operating Rules (as they exist now or may be modified in the future) and applicable licenses and contracts, including fines up to $2,000, installation of a flow restrictor, suspension of service, and revocation of the tap license.",
+        "Board Resolution #002a-2026 becomes effective on October 1, 2026, through and until further action of the Board."
+      ]
+    },
+    {
+      "label": "Denver Water TAP: As drought conditions worsen, Denver Board of Water Commissioners declares formal end to lawn watering season Oct. 1 (26 August 2026)",
+      "url": "https://www.denverwater.org/tap/drought-conditions-worsen-denver-board-water-commissioners-declares-formal-end-lawn-watering",
+      "checked": "2026-09-12",
+      "supports": [
+        "August 26, 2026 | By: TAP Staff",
+        "the Denver Board of Water Commissioners amended its Stage 1 drought resolution to prohibit lawn watering as of Oct. 1 .",
+        "Until that time, Denver Water customers are still required to follow mandatory watering restrictions of two assigned days per week through Sept. 30, per the current Stage 1 drought restrictions that remain in place.",
+        "Lawn watering and all spray irrigation must stop after Sept. 30, 2026, as part of an amendment to the Stage 1 drought declaration originally approved March 25.",
+        "Grass establishment is not allowed after Sept. 30, except under special circumstances outlined under an approved variance.",
+        "In addition, the lawn watering ban remains in effect until the board determines how and when lawn watering can resume. That means sprinklers need to remain off in spring of 2027, pending an official resolution from the Board of Water Commissioners."
+      ]
+    },
+    {
+      "label": "Denver Water: distributors",
+      "url": "https://www.denverwater.org/about-us/how-we-operate/service-area/distributors",
+      "checked": "2026-09-12",
+      "supports": [
+        "Master Meter — A Master Meter distributor owns and is responsible for construction, operation, maintenance, and replacement of its water system. Denver Water delivers water to the distributor through one or more master meters and bills the distributor at the established “Wholesale (Master Meter)” rate. The Distributor, not Denver Water, is responsible for reading the meters of its individual customers and for billing its individual customers according to rate schedules established by the Distributor.",
+        "Master Meter Distributors | Alameda Water and Sanitation District | Bancroft-Clover Water and Sanitation District | Bonvue Water and Sanitation District | Bow Mar Water and Sanitation District | Cherry Creek Valley Water and Sanitation District | Cherry Creek Village Water District | Crestview Water and Sanitation District | Main: 303-429-1881 | ... North Pecos Water and Sanitation District | ... Willowbrook Water and Sanitation District"
+      ]
+    },
+    {
+      "label": "Crestview Water & Sanitation District: Boundary Map",
+      "url": "https://www.crestviewwatercolorado.gov/boundary-map",
+      "checked": "2026-09-12",
+      "supports": [
+        "A photo of a map showing Crestview's boundaries. They are roughly, Tennyson Street on the west to I-25 on the east then 56th avenue on the south to Sherrylwood Lane on the north."
+      ]
+    },
+    {
+      "label": "Crestview Water & Sanitation District: Residential Rebates",
+      "url": "https://www.crestviewwatercolorado.gov/residential-rebates",
+      "checked": "2026-09-12",
+      "supports": [
+        "Denver Water processes all of the water related fixture rebates for Crestview Water and Sanitation District Customers.",
+        "Click here to visit Denver Water’s rebate page ."
+      ]
+    },
+    {
+      "label": "Adams County Development Standards and Regulations, Chapter 4, Design Requirements and Performance Standards (dated October 1, 2024; PDF)",
+      "url": "https://adamscountyco.gov/wp-content/uploads/2025/08/dsr-chapter-04.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "4‐19‐02 APPLICABILITY Development which satisfies one (1) of the following criteria shall be exempt from this section: 1. Agricultural uses. 2. Submitted or approved plans, building permits and/or development existing prior to the effective date of this Section shall comply with the regulations which were in effect at the time of approval.",
+        "The provisions of this article shall apply to development, which meets one (1) of the following and is not exempt: 1. All new development which has not applied for a building permit before the effective date of this Section; or 2. Existing development which requires a change in use permit as determined within the Change in Use Section of Chapter 4.",
+        "4‐19‐04‐01 LANDSCAPE MATERIALS ... No artificial trees, plants, or turf shall be used as a landscape material. If an applicant is interested in using artificial turf in their development, they shall meet the minimum standards for required plant materials and submit a request for an alternative turf design with drainage specifications to the Director of Community and Economic Development.",
+        "4‐02‐01 CHANGE IN USE A change in use of property occurs whenever the essential character or nature of the activity conducted on a lot changes. All changes in use require zoning review and building permit approval. A change in use is required when: 1. Active and continuous operations are not carried on in a building or property during a continuous period of six (6) months. 2. The change is from one principally permitted use category to another.",
+        "4‐19‐09‐01‐01 SINGLE FAMILY DWELLING LANDSCAPING 1. Front and Side Setbacks: The entire front and side setbacks shall be landscaped, except for driveways. 2. Back Yard Setback: A minimum thirty percent (30%) of the back yard shall be landscaped."
+      ]
+    },
+    {
+      "label": "Adams County (PublicInput): Development Standards & Regulations Draft, case PRC2026-00016",
+      "url": "https://publicinput.com/j80053",
+      "checked": "2026-09-12",
+      "supports": [
+        "Planning Commission/Board of County Commissioners Study Session : Monday Sept 21, 2026 @ 5:30 PM in Adams County Government Center Brantner Gulch A",
+        "Planning Commission Hearing: Thursday, October 22, 2026 @ 6:00 PM in Adams County Government Center hearing room",
+        "Board of County Commissioners: Tuesday, November 17, 2026 @ 9:30 AM in Adams County Government Center hearing room",
+        "If adopted, start date of new regs : January 1, 2027",
+        "The public is invited to give spoken comment at the Planning Commission and Board of County Commissioners Hearings.",
+        "Please note the case number for this project: PRC2026-00016 . If you wish to give written comment on this project, you may email those comments to ... until October 2, 2026.",
+        "For question/concerns/comment on the project, call or email ... at (720) 523-6949",
+        "Chapter 4 - General Development Standards These are general use standards that apply to most development (parking, landscaping, signs, etc.)"
+      ]
+    },
+    {
+      "label": "Adams County: DRAFT Development Standards and Regulations, Chapter 4 General Development Standards (file \"Chapter 4_9-11.pdf\" on the PublicInput project page)",
+      "url": "https://publicinput.com/Customer/File/Full/e40b4904-fb03-43e3-a1e2-576485de1223",
+      "checked": "2026-09-12",
+      "supports": [
+        "4-01-02 Applicability A. Generally. The standards of this Chapter apply to new development, redevelopment, substantial improvement, and expansions of uses, sites, and buildings, as shown in Table 4-01-02-1, Development Standards Applicability ... For example, Div. 4-04, Landscaping and Buffering, generally applies to new construction; however, some provisions of the Division apply to nonresidential development that do not apply to all residential types of development.",
+        "Table 4-01-02-1, Development Standards Applicability: \"Establishment of new landscaping, buffering, or screening or adding additional landscaping, buffering, or screening to an existing site\" is marked ♦ (Section Applies) under Div. 4-04, Landscaping and Buffering, and -- under the other divisions.",
+        "1. Landscape Materials. No artificial trees, plants, or turfgrass shall be used as a landscape material. If an applicant is interested in using artificial turf in their development, they shall meet the minimum standards for required plant materials, demonstrate a functional use for the artificial turf, and submit a request for an alternative turf design with drainage specifications to the Director of Community and Economic Development.",
+        "2. Nonfunctional Turfgrass, Nonfunctional Artificial Turf, and Invasive Plant Species. a. No person shall install, plant, or place, or allow any person to install, plant, or place, any nonfunctional turfgrass, nonfunctional artificial turf, or invasive plant species, as part of a new development project or redevelopment project, on any portion of applicable property.",
+        "(3) For purposes of this prohibition, “applicable property” means: (A) Commercial, institutional, or industrial property as defined in C.R.S. § 37-60-135(2)(b); (B) Common interest community property as defined in C.R.S. § 38-33.3-103(8); or (C) A street right-of-way, parking lot, median, or transportation corridor.",
+        "b. On and after January 1, 2028, no person shall install, plant, or place, or allow a person to install, plant, or place, any nonfunctional turfgrass, nonfunctional artificial turf, or invasive plant species, as part of a new development project or redevelopment project, on any portion of applicable property. ... (D) A multifamily residential housing premises property that includes more than twelve dwelling units."
+      ]
+    },
+    {
+      "label": "Adams County: Code Compliance",
+      "url": "https://adamscountyco.gov/our-county/community-safety-wellbeing/neighborhood-services/code-compliance/",
+      "checked": "2026-09-12",
+      "supports": [
+        "Blight : Environmental blight includes rubbish, junk, trash, garbage, and debris; tall, overgrown grass, weeds and brush (12inches); cast-off material such as scrap metal, plastic, wood, appliances, machinery, and auto parts stored outdoors",
+        "Adams County Code Compliance can investigate potential code-compliance violations such as overgrown weeds, trash, junk, and inoperable vehicles in unincorporated Adams County.",
+        "Ph: 720.523.2792, #2"
+      ]
+    },
+    {
+      "label": "USDA NRCS Soil Data Access (SSURGO), point queries run 2026-09-12 (SDA_Get_Mukey_from_intersection_with_WktWgs84, major components, horizons)",
+      "url": "https://sdmdataaccess.sc.egov.usda.gov/",
+      "checked": "2026-09-12",
+      "supports": [
+        "point(-105.0150 39.8420) [Census Geocoder: Sherrelwood CDP]: Platner loam, 0 to 3 percent slopes; Platner 85%; Fine, smectitic, mesic Aridic Paleustolls; Well drained. Horizons (depth cm, clay %, LEP, Ksat um/s): 0-15, 19, 2, 9.17 | 15-28, 40, 7.3, 0.915 | 28-51, 40, 7.3, 0.915 | 51-69, 26.5, 1.3, 9.17 | 69-94, 20, 0.9, 9.17",
+        "point(-105.0010 39.8430) [Census Geocoder: Sherrelwood CDP]: Platner loam, 0 to 3 percent slopes; same horizons: 0-15, 19, 2, 9.17 | 15-28, 40, 7.3, 0.915 | 28-51, 40, 7.3, 0.915",
+        "point(-105.0100 39.8360) [Census Geocoder: Sherrelwood CDP]: Platner loam, 3 to 5 percent slopes; Platner 85%; Fine, smectitic, mesic Aridic Paleustolls. Horizons: 0-15, 19, 2, 28.225 | 15-28, 40, 7.3, 0.915 | 28-51, 40, 7.3, 0.915 | 51-69, 27.5, 1.5, 2.82",
+        "point(-105.0240 39.8380) and point(-105.0050 39.8450) [the first confirmed Sherrelwood CDP by Census Geocoder; the second geocoder call returned no response]: Ulm loam, 3 to 5 percent slopes; Ulm 80%; Fine, montmorillonitic, mesic Ustollic Haplargids; Well drained. Horizons: 0-18, 23.5, 1.5, 9 | 18-33, 45, 7.5, 1 | 33-76, 45, 7.5, 1 | 76-122, 33.5, 1.5, 21",
+        "point(-105.0000 39.8350) [Census Geocoder: Sherrelwood CDP]: Samsil-Shingle complex, 3 to 35 percent slopes; Samsil 40% (Clayey, montmorillonitic (calcareous), mesic, shallow Ustic Torriorthents), Shingle 35% (Loamy, mixed (calcareous), mesic, shallow Ustic Torriorthents)",
+        "point(-104.9950 39.8400) [Census Geocoder: Sherrelwood CDP]: Gravelly land-Shale outcrop complex; Gravelly land 65%, Shale outcrop 35%",
+        "Conversions used on the page: 15 cm is about 6 inches and 18 cm about 7 inches (the loam above the clay). Clay layer Ksat 0.915 against topsoil 9.17 (Platner) and 1 against 9 (Ulm) is about one tenth. Clay layer 40% (Platner) and 45% (Ulm); LEP 7.3 (Platner) and 7.5 (Ulm)."
+      ]
+    },
+    {
+      "label": "U.S. Census Bureau Geocoder, geographies by coordinates (Public_AR_Current / Current_Current), run 2026-09-12",
+      "url": "https://geocoding.geo.census.gov/geocoder/",
+      "checked": "2026-09-12",
+      "supports": [
+        "-105.0150, 39.8420: Census Designated Places: Sherrelwood CDP; Counties: Adams County",
+        "-105.0240, 39.8380: Census Designated Places: Sherrelwood CDP; Counties: Adams County",
+        "-104.9950, 39.8400: Census Designated Places: Sherrelwood CDP; Counties: Adams County",
+        "-105.0060, 39.8290: Census Designated Places: Twin Lakes CDP; Counties: Adams County",
+        "-105.0070, 39.8530: Incorporated Places: Federal Heights city; Counties: Adams County",
+        "-105.0250, 39.8470: Incorporated Places: Westminster city; Counties: Adams County"
+      ]
+    }
+  ]
+}

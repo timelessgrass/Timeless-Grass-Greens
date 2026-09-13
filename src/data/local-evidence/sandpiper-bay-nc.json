@@ -1,0 +1,50 @@
+{
+  "intent": "Lead with Sandpiper Bay's recorded covenant that bans 'artificial vegetation' on any lot exterior (Article II, Section 25) and its separate outright ban on fences, dog houses, animal pens and animal runs (New Section 4). Neither document defines whether synthetic turf counts as artificial vegetation, so the page tells homeowners to get the ARC's written answer before paying for a design, and to plan pet turf without a fenced run since fences are banned outright regardless of pet use.",
+  "distinctValue": "No other Grand Strand town page carries a recorded, resident-facing covenant that flatly bans 'artificial vegetation' and separately bans all fences and animal runs with no pet exception. This is the most decision-changing local rule found for this community and is unique to Sandpiper Bay among published pages.",
+  "sources": [
+    {
+      "label": "Sandpiper Bay HOA: Final Revised Covenants (revised May 2, 2016)",
+      "url": "https://sandpiperbayhoa.com/wp-content/uploads/2019/09/FINAL-REVISED-COVENANTS.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "Article II, Section 25: 'No artificial vegetation shall be permitted on the exterior of any portion of the Subdivision. Exterior sculpture, fountains, flags, and similar items are subject to Association or ARC's prior approval, provided, however, that nothing contained herein shall prohibit the appropriate display of the American flag.'",
+        "Article II, New Section 4: 'Fences, Walls, Above Ground Pools and Animal Pens and Runs. No fences, walls, above ground pools, dog houses, animal pens or animal runs shall be constructed on any Lot. No hedge, shrubbery or vegetation of any kind shall be grown or placed in the form of a fence or wall on any Lot except used as a privacy screen according to ARC Guidelines.'",
+        "Article VIII, Section 1: the ARC 'shall have exclusive jurisdiction over all construction on any portion of the Subdivision,' a term that includes 'plantings or removal of plants, trees, or shrubs.'",
+        "Article VIII, Section 2: 'In the event the ARC fails to approve or disapprove any request within sixty (60) days after complete plans and specifications have been submitted to it, the same shall be deemed approved... Refusal of approval of plans, specifications, and plot plans or any of them may be based on any grounds, including purely aesthetic grounds, which in the sole and uncontrolled discretion of the ARC may seem sufficient. Any change in exterior appearance of any building, wall, fence or other structural improvements, and any change in the appearance of the landscaping, shall be deemed an alteration requiring approval.'",
+        "Article II, Section 24 (Drainage): 'No Owner shall modify, change, channel or direct drainage water onto a neighboring Lot, Common Area or the Golf Course except in accordance with a drainage plan approved by the Association and the ARC and in the case of drainage onto the Golf Course, the owner of the Golf Course.'",
+        "Exhibit A: the Declaration covers 'Lots 1 through 70 (inclusive) on Map of Sandpiper Bay Golf Plantation PUD, Lots 1-21 & Lots 56-70, Phase 1' and 'Lots 22-55, Phase 1', per plats recorded in Brunswick County Map Cabinet 21, pages 77-78.",
+        "Exhibit B setbacks: 'Lots abutting golf course: no less than thirty (30') feet for residences and twenty (20') feet for patios, decks, pools, swimming pool enclosures, and jacuzzis'; 'Lots not abutting golf course: no less than twenty (20') feet for residences, patios, decks, pools, swimming pool enclosures, and Jacuzzis' with the corresponding fence-setback figures struck through in the recorded copy."
+      ]
+    },
+    {
+      "label": "Sandpiper Bay HOA: Covenants, Plain English Version (February 23, 2026)",
+      "url": "https://sandpiperbayhoa.com/wp-content/uploads/2026/02/Sandpiper-Bay-Covenants-Plain-English-Rev1.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "Dated 'February 23, 2026' on every page.",
+        "'What's Not Allowed' list includes: 'Artificial plants outdoors'.",
+        "'Community's Origin' list includes: 'No sheds, barns, workshops, treehouses, or detached storage buildings' and 'No above-ground pools'.",
+        "'You MUST Get Approval Before You' list includes: 'Install privacy screens, walls, enclosures, sculptures, fountains, or exterior features. Approval comes from the Architectural Review Committee (ARC), and they can reject plans for aesthetic reasons alone.'"
+      ]
+    },
+    {
+      "label": "Sandpiper Bay HOA: Proposed Amendment to Declaration re: ARC, written ballot (October 21, 2020)",
+      "url": "https://sandpiperbayhoa.com/wp-content/uploads/2020/10/Written-Ballot-Sandpiper-Bay-Amendment-to-Declaration-re-ARC2.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "Cover letter dated October 21, 2020 proposes replacing Article VIII in its entirety; ballots were due 'no event any later than January 31, 2021'; required 'an affirmative vote of sixty-seven percent (67%) of the total Members to approve.'",
+        "Proposed new Article VIII, Section 4(c)-(e): ARC gives the Board a recommendation within 30 days of a complete application; Board has 15 days to approve, disapprove or modify; ARC then advises the applicant within 60 days of the complete application.",
+        "Page 5 header: 'CURRENT DECLARATION LANGUAGE REVISED AND ADOPTED JUNE 2016' followed by the same 60-day/aesthetic-discretion Article VIII text found in the Final Revised Covenants PDF, confirming that text was still the operative language as of this 2020 mailing.",
+        "No page in this document confirms the amendment passed the required 67% vote; it is presented here only as evidence of what the 'current' (2016) Article VIII language was as of October 2020."
+      ]
+    },
+    {
+      "label": "Town of Sunset Beach: Mosquito spraying schedule",
+      "url": "https://sunsetbeachnc.gov/index.asp?DE=A7601380-D3C4-427E-B03E-DE3295BF00F3&SEC=01618413-240B-4A04-AFAC-7F6F705F1D0D",
+      "checked": "2026-09-12",
+      "supports": [
+        "Neighborhood spraying schedule lists 'Monday- Cape Side, Sandpiper Bay, Wyndfall', confirming Sandpiper Bay is a neighborhood served directly by the Town of Sunset Beach."
+      ]
+    }
+  ]
+}

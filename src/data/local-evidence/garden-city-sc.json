@@ -1,0 +1,105 @@
+{
+  "intent": "Before artificial turf and its base go into a Garden City, SC yard, does the state's beachfront law reach the work, and which county's office answers for the rest?",
+  "distinctValue": "Garden City's oceanfront lots sit against South Carolina's beach and dune critical area, which runs from mean high water to the state setback line (SC Code 48-39-10(J)(4), 48-39-270(5)). Section 48-39-130(C) bars filling, removing, dredging, draining or in any way altering a critical area without a state permit, and 48-39-130(C) also lets anyone ask the department for an exemption determination within forty-five days. Section 48-39-290(A)(5) allows normal landscaping seaward of the baseline, but the same subsection says a permit must be obtained for items (2) through (8). The regulations close the question the brief left open: R.30-15(E) says normal landscaping requires a Department permit under R.30-13(F), and R.30-13(F) sets the terms for landscaping, earthmoving and fill anywhere in the beach/dune critical areas (a written-approved comprehensive landscaping plan, no retaining wall below existing grade, no beach sand as backfill, no disturbing frontal-dune native plants, runoff containment, no altering primary dunes or working on active beach, local compliance). The Chapter 30 editor's note and R.30-1 confirm the permitting office is now the SCDES Bureau of Coastal Management (formerly OCRM) after Act 60 of 2023, effective July 1, 2024. The SC Coastal Information Network page (posted March 30, 2026) says exact line positions need a property-specific survey and that coordinates have not changed since October 2017. The second local point is the county line: Horry County's Garden City Height Overlay (Sec. 723.2) runs from Surfside Beach to the Horry/Georgetown line and only caps building height at 35 feet; south of the line, Georgetown County's Waccamaw Neck tree overlay (Sec. 1303) and its impervious-area stormwater fee apply. The WMBF report of March 31, 2026 places the southern limit of federal renourishment at about 1303 South Waccamaw Drive, which is why the beach-sand backfill rule is practical on the south end. No other Grand Strand town page carries the beachfront statute, the R.30-13(F) conditions or the Georgetown County rules. What stays unsettled: the law does not say whether a turf lawn over a stone base is 'normal landscaping', so the page tells the reader to ask the Bureau of Coastal Management; the state's Garden City Beach line report and the DES jurisdictional-lines page returned 403 from this network and are not cited; the exact block where the county line crosses the beach is not claimed.",
+  "sources": [
+    {
+      "label": "South Carolina Code of Laws, Title 48, Chapter 39",
+      "url": "https://www.scstatehouse.gov/code/t48c039.php",
+      "checked": "2026-09-12",
+      "supports": [
+        "SECTION 48-39-10. Definitions. (G) \"Tidelands\" means all areas which are at or below mean high tide and coastal wetlands, mudflats, and similar areas that are contiguous or adjacent to coastal waters and are an integral part of the estuarine systems involved. Coastal wetlands include marshes, mudflats, and shallows ...",
+        "SECTION 48-39-10. (J) \"Critical area\" means any of the following: (1) coastal waters; (2) tidelands; (3) beaches; (4) beach/dune system which is the area from the mean high-water mark to the setback line as determined in Section 48-39-280.",
+        "SECTION 48-39-130. (C) Ninety days after July 1, 1977 no person shall fill, remove, dredge, drain or erect any structure on or in any way alter any critical area without first obtaining a permit from the department. ... Any person may request the department to review any project or activity to determine if he is exempt under this section from the provisions of this chapter. The department shall make such determinations within forty-five days from the receipt of any such request.",
+        "SECTION 48-39-270. (5) The beach/dune system includes all land from the mean highwater mark of the Atlantic Ocean landward to the setback line described in Section 48-39-280.",
+        "SECTION 48-39-270. (13) Active beach is that area seaward of the escarpment or the first line of stable natural vegetation, whichever first occurs, measured from the ocean.",
+        "SECTION 48-39-280. (A)(1) The baseline for each standard erosion zone is established at the location of the crest of the primary oceanfront sand dune in that zone.",
+        "SECTION 48-39-280. (A)(2) The baseline for inlet erosion zones that are not stabilized by jetties, terminal groins, or other structures must be determined by the department as the most landward point of erosion at any time during the past forty years ...",
+        "SECTION 48-39-280. (B) ... a setback line must be established landward of the baseline a distance which is forty times the average annual erosion rate or not less than twenty feet from the baseline for each erosion zone ...",
+        "SECTION 48-39-280. (C) ... The baselines and setback lines must be established anew during establishment cycles that are not less than every seven years, but not more than every ten years following a previous establishment cycle ...",
+        "SECTION 48-39-290. (A) No new construction or reconstruction is allowed seaward of the baseline except: ... (5) normal landscaping, sandfencing, revegetation of dunes, minor beach renourishment, and dune construction; ...",
+        "SECTION 48-39-290. (A) ... A permit must be obtained from the department for items (2) through (8)."
+      ]
+    },
+    {
+      "label": "South Carolina Code of Regulations, Chapter 30, Department of Environmental Services, Coastal Division",
+      "url": "https://www.scstatehouse.gov/coderegs/Chapter%2030.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "Editor's Note: 2023 Act No. 60 (S.399) abolished the South Carolina Department of Health and Environmental Control and created the South Carolina Department of Environmental Services and the South Carolina Department of Public Health, effective July 1, 2024.",
+        "30-1(A)(1): In 2024, state government restructuring associated with Act 60 of 2023 established the South Carolina Department of Environmental Services (SCDES). The Office of Ocean and Coastal Resource Management became the Bureau of Coastal Management (BCM).",
+        "30-13. Specific Project Standards for Beaches and the Beach/Dune System. F. Landscaping, Earthmoving, and Fill for Landscaping: Within the beaches and/or beach/dune system critical areas, the installation of materials and associated amenities, moving of earth and placing of fill to accomplish these installations are allowed provided all of the following requirements are met:",
+        "30-13(F): (1) A comprehensive landscaping plan is submitted to and approved in writing by the Department; (2) The construction of a retaining wall which extends below existing grade will not be allowed; (3) No sand from the beach shall be used as backfill;",
+        "30-13(F): (4) No native plant material growing on the frontal dunes may be disturbed unless it can be demonstrated that the condition of the dune will be improved; (5) Only native salt tolerant plant species may be planted on dunes and shall be approved by the Department staff;",
+        "30-13(F): (6) Adequate measures shall be taken to contain fill and irrigation runoff; (7) Construction shall not alter or impact existing primary oceanfront sand dunes and shall not occur on active beach; and (8) All work shall be in compliance with applicable local ordinances.",
+        "30-15. Activities Allowed Seaward of Baseline. E. Normal Landscaping: Normal landscaping requires a Department permit pursuant to the criteria set forth in R.30-13(F)."
+      ]
+    },
+    {
+      "label": "South Carolina Coastal Information Network: S.C. Beachfront Jurisdictional Lines",
+      "url": "https://www.sccoastalinfo.org/resources/sc-beachfront-jurisdictional-lines/",
+      "checked": "2026-09-12",
+      "supports": [
+        "The South Carolina Department of Environmental Services Bureau of Coastal Management (BCM) is required by law to establish and periodically review the position of two lines of beachfront jurisdiction (the baseline and the setback line) once every seven to ten years. This application allows the public to view and download the current and proposed jurisdictional lines, and line reports.",
+        "Jurisdictional lines and base map imagery are provided for reference purposes only. In order to determine the exact position of jurisdictional lines for a given property, coordinates must be downloaded and a property-specific survey must be performed.",
+        "However, the coordinates of the current and proposed jurisdictional baseline and setback line have not changed since initial release in October 2017.",
+        "Posted March 30, 2026. Links to https://gis.des.sc.gov/shoreline/"
+      ]
+    },
+    {
+      "label": "Horry County Zoning Ordinance, Sec. 723.2 Garden City Height Overlay Zone",
+      "url": "https://horrycounty-sc.elaws.us/code/coor_apxb_artvii_723",
+      "checked": "2026-09-12",
+      "supports": [
+        "The Garden City Height Overlay is established to impose a height restriction on all new construction in the area to prevent over development and development that is incompatible with the character of the area.",
+        "The Garden City Height Overlay shall begin at the southeastern city limit line of Surfside Beach and shall terminate at the Horry County/Georgetown County Line.",
+        "The height of all new construction within the Garden City Height Overlay shall not exceed thirty-five (35') feet, except those areas designated on the attached map, or unless rezoned as a Planned Development District (PDD). A height of up to one hundred eighty (180') feet may be approved in a PDD."
+      ]
+    },
+    {
+      "label": "Georgetown County Zoning Ordinance, Article XIII Tree Regulations (Amended Ord. 23-24)",
+      "url": "https://www.gtcountysc.gov/DocumentCenter/View/1346/ARTICLE-13-Tree-Regulations-PDF",
+      "checked": "2026-09-12",
+      "supports": [
+        "1300.6 Diameter Breast Height (DBH). The diameter in inches of a tree's trunk measured in inches at a height of 4.5 feet above existing grade (base of the tree).",
+        "1300.14 Removal or Damage of a Tree. Any activity that injures or jeopardizes the growth and sustainability of a tree, including without limitation cutting down, digging up, pushing over, burning, poisoning, grading, topping or cutting.",
+        "1300.20 Tree Protection Zone. The area around the base of a tree equal in feet to the DBH of the tree, e.g., a tree with DBH of fifteen (15) inches shall have a Tree Protection Zone of fifteen (15) feet. Except that in instances where the edge of the canopy extends further than the feet established by the DBH, the edge of the canopy shall establish the tree protection zone.",
+        "1303. URBAN AREA TREE OVERLAY REGULATIONS (i.e. WACCAMAW NECK). ... The urban area is defined as the Waccamaw Neck which is between the Horry County boundary, the Waccamaw River and the Ocean.",
+        "1303.1 Protected Trees. All trees of at least ten (10) inches DBH, except for Palmetto (Sabal palmetto), Bradford Pear (Pyrus calleryana), Pecan Trees (Carya illinoinensis), Pine Trees (other than Longleaf/Pinus palustris), Sweet Gums (Liquidambar styraciflua), Crepe Myrtles (Lagerstroemia indica) and Wax Myrtles (Myrica cerfera) are protected in this overlay. Longleaf Pine Trees of at least fifteen (15) inches DBH are only protected on non-single family parcels.",
+        "1303.2 Occupied Single Family Residential Requirements. All occupied single family parcels as defined in Article III of this ordinance are exempt from tree replacement found in Section 1301 of this Article. No person shall remove or damage a Protected or Grand Tree without an approved tree removal permit from the County issued based on the standards found in Section 1303.4.1.",
+        "1301.1 ... No protected tree may be damaged or removed so as to jeopardize, prevent or stop its growth, unless a permit has been obtained from the Georgetown County Planning and Code Enforcement Department."
+      ]
+    },
+    {
+      "label": "Georgetown County: Stormwater rates and fees FAQ",
+      "url": "https://www.gtcountysc.gov/faq.aspx?TID=57",
+      "checked": "2026-09-12",
+      "supports": [
+        "Every property in Georgetown County with 400 square feet of impervious area or more will pay a stormwater user fee.",
+        "An ERU is a measure of the amount of impervious surface on a property. One ERU is equal to 3,770 square feet of impervious area.",
+        "The impervious area consists of houses, buildings and other structures; driveways, patios, parking lots, and other manmade surfaces that do not allow precipitation to infiltrate into the ground.",
+        "The stormwater user fee is billed once a year. Property owners will see the new fee on their tax bills."
+      ]
+    },
+    {
+      "label": "WMBF: Portion of Garden City beach excluded from federal renourishment project",
+      "url": "https://www.wmbfnews.com/2026/03/31/garden-city-beach-excluded-federal-renourishment-project/",
+      "checked": "2026-09-12",
+      "supports": [
+        "By Katherine Schreiner. Published: Mar. 31, 2026 at 5:54 PM EDT | Updated: Apr. 1, 2026 at 10:49 AM EDT",
+        "Garden City residents have been speaking out about a lack of dunes and erosion seen throughout the beach after storms like Hurricane Ian and others.",
+        "The USACE said it is unable to bring the renourishment to the southern tip of Garden City beaches because the project is based on a feasibility study done in the 1990s.",
+        "The USACE said that while the southern tip of Garden City — the sections of beach south of 1303 South Waccamaw Drive — is not included in the renourishment, crews will place sand from the southern edge of Myrtle Beach State Park to about 1303 South Waccamaw Drive, which includes sections of Surfside Beach and Garden City."
+      ]
+    },
+    {
+      "label": "Wikipedia: Garden City, South Carolina",
+      "url": "https://en.wikipedia.org/wiki/Garden_City,_South_Carolina",
+      "checked": "2026-09-12",
+      "supports": [
+        "Garden City, sometimes known as Garden City Beach, is a census-designated place (CDP) in Horry County, South Carolina, United States.",
+        "The developed part of the beach extends south beyond the limits of the Garden City CDP, into Georgetown County, and ends on a peninsula at the mouth of Murrells Inlet.",
+        "Garden City is located in southern Horry County and is bordered to the northeast by the town of Surfside Beach, to the northwest by U.S. Route 17, to the south by the Georgetown County/Horry County line, and to the southeast by the Atlantic Ocean."
+      ]
+    }
+  ]
+}

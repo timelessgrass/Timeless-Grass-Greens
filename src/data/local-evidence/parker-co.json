@@ -1,0 +1,136 @@
+{
+  "intent": "Can I put artificial turf on a Parker property, and which Town code section, office and water district decide?",
+  "distinctValue": "Parker is the one page that carries the Town's own synthetic-turf rule. Parker Municipal Code 13.08.090 (Supplement 26.1, codified through Ordinance No. 4.119, passed March 23, 2026) prohibits synthetic turf within landscaped areas, with three Town-approved exceptions: school and Town athletic or recreation facilities, private outdoor recreational facilities, and pet relief areas for vet clinics, kennels and dog parks. Table 13.08.L sets no site-landscaping or living-coverage minimum for single-family detached lots, and Table 13.08.M marks only streetscape landscaping for them, so a detached back yard is a different question from a commercial, multifamily or pet-business site; the page asks Planning to confirm rather than asserting either way. Also local and not on any neighbour page: 13.08.130 keeps approved landscape plans in force 'in perpetuity, unless amended or modified by the Town', the LDO Administrative Manual (May 2024) requires every landscape plan to note that changes need Town and Water and Sanitation District approval, kennels and pet grooming shops must provide pet relief areas (13.05.030), and the Town's park design criteria call for living or synthetic turf in open play areas with artificial turf preferred for ball fields. PWSD's three-day schedule, its multifamily/HOA/commercial day, the new-sod permit and the $750 Resource Central discount (turf eligibility not stated) are re-verified. Lone Tree's page carries PWSD days for its east side only; the wording here is new.",
+  "sources": [
+    {
+      "label": "Parker Municipal Code §13.08.090, Landscaping, buffering, and screening (Municode; read through Municode's public API because library.municode.com returns HTTP 403 to automated requests)",
+      "url": "https://library.municode.com/co/parker/codes/municipal_code?nodeId=TIT13LADEOR_CH13.08DEST_13.08.090LABUSC",
+      "checked": "2026-09-12",
+      "supports": [
+        "Retrieval: WebFetch and curl both received HTTP 403 from library.municode.com on 12 September 2026. The same content was read from api.municode.com: ClientContent/19051 (Parker, CO) lists product 18016 'Municipal Code'; Jobs/latest/18016 returns job 493493, Name 'Supplement 26.1', PublishDate 2026-03-23, BannerText 'MUNICIPAL CODE Town of PARKER, COLORADO Codified through Ordinance No. 4.119, passed March 23, 2026. (Supp. No. 26.1)'; CodesContent?jobId=493493&nodeId=TIT13LADEOR_CH13.08DEST_13.08.090LABUSC&productId=18016 returned the text quoted here.",
+        "(b) Applicability. (1) New, non-infill development shall comply fully with the standards in this Section 13.08.090.",
+        "a. Minor Improvements. Any changes to a property or use that do not add building square footage, such as architectural changes or changes to comply with the Americans with Disabilities Act, shall not be required to install additional landscaping.",
+        "b. Moderate Improvements. Square footage changes that increase the total gross floor area of a structure by less than seventy-five (75) percent, or that add new parking areas, storage, or that expand the use, as determined by the Building Permit and Site Plan applications, shall include a corresponding percent increase in compliance with this Section 13.08.090, as determined by the Planning Director.",
+        "c. Large Improvements. Square footage changes that increase total gross floor area of a structure by seventy-five (75) percent or greater ... shall be required to fully comply with this Section 13.08.090.",
+        "(3) All developments requiring Site Plan approval and/or streetscape landscaping shall submit a landscaping plan meeting all applicable requirements on the Town website, in order to enable the Town to evaluate compliance with this Section 13.08.090.",
+        "Table 13.08.L: Total Landscaping Requirements. Min. Site Landscaping (% of Developed Area): Single-Family Detached/Duplex n/a; Single-Family Attached 35%; Multifamily 45%; Mixed-Use 25%; Nonresidential 15%; Downtown (DE, DW) 10%.",
+        "Min. Living Material Coverage (% of Developed Area): Single-Family Detached/Duplex n/a; Single-Family Attached 75%; Multifamily 75%; Mixed-Use 75%; Nonresidential 75%; Downtown 75%.",
+        "Table 13.08.M: Landscaping and Buffering Applicability. Streetscape 13.08.090 (e): checked for Single-Family Detached/Duplex and every other column. Parking Lot Interior, Site Perimeter and Site Interior: n/a for Single-Family Detached/Duplex.",
+        "(2) Applicability. Streetscape landscaping is required for all development in all zoning districts.",
+        "a. Streetscape landscaping that complies with this Section 13.08.090 (e) shall be installed in the area between each curb and a detached sidewalk, or in the case of an attached sidewalk, within eight (8) feet from the back of the sidewalk away from the street.",
+        "d. All property owners including residential property owners shall be responsible for maintaining, repairing, and replacing streetscape landscaping, including street trees and ground cover",
+        "(4) Specific requirements. Streetscape landscaping shall consist of trees and turf grass or shrubs, rock, and mulch that meet the following standards.",
+        "c. Non-living landscape material standards. 1. Artificial landscape materials, including, for example, plastic trees, shrubs, and synthetic turf, are prohibited within landscaped areas. Exceptions to this prohibition include the following, as approved by the Town:",
+        "a) Athletic or recreation facilities at public or private schools and Town-owned property or parks; and",
+        "b) Private outdoor recreational facilities.",
+        "c) Synthetic turf and similar materials may be considered for specific purposes for land uses such as pet relief areas for veterinary clinics, kennels, or dog parks.",
+        "2. Non-living landscape areas shall not count towards the minimum landscape requirements."
+      ]
+    },
+    {
+      "label": "Parker Municipal Code §13.08.130, Maintenance and operating standards (same API retrieval, job 493493)",
+      "url": "https://library.municode.com/co/parker/codes/municipal_code?nodeId=TIT13LADEOR_CH13.08DEST_13.08.130MAOPST",
+      "checked": "2026-09-12",
+      "supports": [
+        "All properties in the Town shall comply with the standards in this Section 13.08.130 regarding the operation and maintenance of activities, buildings, and land in the Town.",
+        "b. The trees, shrubs, fences, walls, and other landscaping materials depicted on approved plans shall be considered as elements of the project in the same manner as parking, building materials and other elements, and shall be maintained in perpetuity, unless amended or modified by the Town.",
+        "d. For all required landscaping and planting, dead plant materials shall be removed and replaced with healthy planting materials of comparable size and species that meet the original intent of the approved landscape design within forty-five (45) days after the plant dies, or if seasonal conditions prohibit removal and replacement then by June 1."
+      ]
+    },
+    {
+      "label": "Parker Municipal Code Title 13, Land Development Ordinance (same API retrieval, job 493493): §§13.02.020, 13.05.030, 13.08.020, 13.08.030(g)(4), 13.08.140",
+      "url": "https://library.municode.com/co/parker/codes/municipal_code?nodeId=TIT13LADEOR",
+      "checked": "2026-09-12",
+      "supports": [
+        "13.02.020 Definitions: Recreation facility, outdoor means recreation and entertainment activities that is mostly outdoors including picnic area, outdoor swimming pool, skateboard park, tennis court, basketball court, baseball diamond, soccer and football field, amphitheater, outdoor arena, outdoor theater, drive-in theater, golf course, golf driving range, miniature golf, batting cage, or other similar outdoor recreational uses",
+        "13.05.030 Use-specific standards, (e) Commercial uses, (1) Kennel, commercial. a. All commercial kennels shall provide pet relief areas that do not interfere with any public right-of-way, easement, shared access, walkway, or other service area.",
+        "13.05.030 (16) Personal services, general. a. Each pet grooming shop shall be subject to the following standards: ... 3. Shall provide and maintain a pet relief area that does not interfere with any public right-of-way, easement, shared access, walkway, or other service area.",
+        "13.08.020 (a) Generally. The requirements of this Chapter 13.08 shall apply to all new development of vacant land, all construction of new primary or accessory structures, and all expansions of the gross floor area of existing primary structures",
+        "13.08.030 (g)(4) Design criteria for parks, trails, and open spaces: d) Open turf play areas shall be provided with living or synthetic turf.",
+        "Same design criteria table, Sports and Fields: Ball field (baseball, softball, or multi-use) Artificial turf preferred.",
+        "13.08.140 (a) Creation of homeowners' association. For all residential condominiums or residential subdivisions, the applicant shall create a homeowners' association under the laws of the State of Colorado, or the property shall be included in an existing homeowners' association. The homeowners' association shall be lawfully established prior to, or as a part of, first Final Plat approval or first Condominium Map approval that creates residential lots or units.",
+        "Chapter 13.06 is Oil and Gas Regulations; 13.06.070 is 'Contact information'. The older 13.06.070 landscaping citation noted in the brief is out of date and is not used."
+      ]
+    },
+    {
+      "label": "Town of Parker: Land Development Ordinance Administrative Manual, May 2024 (PDF, read in full with pdftotext)",
+      "url": "https://www.parkerco.gov/DocumentCenter/View/28966/Land-Development-Ordinance-Administrative-Manual",
+      "checked": "2026-09-12",
+      "supports": [
+        "Parker Land Development Ordinance Administrative Manual May 2024",
+        "(d) Landscape and Streetscape Plan. When required, a landscape and streetscape plan shall be prepared by a qualified professional and electronically submitted",
+        "(9) A table showing compliance with each Landscape Category as required by Section 13.08.090",
+        "(12) A note on the landscape and streetscape plan stating that \"No change to the approved landscape and streetscape plan may occur without prior approval from the Town and the Water and Sanitation District.\"",
+        "The manual does not mention synthetic or artificial turf (full-text search of the extracted PDF)."
+      ]
+    },
+    {
+      "label": "Town of Parker: Planning Division",
+      "url": "https://www.parkerco.gov/285/Planning-Division",
+      "checked": "2026-09-12",
+      "supports": [
+        "Phone: 303.841.2332",
+        "20120 E. Mainstreet, Parker, CO 80138",
+        "Monday - Friday 8 a.m. - 5 p.m.",
+        "The Development Review section processes applications including annexation requests, rezoning, site plans, and subdivision plats. It also reviews Sign Permits, Temporary Use Permits, Home Based Occupation applications and requests for variances from the Land Development Ordinance."
+      ]
+    },
+    {
+      "label": "Town of Parker: FAQ, HOA Resources - Landscaping",
+      "url": "https://www.parkerco.gov/FAQ.aspx?QID=302",
+      "checked": "2026-09-12",
+      "supports": [
+        "The Town of Parker has a variety of landscaping requirements in place in addition to those referenced within the Land Development Code",
+        "The Town of Parker promotes xeric landscaping."
+      ]
+    },
+    {
+      "label": "Parker Water and Sanitation District: watering restrictions",
+      "url": "https://www.pwsd.org/3366/Watering-Restrictions",
+      "checked": "2026-09-12",
+      "supports": [
+        "Homes ending in an EVEN number = SUNDAY, TUESDAY, THURSDAY",
+        "Homes ending in an ODD number = MONDAY, WEDNESDAY, SATURDAY",
+        "Multi-family, HOAs, Commercial Properties = MONDAY, WEDNESDAY, SATURDAY",
+        "Watering is prohibited between 10 am and 6 pm.",
+        "Water waste is prohibited. Watch for runoff, overspray, and leaks.",
+        "Establish new sod during spring or the fall, and you need a permit to be exempt from the standard watering guidelines when establishing new sod.",
+        "No drought stage, season dates or mention of artificial turf appear on the page."
+      ]
+    },
+    {
+      "label": "Parker Water and Sanitation District: rebates and discounts",
+      "url": "https://www.pwsd.org/3367/Rebates",
+      "checked": "2026-09-12",
+      "supports": [
+        "PWSD has partnered with South Metro Water Supply Authority to offer $750 turf removal discounts to customers through Resource Central.",
+        "first-come, first-served",
+        "will close when funds are exhausted for the year.",
+        "The page does not mention artificial turf, so eligibility is left as a question for the district."
+      ]
+    },
+    {
+      "label": "Parker Water and Sanitation District: water efficiency and conservation",
+      "url": "https://www.pwsd.org/conservation",
+      "checked": "2026-09-12",
+      "supports": [
+        "District Office: 13939 Ancestry Drive, Parker, CO 80134, 303-841-4627",
+        "The page does not mention artificial or synthetic turf."
+      ]
+    }
+  ],
+  "notUsed": [
+    "Resource Central lawn replacement page (resourcecentral.org/lawn/): HTTP 403 to WebFetch and curl, and archive.org rate-limited the fallback on 12 September 2026. Its eligibility rule is not stated on this page; the copy links the site's water-rebate guide, which records it.",
+    "Legacy research record for parker-co (src/data/cities/denver-metro.json): its population, income, home-value and housing-share figures are not used, under the site's no-demographics rule. Its note that the municipal code could not be reached is superseded by this record.",
+    "Parks and Recreation landscaping page (parkerrec.com/295): opened; restates the Town FAQ and lists the Town Forester and plant list, nothing on synthetic turf.",
+    "Parker Town Manager Report, Winter 2025 (search result only, not opened): mentions synthetic turf soccer fields in a Town capital project. Not used.",
+    "SB23-178, SB24-005 and HB25-1113 detail: left to the site's Colorado turf-law and HOA guides, linked from the page rather than restated."
+  ],
+  "unresolved": [
+    "Whether 13.08.090's synthetic-turf prohibition reaches a re-landscape of an existing single-family detached back yard that needs no Site Plan. The tables mark n/a for detached lots other than streetscape, but the code does not say so in words. Ask the Planning Division (303.841.2332) in writing.",
+    "Whether a private backyard putting green or practice area counts as a 'private outdoor recreational facility' under the exception. Ask Planning.",
+    "Whether PWSD's $750 Resource Central turf removal discount can be used where artificial turf replaces grass. Ask PWSD (303-841-4627).",
+    "Which water provider serves a given Parker address; the page conditions the PWSD schedule on 'if Parker Water serves your address'.",
+    "Territory: parker-co is listed in DENVER_INTERIOR_IDS in src/data/service-territory.mjs; the brief notes Parker was not named in the call transcript, so confirm with the client."
+  ]
+}

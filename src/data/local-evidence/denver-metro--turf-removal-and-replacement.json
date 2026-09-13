@@ -1,15 +1,15 @@
 {
-  "intent": "I have old artificial turf at home, on HOA common land or on a business site in the Denver metro. Can I replace it after Colorado's 2026 rules, what does the new turf and base have to meet, does my city require worn turf to be replaced, and does a rebate or recycling route help?",
-  "distinctValue": "The national replacement page is generic about approvals, base and disposal. This page covers what changes for a Denver-metro replacement. (1) Colorado's PFAS law (C.R.S. 25-15-605, SB24-081) bars anyone installing artificial turf with intentionally added PFAS on any property from 1 January 2026 while allowing pre-2026 turf to be maintained, so the replacement turf, home lots included, is what the rule reaches. (2) Three metro codes write replacement into upkeep: Northglenn 11-4-7(f)(6) and Thornton Water's 2026 rules (replace when maintenance or repair cannot simulate healthy living turf) and Brighton 8.04 (replace when it no longer simulates the infiltration of sod or native grasses), while Boulder's manual lets pre-7 March 2026 landscaping be maintained unless a project or site change requires compliance. (3) The base and slope standards a new install must meet in those cities (Northglenn road base, anchoring and six percent slope; Brighton 5 inches an hour percolation; Thornton three inches of compacted aggregate holding half an inch of rain). (4) Thornton's rebate eligibility is limited to turf replacing high-water lawn or bare new-construction ground, so swapping old artificial turf is not on its list. (5) For HOA and business land, the signed SB24-005 and HB25-1113 texts: the pre-2026 maintenance carve-out, the definition of maintain, the two-part redevelopment test, the open functional-turf list, the stricter-local-rule clause and the 2028 common-interest multifamily limb. The sports-field page covers the state rule for fields and the town pages each cover one city; none compares replacement triggers and new-install standards across metro cities or applies the PFAS installation rule to a replacement.",
+  "intent": "I have worn artificial turf at a home, on HOA common land or on a business site in the Denver metro. Can I replace it after Colorado's 2026 rules, what does the new turf have to meet, does my city review a replacement or require worn turf to be replaced, and does Thornton's rebate help?",
+  "distinctValue": "The national replacement page is generic about approvals. This page answers the replacement-specific question for the Denver metro: does the job fall under state and city rules at an existing property? (1) C.R.S. 25-15-605 (SB24-081) bars installing artificial turf with intentionally added PFAS on any property from 1 January 2026 and protects maintaining pre-2026 turf; SB24-081 does not define maintaining, and SB24-005 defines it for article 99 as preserving the existing state of installed turf, so the page tells the reader to plan on the new turf meeting the PFAS rule. (2) Per city, whether the landscape code reaches a replacement at an existing property: Northglenn 11-4-7(b)(4)(B) exempts site landscaping improvements at existing single-family, duplex and manufactured homes except (d) and (e)(1), and (e)(1)(E) allows artificial ground cover 'pursuant to' the turf regulations, whose (f)(3), (4) and (6) include the replacement duty; Brighton 8.01 exempts repairs and improvements to detached houses and duplexes not under Site Improvement / Residential Design Review and existing-development work under 10%, with 8.04's percolation and replacement rules applying only where the standards apply; Thornton Water's 2026 rebate rules require a Minor Development Permit before installing turf as landscaping, define PFAS-free strictly, let a product later found to contain PFAS stay if documentation was complied with, list replacement in maintenance, and limit the rebate to turf replacing high-water lawn or bare new-construction ground; Westminster's 2004 regulations (replacement when the City determines turf no longer mimics a healthy lawn), its April 2025 FAQ (back-yard turf installed in practice without City review; ODP amendment for HOA common areas, commercial sites and rights of way; the rewrite is prospective and not retroactive) and its May 2026 public review draft (landscape chapter reaches existing development without a landscaping ODP when landscaping changes by the greater of 200 square feet or five percent; turf in rear yards and recreation areas; four-foot planted buffer). (3) For HOA and business land, the SB24-005 / HB25-1113 redevelopment test and functional-turf definition, briefly, with the guide linked. Town pages cover each city's install rules for a new lawn; the residential page covers Brighton 8.01 for front yards; the sports-field page covers Boulder's carve-out and Westminster's draft for fields. None asks whether a replacement at an existing property is inside each city's code.",
   "sources": [
     {
-      "label": "Colorado General Assembly: SB24-081 signed act PDF (curl, pdftotext; 7 pages with signature and approval block)",
+      "label": "Colorado General Assembly: SB24-081 signed act PDF (curl, pdftotext; 7 pages)",
       "url": "https://leg.colorado.gov/bill_files/46185/download",
       "checked": "2026-09-12",
       "supports": [
         "25-15-605. Prohibition on the installation of artificial turf that contains intentionally added PFAS chemicals. (1) ON AND AFTER JANUARY 1, 2026, A PERSON SHALL NOT INSTALL ARTIFICIAL TURF THAT CONTAINS INTENTIONALLY ADDED PFAS CHEMICALS ON ANY PORTION OF PROPERTY IN THE STATE.",
         "(2) NOTHING IN THIS SECTION PROHIBITS A PERSON FROM MAINTAINING ARTIFICIAL TURF INSTALLED BEFORE JANUARY 1, 2026.",
-        "Section 3 adds definitions (1.5), (1.7), (2.5), (4)(c), (16.5), (16.7), (23.5) and (24.5) to 25-15-603; none shown defines artificial turf, so the page makes no claim about which parts of a turf system the rule reaches and only advises asking whether documentation covers backing and infill."
+        "Section 5 adds 25-15-605 and does not define maintaining or artificial turf; the page therefore makes no claim about which parts of a turf system the rule reaches, and advises asking whether the maker's statement covers backing and infill."
       ]
     },
     {
@@ -18,35 +18,30 @@
       "checked": "2026-09-12",
       "supports": [
         "On and after January 1, 2026, prohibiting a person from installing artificial turf that contains intentionally added PFAS chemicals on any portion of property in the state.",
-        "APPROVED by Governor May 1, 2024 EFFECTIVE May 1, 2024 (Note: This summary applies to this bill as enacted.) Status: Became Law"
+        "APPROVED by Governor May 1, 2024 EFFECTIVE May 1, 2024 ... Became Law"
       ]
     },
     {
-      "label": "Colorado General Assembly: SB24-005 signed act PDF (curl, pdftotext; 7 pages with signature and approval block)",
+      "label": "Colorado General Assembly: SB24-005 signed act PDF (curl, pdftotext; 7 pages)",
       "url": "https://leg.colorado.gov/bill_files/45372/download",
       "checked": "2026-09-12",
       "supports": [
-        "37-99-102(1)(a) \"APPLICABLE PROPERTY\" MEANS: (I) COMMERCIAL, INSTITUTIONAL, OR INDUSTRIAL PROPERTY; (II) COMMON INTEREST COMMUNITY PROPERTY; OR (III) A STREET RIGHT-OF-WAY, PARKING LOT, MEDIAN, OR TRANSPORTATION CORRIDOR.",
-        "37-99-102(5) \"COMMON INTEREST COMMUNITY PROPERTY\" MEANS PROPERTY WITHIN A COMMON INTEREST COMMUNITY THAT IS OWNED AND MAINTAINED BY A UNIT OWNERS' ASSOCIATION, SUCH AS ENTRYWAYS, PARKS, AND OTHER COMMON ELEMENTS AS DEFINED IN SECTION 38-33.3-103 (5).",
-        "37-99-102(9) \"LOCAL ENTITY\" MEANS A: (a) HOME RULE OR STATUTORY CITY, COUNTY, CITY AND COUNTY, TERRITORIAL CHARTER CITY, OR TOWN; (b) SPECIAL DISTRICT; AND (c) METROPOLITAN DISTRICT.",
         "37-99-102(10) \"MAINTAIN\" OR \"MAINTAINING\" MEANS AN ACTION TO PRESERVE THE EXISTING STATE OF NONFUNCTIONAL TURF, ARTIFICIAL TURF, OR AN INVASIVE PLANT SPECIES THAT HAS ALREADY BEEN INSTALLED, PLANTED, OR PLACED.",
+        "37-99-102(9) \"LOCAL ENTITY\" MEANS A: (a) HOME RULE OR STATUTORY CITY, COUNTY, CITY AND COUNTY, TERRITORIAL CHARTER CITY, OR TOWN; (b) SPECIAL DISTRICT; AND (c) METROPOLITAN DISTRICT.",
+        "37-99-102(5) \"COMMON INTEREST COMMUNITY PROPERTY\" MEANS PROPERTY WITHIN A COMMON INTEREST COMMUNITY THAT IS OWNED AND MAINTAINED BY A UNIT OWNERS' ASSOCIATION, SUCH AS ENTRYWAYS, PARKS, AND OTHER COMMON ELEMENTS AS DEFINED IN SECTION 38-33.3-103 (5).",
         "37-99-102(14) \"REDEVELOPMENT PROJECT\" MEANS A CONSTRUCTION PROJECT THAT: (a) REQUIRES A BUILDING OR LANDSCAPING PERMIT, PLAN CHECK, OR DESIGN REVIEW; AND (b) RESULTS IN A DISTURBANCE OF MORE THAN FIFTY PERCENT OF THE AGGREGATE LANDSCAPE AREA.",
-        "37-99-103(1) ON AND AFTER JANUARY 1, 2026, A LOCAL ENTITY SHALL NOT INSTALL, PLANT, OR PLACE, OR ALLOW ANY PERSON TO INSTALL, PLANT, OR PLACE, ANY NONFUNCTIONAL TURF, ARTIFICIAL TURF, OR INVASIVE PLANT SPECIES, AS PART OF A NEW DEVELOPMENT PROJECT OR REDEVELOPMENT PROJECT, ON ANY PORTION OF APPLICABLE PROPERTY WITHIN THE LOCAL ENTITY'S JURISDICTION.",
-        "37-99-103(4) NOTHING IN THIS SECTION PROHIBITS: (a) A LOCAL ENTITY FROM MAINTAINING, OR ALLOWING ANY PERSON TO MAINTAIN, ANY NONFUNCTIONAL TURF, ARTIFICIAL TURF, OR INVASIVE PLANT SPECIES INSTALLED, PLANTED, OR PLACED BEFORE JANUARY 1, 2026; ... (d) A LOCAL ENTITY OR THE DEPARTMENT FROM ESTABLISHING PROHIBITIONS ON, OR REQUIREMENTS FOR, NONFUNCTIONAL TURF, ARTIFICIAL TURF, OR INVASIVE PLANT SPECIES THAT ARE MORE STRINGENT THAN THE REQUIREMENTS OF THIS SECTION; OR (e) A LOCAL ENTITY OR THE DEPARTMENT FROM INSTALLING, OR ALLOWING ANY PERSON TO INSTALL, ARTIFICIAL TURF ON ATHLETIC FIELDS OF PLAY."
+        "37-99-103(4) NOTHING IN THIS SECTION PROHIBITS: (a) A LOCAL ENTITY FROM MAINTAINING, OR ALLOWING ANY PERSON TO MAINTAIN, ANY NONFUNCTIONAL TURF, ARTIFICIAL TURF, OR INVASIVE PLANT SPECIES INSTALLED, PLANTED, OR PLACED BEFORE JANUARY 1, 2026; ... (d) ... MORE STRINGENT THAN THE REQUIREMENTS OF THIS SECTION; OR (e) A LOCAL ENTITY OR THE DEPARTMENT FROM INSTALLING, OR ALLOWING ANY PERSON TO INSTALL, ARTIFICIAL TURF ON ATHLETIC FIELDS OF PLAY."
       ]
     },
     {
-      "label": "Colorado General Assembly: HB25-1113 act as passed PDF (curl, pdftotext; 8 pages, enrolled text prepared for signature; enactment confirmed on the bill page)",
+      "label": "Colorado General Assembly: HB25-1113 act as passed PDF (curl, pdftotext; 8 pages; enactment confirmed on the bill page)",
       "url": "https://leg.colorado.gov/bill_files/82792/download",
       "checked": "2026-09-12",
       "supports": [
-        "SECTION 2. In Colorado Revised Statutes, 37-99-102, amend (1)(a)(II), (1)(a)(III), (7), and (17); repeal (1)(b); and add (1)(a)(IV), (1.5), (6.5), (10.5), (12.5), (14.5), and (18.5)",
-        "(1.5) \"APPLICABLE RESIDENTIAL REAL PROPERTY\" MEANS A MULTIFAMILY RESIDENTIAL HOUSING PREMISES PROPERTY THAT INCLUDES MORE THAN TWELVE DWELLING UNITS.",
-        "(6.5) \"FUNCTIONAL ARTIFICIAL TURF\" MEANS ARTIFICIAL TURF THAT IS: (a) LOCATED IN A RECREATIONAL USE AREA OR OTHER SPACE THAT IS REGULARLY USED FOR CIVIC, COMMUNITY, OR RECREATIONAL PURPOSES, WHICH MAY INCLUDE A PLAYGROUND, A SPORTS FIELD, A PICNIC GROUND, AN AMPHITHEATER, A PORTION OF A PARK, AND THE PLAYING AREA OF A GOLF COURSE, SUCH AS A DRIVING RANGE, CHIPPING AND PUTTING GREEN, TEE BOX, GREEN, FAIRWAY, AND ROUGH; OR (b) A COMPONENT OF A PRODUCT DESIGNED AND APPROVED BY A PROFESSIONAL ENGINEER FOR CIVIL INFRASTRUCTURE PROJECTS",
-        "(10.5) \"MULTIFAMILY RESIDENTIAL HOUSING PREMISES PROPERTY\" MEANS COMMON INTEREST PROPERTY SUCH AS ENTRYWAYS, PARKS, AND OTHER COMMON ELEMENTS AS DEFINED IN SECTION 38-33.3-103 (5).",
+        "37-99-102(1)(a) as amended: \"Applicable property\" means: ... (II) Common interest community property; or (III) A street right-of-way, parking lot, median, or transportation corridor; OR (IV) APPLICABLE RESIDENTIAL REAL PROPERTY. Subsection (1)(a)(I), commercial, institutional, or industrial property, is unchanged from SB24-005.",
+        "(6.5) \"FUNCTIONAL ARTIFICIAL TURF\" MEANS ARTIFICIAL TURF THAT IS: (a) LOCATED IN A RECREATIONAL USE AREA OR OTHER SPACE THAT IS REGULARLY USED FOR CIVIC, COMMUNITY, OR RECREATIONAL PURPOSES, WHICH MAY INCLUDE A PLAYGROUND, A SPORTS FIELD, A PICNIC GROUND, AN AMPHITHEATER, A PORTION OF A PARK, AND THE PLAYING AREA OF A GOLF COURSE ...",
         "37-99-103(1) as amended: On and after January 1, 2026, a local entity shall not install, plant, or place, or allow any person to install, plant, or place, any nonfunctional turf, NONFUNCTIONAL artificial turf, or invasive plant species, as part of a new development project or redevelopment project, on any portion of applicable property within the local entity's jurisdiction.",
-        "37-99-103(4)(a) as amended: A local entity from maintaining, or allowing any person to maintain, any nonfunctional turf, NONFUNCTIONAL ARTIFICIAL TURF, artificial turf, or invasive plant species installed, planted, or placed before January 1, 2026; (4)(d) kept: more stringent local prohibitions or requirements; (4)(e): artificial turf on athletic fields of play.",
-        "37-99-103(5)(a) ON AND AFTER JANUARY 1, 2028, A LOCAL ENTITY SHALL NOT INSTALL, PLANT, OR PLACE, OR ALLOW A PERSON TO INSTALL, PLANT, OR PLACE, ANY NONFUNCTIONAL TURF, NONFUNCTIONAL ARTIFICIAL TURF, OR INVASIVE PLANT SPECIES, AS PART OF A NEW DEVELOPMENT PROJECT OR REDEVELOPMENT PROJECT, ON ANY PORTION OF APPLICABLE PROPERTIES THAT INCLUDE MULTIFAMILY RESIDENTIAL HOUSING PREMISES PROPERTY."
+        "37-99-103(4)(a) as amended: A local entity from maintaining, or allowing any person to maintain, any nonfunctional turf, NONFUNCTIONAL ARTIFICIAL TURF, artificial turf, or invasive plant species installed, planted, or placed before January 1, 2026."
       ]
     },
     {
@@ -54,24 +49,38 @@
       "url": "https://leg.colorado.gov/bills/hb25-1113",
       "checked": "2026-09-12",
       "supports": [
-        "The act expands the definition of \"applicable property\" to include a multifamily residential housing premises property that includes more than 12 dwelling units (applicable residential real property).",
-        "The act prohibits a local entity, on and after January 1, 2028, from installing, planting, or placing, or allowing a person to install, plant, or place, any nonfunctional turf, nonfunctional artificial turf, or invasive plant species, as part of a new development project or redevelopment project, on applicable properties that include multifamily residential housing premises property.",
-        "(Note: This summary applies to this bill as enacted.) Status: Became Law"
+        "Prohibits a local entity, on and after January 1, 2026, from installing, planting, or placing, or allowing any person to install, plant, or place, any nonfunctional turf, nonfunctional artificial turf, or invasive plant species, as part of a new development project or redevelopment project, on applicable property within the local entity's jurisdiction",
+        "Became Law"
       ]
     },
     {
-      "label": "Northglenn Municipal Code, Article 11-4 Development Standards, section 11-4-7 (headless Chromium; section source note Ord. 1766, 2019; 1782, 2019; 1848, 2023; 1870, 2025)",
+      "label": "Northglenn Municipal Code, Article 11-4 Development Standards, section 11-4-7 (curl; section source note Ord. 1766, 2019; 1782, 2019; 1848, 2023; 1870, 2025)",
       "url": "https://municode.northglenn.org/ch11/content_11-4.html",
       "checked": "2026-09-12",
       "supports": [
-        "11-4-7(b)(1) New Development. Unless otherwise exempted in Subsection 11-4-7(b)(3) below, or elsewhere in this UDO, the standards in Section 11-4-7 shall apply to all new development and land uses. (2) Expansions and Enlargements. ... the standards in Section 11-4-7 shall apply to the following expansions and enlargements: (A) Any site improvements requiring full compliance pursuant to 11-1-5(f)(3) ... (B) The expansion or enlargement of a use or structure that requires a special use permit; or (C) Major parking area improvements",
-        "(f) Artificial Turf Regulations. (3) Installation: Artificial turf shall be installed in accordance with the manufacturer's specifications and maintained in a manner to mimic healthy living turf, including the following: (A) Sod or existing groundcover shall be removed prior to installation of any artificial turf. (B) Artificial turf shall be installed over a compacted and porous road base material. (C) Artificial turf shall be anchored at all edges and seams.",
+        "(b) Applicability. (1) New Development. Unless otherwise exempted in Subsection 11-4-7(b)(3) below, or elsewhere in this UDO, the standards in Section 11-4-7 shall apply to all new development and land uses. (2) Expansions and Enlargements. ... the standards in Section 11-4-7 shall apply to the following expansions and enlargements: (A) Any site improvements requiring full compliance pursuant to 11-1-5(f)(3) ... (B) The expansion or enlargement of a use or structure that requires a special use permit; or (C) Major parking area improvements ...",
+        "(4) Exemptions. The standards in Section 11-4-7 shall not apply to the following: ... (B) Site landscaping improvements on properties with existing single-family, duplex, or manufactured home dwellings, except that such improvements shall comply with 11-4-7(d), Site Area Landscaping, and 11-4-7(e)(1), Appropriate Landscaping Materials;",
+        "Numbering note: the posted text lists (b)(3) Replacement of Existing Screening and (b)(4) Exemptions, although (b)(1) and (b)(2) refer to exemptions in (b)(3). The page names no subsection number for the exemption.",
+        "(d) Required Site Area Landscaping. ... For existing single family attached and detached residential, only the appropriate landscaping materials section outlined in Section 11-4-7(e)(1)(A-E) below is applicable.",
+        "(e)(1) Appropriate Landscaping Materials. Required landscaped areas pursuant to Subsection 11-4-7(d), above, may include the following landscaping materials: ... (E) Artificial ground cover, pursuant to subsection 11-4-7(F), artificial turf regulations;",
+        "(f)(3) Installation: Artificial turf shall be installed in accordance with the manufacturer's specifications and maintained in a manner to mimic healthy living turf, including the following: (A) Sod or existing groundcover shall be removed prior to installation of any artificial turf. (B) Artificial turf shall be installed over a compacted and porous road base material. (C) Artificial turf shall be anchored at all edges and seams.",
         "(4) Slope restrictions: Artificial turf shall not be installed on slopes greater than six percent.",
-        "(6) Maintenance: The following maintenance activities are required for artificial turf; cleaning, sanitizing, brushing and removal of debris, cleaning shall be done with biodegradable products, repairing of depressions to maintain an even visual surface, regular maintenance to eliminate any orders, flat or matted areas, weeds, looseness at edges, seams or elsewhere, replacement of the artificial turf when maintenance or repair is unable to simulate a healthy living turf."
+        "(6) Maintenance: The following maintenance activities are required for artificial turf; ... replacement of the artificial turf when maintenance or repair is unable to simulate a healthy living turf."
       ]
     },
     {
-      "label": "City of Brighton Land Use code, Article 8, 8.04 Plant Specifications (Municode, headless Chromium; section history Ord. No. 2438, 1-2-2024)",
+      "label": "City of Brighton Land Use code, Article 8, 8.01 Intent and Applicability (Municode, headless Chromium; Ord. No. 2438, § 13, 1-2-2024)",
+      "url": "https://library.municode.com/CO/Brighton/codes/land_use?nodeId=ART8LASIDEST_8.01INAP",
+      "checked": "2026-09-12",
+      "supports": [
+        "Applicability. The standards of this Section shall apply to all new development except:",
+        "Improvements or repairs to detached houses and duplexes that are not subject to a Site Improvement / Residential Design Review as provided in Section 2.05, and which are not part of a larger residential neighborhood or subdivision plan; and",
+        "Improvements or repairs to existing development that do not result in an increase in building footprint or impervious surfaces by more than 10% or changes in use that do not result in an increase in intensity.",
+        "In cases where improvements or repairs increase the building footprint or impervious surface by more than 10% or changes intensity of use, the intent is to bring the site into full compliance with these standards, except that the Director may prorate the requirements ..."
+      ]
+    },
+    {
+      "label": "City of Brighton Land Use code, Article 8, 8.04 Plant Specifications (Municode, headless Chromium; Ord. No. 2438, §§ 21-24, 1-2-2024)",
       "url": "https://library.municode.com/CO/Brighton/codes/land_use?nodeId=ART8LASIDEST_8.04PLSP",
       "checked": "2026-09-12",
       "supports": [
@@ -80,51 +89,79 @@
       ]
     },
     {
-      "label": "Thornton Water: 2026 Artificial Turf Rules for Water-Wise Landscape Rebate, Information and Requirements (PDF, curl and pdftotext; every page footed 1/1/2026)",
+      "label": "Thornton Water: 2026 Artificial Turf Rules for Water-Wise Landscape Rebate, Information and Requirements (PDF, curl and pdftotext; 6 pages, each footed 1/1/2026)",
       "url": "https://www.thorntonwater.com/wp-content/uploads/2026/02/2026-residential_artificial_turf_info__rules-1.pdf",
       "checked": "2026-09-12",
       "supports": [
-        "PFAS-free Requirements: All artificial turf, infill, and other manufactured products used to install artificial turf shall be free of per- and poly-fluoroalkyl substances (PFAS).",
-        "\"PFC-free\" shall not be sufficient to satisfy this requirement.",
-        "Documentation showing that the proposed product is PFAS-free shall be submitted at the time of permit application, and approval of such documentation will be at the sole discretion of the director or designee.",
-        "Installation: 3. Sub-base must be a minimum of three inches deep of compacted aggregate material, which may be a combination of course and fine material layers separated by a geotextile per the manufacturer's specifications. The specified base material(s) system must contain a minimum of one-half inch of precipitation before generating sheet flow runoff.",
-        "General Maintenance: 6. Replacement of the artificial turf when maintenance or repair cannot simulate a healthy living turf.",
-        "Rebate Requirements: 1. ... To be eligible for the rebate, artificial turf must replace an area of high-water demand lawn, such as Kentucky Bluegrass, on existing residential lots or areas of no landscaping on new construction residential lots.",
-        "A Minor Development Permit is required before the installation of artificial turf as landscaping."
+        "Design Requirements ... 1. A Minor Development Permit is required before the installation of artificial turf as landscaping.",
+        "PFAS-free means that at least one of the following requirements have been met: 1. The manufacturer or distributor has publicly stated that the product is made without the intentional use of PFAS in a statement referring to all members of the class of PFAS ... \"PFC-free\" shall not be sufficient to satisfy this requirement.",
+        "2. The product has been tested and shown to be PFAS-free. Testing sufficient to satisfy this requirement may have been carried out at the manufacturer's request or as a part of an independent investigation ... Testing completed by the manufacturer does not satisfy this requirement. Testing results must be published online ...",
+        "3. Documentation showing that the proposed product is PFAS-free shall be submitted at the time of permit application ...",
+        "5. If a product is installed that is later determined to contain PFAS, it may remain in place if the applicant complies with the PFAS-free documentation requirements.",
+        "General Maintenance ... 6. Replacement of the artificial turf when maintenance or repair cannot simulate a healthy living turf.",
+        "Rebate Requirements 1. ... To be eligible for the rebate, artificial turf must replace an area of high-water demand lawn, such as Kentucky Bluegrass, on existing residential lots or areas of no landscaping on new construction residential lots.",
+        "2. A Minor Development Permit approval is required before installing artificial turf as landscaping. Please contact the Planning Department's Planner of the Day for details."
       ]
     },
     {
-      "label": "City of Boulder: landscape manual (headless Chromium)",
-      "url": "https://bouldercolorado.gov/landscape-manual",
+      "label": "City of Westminster: Landscape Regulations 2004 (PDF, curl, pdftotext, pdfinfo; 46 pages, PDF created 24 April 2017)",
+      "url": "https://www.westminsterco.gov/DocumentCenter/View/1138/City-of-Westminster-Landscape-Regulations-PDF",
       "checked": "2026-09-12",
       "supports": [
-        "Artificial turf is prohibited in all new development, unless it is functional artificial turf.",
-        "D. Existing turf: Landscaping installed prior to March 7, 2026 may be maintained and is not required to comply with these provisions, unless any project or modifications to the site requires compliance with these standards per state law, the Boulder Revised Code, or the Applicability and Process section of this manual."
+        "City of Westminster Landscape Regulations Effective Date September 1, 2004 2004 Edition",
+        "The use of artificial turf is generally prohibited, except for use in single-family detached or duplex lot yard areas not adjacent to a street, or public or private park or open space.",
+        "Artificial turf shall be installed according to industry specifications and maintained in a manner to mimic a healthy living turf. Replacement of artificial turf shall be required when the material, wear, or installation is such that it is determined by the City that it no longer visually mimics a healthy living lawn area."
       ]
     },
     {
-      "label": "Eco-Cycle/City of Boulder Center for Hard-to-Recycle Materials: what we accept (headless Chromium)",
-      "url": "https://ecocycle.org/services-and-facilities/charm/what-we-accept/",
+      "label": "City of Westminster: Landscape Changes Frequently Asked Questions (PDF, curl, pdftotext; 4 pages, PDF created 14 April 2025)",
+      "url": "https://www.westminsterco.gov/DocumentCenter/View/1457/Landscape-Changes---Frequently-Asked-Questions-FAQ-PDF",
       "checked": "2026-09-12",
       "supports": [
-        "The Eco-Cycle/City of Boulder Center for Hard-to-Recycle Materials (CHaRM) currently diverts twenty-five (and counting!) categories of hard-to-recycle materials from the landfill.",
-        "Materials Accepted at the Eco-Cycle CHaRM, headings on 12 September 2026: Scrap Metal; Small Plastic Appliances; Refrigerant Appliances; Electronics; Media; Printer Cartridges; Cables & Wire; Smoke Detectors; Solar Panels; Plastic Bags & Other Film Plastics; Rigid White Foam; Large #2 & #5 Plastics; Mattresses, Box Springs & Mattress Toppers; Books; Paper Shredding; Ceramics & Concrete; Bikes & Parts; Bike Tires or Tubes; Fire Extinguishers; Reusable Clothing & Shoes; Glassware; Vegetable Oil; Compost; Single-Stream Curbside Recycling; Corrugated Cardboard.",
-        "A case-insensitive search of the page text for turf, carpet and rug returned no match. The page says only that the list had no turf or carpet category when checked, not that turf cannot be recycled anywhere."
+        "The regulations were last updated in 2004 as a result of concerns coming out of the 2002 drought. ... These regulations are being updated as part of the scope of work for larger Unified Development Code project ... The updated regulations are prospective with new development and not retroactive.",
+        "Artificial turf is allowed in single unit and duplex type development, when not adjacent to a street, park or open space. In practice this has allowed residents to install artificial turf in back yard areas without restrictions nor the need for City review.",
+        "ODP landscape amendments are required in locations outside of a homeowner's private property such as HOA common areas, within commercial development, or within public rights of way."
+      ]
+    },
+    {
+      "label": "City of Westminster: Unified Development Code, May 2026 Public Review Draft (Planning Commission Packet Addendum June 23, 2026; PDF, curl, pdftotext; 566 pages, printed 06/18/2026)",
+      "url": "https://www.westminsterco.gov/DocumentCenter/View/6951",
+      "checked": "2026-09-12",
+      "supports": [
+        "11-1-2(B) This Title shall become effective on ______ (Effective Date).",
+        "11-7-1(B)(1)(a) This chapter provides minimum design, installation, irrigation, and maintenance criteria for landscape improvements on private property. The standards in this chapter shall apply to the following: (i) New development; (ii) Existing developments with an ODP that addresses landscaping, where landscaping is proposed to be modified from what was approved or there is an increase in any aspect of nonconformance with this Title; (iii) Existing developments without an approved ODP or ODP Waiver that addresses landscaping, where landscaping is proposed to be changed by at least 200 square feet or five percent, whichever is greater; or (iv) Existing multiunit, commercial, industrial, and office developments where an ODP or ODP Waiver exists but does not address the landscape that is proposed to be modified.",
+        "11-7-1(D)(3)(k)(ii) Permitted Locations. Artificial turf is permitted as follows: a) Within rear yard areas of lots with single unit detached and attached structures. b) In any zoning district where used for community gathering or recreational purposes such as playgrounds, pet relief areas, amphitheaters, active play or athletic areas in parks, or the greens within golf courses.",
+        "(v) Buffering a) A minimum four-foot buffer shall be provided between the edge of the artificial turf and any impervious surface. ... c) The required buffer shall be planted with any combination of ornamental trees, shrubs, vines, groundcover, perennial or annual flowers, or ornamental grasses."
+      ]
+    },
+    {
+      "label": "City of Westminster: City Council study session presentation, Unified Development Code, March 2, 2026 (DocumentCenter/View/7413, listed Aug 20, 2026; PDF created 19 August 2026). Status evidence only, not linked on the page.",
+      "url": "https://www.westminsterco.gov/DocumentCenter/View/7413",
+      "checked": "2026-09-12",
+      "supports": [
+        "UNIFIED DEVELOPMENT CODE PRESENTATION March 2, 2026 Purpose: Receive an overview of the proposed Unified Development Code and provide feedback",
+        "How does the UDC impact me? Existing development: Existing PUDs & SPDs remain (68% of City); Existing uses may remain indefinitely, UDC to apply to major new buildings or redevelopment",
+        "Next Steps 1. Temporary moratorium on event facilities 2. Update UDC draft 3. Staffing analysis 4. Legal review 5. Planning Commission 6. City Council consideration"
       ]
     }
   ],
   "notUsed": [
-    "City of Westminster Landscape Regulations PDF (DocumentCenter/View/1138): opened 12 September 2026 (curl, pdftotext, pdfinfo), the document is headed LANDSCAPE REGULATIONS 2004, 'Effective Date September 1, 2004', '2004 Edition', PDF created 24 April 2017; DocumentCenter/View/1398, which the city's site search lists as 'Landscape Regulations (PDF) Nov 14, 2024', is a byte-identical copy. It predates the SB24-005 and HB25-1113 local adoption deadlines. Westminster posted a May 2026 Public Review Draft Unified Development Code (DocumentCenter/View/6951, June 23, 2026 Planning Commission packet) whose 11-7-1(D)(3)(k) rewrites the artificial turf rules and says only that turf 'shall be installed in accordance with the manufacturer's specifications and maintained to mimic healthy living turf'; its effective date is blank, so it is a draft. Neither is presented as Westminster's current replacement rule.",
-    "Western Resource Advocates 'Senate Bill 24-005 Made Simple' guide and the WRA 'Local Compliance with Colorado Senate Bill 24-005' handout posted in a Town of Fraser agenda packet: secondary summaries. Their statement that only the disturbed portion of a redeveloped parcel must conform is WRA's reading, not statutory text, so it is not used. The statutory definitions are taken from the signed SB24-005 act and the HB25-1113 act text, both of which download from leg.colorado.gov/bill_files (45372 and 82792).",
-    "Colorado Geological Survey expansive soil page: its clay and landscaping findings already appear on the pet-turf page, several town pages and two articles, so the base block is written from the metro code standards instead.",
-    "Colorado Division of Real Estate HB25-1113 material: the multifamily date conflict it creates is reported on the colorado-hoa-turf-rules guide, which the FAQ links to rather than restating.",
-    "Denver Solid Waste Management large item pickup and Denver Arapahoe Disposal Site pages on denvergov.org: navigation timed out in headless Chromium and curl could not connect on 12 September 2026. No Denver-metro landfill or drop-off rule for artificial turf could be confirmed, so the page names none.",
-    "Aurora UDO 146-4.7.3.B.11 artificial turf standards: only archived 2022-2023 text is on file (aurora-co evidence); the live code was not opened, so Aurora's maintenance wording is not presented as current."
+    "City of Boulder landscape manual, D. Existing turf (landscaping installed before March 7, 2026 may be maintained unless a project or site change requires compliance): opened 12 September 2026 and accurate, but the same point is on denver-metro--sports-field-turf, and Boulder is at the edge of the service area, so this page does not repeat it.",
+    "Eco-Cycle/City of Boulder CHaRM accepted-materials list (no turf or carpet category on 12 September 2026): dropped with the disposal FAQ. A negative from one Boulder facility changes nothing a buyer does, and the national service page already says to confirm haul-away and ask about reuse or recycling.",
+    "Earlier draft of this record treated the Westminster 2004 Landscape Regulations as not current. Corrected: the city's April 2025 FAQ describes them as the city's landscape regulations, last updated in 2004 and being updated through the Unified Development Code; the May 2026 public review draft leaves its effective date blank; the latest UDC document found (a March 2, 2026 study session presentation listed August 20, 2026) lists Planning Commission and City Council consideration as next steps. The page presents the 2004 rules with their date, the FAQ with its date and the draft as a draft, and tells the reader to ask which rules apply.",
+    "Western Resource Advocates 'Senate Bill 24-005 Made Simple' and its local compliance handout in a Town of Fraser agenda packet: secondary summaries; their reading that only the disturbed portion of a redeveloped parcel must conform is not statutory text, so it is not used.",
+    "Colorado Geological Survey expansive soil page: already on the pet-turf page, several town pages and two articles; this page has no base or soil block.",
+    "Colorado Division of Real Estate HB25-1113 material and the 37-99-103(5)(a) 1 January 2028 multifamily limb: the date conflict is reported on the colorado-hoa-turf-rules guide, which the Colorado turf law guide link leads toward; not restated here.",
+    "Thornton City Code: the Thornton Water rules cite Figure 452.1 and Sections 18-537, 18-538 and 18-556. On Municode (code current through Ordinance No. 3773, adopted June 9, 2026), 'Chapter 18 - DEVELOPMENT CODE' is listed without text, the nodeId CH18DECO returned 'Content Not Found', and a Municode search for 'artificial turf' did not render results in headless Chromium on 12 September 2026. The city code was not opened, so every Thornton point is attributed to Thornton Water's 2026 rules.",
+    "Broomfield, Denver and Lakewood codes: Municode searches for 'artificial turf' (Broomfield current through Ordinance No. 2304; Denver content updated August 17, 2026; Lakewood) did not render results in headless Chromium on 12 September 2026, and web search was unavailable. No replacement rule is stated for these cities; the FAQ tells the reader to ask the planning office.",
+    "Aurora UDO 146-4.7.3.B.11: the live host returns HTTP 403 behind a Cloudflare challenge to automated requests (see aurora-co evidence); only 2022-2023 archived text exists, so no Aurora replacement rule is stated.",
+    "Denver Solid Waste Management and Denver Arapahoe Disposal Site pages: did not load on 12 September 2026; no disposal rule is stated."
   ],
   "unresolved": [
-    "Whether a full strip-and-relay of pre-2026 nonfunctional artificial turf on applicable property is maintenance (defined as preserving the existing state of turf already installed) or a new installation is not answered by SB24-005 or HB25-1113; the page says so and tells the reader to ask the planning office and any reviewing district.",
-    "Whether Northglenn 11-4-7 and Brighton 8.04 apply to replacing turf on an existing lot outside a new development, expansion or approved plan is not settled by the text opened; the page qualifies both with 'where those standards apply' and tells the reader to ask the planning office.",
-    "Thornton's document is framed as rules for the water-wise landscape rebate, though it cites the Thornton City Code and says a Minor Development Permit is required before installing artificial turf as landscaping; the page attributes each point to Thornton Water's 2026 rules and does not claim the city code itself was opened.",
-    "The multifamily compliance date is disputed in published guidance (see the colorado-hoa-turf-rules guide). The HB25-1113 act text sets 1 January 2028 at 37-99-103(5)(a) for common interest property in multifamily housing of more than twelve units; whether a single-owner rental complex has such property is not settled, and the FAQ tells the reader to ask."
+    "SB24-081 does not define maintaining, and SB24-005's definition (preserving the existing state of installed turf) is written for article 99. Neither law says whether a full strip-and-relay is maintenance or a new installation. The page says neither law spells it out and tells the reader to plan on the new turf meeting the PFAS rule.",
+    "Northglenn: whether 11-4-7(e)(1)(E), 'Artificial ground cover, pursuant to subsection 11-4-7(F), artificial turf regulations', carries (f)(3), (4) and (6) onto a home whose landscaping improvements are otherwise exempt is arguable; the page quotes the cross-reference and tells the reader to ask Planning and Development. Site note: denver-metro--residential-turf says 'Northglenn applies its turf rules to existing single-family yards', which states as settled what this text leaves open.",
+    "Brighton: 8.01 does not say whether a turf replacement is an 'improvement or repair', whether artificial turf counts as impervious surface, or whether landscape work alone triggers Residential Design Review under 2.05; the page tells the reader to ask Community Development whether the replacement is exempt.",
+    "Thornton: the permit, PFAS and replacement points come from a document framed as rebate rules that cites the Thornton City Code. Whether a like-for-like replacement needs a Minor Development Permit is not stated; the page attributes each point to Thornton Water's 2026 rules and tells the reader to ask the Planner of the Day.",
+    "Westminster: whether the Unified Development Code was adopted after the June 23, 2026 Planning Commission packet; whether the 2004 replacement clause, which sits in the survival standards tied to the Official Development Plan, reaches a back yard with no plan; and whether a same-footprint swap is a landscaping 'change' under the draft's 200 square feet or five percent test. The page tells the reader to ask planning@westminsterco.gov both questions."
   ]
 }

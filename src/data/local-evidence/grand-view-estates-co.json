@@ -1,0 +1,121 @@
+{
+  "intent": "A Grand View Estates homeowner wants an artificial lawn, dog area or putting green and needs to know what is different about this lot: water comes from a private exempt well rather than a utility, the house is on septic, the ground ranges from steep gravelly slopes to clay loam and a flood-rated alluvial strip, and the neighborhood association is voluntary with no zoning authority.",
+  "distinctValue": "Every neighbouring page (Stonegate, Meridian, Lone Tree) describes utility water with assigned watering days, and Foxfield's well rules come from its own town code in Arapahoe County. Grand View Estates has none of that. The page leads with the rule that actually governs outdoor water here, the well permit: DWR Guideline 2023-1 says exempt permits issued under the presumption statute on parcels under 35 acres are limited to household use inside one single-family dwelling with no outdoor uses, while other permits (including registrations of wells used before May 8, 1972, and Denver Basin permits under 37-92-602(3)(b)(I)) can allow up to one acre of home gardens and lawns; the association says most lots are two acres and the first well permit here dates to 1956, so the page does not guess which applies and sends the reader to DWR's Well Permit Search, whose file lists allowable uses. It flags that a household-use-only permit counts washing outdoor features as outside use (relevant to rinsing pet turf) and that trading lawn irrigation for another use requires re-permitting. It explains the Denver Basin groundwater is non-renewable (DWR) and what GERWCD is (ballot-formed local government, 1.5 mill levy, USGS monitoring). It applies Colorado Regulation 43 to turf planning: no compaction of the soil treatment area from vehicles, livestock, recreational use or site development, and a final cover of soil suitable for vegetation at least ten inches deep graded to divert stormwater, so the base stays off the field. It reports USDA SSURGO map units measured inside the Census CDP boundary (Newlin gravelly sandy loam 8 to 30 percent slopes the largest share, Fondis clay loam up to 45 percent clay, Satanta loam, loamy alluvial land rated for frequent flooding). It routes zoning questions to Douglas County, because the association's FAQ says its board has no authority over zoning violations. Unsettled points become questions to named offices: DWR (outdoor rinsing on a household-use-only permit), Douglas County Health Department (permit record showing where the septic system sits), Douglas County (mapped floodplain; zoning). Douglas County's own well, septic and zoning pages (douglasco.gov) returned a Cloudflare challenge on 2026-09-12 and were not read, so nothing on the page relies on them; FEMA's NFHL service timed out, so the page states no flood zone.",
+  "sources": [
+    {
+      "label": "Grandview Estates Rural Water Conservation District: About",
+      "url": "https://gerwcd.colorado.gov/about",
+      "checked": "2026-09-12",
+      "supports": [
+        "Grandview Estates Rural Water Conservation District (GERWCD) is a Colorado State recognized agency that exists to protect the water interests of Grandview Estates residents.",
+        "Grandview Estates is one of Douglas County’s first neighborhoods and is located on the Northside of Lincoln Ave. adjacent to S. Chambers Rd bordering the Western edge of Parker, Colorado.",
+        "GERWCD was formed after a ballot vote in November of 2007 to serve as a local government agency to facilitate water resource management, development, and conservation in Grandview Estates",
+        "Programs include researching and monitoring water supply, protecting individual exempt well supply, and quality from outside influences.",
+        "Each property owner pays a small 1.5 mill levy tax annually to the District based on their assessed property value.",
+        "Historically, these funds have been utilized to fund the USGS well level and quality monitoring programs, water quality testing, adjudication of water rights, defense of water rights, annual financial reviews, and keeping residents aware of a variety of potential water issues surrounding Grandview Estates due to the recent development within Douglas County (including Chambers Reservoir).",
+        "P: (720) 987.9701",
+        "Page rendered as 720-987-9701."
+      ]
+    },
+    {
+      "label": "Colorado Division of Water Resources: Guideline 2023-1, Uses of Water From Exempt and Small Capacity Wells (24-page PDF)",
+      "url": "https://dnrweblink.state.co.us/dwr/ElectronicFile.aspx?docid=4187690&dbid=0",
+      "checked": "2026-09-12",
+      "supports": [
+        "Guideline 2023-1 Uses of Water From Exempt and Small Capacity Wells",
+        "Section 37-92-602 of the Colorado Revised Statutes (C.R.S.) provides an exemption from administration in the water right priority system for wells located outside of Designated Groundwater Basins with uses limited to those in section 37-92-602(1). Those uses are specifically identified as ordinary household purposes, fire protection and fire-fighting, the watering of poultry, domestic animals, and livestock on farms and ranches, the irrigation of not over one acre of home gardens and lawns, monitoring and observation purposes, and drinking and sanitary facilities in individual commercial businesses.",
+        "Exempt well permits issued pursuant to section 37-92-602(3)(b)(II)(A) on parcels less than 35 acres, which are not on parcels created through a cluster development, are limited to ordinary household purposes inside one single-family dwelling, with no allowed outdoor uses.",
+        "Pursuant to section 37-92-602(3)(b)(I) which requires that the State Engineer find that the well will not result in injury to the vested water rights of others or any other existing well. Such wells are generally issued to withdraw water from nontributary aquifers; certain Denver Basin aquifers",
+        "Pursuant to section 37-92-602(5) for the registration of existing wells that were put to beneficial use prior to May 8, 1972 for uses allowed under section 37-92-602(1).",
+        "Uses of water from the Denver Basin and nontributary sources may be limited to the quantity of available groundwater underlying the lot for both exempt and small capacity wells.",
+        "Use of water outside of the dwelling structure including, but not limited to: Growing plants that are not inside the dwelling, including those grown in a greenhouse; Washing vehicles, windows, decks, or other outdoor features.",
+        "11.1 Trading allowed uses for wells in Denver Basin aquifers ... the allowed uses may be traded as long as the amount of water required to serve the modified uses does not exceed the amount of water required for the existing uses",
+        "The irrigation of 1,000 square-feet of home lawn and garden - 0.05 acre-feet per year.",
+        "In order to modify the uses allowed by the well permit, the holder of the well permit must apply to re-permit the well by submitting a well permit application and filing fee.",
+        "For instance, a water user may not obtain an exempt well permit that trades the irrigation of one acre of home gardens and lawns for the filling of a swimming pool, even if the swimming pool water use is measured to be less than the irrigation use."
+      ]
+    },
+    {
+      "label": "Colorado Division of Water Resources: Well Permitting",
+      "url": "https://dwr.colorado.gov/services/well-permitting",
+      "checked": "2026-09-12",
+      "supports": [
+        "Information on all registered well permits can be found through our Well Permit Search Tool and our Map Viewer Tools that are linked on this page. The well permit file will contain the allowable uses of the well, the original permit application, and any available well construction and pump installation records.",
+        "If the well is located in the Denver Basin, additional rules may apply."
+      ]
+    },
+    {
+      "label": "Colorado Division of Water Resources: Denver Basin",
+      "url": "https://dwr.colorado.gov/services/well-permitting/denver-basin",
+      "checked": "2026-09-12",
+      "supports": [
+        "The aquifers in the Denver Basin are called, progressing from top to bottom, the Dawson, Denver, Arapahoe, and Laramie-Fox Hills aquifers.",
+        "Because of the nature of the confining layers and because of the limited connection between these aquifers and surface water, the groundwater in the aquifers is not renewable. When the groundwater is used, it is being “mined” or used up without any replacement.",
+        "a landowner ... is limited to withdrawing only that quantity of water determined to be available underlying the land. Additionally, Senate Bill 213 limited withdrawals on the basis of an aquifer life of one hundred years, which is administered by limiting average annual withdrawals to one percent of the volume of water that is determined to be available underlying the land.",
+        "The premises of the quantity of groundwater available based on the amount underlying the land and limiting annual withdrawals to one percent of the total amount are also used to allow the uses permitted for many exempt well permits issued for individual on-lot wells that use Denver Basin groundwater."
+      ]
+    },
+    {
+      "label": "Colorado Water Quality Control Commission: Regulation No. 43, On-Site Wastewater Treatment System Regulation (5 CCR 1002-43), consolidated text",
+      "url": "https://la-h-health.colorado.gov/sites/g/files/lrnvjt2201/files/documents/Consolidated%20Reg%2043_05_19_2026.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "REGULATION NO. 43 - ON-SITE WASTEWATER TREATMENT SYSTEM REGULATION 5 CCR 1002-43",
+        "ADOPTED: April 1, 2026 EFFECTIVE: May 19, 2026",
+        "43.8 J. Surface Activity: Activity or use on the surface of the ground over any part of the OWTS must be restricted. The soil treatment area must not be subject to damage or soil compaction from livestock, vehicular traffic, recreational use, or other site development activity. Construction equipment not necessary to install the OWTS must be kept off of the soil treatment area to prevent undesirable compaction of the soils.",
+        "43.10 f. A final cover of soil suitable for vegetation at least ten inches deep must be placed from the top of the geotextile or similar pervious material in a rock and pipe system, chamber, or manufactured media, up to the final surface grade of the soil treatment area.",
+        "43.10 g. Following construction, the ground surface must be graded to divert stormwater runoff or other outside water from the soil treatment area. The area must be protected against erosion.",
+        "43.10 h. Backfilling and compaction of soil treatment areas must be accomplished in a manner that does not impair the intended function and performance of the storage/distribution media and soil and distribution laterals, allows for the establishment of vegetative cover, minimizes settlement and maintains proper drainage."
+      ]
+    },
+    {
+      "label": "Grandview Estates HOA: GEHA resources page (updated 2026-05-24)",
+      "url": "https://grandviewestatesparker.com/geha/",
+      "checked": "2026-09-12",
+      "supports": [
+        "Grand View Estates was first subdivided in 1956",
+        "The majority of the lots are two acres in size",
+        "The first well permit filed with the State (according to their website) was in 1956",
+        "Annual dues ... while they are voluntary, the GEHA Committee hopes that all residents will consider supporting the GEHA",
+        "The original covenants of the GEHA are attached as *.pdf file.",
+        "Grand View Estates domestic wells are primarily completed in the Dawson and Denver aquifers, which are in the uppermost layers of the Denver Basin aquifer system in this area.",
+        "On-Site Wastewater Treatment System (OWTS) also known as septic systems, treats the wastewater on an individual’s property that cannot be served by a wastewater utility. The Douglas County Health Department permits the installation, repair, and use of these systems in all areas of the county."
+      ]
+    },
+    {
+      "label": "Grandview Estates HOA: FAQ (updated 2026-05-25)",
+      "url": "https://grandviewestatesparker.com/faq/",
+      "checked": "2026-09-12",
+      "supports": [
+        "While they are voluntary, we hope that all residents will consider supporting the GEHA.",
+        "Who do I contact regarding septic or well maintenance issues? There are a variety of entities that can assist with any questions pertaining to the maintenance of your septic or well systems. The best online source is the Douglas County Department of Health. Their phone number is 720-643-2400.",
+        "Who is responsible for enforcing zoning violations? The GEHA Board has no authority over enforcing zoning violations. Any concerns should be directly reported to the Douglas County Zoning department at 303-660-7460."
+      ]
+    },
+    {
+      "label": "Grandview Estates HOA: Descriptions of Grand View Zoning (Grand View Estates Homeowners Association, October, 2015)",
+      "url": "https://grandviewestatesparker.com/descriptions-grandview-zoning/",
+      "checked": "2026-09-12",
+      "supports": [
+        "GRAND VIEW ESTATES HOMEOWNERS ASSOCIATION October, 2015",
+        "GEHA observes that Grand View Estates (GVE) is not clearly and consistently identified as nonurban semi-rural (DCCMP) and Estate Residential (ER) in all three documents.",
+        "GEHA is a volunteer homeowners’ association. GERWCD is a water conservancy district (local government).",
+        "Results confirmed adequate supply and water quality using the network of existing private exempt wells is sufficient, and that the homeowners do not want outside water at this time.",
+        "Section 4.1.2.2 – “Development shall be clustered to preserve the floodplain and natural features of Happy Canyon Creek to the extent possible.”",
+        "Zoning Resolution Graphics: The Zoning Map graphics show GVE as Estate Residential"
+      ]
+    },
+    {
+      "label": "USDA Soil Data Access (SSURGO), Castle Rock Area, Colorado (CO622): map units intersected with the Grand View Estates CDP boundary from Census TIGERweb (GEOID 0831935)",
+      "url": "https://sdmdataaccess.sc.egov.usda.gov/",
+      "checked": "2026-09-12",
+      "supports": [
+        "Query result, acres of each map unit inside the CDP polygon: NeE Newlin gravelly sandy loam, 8 to 30 percent slopes 290.9; FoB Fondis clay loam, 1 to 3 percent slopes 183.3; Sn Satanta loam 81.2; Lo Loamy alluvial land 67.7; FoD Fondis clay loam, 3 to 9 percent slopes 25.4; RnE Renohill-Manzanola clay loams 1.1; NsE Newlin-Satanta complex 0.8; Ma Manzanola clay loam 0.6.",
+        "Newlin (85% of NeE): hydrologic group B, Well drained, slope 8 to 30 percent.",
+        "Fondis (80% of FoB): hydrologic group C, Well drained, surface clay 35 percent, maximum horizon clay 45 percent.",
+        "Loamy alluvial land (80% of Lo): Well drained, flooding frequency class Frequent.",
+        "Satanta (85% of Sn): hydrologic group B, Well drained."
+      ]
+    }
+  ]
+}

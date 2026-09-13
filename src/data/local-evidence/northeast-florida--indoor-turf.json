@@ -1,0 +1,201 @@
+{
+  "intent": "We run or are building a gym, training studio, indoor sports space or school weight room in Jacksonville, Clay, Nassau or St. Johns County and want turf on the floor. Which office reviews that floor where our building sits, which code edition will our permit fall under, what fire tests does the turf need, and does Florida's new permit exemption let us skip a permit?",
+  "distinctValue": "The Denver metro and Grand Strand indoor-turf pages already walk through the model-code Section 804 floor-covering tests, the A-3 and B occupancy groups and the sprinkler exception; this page keeps that part short and adds what only applies in northeast Florida. Who reviews the floor, county by county: Jacksonville adopts the current Florida Fire Prevention Code into its building code and supplements it with its own Chapter 420 (Sec. 321.104), and Sec. 420.212 requires a place-of-assembly permit for a room used for assembly or educational occupancy by 50 or more occupants; Clay County's Fire Prevention Division does plan review, fire permits and inspections for unincorporated Clay, Green Cove Springs and Keystone Heights; St. Johns County's Fire Marshal's Office is part of commercial building permit review in the unincorporated county and St. Augustine Beach; Nassau County's Building Department permits and reviews plans in the unincorporated county and added permit exemptions by Ordinance 2025-023; anyone inside another city or town is told to ask that city. Edition timing, dated: FBC 8th Edition effective December 31, 2023 (still enforced by St. Johns County as of September 12, 2026) and the 9th Edition listed by ICC as effective December 31, 2026; the Florida Fire Prevention Code rule in effect since December 31, 2023, with a 9th Edition proposed in June 2026, hearings scheduled July 14, 2026 and no adopted notice on FLRules as of September 12, 2026; s. 633.208(4) tying the fire code's new-building provisions to the date the building permit is issued. Permits: the $7,500 exemption in s. 553.79(1)(g), effective July 1, 2026, applies only to owners of single-family dwellings, so it does not reach a gym (confirmed by Clay County's HB 803 notice). Schools: Rule 69A-60.002(3)(b) makes Chapter 69A-58 part of the fire code, and Rule 69A-58.002(8)-(9) sets how the local and board fire officials resolve a conflict.",
+  "sources": [
+    {
+      "label": "Fla. Stat. 633.208 (2026): minimum firesafety standards",
+      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0633/Sections/0633.208.html",
+      "checked": "2026-09-12",
+      "supports": [
+        "The 2026 Florida Statutes, 633.208.",
+        "(2) Pursuant to subsection (1), each municipality, county, and special district with firesafety responsibilities shall enforce the Florida Fire Prevention Code as the minimum firesafety code required by this section.",
+        "(3) Such code shall be a minimum code, and a municipality, county, or special district with firesafety responsibilities may adopt more stringent firesafety standards, subject to the requirements of this subsection.",
+        "(4) The new building or structure provisions enumerated within the Florida Fire Prevention Code adopted pursuant to this section shall apply only to buildings or structures for which the building permit is issued on or after the effective date of the current edition of the Florida Fire Prevention Code."
+      ]
+    },
+    {
+      "label": "Jacksonville Ordinance Code Sec. 321.104: Florida Fire Prevention Code adopted (Municode, version July 10, 2026)",
+      "url": "https://library.municode.com/fl/jacksonville/codes/code_of_ordinances?nodeId=TITVIIICOREBUCO_CH321ADBUCO_S321.104FLFIPRCOAD",
+      "checked": "2026-09-12",
+      "supports": [
+        "VERSION: JUL 10, 2026 (CURRENT)",
+        "Sec. 321.104. - Florida Fire Prevention Code adopted. (a) The current Florida Fire Prevention Code is adopted by reference as a part of the building code. (b) The Florida Fire Prevention Code, adopted herein, shall be supplemented by the provisions contained in Chapter 420. (Ord. 2001-1160-E, § 1; Ord. 2009-624-E, § 2)"
+      ]
+    },
+    {
+      "label": "Jacksonville Ordinance Code Sec. 420.212: places of assembly; permits required (Municode, version July 10, 2026)",
+      "url": "https://library.municode.com/fl/jacksonville/codes/code_of_ordinances?nodeId=TITXIIFIPRCO_CH420GEPR_PT2OPPR_S420.212PLASPERE",
+      "checked": "2026-09-12",
+      "supports": [
+        "VERSION: JUL 10, 2026 (CURRENT)",
+        "Sec. 420.212. - Places of assembly; permits required. (a) No place of assembly, as defined herein, shall be maintained, operated or used as such without a permit except that no permit shall be required for a place of assembly used solely as a place of religious worship.",
+        "(b) Place of assembly means a room or space used for assembly or educational occupancy for 50 or more occupants used for these purposes. This room or space shall include any similar occupied connecting room or space in the same story or in a story or stories above or below where entrance is common to the rooms or spaces. (Ord. 97-539-E, § 6)"
+      ]
+    },
+    {
+      "label": "Clay County Fire Rescue: Fire plan review",
+      "url": "https://www.claycountygov.com/community/fire-rescue/fire-prevention-and-inspections/fire-plan-review",
+      "checked": "2026-09-12",
+      "supports": [
+        "Our Fire Prevention Division serves the unincorporated areas of Clay County, the City of Green Cove Springs, and the City of Keystone Heights by providing plan reviews, fire permits, inspections, and technical guidance throughout the construction process.",
+        "Fire permit applications must include manufacturer specifications, site plans (when applicable), construction plans, and supporting documentation demonstrating code compliance."
+      ]
+    },
+    {
+      "label": "St. Johns County Fire Rescue: Fire Prevention",
+      "url": "https://www.sjcfl.us/departments/fire-prevention/",
+      "checked": "2026-09-12",
+      "supports": [
+        "The Fire Prevention Section of St. Johns County Fire Rescue is responsible for the interpretation and enforcement of the Florida Fire Prevention Code as mandated by Florida Statute 633 and Florida Administrative Code 69A.",
+        "The Fire Marshal’s Office is a part of the review process for all building permits related to construction / demolition activities on commercial structures in the unincorporated areas of St. Johns County, and in the City of St. Augustine Beach."
+      ]
+    },
+    {
+      "label": "Nassau County: Building Department",
+      "url": "https://www.nassaucountyfl.com/136/Building-Department",
+      "checked": "2026-09-12",
+      "supports": [
+        "We process and issue permits, perform plan review and inspections on residential and commercial construction projects throughout the unincorporated areas of Nassau County, to protect the life, health, and safety of our citizens and property.",
+        "In an effort to better serve the building community, we have made changes to the Administrative Chapter of the Florida Building Code. Click the link below to view Ordinance 2025-023 and the additional exemptions from permits and other related changes. Ordinance 2025-023 - Chapter 1 Administrative Amendments",
+        "EFFECTIVE JULY 1, 2026, CHAPTER 2026-63 (HB 803) INTRODUCES UPDATES TO FLORIDA'S BUILDING PERMIT AND INSPECTION REQUIREMENTS."
+      ]
+    },
+    {
+      "label": "Florida Building Commission: 8th Edition (2023) effective date",
+      "url": "https://www.floridabuilding.org/c/default.aspx",
+      "checked": "2026-09-12",
+      "supports": [
+        "The Effective Date for the Florida Building Code, 8th Edition (2023), is December 31, 2023.",
+        "Materials related to the 2026 Update (Including Tracking Charts)"
+      ]
+    },
+    {
+      "label": "St. Johns County: Building Codes and Standards",
+      "url": "https://www.sjcfl.us/building-codes-and-standards/",
+      "checked": "2026-09-12",
+      "supports": [
+        "The St. Johns County Building Department currently enforces the 2023 8th Edition Florida Building Code and the 2020 National Electric Code 8th Edition."
+      ]
+    },
+    {
+      "label": "International Code Council: Florida codes (2023 FBC Building Ch. 3 and 8, 2023 FBC Existing Building Ch. 7, 2026 9th Edition listing)",
+      "url": "https://codes.iccsafe.org/codes/florida",
+      "checked": "2026-09-12",
+      "supports": [
+        "Read in ICC's free read-only view (a JavaScript app with no stable deep links; this is the Florida titles page the Florida Building Commission links to as '2023 FBC').",
+        "2026 Florida Building Code, Building, Ninth Edition 2024 IBC Amended Effective Date: Dec 31, 2026",
+        "2023 Florida Building Code, Building, Eighth Edition ... Effective Date: December 31, 2023",
+        "804.1 General. Interior floor finish and floor covering materials shall comply with Sections 804.2 through 804.4.2. Exception: Floor finishes and coverings of a traditional type, such as wood, vinyl, linoleum or terrazzo, and resilient floor covering materials that are not comprised of fibers.",
+        "804.2 Classification. ... Class I, 0.45 watts/cm2 or greater; Class II, 0.22 watts/cm2 or greater.",
+        "804.3 Testing and identification. ... Carpet-type floor coverings shall be tested as proposed for use, including underlayment. Test reports confirming the information provided in the manufacturer’s product identification shall be furnished to the building official upon request.",
+        "804.4.1 Test requirement. In all occupancies, interior floor covering materials shall comply with the requirements of the DOC FF-1 “pill test” (CPSC 16 CFR Part 1630) or with ASTM D2859.",
+        "804.4.2 Minimum critical radiant flux. In all occupancies, interior floor finish and floor covering materials in enclosures for stairways and ramps, exit passageways, corridors and rooms or spaces not separated from corridors by partitions extending from the floor to the underside of the ceiling shall withstand a minimum critical radiant flux. The minimum critical radiant flux shall be not less than Class I in Groups I-1, I-2 and I-3 and not less than Class II in Groups A, B, E, H, I-4, M, R-1, R-2 and S.",
+        "Exception: Where a building is equipped throughout with an automatic sprinkler system in accordance with Section 903.3.1.1 or 903.3.1.2, Class II materials are permitted in any area where Class I materials are required, and materials complying with DOC FF-1 “pill test” (CPSC 16 CFR Part 1630) or with ASTM D2859 are permitted in any area where Class II materials are required.",
+        "Artificial or synthetic turf is not named in Section 804 of the 2023 FBC, Building (read 2026-09-12). Section 809, Artificial Decorative Vegetation, covers outdoor occupancies and occupied roofs only.",
+        "303.1.1 Small buildings and tenant spaces. A building or tenant space used for assembly purposes with an occupant load of less than 50 persons shall be classified as a Group B occupancy.",
+        "303.4 Assembly Group A-3. ... Gymnasiums (without spectator seating) ... Indoor tennis courts (without spectator seating)",
+        "304.1 Business Group B. ... Training and skill development not in a school or academic program (this shall include, but not be limited to, tutoring centers, martial arts studios, gymnastics and similar uses regardless of the ages served, and where not classified as a Group A occupancy).",
+        "305.1 Educational Group E. Educational Group E occupancy includes, among others, the use of a building or structure, or a portion thereof, by six or more persons at any one time for educational purposes through the 12th grade.",
+        "2023 Florida Building Code, Existing Building, Eighth Edition, 702.2 Interior floor finish. New interior floor finish, including new carpeting used as an interior floor finish material, shall comply with Section 804 of the Florida Building Code, Building."
+      ]
+    },
+    {
+      "label": "Rule 69A-60.002, F.A.C.: Scope; Description of Florida Fire Prevention Code (adopted text)",
+      "url": "https://www.flrules.org/gateway/readFile.asp?sid=0&tid=27834361&type=1&file=69A-60.002.doc",
+      "checked": "2026-09-12",
+      "supports": [
+        "(3)(a) The Florida Fire Prevention Code consists of: 1. National Fire Protection Association (NFPA) 1, the Fire Code, Florida 2021 edition, as adopted in Rule 69A-60.003, F.A.C.; 2. NFPA 101, the Life Safety Code®, Florida 2021 edition, as adopted and incorporated in Rule 69A-60.004, F.A.C., and their additions, deletions, and other modifications to NFPA 1 and NFPA 101, Florida 2021 editions, as provided therein; and, 3. All codes, standards, publications, and authorities adopted in Rule 69A-60.005, F.A.C.",
+        "(b) The Florida Fire Prevention Code also consists of all rule chapters adopted pursuant to the authority of Section 633.206, F.S., and referred to as “uniform rules,” or “rules for uniform buildings or structures,” to-wit, rule chapters: 1. Chapter 69A-3, F.A.C., Fire Prevention, General Provisions; ... 16. Chapter 69A-58, F.A.C., Uniform Fire Safety Standards for Educational Facilities.",
+        "History–New 11-15-01, Formerly 4A-60.002, Amended 11-28-04, 5-18-08, 12-31-08, 12-31-11, 12-31-14, 12-31-17, 12-31-20, 12-31-23."
+      ]
+    },
+    {
+      "label": "FLRules: Rule 69A-60.002 notice history",
+      "url": "https://www.flrules.org/gateway/ruleNo.asp?id=69A-60.002",
+      "checked": "2026-09-12",
+      "supports": [
+        "Current effective version: Effective Date: 12/31/2023",
+        "Notice 31011596, Notice of Proposed Rule, Department of Financial Services, Division of State Fire Marshal, 69A-60.002 Scope; Description of Florida Fire Prevention Code: PURPOSE: The proposed rulemaking will update the Florida Fire Prevention Code to include the most recently adopted National Fire Protection Association standards and promulgate the triennial update of the Florida Fire Prevention Code with Florida-specific amendments, as directed by section 633.202(1), F.S. PRINT PUBLISH DATE: 6/12/2026 Vol. 52/114",
+        "No Final/Adopted notice after 12/31/2023 is listed as of 2026-09-12."
+      ]
+    },
+    {
+      "label": "Florida Division of State Fire Marshal: Florida Fire Prevention Code",
+      "url": "https://www.myfloridacfo.com/division/sfm/bfp/florida-fire-prevention-code",
+      "checked": "2026-09-12",
+      "supports": [
+        "8th Edition (2023) FFPC Online & Purchasing (Effective date: December 31, 2023)",
+        "Notice of Proposed Rule Hearing July 14, 2026, 11:00 a.m. EST ... FFPC 9th Edition NFPA 1 FL Specific Edits FFPC 9th Edition NFPA 101 FL Specific Edits",
+        "If you have a specific question regarding the Florida Fire Prevention Code or how it affects a specific building, occupancy or place of residence, please contact your local fire official."
+      ]
+    },
+    {
+      "label": "Rule 69A-58.002, F.A.C.: Scope: New Construction and Existing Facilities (adopted text)",
+      "url": "https://www.flrules.org/gateway/readFile.asp?sid=0&tid=12206788&type=1&file=69A-58.002.doc",
+      "checked": "2026-09-12",
+      "supports": [
+        "69A-58.002 Scope: New Construction and Existing Facilities.",
+        "(1) This rule chapter establishes uniform requirements to provide a reasonable degree of safety from fire in new construction and existing buildings located in educational facilities, educational plants, ancillary plants, and auxiliary facilities under the jurisdiction of a district school board or a public college board of trustees.",
+        "(8) In the event of a conflict between the local fire official and the board fire official on the requirement or interpretation of any provision of this rule chapter or rule chapter 69A-60, F.A.C., the Florida Fire Prevention Code, the conflict shall be resolved by agreement between the local fire official and the board fire official in favor of the requirement or interpretation of the code which offers the greatest degree of life safety or alternatives which would provide an equivalent degree of life safety and an equivalent method of construction.",
+        "(9) If the local fire official and the board fire official are unable to agree on which requirement, interpretation, or system provides the highest degree of life safety or alternatives which would provide an equivalent degree of life safety and an equivalent method of construction, either official may petition the division for a declaratory statement in accordance with section 120.565, F.S.",
+        "History–New 2-18-03, Formerly 4A-58.002, Amended 11-26-06, 11-4-12."
+      ]
+    },
+    {
+      "label": "Fla. Stat. 553.79 (2026): permits; applications; issuance; inspections",
+      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0553/Sections/0553.79.html",
+      "checked": "2026-09-12",
+      "supports": [
+        "The 2026 Florida Statutes, 553.79 Permits; applications; issuance; inspections.",
+        "(g)1. A local government that issues building permits shall exempt an owner of a single-family dwelling or the owner’s contractor from the requirement to obtain a building permit to perform any work valued at less than $7,500 on the owner’s property.",
+        "2. The exemption under subparagraph 1. does not apply to any of the following: a. Work on a property that is partially or entirely located in a flood hazard area as defined by the Florida Building Code. b. Any electrical, plumbing, structural, mechanical, or gas work performed on property containing a single-family dwelling."
+      ]
+    },
+    {
+      "label": "Laws of Florida, Ch. 2026-63 (HB 803), posted by Nassau County",
+      "url": "https://www.nassaucountyfl.com/DocumentCenter/View/31830/Chapter-2026-63-HB803",
+      "checked": "2026-09-12",
+      "supports": [
+        "Section 8. Paragraphs (a), (b), (c), and (f) of subsection (1) and paragraph (a) of subsection (24) of section 553.79, Florida Statutes, are amended, and paragraphs (g), (h), and (i) are added to subsection (1) of that section",
+        "Section 12. This act shall take effect July 1, 2026. Approved by the Governor May 6, 2026."
+      ]
+    },
+    {
+      "label": "Clay County Building Division: HB 803 permit exemptions notice",
+      "url": "https://www.claycountygov.com/government/building",
+      "checked": "2026-09-12",
+      "supports": [
+        "Effective July 1, 2026, a new Florida law (HB 803) creates two new building permit exemptions for certain work on single-family homes.",
+        "Beginning July 1, 2026, Florida law requires Clay County to exempt owners of single-family homes and their contractors from obtaining a building permit for eligible work valued at less than $7,500."
+      ]
+    },
+    {
+      "label": "St. Johns County: Permit Guidelines and General Information",
+      "url": "https://www.sjcfl.us/permit-guidelines-and-general-information/",
+      "checked": "2026-09-12",
+      "supports": [
+        "Permits are required for most improvements before any work begins. The property owner must determine if a permit is required to avoid additional fees."
+      ]
+    },
+    {
+      "label": "16 CFR 1630.1 (eCFR): definitions in the federal carpet and rug flammability standard",
+      "url": "https://www.ecfr.gov/current/title-16/chapter-II/subchapter-D/part-1630/subpart-A/section-1630.1",
+      "checked": "2026-09-12",
+      "supports": [
+        "Read through the eCFR renderer (ecfr.gov/api/renderer/v1/content/enhanced/current/title-16?part=1630&section=1630.1) because the public page sent automated requests to a bot check; matches the GovInfo 2025 CFR text.",
+        "(c) Carpet means any type of finished product made in whole or in part of fabric or related material and intended for use or which may reasonably be expected to be used as a floor covering which is exposed to traffic in homes, offices, or other places of assembly or accommodation ... Mats, hides with natural or synthetic fibers, and other similar products in the above, defined dimensions are included in this definition, but resilient floor coverings such as linoleum, asphalt tile and vinyl tile are not.",
+        "Artificial or synthetic turf is not named in 16 CFR 1630.1 (read 2026-09-12)."
+      ]
+    }
+  ],
+  "unresolved": [
+    "No building-code text read names artificial turf: Section 804 of the 2023 FBC, Building does not, and the page says only that. NFPA 1 and NFPA 101 (Florida 2021 editions) sit behind NFPA account registration and were not read, so the page states no fire-code floor-finish rule and sends that question to the local fire official, as the State Fire Marshal's page does.",
+    "The 2026 (9th Edition) FBC's Section 804 text was not read; the page gives only ICC's listed effective date (December 31, 2026) and tells the reader to ask which edition applies.",
+    "The 9th Edition Florida Fire Prevention Code: the proposed rule was published 6/12/2026 and the State Fire Marshal noticed hearings for July 14, 2026, but no adopted notice or effective date was listed on FLRules on 2026-09-12, and whether the hearings were held as scheduled was not confirmed. The page says 'scheduled' and 'no adopted version'.",
+    "Jacksonville: jacksonville.gov returned 403 (Access Denied) on 2026-09-12, so which city office issues the Sec. 420.212 place-of-assembly permit and reviews fire plans was not established. The page tells the reader to ask the city.",
+    "Nassau County Ordinance 2025-023 (the permit exemptions) is a PDF over 10 MB and was not read; the page says only what the Building Department page says and tells the reader to ask whether any exemption fits a floor covering. Fire plan review in Nassau County was not established.",
+    "Cities with their own building departments (Fernandina Beach, Orange Park and others) were not checked; the page tells readers inside a city or town to ask that city.",
+    "Whether a turf training room in a public school has other district requirements was not established; the page sends the reader to the district's facilities office.",
+    "Business claims are limited to what the business may say: indoor facility turf, a free visit to measure and check the ground, a custom layout approved before work starts, premium American-made turf, turf laid, seamed and edged, a care walkthrough, the phone number and the Fernandina Beach to St. Augustine Shores area (src/data/markets.ts). No test-report supply, code-compliance service, price, warranty or past job is claimed."
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "intent": "On a Penney Farms lot, does digging a turf base near big trees need a town permit, how much of the site can be hard surface, and does that change for a typical in-town house lot versus a larger or institutional/commercial parcel?",
+  "distinctValue": "Penney Farms is an incorporated town with its own Land Development Regulations (adopted 6/28/2006, updated 4/20/2020), so the county rules its neighbours' pages turn on do not govern here: Asbury Lake's page rests on Clay County's Greater Lake Asbury District tree preservation plan (which leaves Penney Farms out), Middleburg's on the county irrigation ordinance, Ortega sand and the Black Creek gauge, Hibernia's on the St. Johns flood elevation and Blanton sand. The town's LDR 5.01.01 counts root damage from heavy machinery and changing the natural grade above the roots as removing a tree, requires a permit to remove a listed protected tree (oaks, bays, magnolia 12 in. DBH or larger; maple, sweet gum, hickory, elm, sycamore 18 in. or larger, DBH at 54 in.), and exempts lots in residential districts under one acre. The code's own minimum lot sizes put a typical in-town house under that acre: Low Density Residential lots run 21,000 sq ft minimum (6.01.01 D.2) and Medium-Low 7,000 sq ft (6.01.01 E.2), while only Rural Density Residential is sized at a full acre (43,560 sq ft, 6.01.01 C.2). The town's 2046 Comprehensive Plan's residential density policy (L.1.1.1) names Low density and Medium low density as the residential categories on the current Future Land Use Map, alongside Institutional, Commercial Town, Commercial Highway, Recreation, Utilities and Mixed Use; it does not list a Rural category, so which lots (if any) are still mapped Rural is a Town Hall question, not one this page can settle from the plan text alone. LDR 6.01.02 caps the impervious surface ratio by district (0.35 rural, 0.40 low, 0.50 medium-low, 0.70 commercial, industrial and institutional) and excludes porous paving built to town standards. Development includes excavating, grading and installing impervious surface; permits go through the Town Clerk and Building Inspector; the Site Clearing/Site Work Application asks for FLUM designation and acreage and has a 14 business day completeness review. Water is the town's own: two Floridan Aquifer wells; the operative development restriction (5.04.02 A) sets a 50 ft no-development zone around a public well, while the code's own Article II definition separately calls the same area a 200 ft 'zone of exclusion' — the page states both numbers rather than picking one. A 300 ft zone bars excavated drainage that intersects the water table. USDA soils inside the town limits are Hurricane fine sand (water table to 69 cm) at the Census internal point and Leon fine sand (31 cm) just south. Underneath the town's own rules, Florida Rule 62-308.100 (effective 19 May 2026) and s. 125.572, F.S. stop a local government from prohibiting turf that meets the state infill standard on a single-family lot of an acre or less; Penney Farms doesn't prohibit turf outright, so this floor doesn't reach the tree or coverage rules above it, and the page says so rather than implying the state rule overrides the town code.",
+  "sources": [
+    {
+      "label": "Town of Penney Farms Land Development Regulations (adopted 6/28/2006, updated 4/20/2020)",
+      "url": "https://penneyfarmsfl.org/wp-content/uploads/Penney-Farms-LDRs-2020.pdf",
+      "checked": "2026-09-13",
+      "supports": [
+        "Cover: \"TOWN OF PENNEY FARMS Land Development Regulations Adopted - 6/28/2006 Updated - 4/20/2020\"",
+        "5.01.01 Removal Of Trees, A: \"Removal of a tree includes any act which will cause a tree to die, such as damage inflicted upon the root system by heavy machinery, changing the natural grade above the root system or round the trunk, damage, including fire damage, inflicted on the tree permitting infection or pest infestation.\"",
+        "5.01.01 B: \"It shall be unlawful for any person, organization, society, association or corporation or any agent or representative thereof, directly or indirectly, to cut down, destroy, remove or move, or effectively destroy through damaging any protected tree listed below located on any property without obtaining a permit except for lots in residential districts under one (1) acre.\"",
+        "5.01.01 B table: \"Turkey Oak (Quercus laevis) 12\" or larger; Other Oak Species (Quercus spp.) 12\" or larger; Maple (Acer spp.) 18\" or larger; Sweet Gum 18\" or larger; Hickory 18\" or larger; Elm (Ulmus spp.) 18\" or larger; Lobloly Bay 12\" or larger; Sweet Bay 12\" or larger; Real Bay (Persea borbonia) 12\" or larger; Swamp Bay (Persea palustris) 12\" or larger; Sycamore (Platanus occidentalis) 18\" or larger; Magnolia 12\" or larger\"",
+        "5.01.03 A: \"In respect to removal of a protected tree to allow construction of improvements, as a condition for granting a permit, the Town Council shall require the developer to replace the protected tree with the installation of new trees. The number and location of new trees shall be based on a site plan submitted by the developer and approved by the council.\"",
+        "Article II definition: \"DBH - Diameter at breast height. \"Breast height\" is defined to be fifty-four (54) inches above the surface of the ground at the base of the plant or tree. In the case of a tree with multiple main stems, the diameter shall be the sum of the diameters of the stems.\"",
+        "Article II definition: \"Protected Tree - Any tree that has a DBH of more than eight (8) inches, and which is not otherwise exempted from this Code. In addition, all palms with at least four and one-half (4 1/2) feet of clear trunk between the ground level and the lowest branch are declared to be protected trees.\"",
+        "Article II definition: \"Tree Protection Zone - A circular zone around each protected tree. If the drip line is less than six (6) feet from the trunk of the tree, the zone shall be that area within a radius of six (6) feet around the tree. If the drip line is more than six (6) feet from the trunk of the tree, but less than twenty (20) feet, the zone shall be that area within a radius of the full drip line around the tree. If the drip line is twenty (20) feet or more from the trunk of the tree, the zone shall be that area within a radius of twenty (20) feet around the tree.\"",
+        "Article II definition: \"Development or Development Activity - Any of the following activities: 1. Construction, clearing, filling, excavating, grading, paving, dredging, mining, drilling or otherwise significantly disturbing the soil of a site. 2. Building, installing, enlarging, replacing or substantially restoring a structure, impervious surface, or water management system ... 4. A tree removal for which authorization is required under this Code.\"",
+        "Article II definition: \"Impervious Surface - A surface that has been compacted or covered with a layer of material so that it is highly resistant to infiltration by water. It includes, but is not limited to, semi-impervious surfaces such as compacted clay, as well as most conventionally surfaced streets, roofs, sidewalks, parking lots and other similar structures.\"",
+        "Article II definition: \"Wellhead Protection Area, Zone Of Exclusion - All land within a two hundred (200) foot radius of an existing or designated protected wellhead.\"",
+        "6.01.01 C: \"Specific Requirements for Rural Density Residential 1.Mobile Homes - 1 acre of land 2. Minimum Lot Area - 43,560 square feet\"",
+        "6.01.01 D.2: \"Every lot or parcel of land shall have an area of not less than twenty one thousand (21,000) square feet and a frontage at the building line of at least one hundred (100) feet.\" (Low Density Residential)",
+        "6.01.01 E.2: \"Every lot or parcel of land shall have an area of not less than seven thousand (7,000) square feet and a frontage at the building line of at least seventy (70) feet.\" (Medium-Low Density)",
+        "6.01.02 B: \"The impervious surface ratio is calculated by dividing the total impervious surface by the gross site area.\" C: \"If porous paving materials are used in accord with the standards approved by the Town, then the area covered with porous paving materials shall not be counted as impervious surface.\"",
+        "6.01.02 D Table of Impervious Surface Ratios: \"Rural Density Residential 0.35; Low Density Residential 0.40; Medium-Low Residential 0.50; Commercial 0.70; Industrial 0.70; Institutional 0.70\"",
+        "5.04.02 A: \"No development activities shall take place in the zone of exclusion which is the area within 50 feet of a public drinking well.\" B: \"The following land uses are prohibited within Wellhead Protection Zone, the area within 300 feet of a public drinking well: ... 7. Excavation of waterways or drainage facilities which intersect the water table.\"",
+        "6.06.01 Exemption: \"Lots or parcels of land on which a single family home is used as a residence shall be exempt from all provisions of these landscaping regulations. This shall not be construed to exempt any residential developments that require the approval of a development plan.\"",
+        "6.06.04 C: \"All landscaped areas shall be provided with an appropriate irrigation system that conforms to the standards approved by the Town of Penney Farms. If a landscaped area contains primarily species native to the immediate region, or plants acceptable for xeric landscaping, the Town, may waive the requirement for installation of an irrigation system.\" D Non-Living Materials: \"Mulches shall be a minimum depth of two (2) inches and plastic surface covers shall not be used.\"",
+        "12.01.01: \"No development activity may be undertaken unless the activity is authorized by a development permit.\"",
+        "12.05.01: \"Application for a Development Permit shall be made to the Town Clerk on a form provided by the town and may be acted upon by the town without public hearing or notice.\" 12.05.02: \"The Building Inspector appointed by the town shall review all applications for development permits prior to issuance of the permits by the Town Clerk.\""
+      ]
+    },
+    {
+      "label": "Town of Penney Farms: Building Department (permit applications)",
+      "url": "https://penneyfarmsfl.org/building-department/",
+      "checked": "2026-09-12",
+      "supports": [
+        "Page lists town permit forms including \"Development Plan Application\", \"Site Clearing/Site Work Application\" and \"Application for Special Flood Hazard Area\", with contact for the Town Clerk at \"4100 Clark Avenue Penney Farms, FL 32079\"."
+      ]
+    },
+    {
+      "label": "Town of Penney Farms: Site Clearing/Site Work Application",
+      "url": "https://penneyfarmsfl.org/wp-content/uploads/Site-Clearing-Site-Work-Application.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "A. PROJECT fields: \"Address of Subject Property: Parcel ID Number(s): Existing Use of Property: FLUM Designation: Description of Work: Acreage of Parcel:\"",
+        "C. ATTACHMENTS: \"1. Site Plan and Survey including but not limited to: a. Name and owner of property. b. Vicinity map – indicating general location of the site and all abutting streets and properties. c. Statement of Proposed Work. d. Delineation of wetlands. 2. Legal description with tax parcel number. 3. [Deed] or other proof of ownership. 4. Permit from the St. Johns River Water Management District, if impacting wetlands.\"",
+        "\"All attachments are required for a complete application. A completeness review of the application will be conducted within fourteen (14) business days of receipt. If the application is determined to be incomplete, the application will be returned to the applicant.\"",
+        "Header: \"Town of Penney Farms, Florida ... 4100 Clark Avenue Penney Farms, FL 32079\""
+      ]
+    },
+    {
+      "label": "Town of Penney Farms: Utility Information",
+      "url": "https://penneyfarmsfl.org/utility-information/",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"Utility Information Water Quality Reports ... 2025 CCR Water Report Pay Your Water Bill Online\"",
+        "\"Utility Bills are issued on the 1st of each month or if it falls on a weekend, they are issued on the next business day.\"",
+        "\"You may use our dropbox or lobby service when paying your bill or mail your payment to PO Box 1041, Penney Farms FL 32079.\""
+      ]
+    },
+    {
+      "label": "Town of Penney Farms 2025 Annual Drinking Water Quality Report",
+      "url": "https://penneyfarmsfl.org/wp-content/uploads/Town-of-Penney-Farms-CCR-2025.pdf",
+      "checked": "2026-09-12",
+      "supports": [
+        "\"2025 ANNUAL DRINKING WATER QUALITY REPORT TOWN OF PENNEY FARMS – PWSID# 2101019\"",
+        "\"Our water source is ground water from two wells that draw from the Floridan Aquifer. Our water is treated with chlorination for disinfection.\""
+      ]
+    },
+    {
+      "label": "Town of Penney Farms Comprehensive Plan 2046 (adopted January 20, 2026)",
+      "url": "https://penneyfarmsfl.org/wp-content/uploads/Penney-Farms-2046-Comprehensive-Plan-1-2026-No-Underline-and-Strikeout.pdf",
+      "checked": "2026-09-13",
+      "supports": [
+        "Cover: \"Comprehensive Plan 2046 Adopted January 20, 2026\"",
+        "L.1.1.1: \"Land development Regulations shall implement this Comprehensive Plan and shall be consistent with the following standards for residential densities and intensities for development consistent with the Future Land Use Map as indicated below: a. Low density residential - 1 to 3 units per gross acre. b. Medium low density residential - 3 to 6 units per gross acre. c. Institutional - town facilities, educational facilities, pre-school and day care facilities, churches, residential care facilities, independent care facilities, halfway housing, nursing home facilities, and all other similar institutional and governmental uses. d. Commercial Town - professional services and offices, and personal service businesses.\" (list continues with Commercial Highway, Recreation, Utilities and Mixed Use categories; no Rural category appears)",
+        "Water Supply Facilities Work Plan 2.1: \"The Town owns and maintains a potable water system and is the only public water supplier within its municipal limit.\"",
+        "5.2: \"Non-potable water service is not currently available within the Town's municipal limits and there are no plans to provide this service within the planning period of the work plan.\"",
+        "7.1 New Water Conservation Practices: \"Adopting regulations to allow enforcement of SJRWMD's irrigation rule and that provide landscape and irrigation standards (Ordinance 2009-02).\""
+      ]
+    },
+    {
+      "label": "Rule 62-308.100, F.A.C. — adopted rule text, Florida Administrative Code",
+      "url": "https://www.flrules.org/gateway/ruleNo.asp?id=62-308.100",
+      "checked": "2026-09-08",
+      "supports": [
+        "Rule record: Chapter 62-308, \"Minimum Standards for the Installation of Synthetic Turf on Specified Properties\". Effective Date: 5/19/2026. History note \"History–New 5-19-26\". Rulemaking Authority and Law Implemented: 125.572 FS.",
+        "Adopted text, paragraph (2)(c): \"Infill material, if used, shall only be clean silica sand, rock, shell, or other natural material, except that coated silica sand may be used provided that any coating used is non-toxic...\"",
+        "s. 125.572(3)(a), Florida Statutes, is the law the rule implements: it bars a local government from prohibiting synthetic turf on single-family residential property, on a lot of one acre or less, when that turf complies with the DEP standards adopted under the section — reused here from the same primary source already vetted and cited for the site's Florida Turf Infill Rules guide (src/data/guides.ts)."
+      ]
+    },
+    {
+      "label": "USDA NRCS Soil Data Access (SSURGO), queried 2026-09-12 at two points inside Penney Farms town limits",
+      "url": "https://sdmdataaccess.sc.egov.usda.gov/",
+      "checked": "2026-09-12",
+      "supports": [
+        "Point -81.8107685, 29.9807103 (the Census internal point of \"Penney Farms town\", GEOID 1255875): mukey 132820 \"Hurricane fine sand, 0 to 5 percent slopes\", component Hurricane 85%, \"Somewhat poorly drained\", hydrologic group A, minimum wet-season soil moisture depth 69 cm, flooding frequency \"None\".",
+        "Point -81.8106, 29.9769 (Census geocoder returns \"Penney Farms town\", Clay County): mukey 132854 \"Leon fine sand, 0 to 2 percent slopes\", component Leon 89%, \"Poorly drained\", hydrologic group A/D, \"Sandy, siliceous, thermic Aeric Alaquods\", minimum wet-season soil moisture depth 31 cm, flooding frequency \"None\"."
+      ]
+    }
+  ]
+}

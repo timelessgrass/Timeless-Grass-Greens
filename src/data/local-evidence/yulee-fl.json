@@ -1,0 +1,87 @@
+{
+  "intent": "A Yulee homeowner, or a business on a new site, wants an artificial lawn, dog run or putting green and needs to know which rulebook covers the parcel: Nassau County's William Burgess District Blueprint, an older PUD development order, the ENCPA approvals that govern much of Wildlight, or the county Land Development Code on its own. Yulee was named as part of the northern edge of the northeast Florida service area on the onboarding call (00:39:18).",
+  "distinctValue": "No other town page carries the William Burgess District overlay. Nassauville lies east of US 17 and Nassau Village-Ratliff west of I-95, so both sit outside it, and Fernandina Beach is a city with its own code. The overlay gives a Yulee buyer a concrete test: the district is the 5,400 acres east of I-95, west of US-17, south of SR-200 and north of the Nassau River, checkable on the Property Appraiser's map layer. Inside it, Blueprint section 4.1.2(b) exempts the construction or replacement of a single-family dwelling on a parcel existing as of July 8, 2019 from the design standards; pre-2019 PUD development orders and the ENCPA approvals keep their own rules, with the Blueprint filling gaps. Where the Blueprint applies, 4.11.2.1 pulls in Sec. 37.05 LDC and requires turfgrass, approved groundcover or mulch on all non-paved, non-built developed areas, while Sec. 37.05 says synthetic groundcovers are not acceptable substitutes; the Blueprint never mentions artificial turf, so the page sends the reader to the Nassau County Planning Department (904-530-6320) to ask whether turf counts as groundcover on a district site plan. Local specifics a pet or commercial buyer can act on: front-yard fences capped at four feet, at least 50% transparent, no chain link (4.5.2.5); the ROW planting strip maintained by the adjacent owner (4.11.2.1(a)(i)); ponds planted as landscape features with recorded maintenance agreements (4.12.2.1(g), 4.12.2.2); variances through PEO to the CUVB, with financial hardship excluded (4.1.7). The Phase III watering order is dated to the day it was checked.",
+  "sources": [
+    {
+      "label": "Nassau County: William Burgess Overlay District",
+      "url": "https://www.nassaucountyfl.com/1226/William-Burgess-Overlay-District",
+      "checked": "2026-09-12",
+      "supports": [
+        "all the lands east of I-95, West of US-17, South of SR-200 and North of the Nassau River",
+        "5,400 acres",
+        "July 8, 2019 via Ordinances 2019-19 and 2019-20",
+        "Nassau County Property Appraiser's map tool: Map Layers, then Planning and Growth Management, then William Burgess District Transect",
+        "FINAL William Burgess Context and Connectivity Blueprint: /DocumentCenter/View/29303/WBCCB-07282025-FINAL-WITH-ADDENDUM"
+      ]
+    },
+    {
+      "label": "William Burgess District Context and Connectivity Blueprint (final with amendments, 28 July 2025)",
+      "url": "https://www.nassaucountyfl.com/DocumentCenter/View/29303/",
+      "checked": "2026-09-12",
+      "supports": [
+        "July 28, 2025 FINAL WITH AMENDMENTS APPROVED ON July 8, 2022, AND ADDENDUM APPROVED ON April 22, 2024",
+        "4.1.2 Applicability a. All development, new development and redevelopment, that is located within the WBD shall be consistent with the regulatory standards of the WB CCB unless expressly exempted therefrom. These regulatory controls shall apply to both private and public lands within the WBD.",
+        "b. The construction or replacement of a single family dwelling on an individual parcel of land existing as of July 8, 2019 shall not be subject to the design standards defined in the WB CCB. This exemption shall not apply to a parcel of land that has been rezoned and FLUM amended to a transect as defined in 4.1.4.",
+        "c. Any Planned Unit Development (PUD) with a Development Order (DO) executed by the Board of County Commissioners (BOCC) prior to July 8, 2019 shall be subject to the standards defined in the approved PUD DO. ... However, where the PUD DO is silent and/or ambiguous the WB CCB shall control.",
+        "d. The East Nassau Community Planning Area (\"ENCPA\") Special District (T-7SD/T-7.1), including the ENCPA Conservation Habitat Network within T-1, is regulated by the ENCPA Master Land Use Plan and related text in Objective FL.13 of the 2030 Comprehensive Plan and the associated Policies, the Employment Center Detailed Specific Area Plan (\"DSAP\") Development Order, the ENCPA Mobility Agreement, Article 27 of the Land Development Code and the Market Street Preliminary Development Plan, as may be amended (the \"ENCPA Approvals\"). ... However, where any of the \"ENCPA Approvals\" are silent and/or ambiguous the WB CCB shall control.",
+        "4.4.6 Wildlight The Wildlight area is largely regulated, in part, by the ENCPA's Employment Center DSAP and Market Street PDP.",
+        "Properties outside the ENCPA but within the Wildlight Village Center (VC), as shown on the WBD Regulating Plan, shall compliment and expand the design aesthetic and walkability of the Wildlight VC.",
+        "4.5.1 Site plan standards, as listed in this section, shall apply to all new development and redevelopment in the William Burgess District (WBD), whether being developed according to an existing zoning and FLUM designation, or the Transect zone and FLUM designation.",
+        "4.5.2.5 Fences a. Front Yards, as defined in Article 32, LDC. Fences located within a front yard shall not exceed four (4) feet in height. All front yard fences must be at least 50% transparent. Chain link fences are prohibited.",
+        "b. Side and Rear Yards, as defined in Article 32, LDC. Side and rear yard fences shall not exceed six (6) feet in height, except for non-residential uses and the fence is approved by the Development Review Committee",
+        "4.11.1 d. ... conservation of water through Xeriscape design strategies including but not limited to the application and maintenance of landscape mulch to retain soil moisture, the limiting of Turfgrass areas and reduction of water use",
+        "4.11.2.1 Planting a. All sites shall meet the minimum standards for landscaping defined in Sec. 37.05 of the Nassau County Land Development Code (LDC) unless expressly stated otherwise in this document.",
+        "i. The pervious strips found in section 37.05.D LDC are included within the ROW in the WBD, depicted as the furnishing zone and shown in the thoroughfare cross-sections. All plantings required in this strip shall be planted at the time the adjacent parcel is developed and shall maintained by the adjacent property owner. The planting requirements are listed in the thoroughfare section of this plan.",
+        "e. All landscaping in Class II-IV development shall have permanent irrigation.",
+        "f. No disturbed ground shall be left exposed. Turfgrass and other approved and appropriate groundcovers or mulch shall cover all non-paved and non-built developed areas.",
+        "4.12.2.1 g. Stormwater management facilities shall have a signed and recorded maintenance agreement on a document approved by the County Attorney.",
+        "4.12.2.2 a. Stormwater detention and retention ponds shall be integrated landscape features, and shall be planted with appropriate trees, shrubs and grasses.",
+        "d. Native plant perennial landscapes should replace turf grass where possible and be very diverse.",
+        "4.1.7.1 Request for variances to the WBD design guidelines shall be considered by the Conditional Use and Variance Board (CUVB). Request for a variance shall be submitted to the Department of Planning and Economic Opportunity (PEO).",
+        "4.1.7.2 g. Financial hardship on the owner/developer is not a criteria of consideration by the CUVB and shall not be the basis for which a variance is granted."
+      ]
+    },
+    {
+      "label": "Nassau County Code, Appendix A, Art. 37, Sec. 37.05 (Landscaping)",
+      "url": "http://nassaucounty-fl.elaws.us/code/coor_apxa_florida_art37_sec37.05",
+      "checked": "2026-09-12",
+      "supports": [
+        "Synthetic or artificial trees, shrubs, groundcovers or vines are not acceptable substitutes.",
+        "The foregoing represent the entire requirement applicable to individual one and two-family dwellings."
+      ]
+    },
+    {
+      "label": "Nassau County: Land Development Code and Planning Department",
+      "url": "https://www.nassaucountyfl.com/1212/Land-Development-Code",
+      "checked": "2026-09-12",
+      "supports": [
+        "For more information, please contact the Nassau County Planning Department at 904-530-6320.",
+        "William Burgess Overlay District",
+        "East Nassau Community Planning Area (ENCPA)"
+      ]
+    },
+    {
+      "label": "St. Johns River Water Management District: watering restrictions",
+      "url": "https://www.sjrwmd.com/wateringrestrictions/",
+      "checked": "2026-09-12",
+      "supports": [
+        "A Phase III Extreme Water Shortage has been declared due to ongoing drought conditions across portions of the District.",
+        "Portions of Baker, Bradford, Lake, Clay, Duval, Flagler, Nassau, Putnam, and St. Johns counties within the District.",
+        "Water Shortage Order (2026-017)",
+        "Landscape irrigation is limited to one day per week and prohibited between the hours of 8 a.m. and 6 p.m.",
+        "Odd-numbered addresses: Saturday. Even-numbered addresses: Sunday.",
+        "Restrictions apply to private wells and pumps, ground or surface water and water from public and private utilities.",
+        "watered every day for the first 15 days after installation, up to three days per week for the next 30 days, and only two days per week for the final 15 days"
+      ]
+    }
+  ],
+  "unresolved": [
+    "Neither the Blueprint nor Sec. 37.05 names artificial turf. Sec. 37.05 rejects synthetic groundcovers as substitutes and Blueprint 4.11.2.1(f) requires turfgrass, approved groundcover or mulch on non-paved, non-built developed areas, but whether synthetic turf can ever count as 'approved and appropriate groundcover' on a WBD site plan is not settled in the text. The page tells the reader to ask the Nassau County Planning Department, 904-530-6320, in writing.",
+    "Blueprint 4.1.2(a) reaches 'all development, new development and redevelopment'. Whether a back-yard turf installation at an existing home, with no application attached, counts as development under it is not answered; the page says to ask Planning before assuming either way.",
+    "The fence standards sit in section 4.5 (site plan standards for new development and redevelopment). Whether they reach a fence added at an existing single-family home exempt under 4.1.2(b) is not answered; the page says to ask Planning.",
+    "No Wildlight association or design-review turf standard was reviewed for this page (web search was unavailable in this session, and the brief's researcher found none published). The page names no committee and sends the reader to their association for the current landscape standard in writing.",
+    "The SJRWMD Phase III order is time-sensitive. The district page viewed on 2026-09-12 lists Nassau County under order 2026-017 but did not show its declaration date; the page dates the fact and tells the reader to check the order in force.",
+    "Kept off the page per the brief: population, income, pet-demand framing, and any claim that JEA reclaimed water serves particular Yulee neighbourhoods (not verified).",
+    "The share of the Yulee CDP that lies inside the WBD was not measured; the page states the district's boundary roads and makes the rule conditional on the reader's address rather than claiming how much of Yulee is inside."
+  ]
+}
