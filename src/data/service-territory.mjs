@@ -117,6 +117,7 @@ export const GRAND_STRAND_INTERIOR_IDS = new Set([
 // Places inside the client's drawn Denver and northeast Florida outlines that earned a page once the
 // territory was reconciled. The drawn outline decides, not the county name.
 export const DENVER_INTERIOR_IDS = new Set([
+  'broomfield-co',
   'dakota-ridge-co',
   'federal-heights-co',
   'glendale-co',

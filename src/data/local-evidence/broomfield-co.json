@@ -1,0 +1,44 @@
+{
+  "intent": "Show a Broomfield homeowner what the city's own 2026 landscape code names for artificial turf — where it's permitted, the city's own contradictory note about whether the new rules touch single-unit homes at all, and the two water rules (Water Use Ordinance, Drought Watch) that a turf lawn sidesteps.",
+  "distinctValue": "Broomfield is a combined city and county with its own landscape ordinance (No. 2291, adopted 13 January 2026) that names artificial turf directly and limits it to single-unit backyards, athletic fields and purpose-built dog parks — a rule no neighboring published page (Westminster, Superior, Louisville, Erie, Lafayette, Northglenn, Thornton) carries. The city's own explainer also undercuts its own permitted-use list by saying the new regulations don't affect single-unit residential landscaping at all, which this page surfaces as a question for Broomfield Planning rather than asserting either reading as settled.",
+  "sources": [
+    {
+      "label": "Broomfield Voice: landscape code update (Ordinance No. 2291)",
+      "url": "https://www.broomfieldvoice.com/update-to-broomfield-landscape-code",
+      "checked": "2026-09-13",
+      "supports": [
+        "Ordinance 2291: The page confirms this ordinance updates the Broomfield Municipal Code for revised turf requirements and was approved January 13, 2026.",
+        "Artificial turf is permitted in specific areas: Athletic fields of play, Backyards of single-unit residential lots, Dog parks (when specifically designed for that use).",
+        "The new regulations do not impact landscaping for single-unit residential properties, including both attached and detached homes.",
+        "Ordinance No. 2291 Revisions to the Landscape Code for Revised Turf Requirements",
+        "Chapter 17-70 relating to turf and other related revisions"
+      ]
+    },
+    {
+      "label": "City of Broomfield: Water Use Ordinance",
+      "url": "https://www.broomfield.org/4490/Water-Use-Ordinance",
+      "checked": "2026-09-13",
+      "supports": [
+        "went into effect on Jan. 1, 2025",
+        "Water only between 6 p.m. and 10 a.m.",
+        "Even-numbered addresses: Monday, Wednesday, Friday",
+        "Odd-numbered addresses: Tuesday, Thursday, Sunday",
+        "Watering no more than three days per week, even when there is no drought",
+        "Repair leaking sprinkler systems within 10 days",
+        "Don't let water pool on hard surfaces or flow down gutters",
+        "Hard surface cleaning with water only permitted for public health/safety concerns"
+      ]
+    },
+    {
+      "label": "City of Broomfield: Water Use and Drought Levels",
+      "url": "https://www.broomfield.org/4249/Water-Use-and-Drought-Levels",
+      "checked": "2026-09-13",
+      "supports": [
+        "Current Stage: Drought Watch",
+        "Declaration Date: February 9, 2026",
+        "Restriction Type: Voluntary",
+        "residents are asked to voluntarily limit watering to no more than two days per week"
+      ]
+    }
+  ]
+}
