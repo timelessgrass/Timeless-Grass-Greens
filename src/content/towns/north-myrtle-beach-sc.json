@@ -52,7 +52,8 @@
       "paras": [
         "Since 6 October 2025, North Myrtle Beach treats a surface on a house or duplex lot as impervious unless it passes Sec. 23-129.4. To count as pervious it must let water through into the ground, show an infiltration rate of at least two inches per hour on manufacturer testing or accepted industry standards, go in to the manufacturer's specification, pass inspection and be maintained. Miss any of those and it counts as impervious, \"regardless of material type or labeling\" (<a href=\"https://library.municode.com/sc/north_myrtle_beach/codes/code_of_ordinances?nodeId=COOR_CH23ZO_ARTVIIGESURE_S23-129.4STPESUIMSUSIMIDURENOSUSIECDEPLRE\" target=\"_blank\" rel=\"nofollow noopener\">City of North Myrtle Beach code</a>).",
         "The rule never says artificial turf, but it decides how turf is counted. The permit application has to include the manufacturer's specifications and construction details, and the city inspects the base materials (<a href=\"https://www.nmb.us/AgendaCenter/ViewFile/Item/1281?fileID=3993\" target=\"_blank\" rel=\"nofollow noopener\">ordinance text, first reading</a>). At the second reading, planning staff told council it only affects a permit once a lot's pervious ratio would be exceeded (<a href=\"https://www.nmb.us/AgendaCenter/ViewFile/Item/1308?fileID=4116\" target=\"_blank\" rel=\"nofollow noopener\">council minutes, 6 October 2025</a>).",
-        "It covers single-family and duplex lots that don't go through a site-specific development plan. Before you apply, ask whoever installs your turf for the manufacturer's infiltration data and a drawing of the base, since both go in with the application."
+        "It covers single-family and duplex lots that don't go through a site-specific development plan. Before you apply, ask whoever installs your turf for the manufacturer's infiltration data and a drawing of the base, since both go in with the application.",
+        "Cherry Grove Beach, Ocean Drive Beach and Windy Hill Beach are wards of the city, not separate towns — the code names them as three of the four historic beach communities combined to form North Myrtle Beach, so Sec. 23-129.4 and the stormwater fee above apply there exactly as anywhere else in the city. The only rule that singles any of them out by name is the Activity Center Overlay, which relaxes commercial parking within a third of a mile of Sea Mountain Highway and Spring Street in Cherry Grove, Main Street and Hillside Drive in Ocean Drive, and 37th Avenue South and Seaview Street in Windy Hill — a business-parking allowance, not a yard rule (<a href=\"https://www.zoneomics.com/code/north-myrtle-beach-SC/chapter_3\" target=\"_blank\" rel=\"nofollow noopener\">zoning code, chapter 3</a>). A lot east of Ocean Boulevard in any of the three also falls under the Coastal Protection Overlay's erosion and beach-safety rules, on top of the pervious-surface test, the same as any other oceanfront lot in the city."
       ]
     },
     {
@@ -88,6 +89,14 @@
     {
       "q": "When did the pervious rule pass?",
       "a": "The Planning Commission recommended it unanimously after a public hearing on 22 July 2025, with no public comment. Council passed first reading on 18 August 2025 and second reading, 6-0, on 6 October 2025 (<a href=\"https://www.nmb.us/AgendaCenter/ViewFile/Item/1281?fileID=3993\" target=\"_blank\" rel=\"nofollow noopener\">staff report</a>, <a href=\"https://www.nmb.us/AgendaCenter/ViewFile/Item/1308?fileID=4116\" target=\"_blank\" rel=\"nofollow noopener\">council minutes</a>)."
+    },
+    {
+      "q": "Are Cherry Grove Beach, Ocean Drive Beach and Windy Hill Beach separate towns?",
+      "a": "No. They're wards inside North Myrtle Beach city limits — three of the four historic beach communities the city was formed from. The same pervious-surface test and stormwater fee that apply anywhere else in the city apply there too; the only rule that names them individually is a business-parking relaxation near each area's old commercial center, not a yard rule (<a href=\"https://www.zoneomics.com/code/north-myrtle-beach-SC/chapter_3\" target=\"_blank\" rel=\"nofollow noopener\">zoning code, chapter 3</a>)."
+    },
+    {
+      "q": "Do beachfront rules apply to a yard in Cherry Grove Beach, Ocean Drive Beach or Windy Hill Beach?",
+      "a": "If the lot sits east of Ocean Boulevard in any of the three, the Coastal Protection Overlay's erosion-control and beach-safety rules apply in addition to Sec. 23-129.4 — the same overlay that reaches any other oceanfront lot in the city. It adds requirements on top of the pervious-surface test; it doesn't relax it (<a href=\"https://www.zoneomics.com/code/north-myrtle-beach-SC/chapter_3\" target=\"_blank\" rel=\"nofollow noopener\">zoning code, chapter 3</a>)."
     }
   ],
   "nearby": [
@@ -140,11 +149,18 @@
     {
       "label": "Wikipedia: Atlantic Beach, South Carolina",
       "url": "https://en.wikipedia.org/wiki/Atlantic_Beach,_South_Carolina"
+    },
+    {
+      "label": "Zoneomics copy of the City of North Myrtle Beach zoning code, chapter 3 (Activity Center and Coastal Protection overlay zones)",
+      "url": "https://www.zoneomics.com/code/north-myrtle-beach-SC/chapter_3"
     }
   ],
-  "checked": "2026-09-07",
+  "checked": "2026-09-13",
   "foldedFrom": [
-    "atlantic-beach-sc"
+    "atlantic-beach-sc",
+    "cherry-grove-beach-sc",
+    "ocean-drive-beach-sc",
+    "windy-hill-beach-sc"
   ],
   "publicReferences": [
     "https://library.municode.com/sc/north_myrtle_beach/codes/code_of_ordinances?nodeId=COOR_CH23ZO_ARTVIIGESURE_S23-129.4STPESUIMSUSIMIDURENOSUSIECDEPLRE"

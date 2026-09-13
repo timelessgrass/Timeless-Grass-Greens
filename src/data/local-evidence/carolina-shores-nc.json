@@ -1,0 +1,180 @@
+{
+  "intent": "What should Carolina Shores homeowners check before installing artificial turf?",
+  "distinctValue": "Identify the specific community and authority over the proposed area, then distinguish association guidance from Town review.",
+  "sources": [
+    {
+      "label": "Town of Carolina Shores: the eight communities",
+      "url": "https://www.carolinashoresnc.com/communities",
+      "checked": "2026-09-11",
+      "supports": [
+        "The official Town directory names eight communities, including Carolina Shores Subdivision as one of them."
+      ]
+    },
+    {
+      "label": "Town of Carolina Shores: Carolina Shores Subdivision",
+      "url": "https://www.carolinashoresnc.com/carolinashoressubdivision",
+      "checked": "2026-09-11",
+      "supports": [
+        "The two official community pages describe differing home types; The Acreage is within Carolina Shores Subdivision."
+      ]
+    },
+    {
+      "label": "Town of Carolina Shores: Calabash Lakes",
+      "url": "https://www.carolinashoresnc.com/calabashlakes",
+      "checked": "2026-09-11",
+      "supports": [
+        "The two official community pages describe differing home types; The Acreage is within Carolina Shores Subdivision."
+      ]
+    },
+    {
+      "label": "Town of Carolina Shores: Planning & Zoning",
+      "url": "https://www.carolinashoresnc.com/planningzoning",
+      "checked": "2026-09-11",
+      "supports": [
+        "Town Planning & Zoning covers zoning, subdivision and floodplain functions in town and ETJ."
+      ]
+    },
+    {
+      "label": "Town of Carolina Shores: The Village at Calabash",
+      "url": "https://www.carolinashoresnc.com/thevillageatcalabash",
+      "checked": "2026-09-13",
+      "supports": [
+        "The Village at Calabash is a residential community located on Thomasboro Road."
+      ]
+    },
+    {
+      "label": "Town of Carolina Shores: frequently asked questions",
+      "url": "https://www.carolinashoresnc.com/faq",
+      "checked": "2026-09-11",
+      "supports": [
+        "The fence FAQ tells residents to check HOA/POA permission and then contact the Town about permitting."
+      ]
+    }
+  ],
+  "claimEvidence": [
+    {
+      "id": "CS-1",
+      "candidate_paths": [
+        "blocks[1].paras[0]"
+      ],
+      "claim": "The official Town directory names eight communities, including Carolina Shores Subdivision as one of them.",
+      "source_urls": [
+        "https://www.carolinashoresnc.com/communities"
+      ],
+      "evidence_type": "fresh primary-source verification",
+      "checked": "2026-09-11",
+      "source_locator": "Communities introductory paragraph and named community links.",
+      "limits": "Names establish identity only, not covenant text, HOA membership for a parcel, approval requirements, or coverage of an exact service polygon.",
+      "mappedClaim": "Carolina Shores contains several communities, with Carolina Shores Subdivision one of them.",
+      "mappingUpdated": "2026-09-11"
+    },
+    {
+      "id": "CS-3",
+      "candidate_paths": [
+        "blocks[1].paras[1]"
+      ],
+      "claim": "Town Planning & Zoning covers zoning, subdivision and floodplain functions in town and ETJ.",
+      "source_urls": [
+        "https://www.carolinashoresnc.com/planningzoning"
+      ],
+      "evidence_type": "fresh primary-source verification",
+      "checked": "2026-09-11",
+      "source_locator": "Planning division introduction and program descriptions.",
+      "limits": "No turf-specific code interpretation, universal Town permit requirement or exact parcel jurisdiction is claimed.",
+      "mappedClaim": "Ask Town Planning & Zoning about the complete proposal and any grading or drainage changes.",
+      "mappingUpdated": "2026-09-11"
+    },
+    {
+      "id": "CS-5",
+      "candidate_paths": [
+        "blocks[1].paras[2]",
+        "faq[5]"
+      ],
+      "claim": "Calabash Lakes and The Village at Calabash, two of the Town's eight communities, are located on Thomasboro Road.",
+      "source_urls": [
+        "https://www.carolinashoresnc.com/calabashlakes",
+        "https://www.carolinashoresnc.com/thevillageatcalabash"
+      ],
+      "evidence_type": "fresh primary-source verification",
+      "checked": "2026-09-13",
+      "source_locator": "Community overview paragraph on each page (\"...is a residential community located on Thomasboro Road\").",
+      "limits": "Confirms which two Town communities front Thomasboro Road, not a specific parcel's boundary, mailing address, or which authority (Town vs. county) reviews a given lot. No claim is made about any address outside these two communities.",
+      "mappedClaim": "Thomasboro Road runs through two of the Town's eight communities, Calabash Lakes and The Village at Calabash.",
+      "mappingUpdated": "2026-09-13"
+    }
+  ],
+  "reviewNotes": [
+    "Obtain current property/community documents and authorization for the particular area.",
+    "Confirm Town treatment of the actual turf, drainage and related construction scope.",
+    "Phase 4 mappings follow retained customer-facing statements. Original observations and checked dates are preserved; this edit is not a new source verification."
+  ],
+  "mappingHistory": [
+    {
+      "archived": "2026-09-11",
+      "reason": "Pre-editorial paragraph mappings retained for provenance; unmapped claims were removed from public copy, not reverified.",
+      "claimEvidence": [
+        {
+          "id": "CS-1",
+          "candidate_paths": [
+            "blocks[0].paras[0]",
+            "faq[0]",
+            "faq[1]"
+          ],
+          "claim": "The official Town directory names eight communities, including Carolina Shores Subdivision as one of them.",
+          "source_urls": [
+            "https://www.carolinashoresnc.com/communities"
+          ],
+          "evidence_type": "fresh primary-source verification",
+          "checked": "2026-09-11",
+          "source_locator": "Communities introductory paragraph and named community links.",
+          "limits": "Names establish identity only, not covenant text, HOA membership for a parcel, approval requirements, or coverage of an exact service polygon."
+        },
+        {
+          "id": "CS-2",
+          "candidate_paths": [
+            "blocks[1].paras[0]"
+          ],
+          "claim": "The two official community pages describe differing home types; The Acreage is within Carolina Shores Subdivision.",
+          "source_urls": [
+            "https://www.carolinashoresnc.com/carolinashoressubdivision",
+            "https://www.carolinashoresnc.com/calabashlakes"
+          ],
+          "evidence_type": "fresh primary-source verification",
+          "checked": "2026-09-11",
+          "source_locator": "Community overview paragraphs.",
+          "limits": "Housing form does not prove deed ownership, common-area boundaries or responsibility for any individual yard. The draft explicitly asks the homeowner to verify these."
+        },
+        {
+          "id": "CS-3",
+          "candidate_paths": [
+            "blocks[2].paras[0]",
+            "answer.answer",
+            "faq[2]"
+          ],
+          "claim": "Town Planning & Zoning covers zoning, subdivision and floodplain functions in town and ETJ.",
+          "source_urls": [
+            "https://www.carolinashoresnc.com/planningzoning"
+          ],
+          "evidence_type": "fresh primary-source verification",
+          "checked": "2026-09-11",
+          "source_locator": "Planning division introduction and program descriptions.",
+          "limits": "No turf-specific code interpretation, universal Town permit requirement or exact parcel jurisdiction is claimed."
+        },
+        {
+          "id": "CS-4",
+          "candidate_paths": [
+            "blocks[2].paras[1]"
+          ],
+          "claim": "The fence FAQ tells residents to check HOA/POA permission and then contact the Town about permitting.",
+          "source_urls": [
+            "https://www.carolinashoresnc.com/faq"
+          ],
+          "evidence_type": "fresh primary-source verification",
+          "checked": "2026-09-11",
+          "source_locator": "FAQ: \u201cHow do I get a fence approved?\u201d",
+          "limits": "This applies to the stated fence question. It is used only for a turf proposal that also includes a fence and is expressly not represented as an artificial-turf rule."
+        }
+      ]
+    }
+  ]
+}

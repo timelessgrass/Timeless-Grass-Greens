@@ -43,7 +43,8 @@
       "paras": [
         "Boulder's water-wise landscape standards took effect on 7 March 2026, and they say it plainly: \"Artificial turf is prohibited in all new development, unless it is functional artificial turf\" (<a href=\"https://bouldercolorado.gov/landscape-manual\" target=\"_blank\" rel=\"nofollow noopener\">City of Boulder</a>). Knowing where that line falls is what lets a Boulder project go ahead.",
         "On a home lot of three units or fewer, turf of either kind is capped at 25% of the lot or 1,000 square feet, whichever is less. Non-functional turf is out entirely on residential lots with more than three units, on commercial, industrial, public and institutional property, in the public right-of-way and in new HOA common areas.",
-        "Turf laid before 7 March 2026 is exempt unless changes to it bring it under the rules. If you already have turf and want to extend or rework it, that's the question to settle with the city first."
+        "Turf laid before 7 March 2026 is exempt unless changes to it bring it under the rules. If you already have turf and want to extend or rework it, that's the question to settle with the city first.",
+        "Eldorado Springs, the canyon hamlet southwest of town, is one of Boulder County's unincorporated communities, not the City of Boulder, so none of the city rules above reach it (<a href=\"https://bouldercounty.gov/government/about-boulder-county/unincorporated-towns/\" target=\"_blank\" rel=\"nofollow noopener\">Boulder County</a>). The Eldorado Springs Local Improvement District operates the neighborhood's shared sewage treatment plant and collection system, and its posted rules cover the sewer system, not yards or turf. Part of the canyon sits in Boulder County's mapped floodplain along South Boulder Creek, and some projects there need a floodplain development permit while others qualify under the county's General Floodplain Development Permit and need no individual review (<a href=\"https://bouldercounty.gov/transportation/permits/flood-control/\" target=\"_blank\" rel=\"nofollow noopener\">Boulder County</a>). Ask the county's floodplain program which category your Eldorado Springs lot falls into before you finalize a layout."
       ]
     },
     {
@@ -88,12 +89,19 @@
     {
       "q": "Can Boulder schools, parks or businesses use artificial turf?",
       "a": "On functional ground, yes: the city's definition covers turf regularly used for recreation or civic life, including playgrounds, sports fields, picnic grounds, amphitheaters, parts of parks and the playing area of a golf course (<a href=\"https://bouldercolorado.gov/landscape-manual\" target=\"_blank\" rel=\"nofollow noopener\">City of Boulder</a>). State law, for its part, exempts turf on fields of play (<a href=\"https://leg.colorado.gov/bills/sb24-005\" target=\"_blank\" rel=\"nofollow noopener\">SB24-005</a>)."
+    },
+    {
+      "q": "Does the City of Boulder's turf rule apply in Eldorado Springs?",
+      "a": "No. Eldorado Springs is one of Boulder County's unincorporated communities, not the City of Boulder, so the city's 7 March 2026 landscape standards don't reach it (<a href=\"https://bouldercounty.gov/government/about-boulder-county/unincorporated-towns/\" target=\"_blank\" rel=\"nofollow noopener\">Boulder County</a>). The local sewage district there regulates what goes down the pipe, not yards (<a href=\"https://bouldercounty.gov/government/boards-and-commissions/eldorado-springs-local-improvement-district/\" target=\"_blank\" rel=\"nofollow noopener\">Boulder County</a>). Part of the canyon sits in the county's mapped floodplain along South Boulder Creek, so check with the county's floodplain program before you finalize a layout."
     }
   ],
   "nearby": [
     "gunbarrel-co",
     "louisville-co",
     "superior-co"
+  ],
+  "foldedFrom": [
+    "eldorado-springs-co"
   ],
   "sources": [
     {
@@ -119,6 +127,18 @@
     {
       "label": "Colorado General Assembly: SB24-005",
       "url": "https://leg.colorado.gov/bills/sb24-005"
+    },
+    {
+      "label": "Boulder County: Unincorporated Towns and Communities",
+      "url": "https://bouldercounty.gov/government/about-boulder-county/unincorporated-towns/"
+    },
+    {
+      "label": "Boulder County: Eldorado Springs Local Improvement District",
+      "url": "https://bouldercounty.gov/government/boards-and-commissions/eldorado-springs-local-improvement-district/"
+    },
+    {
+      "label": "Boulder County: floodplain permits",
+      "url": "https://bouldercounty.gov/transportation/permits/flood-control/"
     }
   ],
   "checked": "2026-09-07",

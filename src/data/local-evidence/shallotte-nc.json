@@ -1,0 +1,154 @@
+{
+  "intent": "What should I check before installing artificial turf in Shallotte, NC?",
+  "distinctValue": "Verify property jurisdiction and compare a fully described drainage/access scope instead of assuming a small surface replacement is exempt.",
+  "sources": [
+    {
+      "label": "Town of Shallotte: Planning & Zoning",
+      "url": "https://www.townofshallotte.org/planning_zoning",
+      "checked": "2026-09-11",
+      "supports": [
+        "The Town describes land-use jurisdiction in town limits and its ETJ, with building-inspection inquiries directed to Brunswick County."
+      ]
+    },
+    {
+      "label": "Town of Shallotte: jurisdiction and zoning maps",
+      "url": "https://www.townofshallotte.org/index.asp?SEC=C206CE57-2C55-45E6-88CB-08032F3785DD",
+      "checked": "2026-09-11",
+      "supports": [
+        "Official maps may lag zoning or annexation changes."
+      ]
+    },
+    {
+      "label": "Brunswick County Planning & Community Enforcement",
+      "url": "https://www.brunswickcountync.gov/planning/",
+      "checked": "2026-09-13",
+      "supports": [
+        "\"Brunswick County Planning & Community Enforcement provides public planning services for unincorporated areas of Brunswick County that fall outside the planning jurisdictions of municipalities.\""
+      ]
+    },
+    {
+      "label": "Brunswick County Stormwater Quality Management and Discharge Control Ordinance (PDF)",
+      "url": "https://www.brunswickcountync.gov/DocumentCenter/View/7215",
+      "checked": "2026-09-13",
+      "supports": [
+        "Section 1.4 Applicability: \"The provisions of the Ordinance shall apply to all areas within the planning jurisdictional limits of Brunswick County.\"",
+        "Section 1.16(b)(ii): \"Any activity that disturbs land within 30 feet of the banks of a stream or other natural waterway within the County, except when such disturbance is designated as Exempt or Allowable in the Brunswick County Storm Water Management Manual.\"",
+        "Section 1.16(b)(iii): \"Any filling or excavation of a parcel that results in a change of land surface of four (4) inches or more and alters the existing drainage pattern; except instances when said filling or excavation is required for on-site sewage treatment systems that is necessary to meet the requirements of the Brunswick County Department of Health (BCDEH) and that is specifically approved and inspected by BCDEH.\"",
+        "Re-fetched and text-extracted from the PDF directly on 2026-09-13; text matches the quotes already verified for the site's Ash, NC page word for word."
+      ]
+    }
+  ],
+  "civietownFold": {
+    "note": "Civietown (civietown-nc) folds into this page rather than getting its own — no OpenStreetMap or federal place node exists for it, only the road name. Legacy research for the slug lives in src/data/cities/grand-strand.json and is pulled into this page's number-checking research via foldedFrom.",
+    "sources": [
+      {
+        "label": "OpenStreetMap Nominatim search for \"Civietown\"",
+        "url": "https://nominatim.openstreetmap.org/search?q=Civietown&format=json",
+        "checked": "2026-09-07",
+        "supports": [
+          "Only result returned is Civietown Road Southwest (SR 1132), Fulford, Brunswick County, ZIP 28462, at 33.9794783 / -78.3197121 — no place node exists for a settlement named Civietown."
+        ]
+      },
+      {
+        "label": "HomeTownLocator: \"Sivey Town\", Brunswick County, NC",
+        "url": "https://northcarolina.hometownlocator.com/nc/brunswick/sivey-town.cfm",
+        "checked": "2026-09-07",
+        "supports": [
+          "Lists \"Sivey Town\" as a populated place in Lockwoods Folly Township on the USGS Holden Beach quadrangle, roughly 33.97/-78.31, a likely variant spelling of the same settlement, with Shallotte given as about 4.4 miles away."
+        ]
+      }
+    ]
+  },
+  "claimEvidence": [
+    {
+      "id": "SH-1",
+      "candidate_paths": [
+        "blocks[1].paras[0]"
+      ],
+      "claim": "The Town describes land-use jurisdiction in town limits and its ETJ, with building-inspection inquiries directed to Brunswick County.",
+      "source_urls": [
+        "https://www.townofshallotte.org/planning_zoning"
+      ],
+      "evidence_type": "fresh primary-source verification",
+      "checked": "2026-09-11",
+      "source_locator": "Planning & Zoning body, jurisdiction and building inspection paragraphs.",
+      "limits": "No parcel was geocoded. Mailing-address caution is an inference from the jurisdiction/map distinction, not a determination for any address.",
+      "mappedClaim": "Confirm the parcel jurisdiction with Town Planning & Zoning; the mailing address alone does not determine it.",
+      "mappingUpdated": "2026-09-11"
+    },
+    {
+      "id": "SH-3",
+      "candidate_paths": [
+        "blocks[4].paras[0]"
+      ],
+      "claim": "Civietown has no incorporated town government of its own and doesn't appear as a place on federal or OpenStreetMap place records.",
+      "source_urls": [
+        "https://nominatim.openstreetmap.org/search?q=Civietown&format=json"
+      ],
+      "evidence_type": "fresh primary-source verification",
+      "checked": "2026-09-07",
+      "source_locator": "Nominatim search result set for the query \"Civietown\".",
+      "limits": "Confirms no OSM place node and no municipal government; does not itself establish which side of Shallotte's ETJ line any specific parcel falls on — that is stated as unverified on the page.",
+      "mappedClaim": "Civietown sits along Civietown Road SW (SR 1132), about 3.8 miles east of Shallotte, and has no incorporated town government of its own.",
+      "mappingUpdated": "2026-09-13"
+    },
+    {
+      "id": "SH-4",
+      "candidate_paths": [
+        "blocks[4].paras[1]"
+      ],
+      "claim": "Where the county reviews the work, Brunswick County's stormwater ordinance requires a permit for a four-inch-plus grading change that alters drainage, or for disturbance within 30 feet of a stream bank not listed as exempt.",
+      "source_urls": [
+        "https://www.brunswickcountync.gov/DocumentCenter/View/7215"
+      ],
+      "evidence_type": "fresh primary-source verification",
+      "checked": "2026-09-13",
+      "source_locator": "Section 1.16(b)(ii) and 1.16(b)(iii) of the ordinance PDF.",
+      "limits": "States the ordinance's general trigger; does not determine whether any specific Civietown parcel is inside the county's jurisdiction versus Shallotte's ETJ, or whether a given dig meets the exemption list in the county's management manual.",
+      "mappedClaim": "Filling or excavating a parcel by four inches or more, in a way that changes how it drains, needs a Stormwater Management Plan and a county Stormwater Permit, and any digging within 30 feet of a stream bank needs one too unless the county's management manual marks the work exempt.",
+      "mappingUpdated": "2026-09-13"
+    }
+  ],
+  "reviewNotes": [
+    "Confirm parcel jurisdiction and service applicability when an address is supplied.",
+    "Obtain staff interpretation and any required association response for the actual construction scope.",
+    "Phase 4 mappings follow retained customer-facing statements. Original observations and checked dates are preserved; this edit is not a new source verification.",
+    "2026-09-13: added the Civietown fold-in (civietown-nc) — a new block covering the unincorporated community, its lack of a place node, and the county stormwater permit trigger that applies where the county rather than the town reviews the work. County ordinance quotes re-verified directly from the PDF on 2026-09-13 and match the quotes already on file for the Ash, NC page."
+  ],
+  "mappingHistory": [
+    {
+      "archived": "2026-09-11",
+      "reason": "Pre-editorial paragraph mappings retained for provenance; unmapped claims were removed from public copy, not reverified.",
+      "claimEvidence": [
+        {
+          "id": "SH-1",
+          "candidate_paths": [
+            "blocks[1].paras[0]"
+          ],
+          "claim": "The Town describes land-use jurisdiction in town limits and its ETJ, with building-inspection inquiries directed to Brunswick County.",
+          "source_urls": [
+            "https://www.townofshallotte.org/planning_zoning"
+          ],
+          "evidence_type": "fresh primary-source verification",
+          "checked": "2026-09-11",
+          "source_locator": "Planning & Zoning body, jurisdiction and building inspection paragraphs.",
+          "limits": "No parcel was geocoded. Mailing-address caution is an inference from the jurisdiction/map distinction, not a determination for any address."
+        },
+        {
+          "id": "SH-2",
+          "candidate_paths": [
+            "blocks[1].paras[1]"
+          ],
+          "claim": "Official maps may lag zoning or annexation changes.",
+          "source_urls": [
+            "https://www.townofshallotte.org/index.asp?SEC=C206CE57-2C55-45E6-88CB-08032F3785DD"
+          ],
+          "evidence_type": "fresh primary-source verification",
+          "checked": "2026-09-11",
+          "source_locator": "Maps introductory paragraph and jurisdiction/zoning map links.",
+          "limits": "A current boundary or approval cannot be established from an old map screenshot or town name alone."
+        }
+      ]
+    }
+  ]
+}

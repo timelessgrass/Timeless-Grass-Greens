@@ -1,0 +1,39 @@
+{
+  "intent": "Cover Bryceville inside the Nassau Village-Ratliff page: both are unincorporated Nassau County, so the same county rules reach a turf project in either place.",
+  "distinctValue": "Names Bryceville by name and states plainly which authority applies (Nassau County, not a town or HOA) and that this page's rules — the Sec. 37.05 landscaping line, the county/SJRWMD watering order and Fla. Stat. 125.572 — reach it the same way, rather than leaving it as a bare mention.",
+  "sources": [
+    {
+      "label": "Wikipedia: Bryceville, Florida",
+      "url": "https://en.wikipedia.org/wiki/Bryceville,_Florida",
+      "checked": "2026-09-13",
+      "supports": [
+        "Bryceville is an unincorporated community in Nassau County, Florida, United States.",
+        "Bryceville lies on US 301, in the southwestern part of the county."
+      ]
+    },
+    {
+      "label": "Nassau County Land Development Code, Appendix A, Art. 37, Sec. 37.05 (landscaping)",
+      "url": "http://nassaucounty-fl.elaws.us/code/coor_apxa_florida_art37_sec37.05",
+      "checked": "2026-09-13",
+      "supports": [
+        "Synthetic or artificial trees, shrubs, groundcovers or vines are not acceptable substitutes"
+      ]
+    },
+    {
+      "label": "St. Johns River Water Management District: watering restrictions",
+      "url": "https://www.sjrwmd.com/wateringrestrictions/",
+      "checked": "2026-09-13",
+      "supports": [
+        "Restrictions apply to private wells and pumps, ground or surface water and water from public and private utilities"
+      ]
+    },
+    {
+      "label": "Fla. Stat. 125.572: regulation of synthetic turf",
+      "url": "https://www.flsenate.gov/Laws/Statutes/2025/0125.572",
+      "checked": "2026-09-13",
+      "supports": [
+        "protects compliant turf on single-family property of one acre or less, and since the state standard took effect on 19 May 2026 a county can't ban it there"
+      ]
+    }
+  ]
+}

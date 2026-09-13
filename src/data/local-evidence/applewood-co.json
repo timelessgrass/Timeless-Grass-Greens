@@ -94,6 +94,27 @@
         "\"Innocuous as it sounds, Colorado's most significant geologic hazard is expansive or swelling soil\"",
         "\"These clays cause more property damage than any other natural hazard.\""
       ]
+    },
+    {
+      "label": "Wikipedia: East Pleasant View, Colorado",
+      "url": "https://en.wikipedia.org/wiki/East_Pleasant_View,_Colorado",
+      "checked": "2026-09-13",
+      "supports": [
+        "\"East Pleasant View is an unincorporated community and census-designated place (CDP) located in and governed by Jefferson County, Colorado, United States.\"",
+        "\"The Pleasant View Metropolitan District provides services to the area.\"",
+        "Coordinates 39°43′40″N 105°09′26″W, ZIP 80401 (Golden Post Office)."
+      ]
+    },
+    {
+      "label": "Pleasant View Water and Sanitation District: about",
+      "url": "https://www.pvwsdistrict.org/about",
+      "checked": "2026-09-13",
+      "supports": [
+        "\"...a small (~4 square mile) political subdivision of the state of Colorado under Title 32 of the Colorado Statutes\", situated between Golden and Lakewood, encompassing mostly unincorporated Jefferson County.",
+        "Water service is delivered through Consolidated Mutual Water Company (CMWC) under contract since 1987.",
+        "The district provides sanitary sewer conveyance to Metro Water Recovery (MWR) for treatment.",
+        "Address 955 Moss Street, Golden CO 80401, phone 303-279-3391."
+      ]
     }
   ],
   "notes": [

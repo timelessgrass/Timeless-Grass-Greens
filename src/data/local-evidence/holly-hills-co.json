@@ -10,7 +10,41 @@
         "Outside the City and County of Denver, Denver Water provides residential water service through contractual relationships with distributors.",
         "Total Service - Under Total Service contracts, Denver Water owns the water system and is responsible for its operation, maintenance and replacement. Denver Water reads each individual customer's meter and bills each individual customer at the established \"Total Service\" rate. In Total Service Areas, water service is provided to the customers in the same manner as that provided to customers inside Denver.",
         "Total Service Distributors ... Holly Hills Water and Sanitation District",
+        "Total Service Distributors ... Havana Water and Sanitation District",
+        "Total Service Distributors ... Panorama Park Water Association",
+        "Master Meter Distributors ... Cherry Creek Valley Water and Sanitation District",
         "Read and Bill - Under Read and Bill contracts, the distributor owns and is responsible for construction, operation, maintenance, and replacement of its water system into which Denver Water delivers water."
+      ]
+    },
+    {
+      "label": "Cherry Creek Valley Water and Sanitation District: notices",
+      "url": "https://www.cherrycreekvalleywaterco.gov/notices",
+      "checked": "2026-09-13",
+      "supports": [
+        "Cherry Creek Valley Water & Sanitation District is a master meter distributor of Denver Water and follows Denver Water's rules.",
+        "District contact phone: (303) 755-4474.",
+        "Board adopted Resolution 2026-0827 on August 27, 2026, implementing Denver Water's amended drought measures effective October 1, 2026.",
+        "Stage 1 Drought Declaration: Denver Water declared Stage 1 Drought requiring customers to reduce their total water use (outdoor and indoor) by at least 20%."
+      ]
+    },
+    {
+      "label": "Cherry Creek Valley Water and Sanitation District: drought response resolution, effective October 1, 2026",
+      "url": "https://www.cherrycreekvalleywaterco.gov/update-additional-drought-response-resolution-effective-october-1-2026",
+      "checked": "2026-09-13",
+      "supports": [
+        "Resolution 2026-0827: a resolution adopting Denver Water Amended Drought Resolution #002A-2026, in its entirety.",
+        "Effective date: October 1, 2026.",
+        "Watering all grass is prohibited after September 30, 2026 unless one of the following written exceptions apply."
+      ]
+    },
+    {
+      "label": "Cherry Creek Valley Water and Sanitation District: watering violation fine schedule",
+      "url": "https://www.cherrycreekvalleywaterco.gov/update-6-25-26-board-approved-watering-violation-fine-schedule",
+      "checked": "2026-09-13",
+      "supports": [
+        "Cherry Creek Valley Water & Sanitation District, 2325 S Wabash St, Denver CO 80231, phone (303) 755-4474.",
+        "Watering Violations will begin to be issued effective Monday July 6, 2026.",
+        "First incident: Warning. Second incident: $250.00 Fine. Third incident: $500.00 Fine. Fourth incident: $1,000.00 Fine. Fifth incident: Possible Water Shut Off."
       ]
     },
     {
@@ -61,6 +95,15 @@
         "Billing Process: \"Sewer bills are based upon the property’s winter water usage (Dec/Jan/Feb), as provided by Denver Water. We apply the per 1,000 gallon charge to the total winter water usage and apply the prevailing sewer rate for the next four (4) quarters.\"",
         "Billing Process: \"The winter water usage is the benchmark for sewer billings to exclude outside irrigation water usage that does NOT discharge into the District’s facilities.\"",
         "Rates, Fees and Charges: \"Effective 2026, the District determined it was necessary to increase sanitary sewer fees by approximately 5% to cover the increasing treatment charges, operating costs, and capital improvements to the sanitary sewer transmission system.\""
+      ]
+    },
+    {
+      "label": "Wikipedia: Four Square Mile, Colorado",
+      "url": "https://en.wikipedia.org/wiki/Four_Square_Mile,_Colorado",
+      "checked": "2026-09-13",
+      "supports": [
+        "The name is derived from the four square miles bounded by Quebec Street, Mississippi Avenue, Havana Street and Yale Avenue.",
+        "The CDP is surrounded by Denver on the north, west, and south and by Aurora on the east."
       ]
     }
   ]

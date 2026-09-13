@@ -51,7 +51,7 @@
       "kicker": "Three kinds of lot",
       "h2": "Rural acreage, golf lots and new builds.",
       "paras": [
-        "Longs has three kinds of yard. Along SC 9, SC 905 and the county roads between them are older homes on half-acre and bigger lots, many on well and septic. Then the golf subdivisions of the 1980s and 1990s, such as Colonial Charters, Long Bay and Aberdeen; Colonial Charters alone mixes houses, townhomes, patio homes and condos around its course. And the newest builder communities: the Bluffs at Sun Colony, Chestnut Farms and The Village at Longs.",
+        "Longs has three kinds of yard. Along SC 9, SC 905 and the county roads between them are older homes on half-acre and bigger lots, many on well and septic. That SC 905 stretch runs through <a href=\"https://en.wikipedia.org/wiki/Hickory_Grove,_Horry_County,_South_Carolina\" target=\"_blank\" rel=\"nofollow noopener\">Hickory Grove</a>, an unincorporated Horry County community between Conway and Longs — no town hall or HOA of its own, so the same well-and-septic siting and county review below apply. Then the golf subdivisions of the 1980s and 1990s, such as Colonial Charters, Long Bay and Aberdeen; Colonial Charters alone mixes houses, townhomes, patio homes and condos around its course. And the newest builder communities: the Bluffs at Sun Colony, Chestnut Farms and The Village at Longs.",
         "On a new build, grading can leave hard-packed ground that grass struggles to root in. On a well-and-septic lot, show us the drain field when we come out, so the layout keeps clear of it. Either way, the base is built for the ground you actually have.",
         "A big lawn takes a lot of water, and out here that often means running the well through the dry weeks. Turf takes none, so the well is left for the house."
       ]
@@ -88,6 +88,10 @@
     {
       "q": "How big should a backyard putting green be?",
       "a": "As big as the yard and your game call for. A single cup with a fringe fits a small patio yard; on a Longs half-acre you can lay out several holes on different slopes, with a chipping area off to one side. Each extra cup on its own slope is another putt to learn. We measure on the free visit and draw it to scale."
+    },
+    {
+      "q": "Do you install turf in Hickory Grove, off SC 905?",
+      "a": "Yes. Hickory Grove is an unincorporated Horry County community on SC 905 between Conway and Longs (<a href=\"https://en.wikipedia.org/wiki/Hickory_Grove,_Horry_County,_South_Carolina\" target=\"_blank\" rel=\"nofollow noopener\">Wikipedia</a>) — there's no town government or HOA there, so it's the same well-and-septic siting and Horry County review as the rest of the SC 905 corridor through Longs. Ask Horry County about the full scope before work starts. Call 303-349-2368 for a free estimate."
     }
   ],
   "nearby": [
@@ -95,6 +99,9 @@
     "north-myrtle-beach-sc",
     "briarcliffe-acres-sc",
     "nixonville-sc"
+  ],
+  "foldedFrom": [
+    "hickory-grove-sc"
   ],
   "sources": [
     {
@@ -120,6 +127,10 @@
     {
       "label": "South Carolina Homeowners Association Act, S.C. Code Title 27, Chapter 30",
       "url": "https://www.scstatehouse.gov/code/t27c030.php"
+    },
+    {
+      "label": "Wikipedia: Hickory Grove, Horry County, South Carolina",
+      "url": "https://en.wikipedia.org/wiki/Hickory_Grove,_Horry_County,_South_Carolina"
     }
   ],
   "checked": "2026-09-07",

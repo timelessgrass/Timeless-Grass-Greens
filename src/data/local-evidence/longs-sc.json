@@ -1,0 +1,52 @@
+{
+  "intent": "Cover Longs, SC (Horry County) for backyard putting greens, residential turf and pet turf: the SC 9/SC 905 rural corridor, the 1980s-90s golf subdivisions, the newest builder communities, and Horry County vs. association permitting.",
+  "distinctValue": "Four golf courses in Longs itself (Long Bay, Aberdeen, Colonial Charters, Crown Park); three distinct lot types (rural well-and-septic, golf subdivision, new builder community); Horry County stormwater permitting and the SC HOA recording-of-covenants rule.",
+  "sources": [
+    {
+      "label": "GolfPass: golf courses in Longs, SC",
+      "url": "https://www.golfpass.com/travel-advisor/course-directory/6747-longs/",
+      "checked": "2026-09-07",
+      "supports": ["Long Bay Club, a Jack Nicklaus design", "Crown Park"]
+    },
+    {
+      "label": "MBGolf: Aberdeen Country Club",
+      "url": "https://www.mbgolf.com/golf-courses/aberdeen",
+      "checked": "2026-09-07",
+      "supports": ["Aberdeen Country Club, Tom Jackson's 27 holes in Meadows, Highlands and Woodlands nines"]
+    },
+    {
+      "label": "Colonial Charters Golf Club",
+      "url": "https://www.colonialchartersgolf.com/",
+      "checked": "2026-09-07",
+      "supports": ["Colonial Charters, open to the public on Charter Drive"]
+    },
+    {
+      "label": "Horry County Stormwater: storm water permitting",
+      "url": "https://www.horrycountysc.gov/departments/stormwater/engineers/construction/storm-water-permitting/",
+      "checked": "2026-09-07",
+      "supports": ["Ask Horry County Stormwater to determine the requirements for the actual scope"]
+    },
+    {
+      "label": "Horry County stormwater management and sediment control ordinance, as enacted July 2017",
+      "url": "https://horrycountysc.gov/media/uzqhn5z2/horry-county-ordinance-final-enacted-july-2017.pdf",
+      "checked": "2026-09-07",
+      "supports": ["Horry County stormwater and sediment control ordinance governs excavation, grading and drainage"]
+    },
+    {
+      "label": "South Carolina Homeowners Association Act, S.C. Code Title 27, Chapter 30",
+      "url": "https://www.scstatehouse.gov/code/t27c030.php",
+      "checked": "2026-09-07",
+      "supports": ["under South Carolina law an HOA's governing documents have no force until the county Register of Deeds has recorded them"]
+    },
+    {
+      "label": "Wikipedia: Hickory Grove, Horry County, South Carolina",
+      "url": "https://en.wikipedia.org/wiki/Hickory_Grove,_Horry_County,_South_Carolina",
+      "checked": "2026-09-13",
+      "supports": [
+        "Hickory Grove is an unincorporated community in Horry County, South Carolina",
+        "Hickory Grove is located east of Conway and west of Longs",
+        "along South Carolina Highway 905"
+      ]
+    }
+  ]
+}

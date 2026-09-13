@@ -1,0 +1,42 @@
+{
+  "intent": "Who reviews a turf project for a reader in Arcadian Shores or Springmaid Beach — the City of Myrtle Beach or Horry County — and what, if anything, a voluntary neighborhood association adds on top of that.",
+  "distinctValue": "Arcadian Shores is unincorporated Horry County land organized as a Special Tax District, not part of the City of Myrtle Beach; its single-family homeowners' association is voluntary and its by-laws point members to a Declaration of Restrictions we could not open ourselves, so the page tells a reader to pull the recorded copy from the county Register of Deeds rather than guess at its content. Springmaid Beach has no government or association of its own; the only thing worth adding for that name is that the Myrtle Beach city line runs through the area rather than around it, so a reader there should confirm which side of the line their parcel is on before assuming city review applies.",
+  "sources": [
+    {
+      "label": "Arcadian Shores: Special Tax District",
+      "url": "https://arcadianshores.org/",
+      "checked": "2026-09-13",
+      "supports": [
+        "a designated geographic area where property owners pay an additional property tax or fee to fund specific local services or infrastructure improvements that the Horry county does not otherwise provide",
+        "Property owners in Arcadian Shores are part of the Special Tax District"
+      ]
+    },
+    {
+      "label": "Arcadian Shores: Home Owners Association",
+      "url": "https://arcadianshores.org/hoa",
+      "checked": "2026-09-13",
+      "supports": [
+        "Single-Family Residential Home Owners in Arcadian Shores have the option to join the Home Owners Association (HOA)"
+      ]
+    },
+    {
+      "label": "Arcadian Shores Single-Family Residential Home Owners Association: By-Laws (1982, amended January 18, 1983)",
+      "url": "https://assets.cdn.filesafe.space/wmVwnsIvqEK5NisUX3nO/media/69c12ccceb06d86f73d29d87.pdf",
+      "checked": "2026-09-13",
+      "supports": [
+        "provisions of the Declaration of Restrictions of Arcadian Shores as they may be revised",
+        "issuance of the Charter of the Association and end on December 31, 1982",
+        "Note: Text in italics were changes approved at the Annual meeting January 18, 1983"
+      ]
+    },
+    {
+      "label": "Wikipedia: Springmaid Beach, South Carolina",
+      "url": "https://en.wikipedia.org/wiki/Springmaid_Beach,_South_Carolina",
+      "checked": "2026-09-13",
+      "supports": [
+        "straddling the city limits of Myrtle Beach",
+        "north of Myrtle Beach State Park on Ocean Boulevard near Farrow Parkway"
+      ]
+    }
+  ]
+}

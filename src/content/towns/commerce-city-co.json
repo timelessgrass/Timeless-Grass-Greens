@@ -52,6 +52,7 @@
       "h2": "Post-war cottages in the south, new subdivisions in the north.",
       "paras": [
         "The old south city, incorporated as Commerce Town in 1952, is small post-war cottages on flat, deep lots near the refinery and the rail lines (<a href=\"https://en.wikipedia.org/wiki/Commerce_City,_Colorado\" target=\"_blank\" rel=\"nofollow noopener\">Wikipedia</a>). Most of the city's homes are newer, built since 2000 in the Northern Range north of I-76: Reunion, Buffalo Run and Second Creek. On the city's edge, the Rocky Mountain Arsenal National Wildlife Refuge keeps 27 square miles of lakes, wetlands and grassland, bison herd included.",
+        "Derby, next to the refuge, is a community and census-designated place governed directly by Adams County, not by Commerce City (<a href=\"https://en.wikipedia.org/wiki/Derby,_Colorado\" target=\"_blank\" rel=\"nofollow noopener\">Wikipedia</a>). Any city permit or landscape rule on this page is Commerce City's; a Derby project answers to the county instead, so check with Adams County rather than assume a city rule reaches it. The water utility and its restrictions below are shared, though: Derby is on the same district as Commerce City.",
         "The northern subdivisions are builder-graded and governed by HOAs, with small, dead-flat back yards behind the patio. In Reunion and Buffalo Run the HOA's design guidelines are the real gatekeeper, and state law draws one line for them: those guidelines can't prohibit nonvegetative turf behind a detached home (<a href=\"https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SB23-178</a>).",
         "The Buffalo Run neighborhood wraps around Buffalo Run Golf Course, the city's own 18-hole, par-72 course designed by Keith Foster, with six sets of tees (<a href=\"https://www.buffalorungolfcourse.com/\" target=\"_blank\" rel=\"nofollow noopener\">Buffalo Run Golf Course</a>). A green on a flat lot nearby is practice without booking a tee time."
       ]
@@ -93,6 +94,10 @@
     {
       "q": "Can my Reunion or Buffalo Run HOA stop turf out back?",
       "a": "Not with a flat ban on a detached home (<a href=\"https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SB23-178</a>). The association can still set design rules and decide the front yard, so get the board's sign-off on paper."
+    },
+    {
+      "q": "What water restrictions apply in Commerce City and Derby right now?",
+      "a": "South Adams County Water and Sanitation District serves both. Stage 1 drought restrictions, declared May 13, 2026, limit outdoor watering to two days a week by address and add a 20% surcharge on residential use above 11,999 gallons a month. New sod can go in only during April, May, September or October, with up to 21 consecutive days of watering to establish it before the twice-weekly schedule applies (<a href=\"https://conserve.southadamswaterco.gov\" target=\"_blank\" rel=\"nofollow noopener\">South Adams County Water and Sanitation District</a>). Ask the district for the current stage before you schedule sod or turf work."
     }
   ],
   "nearby": [
@@ -129,8 +134,19 @@
     {
       "label": "City of Commerce City: water service",
       "url": "https://www.c3gov.com/Residents/Water-Service"
+    },
+    {
+      "label": "Derby, Colorado (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Derby,_Colorado"
+    },
+    {
+      "label": "South Adams County Water and Sanitation District: conservation",
+      "url": "https://conserve.southadamswaterco.gov"
     }
   ],
-  "checked": "2026-09-07",
+  "foldedFrom": [
+    "derby-co"
+  ],
+  "checked": "2026-09-13",
   "publicReferences": []
 }

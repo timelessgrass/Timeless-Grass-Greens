@@ -53,7 +53,8 @@
       "paras": [
         "The city's code allows artificial turf with no limit in rear yards and enclosed side yards. In front yards and unenclosed side yards it can't exceed 25% of the landscape area, and it needs living plants beside it: one tree equivalent for the first 750 square feet, and half of one for every 250 after that (<a href=\"https://www.thorntonwater.com/wp-content/uploads/2026/02/2026-residential_artificial_turf_info__rules-1.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Thornton Water</a>).",
         "Buffers keep turf off the edges: 3 feet from property lines, 8 feet from the front wall of a building, 3 feet from other walls and hard surfaces outside the rear yard, and 3 feet from a deciduous tree's trunk, with nothing inside an evergreen's dripline. The buffers must be permeable, such as wood mulch or gravel no bigger than 2 inches.",
-        "The build is specified too: sod removed, at least 3 inches of compacted aggregate that holds half an inch of rain before it runs off, backing that drains at least 2 inches an hour, seams glued rather than sewn, and a product its maker covers against fading for at least 8 years. Indoor-outdoor carpet isn't allowed."
+        "The build is specified too: sod removed, at least 3 inches of compacted aggregate that holds half an inch of rain before it runs off, backing that drains at least 2 inches an hour, seams glued rather than sewn, and a product its maker covers against fading for at least 8 years. Indoor-outdoor carpet isn't allowed.",
+        "These are Thornton's citywide rules, and they reach Eastlake too. The old rail hamlet in north-central Thornton, next to Northglenn, was annexed into the city in 1990 (<a href=\"https://www.thorntonco.gov/media/file/eastlake-historic-buildings-surveypdf\" target=\"_blank\" rel=\"nofollow noopener\">City of Thornton</a>). Today it's zoned Eastlake Residential, a district written to keep the neighborhood's single-family character but built on the same lot rules as anywhere else in the city (<a href=\"https://www.thorntonco.gov/business-development/long-term-plans-strategies/eastlake-residential-er-district\" target=\"_blank\" rel=\"nofollow noopener\">City of Thornton</a>). It carries no separate landscape or turf standard, so the 25% front-yard cap, the buffers, the Minor Development Permit and the build spec above apply in Eastlake exactly as they do elsewhere in Thornton."
       ]
     },
     {
@@ -88,6 +89,10 @@
     {
       "q": "Where can a putting green go in a Thornton yard?",
       "a": "Anywhere out back that keeps the buffers, since the city puts no limit on turf in rear yards (<a href=\"https://www.thorntonwater.com/wp-content/uploads/2026/02/2026-residential_artificial_turf_info__rules-1.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Thornton Water</a>). Thorncreek, the city-owned course on Washington Street, is there for the full game (<a href=\"https://www.thorntonco.gov/community-culture/thorncreek-golf-course\" target=\"_blank\" rel=\"nofollow noopener\">City of Thornton</a>)."
+    },
+    {
+      "q": "Do Thornton's turf rules and rebate apply in Eastlake?",
+      "a": "Yes. Eastlake was annexed into Thornton in 1990 (<a href=\"https://www.thorntonco.gov/media/file/eastlake-historic-buildings-surveypdf\" target=\"_blank\" rel=\"nofollow noopener\">City of Thornton</a>) and is now zoned Eastlake Residential, an ordinary single-family district with no turf rule of its own (<a href=\"https://www.thorntonco.gov/business-development/long-term-plans-strategies/eastlake-residential-er-district\" target=\"_blank\" rel=\"nofollow noopener\">City of Thornton</a>). The citywide permit, buffers, 25% front-yard cap and rebate on this page all reach an Eastlake address the same as the rest of Thornton."
     }
   ],
   "nearby": [
@@ -128,9 +133,20 @@
     {
       "label": "City of Thornton: Thorncreek Golf Course",
       "url": "https://www.thorntonco.gov/community-culture/thorncreek-golf-course"
+    },
+    {
+      "label": "City of Thornton: Eastlake Neighborhood Historic Buildings Survey (PDF)",
+      "url": "https://www.thorntonco.gov/media/file/eastlake-historic-buildings-surveypdf"
+    },
+    {
+      "label": "City of Thornton: Eastlake Residential (ER) District",
+      "url": "https://www.thorntonco.gov/business-development/long-term-plans-strategies/eastlake-residential-er-district"
     }
   ],
-  "checked": "2026-09-07",
+  "checked": "2026-09-13",
+  "foldedFrom": [
+    "eastlake-co"
+  ],
   "publicReferences": [
     "https://www.thorntonwater.com/wp-content/uploads/2026/02/2026-residential_artificial_turf_info__rules-1.pdf"
   ]

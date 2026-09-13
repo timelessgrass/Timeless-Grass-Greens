@@ -1,0 +1,240 @@
+{
+  "intent": "How do I plan artificial turf installation in Forestbrook, SC?",
+  "distinctValue": "Turf that fits your Forestbrook property plan.",
+  "sources": [
+    {
+      "label": "U.S. Census Bureau: Forestbrook CDP, South Carolina",
+      "url": "https://www.census.gov/quickfacts/fact/table/forestbrookcdpsouthcarolina/PST045225",
+      "checked": "2026-09-11",
+      "supports": [
+        "Census names Forestbrook CDP; developer names Forestbrook Village townhomes; county-hosted survey records Forestbrook Estates Phase 7."
+      ]
+    },
+    {
+      "label": "Lennar: Tidewater at Forestbrook Village",
+      "url": "https://www.lennar.com/new-homes/south-carolina/myrtle-beach/myrtle-beach/forestbrook-village/tidewater",
+      "checked": "2026-09-11",
+      "supports": [
+        "Census names Forestbrook CDP; developer names Forestbrook Village townhomes; county-hosted survey records Forestbrook Estates Phase 7.",
+        "Ownership and association review are proposed property-specific questions."
+      ]
+    },
+    {
+      "label": "Horry County: Forestbrook Estates Phase 7 elevation certificate",
+      "url": "https://www.horrycountysc.gov/media/nhqe3dpj/171549-final-ecert.pdf",
+      "checked": "2026-09-11",
+      "supports": [
+        "Census names Forestbrook CDP; developer names Forestbrook Village townhomes; county-hosted survey records Forestbrook Estates Phase 7.",
+        "Signed 2024 surveyor comments distinguish supplemental-flood-zone observations among units within the same building."
+      ]
+    },
+    {
+      "label": "Horry County: Home Owner’s Association Corner",
+      "url": "https://horrycountysc.gov/departments/stormwater/hoa/",
+      "checked": "2026-09-11",
+      "supports": [
+        "Ownership and association review are proposed property-specific questions.",
+        "County guidance describes preserving drainage patterns and maintenance access in easements."
+      ]
+    },
+    {
+      "label": "Horry County: Drainage",
+      "url": "https://horrycountysc.gov/departments/stormwater/major-initiatives/drainage/",
+      "checked": "2026-09-11",
+      "supports": [
+        "County guidance describes preserving drainage patterns and maintenance access in easements."
+      ]
+    },
+    {
+      "label": "Horry County: Stormwater Plan Requirements",
+      "url": "https://www.horrycountysc.gov/departments/stormwater/engineers/construction/plan-requirements/",
+      "checked": "2026-09-11",
+      "supports": [
+        "County development-plan guidance addresses drainage patterns, outfalls and easements."
+      ]
+    },
+    {
+      "label": "Horry County Code of Ordinances, Ch. 9, Art. III, Sec. 9-51 (General standards)",
+      "url": "https://library.municode.com/sc/horry_county/codes/code_of_ordinances?nodeId=COOR_CH9FLDAPRCO_ARTIIIPRFLHARE_S9-51GEST",
+      "checked": "2026-09-13",
+      "supports": [
+        "(13) Compensatory storage must be provided when fill is used for development within the special flood hazard area or supplemental flood zone with the exception to major highways and publicly owned facilities. ... Compensatory storage must be provided to offset any loss of flood storage capacity to the base flood elevation or supplemental flood elevation whichever is higher. Engineering analyses will be required.",
+        "Socastee is unincorporated Horry County, the same jurisdiction as Forestbrook, so this countywide flood-damage-prevention chapter applies the same way to both places."
+      ]
+    }
+  ],
+  "claimEvidence": [
+    {
+      "fields": [
+        "blocks[0].paras[1]"
+      ],
+      "evidenceType": "observed_official_and_developer",
+      "sourceUrls": [
+        "https://www.census.gov/quickfacts/fact/table/forestbrookcdpsouthcarolina/PST045225",
+        "https://www.lennar.com/new-homes/south-carolina/myrtle-beach/myrtle-beach/forestbrook-village/tidewater",
+        "https://www.horrycountysc.gov/media/nhqe3dpj/171549-final-ecert.pdf"
+      ],
+      "checked": "2026-09-11",
+      "observed": "Census names Forestbrook CDP; developer names Forestbrook Village townhomes; county-hosted survey records Forestbrook Estates Phase 7.",
+      "limits": "Names verified, not geographic polygon inclusion or specific association rules.",
+      "mappedClaim": "Forestbrook, Forestbrook Village and Forestbrook Estates are distinct names; provide the street address and community.",
+      "mappingUpdated": "2026-09-11"
+    },
+    {
+      "fields": [
+        "answer.answer",
+        "blocks[1].paras[1]"
+      ],
+      "evidenceType": "editorial_recommendation",
+      "sourceUrls": [
+        "https://www.lennar.com/new-homes/south-carolina/myrtle-beach/myrtle-beach/forestbrook-village/tidewater",
+        "https://horrycountysc.gov/departments/stormwater/hoa/"
+      ],
+      "checked": "2026-09-11",
+      "observed": "Ownership and association review are proposed property-specific questions.",
+      "limits": "No blanket claim that all local townhomes have common yards or identical approval requirements.",
+      "mappedClaim": "Confirm ownership or control of the work area and any association requirements.",
+      "mappingUpdated": "2026-09-11"
+    },
+    {
+      "fields": [
+        "blocks[1].paras[0]"
+      ],
+      "evidenceType": "observed_official",
+      "sourceUrls": [
+        "https://horrycountysc.gov/departments/stormwater/hoa/",
+        "https://horrycountysc.gov/departments/stormwater/major-initiatives/drainage/"
+      ],
+      "checked": "2026-09-11",
+      "observed": "County guidance describes preserving drainage patterns and maintenance access in easements.",
+      "limits": "Does not establish permission for turf in any easement.",
+      "mappedClaim": "Identify drainage features, easements and shared maintenance access before setting the turf boundary.",
+      "mappingUpdated": "2026-09-11"
+    },
+    {
+      "fields": [
+        "answer.answer",
+        "blocks[0].paras[0]"
+      ],
+      "evidenceType": "business_fact_and_editorial_recommendation",
+      "sourceUrls": [],
+      "checked": "2026-09-11",
+      "observed": "Installation services, free visit and written quote exist in business positioning. Access and layout questions are editorial recommendations.",
+      "limits": "No local case study, dedicated office or engineering service claimed.",
+      "mappedClaim": "Choose layout by use and bring address, property plan and access conditions to the estimate.",
+      "mappingUpdated": "2026-09-11"
+    },
+    {
+      "fields": [
+        "blocks[3].paras[2]",
+        "faq[5]"
+      ],
+      "evidenceType": "observed_official",
+      "sourceUrls": [
+        "https://library.municode.com/sc/horry_county/codes/code_of_ordinances?nodeId=COOR_CH9FLDAPRCO_ARTIIIPRFLHARE_S9-51GEST"
+      ],
+      "checked": "2026-09-13",
+      "observed": "Socastee is unincorporated Horry County, the same jurisdiction as Forestbrook; the county's compensatory-storage rule in Ch. 9, Sec. 9-51(13) applies to both the same way.",
+      "limits": "Does not establish which specific parcels sit inside the special flood hazard area or supplemental flood zone; homeowner must confirm with the county. The Socastee Overlay Zone (Sec. 807, Highway 707 corridor) could not be opened (Horry County site and Municode both refused the connection) and is not cited.",
+      "mappedClaim": "Socastee sits under the same county authority as Forestbrook and the same fill/compensatory-storage rule applies; confirm your flood zone with the county.",
+      "mappingUpdated": "2026-09-13"
+    }
+  ],
+  "reviewNotes": [
+    "Existing carolina-forest-sc.json folds Forestbrook into its copy. Before publishing, remove foldedFrom forestbrook-sc and replace that Forestbrook block with a short link to this page.",
+    "No local association's turf approval policy verified. Similar names in TX/FL were rejected; no fees, deadlines, contact or approval policy asserted.",
+    "Prior research's claimed July 2025 Census population estimate is unsupported: current QuickFacts marks that estimate not applicable. No demographics retained.",
+    "Do not inherit aggregate recipes, universal no-permit statements or flood-prevention promises.",
+    "Phase 4 mappings follow retained customer-facing statements. Original observations and checked dates are preserved; this edit is not a new source verification.",
+    "2026-09-13: folded in Socastee (unincorporated Horry County). Its Ch. 9 compensatory-storage rule is the same one already covered on this page for Forestbrook; Sec. 9-51(13) quote reused from the Grand Strand pet-turf evidence record, itself pulled from the Municode API (Sec. 9-33's rendered page returned only its JS shell to curl/WebFetch). Socastee Historic District (National Register) carries no independent local rule found. The Socastee Overlay Zone (Sec. 807) could not be opened by any allowed method (horrycounty-sc.elaws.us timed out, Municode returned 403) and is not cited on the page."
+  ],
+  "mappingHistory": [
+    {
+      "archived": "2026-09-11",
+      "reason": "Pre-editorial paragraph mappings retained for provenance; unmapped claims were removed from public copy, not reverified.",
+      "claimEvidence": [
+        {
+          "fields": [
+            "answer",
+            "blocks[0]",
+            "blocks[0]"
+          ],
+          "evidenceType": "observed_official_and_developer",
+          "sourceUrls": [
+            "https://www.census.gov/quickfacts/fact/table/forestbrookcdpsouthcarolina/PST045225",
+            "https://www.lennar.com/new-homes/south-carolina/myrtle-beach/myrtle-beach/forestbrook-village/tidewater",
+            "https://www.horrycountysc.gov/media/nhqe3dpj/171549-final-ecert.pdf"
+          ],
+          "checked": "2026-09-11",
+          "observed": "Census names Forestbrook CDP; developer names Forestbrook Village townhomes; county-hosted survey records Forestbrook Estates Phase 7.",
+          "limits": "Names verified, not geographic polygon inclusion or specific association rules."
+        },
+        {
+          "fields": [
+            "blocks[0]",
+            "faq[0]",
+            "faq[2]"
+          ],
+          "evidenceType": "editorial_recommendation",
+          "sourceUrls": [
+            "https://www.lennar.com/new-homes/south-carolina/myrtle-beach/myrtle-beach/forestbrook-village/tidewater",
+            "https://horrycountysc.gov/departments/stormwater/hoa/"
+          ],
+          "checked": "2026-09-11",
+          "observed": "Ownership and association review are proposed property-specific questions.",
+          "limits": "No blanket claim that all local townhomes have common yards or identical approval requirements."
+        },
+        {
+          "fields": [
+            "blocks[1]",
+            "faq[1]"
+          ],
+          "evidenceType": "observed_official",
+          "sourceUrls": [
+            "https://horrycountysc.gov/departments/stormwater/hoa/",
+            "https://horrycountysc.gov/departments/stormwater/major-initiatives/drainage/"
+          ],
+          "checked": "2026-09-11",
+          "observed": "County guidance describes preserving drainage patterns and maintenance access in easements.",
+          "limits": "Does not establish permission for turf in any easement."
+        },
+        {
+          "fields": [
+            "blocks[1].paras[2]"
+          ],
+          "evidenceType": "observed_official_record",
+          "sourceUrls": [
+            "https://www.horrycountysc.gov/media/nhqe3dpj/171549-final-ecert.pdf"
+          ],
+          "checked": "2026-09-11",
+          "observed": "Signed 2024 surveyor comments distinguish supplemental-flood-zone observations among units within the same building.",
+          "limits": "Illustrates property variability only; not a current customer flood determination. Specific residential address omitted from page copy."
+        },
+        {
+          "fields": [
+            "blocks[2].paras[2]"
+          ],
+          "evidenceType": "observed_official",
+          "sourceUrls": [
+            "https://www.horrycountysc.gov/departments/stormwater/engineers/construction/plan-requirements/"
+          ],
+          "checked": "2026-09-11",
+          "observed": "County development-plan guidance addresses drainage patterns, outfalls and easements.",
+          "limits": "Explicitly qualified as development guidance, not requirements for every backyard."
+        },
+        {
+          "fields": [
+            "answer",
+            "blocks[2]",
+            "faq[3]"
+          ],
+          "evidenceType": "business_fact_and_editorial_recommendation",
+          "sourceUrls": [],
+          "checked": "2026-09-11",
+          "observed": "Installation services, free visit and written quote exist in business positioning. Access and layout questions are editorial recommendations.",
+          "limits": "No local case study, dedicated office or engineering service claimed."
+        }
+      ]
+    }
+  ]
+}

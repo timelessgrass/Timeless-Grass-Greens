@@ -102,6 +102,8 @@ function checkerFixture(t) {
     'src/data/local-evidence.json', 'src/data/editorial-research-archive.json', 'src/components/Icon.astro',
     ...['denver-metro', 'grand-strand', 'northeast-florida'].map((market) => `src/data/cities/${market}.json`),
   ]) write(file, read(file));
+  // per-page evidence records sit beside the legacy file, and the checker reads both
+  for (const f of fs.readdirSync(path.join(root, 'src/data/local-evidence'))) write(`src/data/local-evidence/${f}`, read(`src/data/local-evidence/${f}`));
   for (const collection of ['towns', 'local-services', 'blog']) fs.mkdirSync(path.join(dir, `src/content/${collection}`), { recursive: true });
   fs.symlinkSync(path.join(root, 'node_modules'), path.join(dir, 'node_modules'), 'dir');
   const run = (script, ...args) => spawnSync(process.execPath, [`scripts/${script}.mjs`, ...args], { cwd: dir, encoding: 'utf8' });

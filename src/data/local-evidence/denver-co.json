@@ -1,0 +1,32 @@
+{
+  "intent": "Someone searching for artificial turf in Denver, including the Berkley pocket of unincorporated Adams County that borders the city, should land on one page that tells them which authority and which water provider actually govern their address.",
+  "distinctValue": "Old Denver's fill-over-clay ground, its Stage 1 drought rules with no turf rebate, and Berkley's split between two water districts that both answer to Denver Water while sitting outside city jurisdiction for permits.",
+  "sources": [
+    {
+      "label": "Berkeley Water and Sanitation District",
+      "url": "https://berkeleywsd.colorado.gov/",
+      "checked": "2026-09-13",
+      "supports": [
+        "The District boundaries are from the north side of 52nd Avenue to 60th Avenue from Sheridan Boulevard to Tejon Street.",
+        "As of January 1, 2018, Denver Water will provide all water services."
+      ]
+    },
+    {
+      "label": "Crestview Water and Sanitation District: boundary map",
+      "url": "https://www.crestviewwatercolorado.gov/boundary-map",
+      "checked": "2026-09-13",
+      "supports": [
+        "They are roughly, Tennyson Street on the west to I-25 on the east then 56th avenue on the south to Sherrylwood Lane on the north.",
+        "For all of the Denver Water/Crestview Water restrictions, please visit our drought page to view the Denver Water Restrictions Resolution."
+      ]
+    },
+    {
+      "label": "Wikipedia: Berkley, Colorado",
+      "url": "https://en.wikipedia.org/wiki/Berkley,_Colorado",
+      "checked": "2026-09-13",
+      "supports": [
+        "Berkley is an unincorporated community and a census-designated place (CDP) located in southwestern Adams County, Colorado, United States."
+      ]
+    }
+  ]
+}

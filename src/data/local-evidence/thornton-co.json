@@ -1,0 +1,24 @@
+{
+  "intent": "Cover Thornton, CO: the Water-Wise Landscape Rebate, the citywide turf rules (front-yard cap, buffers, Minor Development Permit, build spec), the Stage 1 drought watering schedule, and how those rules reach the annexed Eastlake neighborhood.",
+  "distinctValue": "Thornton is the only market city whose water utility pays toward artificial turf, and it has the metro's most detailed written turf-placement code, including the historic Eastlake neighborhood that was annexed into the city in 1990 and today carries no separate landscape rule of its own.",
+  "sources": [
+    {
+      "label": "City of Thornton: Eastlake Neighborhood Historic Buildings Survey (PDF)",
+      "url": "https://www.thorntonco.gov/media/file/eastlake-historic-buildings-surveypdf",
+      "checked": "2026-09-13",
+      "supports": [
+        "Eastlake, Colorado, a community annexed by the City of Thornton in 1990, is located in the north-central portion of the City and abuts the City of Northglenn on the west.",
+        "Due to alterations of historic buildings and new construction, no eligible historic district was found within the community."
+      ]
+    },
+    {
+      "label": "City of Thornton: Eastlake Residential (ER) District",
+      "url": "https://www.thorntonco.gov/business-development/long-term-plans-strategies/eastlake-residential-er-district",
+      "checked": "2026-09-13",
+      "supports": [
+        "The ER District is intended to preserve and enhance residential areas in the community of Eastlake and to promote appropriate redevelopment consistent with the established single-family heritage and design character of the neighborhood.",
+        "Principal uses are single detached dwellings; the district's standards cover lot area, coverage, setbacks, height and building design, with no separate landscape or artificial-turf provision."
+      ]
+    }
+  ]
+}

@@ -33,7 +33,8 @@
       "h2": "Plan for the site and the time you spend there.",
       "paras": [
         "For a property near the inlet or waterway, point out low areas and any drainage or waterfront restrictions already recorded for the lot. Confirm the jurisdiction for the address before asking about the planned work, including around Nixons Crossroads.",
-        "If you spend part of the year away, arrange for leaves and debris to be cleared and any required cleaning to continue. Turf removes routine mowing from that area, but it still needs care."
+        "If you spend part of the year away, arrange for leaves and debris to be cleared and any required cleaning to continue. Turf removes routine mowing from that area, but it still needs care.",
+        "Wampee sits across the Intracoastal Waterway from North Myrtle Beach. Before you plan, confirm whether your parcel is inside North Myrtle Beach city limits or in unincorporated Horry County, the same check you'd make near Nixons Crossroads; where the county applies, the Horry County rules on this page are the ones that reach you."
       ]
     },
     {
@@ -86,6 +87,10 @@
     {
       "q": "How close does tidal water come to Nixons Crossroads?",
       "a": "Close. The USGS keeps a tidal gauge on the Intracoastal Waterway at Highway 9, named for Nixons Crossroads, with daily records going back to 1986 (<a href=\"https://waterdata.usgs.gov/monitoring-location/USGS-02110777/\" target=\"_blank\" rel=\"nofollow noopener\">USGS</a>). That's why salt air reaches yards well back from the beach."
+    },
+    {
+      "q": "Do Wampee properties get the same turf rules as Little River?",
+      "a": "Yes, unless your parcel turns out to be inside North Myrtle Beach city limits. Confirm with the city or Horry County which one covers your address; if it's the county, the Horry County rules on this page apply."
     }
   ],
   "nearby": [
@@ -135,9 +140,10 @@
       "url": "https://waterdata.usgs.gov/monitoring-location/USGS-02110777/"
     }
   ],
-  "checked": "2026-09-07",
+  "checked": "2026-09-13",
   "foldedFrom": [
-    "nixons-crossroads-sc"
+    "nixons-crossroads-sc",
+    "wampee-sc"
   ],
   "publicReferences": []
 }

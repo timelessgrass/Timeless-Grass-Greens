@@ -1,0 +1,26 @@
+{
+  "intent": "North Myrtle Beach town page: what applies citywide under Sec. 23-129.4 and the stormwater fee, plus coverage of Cherry Grove Beach, Ocean Drive Beach and Windy Hill Beach as wards of the city where the same rules reach unchanged.",
+  "distinctValue": "Cherry Grove Beach, Ocean Drive Beach and Windy Hill Beach are historic beach communities now inside North Myrtle Beach city limits, not separate jurisdictions. The zoning code names each only in the Activity Center Overlay, a commercial parking relaxation tied to that area's old town-center intersection — not a yard or pervious-surface rule. The Coastal Protection Overlay applies citywide to any lot east of Ocean Boulevard, including in these three wards, layering erosion and beach-safety rules on top of Sec. 23-129.4, not replacing it.",
+  "sources": [
+    {
+      "label": "Zoneomics copy of the City of North Myrtle Beach zoning code, chapter 3 (Activity Center and Coastal Protection overlay zones)",
+      "url": "https://www.zoneomics.com/code/north-myrtle-beach-SC/chapter_3",
+      "checked": "2026-09-13",
+      "supports": [
+        "the traditional commercial centers of the four historic beach communities (Cherry Grove, Ocean Drive, Crescent Beach, and Windy Hill) that were combined to form the City of North Myrtle Beach",
+        "Main Street and Hillside Drive (Ocean Drive), 17th Avenue South and Holly Drive (Crescent Beach), Sea Mountain Highway and Spring Street (Cherry Grove), and 37th Avenue South and Seaview Street (Windy Hill)",
+        "The Coastal Protection Overlay Zone is applicable to all development on private property east of Ocean Boulevard"
+      ]
+    },
+    {
+      "label": "City of North Myrtle Beach Parks, Recreation and Tourism: voting wards and precincts",
+      "url": "https://parks.nmb.us/371/Voting",
+      "checked": "2026-09-13",
+      "supports": [
+        "Cherry Grove #1 Precinct—Chapel by the Sea Baptist Church",
+        "Ocean Drive #1 Precinct—Ocean Drive Fire Station #1",
+        "Windy Hill #1 Precinct—Windy Hill Fire Station #3"
+      ]
+    }
+  ]
+}

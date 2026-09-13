@@ -1,0 +1,66 @@
+{
+  "intent": "Cover artificial turf projects for Commerce City, CO and the folded-in unincorporated community of Derby: soil and drainage, HOA/state turf law, water provider and current drought-stage watering rules, and sports-field turf availability under state law.",
+  "distinctValue": "Vona sandy loam ground with 0-1% slope drives compaction/drainage planning rather than clay; SB23-178 protects backyard turf from HOA bans while HOAs still control front yards; HB25-1113 exempts sports fields/playgrounds from the new ban on nonfunctional turf; South Adams County Water and Sanitation District serves both Commerce City and Derby and is currently under Stage 1 drought restrictions; Derby itself is unincorporated Adams County, not Commerce City, so city permits/ordinances don't reach it.",
+  "sources": [
+    {
+      "label": "USDA Soil Data Access (SSURGO)",
+      "url": "https://sdmdataaccess.nrcs.usda.gov/",
+      "checked": "2026-09-07",
+      "supports": ["Vona sandy loam: about 66.6% sand and 10% clay, well drained, on slopes of 0 to 1%"]
+    },
+    {
+      "label": "Commerce City, Colorado (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Commerce_City,_Colorado",
+      "checked": "2026-09-07",
+      "supports": ["incorporated as Commerce Town in 1952", "most homes built since 2000 in the Northern Range north of I-76"]
+    },
+    {
+      "label": "Colorado SB23-178, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf",
+      "checked": "2026-09-07",
+      "supports": ["HOA design guidelines can't prohibit nonvegetative turf behind a detached home"]
+    },
+    {
+      "label": "Buffalo Run Golf Course",
+      "url": "https://www.buffalorungolfcourse.com/",
+      "checked": "2026-09-07",
+      "supports": ["18-hole, par-72 course designed by Keith Foster, with six sets of tees"]
+    },
+    {
+      "label": "DICK'S Sporting Goods Park",
+      "url": "https://www.dickssportinggoodspark.com/",
+      "checked": "2026-09-07",
+      "supports": ["Colorado Rapids' stadium with a Fields Complex that can be rented"]
+    },
+    {
+      "label": "Colorado HB25-1113, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2025a_1113_signed.pdf",
+      "checked": "2026-09-07",
+      "supports": ["bars local governments from letting nonfunctional artificial turf into new commercial, institutional or HOA common-area landscaping; functional artificial turf includes sports fields and playgrounds"]
+    },
+    {
+      "label": "City of Commerce City: water service",
+      "url": "https://www.c3gov.com/Residents/Water-Service",
+      "checked": "2026-09-07",
+      "supports": ["water service is provided by South Adams County Water and Sanitation District, not the city"]
+    },
+    {
+      "label": "Derby, Colorado (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Derby,_Colorado",
+      "checked": "2026-09-13",
+      "supports": ["an unincorporated community and a census-designated place (CDP) located in and governed by Adams County, Colorado"]
+    },
+    {
+      "label": "South Adams County Water and Sanitation District: conservation",
+      "url": "https://conserve.southadamswaterco.gov",
+      "checked": "2026-09-13",
+      "supports": [
+        "Stage 1 Drought currently in effect, declared Wednesday, May 13, 2026",
+        "2 days/week outdoor watering based on your address",
+        "20% surcharge applies to usage above the first tier, for every thousand gallons above 11,999 gallons per month",
+        "installing new sod is strongly discouraged during June-August; new sod may only be installed during April, May, September, or October under Stage 1 restrictions",
+        "new sod and seed may be watered for no more than 21 consecutive days, after which watering is limited to twice weekly based on the mandatory irrigation schedule"
+      ]
+    }
+  ]
+}

@@ -36,7 +36,8 @@
       "paras": [
         "Inside town limits, Sunset Beach handles zoning, flood, building inspection and CAMA review itself, according to <a href=\"https://www.brunswickcountync.gov/192/Municipal-Jurisdictions\" target=\"_blank\" rel=\"nofollow noopener\">Brunswick County’s jurisdiction table</a>. Stormwater is shared. The table lists the Town, but the County’s <a href=\"https://www.brunswickcountync.gov/248/Stormwater-Ordinance\" target=\"_blank\" rel=\"nofollow noopener\">Stormwater Ordinance page</a> says it administers that ordinance in Sunset Beach under an agreement.",
         "Under the UDO, any activity that proposes to increase impervious square footage needs a zoning permit, and site disturbance can’t start until the UDO Administrator issues it. No lot may be graded, filled or excavated without a Town Fill and Grade permit either. On a single-family or duplex lot, you don’t need a scaled grading plan when fill stays at 4 inches or less. Work under that permit must be finished within 90 days.",
-        "A turf base is dug, graded and sometimes built up, so take your layout to <a href=\"https://sunsetbeachnc.gov/planning\" target=\"_blank\" rel=\"nofollow noopener\">Planning & Zoning</a> and ask which of these permits your yard needs. Staff meet property owners, and appointments are recommended. If the Town asks for an as-built survey, it must show impervious percentages, including inside any CAMA Area of Environmental Concern."
+        "A turf base is dug, graded and sometimes built up, so take your layout to <a href=\"https://sunsetbeachnc.gov/planning\" target=\"_blank\" rel=\"nofollow noopener\">Planning & Zoning</a> and ask which of these permits your yard needs. Staff meet property owners, and appointments are recommended. If the Town asks for an as-built survey, it must show impervious percentages, including inside any CAMA Area of Environmental Concern.",
+        "Seaside, off Seaside Road, sits inside this same review. The Town's <a href=\"https://sunsetbeachnc.gov/index.asp?DE=CD34008C-D44D-4006-823D-BCED6A47F996&SEC=C3A0114E-6C0F-44A3-B859-A574BB7C2498\" target=\"_blank\" rel=\"nofollow noopener\">approved subdivisions and site plans list</a> shows The Townes at Seaside approved, with its entrance off Seaside and clearing underway, so the 200-square-foot trigger, the 45% cap and the zoning and Fill and Grade permits above reach that ground. Some parcels along Seaside Road sit outside town limits; if yours does, the unincorporated Brunswick County rules on our <a href=\"/grand-strand/grissettown-nc/\">Grissettown page</a> apply instead. Ask Planning & Zoning which side of the line your parcel falls on before you plan the layout."
       ]
     },
     {
@@ -87,6 +88,10 @@
     {
       "q": "Can I ask for a variance to put turf in the shoreline buffer?",
       "a": "The Town’s <a href=\"https://sunsetbeachnc.gov/index.asp?SEC={6F079189-96AC-4CAA-9AC9-9F77C1AF58E3}\" target=\"_blank\" rel=\"nofollow noopener\">CAMA Permitting page</a> sets out the route. You need a permit decision first. The petition goes to the Division of Coastal Management Director and the State Attorney General’s Office six weeks before a Coastal Resources Commission meeting. You must show hardship from conditions peculiar to the property that you didn’t cause."
+    },
+    {
+      "q": "Is Seaside part of the Town of Sunset Beach?",
+      "a": "Some of it is. The Town’s approved subdivisions and site plans list shows The Townes at Seaside approved for construction, which puts that ground under the Town’s zoning permit, Fill and Grade permit and stormwater rules above. Other parcels along Seaside Road can sit outside town limits, where Brunswick County’s rules apply instead, so confirm your parcel with Planning & Zoning before you plan the layout."
     }
   ],
   "nearby": [
@@ -135,6 +140,10 @@
     {
       "label": "Coastal Review: Coastal Resources Commission digs in on artificial turf, September 2021",
       "url": "https://coastalreview.org/2021/09/coastal-resources-commission-digs-in-on-artificial-turf/"
+    },
+    {
+      "label": "Town of Sunset Beach: Approved Subdivisions & Site Plans",
+      "url": "https://sunsetbeachnc.gov/index.asp?DE=CD34008C-D44D-4006-823D-BCED6A47F996&SEC=C3A0114E-6C0F-44A3-B859-A574BB7C2498"
     }
   ],
   "publicReferences": [
@@ -143,5 +152,8 @@
     "https://www.brunswickcountync.gov/248/Stormwater-Ordinance",
     "http://reports.oah.state.nc.us/ncac/title%2015a%20-%20environmental%20quality/chapter%2007%20-%20coastal%20management/subchapter%20h/15a%20ncac%2007h%20.0209.pdf"
   ],
-  "checked": "2026-09-12"
+  "checked": "2026-09-12",
+  "foldedFrom": [
+    "seaside-nc"
+  ]
 }

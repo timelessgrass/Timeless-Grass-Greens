@@ -53,7 +53,8 @@
       "paras": [
         "<a href=\"https://horrycountysc.gov/departments/stormwater/hoa/\" target=\"_blank\" rel=\"nofollow noopener\">Horry County’s homeowner guidance</a> asks residents to preserve planned drainage patterns and avoid regrading that blocks swales or ditches. The attractive place for a green or dog run may overlap the route water already follows. Locate that route before drawing the final boundary.",
         "Ask for the recorded plat and any available drainage plan. Mark pipes, inlets, swales, pond edges and maintenance access. The county explains that <a href=\"https://horrycountysc.gov/departments/stormwater/major-initiatives/drainage/\" target=\"_blank\" rel=\"nofollow noopener\">drainage easements provide access for maintenance</a>. Ownership of the ground does not settle what work is allowed in an easement; ask the easement holder to review any proposed encroachment.",
-        "A county-hosted elevation certificate for Forestbrook Estates records different supplemental-flood-zone observations for units in the same townhome building. Check the actual property rather than assigning one flood condition to all of Forestbrook. Show persistent wet areas during the visit and identify who must address a larger drainage problem. Turf alone does not resolve standing water or flooding."
+        "A county-hosted elevation certificate for Forestbrook Estates records different supplemental-flood-zone observations for units in the same townhome building. Check the actual property rather than assigning one flood condition to all of Forestbrook. Show persistent wet areas during the visit and identify who must address a larger drainage problem. Turf alone does not resolve standing water or flooding.",
+        "Neighboring Socastee is unincorporated Horry County, the same authority that governs Forestbrook, so the same drainage rule applies to both. <a href=\"https://library.municode.com/sc/horry_county/codes/code_of_ordinances?nodeId=COOR_CH9FLDAPRCO_ARTIIIPRFLHARE_S9-51GEST\" target=\"_blank\" rel=\"nofollow noopener\">Horry County’s flood damage prevention ordinance</a> requires compensatory storage wherever fill is added inside the special flood hazard area or the supplemental flood zone: an equal amount of flood storage must be excavated elsewhere on hydraulically equivalent ground, backed by engineering analysis. Ask whether your address falls in one of those zones before the layout is set."
       ]
     },
     {
@@ -93,12 +94,19 @@
     {
       "q": "What should I have ready for a free estimate?",
       "a": "Your address, the area you want to use, a survey or site plan if available, and any association instructions. Point out access restrictions, existing drains and wet spots so the written estimate can define the proposed work."
+    },
+    {
+      "q": "I'm in Socastee, next to Forestbrook. Does anything here apply to me?",
+      "a": "Yes. Socastee is unincorporated Horry County, the same authority that covers Forestbrook, so the county's compensatory-storage rule applies the same way: fill added in the special flood hazard area or supplemental flood zone must be offset by excavating an equal amount of flood storage elsewhere. Confirm your zone with the county before the layout is set."
     }
   ],
   "nearby": [
     "carolina-forest-sc",
     "conway-sc",
     "myrtle-beach-sc"
+  ],
+  "foldedFrom": [
+    "socastee-sc"
   ],
   "sources": [
     {
@@ -124,6 +132,10 @@
     {
       "label": "Horry County: Stormwater Plan Requirements",
       "url": "https://www.horrycountysc.gov/departments/stormwater/engineers/construction/plan-requirements/"
+    },
+    {
+      "label": "Horry County Code of Ordinances, Ch. 9, Art. III, Sec. 9-51 (General standards)",
+      "url": "https://library.municode.com/sc/horry_county/codes/code_of_ordinances?nodeId=COOR_CH9FLDAPRCO_ARTIIIPRFLHARE_S9-51GEST"
     }
   ],
   "checked": "2026-09-11",

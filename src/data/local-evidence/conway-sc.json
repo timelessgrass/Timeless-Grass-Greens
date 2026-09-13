@@ -1,0 +1,205 @@
+{
+  "intent": "What should I check before installing artificial turf in Conway, SC?",
+  "distinctValue": "A Conway turf project starts with your property.",
+  "sources": [
+    {
+      "label": "City of Conway: GIS and city-limit, zoning and flood maps",
+      "url": "https://www.conwaysc.gov/departments/planning___development/conway_gis.php",
+      "checked": "2026-09-11",
+      "supports": [
+        "City pages provide boundary, zoning and flood-map links and a jurisdiction lookup."
+      ]
+    },
+    {
+      "label": "City of Conway: Planning and Development",
+      "url": "https://www.conwaysc.gov/departments/planning___development/index.php",
+      "checked": "2026-09-11",
+      "supports": [
+        "City Planning addresses land use and tree protection; Construction Services handles building permits; county Planning coordinates county development review."
+      ]
+    },
+    {
+      "label": "City of Conway: Construction Services",
+      "url": "https://www.conwaysc.gov/departments/building/index.php",
+      "checked": "2026-09-11",
+      "supports": [
+        "City pages provide boundary, zoning and flood-map links and a jurisdiction lookup.",
+        "City Planning addresses land use and tree protection; Construction Services handles building permits; county Planning coordinates county development review."
+      ]
+    },
+    {
+      "label": "City of Conway: Floodplain Information",
+      "url": "https://www.conwaysc.gov/departments/building/flood_plain_information1.php",
+      "checked": "2026-09-11",
+      "supports": [
+        "City guidance provides flood tools and a definition of development including filling, grading and excavation."
+      ]
+    },
+    {
+      "label": "Horry County: Planning and Zoning",
+      "url": "https://www.horrycountysc.gov/Departments/Planning-and-Zoning",
+      "checked": "2026-09-11",
+      "supports": [
+        "City Planning addresses land use and tree protection; Construction Services handles building permits; county Planning coordinates county development review."
+      ]
+    },
+    {
+      "label": "Wikipedia: Red Hill, South Carolina",
+      "url": "https://en.wikipedia.org/wiki/Red_Hill,_South_Carolina",
+      "checked": "2026-09-13",
+      "supports": [
+        "Red Hill is in south-central Horry County and is bordered to the north by the city of Conway, the county seat.",
+        "U.S. Route 501 passes through the northern part of Red Hill, connecting Conway to the north with Myrtle Beach.",
+        "Red Hill is a census-designated place, not an incorporated municipality (unincorporated Horry County)."
+      ]
+    },
+    {
+      "label": "RoadsideThoughts: Adrian, Horry County, SC profile",
+      "url": "https://roadsidethoughts.com/sc/adrian-xx-horry-profile.htm",
+      "checked": "2026-09-13",
+      "supports": [
+        "Conway is 7 miles (11.3 km) to the south of Adrian, placing Adrian about 7 miles north of Conway.",
+        "Adrian is a populated place in Horry County, South Carolina (unincorporated)."
+      ]
+    },
+    {
+      "label": "Wikipedia: Toddville, South Carolina",
+      "url": "https://en.wikipedia.org/wiki/Toddville,_South_Carolina",
+      "checked": "2026-09-13",
+      "supports": [
+        "Toddville is a small unincorporated community in Horry County, South Carolina.",
+        "Toddville is south of Conway on U.S. Route 701 and mostly consists of farmland."
+      ]
+    }
+  ],
+  "claimEvidence": [
+    {
+      "fields": [
+        "blocks[1].paras[1]"
+      ],
+      "evidenceType": "observed_official",
+      "sourceUrls": [
+        "https://www.conwaysc.gov/departments/planning___development/conway_gis.php",
+        "https://www.conwaysc.gov/departments/building/index.php"
+      ],
+      "checked": "2026-09-11",
+      "observed": "City pages provide boundary, zoning and flood-map links and a jurisdiction lookup.",
+      "limits": "Mailing-address caution is an editorial inference; no parcel determination made.",
+      "mappedClaim": "Confirm whether the parcel is inside Conway or in unincorporated Horry County.",
+      "mappingUpdated": "2026-09-11"
+    },
+    {
+      "fields": [
+        "blocks[1].paras[1]"
+      ],
+      "evidenceType": "observed_official",
+      "sourceUrls": [
+        "https://www.conwaysc.gov/departments/building/flood_plain_information1.php"
+      ],
+      "checked": "2026-09-11",
+      "observed": "City guidance provides flood tools and a definition of development including filling, grading and excavation.",
+      "limits": "Not proof every turf project needs a permit or that all city land floods. Separating turf and flood-control scope is an editorial recommendation.",
+      "mappedClaim": "For a property with floodplain concerns, grading and drainage changes require their own review; turf is not a flood-control solution.",
+      "mappingUpdated": "2026-09-11"
+    },
+    {
+      "fields": [
+        "answer.answer",
+        "blocks[0].paras[0]"
+      ],
+      "evidenceType": "business_fact_and_editorial_recommendation",
+      "sourceUrls": [],
+      "checked": "2026-09-11",
+      "observed": "Free visit, written quote and installation services are existing brief/site positioning. Access and layout questions are recommendations.",
+      "limits": "No new claim of engineering, infiltration testing, permit handling or completed local projects.",
+      "mappedClaim": "A smaller installation can be discussed and priced at a free visit; layout, access and scope questions are editorial recommendations.",
+      "mappingUpdated": "2026-09-11"
+    },
+    {
+      "fields": [
+        "blocks[2].paras[3]",
+        "faq[5]"
+      ],
+      "evidenceType": "observed_official",
+      "sourceUrls": [
+        "https://en.wikipedia.org/wiki/Red_Hill,_South_Carolina",
+        "https://roadsidethoughts.com/sc/adrian-xx-horry-profile.htm",
+        "https://en.wikipedia.org/wiki/Toddville,_South_Carolina"
+      ],
+      "checked": "2026-09-13",
+      "observed": "Red Hill borders Conway to the south along US 501 toward Myrtle Beach and is unincorporated (a CDP). Adrian is about 7 miles north of Conway per Conway's listed distance south of Adrian, and is an unincorporated populated place. Toddville is south of Conway on US 701 and is an unincorporated community.",
+      "limits": "No source found describing Toddville's distance to the Waccamaw River or any elevated flood risk there; that claim was cut rather than asserted. Adrian's page gives distance and direction from Conway but not a place-type label ('crossroads' was not supported and was cut).",
+      "mappedClaim": "Red Hill, Adrian and Toddville are unincorporated Horry County, with no rule of their own beyond the county review already described; use the same GIS lookup and start with Horry County Planning and Zoning.",
+      "mappingUpdated": "2026-09-13"
+    }
+  ],
+  "reviewNotes": [
+    "Use current conwaysc.gov links instead of prior cityofconway.com 403 gap. Some current internal links duplicate directory paths; the source list contains corrected URLs successfully opened.",
+    "Discard old research demographic padding, flood-height figures, town-wide soil recipes and drainage-fix promises.",
+    "Root should retain only supported operational commitments and verify lead delivery separately.",
+    "Phase 4 mappings follow retained customer-facing statements. Original observations and checked dates are preserved; this edit is not a new source verification.",
+    "2026-09-13: added Red Hill, Adrian and Toddville content (folded into this page). Verified each place's location and unincorporated status against Wikipedia (Red Hill, Toddville) and RoadsideThoughts (Adrian) via WebFetch. Cut the unsourced 'rural crossroads' description of Adrian and the unsourced Waccamaw floodplain-proximity claim for Toddville; corrected Red Hill's direction from Conway to match the source (Conway borders Red Hill to the north, i.e. Red Hill is south of Conway)."
+  ],
+  "mappingHistory": [
+    {
+      "archived": "2026-09-11",
+      "reason": "Pre-editorial paragraph mappings retained for provenance; unmapped claims were removed from public copy, not reverified.",
+      "claimEvidence": [
+        {
+          "fields": [
+            "blocks[0]",
+            "faq[0]"
+          ],
+          "evidenceType": "observed_official",
+          "sourceUrls": [
+            "https://www.conwaysc.gov/departments/planning___development/conway_gis.php",
+            "https://www.conwaysc.gov/departments/building/index.php"
+          ],
+          "checked": "2026-09-11",
+          "observed": "City pages provide boundary, zoning and flood-map links and a jurisdiction lookup.",
+          "limits": "Mailing-address caution is an editorial inference; no parcel determination made."
+        },
+        {
+          "fields": [
+            "blocks[0]",
+            "blocks[2]"
+          ],
+          "evidenceType": "observed_official",
+          "sourceUrls": [
+            "https://www.conwaysc.gov/departments/planning___development/index.php",
+            "https://www.conwaysc.gov/departments/building/index.php",
+            "https://www.horrycountysc.gov/Departments/Planning-and-Zoning"
+          ],
+          "checked": "2026-09-11",
+          "observed": "City Planning addresses land use and tree protection; Construction Services handles building permits; county Planning coordinates county development review.",
+          "limits": "No turf-specific approval, permit exemption, tree threshold or historic-design rule established."
+        },
+        {
+          "fields": [
+            "blocks[1]",
+            "faq[2]"
+          ],
+          "evidenceType": "observed_official",
+          "sourceUrls": [
+            "https://www.conwaysc.gov/departments/building/flood_plain_information1.php"
+          ],
+          "checked": "2026-09-11",
+          "observed": "City guidance provides flood tools and a definition of development including filling, grading and excavation.",
+          "limits": "Not proof every turf project needs a permit or that all city land floods. Separating turf and flood-control scope is an editorial recommendation."
+        },
+        {
+          "fields": [
+            "answer",
+            "blocks[2]",
+            "faq[3]"
+          ],
+          "evidenceType": "business_fact_and_editorial_recommendation",
+          "sourceUrls": [],
+          "checked": "2026-09-11",
+          "observed": "Free visit, written quote and installation services are existing brief/site positioning. Access and layout questions are recommendations.",
+          "limits": "No new claim of engineering, infiltration testing, permit handling or completed local projects."
+        }
+      ]
+    }
+  ]
+}

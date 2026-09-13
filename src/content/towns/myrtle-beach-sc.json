@@ -41,7 +41,9 @@
       "kicker": "Before installation",
       "h2": "Check the whole proposal with the right reviewer.",
       "paras": [
-        "Ask Myrtle Beach Planning & Zoning about applicable requirements, particularly if the project changes grading, drainage or lot coverage. For a condo or association property, obtain the relevant property approval separately. Bring any conditions to the estimate so the scope can account for them."
+        "Ask Myrtle Beach Planning & Zoning about applicable requirements, particularly if the project changes grading, drainage or lot coverage. For a condo or association property, obtain the relevant property approval separately. Bring any conditions to the estimate so the scope can account for them.",
+        "In Arcadian Shores, between Myrtle Beach and Briarcliffe Acres, Horry County has jurisdiction, not the city: the area is organized as a Special Tax District funding services the county does not otherwise provide (<a href=\"https://arcadianshores.org/\" target=\"_blank\" rel=\"nofollow noopener\">Arcadian Shores</a>). Its single-family homeowners' association is voluntary to join, and its by-laws bind members to a separate Declaration of Restrictions for the neighborhood, \"as they may be revised from time to time\" (<a href=\"https://arcadianshores.org/hoa\" target=\"_blank\" rel=\"nofollow noopener\">Arcadian Shores HOA</a>). Get the recorded copy from Horry County's Register of Deeds and check it for any yard or improvement rule before you plan the layout.",
+        "Springmaid Beach, north of Myrtle Beach State Park, straddles the Myrtle Beach city limits rather than sitting cleanly inside or outside them (<a href=\"https://en.wikipedia.org/wiki/Springmaid_Beach,_South_Carolina\" target=\"_blank\" rel=\"nofollow noopener\">Wikipedia</a>). Confirm with Planning & Zoning whether your address is on the city or the county side of that line before assuming which office reviews your project."
       ]
     },
     {
@@ -87,6 +89,14 @@
     {
       "q": "Does sand blow into turf near the beach?",
       "a": "On the oceanfront blocks it does, because the ground there is loose dune sand and the wind moves it. A stiff brush and a leaf blower after a windy stretch clear it, and we walk you through that care when the job is done."
+    },
+    {
+      "q": "Does Myrtle Beach or Horry County review turf work in Arcadian Shores?",
+      "a": "Horry County does. Arcadian Shores is unincorporated county land organized as a Special Tax District, not part of the City of Myrtle Beach (<a href=\"https://arcadianshores.org/\" target=\"_blank\" rel=\"nofollow noopener\">Arcadian Shores</a>). If you belong to its voluntary homeowners' association, its by-laws also bind you to the recorded Declaration of Restrictions, so check with the county's Register of Deeds for a copy before you finalize a layout."
+    },
+    {
+      "q": "Is Springmaid Beach inside Myrtle Beach city limits?",
+      "a": "It straddles them. Springmaid Beach sits north of Myrtle Beach State Park, and the city boundary runs through the area rather than around it (<a href=\"https://en.wikipedia.org/wiki/Springmaid_Beach,_South_Carolina\" target=\"_blank\" rel=\"nofollow noopener\">Wikipedia</a>). Confirm with the city's Planning & Zoning office whether your address falls inside city limits or in unincorporated Horry County before you plan the work."
     }
   ],
   "nearby": [
@@ -123,8 +133,28 @@
     {
       "label": "City of Myrtle Beach Code, Chapter 21, Article VI (drought management and response)",
       "url": "https://library.municode.com/sc/myrtle_beach/codes/code_of_ordinances?nodeId=COOR_CH21UT_ARTVIDRMAPLRE"
+    },
+    {
+      "label": "Arcadian Shores: Special Tax District",
+      "url": "https://arcadianshores.org/"
+    },
+    {
+      "label": "Arcadian Shores: Home Owners Association",
+      "url": "https://arcadianshores.org/hoa"
+    },
+    {
+      "label": "Arcadian Shores Single-Family Residential Home Owners Association: By-Laws (1982, amended January 18, 1983)",
+      "url": "https://assets.cdn.filesafe.space/wmVwnsIvqEK5NisUX3nO/media/69c12ccceb06d86f73d29d87.pdf"
+    },
+    {
+      "label": "Wikipedia: Springmaid Beach, South Carolina",
+      "url": "https://en.wikipedia.org/wiki/Springmaid_Beach,_South_Carolina"
     }
   ],
-  "checked": "2026-09-07",
-  "publicReferences": []
+  "checked": "2026-09-13",
+  "publicReferences": [],
+  "foldedFrom": [
+    "arcadian-shores-sc",
+    "springmaid-beach-sc"
+  ]
 }

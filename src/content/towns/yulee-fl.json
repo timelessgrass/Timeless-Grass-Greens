@@ -25,7 +25,8 @@
       "h2": "Find out whether your parcel is inside the William Burgess District.",
       "paras": [
         "Nassau County's William Burgess District takes in 5,400 acres: all the land east of I-95, west of US 17, south of SR 200 and north of the Nassau River (<a href=\"https://www.nassaucountyfl.com/1226/William-Burgess-Overlay-District\" target=\"_blank\" rel=\"nofollow noopener\">Nassau County</a>). If your Yulee address falls inside those lines, the district's <a href=\"https://www.nassaucountyfl.com/DocumentCenter/View/29303/\" target=\"_blank\" rel=\"nofollow noopener\">Context and Connectivity Blueprint</a> is part of your rulebook. Outside them, the county's Land Development Code applies without it.",
-        "To check, open the Nassau County Property Appraiser's map and turn on Map Layers, then Planning and Growth Management, then William Burgess District Transect. The county adopted the Blueprint on 8 July 2019 through Ordinances 2019-19 and 2019-20. Read the current version, dated 28 July 2025."
+        "To check, open the Nassau County Property Appraiser's map and turn on Map Layers, then Planning and Growth Management, then William Burgess District Transect. The county adopted the Blueprint on 8 July 2019 through Ordinances 2019-19 and 2019-20. Read the current version, dated 28 July 2025.",
+        "Yulee Heights is a named community inside Yulee, south-southeast of the center. It has no zoning or code of its own, so the same map check applies: a parcel inside the William Burgess District lines follows the Blueprint above, and a parcel outside them follows the county Land Development Code."
       ]
     },
     {
@@ -121,11 +122,18 @@
     {
       "label": "St. Johns River Water Management District: watering restrictions",
       "url": "https://www.sjrwmd.com/wateringrestrictions/"
+    },
+    {
+      "label": "HometownLocator: Yulee Heights Populated Place Profile",
+      "url": "https://florida.hometownlocator.com/fl/nassau/yulee-heights.cfm"
     }
   ],
   "publicReferences": [
     "https://www.nassaucountyfl.com/1226/William-Burgess-Overlay-District",
     "https://www.nassaucountyfl.com/DocumentCenter/View/29303/"
   ],
-  "checked": "2026-09-12"
+  "foldedFrom": [
+    "yulee-heights-fl"
+  ],
+  "checked": "2026-09-13"
 }

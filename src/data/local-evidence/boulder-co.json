@@ -1,0 +1,57 @@
+{
+  "intent": "Plan a turf project in Boulder, CO: confirm which city landscape rules apply, the residential turf cap, functional-turf exceptions, and site conditions on the south Boulder mesas.",
+  "distinctValue": "Boulder's 7 March 2026 water-wise landscape standards prohibit non-functional artificial turf in new development and cap turf at 25% of the lot or 1,000 square feet on home lots of three units or fewer; Flatirons Golf Course's playing area counts as functional turf; the south Boulder mesas carry Valmont and related soils, swelling clay over cobble with old terrace escarpments. Eldorado Springs, folded into this page, is unincorporated Boulder County: the city's turf rule doesn't reach it, its sewage district (not the city) governs what goes down the drain, and part of the canyon sits in the county's mapped floodplain along South Boulder Creek where some projects need an individual floodplain permit and others qualify under the county's General FDP.",
+  "sources": [
+    {
+      "label": "City of Boulder: water-wise landscape manual",
+      "url": "https://bouldercolorado.gov/landscape-manual",
+      "checked": "2026-09-07",
+      "supports": ["Artificial turf is prohibited in all new development, unless it is functional artificial turf"]
+    },
+    {
+      "label": "City of Boulder: Flatirons Golf Course",
+      "url": "https://bouldercolorado.gov/flatirons-golf-course/golf-course",
+      "checked": "2026-09-07",
+      "supports": ["more than 50,000 rounds a year", "Certified Audubon Cooperative Sanctuary"]
+    },
+    {
+      "label": "USDA Soil Data Access",
+      "url": "https://sdmdataaccess.nrcs.usda.gov/",
+      "checked": "2026-09-07",
+      "supports": ["Valmont, Nunn, Kutch and Hargreave soils", "terrace escarpments of 12 to 60%"]
+    },
+    {
+      "label": "Colorado General Assembly: SB24-005",
+      "url": "https://leg.colorado.gov/bills/sb24-005",
+      "checked": "2026-09-07",
+      "supports": ["exempts turf on fields of play"]
+    },
+    {
+      "label": "Boulder County: Unincorporated Towns and Communities",
+      "url": "https://bouldercounty.gov/government/about-boulder-county/unincorporated-towns/",
+      "checked": "2026-09-13",
+      "supports": [
+        "Many distinct and unique communities exist within the unincorporated areas of Boulder County, among them: ... Eldorado Springs"
+      ]
+    },
+    {
+      "label": "Boulder County: Eldorado Springs Local Improvement District",
+      "url": "https://bouldercounty.gov/government/boards-and-commissions/eldorado-springs-local-improvement-district/",
+      "checked": "2026-09-13",
+      "supports": [
+        "operating and maintaining the Eldorado Springs sewage treatment plant and collection system serving properties in the existing Local Improvement District",
+        "DON'T block access to your grinder pump lid. Keep area clear for easy access.",
+        "DON'T put food down your sink. The disposal is not your friend!"
+      ]
+    },
+    {
+      "label": "Boulder County: floodplain permits",
+      "url": "https://bouldercounty.gov/transportation/permits/flood-control/",
+      "checked": "2026-09-13",
+      "supports": [
+        "General FDPs allow certain projects and uses to take place without the need for an Individual Floodplain Development Permit",
+        "Individual permits are required for all development in the floodplain that is not covered under a General Floodplain Development Permit"
+      ]
+    }
+  ]
+}

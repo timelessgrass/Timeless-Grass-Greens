@@ -73,6 +73,16 @@
         "Restrictions apply to private wells and pumps, ground or surface water and water from public and private utilities.",
         "watered every day for the first 15 days after installation, up to three days per week for the next 30 days, and only two days per week for the final 15 days"
       ]
+    },
+    {
+      "label": "HometownLocator: Yulee Heights Populated Place Profile",
+      "url": "https://florida.hometownlocator.com/fl/nassau/yulee-heights.cfm",
+      "checked": "2026-09-13",
+      "supports": [
+        "Yulee Heights is a populated place LOCATED WITHIN the Yulee CDP.",
+        "Yulee Heights is located at latitude 30.607 and longitude -81.598.",
+        "Yulee, FL (1.6 miles NNW)"
+      ]
     }
   ],
   "unresolved": [

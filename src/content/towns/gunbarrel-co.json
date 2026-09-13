@@ -52,7 +52,8 @@
       "h2": "City code on one parcel, county code on the next.",
       "paras": [
         "Annexed parcels fall under the City of Boulder's municipal code; unincorporated ones fall under Boulder County's Land Use Code, with no municipal landscaping ordinance on top. Gunbarrel has its own civic streak, too: residents formed the Gunbarrel Public Improvement District in 1993 out of concern about development next door (<a href=\"https://en.wikipedia.org/wiki/Gunbarrel,_Colorado\" target=\"_blank\" rel=\"nofollow noopener\">Gunbarrel</a>).",
-        "HOAs are mixed. The older tract sections are largely free of them, while the newer infill has associations. At a detached single-family home, an HOA's design guidelines may regulate nonvegetative turf in the rear yard but not prohibit it (<a href=\"https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SB23-178</a>). The townhomes along Spine Road and Lookout Road are attached, so ask their associations before you plan."
+        "HOAs are mixed. The older tract sections are largely free of them, while the newer infill has associations. At a detached single-family home, an HOA's design guidelines may regulate nonvegetative turf in the rear yard but not prohibit it (<a href=\"https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SB23-178</a>). The townhomes along Spine Road and Lookout Road are attached, so ask their associations before you plan.",
+        "Niwot, just north, is simpler: the whole community is unincorporated, so every yard there sits under Boulder County's Land Use Code, which <a href=\"https://bouldercounty.gov/property-and-land/land-use/planning/land-use-code/\" target=\"_blank\" rel=\"nofollow noopener\">applies to all land within the unincorporated areas of Boulder County, not in cities or towns</a>, and every address stays on Left Hand water, under the same Stage 1 shortage above. Niwot does have its own local body, the Niwot Design Review Committee, but it only reviews proposals within the Niwot Rural Community District I, and by its own rules <a href=\"https://bouldercounty.gov/government/boards-and-commissions/niwot-design-review-committee/\" target=\"_blank\" rel=\"nofollow noopener\">does not have legal authority to grant Certificates of Appropriateness</a> — it can weigh in but can't approve or block a backyard turf project."
       ]
     },
     {
@@ -88,6 +89,10 @@
     {
       "q": "Does Gunbarrel sit over old coal mines, like parts of Erie?",
       "a": "No. Gunbarrel isn't on the Boulder-Weld coalfield undermining that Erie and Superior have to plan around, so the ground questions here are clay, tree roots and, near the farmland, the water table."
+    },
+    {
+      "q": "Does Niwot have its own turf rules, separate from Gunbarrel?",
+      "a": "No. Niwot is entirely unincorporated, so the same Boulder County Land Use Code and the same Left Hand Water District Stage 1 shortage described above cover it. The Niwot Design Review Committee only reviews proposals within the Rural Community District I, and it has no legal authority to grant or withhold approval, so it doesn't govern a backyard turf project (<a href=\"https://bouldercounty.gov/government/boards-and-commissions/niwot-design-review-committee/\" target=\"_blank\" rel=\"nofollow noopener\">Boulder County</a>)."
     }
   ],
   "nearby": [
@@ -116,8 +121,19 @@
     {
       "label": "Colorado SB23-178, signed act",
       "url": "https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf"
+    },
+    {
+      "label": "Boulder County: Land Use Code",
+      "url": "https://bouldercounty.gov/property-and-land/land-use/planning/land-use-code/"
+    },
+    {
+      "label": "Boulder County: Niwot Design Review Committee",
+      "url": "https://bouldercounty.gov/government/boards-and-commissions/niwot-design-review-committee/"
     }
   ],
-  "checked": "2026-09-07",
+  "checked": "2026-09-13",
+  "foldedFrom": [
+    "niwot-co"
+  ],
   "publicReferences": []
 }

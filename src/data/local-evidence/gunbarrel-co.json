@@ -1,0 +1,65 @@
+{
+  "intent": "A resident of Gunbarrel or the folded-in place of Niwot searches for artificial turf and needs to know whose rules govern their yard before we quote anything: City of Boulder or unincorporated Boulder County, which water utility they're on, and whether any local board (HOA, design review committee) reaches a turf project.",
+  "distinctValue": "Gunbarrel straddles the City of Boulder / unincorporated Boulder County line, so its water utility and its landscaping rules split by parcel; Niwot is fully unincorporated and stays on Left Hand water, so it inherits the county-code and Left-Hand-water half of the Gunbarrel page rather than needing a new set of rules, with one added wrinkle: Niwot's own Design Review Committee is real but advisory-only and geographically narrow, so it does not reach most Niwot yards.",
+  "sources": [
+    {
+      "label": "City of Boulder: water conservation",
+      "url": "https://bouldercolorado.gov/services/water-conservation",
+      "checked": "2026-09-07",
+      "supports": [
+        "the city has been on a Drought Watch since 1 April 2026: grass may be watered only in the morning before 10 or the evening after 6"
+      ]
+    },
+    {
+      "label": "Left Hand Water District: drought",
+      "url": "https://lefthandwater.gov/conservation/drought/",
+      "checked": "2026-09-13",
+      "supports": [
+        "April, 2026: The Left Hand Water District Board of Directors has declared Stage 1 (Mild) Water Shortage.",
+        "water supply remains adequate, but conditions are beginning to place moderate pressure on the District's supply relative to demand",
+        "restrictions in effect are voluntary, not mandatory"
+      ]
+    },
+    {
+      "label": "Left Hand Water District: conservation",
+      "url": "https://lefthandwater.gov/conservation/",
+      "checked": "2026-09-07",
+      "supports": [
+        "Left Hand also runs a rebate program with Resource Central"
+      ]
+    },
+    {
+      "label": "Wikipedia: Gunbarrel, Colorado",
+      "url": "https://en.wikipedia.org/wiki/Gunbarrel,_Colorado",
+      "checked": "2026-09-07",
+      "supports": [
+        "residents formed the Gunbarrel Public Improvement District in 1993 out of concern about development next door"
+      ]
+    },
+    {
+      "label": "Colorado SB23-178, signed act",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf",
+      "checked": "2026-09-07",
+      "supports": [
+        "an HOA's design guidelines may regulate nonvegetative turf in the rear yard but not prohibit it"
+      ]
+    },
+    {
+      "label": "Boulder County: Land Use Code",
+      "url": "https://bouldercounty.gov/property-and-land/land-use/planning/land-use-code/",
+      "checked": "2026-09-13",
+      "supports": [
+        "The Land Use Code applies to all land within the unincorporated areas of Boulder County, not in cities or towns."
+      ]
+    },
+    {
+      "label": "Boulder County: Niwot Design Review Committee",
+      "url": "https://bouldercounty.gov/government/boards-and-commissions/niwot-design-review-committee/",
+      "checked": "2026-09-13",
+      "supports": [
+        "The committee covers the Niwot Rural Community District I (NRCD I)",
+        "The committee does not have legal authority to grant Certificates of Appropriateness."
+      ]
+    }
+  ]
+}

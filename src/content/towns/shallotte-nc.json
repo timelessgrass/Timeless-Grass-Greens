@@ -53,6 +53,15 @@
         "<a href=\"https://www.townofshallotte.org/planning_zoning\" target=\"_blank\" rel=\"nofollow noopener\">Shallotte Planning & Zoning</a> describes its jurisdiction as town limits and the extra-territorial area outside them, and directs building-inspection questions to Brunswick County. Give staff the address and parcel information for the work.",
         "The <a href=\"https://www.townofshallotte.org/index.asp?SEC=C206CE57-2C55-45E6-88CB-08032F3785DD\" target=\"_blank\" rel=\"nofollow noopener\">Town’s zoning and jurisdiction maps</a> may lag recent zoning or annexation changes. Ask staff to confirm which requirements apply, particularly if the proposal changes grading or drainage or lies near a water feature. Bring any applicable association documents to the estimate as well."
       ]
+    },
+    {
+      "icon": "drop",
+      "kicker": "Civietown, unincorporated",
+      "h2": "Confirm who reviews Civietown work: the town or the county.",
+      "paras": [
+        "Civietown sits along Civietown Road SW (SR 1132), about 3.8 miles east of Shallotte, and has no incorporated town government of its own — it doesn't appear as a place on federal or OpenStreetMap place records, only as the road name. The town review described above may not be who covers your project there. Ask both Shallotte Planning & Zoning and <a href=\"https://www.brunswickcountync.gov/planning/\" target=\"_blank\" rel=\"nofollow noopener\">Brunswick County Planning & Community Enforcement</a>, which reviews unincorporated land outside every town's planning jurisdiction, to confirm which office covers your specific parcel before you finalize a layout.",
+        "Where the county reviews the work instead of the town, Brunswick County's <a href=\"https://www.brunswickcountync.gov/DocumentCenter/View/7215\" target=\"_blank\" rel=\"nofollow noopener\">stormwater ordinance</a> applies on its own terms: filling or excavating a parcel by four inches or more, in a way that changes how it drains, needs a Stormwater Management Plan and a county Stormwater Permit, and any digging within 30 feet of a stream bank needs one too unless the county's management manual marks the work exempt. See our <a href=\"/grand-strand/ash-nc/\">Ash, NC</a> page for how that county permit trigger plays out nearby, then bring the same questions on dig depth and any stream near your Civietown lot to the county before work starts."
+      ]
     }
   ],
   "services": [
@@ -65,12 +74,17 @@
     {
       "q": "What does a turf installation estimate in Shallotte include?",
       "a": "The free estimate includes a visit, a custom layout, turf options and a written price. Show us the space you want to change, the route into the yard and any areas that hold water. In Shallotte, confirm the property’s jurisdiction and any requirements for the planned work before construction."
+    },
+    {
+      "q": "Does this page's Shallotte process apply if my parcel is in Civietown?",
+      "a": "Maybe not. Civietown sits about 3.8 miles east of Shallotte and has no town government of its own, so confirm with Shallotte Planning & Zoning and Brunswick County Planning & Community Enforcement which office has jurisdiction over your parcel. Where the county reviews the work, its stormwater ordinance sets its own four-inch grading trigger and 30-foot stream buffer, separate from anything described above for town limits."
     }
   ],
   "nearby": [
     "carolina-shores-nc",
     "little-river-sc",
-    "north-myrtle-beach-sc"
+    "north-myrtle-beach-sc",
+    "ash-nc"
   ],
   "sources": [
     {
@@ -80,10 +94,21 @@
     {
       "label": "Town of Shallotte: jurisdiction and zoning maps",
       "url": "https://www.townofshallotte.org/index.asp?SEC=C206CE57-2C55-45E6-88CB-08032F3785DD"
+    },
+    {
+      "label": "Brunswick County Planning & Community Enforcement",
+      "url": "https://www.brunswickcountync.gov/planning/"
+    },
+    {
+      "label": "Brunswick County Stormwater Quality Management and Discharge Control Ordinance (PDF)",
+      "url": "https://www.brunswickcountync.gov/DocumentCenter/View/7215"
     }
   ],
   "checked": "2026-09-11",
   "placeType": "City",
+  "foldedFrom": [
+    "civietown-nc"
+  ],
   "publicReferences": [
     "https://www.townofshallotte.org/planning_zoning"
   ]

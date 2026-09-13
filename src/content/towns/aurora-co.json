@@ -53,6 +53,7 @@
       "paras": [
         "If the project includes sprinkler changes, ask Aurora Water which permit and inspection steps apply. The City’s Lawn & Irrigation Permit covers sod, seed and sprinkler installation or replacement; confirm what is required for your turf replacement and any related irrigation work before scheduling removal (<a href=\"https://www.auroragov.org/cms/One.aspx?portalId=16242704&amp;pageId=16533647\" target=\"_blank\" rel=\"nofollow noopener\">City of Aurora</a>).",
         "Ask <a href=\"https://www.auroragov.org/business_services/planning\" target=\"_blank\" rel=\"nofollow noopener\">Aurora Planning</a> through Access Aurora, choosing Planning and Zoning, which current standards apply to your address and proposed use. Include whether the turf is in a front, side or rear yard, whether the work is part of a new development or a replacement lawn, and whether an association or Title 32 district reviews the property. Request the allowed footprint, any remaining planting requirements and the required approvals in writing before choosing a product.",
+        "Aetna Estates is an 84-acre unincorporated pocket of Arapahoe County that Aurora surrounds on every side without taking it in (<a href=\"https://en.wikipedia.org/wiki/Aetna_Estates,_Colorado\" target=\"_blank\" rel=\"nofollow noopener\">Wikipedia</a>). Because it sits outside the city line, Aurora Planning and the UDO turf standards above don't reach it; ask Arapahoe County instead which landscape rules and approvals apply to your address. Confirm which utility bills your water there before assuming Aurora Water's Stage 1 schedule applies.",
         "Aurora Water's Grass Replacement Incentive Program pays $3.00 per square foot for a water-wise landscape and $0.50 for low-water grasses. Its 2026 manual requires living plants on 50% or more of the new landscape and lists artificial turf as prohibited, so turf earns nothing there (<a href=\"https://www.auroragov.org/UserFiles/Servers/Server_1881137/File/Residents/Water/Water%20Conservation/Landscape%20rebate/GRIP_Residential_Manual_2026_web_accessible.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Aurora Water</a>). The city does offer free water-wise landscape design to every customer (<a href=\"https://www.auroragov.org/cms/One.aspx?portalId=16242704&amp;pageId=16534576\" target=\"_blank\" rel=\"nofollow noopener\">City of Aurora</a>), worth using if you want planted beds around the turf."
       ]
     },
@@ -91,7 +92,7 @@
     },
     {
       "q": "Is Aurora Water my provider?",
-      "a": "Most Aurora homes are on Aurora Water, whose Stage 1 rules are above. Some homes in south-east Aurora are served by East Cherry Creek Valley Water and Sanitation District instead, so check the name on your bill before you plan around a watering schedule (<a href=\"https://www.eccv.org/\" target=\"_blank\" rel=\"nofollow noopener\">ECCV</a>)."
+      "a": "Most Aurora homes are on Aurora Water, whose Stage 1 rules are above. Some homes in south-east Aurora are served by East Cherry Creek Valley Water and Sanitation District instead, and Aetna Estates — the unincorporated Arapahoe County pocket that Aurora surrounds without taking in (<a href=\"https://en.wikipedia.org/wiki/Aetna_Estates,_Colorado\" target=\"_blank\" rel=\"nofollow noopener\">Wikipedia</a>) — isn't confirmed as an Aurora Water customer either. Check the name on your own bill before you plan around a watering schedule (<a href=\"https://www.eccv.org/\" target=\"_blank\" rel=\"nofollow noopener\">ECCV</a>)."
     },
     {
       "q": "Does Aurora's code allow artificial turf in a back yard?",
@@ -164,7 +165,14 @@
     {
       "label": "Aurora UDO: July 2023 archive, current through December 2022",
       "url": "https://web.archive.org/web/20230726063646/https://aurora.municipal.codes/UDO/146-4.7.3"
+    },
+    {
+      "label": "Wikipedia: Aetna Estates, Colorado",
+      "url": "https://en.wikipedia.org/wiki/Aetna_Estates,_Colorado"
     }
+  ],
+  "foldedFrom": [
+    "aetna-estates-co"
   ],
   "checked": "2026-09-12",
   "publicReferences": [

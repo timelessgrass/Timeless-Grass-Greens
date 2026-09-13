@@ -33,7 +33,8 @@
       "h2": "Use the requirements for your own community.",
       "paras": [
         "Carolina Shores includes several communities, and Carolina Shores Subdivision is only one of them. Use the exact community and property address when requesting documents; a nearby development’s turf policy may not apply.",
-        "Confirm ownership of the work area and any association requirements. Ask Town Planning & Zoning about the complete proposal, including grading or drainage changes. Bring the responses to the estimate so the scope can reflect the conditions that apply."
+        "Confirm ownership of the work area and any association requirements. Ask Town Planning & Zoning about the complete proposal, including grading or drainage changes. Bring the responses to the estimate so the scope can reflect the conditions that apply.",
+        "Thomasboro Road itself runs through two of the Town's eight communities, Calabash Lakes and The Village at Calabash. If your address is on Thomasboro Road, use whichever of those two community names matches your property when requesting documents. If your Thomasboro address may sit outside town limits, confirm with the Town whether Carolina Shores or Brunswick County covers your parcel before the layout is final."
       ]
     },
     {
@@ -90,6 +91,10 @@
     {
       "q": "Can a townhome owner replace the grass outside the home?",
       "a": "The answer depends on the property documents and who controls that area. Confirm ownership, easements and maintenance responsibilities with the appropriate representative before treating it as a private-yard project."
+    },
+    {
+      "q": "Is Thomasboro Road part of Carolina Shores?",
+      "a": "Thomasboro Road runs through two of the Town's eight communities: Calabash Lakes and The Village at Calabash. Use whichever of those two names matches your address when requesting documents."
     }
   ],
   "nearby": [
@@ -122,5 +127,8 @@
   ],
   "checked": "2026-09-11",
   "placeType": "City",
-  "publicReferences": []
+  "publicReferences": [],
+  "foldedFrom": [
+    "thomasboro-nc"
+  ]
 }

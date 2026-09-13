@@ -1,0 +1,50 @@
+{
+  "intent": "Give real coverage to six places folded into jacksonville-fl (Mayport, Ortega / Old Ortega / Ortega Forest, Beach Haven, Miramar, Bartram Park, Murray Hill): name which authority's rules reach each, and anything genuinely local, rather than a bare mention.",
+  "distinctValue": "None of the six carries a historic district or gated ARB with its own published design rules beyond what jacksonville-fl already sources. The added value is confirming that plainly and specifically per place: Old Ortega's National Register listing (2004) doesn't itself trigger a Certificate of Appropriateness the way the city-designated Riverside Avondale district does; Murray Hill borders Riverside/Avondale but isn't a registered historic neighborhood; Ortega and Ortega Forest's waterfront lots fall under the page's existing 10-foot waterbody-separation rule; Mayport is inside Jacksonville's city limits and distinct from the adjoining Naval Station Mayport, which is federal land and not a residential place to target; Bartram Park is a cluster of separate subdivisions rather than one gated community, so a reader needs their own subdivision's or CDD's rules, not a page-wide answer; and Beach Haven has no distinct local layer at all, so the same citywide and state rules already on the page apply as-is.",
+  "sources": [
+    {
+      "label": "National Register of Historic Places (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/National_Register_of_Historic_Places",
+      "checked": "2026-09-13",
+      "supports": [
+        "Listing in the National Register does not restrict private property owners from the use of their property.",
+        "In contrast to conditions relating to a federally designated historic district, municipal ordinances governing local historic districts often restrict certain kinds of changes to properties."
+      ]
+    },
+    {
+      "label": "Old Ortega Historic District (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Old_Ortega_Historic_District",
+      "checked": "2026-09-13",
+      "supports": [
+        "On July 14, 2004, a section of Old Ortega was designated the Old Ortega Historic District by the National Register of Historic Places."
+      ]
+    },
+    {
+      "label": "Ortega, Jacksonville (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Ortega,_Jacksonville",
+      "checked": "2026-09-13",
+      "supports": [
+        "south of downtown Jacksonville on a peninsula off the western bank of the St. Johns River",
+        "bounded by the St. Johns and Ortega Rivers"
+      ]
+    },
+    {
+      "label": "Murray Hill, Jacksonville (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Murray_Hill,_Jacksonville",
+      "checked": "2026-09-13",
+      "supports": [
+        "Murray Hill is right beside the thriving neighborhoods Riverside and Avondale near Downtown Jacksonville.",
+        "The homes in Murray Hill are older, but the area is not registered as a historic neighborhood."
+      ]
+    },
+    {
+      "label": "Mayport, Florida (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Mayport,_Florida",
+      "checked": "2026-09-13",
+      "supports": [
+        "Mayport is positioned between Naval Station Mayport and the St. Johns River in Jacksonville, Florida.",
+        "no longer maintains independent municipal status and is now classified as a neighborhood within consolidated Jacksonville"
+      ]
+    }
+  ]
+}

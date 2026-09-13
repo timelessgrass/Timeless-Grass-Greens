@@ -33,7 +33,7 @@
       "h2": "Use the narrow shape to your advantage.",
       "paras": [
         "A longer putting line may fit where a wide green will not. Decide which putts matter to you and leave walking room beside the surface. Keep the route to the garage useful after the work is finished.",
-        "Older city yards can have changed levels and buried remnants from past work. Show us known issues and ask for preparation and unresolved conditions to be stated in the estimate. Check City and any association requirements for the actual proposal."
+        "Older city yards can have changed levels and buried remnants from past work. Show us known issues and ask for preparation and unresolved conditions to be stated in the estimate. Check City and any association requirements for the actual proposal. Berkley itself is unincorporated Adams County, not the City and County of Denver (<a href=\"https://en.wikipedia.org/wiki/Berkley,_Colorado\" target=\"_blank\" rel=\"nofollow noopener\">Wikipedia</a>)."
       ]
     },
     {
@@ -63,7 +63,8 @@
       "paras": [
         "Denver Water declared a Stage 1 drought on 25 March 2026 (<a href=\"https://www.denverwater.org/tap/denver-board-water-commissioners-declares-stage-1-drought-implements-mandatory-watering\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>). Single-family homes water on two assigned days a week, even addresses on Sunday and Thursday and odd addresses on Wednesday and Saturday, and never between 10 a.m. and 6 p.m. Apartments, businesses and HOAs get Tuesday and Friday only.",
         "For 2026 the board has also ended the lawn-watering season, with no lawn watering or spray irrigation after 30 September (<a href=\"https://www.denverwater.org/residential/rebates-and-conservation-tips/summer-watering-rules\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>). Temporary drought pricing adds a charge to higher water use through 30 April 2027 (<a href=\"https://www.denverwater.org/residential/billing-and-rates/2026-rates\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>).",
-        "Don't count on a rebate to pay for turf. Denver Water's lawn-removal discount, up to $750 through Resource Central for taking out at least 200 square feet, needs a planted water-wise design, and artificial turf is not allowed (<a href=\"https://www.denverwater.org/tap/ditching-useless-turf-coloradoscape-we-can-help\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>). What turf buys you is a yard that's off the schedule for good; the <a href=\"/guides/colorado-water-rebates-and-turf/\">water rebates guide</a> covers the rest of the metro."
+        "Don't count on a rebate to pay for turf. Denver Water's lawn-removal discount, up to $750 through Resource Central for taking out at least 200 square feet, needs a planted water-wise design, and artificial turf is not allowed (<a href=\"https://www.denverwater.org/tap/ditching-useless-turf-coloradoscape-we-can-help\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>). What turf buys you is a yard that's off the schedule for good; the <a href=\"/guides/colorado-water-rebates-and-turf/\">water rebates guide</a> covers the rest of the metro.",
+        "Berkley isn't billed by Denver directly, but the same rules reach it. Most of the neighborhood, roughly 52nd Avenue to 60th and Sheridan Boulevard to Tejon Street, sits in the Berkeley Water and Sanitation District, which has bought all its water from Denver Water since 1 January 2018 (<a href=\"https://berkeleywsd.colorado.gov/\" target=\"_blank\" rel=\"nofollow noopener\">Berkeley Water and Sanitation District</a>). The eastern edge, Tennyson Street to I-25 and 56th Avenue to Sherrylwood Lane, falls in Crestview Water and Sanitation District, which posts drought notices under a shared Denver Water Restrictions Resolution (<a href=\"https://www.crestviewwatercolorado.gov/boundary-map\" target=\"_blank\" rel=\"nofollow noopener\">Crestview Water and Sanitation District</a>). Either way, the Stage 1 watering days, the 30 September cutoff and the missing turf rebate above apply the same in Berkley as they do in Denver."
       ]
     }
   ],
@@ -93,6 +94,10 @@
     {
       "q": "Do I need anyone's permission for turf in my Denver back yard?",
       "a": "In most older neighborhoods there's no HOA to ask. In Central Park or Lowry, send your plan to the board in writing: a covenant that bans nonvegetative turf in a back yard is unenforceable (<a href=\"https://codes.findlaw.com/co/title-37-water-and-irrigation/co-rev-st-sect-37-60-126/\" target=\"_blank\" rel=\"nofollow noopener\">C.R.S. 37-60-126</a>). Front-yard and design details are still the HOA's call."
+    },
+    {
+      "q": "Is Berkley part of Denver, and do these rules apply there?",
+      "a": "Berkley is an unincorporated community in Adams County, not the City and County of Denver (<a href=\"https://en.wikipedia.org/wiki/Berkley,_Colorado\" target=\"_blank\" rel=\"nofollow noopener\">Wikipedia</a>). Water is a different story: the Berkeley Water and Sanitation District has bought all its water from Denver Water since 2018 (<a href=\"https://berkeleywsd.colorado.gov/\" target=\"_blank\" rel=\"nofollow noopener\">Berkeley Water and Sanitation District</a>), and Crestview Water and Sanitation District on the eastern edge posts the same Denver Water drought notice (<a href=\"https://www.crestviewwatercolorado.gov/boundary-map\" target=\"_blank\" rel=\"nofollow noopener\">Crestview Water and Sanitation District</a>). The watering days, the cutoff date and the missing turf rebate above apply either way."
     }
   ],
   "nearby": [
@@ -100,6 +105,9 @@
     "aurora-co",
     "englewood-co",
     "edgewater-co"
+  ],
+  "foldedFrom": [
+    "berkley-co"
   ],
   "sources": [
     {
@@ -145,6 +153,18 @@
     {
       "label": "C.R.S. 37-60-126",
       "url": "https://codes.findlaw.com/co/title-37-water-and-irrigation/co-rev-st-sect-37-60-126/"
+    },
+    {
+      "label": "Berkeley Water and Sanitation District",
+      "url": "https://berkeleywsd.colorado.gov/"
+    },
+    {
+      "label": "Crestview Water and Sanitation District: boundary map",
+      "url": "https://www.crestviewwatercolorado.gov/boundary-map"
+    },
+    {
+      "label": "Wikipedia: Berkley, Colorado",
+      "url": "https://en.wikipedia.org/wiki/Berkley,_Colorado"
     }
   ],
   "checked": "2026-09-07",

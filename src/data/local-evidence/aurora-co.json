@@ -71,6 +71,25 @@
         "2026-49 AN ORDINANCE OF THE CITY COUNCIL OF THE CITY OF AURORA, COLORADO, AMENDING SECTION 138-191 OF THE CITY CODE PERTAINING TO THE PROHIBITION AGAINST THE INSTALLATION OF NEW TURF AND ORNAMENTAL WATER FEATURES",
         "Listed under Introduction of Ordinances, so it was not yet adopted when checked. It amends City Code 138-191 (Aurora Water), not UDO 146-4.7.3.B.11, and the agenda file does not include the ordinance text (it points to packet pages 181 and 225 that are not in this PDF). Not used on the page; it does not answer the artificial-turf placement or slope question. Recheck after the meeting if the Stage 1 block is revised."
       ]
+    },
+    {
+      "label": "Wikipedia: Aetna Estates, Colorado (fetched live)",
+      "url": "https://en.wikipedia.org/wiki/Aetna_Estates,_Colorado",
+      "checked": "2026-09-13",
+      "supports": [
+        "Aetna Estates is an unincorporated community and a census-designated place (CDP) located in Arapahoe County, Colorado, United States.",
+        "The Aetna Estates CDP has an area of 84 acres (0.339 km2), all land.",
+        "The unincorporated community is surrounded by Aurora and lies in ZIP Code 80018.",
+        "No homeowners association, special district, or water provider is named in the article."
+      ]
+    },
+    {
+      "label": "Aurora Water: drought restrictions (rechecked for Aetna Estates / service-area boundary language)",
+      "url": "https://www.auroragov.org/residents/water/drought",
+      "checked": "2026-09-13",
+      "supports": [
+        "The page describes current drought conditions and conservation measures for Aurora Water customers and does not delineate service-territory boundaries or name Aetna Estates or any unincorporated county area, so this page cannot confirm or rule out Aetna Estates as an Aurora Water service address."
+      ]
     }
   ],
   "notUsed": [

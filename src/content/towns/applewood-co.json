@@ -51,6 +51,7 @@
       "h2": "Water is billed in three tiers now, and the top one is $11 a thousand gallons.",
       "paras": [
         "Applewood's water comes from Consolidated Mutual Water Company, a customer-owned utility serving since 1926 across about 24 square miles and some 100,000 people, through about 400 miles of pipe in parts of Lakewood, Wheat Ridge and unincorporated central Jefferson County. Applewood is named on its service map, where Lakewood and Wheat Ridge appear only in part (<a href=\"https://cmwc.net/service-area-map/\" target=\"_blank\" rel=\"nofollow noopener\">Consolidated Mutual Water</a>). A neighbor in Wheat Ridge or Lakewood has to check the name on the bill before copying anyone's watering rules. In Applewood that part is already settled.",
+        "East Pleasant View, the small unincorporated pocket between Golden and Lakewood just south of Applewood, is unincorporated Jefferson County too. Its water doesn't come straight from Consolidated Mutual, though: the Pleasant View Water and Sanitation District, a roughly four-square-mile district, buys water through Consolidated Mutual under a contract running since 1987 and carries local sewage on to Metro Water Recovery for treatment (<a href=\"https://www.pvwsdistrict.org/about\" target=\"_blank\" rel=\"nofollow noopener\">Pleasant View Water and Sanitation District</a>). Ask the district what tier pricing and drought-stage rules apply to an East Pleasant View account, and whether Jefferson County's floodplain and land-disturbance rules below cover the address too.",
         "Its homepage says that, because of drought, allowed irrigation ends on 1 October 2026. Moderate-to-severe drought, below-normal snowpack and low reservoirs are behind the call, and a Drought Management Plan sets the rules (<a href=\"https://cmwc.net/\" target=\"_blank\" rel=\"nofollow noopener\">Consolidated Mutual Water</a>).",
         "That plan reached the bill first. Since 1 June 2026 Consolidated has billed monthly in three tiers, and on the standard one-ERU allotment they run $5.60 per thousand gallons for the first 5,000, $8.00 from 5,001 to 15,000, and $11.00 above 15,000 — each step costing more, the company says, “to promote conservation and to support the additional load on our water system” (<a href=\"https://www.cmwc.net/customers/rates/\" target=\"_blank\" rel=\"nofollow noopener\">Consolidated Mutual Water</a>). Your own tier lines move with the shares attached to your tap, so ask Consolidated how many you hold. Turf drinks none of it.",
         "As of September 2026 the company's published drought response puts it in Drought Stage Orange, the second of five steps that run Yellow, Orange, Red, Brown, Black. Orange targets a 25% cut and caps irrigation at two days a week, with no outdoor watering between 10 a.m. and 6 p.m. on any day; vegetables, flowers, trees and shrubs may still be hand-watered with a shut-off nozzle, or dripped, on any day inside those hours (<a href=\"https://www.cmwc.net/wp-content/uploads/2026/04/cmwc_rates_flyer_FINAL.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Consolidated Mutual Water</a>). Consolidated buys wholesale from Denver Water and has to align with its restrictions, and it says both pricing and enforcement may change again if conditions worsen."
@@ -156,7 +157,14 @@
     {
       "label": "Jefferson County: floodplain management and permit requirements",
       "url": "https://www.jeffco.us/2695/Floodplain-Management"
+    },
+    {
+      "label": "Pleasant View Water and Sanitation District",
+      "url": "https://www.pvwsdistrict.org/about"
     }
+  ],
+  "foldedFrom": [
+    "east-pleasant-view-co"
   ],
   "checked": "2026-09-12",
   "publicReferences": [

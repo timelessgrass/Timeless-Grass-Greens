@@ -43,7 +43,8 @@
       "paras": [
         "Use the address and parcel number when checking jurisdiction. The <a href=\"https://www.conwaysc.gov/departments/planning___development/conway_gis.php\" target=\"_blank\" rel=\"nofollow noopener\">City of Conway GIS page</a> links separate city-limit, zoning and flood maps. Start there instead of treating a Conway mailing address as proof that every city rule applies.",
         "Inside the city, <a href=\"https://www.conwaysc.gov/departments/planning___development/index.php\" target=\"_blank\" rel=\"nofollow noopener\">Planning and Development</a> handles land-use questions and tree protection, while <a href=\"https://www.conwaysc.gov/departments/building/index.php\" target=\"_blank\" rel=\"nofollow noopener\">Construction Services</a> handles building permits. For an unincorporated address, start with <a href=\"https://www.horrycountysc.gov/Departments/Planning-and-Zoning\" target=\"_blank\" rel=\"nofollow noopener\">Horry County Planning and Zoning</a>. Describe the whole job: turf area, excavation, imported base, grading, drains and any fence changes. Ask which reviews apply. An answer about replacing a surface may not cover a separate drainage alteration.",
-        "If an association also governs the property, ask whether the proposed change requires an application or approval, and obtain any required response before work starts. City or county review does not establish what an individual association will approve."
+        "If an association also governs the property, ask whether the proposed change requires an application or approval, and obtain any required response before work starts. City or county review does not establish what an individual association will approve.",
+        "<a href=\"https://en.wikipedia.org/wiki/Red_Hill,_South_Carolina\" target=\"_blank\" rel=\"nofollow noopener\">Red Hill</a> borders Conway on the south side, along US 501 toward Myrtle Beach. <a href=\"https://roadsidethoughts.com/sc/adrian-xx-horry-profile.htm\" target=\"_blank\" rel=\"nofollow noopener\">Adrian</a> is about 7 miles north of Conway. <a href=\"https://en.wikipedia.org/wiki/Toddville,_South_Carolina\" target=\"_blank\" rel=\"nofollow noopener\">Toddville</a> is south of Conway on US 701. All three are unincorporated Horry County, the same as any other address outside the city limits above — none of the three carries a rule of its own. Use the same GIS lookup to confirm the parcel is outside city limits, and start with Horry County Planning and Zoning rather than Conway's city departments."
       ]
     },
     {
@@ -93,6 +94,10 @@
     {
       "q": "Can I get a price before deciding on the entire back yard?",
       "a": "Yes. Start with the area you are considering and explain its use. Timeless offers a free visit and written estimate. Ask for the smaller project to be defined clearly so you can decide whether it meets your needs."
+    },
+    {
+      "q": "What about Red Hill, Adrian or Toddville — are they part of Conway?",
+      "a": "No. All three are unincorporated Horry County, not inside Conway city limits. Confirm the parcel with Horry County Planning and Zoning rather than the city, and treat any floodplain or drainage question the same way described above."
     }
   ],
   "nearby": [
@@ -121,9 +126,26 @@
     {
       "label": "Horry County: Planning and Zoning",
       "url": "https://www.horrycountysc.gov/Departments/Planning-and-Zoning"
+    },
+    {
+      "label": "Wikipedia: Red Hill, South Carolina",
+      "url": "https://en.wikipedia.org/wiki/Red_Hill,_South_Carolina"
+    },
+    {
+      "label": "RoadsideThoughts: Adrian, Horry County, SC profile",
+      "url": "https://roadsidethoughts.com/sc/adrian-xx-horry-profile.htm"
+    },
+    {
+      "label": "Wikipedia: Toddville, South Carolina",
+      "url": "https://en.wikipedia.org/wiki/Toddville,_South_Carolina"
     }
   ],
-  "checked": "2026-09-11",
+  "checked": "2026-09-13",
   "placeType": "City",
+  "foldedFrom": [
+    "red-hill-sc",
+    "adrian-sc",
+    "toddville-sc"
+  ],
   "publicReferences": []
 }
