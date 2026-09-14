@@ -221,3 +221,17 @@ These decisions supersede the earlier pinned/stacked Process and overlay-gallery
 - Thin section rules and a short green marker separate topics. Practical checklists get one tonal list with numbered or bulleted rows. Do not turn every paragraph into a card.
 - Comparison tables retain real table markup inside a keyboard-scrollable region. Instructions appear on small screens when the columns need horizontal scrolling.
 - Reading headings and the article body stay visible without reveal animations. Preserve heading IDs, metadata, useful links, estimate behavior and Markdown mirrors when changing the layout.
+
+## Conversion audit fixes, September 14, 2026
+
+Source: `plans/audits/conversion-2026-09-14/` (report and results.json). These supersede earlier lines where they conflict.
+
+- **Header:** the sticky header carries a compact "Free estimate" pill from 900px and the phone number from 1100px. Phones keep the sticky call and estimate bar instead. The header phone is a plain link with no `data-cta` (CTA-1).
+- **Local pages:** town and local-service pages show `ReadingEstimate` with the short answer, beside it on town pages and under it on local-service pages. This matches articles and guides.
+- **Homepage:**
+  - "Why choose us" gives installation reasons (experience, base, seams and infill, cleanup and care) instead of restating the offer. Its heading no longer duplicates the offer panel's.
+  - The photo mosaic is clamped on desktop too: one wide photo and two rows, then "See all N photos". Repeat views of one green sort to the end.
+  - The service picker shows every row's name and description at full ink from 1000px.
+- **Services:** inclusions list only the installation work, because the free visit and written price already sit in the hero and the offer. Commercial benefits are outcome-first. The commercial hero is the daycare play yard (`fin-10`); indoor stays photo-free until a larger gym photo arrives.
+- **Photos:** `Shot.heroFocus` sets each hero's `object-position` so the turf stays in frame on phones. HeroImage looks it up by file.
+- **Estimate form:** the size step has five options up to "Over 5,000 sq ft". The commercial tile reads "Commercial, HOA or sports", and its submitted value is unchanged.

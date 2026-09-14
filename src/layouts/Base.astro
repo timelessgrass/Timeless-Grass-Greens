@@ -137,14 +137,18 @@ if (schema?.length) graph.push(...schema);
         <Image src={logo} alt="" width={140} densities={[1, 2]} class="chrome__logo" loading="eager" />
         <span class="chrome__wordmark">{businessName}</span>
       </a>
-      <nav class="chrome__nav" aria-label="Main navigation">
-        <a href="/services/">Services</a>
-        <a href="/#work">Our work</a>
-        <a href="/#markets">Areas</a>
-      </nav>
-      <button class="chrome__menu" type="button" aria-expanded="false" aria-controls="menu" data-menu-toggle>
-        <span class="chrome__menu-ico" aria-hidden="true"></span><span class="chrome__menu-lbl">Menu</span>
-      </button>
+      <div class="chrome__right">
+        <nav class="chrome__nav" aria-label="Main navigation">
+          <a href="/services/">Services</a>
+          <a href="/#work">Our work</a>
+          <a href="/#markets">Areas</a>
+        </nav>
+        {phoneHref && <a class="chrome__tel" href={phoneHref}>{phone}</a>}
+        {!noEstimate && <a class="btn btn--primary chrome__cta" href="/estimate/" data-estimate data-cta="quote-header">Free estimate</a>}
+        <button class="chrome__menu" type="button" aria-expanded="false" aria-controls="menu" data-menu-toggle>
+          <span class="chrome__menu-ico" aria-hidden="true"></span><span class="chrome__menu-lbl">Menu</span>
+        </button>
+      </div>
     </div>
   </header>
 

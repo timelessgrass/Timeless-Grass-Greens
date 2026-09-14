@@ -72,7 +72,8 @@
 .local__intro .fig__media { display: block; overflow: hidden; border-radius: var(--radius-card); }
 .local__intro .fig img { display: block; width: 100%; height: auto; aspect-ratio: 4/3; object-fit: cover; }
 .local__intro .fig figcaption { margin-top: .7rem; color: var(--ink-dim); font-size: .9rem; line-height: 1.5; }
-@media (min-width: 900px) { .local__intro { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); } }
+.local__intro > .reading-estimate { margin-top: 0; }
+@media (min-width: 900px) { .local__intro { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); align-items: start; } }
 
 /* --- the services index: each card is the link -------------------------------------- */
 .benefit--link { padding: 0; }

@@ -71,11 +71,12 @@
     }
   ],
   "services": [
+    "putting-greens",
     "sports-field-turf",
     "commercial-turf",
     "residential-turf"
   ],
-  "servicesNote": "Compare residential, commercial and sports-turf options according to who will use the space and how.",
+  "servicesNote": "Compare a backyard putting green, an artificial lawn, or commercial and sports turf, based on who will use the space.",
   "faq": [
     {
       "q": "Who installs artificial turf in Myrtle Beach, SC?",

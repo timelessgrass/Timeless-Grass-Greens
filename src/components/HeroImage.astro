@@ -12,12 +12,15 @@
  * between the 960 and the 1280 file, and the 960 is half the bytes on the element that sets LCP.
  */
 import { Image } from 'astro:assets';
+import { SHOTS } from '../data/shotlist';
 const PHOTOS = import.meta.glob<{ default: ImageMetadata }>('../assets/photos/*.jpg', { eager: true });
 interface Props { file?: string | null; class?: string }
 const { file, class: cls = 'hero__img' } = Astro.props;
 const img = file ? PHOTOS[`../assets/photos/${file}`]?.default : undefined;
+const heroFocus = file ? SHOTS.find((s) => s.file === file)?.heroFocus : undefined;
 ---
 {img && (
   <Image class={cls} src={img} alt="" width={1920} widths={[640, 960, 1280, 1600, 1920]} quality={55}
-         sizes="(max-width: 700px) 75vw, 100vw" loading="eager" fetchpriority="high" />
+         sizes="(max-width: 700px) 75vw, 100vw" loading="eager" fetchpriority="high"
+         style={heroFocus ? `object-position: ${heroFocus}` : undefined} />
 )}

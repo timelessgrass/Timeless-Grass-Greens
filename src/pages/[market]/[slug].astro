@@ -10,6 +10,7 @@ import HeroImage from '../../components/HeroImage.astro';
 import Figure from '../../components/Figure.astro';
 import Icon from '../../components/Icon.astro';
 import OfferPanel from '../../components/OfferPanel.astro';
+import ReadingEstimate from '../../components/ReadingEstimate.astro';
 import PublicReferences from '../../components/PublicReferences.astro';
 import { getPublishedCollection } from '../../lib/published-content';
 import { assertUniqueRoutes } from '../../lib/content-policy.mjs';
@@ -49,7 +50,7 @@ const pics = [0, 1, 2].map((k) => pool[(pick + k) % pool.length]?.id).filter((x)
 const svcSlugs = town ? town.data.services : [ls!.data.service];
 const svcs = svcSlugs.map((s) => SERVICES.find((x) => x.slug === s)).filter((x): x is NonNullable<typeof x> => !!x);
 const svc = ls ? svcs[0] : null;
-const introShotId = svc ? ({ 'commercial-turf': 'fin-4', 'pet-turf': 'fin-3', 'putting-greens': 'fin-1' } as Record<string, string>)[svc.slug] : undefined;
+const introShotId = svc ? ({ 'commercial-turf': 'fin-10', 'pet-turf': 'fin-3', 'putting-greens': 'fin-1' } as Record<string, string>)[svc.slug] : undefined;
 const introShot = SHOTS.find((shot) => shot.id === introShotId && shot.file);
 /* a town's service cards go to that service's page for this area, where there is one */
 const areaSvc = new Set(local.filter((l) => l.data.market === d.market).map((l) => l.data.service));
@@ -101,13 +102,16 @@ const offerBand = gFaq === 'sec';
   </section>
 
   <section class={`${ground(0)} answer-box`}>
-    <div class:list={['wrap', { 'local__intro': introShot }]} data-reveal>
+    <div class="wrap local__intro" data-reveal>
       <div>
       <p class="micro">The short answer</p>
       <h2 class="answer-box__q">{d.answer.question}</h2>
       <p class="answer-box__a">{d.answer.answer}</p>
+      {introShot && <ReadingEstimate preset={svc ? svc.preset : ''} cta={slug} />}
       </div>
-      {introShot && <Figure shot={introShot} sizes="(min-width: 1180px) 550px, (min-width: 900px) 45vw, 92vw" />}
+      {introShot
+        ? <Figure shot={introShot} sizes="(min-width: 1180px) 550px, (min-width: 900px) 45vw, 92vw" />
+        : <ReadingEstimate preset={svc ? svc.preset : ''} cta={slug} />}
     </div>
   </section>
 

@@ -47,8 +47,13 @@
 @media (max-width: 899px) {
   .mosaic.is-clamped > :nth-child(n+8) { display: none; }
 }
+/* Desktop clamps too: the lead wide photo plus two rows (five frames), the same "See all"
+   button revealing the rest — not the whole inventory as one dark block before any reason
+   to choose us. */
+@media (min-width: 900px) {
+  .mosaic.is-clamped > :nth-child(n+6) { display: none; }
+}
 .mosaic__actions { display: flex; flex-wrap: wrap; justify-content: center; gap: .8rem; margin-top: 1.8rem; }
-@media (min-width: 900px) { .mosaic__more { display: none; } }
 
 /* --- svclist: six services, one sticky frame -------------------------------------- */
 .svcwrap { display: grid; gap: clamp(2rem, 4vw, 3.6rem); align-items: start; }
@@ -86,17 +91,18 @@ html:not(.js-motion) .svcrow__go { opacity: 1; transform: none; }
   .svcrow__n { color: var(--ink); }
   .svcrow__go { opacity: 1; transform: none; }
 }
+/* At 1000px and up every service reads at full ink with its description shown — only the
+   photo frame beside the list switches with scroll and hover, not the row's own legibility. */
+@media (min-width: 1000px) {
+  .svcrow__n { color: var(--ink); }
+  .svcrow__p { opacity: 1; max-height: none; }
+}
 .svcfig__f { position: absolute; inset: 0; opacity: 0; transition: opacity .55s var(--ease); }
 .svcfig__f.is-on { opacity: 1; }
 .svcfig__f .fig, .svcfig__f figure { margin: 0; height: 100%; }
 .svcfig__f img { width: 100%; height: 100%; object-fit: cover; display: block; }
 .svcfig__f figcaption { position: absolute; inset: auto 0 0 0; margin: 0; padding: 3rem 1.1rem 1rem; font-size: .8rem;
   color: var(--ink-on-dark); background: linear-gradient(transparent, rgba(14,14,12,.85)); }
-/* The one service with no honest photograph gets words instead of a borrowed image. */
-.svcfig__data { position: absolute; inset: 0; display: grid; align-content: center; gap: .8rem; padding: clamp(1.4rem, 4vw, 2.6rem);
-  background: var(--ground-green); color: var(--ink-on-dark); }
-.svcfig__data b { font-family: var(--font-display); font-weight: 500; font-size: clamp(2.6rem, 7vw, 4.4rem); line-height: .9; letter-spacing: -.04em; }
-.svcfig__data span { font-size: .98rem; line-height: 1.55; color: var(--ink-on-dark-dim); max-width: 30ch; }
 
 /* --- zoom: the photograph pulls back while you read the sentence ------------------- */
 .zoomband { display: grid; gap: clamp(1.8rem, 4vw, 3.2rem); align-items: center; }

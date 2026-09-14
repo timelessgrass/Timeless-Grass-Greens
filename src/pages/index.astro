@@ -57,31 +57,41 @@ const SVC = [
   { slug: 'indoor-turf',       name: 'Indoor facilities', line: 'Turf for gyms and training facilities, so your athletes can train all year.' },
 ];
 
-/* One frame per service. `shot: null` is deliberate on indoor facilities — there is no
-   indoor install in the shot list, and a lawn photograph next to the word "indoor" would
-   be a claim. That row shows words instead. */
+/* One frame per service. */
 const byId = (id: string) => SHOTS.find((x) => x.id === id) ?? null;
 const SVCFIG = [
-  { shot: byId('fin-1') },   // putting greens — a finished green, flag in
-  { shot: byId('fin-2') },   // lawns — a back lawn to the patio edge
-  { shot: byId('fin-3') },   // pet turf — the dogs on the turf
-  { shot: byId('fin-4') },   // commercial — the shared amenity lawn
-  { shot: byId('ctx-1') },   // sports fields — practice nets and goals
-  { shot: null },            // indoor facilities — no photograph on file
+  { shot: byId('fin-1') },    // putting greens — a finished green, flag in
+  { shot: byId('fin-2') },    // lawns — a back lawn to the patio edge
+  { shot: byId('fin-3') },    // pet turf — the dogs on the turf
+  { shot: byId('fin-10') },   // commercial — a fenced child care play yard
+  { shot: byId('ctx-1') },    // sports fields — practice nets and goals
+  { shot: byId('fin-11') },   // indoor facilities — a turf training strip along a gym
 ].map((f) => ({ shot: f.shot && f.shot.file ? f.shot : null }));
 
-/* Reasons to enquire, grounded in the existing estimate and installation scope. */
+/* Installation facts, not the offer restated. The 13-year fact is the founder's own
+   years, never the company's age or a description of him (brief.json,
+   identity.founder_experience_years, CLIENT_STATED). */
 const WHY = [
-  { icon: 'leaf', h: 'Compare the turf options', p: 'See the choices for your lawn, dog run or putting green before deciding.' },
-  { icon: 'ruler', h: 'A layout for your space', p: 'We measure the area and draw a layout for you to approve before installation.' },
-  { icon: 'drop', h: 'Preparation before turf', p: 'The site visit covers the ground, drainage and access the work will need.' },
-  { icon: 'sparkle', h: 'Seams, edges and cleanup', p: 'Your installation includes finishing the edges, cleaning up and a care walkthrough.' },
+  { icon: 'flag', h: '13 years’ experience', p: 'Every layout, base and edge is planned with 13 years’ experience in turf installation.' },
+  { icon: 'drop', h: 'A base for your soil', p: 'We prepare the site and build the base for the ground and drainage at your address.' },
+  { icon: 'ruler', h: 'Seams, edges and infill', p: 'Turf laid, seamed and edged, with the infill chosen for how you use it.' },
+  { icon: 'sparkle', h: 'Cleanup and a care walkthrough', p: 'We clean up the site and show you how to look after the new turf.' },
 ];
 
-/* The photographs. Phones show the first seven and a button for the rest: fourteen frames in a
-   two-up grid was two thousand pixels of scrolling between the services and the form. Without
-   JavaScript every frame shows. `sizes` follows the desktop spans in home.css. */
-const MOSAIC = [...shotsBy('finished').slice(1), ...shotsBy('context'), ...shotsBy('detail')].filter((s) => s.file);
+/* The photographs. Phones show the first seven and a button for the rest; desktop clamps to
+   one wide photo plus two rows (home.css) with the same button. Without JavaScript every frame
+   shows. `sizes` follows the desktop spans in home.css. ctx-2, fin-9 and ctx-3 are extra angles
+   of one green already shown elsewhere, so they sort to the end; fin-10 (the daycare play
+   yard) sorts early, right after the lead photo. */
+const LATE_IDS = ['ctx-2', 'fin-9', 'ctx-3'];
+const base = [...shotsBy('finished').slice(1), ...shotsBy('context'), ...shotsBy('detail')].filter((s) => s.file);
+const fin10 = base.find((s) => s.id === 'fin-10');
+const rest = base.filter((s) => s.id !== 'fin-10' && !LATE_IDS.includes(s.id));
+const late = base.filter((s) => LATE_IDS.includes(s.id));
+/* fin-10 (the daycare play yard) sits second, right after the lead photo, rather than
+   first: the lead keeps its full-width 16/9 crop and this shot's aerial framing does not
+   suit it. The three extra angles of one green (ctx-2, fin-9, ctx-3) move to the end. */
+const MOSAIC = [rest[0], ...(fin10 ? [fin10] : []), ...rest.slice(1), ...late];
 const mosaicSizes = (i: number) => i === 0
   ? '(min-width: 1180px) 1180px, 92vw'
   : '(min-width: 1180px) 580px, (min-width: 900px) 46vw, 44vw';
@@ -143,12 +153,7 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
         <div class="svcfig" data-svcfig aria-hidden="true">
           {SVCFIG.map((f, i) => (
             <div class={`svcfig__f${i === 0 ? ' is-on' : ''}`} data-svcfig-i={i}>
-              {f.shot ? <Figure shot={f.shot} sizes="(min-width: 1000px) 42vw, 92vw" /> : (
-                <div class="svcfig__data">
-                  <b>Indoor</b>
-                  <span>Gyms, training facilities and indoor sports spaces. Tell us about yours.</span>
-                </div>
-              )}
+              {f.shot && <Figure shot={f.shot} sizes="(min-width: 1000px) 42vw, 92vw" />}
             </div>
           ))}
         </div>
@@ -208,7 +213,7 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
     <div class="wrap zoomband">
       <div class="zoomband__copy" data-reveal>
         <p class="micro">Why choose us</p>
-        <h2>See the plan before you decide.</h2>
+        <h2>Built for your ground, finished clean.</h2>
         <div class="diffs">
           {WHY.map((w) => <div class="diff diff--ico" data-reveal><span class="diff__ico"><Icon name={w.icon} /></span><div><h3>{w.h}</h3><p>{w.p}</p></div></div>)}
         </div>

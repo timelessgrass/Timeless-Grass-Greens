@@ -84,13 +84,21 @@ p  { margin: 0 0 1.05em; max-width: var(--measure); text-wrap: pretty; }
 }
 .chrome__mark { text-decoration: none; display: flex; align-items: center; gap: .8rem; min-height: 44px; }
 .chrome__logo { height: 50px; width: auto; }
+.chrome__right { display: flex; align-items: center; gap: clamp(.6rem, 2vw, 1.2rem); }
 .chrome__wordmark, .chrome__nav { display: none; }
+.chrome__right .chrome__tel, .chrome__right .chrome__cta { display: none; } /* phones keep the sticky .bar instead — see below */
 @media (min-width: 900px) {
   .chrome__wordmark { display: block; font-family: var(--font-display); font-size: 1.4rem; line-height: 1.15; }
   .chrome__nav { display: flex; align-items: center; gap: clamp(1rem, 3vw, 2rem); }
   .chrome__nav a { display: inline-flex; align-items: center; min-height: 44px; text-decoration: none; font-weight: 600; white-space: nowrap; }
   .chrome__nav a:hover { color: var(--accent); }
   .chrome .chrome__menu { display: none; }
+  /* number crowds the 900-1100px range next to nav + wordmark, so only the button shows there */
+  .chrome__right .chrome__cta { display: inline-flex; min-height: 44px; padding: .6rem 1.3rem; font-size: .92rem; white-space: nowrap; }
+}
+@media (min-width: 1100px) {
+  .chrome__right .chrome__tel { display: inline-flex; align-items: center; min-height: 44px; text-decoration: none; font-weight: 600; white-space: nowrap; color: var(--ink); }
+  .chrome__tel:hover { color: var(--accent); }
 }
 .chrome { transition: box-shadow var(--dur) var(--ease); }
 .chrome.is-scrolled { box-shadow: 0 10px 30px rgba(14, 14, 12, .07); }
