@@ -1,8 +1,9 @@
 ---
 import Icon from './Icon.astro';
-import { phone, phoneHref } from '../data/brief';
-interface Props { preset?: string; cta: string }
-const { preset = '', cta } = Astro.props;
+import { contactFor } from '../data/contact';
+interface Props { preset?: string; cta: string; market?: string }
+const { preset = '', cta, market } = Astro.props;
+const { phone, phoneHref } = contactFor(market);
 const href = preset ? `/estimate/?use=${encodeURIComponent(preset)}` : '/estimate/';
 ---
 <aside class="reading-estimate" aria-label="Plan your installation">

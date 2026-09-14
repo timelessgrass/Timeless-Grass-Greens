@@ -18,7 +18,8 @@ import { STATE_NAMES } from '../../data/service-territory.mjs';
 import { MARKETS } from '../../data/markets';
 import { SERVICES } from '../../data/services';
 import { SHOTS } from '../../data/shotlist';
-import { phone, phoneHref, positioning, fact } from '../../data/brief';
+import { positioning, fact } from '../../data/brief';
+import { contactFor } from '../../data/contact';
 
 export async function getStaticPaths() {
   const towns = await getPublishedCollection('towns');
@@ -39,6 +40,7 @@ const d = (town ?? ls)!.data;
 const m = MARKETS.find((x) => x.slug === d.market)!;
 const slug = Astro.params.slug as string;
 const url = `${Astro.site}${d.market}/${slug}/`;
+const { phone, phoneHref } = contactFor(d.market);
 const materials = fact<string>(positioning?.materials);
 
 /* the hero: one of the market's photographs, picked by the address so neighbouring towns differ */
@@ -75,7 +77,7 @@ const nBlocks = d.blocks.length;
 const gServices = ground(1 + nBlocks), gFaq = ground(2 + nBlocks);
 const offerBand = gFaq === 'sec';
 ---
-<Base title={d.title} description={d.description} answer={d.answer} crumbs={crumbs} faq={d.faq} schema={schema}>
+<Base title={d.title} description={d.description} answer={d.answer} crumbs={crumbs} faq={d.faq} schema={schema} market={d.market}>
 
   <section class={`hero hero--svc${heroFile ? '' : ' turf-marks turf-marks--dark'}`}>
     <HeroImage file={heroFile} />
@@ -107,11 +109,11 @@ const offerBand = gFaq === 'sec';
       <p class="micro">The short answer</p>
       <h2 class="answer-box__q">{d.answer.question}</h2>
       <p class="answer-box__a">{d.answer.answer}</p>
-      {introShot && <ReadingEstimate preset={svc ? svc.preset : ''} cta={slug} />}
+      {introShot && <ReadingEstimate preset={svc ? svc.preset : ''} cta={slug} market={d.market} />}
       </div>
       {introShot
         ? <Figure shot={introShot} sizes="(min-width: 1180px) 550px, (min-width: 900px) 45vw, 92vw" />
-        : <ReadingEstimate preset={svc ? svc.preset : ''} cta={slug} />}
+        : <ReadingEstimate preset={svc ? svc.preset : ''} cta={slug} market={d.market} />}
     </div>
   </section>
 
@@ -173,5 +175,5 @@ const offerBand = gFaq === 'sec';
     </div>
   </section>
 
-  <OfferPanel band={offerBand} cta={slug} heading={town ? `Your free estimate in ${town.data.name}.` : undefined} preset={svc ? svc.preset : ''} pics={pics} />
+  <OfferPanel band={offerBand} cta={slug} heading={town ? `Your free estimate in ${town.data.name}.` : undefined} preset={svc ? svc.preset : ''} pics={pics} market={d.market} />
 </Base>

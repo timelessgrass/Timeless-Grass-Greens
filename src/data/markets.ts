@@ -47,9 +47,15 @@ export type Market = {
   map: { query: string; zoom: number };
   /** Does a verified GBP back this market? Drives whether a LocalBusiness node emits. */
   gbp: { verified: boolean; id: string | null };
+  /** Overrides the shared brief.ts number for this market's pages only. Most markets have none
+   *  and fall back to brief.ts through src/data/contact.ts. */
+  phone?: string;
 };
 
 const P = '303-349-2368';
+/** The number on the Grand Strand's own Google Business Profile — the owner chose it over the
+ *  shared line for every Grand Strand page (town and local-service pages included) on 2026-09-14. */
+const GRAND_STRAND_PHONE = '720-630-0108';
 
 export const MARKETS: Market[] = [
   {
@@ -60,7 +66,7 @@ export const MARKETS: Market[] = [
     places: ['Shallotte', 'Myrtle Beach', 'North Myrtle Beach', 'Carolina Forest', 'Longs', 'Loris', 'Conway', 'Burgess'],
     placeStates: { Shallotte: 'NC' },
     title: 'Artificial Turf in Myrtle Beach | TIMELESS Grass & Greens',
-    description: `Artificial turf and putting greens across the Grand Strand, from Shallotte, NC to Burgess, SC, inland through Loris and Conway. Free estimates: ${P}.`,
+    description: `Artificial turf and putting greens across the Grand Strand, from Shallotte, NC to Burgess, SC, inland through Loris and Conway. Free estimates: ${GRAND_STRAND_PHONE}.`,
     eyebrow: 'The Grand Strand',
     h1: "A lawn, dog run or putting green for your Grand Strand yard.",
     lede: "Artificial lawns, pet areas and putting greens from Shallotte, North Carolina, to Burgess, South Carolina, along the coast and inland through Loris and Conway. Start with a free visit, custom layout and written price.",
@@ -145,6 +151,8 @@ export const MARKETS: Market[] = [
     answer: {"question": "Who installs artificial turf and putting greens on the Grand Strand?", "answer": "Timeless installs artificial turf, pet turf, putting greens and sports field turf across the Grand Strand, from Shallotte, NC to Burgess, SC and inland through Loris and Conway. A free visit includes a custom layout, turf options and a written price."},
     map: { query: 'Myrtle Beach, South Carolina', zoom: 9 },
     gbp: { verified: true, id: '13971044913229673568' },
+    // The number on this market's Google Business Profile, chosen by the owner 2026-09-14.
+    phone: GRAND_STRAND_PHONE,
   },
   {
     slug: 'denver-metro',

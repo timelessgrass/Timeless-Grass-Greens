@@ -53,7 +53,7 @@ if (fs.existsSync(EVIDENCE_DIR)) for (const f of fs.readdirSync(EVIDENCE_DIR).fi
 const ALL_URLS = new Set(urlsIn(SITE_TEXT + JSON.stringify(Object.values(CITIES)) + JSON.stringify(LOCAL_EVIDENCE)));
 function norm(u) { return u.replace(/&amp;/g, '&').replace(/[.,;]+$/, '').replace(/\/$/, ''); }
 
-const ALWAYS = ['13', '2024', '303', '349', '2368', '3033492368'];
+const ALWAYS = ['13', '2024', '303', '349', '2368', '3033492368', '720', '630', '0108', '7206300108']; // 720-630-0108: the Grand Strand line (owner, 2026-09-14)
 const BANNED = [
   /\bbrian\b/i, /\bashley\b(?! park)/i, /\bour owners?\b/i, /\bthe owner\b(?! of)/i, /owner[- ]operated/i, /owned and operated/i, /family[- ]owned/i, /\bhusband\b/i, /\bwife\b/i,
   /\blicensed\b/i, /\binsured\b/i, /warrant(y|ies)/i, /guarantee/i, /\b(?:customer|client|google|yelp|online|star|our|glowing|verified) reviews?\b/i, /\breviews? (?:from|by) (?:our|happy)\b/i, /star rating/i, /\bbest\b/i, /#1\b/,

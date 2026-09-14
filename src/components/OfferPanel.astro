@@ -6,8 +6,8 @@
    `pics` are three of the client's own photographs, fanned beside the copy as proof. */
 import Icon from './Icon.astro';
 import Thumb from './Thumb.astro';
-import { phone, phoneHref } from '../data/brief';
-interface Props { heading?: string; sub?: string; preset?: string; cta?: string; band?: boolean; pics?: string[] }
+import { contactFor } from '../data/contact';
+interface Props { heading?: string; sub?: string; preset?: string; cta?: string; band?: boolean; pics?: string[]; market?: string }
 const {
   heading = 'See the plan before you decide.',
   sub = 'Tell us about your project and we’ll call to arrange a free visit.',
@@ -15,7 +15,9 @@ const {
   cta = 'offer',
   band = false,
   pics = ['fin-5', 'fin-7', 'fin-9'],
+  market,
 } = Astro.props;
+const { phone, phoneHref } = contactFor(market);
 ---
 <section class={`sec${band ? ' sec--band' : ''}`} id="quote">
   <div class="wrap offer">

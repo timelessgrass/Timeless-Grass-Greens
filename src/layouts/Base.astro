@@ -5,7 +5,8 @@ import '../styles/components.css';
 import '../styles/home.css';
 import '../styles/wizard.css';
 import '../styles/service.css';
-import { businessName, phone, phoneHref, email, foundedYear, socialProfiles } from '../data/brief';
+import { businessName, phone as briefPhone, email, foundedYear, socialProfiles } from '../data/brief';
+import { contactFor } from '../data/contact';
 import { MARKETS } from '../data/markets';
 import { SERVICES } from '../data/services';
 import { Image } from 'astro:assets';
@@ -29,8 +30,12 @@ interface Props {
   faq?: { q: string; a: string }[];
   /** Extra schema.org nodes for this page (Service, Article…), added to the one @graph. */
   schema?: Record<string, unknown>[];
+  /** The market this page belongs to (its slug), if any — resolves which phone number the
+   *  page shows and dials via src/data/contact.ts. Omit on shared pages. */
+  market?: string;
 }
-const { title, description, answer, crumbs, robots, noEstimate = false, faq, schema } = Astro.props;
+const { title, description, answer, crumbs, robots, noEstimate = false, faq, schema, market } = Astro.props;
+const { phone, phoneHref } = contactFor(market);
 const indexable = !(robots && /noindex/i.test(robots));
 const canonical = new URL(Astro.url.pathname, Astro.site).href;
 
@@ -42,7 +47,7 @@ const graph: any[] = [
     url: Astro.site?.href,
     logo: new URL(logo.src, Astro.site).href,
     ...(foundedYear ? { foundingDate: String(foundedYear) } : {}),
-    ...(phone ? { telephone: phone } : {}),
+    ...(briefPhone ? { telephone: briefPhone } : {}),
     ...(email ? { email } : {}),
     ...(socialProfiles.length ? { sameAs: socialProfiles.map((s) => s.url) } : {}),
     knowsAbout: SERVICES.map((s) => s.name),
@@ -230,7 +235,7 @@ if (schema?.length) graph.push(...schema);
     <dialog class="estimate" aria-label="Free estimate">
       <div class="estimate__card">
         <button class="estimate__x" type="button" data-estimate-close aria-label="Close"><Icon name="x" /></button>
-        <EstimateWizard mode="modal" />
+        <EstimateWizard mode="modal" phone={phone} phoneHref={phoneHref} />
       </div>
     </dialog>
   )}

@@ -127,5 +127,31 @@ test('the real publication passes all build checks and guide references reach HT
       assert.ok(mirror.includes(url), `${guide.slug}: reference missing from mirror`);
     }
   }
+
+  // Grand Strand pages show and dial the number on that market's own Google Business Profile
+  // (720-630-0108, chosen by the owner 2026-09-14); every other page keeps the shared brief.ts
+  // number (303-349-2368), including the Organization schema telephone on Grand Strand pages.
+  const telLinks = (html) => [...html.matchAll(/href="(tel:[^"]+)"/g)].map(([, href]) => href);
+  const grandStrandTown = read('dist/grand-strand/myrtle-beach-sc/index.html');
+  const grandStrandTels = telLinks(grandStrandTown);
+  assert.ok(grandStrandTels.length > 0, '/grand-strand/myrtle-beach-sc/ should have at least one tel: link');
+  assert.ok(grandStrandTels.every((href) => href === 'tel:7206300108'),
+    `/grand-strand/myrtle-beach-sc/ tel: links must all be tel:7206300108, got ${grandStrandTels.join(', ')}`);
+  assert.doesNotMatch(grandStrandTown, /<a\b[^>]*>[^<]*303-349-2368[^<]*<\/a>/,
+    '/grand-strand/myrtle-beach-sc/ must not show 303-349-2368 in a visible link');
+
+  for (const page of ['dist/denver-metro/index.html', 'dist/northeast-florida/index.html', 'dist/northeast-florida/ponte-vedra-beach-fl/index.html']) {
+    const html = read(page);
+    const tels = telLinks(html);
+    assert.ok(tels.length > 0, `${page} should have at least one tel: link`);
+    assert.ok(tels.every((href) => href === 'tel:3033492368'), `${page} tel: links must stay tel:3033492368, got ${tels.join(', ')}`);
+  }
+
+  const grandStrandHub = read('dist/grand-strand/index.html');
+  const graph = [...grandStrandHub.matchAll(/<script\b[^>]*type="application\/ld\+json"[^>]*>([\s\S]*?)<\/script>/g)]
+    .map(([, json]) => JSON.parse(json)).find((d) => Array.isArray(d['@graph']))['@graph'];
+  const org = graph.find((node) => node['@type'] === 'Organization');
+  assert.equal(org.telephone, '303-349-2368', '/grand-strand/ Organization JSON-LD telephone must stay the brief.ts number');
+
   console.log(build.stdout.split('\n').filter((line) => /files ·|pages? built|SCALE|CONSISTENT/.test(line)).join('\n'));
 });

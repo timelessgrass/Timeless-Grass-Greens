@@ -13,10 +13,12 @@
  * Size and timing are new: they tell the owner how big and how ready a lead is before he calls.
  */
 import Icon from './Icon.astro';
-import { phone, phoneHref } from '../data/brief';
+import { phone as briefPhone, phoneHref as briefPhoneHref } from '../data/brief';
 
-interface Props { mode?: 'modal' | 'inline' }
-const { mode = 'modal' } = Astro.props;
+/** phone/phoneHref default to the shared brief.ts number; Base.astro passes the market-resolved
+ *  pair (src/data/contact.ts) for the modal it renders on every page. */
+interface Props { mode?: 'modal' | 'inline'; phone?: string | null; phoneHref?: string | null }
+const { mode = 'modal', phone = briefPhone, phoneHref = briefPhoneHref } = Astro.props;
 
 const USES = [
   { v: 'Lawn', label: 'Lawn', icon: 'leaf' },

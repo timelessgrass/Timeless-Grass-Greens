@@ -11,7 +11,8 @@ import { MARKETS } from '../../data/markets';
 import { SERVICES } from '../../data/services';
 import { SHOTS } from '../../data/shotlist';
 import { getPublishedCollection } from '../../lib/published-content';
-import { phone, phoneHref, positioning, fact } from '../../data/brief';
+import { positioning, fact } from '../../data/brief';
+import { contactFor } from '../../data/contact';
 
 /* Customer flow: offer, options, real work, installation scope, practical questions and estimate.
    Copy and internal evidence are maintained separately; only useful selected references render. */
@@ -19,6 +20,7 @@ export function getStaticPaths() {
   return MARKETS.map((m) => ({ params: { market: m.slug }, props: { m } }));
 }
 const { m } = Astro.props;
+const { phone, phoneHref } = contactFor(m.slug);
 const materials = fact<string>(positioning?.materials);
 const shot = (id: string) => SHOTS.find((x) => x.id === id && x.file);
 const heroFile = shot(m.heroShot)?.file ?? null;
@@ -41,7 +43,7 @@ const crumbs = [
   { name: m.name, item: `${Astro.site}${m.slug}/` },
 ];
 ---
-<Base title={m.title} description={m.description} answer={m.answer} crumbs={crumbs} faq={m.faq} schema={[{
+<Base title={m.title} description={m.description} answer={m.answer} crumbs={crumbs} faq={m.faq} market={m.slug} schema={[{
   '@type': 'Service', '@id': `${Astro.site}${m.slug}/#service`, name: `Artificial turf installation, ${m.name}`, serviceType: 'Artificial turf installation',
   url: `${Astro.site}${m.slug}/`, provider: { '@id': `${Astro.site}#organization` },
   areaServed: named.map((p) => ({ '@type': 'Place', name: `${p.name}, ${p.state}` })),
@@ -200,6 +202,6 @@ const crumbs = [
 
 
   <!-- 9 · THE OFFER -->
-  <OfferPanel band cta={m.slug} heading={m.close} pics={m.work.slice(0, 3)} />
+  <OfferPanel band cta={m.slug} heading={m.close} pics={m.work.slice(0, 3)} market={m.slug} />
 
 </Base>
