@@ -49,6 +49,49 @@
       "supports": [
         "The fence FAQ tells residents to check HOA/POA permission and then contact the Town about permitting."
       ]
+    },
+    {
+      "label": "Town of Carolina Shores: Beacon Townes",
+      "url": "https://www.carolinashoresnc.com/beacontownes",
+      "checked": "2026-09-13",
+      "supports": [
+        "Beacon Townes is a townhouse community located on Highway 17.",
+        "The Town lists building inspections, planning and zoning, roadway maintenance and solid-waste service for Beacon Townes, with Brunswick County providing water, sewer and law enforcement; no HOA, architectural-review or landscape rule is published on the page."
+      ]
+    },
+    {
+      "label": "Town of Carolina Shores: Eagle Run",
+      "url": "https://www.carolinashoresnc.com/index.asp?SEC=4D7DF566-387D-4F5F-88E8-4C722AFB1CDD",
+      "checked": "2026-09-13",
+      "supports": [
+        "The Town lists the same building inspections, planning and zoning, roadway maintenance and solid-waste service for Eagle Run, with Brunswick County providing water, sewer and law enforcement; no HOA, architectural-review or landscape rule is published on the page."
+      ]
+    },
+    {
+      "label": "Town of Carolina Shores: Lighthouse Cove",
+      "url": "https://www.carolinashoresnc.com/lighthousecove",
+      "checked": "2026-09-13",
+      "supports": [
+        "Lighthouse Cove is a residential community located off Thomasboro Road on Carolina Shores' eastern side.",
+        "The Town handles building inspections, planning and zoning, roadway maintenance and solid-waste service; Brunswick County provides water, sewer and law enforcement; the page publishes no HOA, architectural-review or landscape rule."
+      ]
+    },
+    {
+      "label": "Town of Carolina Shores: River Rock at Shingletree",
+      "url": "https://www.carolinashoresnc.com/index.asp?SEC=9C82D2C6-8185-45E7-B6A6-F27F2B6C021E",
+      "checked": "2026-09-13",
+      "supports": [
+        "The Town lists building inspections, planning and zoning, street lighting, a solid-waste convenience site and animal control for River Rock at Shingletree — not roadway maintenance, which the Town does list for the other four; the page publishes no HOA, architectural-review or landscape rule."
+      ]
+    },
+    {
+      "label": "Town of Carolina Shores: The Farm at Brunswick",
+      "url": "https://www.carolinashoresnc.com/thefarmatbrunswick",
+      "checked": "2026-09-13",
+      "supports": [
+        "The Farm at Brunswick is a residential community consisting of single family homes and townhouses.",
+        "The Town lists building inspections, planning and zoning, roadway maintenance and solid-waste service, with Brunswick County providing water, sewer and law enforcement; the page publishes no HOA, architectural-review or landscape rule."
+      ]
     }
   ],
   "claimEvidence": [
@@ -101,12 +144,33 @@
       "limits": "Confirms which two Town communities front Thomasboro Road, not a specific parcel's boundary, mailing address, or which authority (Town vs. county) reviews a given lot. No claim is made about any address outside these two communities.",
       "mappedClaim": "Thomasboro Road runs through two of the Town's eight communities, Calabash Lakes and The Village at Calabash.",
       "mappingUpdated": "2026-09-13"
+    },
+    {
+      "id": "CS-6",
+      "candidate_paths": [
+        "blocks[2].paras[2]"
+      ],
+      "claim": "Beacon Townes, Eagle Run, Lighthouse Cove and The Farm at Brunswick are subdivisions inside the Town of Carolina Shores whose Town pages list the same services (building inspections, planning and zoning, roadway maintenance, solid-waste collection, with Brunswick County water/sewer/law enforcement); River Rock at Shingletree's Town page lists building inspections, planning and zoning, street lighting, a solid-waste convenience site and animal control instead. No separate HOA, architectural-review or landscape rule is published on the Town's page for any of the five.",
+      "source_urls": [
+        "https://www.carolinashoresnc.com/beacontownes",
+        "https://www.carolinashoresnc.com/index.asp?SEC=4D7DF566-387D-4F5F-88E8-4C722AFB1CDD",
+        "https://www.carolinashoresnc.com/lighthousecove",
+        "https://www.carolinashoresnc.com/index.asp?SEC=9C82D2C6-8185-45E7-B6A6-F27F2B6C021E",
+        "https://www.carolinashoresnc.com/thefarmatbrunswick"
+      ],
+      "evidence_type": "fresh primary-source verification",
+      "checked": "2026-09-13",
+      "source_locator": "Each community's own Town of Carolina Shores page, town/county services list.",
+      "limits": "Absence of published rules on the Town's site does not confirm that no HOA exists for any of these five communities, only that the Town's page does not carry one. The reader is told to ask their own association.",
+      "mappedClaim": "Five more of the eight communities — Beacon Townes, Eagle Run, Lighthouse Cove, River Rock at Shingletree and The Farm at Brunswick — are also subdivisions inside the Town; four list the same roadway-maintenance-inclusive town services while River Rock at Shingletree's page lists street lighting, a solid-waste convenience site and animal control instead, with no separate architectural-review or landscape rule published for any of the five.",
+      "mappingUpdated": "2026-09-13"
     }
   ],
   "reviewNotes": [
     "Obtain current property/community documents and authorization for the particular area.",
     "Confirm Town treatment of the actual turf, drainage and related construction scope.",
-    "Phase 4 mappings follow retained customer-facing statements. Original observations and checked dates are preserved; this edit is not a new source verification."
+    "Phase 4 mappings follow retained customer-facing statements. Original observations and checked dates are preserved; this edit is not a new source verification.",
+    "2026-09-13: re-opened the five remaining Town community pages (Beacon Townes, Eagle Run, Lighthouse Cove, River Rock at Shingletree, The Farm at Brunswick) to confirm none publishes a separate HOA/landscape rule before grouping them into one passage."
   ],
   "mappingHistory": [
     {

@@ -1,0 +1,109 @@
+{
+  "status": "published",
+  "market": "grand-strand",
+  "name": "River Hills",
+  "state": "SC",
+  "placeType": "Place",
+  "county": "Horry",
+  "title": "Artificial Turf in River Hills, SC | TIMELESS Grass & Greens",
+  "description": "Replace a River Hills lawn or add a green under the POA's irrigation, sod and ARB rules. A free visit measures the yard and drafts a layout you approve.",
+  "h1": "Fit a lawn or green to River Hills' irrigation and sod rules.",
+  "lede": "Plan around what the property owners association's Architectural Review Board actually requires, not what a neighbor's yard looks like. A free visit turns those rules and your lot into a layout you approve before anything starts.",
+  "wins": [
+    "A layout planned around the ARB's irrigation and sod rules",
+    "A written scope ready before you submit to the ARB",
+    "A base built for your River Hills lot"
+  ],
+  "answer": {
+    "question": "What does River Hills require before I replace a lawn or add a green?",
+    "answer": "River Hills' ARB Standards Manual (Revision 9, November 9, 2021) requires 100% in-ground sprinkler coverage across all landscaped and grassed open space, including the unpaved right of way beside your lot, with plans the ARB approves before installation. That right of way must be sodded, and the ARB can require a refundable deposit for landscaping work. Submit your plan and confirm the current revision with the ARB before you start."
+  },
+  "blocks": [
+    {
+      "icon": "drop",
+      "kicker": "Irrigation",
+      "h2": "Every landscaped and grassed area needs 100% sprinkler coverage.",
+      "paras": [
+        "The manual's irrigation section is direct: \"All landscaped and grassed open space on residential property shall be irrigated with 100% coverage with an in-ground sprinkler system. This includes the unpaved road right of way immediately adjacent to\" your lot. The ARB has to approve the irrigation or sprinkler plan before it goes in the ground, and heads have to sit inside your property line, at least six feet back from the curb — none are allowed in the sodded right of way or a common area.",
+        "That rule is written for grass, and the manual doesn't say whether a section of yard converted to synthetic turf still needs an active sprinkler zone running to it. Take that question to the ARB in writing before you finalize a lawn layout, alongside your irrigation plan for whatever ground stays sodded.",
+        "We measure the yard, check what's already piped, and draw the turf areas and any remaining sodded ground into one layout you approve. Site prep, a base built for your soil, and the turf itself follow from that plan — see <a href=\"/grand-strand/residential-turf/\">residential turf</a>."
+      ]
+    },
+    {
+      "icon": "shovel",
+      "kicker": "The right of way",
+      "h2": "The strip by the curb belongs to the association, and it has to stay sod.",
+      "paras": [
+        "\"There exists a street right of way in front of each lot. This area represents Association property,\" and, as the manual puts it, \"his/her individual property line does not extend to the paved surface.\" The planting rules for that strip are specific: \"No plantings should exist in the road right of way except as necessary to screen mechanical items such as utility boxes... All areas within the right of way must be sodded. However, driveway edge plantings are allowed.\"",
+        "That right-of-way sod sits separate from the curb-to-house sodded band and the 30% pervious-space rule already covered on our <a href=\"/grand-strand/putting-greens/\">Grand Strand putting greens page</a>. Bring both to the ARB conversation: what's required sod versus what open space or a green can occupy."
+      ]
+    },
+    {
+      "icon": "file",
+      "kicker": "ARB approval",
+      "h2": "Nothing starts in the ground before the ARB signs off.",
+      "paras": [
+        "\"Each owner wishing to either build or alter any improvements or landscaping within River Hills must submit a request for approval to the ARB providing details of the proposed construction/alteration.\" The ARB can approve the plan, approve it with changes, or send it back with a list of modifications, and \"work may not begin until appropriate approvals are received\" — from the ARB and, where it applies, from Horry County.",
+        "The manual also lets the ARB require a deposit for the work itself: \"Renovations/Alterations/Landscaping: property Owner/Contractor Performance Deposit, refundable. Imposed at the discretion of the ARB, used to insure that the property owner/contractor, during construction keeps the property in a neat, clean, workmanlike manner.\" It's refunded within 30 days of the ARB's approval and release, separate from the $1,000 owner and contractor deposits set for new home construction.",
+        "This manual binds lots inside the River Hills POA and is dated Revision 9, November 9, 2021 — confirm with the ARB that it's still the current version before you submit a plan, since a POA can amend its standards."
+      ]
+    },
+    {
+      "icon": "home",
+      "kicker": "The rest of the lot",
+      "h2": "No septic to work around, but every other system still needs a spot on the plan.",
+      "paras": [
+        "\"Each lot must be connected to a public water/sewer system. No septic tanks are permitted within River Hills,\" so a lawn or green layout here isn't routed around a drain field the way some Horry County properties are. Point out irrigation lines, the meter, and any drainage before we finalize where turf goes.",
+        "If an old green or a failing lawn area needs to come out first, that's a separate scope — see <a href=\"/grand-strand/turf-removal-and-replacement/\">turf removal and replacement</a> on the Grand Strand."
+      ]
+    }
+  ],
+  "services": [
+    "residential-turf",
+    "putting-greens",
+    "turf-removal-and-replacement"
+  ],
+  "servicesNote": "Compare a lawn replacement, a backyard green, or removing an old install, each planned around River Hills' irrigation, sod and ARB rules.",
+  "faq": [
+    {
+      "q": "Do I need ARB approval to replace my River Hills lawn with turf?",
+      "a": "Yes. The ARB manual requires a request for approval before you alter any landscaping, and work can't begin until the ARB — and Horry County, where its rules apply — has signed off. Submit a plan describing the area and materials before anything is dug."
+    },
+    {
+      "q": "Does the sprinkler rule still apply if part of my yard is turf?",
+      "a": "The manual requires 100% in-ground sprinkler coverage on landscaped and grassed open space, including the unpaved right of way, but it doesn't address synthetic turf directly. Ask the ARB in writing whether a turf section still needs an active irrigation zone before you finalize the layout."
+    },
+    {
+      "q": "Can I put turf on the strip of land by the curb?",
+      "a": "No. That right of way is Association property, and the manual requires it stay sodded, with plantings limited to screening mechanical items. Keep any turf plan inside your own property line."
+    },
+    {
+      "q": "Is there a deposit for landscaping work in River Hills?",
+      "a": "The ARB can require one at its discretion for renovations, alterations and landscaping, refundable within 30 days of the ARB's approval and release. Ask the ARB whether your project needs one when you submit your plan."
+    },
+    {
+      "q": "How do I know I'm reading the current ARB rules?",
+      "a": "This page cites Revision 9, dated November 9, 2021. POAs amend their standards, so confirm with the ARB that it's still the current manual before you submit a plan."
+    }
+  ],
+  "nearby": [
+    "little-river-sc",
+    "longs-sc",
+    "north-myrtle-beach-sc"
+  ],
+  "sources": [
+    {
+      "label": "River Hills Property Owners Association: Architectural Review Board standards manual (Revision 9, November 9, 2021)",
+      "url": "https://riverhillspoa.org/wp-content/uploads/2025/04/Filed-POA-Rules-ARB-Manual-Rev-9-NOV2021-1.pdf"
+    },
+    {
+      "label": "River Hills Property Owners Association: home page",
+      "url": "https://riverhillspoa.org/"
+    }
+  ],
+  "checked": "2026-09-13",
+  "publicReferences": [
+    "https://riverhillspoa.org/wp-content/uploads/2025/04/Filed-POA-Rules-ARB-Manual-Rev-9-NOV2021-1.pdf",
+    "https://riverhillspoa.org/"
+  ]
+}

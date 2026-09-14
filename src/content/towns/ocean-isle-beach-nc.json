@@ -56,6 +56,16 @@
         "At the free visit, we measure the area you want to change, check where water sits after rain, and note how close the yard runs to a canal, marsh edge or the Intracoastal Waterway. The custom layout you approve before work starts states the turf area in square feet, so you can take that number, and the buffer question, straight to the Town.",
         "In a plantation-style community on the mainland side, check its own architectural rules too before the layout is final; our <a href=\"/grand-strand/putting-greens/\">Grand Strand putting greens page</a> covers how several nearby communities handle backyard greens. With the Town's review in hand, we prepare the site, build a base for your soil, lay, seam and edge the turf, add infill, clean up and walk you through the care it needs."
       ]
+    },
+    {
+      "icon": "pin",
+      "kicker": "Nearby communities",
+      "h2": "A gated plantation, two canal types and three builder neighborhoods sit around Ocean Isle Beach.",
+      "paras": [
+        "Brick Landing Plantation, the gated golf community just off the mainland side of Ocean Isle Beach, sits in unincorporated Brunswick County rather than inside the Town, so its own Master Community Association, not the Town office described above, is the layer to satisfy first. Under the Association's <a href=\"https://www.bricklanding.org/file/document/1989557178/IQXNmtNLitm4GjMa.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Policies & Procedures</a>, approved June 8, 2022, a storage shed or other structure needs the Architectural Review Committee's review and approval before it goes up, and every property owner is responsible for keeping buildings and grounds clear of what the document calls 'unclean, unsightly or unkempt conditions.' Ask the Master Association for its current Architectural Guidelines before a turf layout is final, since they set out the application process the Policies & Procedures reference.",
+        "Some Ocean Isle Beach canal lots sit on a poured concrete bulkhead; others, mostly along the town's older natural canals, sit on a vertical wood bulkhead instead. Either way, the lot is inside Town limits, so the same Building Inspections office covered above still reviews the zoning, flood, CAMA and stormwater side of the job. The bulkhead itself is a separate question: if repair or replacement work is part of the project, ask that office which rule applies to your specific wall.",
+        "Cameron Woods, Osprey Isle and Wood Stork Landing are single-family neighborhoods built inside Ocean Isle Beach's town limits, each with its own homeowners association. None of the three has posted architectural or landscaping guidelines online, so the Town review above still applies to the yard itself, but there is no public association rule to point to here. Get your community's current covenants or design guidelines from your HOA before the layout is final, the same as in any covenant-restricted neighborhood."
+      ]
     }
   ],
   "services": [
@@ -76,6 +86,14 @@
     {
       "q": "Can artificial turf go inside the 30-foot buffer?",
       "a": "The state rule's list of activities allowed inside the buffer includes grading, excavation and landscaping with no wetland fill, but does not name artificial turf. Ask the Town's CAMA local permit officer whether your specific layout needs to stay outside the buffer or whether a variance route applies."
+    },
+    {
+      "q": "Does Brick Landing Plantation follow Ocean Isle Beach's rules?",
+      "a": "No. Brick Landing sits outside the Town's limits in unincorporated Brunswick County, with its own Master Community Association. Its Policies & Procedures, approved June 8, 2022, require the Architectural Review Committee's approval before a structure goes up on a lot. Ask the Association for its current Architectural Guidelines before planning a layout."
+    },
+    {
+      "q": "What if my community's HOA has no published landscaping rules?",
+      "a": "Cameron Woods, Osprey Isle and Wood Stork Landing don't have architectural or landscaping documents posted online. The Town's own zoning, flood, stormwater and CAMA review still applies to the yard; ask your homeowners association directly for its current covenants before the layout is final."
     }
   ],
   "nearby": [
@@ -96,11 +114,23 @@
     {
       "label": "NC DEQ: State coastal commission to meet in New Bern, August 2025",
       "url": "https://www.deq.nc.gov/news/press-releases/2025/08/14/state-coastal-commission-meet-new-bern-aug-27-28"
+    },
+    {
+      "label": "Brick Landing Plantation Master Community Association: Policies & Procedures",
+      "url": "https://www.bricklanding.org/file/document/1989557178/IQXNmtNLitm4GjMa.pdf"
     }
   ],
   "publicReferences": [
     "https://www.brunswickcountync.gov/192/Municipal-Jurisdictions",
     "http://reports.oah.state.nc.us/ncac/title%2015a%20-%20environmental%20quality/chapter%2007%20-%20coastal%20management/subchapter%20h/15a%20ncac%2007h%20.0209.pdf"
   ],
-  "checked": "2026-09-12"
+  "foldedFrom": [
+    "brick-landing-nc",
+    "ocean-isle-beach-concrete-canal-area-nc",
+    "ocean-isle-beach-natural-canal-area-nc",
+    "cameron-woods-nc",
+    "osprey-isle-nc",
+    "wood-stork-landing-nc"
+  ],
+  "checked": "2026-09-13"
 }

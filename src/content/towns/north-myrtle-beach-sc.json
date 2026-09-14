@@ -24,7 +24,8 @@
       "h2": "Make room for the putts you want to practice.",
       "paras": [
         "Choose useful putt lengths and where you want to stand before adding cups or a fringe. Around a patio, leave enough walking room to keep the rest of the yard usable. We’ll discuss the layout and turf options before the installation is priced.",
-        "For a golf-community property, bring the current association requirements. A nearby completed green does not establish what is permitted on your lot."
+        "For a golf-community property, bring the current association requirements. A nearby completed green does not establish what is permitted on your lot.",
+        "Barefoot Resort sits inside North Myrtle Beach and covers dozens of neighborhoods, all under one master association. Single-family sections include Bridle Ridge, Brookstone, Cedar Creek, Coquina Pointe, Dye Estates, LeatherLeaf, Longbridge, Oak Pointe, Park Hill, Somerset and Sweetbriar. Multi-family sections include Arbor Trace, Blackwater Townhomes, Clearwater Bay, Cypress Bend, Dye Townhomes, Edgewater, Greenbriar, Harbour Cove, Havens, Heron Bay & Egret Run, Ironwood, River Crossing, Tanglewood, Townes at Barefoot, Wedgewood, Willow Bend and Woodlands. The Barefoot Resort Residential Association's <a href=\"https://www.barefoothoa.com/wp-content/uploads/2025/06/ARC_Guidelines_2025-06-01.pdf\" target=\"_blank\" rel=\"nofollow noopener\">master architectural guidelines</a>, revised June 1, 2025, ban artificial turf and vegetation resort-wide, on top of the city's pervious-surface rule above. Dye Estates and LeatherLeaf each have their own review committee; see <a href=\"/grand-strand/putting-greens/\">putting greens on the Grand Strand</a> for Dye Estates' own exception. Everywhere else in Barefoot, check with your neighborhood's <a href=\"https://www.barefoothoa.com/hoa-management-companies/\" target=\"_blank\" rel=\"nofollow noopener\">management company</a> before planning a green."
       ]
     },
     {
@@ -153,6 +154,14 @@
     {
       "label": "Zoneomics copy of the City of North Myrtle Beach zoning code, chapter 3 (Activity Center and Coastal Protection overlay zones)",
       "url": "https://www.zoneomics.com/code/north-myrtle-beach-SC/chapter_3"
+    },
+    {
+      "label": "Barefoot Resort Residential Owners' Association: master architectural review application and design guidelines (revised June 1, 2025)",
+      "url": "https://www.barefoothoa.com/wp-content/uploads/2025/06/ARC_Guidelines_2025-06-01.pdf"
+    },
+    {
+      "label": "Barefoot Resort & Golf: HOA management companies by neighborhood",
+      "url": "https://www.barefoothoa.com/hoa-management-companies/"
     }
   ],
   "checked": "2026-09-13",
@@ -160,7 +169,36 @@
     "atlantic-beach-sc",
     "cherry-grove-beach-sc",
     "ocean-drive-beach-sc",
-    "windy-hill-beach-sc"
+    "windy-hill-beach-sc",
+    "sweetbriar-sc",
+    "tanglewood-sc",
+    "townes-at-barefoot-sc",
+    "wedgewood-sc",
+    "willow-bend-sc",
+    "woodlands-sc",
+    "arbor-trace-sc",
+    "blackwater-townhomes-sc",
+    "bridle-ridge-sc",
+    "brookstone-sc",
+    "cedar-creek-sc",
+    "clearwater-bay-sc",
+    "coquina-pointe-sc",
+    "cypress-bend-sc",
+    "dye-estates-sc",
+    "dye-townhomes-sc",
+    "edgewater-sc",
+    "greenbriar-sc",
+    "harbour-cove-sc",
+    "havens-sc",
+    "heron-bay-egret-run-sc",
+    "ironwood-sc",
+    "leatherleaf-sc",
+    "longbridge-sc",
+    "oak-pointe-sc",
+    "park-hill-sc",
+    "river-crossing-sc",
+    "somerset-sc",
+    "barefoot-resort-sc"
   ],
   "publicReferences": [
     "https://library.municode.com/sc/north_myrtle_beach/codes/code_of_ordinances?nodeId=COOR_CH23ZO_ARTVIIGESURE_S23-129.4STPESUIMSUSIMIDURENOSUSIECDEPLRE"

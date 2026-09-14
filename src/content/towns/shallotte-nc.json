@@ -51,7 +51,7 @@
       "h2": "Check the parcel, even when the mailing address says Shallotte.",
       "paras": [
         "<a href=\"https://www.townofshallotte.org/planning_zoning\" target=\"_blank\" rel=\"nofollow noopener\">Shallotte Planning & Zoning</a> describes its jurisdiction as town limits and the extra-territorial area outside them, and directs building-inspection questions to Brunswick County. Give staff the address and parcel information for the work.",
-        "The <a href=\"https://www.townofshallotte.org/index.asp?SEC=C206CE57-2C55-45E6-88CB-08032F3785DD\" target=\"_blank\" rel=\"nofollow noopener\">Town’s zoning and jurisdiction maps</a> may lag recent zoning or annexation changes. Ask staff to confirm which requirements apply, particularly if the proposal changes grading or drainage or lies near a water feature. Bring any applicable association documents to the estimate as well."
+        "The <a href=\"https://www.townofshallotte.org/index.asp?SEC=C206CE57-2C55-45E6-88CB-08032F3785DD\" target=\"_blank\" rel=\"nofollow noopener\">Town’s zoning and jurisdiction maps</a> may lag recent zoning or annexation changes. Ask staff to confirm which requirements apply, particularly if the proposal changes grading or drainage or lies near a water feature. Bring any applicable association documents to the estimate as well. Brierwood, the former golf-course community south-central of Shallotte built around a course that <a href=\"https://brierwood.info/\" target=\"_blank\" rel=\"nofollow noopener\">closed in 2017</a>, is one place where that association check comes up empty: the community’s own site describes its \"non-HOA status,\" so there is no association design review standing between you and a turf project there. Government services still apply as anywhere in town — <a href=\"https://brierwood.info/government-services/\" target=\"_blank\" rel=\"nofollow noopener\">Brierwood’s own page</a> lists Town of Shallotte Planning & Zoning and Code Enforcement among the departments serving the community, with sewer billed by the town and water by Brunswick County. Use the Town Planning & Zoning guidance above for a Brierwood parcel."
       ]
     },
     {
@@ -78,6 +78,10 @@
     {
       "q": "Does this page's Shallotte process apply if my parcel is in Civietown?",
       "a": "Maybe not. Civietown sits about 3.8 miles east of Shallotte and has no town government of its own, so confirm with Shallotte Planning & Zoning and Brunswick County Planning & Community Enforcement which office has jurisdiction over your parcel. Where the county reviews the work, its stormwater ordinance sets its own four-inch grading trigger and 30-foot stream buffer, separate from anything described above for town limits."
+    },
+    {
+      "q": "Does Brierwood have its own turf or landscape design rules?",
+      "a": "No. Brierwood has non-HOA status, so there is no association design review to clear for a turf project there. The community is served by Town of Shallotte Planning & Zoning and Code Enforcement, with sewer billed by the town and water by Brunswick County, so follow the parcel-jurisdiction check on this page."
     }
   ],
   "nearby": [
@@ -102,12 +106,21 @@
     {
       "label": "Brunswick County Stormwater Quality Management and Discharge Control Ordinance (PDF)",
       "url": "https://www.brunswickcountync.gov/DocumentCenter/View/7215"
+    },
+    {
+      "label": "Brierwood community site",
+      "url": "https://brierwood.info/"
+    },
+    {
+      "label": "Brierwood: Government Services",
+      "url": "https://brierwood.info/government-services/"
     }
   ],
-  "checked": "2026-09-11",
+  "checked": "2026-09-13",
   "placeType": "City",
   "foldedFrom": [
-    "civietown-nc"
+    "civietown-nc",
+    "brierwood-nc"
   ],
   "publicReferences": [
     "https://www.townofshallotte.org/planning_zoning"

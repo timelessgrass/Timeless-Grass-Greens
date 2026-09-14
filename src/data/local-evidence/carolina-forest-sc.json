@@ -1,0 +1,27 @@
+{
+  "intent": "Someone searching for artificial turf in one of Carolina Forest's named neighborhoods lands on the Carolina Forest page and needs to know: is this unincorporated Horry County, does the county drainage guidance already on the page reach them, and does an association or design-review layer add its own rule on top.",
+  "distinctValue": "Groups the 34 named Carolina Forest neighborhoods the Carolina Forest Civic Association lists by council district into one passage confirming they all sit in unincorporated Horry County with no published neighborhood-specific turf rule, and states Waterbridge's own written ban on artificial turf separately, with its document date, rather than folding it into the generic county advice.",
+  "sources": [
+    {
+      "label": "Carolina Forest Civic Association: neighborhoods by council district",
+      "url": "https://www.cf-ca.org/carolina-forest-council-districts/",
+      "checked": "2026-09-13",
+      "supports": [
+        "District 2: Ashley Park, Springlake, Covington Lake, Walkers Woods, The Cloisters, Avalon, Waterbridge, Indigo Bay, Summerlyn, The Farm, The Parks, Berkshire Forest, Brightwater, Carolina Waterways Plantation, Waterway Palms Plantation, The Bluffs",
+        "District 3: Canterbury, Covington Lake East, Southgate, Brighton Lakes, Sawgrass East, Turnberry Park, Carolina Willows, Turning Pines, Plantation Lakes, Bella Vita, River Landing, River Oaks Golf Plantation, Inverness, Grand Villas at World Tour, Fairways at River Oaks, Berkshire Forest, Seaside Grove",
+        "District 8: Myrtle Beach National, Clear Pond, Waccamaw Pines"
+      ]
+    },
+    {
+      "label": "Waterbridge HOA: Architectural Design Guidelines and Builder Rules (January 1, 2024 Edition)",
+      "url": "https://waterbridgehoa.com/wp-content/uploads/2022/09/Waterbridge-Phase-1-Design-Guidelines-and-Builder-Rules-January1-2024-Edition.pdf",
+      "checked": "2026-09-13",
+      "supports": [
+        "January 1, 2024 Edition",
+        "ARCHITECTURAL DESIGN GUIDELINES AND BUILDER RULES",
+        "Artificial vegetation, including artificial turf, is not permitted.",
+        "The Waterbridge Architectural Review Committee (ARC) now utilizes an in-house review process designed to expedite reviews."
+      ]
+    }
+  ]
+}

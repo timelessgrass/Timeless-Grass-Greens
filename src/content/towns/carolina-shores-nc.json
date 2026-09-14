@@ -43,7 +43,8 @@
       "h2": "Carolina Shores is a town; Carolina Shores Subdivision is one community.",
       "paras": [
         "The <a href=\"https://www.carolinashoresnc.com/communities\" target=\"_blank\" rel=\"nofollow noopener\">Town’s community directory</a> identifies eight communities: Carolina Shores Subdivision, The Farm at Brunswick, Calabash Lakes, Beacon Townes, The Village at Calabash, Lighthouse Cove, Eagle Run and River Rock at Shingletree. Start with the correct community name when looking for governing documents or contacting a manager.",
-        "That directory establishes community identity. It does not establish a uniform artificial-turf policy, or prove that the same review process applies everywhere. Ask for the current documents covering your particular property and proposed change. A neighbor’s experience can suggest a useful question, but does not establish permission for your own project."
+        "That directory establishes community identity. It does not establish a uniform artificial-turf policy, or prove that the same review process applies everywhere. Ask for the current documents covering your particular property and proposed change. A neighbor’s experience can suggest a useful question, but does not establish permission for your own project.",
+        "Five more of the eight communities — Beacon Townes, Eagle Run, Lighthouse Cove, River Rock at Shingletree and The Farm at Brunswick — are also subdivisions inside the Town. Beacon Townes, Eagle Run, Lighthouse Cove and The Farm at Brunswick each list the same town services on their Town pages: building inspections, planning and zoning, roadway maintenance and solid-waste collection, with Brunswick County supplying water, sewer and law enforcement. River Rock at Shingletree's Town page lists building inspections, planning and zoning, street lighting, a solid-waste convenience site and animal control instead. If your community has its own homeowners association, ask it directly for the current governing documents and any turf-specific guidance before finalizing a layout."
       ]
     },
     {
@@ -129,6 +130,14 @@
   "placeType": "City",
   "publicReferences": [],
   "foldedFrom": [
-    "thomasboro-nc"
+    "thomasboro-nc",
+    "beacon-townes-nc",
+    "calabash-lakes-nc",
+    "eagle-run-nc",
+    "lighthouse-cove-nc",
+    "river-rock-at-shingletree-nc",
+    "the-farm-at-brunswick-nc",
+    "the-village-at-calabash-nc",
+    "the-acreage-nc"
   ]
 }

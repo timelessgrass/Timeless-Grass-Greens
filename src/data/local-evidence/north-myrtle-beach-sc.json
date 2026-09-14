@@ -21,6 +21,28 @@
         "Ocean Drive #1 Precinct—Ocean Drive Fire Station #1",
         "Windy Hill #1 Precinct—Windy Hill Fire Station #3"
       ]
+    },
+    {
+      "label": "Barefoot Resort Residential Owners' Association: master architectural review application and design guidelines (revised June 1, 2025)",
+      "url": "https://www.barefoothoa.com/wp-content/uploads/2025/06/ARC_Guidelines_2025-06-01.pdf",
+      "checked": "2026-09-13",
+      "supports": [
+        "Artificial Turf & Vegetation: Artificial Turf & Vegetation are prohibited.",
+        "Owner understands the authority to perform an alteration granted by this application will automatically expire if the work is not commenced within 180 days following approval",
+        "All city permits and approvals are required with the application.",
+        "Failure to submit an application for a modification will result in a fine of $25 per occurrence or modification."
+      ]
+    },
+    {
+      "label": "Barefoot Resort & Golf: HOA management companies by neighborhood",
+      "url": "https://www.barefoothoa.com/hoa-management-companies/",
+      "checked": "2026-09-13",
+      "supports": [
+        "North Myrtle Beach, SC",
+        "Barefoot communities are all managed by different management companies.",
+        "Single-Family Neighborhoods: Bridle Ridge, Brookstone, Cedar Creek, Coquina Pointe, Dye Estates, LeatherLeaf, Longbridge, Oak Pointe, Park Hill, Somerset, Sweetbriar",
+        "Multi-Family Neighborhoods: Arbor Trace, Blackwater Townhomes, Clearwater Bay, Cypress Bend, Dye Townhomes, Edgewater, Greenbriar, Harbour Cove, Havens, Heron Bay & Egret Run, Ironwood, River Crossing, Tanglewood, Townes at Barefoot, Wedgewood, Willow Bend, Woodlands"
+      ]
     }
   ]
 }

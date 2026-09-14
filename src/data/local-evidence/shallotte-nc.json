@@ -36,6 +36,24 @@
         "Section 1.16(b)(iii): \"Any filling or excavation of a parcel that results in a change of land surface of four (4) inches or more and alters the existing drainage pattern; except instances when said filling or excavation is required for on-site sewage treatment systems that is necessary to meet the requirements of the Brunswick County Department of Health (BCDEH) and that is specifically approved and inspected by BCDEH.\"",
         "Re-fetched and text-extracted from the PDF directly on 2026-09-13; text matches the quotes already verified for the site's Ash, NC page word for word."
       ]
+    },
+    {
+      "label": "Brierwood community site",
+      "url": "https://brierwood.info/",
+      "checked": "2026-09-13",
+      "supports": [
+        "\"Despite it's desirable non-HOA status, community residents take pride in the upkeep and maintenance of their homes.\"",
+        "The community originally featured a golf course that ceased operations in 2017."
+      ]
+    },
+    {
+      "label": "Brierwood: Government Services",
+      "url": "https://brierwood.info/government-services/",
+      "checked": "2026-09-13",
+      "supports": [
+        "Lists Town of Shallotte Fire Department, Police Department, Parks & Recreation, Planning & Zoning, and Code Enforcement as serving the community.",
+        "\"Water is billed to Brunswick County and Sewer billed to the town of Shallotte.\""
+      ]
     }
   ],
   "civietownFold": {
@@ -107,13 +125,31 @@
       "limits": "States the ordinance's general trigger; does not determine whether any specific Civietown parcel is inside the county's jurisdiction versus Shallotte's ETJ, or whether a given dig meets the exemption list in the county's management manual.",
       "mappedClaim": "Filling or excavating a parcel by four inches or more, in a way that changes how it drains, needs a Stormwater Management Plan and a county Stormwater Permit, and any digging within 30 feet of a stream bank needs one too unless the county's management manual marks the work exempt.",
       "mappingUpdated": "2026-09-13"
+    },
+    {
+      "id": "SH-5",
+      "candidate_paths": [
+        "blocks[3].paras[1]"
+      ],
+      "claim": "Brierwood has non-HOA status and is served by Town of Shallotte Planning & Zoning and Code Enforcement, with sewer billed by the town and water by Brunswick County; the community's former golf course closed in 2017.",
+      "source_urls": [
+        "https://brierwood.info/",
+        "https://brierwood.info/government-services/"
+      ],
+      "evidence_type": "fresh primary-source verification",
+      "checked": "2026-09-13",
+      "source_locator": "Brierwood community-details page (HOA status, golf course history) and Government Services page (department list, utility billing).",
+      "limits": "Confirms the community's own claim of non-HOA status and which departments it names as serving it; does not verify Brierwood's parcel boundary against the Town's ETJ map.",
+      "mappedClaim": "Brierwood is a former golf-course community with non-HOA status, served by Town of Shallotte Planning & Zoning and Code Enforcement.",
+      "mappingUpdated": "2026-09-13"
     }
   ],
   "reviewNotes": [
     "Confirm parcel jurisdiction and service applicability when an address is supplied.",
     "Obtain staff interpretation and any required association response for the actual construction scope.",
     "Phase 4 mappings follow retained customer-facing statements. Original observations and checked dates are preserved; this edit is not a new source verification.",
-    "2026-09-13: added the Civietown fold-in (civietown-nc) — a new block covering the unincorporated community, its lack of a place node, and the county stormwater permit trigger that applies where the county rather than the town reviews the work. County ordinance quotes re-verified directly from the PDF on 2026-09-13 and match the quotes already on file for the Ash, NC page."
+    "2026-09-13: added the Civietown fold-in (civietown-nc) — a new block covering the unincorporated community, its lack of a place node, and the county stormwater permit trigger that applies where the county rather than the town reviews the work. County ordinance quotes re-verified directly from the PDF on 2026-09-13 and match the quotes already on file for the Ash, NC page.",
+    "2026-09-13: folded in Brierwood (brierwood-nc) — added to the parcel-jurisdiction block as a non-HOA former golf-course community served by Town of Shallotte departments; sources re-fetched and quoted directly from brierwood.info."
   ],
   "mappingHistory": [
     {

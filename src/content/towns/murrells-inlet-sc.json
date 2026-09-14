@@ -51,6 +51,15 @@
       ]
     },
     {
+      "icon": "pin",
+      "kicker": "Inside the gated neighborhoods",
+      "h2": "Prince Creek and International Club are golf communities built from many separately named neighborhoods.",
+      "paras": [
+        "Prince Creek, the golf community around TPC Myrtle Beach, isn't one HOA with one landscaping rulebook. Real-estate coverage of the community describes it as several distinct neighborhoods, some gated and built out on their own (<a href=\"https://www.privatecommunities.com/southcarolina/princecreek/index.htm\" target=\"_blank\" rel=\"nofollow noopener\">privatecommunities.com</a>), and the Greater Burgess Community Association's own neighborhood directory lists each one as its own member community rather than as a unit of a single shared association (<a href=\"https://greaterburgesscommunity.org/network-neighborhood/\" target=\"_blank\" rel=\"nofollow noopener\">Greater Burgess Community Association</a>). Bellwood Landing, Collins Creek Landing, Creek Harbor, Creekhaven, Highwood, Hunters Grove, Laurel Bay, Linksbrook, Marcliff West, Seasons, Shallow Creek Bay, Stonegate, The Bays, Waverly Bay and Willow Bay are all part of Prince Creek this way. Highwood keeps its own governing documents and rules section on its <a href=\"https://www.highwoodhoa.com/home/\" target=\"_blank\" rel=\"nofollow noopener\">HOA site</a>; ask Highwood's HOA for its current landscaping rules before you plan a layout there. For a lot in any of these neighborhoods, get your own HOA's current design-review or landscaping guidelines before you plan a turf layout, and check them against the marsh and tree rules above if the lot borders tidal water.",
+        "International Club, off International Club Boulevard, works the same way. Cambridge, Enclave, Grand Vistas, The Glens and The Villas are each listed as their own neighborhood in the same civic directory. Ask your neighborhood's HOA for its current landscaping guidelines before you plan turf on one of these lots, and the marsh and tree rules above still apply if the lot borders tidal water."
+      ]
+    },
+    {
       "icon": "building",
       "kicker": "The stormwater fee",
       "h2": "A single-family home in Georgetown County pays a flat yearly fee, turf or not.",
@@ -108,11 +117,45 @@
     {
       "label": "Wikipedia: Murrells Inlet, South Carolina",
       "url": "https://en.wikipedia.org/wiki/Murrells_Inlet,_South_Carolina"
+    },
+    {
+      "label": "privatecommunities.com: Prince Creek",
+      "url": "https://www.privatecommunities.com/southcarolina/princecreek/index.htm"
+    },
+    {
+      "label": "Greater Burgess Community Association: Neighborhood Network",
+      "url": "https://greaterburgesscommunity.org/network-neighborhood/"
+    },
+    {
+      "label": "Highwood HOA",
+      "url": "https://www.highwoodhoa.com/home/"
     }
   ],
   "publicReferences": [
     "https://www.scstatehouse.gov/code/t48c039.php",
     "https://www.gtcountysc.gov/DocumentCenter/View/1346/ARTICLE-13-Tree-Regulations-PDF"
+  ],
+  "foldedFrom": [
+    "bellwood-landing-prince-creek-sc",
+    "collins-creek-landing-prince-creek-sc",
+    "creek-harbor-prince-creek-sc",
+    "creekhaven-prince-creek-sc",
+    "highwood-prince-creek-sc",
+    "hunters-grove-prince-creek-sc",
+    "laurel-bay-prince-creek-sc",
+    "linksbrook-prince-creek-sc",
+    "marcliff-west-prince-creek-sc",
+    "seasons-prince-creek-sc",
+    "shallow-creek-bay-prince-creek-sc",
+    "stonegate-prince-creek-sc",
+    "the-bays-at-prince-creek-sc",
+    "waverly-bay-prince-creek-sc",
+    "willow-bay-prince-creek-sc",
+    "cambridge-international-club-sc",
+    "enclave-international-club-sc",
+    "grand-vistas-international-club-sc",
+    "the-glens-international-club-sc",
+    "the-villas-international-club-sc"
   ],
   "checked": "2026-09-13"
 }

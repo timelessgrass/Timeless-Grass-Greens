@@ -54,12 +54,35 @@
       ]
     },
     {
-      "label": "Horry County Code of Ordinances, Ch. 9, Art. III, Sec. 9-51 (General standards)",
-      "url": "https://library.municode.com/sc/horry_county/codes/code_of_ordinances?nodeId=COOR_CH9FLDAPRCO_ARTIIIPRFLHARE_S9-51GEST",
+      "label": "Myrtle Beach Golf & Yacht Club: Covenants and Restrictions",
+      "url": "https://mbgyc.com/images/pdfs/Covenants-and-Restrictions-for-website.pdf",
       "checked": "2026-09-13",
       "supports": [
-        "(13) Compensatory storage must be provided when fill is used for development within the special flood hazard area or supplemental flood zone with the exception to major highways and publicly owned facilities. ... Compensatory storage must be provided to offset any loss of flood storage capacity to the base flood elevation or supplemental flood elevation whichever is higher. Engineering analyses will be required.",
-        "Socastee is unincorporated Horry County, the same jurisdiction as Forestbrook, so this countywide flood-damage-prevention chapter applies the same way to both places."
+        "The declaration, amended December 1991, requires written Architectural Review Board approval before any change to landscaping, topography or exterior features, and treats a complete written request as approved if the board does not act within 30 days."
+      ]
+    },
+    {
+      "label": "Greater Burgess Community Association: About Us",
+      "url": "https://greaterburgesscommunity.org/about-us/",
+      "checked": "2026-09-13",
+      "supports": [
+        "The Burgess Community is an unincorporated area in Horry County, South Carolina; the Neighborhood Network includes 60 separate communities."
+      ]
+    },
+    {
+      "label": "Greater Burgess Community Association: Neighborhood Network",
+      "url": "https://greaterburgesscommunity.org/network-neighborhood/",
+      "checked": "2026-09-13",
+      "supports": [
+        "The neighborhood network list names Blackmoor, Marcliff @ Blackmoor, International Club, Indigo Creek, Cypress River Plantation and Island Green among its member communities."
+      ]
+    },
+    {
+      "label": "Island Green Community Services Association: About Us",
+      "url": "https://islandgreencsa.com/about",
+      "checked": "2026-09-13",
+      "supports": [
+        "The Island Green Community Services Association is a voluntary cooperative subscribed to by more than 25 separate Homeowner Associations located within the Island Green community, not one HOA."
       ]
     }
   ],
@@ -126,17 +149,31 @@
     },
     {
       "fields": [
-        "blocks[3].paras[2]",
-        "faq[5]"
+        "blocks[2].paras[5]"
       ],
-      "evidenceType": "observed_official",
+      "evidenceType": "observed_official_association",
       "sourceUrls": [
-        "https://library.municode.com/sc/horry_county/codes/code_of_ordinances?nodeId=COOR_CH9FLDAPRCO_ARTIIIPRFLHARE_S9-51GEST"
+        "https://greaterburgesscommunity.org/about-us/",
+        "https://greaterburgesscommunity.org/network-neighborhood/"
       ],
       "checked": "2026-09-13",
-      "observed": "Socastee is unincorporated Horry County, the same jurisdiction as Forestbrook; the county's compensatory-storage rule in Ch. 9, Sec. 9-51(13) applies to both the same way.",
-      "limits": "Does not establish which specific parcels sit inside the special flood hazard area or supplemental flood zone; homeowner must confirm with the county. The Socastee Overlay Zone (Sec. 807, Highway 707 corridor) could not be opened (Horry County site and Municode both refused the connection) and is not cited.",
-      "mappedClaim": "Socastee sits under the same county authority as Forestbrook and the same fill/compensatory-storage rule applies; confirm your flood zone with the county.",
+      "observed": "The Burgess Community is an unincorporated area in Horry County; the Greater Burgess Neighborhood Network list names Blackmoor, Marcliff @ Blackmoor, International Club, Indigo Creek, Cypress River Plantation and Island Green as member communities.",
+      "limits": "Confirms jurisdiction and community identity only, not any association covenant text or a specific parcel boundary.",
+      "mappedClaim": "Blackmoor, Marcliff, International Club, Indigo Creek, Cypress River Plantation and Island Green sit in unincorporated Horry County, so the county drainage/easement/flood-zone guidance on this page reaches them; each has its own POA and should be asked for current covenants before planning turf.",
+      "mappingUpdated": "2026-09-13"
+    },
+    {
+      "fields": [
+        "blocks[2].paras[5]"
+      ],
+      "evidenceType": "observed_official_association",
+      "sourceUrls": [
+        "https://islandgreencsa.com/about"
+      ],
+      "checked": "2026-09-13",
+      "observed": "The Island Green Community Services Association is a voluntary cooperative subscribed to by more than 25 separate HOAs located within the Island Green community; it is a coordinating council, not a single HOA.",
+      "limits": "Confirms the multi-HOA structure only, not any individual HOA covenant text.",
+      "mappedClaim": "Island Green is an umbrella of separate HOAs coordinated by a community services association, so the individual HOA's rules apply, not one shared Island Green policy.",
       "mappingUpdated": "2026-09-13"
     }
   ],
@@ -145,8 +182,7 @@
     "No local association's turf approval policy verified. Similar names in TX/FL were rejected; no fees, deadlines, contact or approval policy asserted.",
     "Prior research's claimed July 2025 Census population estimate is unsupported: current QuickFacts marks that estimate not applicable. No demographics retained.",
     "Do not inherit aggregate recipes, universal no-permit statements or flood-prevention promises.",
-    "Phase 4 mappings follow retained customer-facing statements. Original observations and checked dates are preserved; this edit is not a new source verification.",
-    "2026-09-13: folded in Socastee (unincorporated Horry County). Its Ch. 9 compensatory-storage rule is the same one already covered on this page for Forestbrook; Sec. 9-51(13) quote reused from the Grand Strand pet-turf evidence record, itself pulled from the Municode API (Sec. 9-33's rendered page returned only its JS shell to curl/WebFetch). Socastee Historic District (National Register) carries no independent local rule found. The Socastee Overlay Zone (Sec. 807) could not be opened by any allowed method (horrycounty-sc.elaws.us timed out, Municode returned 403) and is not cited on the page."
+    "Phase 4 mappings follow retained customer-facing statements. Original observations and checked dates are preserved; this edit is not a new source verification."
   ],
   "mappingHistory": [
     {

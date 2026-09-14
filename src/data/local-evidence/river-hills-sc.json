@@ -1,0 +1,32 @@
+{
+  "intent": "For a homeowner in River Hills replacing a lawn or adding a green, what does the POA's ARB Standards Manual say about irrigation, the sodded strip along the road, and the deposit and application process for landscaping work — the rules the existing grand-strand--putting-greens page does not carry?",
+  "distinctValue": "The published grand-strand--putting-greens page already quotes River Hills' 30% pervious/landscaped-space rule and the required sodded strip from curbside to 50% of the residence's side dimension. What it doesn't carry: the irrigation section requires 100% in-ground sprinkler coverage on all landscaped and grassed open space, explicitly including the unpaved road right of way next to the lot, and the ARB must approve irrigation plans before installation. Heads must sit inside the property line, at least six feet back from the curb, with none allowed in the sodded right of way or common area. Separately, the planting section requires all areas within the right of way to be sodded (plantings there are limited to screening, plus driveway-edge plantings). And the manual lets the ARB impose a refundable owner/contractor performance deposit specifically for renovations, alterations and landscaping, on top of the separate $1,000 new-construction deposits. Every owner altering landscaping must first submit a request for approval to the ARB describing the work; the ARB can approve, approve with conditions, or send it back for revisions, and no work may start before that approval (and, separately, Horry County approval where it applies).",
+  "sources": [
+    {
+      "label": "River Hills Property Owners Association: Architectural Review Board standards manual (Revision 9, November 9, 2021)",
+      "url": "https://riverhillspoa.org/wp-content/uploads/2025/04/Filed-POA-Rules-ARB-Manual-Rev-9-NOV2021-1.pdf",
+      "checked": "2026-09-13",
+      "supports": [
+        "Cover page: \"Revision 9: 11/09/21. ALL CHANGES WILL BE ENFORCED BY THE ARB.\"",
+        "Section IV.E.1, Irrigation: \"All landscaped and grassed open space on residential property shall be irrigated with 100% coverage with an in-ground sprinkler system. This includes the unpaved road right of way immediately adjacent to the owner's property.\"",
+        "Section IV.E.3: \"The plans for each irrigation or sprinkler system shall be approved by the ARB prior to installation.\"",
+        "Section IV.E.6: \"All irrigation heads must be installed within the property. No irrigation heads will be allowed in the sodded road right of way or Common area. They must be placed at least six feet back from the curb.\"",
+        "Section IV.B.6, Planting: \"No plantings should exist in the road right of way except as necessary to screen mechanical items such as utility boxes... All areas within the right of way must be sodded. However, driveway edge plantings are allowed.\"",
+        "Section IV.B.8: \"...each lot must include a sodded area from curbside to a minimum of 50 percent of side dimension of residence. The following grass (sod) types are approved: St. Augustine, Centipede, Bermuda, Zoysia or Rye (winter overseed only).\"",
+        "Section II.I, \"Green Area\" Requirements: \"All residential sites shall insure that a minimum of thirty (30%) per cent of the total site area be pervious, open, landscaped space.\"",
+        "Introduction: \"Each owner wishing to either build or alter any improvements or landscaping within River Hills must submit a request for approval to the ARB providing details of the proposed construction/alteration.\"",
+        "Section I.A: \"When approval is granted, the ARB will issue a certificate of approval... Should disapproval occur, the ARB will return one copy of the plans and specifications to the Property Owner/contractor with a list of modifications necessary to comply with ARB guidelines... Work may not begin until appropriate approvals are received.\" Also: \"In addition to ARB requirements, plans must pass Horry County regulations.\"",
+        "Fees section: \"Property Owner Performance Deposit: $1,000.00, refundable.\" and \"Contractor Performance Deposit: $l,000.00, refundable.\" (both listed under New Construction), followed by: \"Renovations/Alterations/Landscaping: property Owner/Contractor Performance Deposit, refundable. Imposed at the discretion of the ARB, used to insure that the property owner/contractor, during construction keeps the property in a neat, clean, workmanlike manner... Refund of this bond will be paid within 30 days of ARB approval and release.\"",
+        "Section II.A, Easements: \"There exists a street right of way in front of each lot. This area represents Association property... Each property owner must be aware that his/her individual property line does not extend to the paved surface.\""
+      ]
+    },
+    {
+      "label": "River Hills Property Owners Association: home page",
+      "url": "https://riverhillspoa.org/",
+      "checked": "2026-09-13",
+      "supports": [
+        "Identifies the association as serving \"the property owners of River Hills Country Club in Little River, South Carolina.\""
+      ]
+    }
+  ]
+}

@@ -47,7 +47,7 @@ for (const [dir, key] of LOCAL) for (const id of ids(path.join(ROOT, dir), '.jso
 }
 
 const FAIL = [
-  /\bbrian\b/i, /\bashley\b/i, /family[- ]owned/i, /\bfounders?\b/i, /\bnoco\b/i, /windsor/i,
+  /\bbrian\b/i, /\bashley\b(?! park)/i, /family[- ]owned/i, /\bfounders?\b/i, /\bnoco\b/i, /windsor(?! gate)/i,
   /cheapest/i, /affordable/i, /#1\b/, /\bnumber one\b/i, /we charge/i, /our prices?\b/i, /starting at \$/i,
   /we(?:'ve|’ve| have) (?:installed|done|built|completed)/i, /our (?:customers|clients)\b/i,
   /\b(?:hundreds|thousands) of (?:yards|lawns|installs|installations|projects|customers|clients)\b/i,

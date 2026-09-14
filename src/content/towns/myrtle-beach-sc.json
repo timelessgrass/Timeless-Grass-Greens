@@ -43,7 +43,10 @@
       "paras": [
         "Ask Myrtle Beach Planning & Zoning about applicable requirements, particularly if the project changes grading, drainage or lot coverage. For a condo or association property, obtain the relevant property approval separately. Bring any conditions to the estimate so the scope can account for them.",
         "In Arcadian Shores, between Myrtle Beach and Briarcliffe Acres, Horry County has jurisdiction, not the city: the area is organized as a Special Tax District funding services the county does not otherwise provide (<a href=\"https://arcadianshores.org/\" target=\"_blank\" rel=\"nofollow noopener\">Arcadian Shores</a>). Its single-family homeowners' association is voluntary to join, and its by-laws bind members to a separate Declaration of Restrictions for the neighborhood, \"as they may be revised from time to time\" (<a href=\"https://arcadianshores.org/hoa\" target=\"_blank\" rel=\"nofollow noopener\">Arcadian Shores HOA</a>). Get the recorded copy from Horry County's Register of Deeds and check it for any yard or improvement rule before you plan the layout.",
-        "Springmaid Beach, north of Myrtle Beach State Park, straddles the Myrtle Beach city limits rather than sitting cleanly inside or outside them (<a href=\"https://en.wikipedia.org/wiki/Springmaid_Beach,_South_Carolina\" target=\"_blank\" rel=\"nofollow noopener\">Wikipedia</a>). Confirm with Planning & Zoning whether your address is on the city or the county side of that line before assuming which office reviews your project."
+        "Springmaid Beach, north of Myrtle Beach State Park, straddles the Myrtle Beach city limits rather than sitting cleanly inside or outside them (<a href=\"https://en.wikipedia.org/wiki/Springmaid_Beach,_South_Carolina\" target=\"_blank\" rel=\"nofollow noopener\">Wikipedia</a>). Confirm with Planning & Zoning whether your address is on the city or the county side of that line before assuming which office reviews your project.",
+        "Grande Dunes is a master-planned community whose neighborhoods answer to one authority above the individual owner: the Grande Dunes Master Association. That covers Bal Harbor, Beach View, Calais, Castillo Del Mar, Cipriana Park, Del Webb, Golf Village, Grande Dunes North Village, Living Dunes, Marina Inn, Members' Club Village, Seville, Siena Park, The Cape, The Promenade at Grande Dunes, Villa Firenze, Villa Marbella, Villa Venezia, Vista Del Mar and Waterside Edge & Pointe (<a href=\"https://grandedunescommunities.sites.townsq.io/1\" target=\"_blank\" rel=\"nofollow noopener\">Grande Dunes Communities</a>). Del Webb, Marina Inn, The Promenade at Grande Dunes, Villa Firenze, Vista Del Mar and Waterside Edge & Pointe are managed by a company other than the one that manages the rest of Grande Dunes, so check with that neighborhood's own manager as well as the master association. The portal's public pages don't include the recorded covenants or an architectural-review rule for turf, so get the current CC&Rs and ARB guidelines from your association before you plan a layout.",
+        "The Market Common is one of the newer areas of Myrtle Beach (<a href=\"https://www.myrtlebeach.com/real-estate/neighborhood/market-common/\" target=\"_blank\" rel=\"nofollow noopener\">MyrtleBeach.com</a>), so the Planning & Zoning review above reaches the whole district. Arbor Glen, Balmoral at Withers Preserve, Emmens Preserve, Highlands at Withers Preserve, Monarch at Withers Preserve, Park Place at Market Common, Reserve at Market Common, Sweetgrass Square, The Battery at Market Common, The Cottages at Farrow Parkway and The Sanctuary at Withers Preserve fall under that same city review; if your neighborhood has its own association, get its current rules before planning. Market Common Townhomes and Condos, Seagate Village, South Market Row Townhomes and Windsor Gate Townhomes are attached housing, where the building's own association usually controls shared landscaping rather than the individual owner — get that association's current rules before planning. Cresswind keeps its covenants for residents (<a href=\"https://www.cresswind-myrtlebeach.com/covenants/\" target=\"_blank\" rel=\"nofollow noopener\">Cresswind</a>), so ask its association what it allows before you plan a layout there.",
+        "Booker T. Washington, Dunes Club, Northwoods, Pine Lakes, Ramsey Acres and The Avenues are neighborhoods inside Myrtle Beach city limits. None carries a published homeowners' association or design-review rule of its own, so the Planning & Zoning review above is what reaches a turf project in any of them. If a covenant on your specific lot says otherwise, bring it to the estimate so the scope can account for it."
       ]
     },
     {
@@ -149,12 +152,68 @@
     {
       "label": "Wikipedia: Springmaid Beach, South Carolina",
       "url": "https://en.wikipedia.org/wiki/Springmaid_Beach,_South_Carolina"
+    },
+    {
+      "label": "Grande Dunes Communities",
+      "url": "https://grandedunescommunities.sites.townsq.io/1"
+    },
+    {
+      "label": "MyrtleBeach.com: The Market Common neighborhood",
+      "url": "https://www.myrtlebeach.com/real-estate/neighborhood/market-common/"
+    },
+    {
+      "label": "Cresswind Myrtle Beach: Covenants",
+      "url": "https://www.cresswind-myrtlebeach.com/covenants/"
     }
   ],
   "checked": "2026-09-13",
   "publicReferences": [],
   "foldedFrom": [
     "arcadian-shores-sc",
-    "springmaid-beach-sc"
+    "springmaid-beach-sc",
+    "bal-harbor-sc",
+    "beach-view-sc",
+    "calais-sc",
+    "castillo-del-mar-sc",
+    "cipriana-park-sc",
+    "del-webb-sc",
+    "golf-village-sc",
+    "grande-dunes-north-village-sc",
+    "living-dunes-sc",
+    "marina-inn-sc",
+    "members-club-village-sc",
+    "seville-sc",
+    "siena-park-sc",
+    "the-cape-sc",
+    "the-promenade-at-grande-dunes-sc",
+    "villa-firenze-sc",
+    "villa-marbella-sc",
+    "villa-venezia-sc",
+    "vista-del-mar-sc",
+    "waterside-edge-pointe-sc",
+    "arbor-glen-sc",
+    "balmoral-at-withers-preserve-sc",
+    "cresswind-sc",
+    "emmens-preserve-sc",
+    "highlands-at-withers-preserve-sc",
+    "market-common-townhomes-and-condos-sc",
+    "monarch-at-withers-preserve-sc",
+    "park-place-at-market-common-sc",
+    "reserve-at-market-common-sc",
+    "seagate-village-sc",
+    "south-market-row-townhomes-sc",
+    "sweetgrass-square-sc",
+    "the-battery-at-market-common-sc",
+    "the-cottages-at-farrow-parkway-sc",
+    "the-sanctuary-at-withers-preserve-sc",
+    "windsor-gate-townhomes-sc",
+    "booker-t-washington-sc",
+    "dunes-club-sc",
+    "grande-dunes-sc",
+    "northwoods-sc",
+    "pine-lakes-sc",
+    "ramsey-acres-sc",
+    "the-avenues-sc",
+    "the-market-common-sc"
   ]
 }

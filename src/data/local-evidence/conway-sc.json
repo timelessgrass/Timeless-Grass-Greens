@@ -70,6 +70,46 @@
         "Toddville is a small unincorporated community in Horry County, South Carolina.",
         "Toddville is south of Conway on U.S. Route 701 and mostly consists of farmland."
       ]
+    },
+    {
+      "label": "Wikipedia: Homewood, South Carolina",
+      "url": "https://en.wikipedia.org/wiki/Homewood,_South_Carolina",
+      "checked": "2026-09-13",
+      "supports": [
+        "Homewood is situated in Horry County, South Carolina, positioned just north of Conway in the northeastern part of the state.",
+        "It functions as both an unincorporated community and a census-designated place (CDP)."
+      ]
+    },
+    {
+      "label": "Myrtle Trace homeowners association",
+      "url": "https://myrtletracesc.org/",
+      "checked": "2026-09-13",
+      "supports": [
+        "House additions, roof replacement, exterior changes, and landscaping changes are subject to advance approval by the Architectural Review Committee.",
+        "Trees may not be cut down without approval.",
+        "Yards must be maintained in a neat and orderly fashion.",
+        "Dog runs are permitted but location and structure must be approved."
+      ]
+    },
+    {
+      "label": "Myrtle Trace South homeowners association",
+      "url": "https://www.myrtletracesouth.org/",
+      "checked": "2026-09-13",
+      "supports": [
+        "Community of 149 single family homes, located in Conway, SC.",
+        "The site references governing documents including By-laws, Covenants, Conditions and Restrictions, and a Modification Guidelines page for exterior and landscaping changes.",
+        "The homepage text does not publish the specific content of the Modification Guidelines."
+      ]
+    },
+    {
+      "label": "Vansant Realty Group: The Meadows at Four Mile",
+      "url": "https://www.vansantrealtygroup.com/blog/the-meadows-at-four-mile-a-convenient-conway-location-with-a-new-community-taking-shape",
+      "checked": "2026-09-13",
+      "supports": [
+        "The Meadows at Four Mile is a new home community coming soon to Conway, SC, offering a convenient location just off Four Mile Road, east of Highway 501 and a short distance north of downtown Conway.",
+        "In August 2026, Mungo Homes announced the site plan for the Meadows at Four Mile.",
+        "Another notable feature of the Meadows at Four Mile is its proximity to Homewood Elementary School."
+      ]
     }
   ],
   "claimEvidence": [
@@ -138,7 +178,9 @@
     "Discard old research demographic padding, flood-height figures, town-wide soil recipes and drainage-fix promises.",
     "Root should retain only supported operational commitments and verify lead delivery separately.",
     "Phase 4 mappings follow retained customer-facing statements. Original observations and checked dates are preserved; this edit is not a new source verification.",
-    "2026-09-13: added Red Hill, Adrian and Toddville content (folded into this page). Verified each place's location and unincorporated status against Wikipedia (Red Hill, Toddville) and RoadsideThoughts (Adrian) via WebFetch. Cut the unsourced 'rural crossroads' description of Adrian and the unsourced Waccamaw floodplain-proximity claim for Toddville; corrected Red Hill's direction from Conway to match the source (Conway borders Red Hill to the north, i.e. Red Hill is south of Conway)."
+    "2026-09-13: added Red Hill, Adrian and Toddville content (folded into this page). Verified each place's location and unincorporated status against Wikipedia (Red Hill, Toddville) and RoadsideThoughts (Adrian) via WebFetch. Cut the unsourced 'rural crossroads' description of Adrian and the unsourced Waccamaw floodplain-proximity claim for Toddville; corrected Red Hill's direction from Conway to match the source (Conway borders Red Hill to the north, i.e. Red Hill is south of Conway).",
+    "2026-09-13: folded in Garden Grove, Hainer Place, Jordan Grove, Meadows at Four Mile, Willows at Pitch Landing, Homewood, Myrtle Trace and Myrtle Trace South. Opened each builder/HOA/Wikipedia page directly; none of the five Mungo Homes subdivision pages publishes covenants or landscaping rules, so copy sends the reader to their own HOA rather than asserting a rule. Myrtle Trace's ARC/landscaping/tree/dog-run rules are quoted directly from myrtletracesc.org; Myrtle Trace South's Modification Guidelines page is referenced but its content is not published on the homepage, so copy asks the reader to request the current version rather than describing it. Homewood follows the same unincorporated-CDP pattern already sourced for Red Hill/Adrian/Toddville. No population, home-price or home-count figures were used on the page even where sources mentioned them.",
+    "2026-09-13: corrected the four Mungo Homes evidence entries (Garden Grove, Hainer Place, Jordan Grove, Willows at Pitch Landing). The prior wording claimed a rendered 'homeowner \"hoaPortal\" link' on the page; re-fetched all four pages with curl and found no such link anywhere in the rendered HTML — the only occurrence of 'hoaPortal' is a generic `window.__PRELOADED_STATE__` Redux stub (`\"hoaPortal\":{\"fetched\":false}`) identical across every Mungo community page, and 'Covenants and Restrictions' likewise only appears as a generic CMS field-schema key, not a published document. The underlying conclusion (no published covenants or landscaping rules beyond the builder marketing page) was correct and unchanged in the town copy; only the evidence-file description of the source was rewritten to describe the actual boilerplate JSON instead of a nonexistent link."
   ],
   "mappingHistory": [
     {

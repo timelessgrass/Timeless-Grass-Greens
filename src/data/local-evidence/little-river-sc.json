@@ -1,0 +1,25 @@
+{
+ "intent": "Someone in Bridgewater, Shorehaven Village or Eastport searching for artificial turf wants to know whether their community's own association sets rules for a turf project on top of the county requirements already on this page.",
+ "distinctValue": "Bridgewater (including its Shorehaven Village section) is a private, association-governed community in Little River, SC. A reader there, or in Eastport, needs their own association's current requirements on top of the county rules already on this page.",
+ "sources": [
+  {
+   "label": "Bridgewater: A Community of New Homes in Little River, South Carolina",
+   "url": "https://www.bridgewatersc.com/",
+   "checked": "2026-09-13",
+   "supports": [
+    "Page title/hero text: \"Bridgewater. A Community of New Homes in Little River, South Carolina\"",
+    "Footer: \"Community Developed By: Wakefield Development\" and \"Home Sales By: Today Homes Realty, SC\"",
+    "\"Bridgewater by Chesapeake Homes\" appears as the home-collection builder heading.",
+    "Welcome Center listing: \"The Welcome Center Sales Office Hours: Monday-Saturday 10:00 AM-5:00 PM Sunday 12:00 PM-5:00 PM 117 Reedgrass Drive Little River, SC 29566\"",
+    "No mention of 'HOA', 'Association', or 'covenant' appears anywhere on the page (checked by full-text search of the fetched page) — no HOA or landscaping/exterior-modification rule is published on this site."
+   ]
+  }
+ ],
+ "notes": [
+  "Eastport's only located primary source (a federal bankruptcy-court opinion, https://www.scb.uscourts.gov/MessageWebService/ViewOpinion.aspx?id=754) sets no landscaping or association rule and is not cited on the page for that reason; the page instead tells the reader to check with Eastport's own association."
+ ],
+ "unresolved": [
+  "Whether Bridgewater/Shorehaven Village's HOA has an unpublished architectural-review or landscaping rule that would reach artificial turf.",
+  "Whether Eastport has an active HOA or ARB at all; no governance document was located."
+ ]
+}

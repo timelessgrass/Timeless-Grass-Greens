@@ -129,6 +129,20 @@
       ]
     },
     {
+      "label": "Town of Sunset Beach: Mosquito Control Program spray schedule",
+      "url": "https://sunsetbeachnc.gov/index.asp?DE=A7601380-D3C4-427E-B03E-DE3295BF00F3&SEC=01618413-240B-4A04-AFAC-7F6F705F1D0D",
+      "checked": "2026-09-13",
+      "supports": [
+        "Monday - Island",
+        "Tuesday - Shoreline and Seaside Station",
+        "Thursday - Bonaparte, Oyster Bay, Lakewood Estate and the remainder of Sea Trail",
+        "Tuesday- Bonaparte, Oyster Bay, and remainder of Sea Trail",
+        "Wednesday- Island",
+        "Thursday- Shoreline and Seaside Station",
+        "The Town coordinates with Brunswick County to initially treat areas historically known to contain mosquito larvae. Phone calls that are received from citizens relaying mosquito activity within the Town limits is used to coordinate with Brunswick County for mapping locations with high concentrations of mosquitos."
+      ]
+    },
+    {
       "label": "Coastal Review (North Carolina Coastal Federation): Coastal Resources Commission digs in on artificial turf, September 2021",
       "url": "https://coastalreview.org/2021/09/coastal-resources-commission-digs-in-on-artificial-turf/",
       "checked": "2026-09-12",

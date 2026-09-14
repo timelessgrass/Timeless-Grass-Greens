@@ -53,6 +53,15 @@
         "Ask <a href=\"https://www.horrycountysc.gov/departments/stormwater/engineers/construction/storm-water-permitting/\" target=\"_blank\" rel=\"nofollow noopener\">Horry County Stormwater</a> about the complete proposal, including excavation, grading and drainage changes. The size of the finished lawn alone does not settle the requirements for the work.",
         "If an association governs your property, request its current requirements for the proposed change. Identify any shared area or easement before finalizing the layout. Bring the written response to the estimate so those conditions can be considered alongside the installation options."
       ]
+    },
+    {
+      "icon": "pin",
+      "kicker": "Named neighborhoods",
+      "h2": "Check your own neighborhood's rules within Carolina Forest.",
+      "paras": [
+        "Carolina Forest is made up of dozens of named neighborhoods, each assigned a <a href=\"https://www.cf-ca.org/carolina-forest-council-districts/\" target=\"_blank\" rel=\"nofollow noopener\">council district by the Carolina Forest Civic Association</a>: Ashley Park, Avalon, Bella Vita, Berkshire Forest, Brighton Lakes, Brightwater, Canterbury, Carolina Waterways Plantation, Carolina Willows, Clear Pond, Covington Lake, Covington Lake East, Fairways at River Oaks, Grand Villas at World Tour, Indigo Bay, Inverness, Myrtle Beach National, Plantation Lakes, River Landing, River Oaks Golf Plantation, Sawgrass East, Seaside Grove, Southgate, Springlake, Summerlyn, The Bluffs, The Cloisters, The Farm, The Parks, Turnberry Park, Turning Pines, Waccamaw Pines, Walkers Woods and Waterway Palms Plantation. Every one of them sits in unincorporated Horry County like the rest of Carolina Forest, so the county stormwater and drainage guidance already on this page reaches your yard no matter which of these you're in. If your neighborhood has its own homeowners association, get its current architectural guidelines and confirm what it allows before you plan a layout.",
+        "Waterbridge is the exception with a rule in writing. The Waterbridge HOA's <a href=\"https://waterbridgehoa.com/wp-content/uploads/2022/09/Waterbridge-Phase-1-Design-Guidelines-and-Builder-Rules-January1-2024-Edition.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Architectural Design Guidelines and Builder Rules, January 1, 2024 Edition</a>, state under Landscaping that artificial vegetation, including artificial turf, is not permitted. That document is written for new construction, so it does not say whether the same restriction reaches existing homes or later phases; ask the Waterbridge ARC what applies to your lot before planning artificial turf there."
+      ]
     }
   ],
   "services": [
@@ -65,6 +74,10 @@
     {
       "q": "Who installs artificial turf in Carolina Forest, SC?",
       "a": "TIMELESS Grass & Greens installs artificial lawns, pet areas and putting greens in Carolina Forest. The free estimate includes a visit, a custom layout, turf options and a written price. Bring any association requirements and point out wet spots or drainage features when we look at the yard."
+    },
+    {
+      "q": "Does my Carolina Forest neighborhood have its own turf rule?",
+      "a": "Check your own homeowners association's current architectural guidelines before you plan; the county rules on this page apply either way. Waterbridge is a documented exception: its January 1, 2024 Architectural Design Guidelines and Builder Rules say artificial turf is not permitted. Ask the Waterbridge ARC what applies to your lot."
     }
   ],
   "nearby": [
@@ -81,8 +94,53 @@
     {
       "label": "Horry County: homeowner drainage and easement guidance",
       "url": "https://horrycountysc.gov/departments/stormwater/hoa/"
+    },
+    {
+      "label": "Carolina Forest Civic Association: neighborhoods by council district",
+      "url": "https://www.cf-ca.org/carolina-forest-council-districts/"
+    },
+    {
+      "label": "Waterbridge HOA: Architectural Design Guidelines and Builder Rules (January 1, 2024 Edition)",
+      "url": "https://waterbridgehoa.com/wp-content/uploads/2022/09/Waterbridge-Phase-1-Design-Guidelines-and-Builder-Rules-January1-2024-Edition.pdf"
     }
   ],
-  "checked": "2026-09-07",
-  "publicReferences": []
+  "checked": "2026-09-13",
+  "publicReferences": [],
+  "foldedFrom": [
+    "ashley-park-sc",
+    "avalon-sc",
+    "bella-vita-sc",
+    "berkshire-forest-sc",
+    "brighton-lakes-sc",
+    "brightwater-sc",
+    "canterbury-sc",
+    "carolina-waterways-plantation-sc",
+    "carolina-willows-sc",
+    "clear-pond-sc",
+    "covington-lake-sc",
+    "covington-lake-east-sc",
+    "fairways-at-river-oaks-sc",
+    "grand-villas-at-world-tour-sc",
+    "indigo-bay-sc",
+    "inverness-sc",
+    "myrtle-beach-national-sc",
+    "plantation-lakes-sc",
+    "river-landing-sc",
+    "river-oaks-golf-plantation-sc",
+    "sawgrass-east-sc",
+    "seaside-grove-sc",
+    "southgate-sc",
+    "springlake-sc",
+    "summerlyn-sc",
+    "the-bluffs-sc",
+    "the-cloisters-sc",
+    "the-farm-sc",
+    "the-parks-sc",
+    "turnberry-park-sc",
+    "turning-pines-sc",
+    "waccamaw-pines-sc",
+    "walkers-woods-sc",
+    "waterbridge-sc",
+    "waterway-palms-plantation-sc"
+  ]
 }

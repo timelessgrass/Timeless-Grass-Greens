@@ -24,7 +24,8 @@
       "h2": "Build for the practice you’ll actually do.",
       "paras": [
         "A green near the patio makes a few putts after work easy to fit into the day. Decide whether short putts, longer lines or chipping matter most. Those choices guide the shape, cup positions and fringe before the surface is selected.",
-        "In a golf or patio-home community, bring the current property requirements rather than relying on a neighbor’s installation. We can discuss a layout that keeps walking routes and the rest of the yard in use."
+        "In a golf or patio-home community, bring the current property requirements rather than relying on a neighbor’s installation. We can discuss a layout that keeps walking routes and the rest of the yard in use.",
+        "Bridgewater, including its Shorehaven Village section, is a private community in Little River (<a href=\"https://www.bridgewatersc.com/\" target=\"_blank\" rel=\"nofollow noopener\">Bridgewater</a>). Ask Bridgewater's association for its current landscaping and exterior-change requirements before you plan a layout; the county rules on this page apply as well. Eastport, the golf community already noted on this page, may have requirements of its own, so check with its association the same way."
       ]
     },
     {
@@ -138,12 +139,19 @@
     {
       "label": "USGS 02110777: AIW at Highway 9 at Nixons Crossroads, SC",
       "url": "https://waterdata.usgs.gov/monitoring-location/USGS-02110777/"
+    },
+    {
+      "label": "Bridgewater: A Community of New Homes in Little River, South Carolina",
+      "url": "https://www.bridgewatersc.com/"
     }
   ],
   "checked": "2026-09-13",
   "foldedFrom": [
     "nixons-crossroads-sc",
-    "wampee-sc"
+    "wampee-sc",
+    "bridgewater-sc",
+    "eastport-sc",
+    "shorehaven-village-sc"
   ],
   "publicReferences": []
 }

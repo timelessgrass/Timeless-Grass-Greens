@@ -44,7 +44,9 @@
         "Use the address and parcel number when checking jurisdiction. The <a href=\"https://www.conwaysc.gov/departments/planning___development/conway_gis.php\" target=\"_blank\" rel=\"nofollow noopener\">City of Conway GIS page</a> links separate city-limit, zoning and flood maps. Start there instead of treating a Conway mailing address as proof that every city rule applies.",
         "Inside the city, <a href=\"https://www.conwaysc.gov/departments/planning___development/index.php\" target=\"_blank\" rel=\"nofollow noopener\">Planning and Development</a> handles land-use questions and tree protection, while <a href=\"https://www.conwaysc.gov/departments/building/index.php\" target=\"_blank\" rel=\"nofollow noopener\">Construction Services</a> handles building permits. For an unincorporated address, start with <a href=\"https://www.horrycountysc.gov/Departments/Planning-and-Zoning\" target=\"_blank\" rel=\"nofollow noopener\">Horry County Planning and Zoning</a>. Describe the whole job: turf area, excavation, imported base, grading, drains and any fence changes. Ask which reviews apply. An answer about replacing a surface may not cover a separate drainage alteration.",
         "If an association also governs the property, ask whether the proposed change requires an application or approval, and obtain any required response before work starts. City or county review does not establish what an individual association will approve.",
-        "<a href=\"https://en.wikipedia.org/wiki/Red_Hill,_South_Carolina\" target=\"_blank\" rel=\"nofollow noopener\">Red Hill</a> borders Conway on the south side, along US 501 toward Myrtle Beach. <a href=\"https://roadsidethoughts.com/sc/adrian-xx-horry-profile.htm\" target=\"_blank\" rel=\"nofollow noopener\">Adrian</a> is about 7 miles north of Conway. <a href=\"https://en.wikipedia.org/wiki/Toddville,_South_Carolina\" target=\"_blank\" rel=\"nofollow noopener\">Toddville</a> is south of Conway on US 701. All three are unincorporated Horry County, the same as any other address outside the city limits above — none of the three carries a rule of its own. Use the same GIS lookup to confirm the parcel is outside city limits, and start with Horry County Planning and Zoning rather than Conway's city departments."
+        "Two separate homeowners associations in Conway share a similar name, and they are not the same rulebook: <a href=\"https://myrtletracesc.org/\" target=\"_blank\" rel=\"nofollow noopener\">Myrtle Trace</a> and <a href=\"https://www.myrtletracesouth.org/\" target=\"_blank\" rel=\"nofollow noopener\">Myrtle Trace South</a> are distinct covenant communities, each with its own governing documents. Myrtle Trace's Architectural Review Committee approves landscaping changes and tree removal in advance, requires yards to stay neat and orderly, and reviews dog-run location and structure — ask the committee whether artificial turf counts as a landscaping change before you plan a project. Myrtle Trace South has its own by-laws, covenants and a published Modification Guidelines page for exterior and landscaping changes, though the guideline text itself isn't posted publicly; request the current version from that association before assuming what it allows. Get the answer from your own community's association, not the one next door — the shared name doesn't mean shared rules.",
+        "Garden Grove, Hainer Place, Jordan Grove, Meadows at Four Mile and Willows at Pitch Landing are newer subdivisions on the Conway side of Horry County. Confirm the parcel with the same city GIS lookup described above, and if your community has a homeowners association, ask it for its current covenants or design guidelines, including whether artificial turf is handled differently from natural lawn, before you plan the project.",
+        "<a href=\"https://en.wikipedia.org/wiki/Red_Hill,_South_Carolina\" target=\"_blank\" rel=\"nofollow noopener\">Red Hill</a> borders Conway on the south side, along US 501 toward Myrtle Beach. <a href=\"https://roadsidethoughts.com/sc/adrian-xx-horry-profile.htm\" target=\"_blank\" rel=\"nofollow noopener\">Adrian</a> is about 7 miles north of Conway. <a href=\"https://en.wikipedia.org/wiki/Toddville,_South_Carolina\" target=\"_blank\" rel=\"nofollow noopener\">Toddville</a> is south of Conway on US 701. <a href=\"https://en.wikipedia.org/wiki/Homewood,_South_Carolina\" target=\"_blank\" rel=\"nofollow noopener\">Homewood</a> sits just north of Conway. All four are unincorporated Horry County, the same as any other address outside the city limits above — none carries a rule of its own. Use the same GIS lookup to confirm the parcel is outside city limits, and start with Horry County Planning and Zoning rather than Conway's city departments."
       ]
     },
     {
@@ -138,6 +140,22 @@
     {
       "label": "Wikipedia: Toddville, South Carolina",
       "url": "https://en.wikipedia.org/wiki/Toddville,_South_Carolina"
+    },
+    {
+      "label": "Wikipedia: Homewood, South Carolina",
+      "url": "https://en.wikipedia.org/wiki/Homewood,_South_Carolina"
+    },
+    {
+      "label": "Myrtle Trace homeowners association",
+      "url": "https://myrtletracesc.org/"
+    },
+    {
+      "label": "Myrtle Trace South homeowners association",
+      "url": "https://www.myrtletracesouth.org/"
+    },
+    {
+      "label": "Vansant Realty Group: The Meadows at Four Mile",
+      "url": "https://www.vansantrealtygroup.com/blog/the-meadows-at-four-mile-a-convenient-conway-location-with-a-new-community-taking-shape"
     }
   ],
   "checked": "2026-09-13",
@@ -145,7 +163,15 @@
   "foldedFrom": [
     "red-hill-sc",
     "adrian-sc",
-    "toddville-sc"
+    "toddville-sc",
+    "garden-grove-sc",
+    "hainer-place-sc",
+    "jordan-grove-sc",
+    "meadows-at-four-mile-sc",
+    "willows-at-pitch-landing-sc",
+    "homewood-sc",
+    "myrtle-trace-sc",
+    "myrtle-trace-south-sc"
   ],
   "publicReferences": []
 }

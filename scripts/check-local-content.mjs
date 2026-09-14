@@ -55,9 +55,9 @@ function norm(u) { return u.replace(/&amp;/g, '&').replace(/[.,;]+$/, '').replac
 
 const ALWAYS = ['13', '2024', '303', '349', '2368', '3033492368'];
 const BANNED = [
-  /\bbrian\b/i, /\bashley\b/i, /\bour owners?\b/i, /\bthe owner\b(?! of)/i, /owner[- ]operated/i, /owned and operated/i, /family[- ]owned/i, /\bhusband\b/i, /\bwife\b/i,
+  /\bbrian\b/i, /\bashley\b(?! park)/i, /\bour owners?\b/i, /\bthe owner\b(?! of)/i, /owner[- ]operated/i, /owned and operated/i, /family[- ]owned/i, /\bhusband\b/i, /\bwife\b/i,
   /\blicensed\b/i, /\binsured\b/i, /warrant(y|ies)/i, /guarantee/i, /\b(?:customer|client|google|yelp|online|star|our|glowing|verified) reviews?\b/i, /\breviews? (?:from|by) (?:our|happy)\b/i, /star rating/i, /\bbest\b/i, /#1\b/,
-  /cheapest/i, /affordable/i, /\bnoco\b/i, /windsor/i, /we charge/i, /our price/i, /starting at/i, /\bprices? start/i,
+  /cheapest/i, /affordable/i, /\bnoco\b/i, /windsor(?! gate)/i, /we charge/i, /our price/i, /starting at/i, /\bprices? start/i,
   /we(?:'ve| have) (?:installed|done|built)/i, /our (?:customers|clients|jobs|projects)/i, /(?:projects|jobs|installs) (?:in|near) /i,
   /\b(?:household|median|average|per capita) income\b/i, /median household/i, /home values?\b/i, /retirees?/i, /affluent/i, /wealthy/i, /upscale/i, /demographic/i, /who lives/i,
 ];

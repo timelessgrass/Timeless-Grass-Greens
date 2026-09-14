@@ -58,6 +58,24 @@
       "supports": [
         "\"North Carolina General Statutes §143-214.7D(b)(6) stated that the following is not considered built-upon area or impervious surface for state or local stormwater programs: Artificial turf, manufactured to allow water to drain through the backing of the turf, is installed according to the manufacturer's specifications over a pervious surface.\" The statute page itself (ncleg.gov, G.S. 143-214.7D) returned HTTP 403 on 2026-09-12; the same text is quoted from it in src/data/guides.ts (nc-vs-sc-built-upon-area)."
       ]
+    },
+    {
+      "label": "Kingfish Bay Development: Amenities",
+      "url": "https://kingfishbaydevelopment.com/amenities/",
+      "checked": "2026-09-13",
+      "supports": [
+        "\"This private, gated community along the Calabash River\" describes Kingfish Bay's setting and access.",
+        "Amenities list includes \"Community Putting Green\" among the development's resort-style facilities."
+      ]
+    },
+    {
+      "label": "Devaun Park",
+      "url": "https://devaunpark.com/",
+      "checked": "2026-09-13",
+      "supports": [
+        "\"Nestled between the Calabash River and the Intracoastal Waterway, Devaun Park is close to everything, yet blissfully away from it all.\" Described as a Traditional Neighborhood Design community with mature landscaping.",
+        "Professionally managed by Priestley Management Company (named contact and resident-portal access listed on the page); no HOA/design-guideline document is linked."
+      ]
     }
   ]
 }

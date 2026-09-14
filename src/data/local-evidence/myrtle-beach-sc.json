@@ -37,6 +37,42 @@
         "straddling the city limits of Myrtle Beach",
         "north of Myrtle Beach State Park on Ocean Boulevard near Farrow Parkway"
       ]
+    },
+    {
+      "label": "Grande Dunes Communities",
+      "url": "https://grandedunescommunities.sites.townsq.io/1",
+      "checked": "2026-09-13",
+      "supports": [
+        "Grande Dunes Master Association",
+        "Grande Dunes is comprised of many individual neighborhoods, each with their own unique amenities and architectural style.",
+        "Named neighborhoods: Bal Harbor, Members' Club Village, Beach View, Seville, Calais, Siena Park, Castillo Del Mar, The Cape, Cipriana Park, The Promenade at Grande Dunes, Del Webb, Villa Firenze, Golf Village, Villa Marbella, Grande Dunes North Village, Villa Venezia, Living Dunes, Vista Del Mar, Marina Inn, Waterside Edge & Pointe",
+        "These neighborhoods are not managed by Waccamaw Management. For further information about these neighborhoods and their association management companies, visit the FAQ page. (applies to The Promenade at Grande Dunes, Del Webb, Villa Firenze, Vista Del Mar, Marina Inn, and Waterside Edge & Pointe)"
+      ]
+    },
+    {
+      "label": "MyrtleBeach.com: The Market Common neighborhood",
+      "url": "https://www.myrtlebeach.com/real-estate/neighborhood/market-common/",
+      "checked": "2026-09-13",
+      "supports": [
+        "The Market Common district is popular among homebuyers as this community is one of the newer areas of Myrtle Beach",
+        "Neighborhoods listed: Arbor Glen, Balmoral at Withers Preserve, Cresswind, Emmens Preserve, Highlands at Withers Preserve, Market Common Townhomes and Condos, Monarch at Withers Preserve, Park Place at Market Common, Reserve at Market Common, Seagate Village Condo Homes, South Market Row Townhomes, Sweetgrass Square, The Battery at Market Common, The Cottages at Farrow Parkway, The Sanctuary at Withers Preserve, Windsor Gate Townhomes"
+      ]
+    },
+    {
+      "label": "Cresswind Myrtle Beach: Covenants",
+      "url": "https://www.cresswind-myrtlebeach.com/covenants/",
+      "checked": "2026-09-13",
+      "supports": [
+        "302 redirect to https://www.cresswind-myrtlebeach.com/login/?redirect=%2Fcovenants%2F"
+      ]
+    },
+    {
+      "label": "Cresswind Myrtle Beach (homepage)",
+      "url": "https://www.cresswind-myrtlebeach.com/home/",
+      "checked": "2026-09-13",
+      "supports": [
+        "Please login to view this area (News, Associa Information, Calendar, Photo Album and Message Board sections)"
+      ]
     }
   ]
 }

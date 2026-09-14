@@ -101,6 +101,7 @@ export const EXISTING_TOWN_IDS = new Set([
 // Interior municipalities/localities and the recorded boundary anchors. This does not
 // extend service to every address using a town's postal name or approve its entire county.
 export const GRAND_STRAND_INTERIOR_IDS = new Set([
+  'river-hills-sc',
   'myrtle-beach-sc', 'north-myrtle-beach-sc', 'carolina-forest-sc', 'little-river-sc',
   'longs-sc', 'loris-sc', 'conway-sc', 'burgess-sc', 'socastee-sc', 'red-hill-sc',
   'forestbrook-sc', 'surfside-beach-sc', 'briarcliffe-acres-sc', 'atlantic-beach-sc',

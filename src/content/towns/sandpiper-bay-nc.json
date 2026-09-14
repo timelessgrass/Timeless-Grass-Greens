@@ -64,7 +64,7 @@
       "kicker": "Confirm your lot is covered",
       "h2": "The 2016 covenants describe Phase I. Check that your lot is in it.",
       "paras": [
-        "The recorded covenants' Exhibit A describes the property they cover as Lots 1 through 70 of \"Sandpiper Bay Golf Plantation PUD,\" per two 1998 survey plats recorded in Brunswick County. The Town of Sunset Beach's own mosquito-control schedule names Sandpiper Bay as a neighborhood it sprays directly, alongside Cape Side and Wyndfall — evidence the Town services the community, though a spray route doesn't by itself establish that Sandpiper Bay sits inside the Town's corporate limits. If your address falls outside the platted Phase I lots, ask the HOA's management office which declaration and which exhibit actually apply to your property before you rely on anything in this page.",
+        "The recorded covenants' Exhibit A describes the property they cover as Lots 1 through 70 of \"Sandpiper Bay Golf Plantation PUD,\" per two 1998 survey plats recorded in Brunswick County. The Town of Sunset Beach's own <a href=\"https://sunsetbeachnc.gov/index.asp?DE=A7601380-D3C4-427E-B03E-DE3295BF00F3&SEC=01618413-240B-4A04-AFAC-7F6F705F1D0D\" target=\"_blank\" rel=\"nofollow noopener\">mosquito-control schedule</a> names Sandpiper Bay, Cape Side and Wyndfall on the same Monday spray route — evidence the Town services all three, though a shared spray route doesn't by itself establish that any of them sits inside the Town's corporate limits. Cape Side and Wyndfall aren't part of the platted Sandpiper Bay lots this declaration covers, so the Section 25 and fence rules above are Sandpiper Bay's, not automatically theirs. If your lot is in Cape Side or Wyndfall, or falls outside the platted Phase I lots, ask the HOA's management office which declaration, if any, actually applies to your property before you rely on anything in this page.",
         "Whether a Town of Sunset Beach permit applies here, on top of the ARC's review, depends on Sandpiper Bay's actual jurisdictional status, which we haven't confirmed against a boundary map or the Town's own statement. Ask the Town's permitting office directly before you plan around it; our <a href=\"/grand-strand/sunset-beach-nc/\">Sunset Beach page</a> covers the Town's stormwater and Fill and Grade permit rules if they apply. At the free visit, we measure the yard, check where water sits after rain, and put the turf area in writing so you can take one square-footage figure to whichever offices need it."
       ]
     }
@@ -98,6 +98,10 @@
     "carolina-shores-nc",
     "shallotte-nc",
     "little-river-sc"
+  ],
+  "foldedFrom": [
+    "cape-side-nc",
+    "wyndfall-nc"
   ],
   "sources": [
     {

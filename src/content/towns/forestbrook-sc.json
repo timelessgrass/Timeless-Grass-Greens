@@ -43,7 +43,10 @@
       "paras": [
         "The <a href=\"https://www.census.gov/quickfacts/fact/table/forestbrookcdpsouthcarolina/PST045225\" target=\"_blank\" rel=\"nofollow noopener\">Census Bureau identifies Forestbrook as a census-designated place</a>. Forestbrook Village is a townhome community marketed by <a href=\"https://www.lennar.com/new-homes/south-carolina/myrtle-beach/myrtle-beach/forestbrook-village/tidewater\" target=\"_blank\" rel=\"nofollow noopener\">Lennar</a>, while <a href=\"https://www.horrycountysc.gov/media/nhqe3dpj/171549-final-ecert.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Horry County property documentation</a> separately names Forestbrook Estates. Give the installer the street address and exact subdivision or association name. Do not borrow an approval rule because another community sounds similar.",
         "For an attached home, establish whether the proposed patch belongs to your lot, is a limited-use area, or is common property. Ask who can authorize a change and who maintains it. For a detached home, check the documents rather than assuming a fenced yard is unrestricted. This page does not establish blanket turf approval for either development.",
-        "If an application is required, ask the association what to submit. A marked plan, product information, edge details and a description of preparation are useful starting materials. Get the current instructions for your property."
+        "If an application is required, ask the association what to submit. A marked plan, product information, edge details and a description of preparation are useful starting materials. Get the current instructions for your property.",
+        "Osprey Cove, Osprey Woods, Park West, Parmalee, Pheasants Run, Pines of St. James, Southborough, Spring Forest, Springfield, Summer Lakes, Summerall Oaks, The Diamond, The Gates, The Lakes, The Meadows of St. Patrick, Victoria Station, Weslin Creek, Wilderness Plantation, Woodland Park and Wynbrooke all sit in unincorporated Horry County near Socastee and are part of the <a href=\"https://greaterburgesscommunity.org/about-us/\" target=\"_blank\" rel=\"nofollow noopener\">Greater Burgess Neighborhood Network</a>, which describes itself as 60 separate communities rather than a single association that sets landscaping or architectural rules. That means the county drainage, easement and flood-zone guidance already on this page reaches each of them the same way it reaches Forestbrook. If your subdivision has a separate HOA, get its current covenants or architectural guidelines before planning a layout.",
+        "Myrtle Beach Golf & Yacht Club, in Socastee Township, is governed by a declaration amended in December 1991 that requires written Architectural Review Board approval before any change to landscaping, topography or exterior features. If the board does not approve or disapprove a complete written request within 30 days, the <a href=\"https://mbgyc.com/images/pdfs/Covenants-and-Restrictions-for-website.pdf\" target=\"_blank\" rel=\"nofollow noopener\">declaration</a> treats it as approved. Confirm what the board currently wants submitted, and the timeline, before setting your turf plan.",
+        "Blackmoor (including its Marcliff section), International Club, Indigo Creek, Cypress River Plantation and Island Green sit further out along SC 707 in the Burgess area. The <a href=\"https://greaterburgesscommunity.org/about-us/\" target=\"_blank\" rel=\"nofollow noopener\">Greater Burgess Community Association</a> describes that area as unincorporated Horry County, and its <a href=\"https://greaterburgesscommunity.org/network-neighborhood/\" target=\"_blank\" rel=\"nofollow noopener\">neighborhood network list</a> names each of these five communities. That places them under the same county authority as Forestbrook, so the drainage, easement and flood-zone guidance already on this page reaches them the same way. Each one has its own property owners' association, so get its current covenants and architectural guidelines before planning a layout. Island Green is not a single HOA: its community services association describes itself as a voluntary cooperative of more than 25 separate HOAs, so the rules that apply are the individual HOA's, not one shared Island Green policy."
       ]
     },
     {
@@ -106,7 +109,36 @@
     "myrtle-beach-sc"
   ],
   "foldedFrom": [
-    "socastee-sc"
+    "socastee-sc",
+    "osprey-cove-sc",
+    "osprey-woods-sc",
+    "park-west-sc",
+    "parmalee-sc",
+    "pheasants-run-sc",
+    "pines-of-st-james-sc",
+    "southborough-sc",
+    "spring-forest-sc",
+    "springfield-sc",
+    "summer-lakes-sc",
+    "summerall-oaks-sc",
+    "the-diamond-sc",
+    "the-gates-sc",
+    "the-lakes-sc",
+    "the-meadows-of-st-patrick-sc",
+    "victoria-station-sc",
+    "weslin-creek-sc",
+    "wilderness-plantation-sc",
+    "woodland-park-sc",
+    "wynbrooke-sc",
+    "forestbrook-estates-sc",
+    "forestbrook-village-sc",
+    "myrtle-beach-golf-yacht-club-sc",
+    "blackmoor-sc",
+    "cypress-river-plantation-sc",
+    "indigo-creek-sc",
+    "international-club-sc",
+    "island-green-sc",
+    "marcliff-blackmoor-sc"
   ],
   "sources": [
     {
@@ -136,9 +168,25 @@
     {
       "label": "Horry County Code of Ordinances, Ch. 9, Art. III, Sec. 9-51 (General standards)",
       "url": "https://library.municode.com/sc/horry_county/codes/code_of_ordinances?nodeId=COOR_CH9FLDAPRCO_ARTIIIPRFLHARE_S9-51GEST"
+    },
+    {
+      "label": "Greater Burgess Community Association: About Us",
+      "url": "https://greaterburgesscommunity.org/about-us/"
+    },
+    {
+      "label": "Myrtle Beach Golf & Yacht Club: Covenants and Restrictions",
+      "url": "https://mbgyc.com/images/pdfs/Covenants-and-Restrictions-for-website.pdf"
+    },
+    {
+      "label": "Greater Burgess Community Association: Neighborhood Network",
+      "url": "https://greaterburgesscommunity.org/network-neighborhood/"
+    },
+    {
+      "label": "Island Green Community Services Association: About Us",
+      "url": "https://islandgreencsa.com/about"
     }
   ],
-  "checked": "2026-09-11",
+  "checked": "2026-09-13",
   "placeType": "Place",
   "publicReferences": []
 }
