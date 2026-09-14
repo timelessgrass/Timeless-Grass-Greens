@@ -116,6 +116,18 @@ export const SHOTS: Shot[] = [
     file: 'putting-green-at-sunset-wide.jpg',
     alt: 'A wide view of a backyard putting green at sunset',
     caption: 'The same green at sunset.' },
+
+  /* Commercial and facility work the client confirmed on 2026-09-14. Locations are not on file. */
+  { id: 'fin-10', kind: 'finished', ratio: '4/3',
+    brief: 'A fenced child care play yard with turf under the play structures, from above.',
+    file: 'daycare-play-yard-turf-aerial.jpg',
+    alt: 'An aerial view of a fenced play yard at a child care building, turf under the play structures, swings and shade sails',
+    caption: 'Turf under the play structures in a fenced child care play yard.' },
+  { id: 'fin-11', kind: 'finished', ratio: '3/4',
+    brief: 'A turf training strip inside a gym.',
+    file: 'indoor-gym-turf-training-strip.jpg',
+    alt: 'A turf training strip running the length of an indoor gym, beside hanging heavy bags and weight machines',
+    caption: 'A turf training strip along an indoor gym.' },
 ];
 
 /** Hero background: the first finished shot's image, real or stock (dev). */

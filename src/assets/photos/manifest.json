@@ -133,5 +133,23 @@
   "h": 2400,
   "ratio": 0.75,
   "kb": 730
+ },
+ {
+  "file": "daycare-play-yard-turf-aerial.jpg",
+  "alt": "An aerial view of a fenced play yard at a child care building, turf under the play structures, swings and shade sails",
+  "kind": "finished",
+  "w": 1024,
+  "h": 768,
+  "ratio": 1.333,
+  "kb": 238
+ },
+ {
+  "file": "indoor-gym-turf-training-strip.jpg",
+  "alt": "A turf training strip running the length of an indoor gym, beside hanging heavy bags and weight machines",
+  "kind": "finished",
+  "w": 480,
+  "h": 640,
+  "ratio": 0.75,
+  "kb": 51
  }
 ]

@@ -288,7 +288,7 @@ export const SERVICES: Service[] = [
       { icon: "clock", h: "Know the upkeep", p: "Plan cleaning and grooming around daily use, even where turf replaces mowing and lawn irrigation." },
     ],
     workHeading: 'Some of our work.',
-    work: ['ctx-1', 'fin-7', 'fin-9', 'det-2'],
+    work: ['fin-10', 'ctx-1', 'fin-7', 'det-2'],
     inclusions: [
       "A free visit to review the area and its intended use",
       "Turf and system options for the proposed commercial space",
@@ -360,7 +360,7 @@ export const SERVICES: Service[] = [
       { icon: "clock", h: "Plan for the season ahead", p: "Account for grooming, infill checks and cleaning. Surface condition and weather still affect when a field can be used." },
     ],
     workHeading: "Outdoor turf and green projects.",
-    work: ['ctx-2', 'fin-4', 'fin-7'],
+    work: ['fin-11', 'fin-4', 'fin-7'],
     inclusions: [
       "A free visit to discuss the sport, layout and work area",
       "Surface, pad and infill options for the proposed use",
@@ -432,7 +432,7 @@ export const SERVICES: Service[] = [
       { icon: "home", h: "Fit the existing floor", p: "Review the slab or rubber flooring, transitions and attachment method before deciding on the system." },
     ],
     workHeading: 'Some of our outdoor work.',
-    work: ['fin-9', 'det-2', 'fin-2'],
+    work: ['fin-11', 'fin-10', 'ctx-1'],
     inclusions: [
       "A free visit to measure the training space and review the existing floor",
       "Turf, pad and attachment options for the intended activities",
