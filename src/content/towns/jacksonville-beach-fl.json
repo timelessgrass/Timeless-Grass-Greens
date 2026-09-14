@@ -32,7 +32,8 @@
       "h2": "Start above the shoreline conditions.",
       "paras": [
         "Show the seawall or bulkhead, service access and any water collecting after rain. Bring recorded property and drainage information so the intended work can be assessed without assuming a new surface will resolve canal-side water problems.",
-        "Jacksonville Beach is separate from Jacksonville and has its own local review. Ask about the complete proposal, including grading and lot coverage. For a community such as The Sanctuary, obtain its current requirements separately and include any delivery restrictions in the estimate."
+        "Jacksonville Beach is separate from Jacksonville and has its own local review. Ask about the complete proposal, including grading and lot coverage. For a community such as The Sanctuary, obtain its current requirements separately and include any delivery restrictions in the estimate.",
+        "On a lot fronting the Atlantic, Florida's <a href=\"https://www.flsenate.gov/Laws/Statutes/2024/161.053\" target=\"_blank\" rel=\"nofollow noopener\">Coastal Construction Control Line</a> (Fla. Stat. 161.053) bars building, excavation or altered ground elevations seaward of the line except as the statute allows. The <a href=\"https://floridadep.gov/rcp/coastal-construction-control-line\" target=\"_blank\" rel=\"nofollow noopener\">DEP's CCCL program</a> puts landscaping, decks and walkovers on a general-permit track, not an automatic pass. Check your lot against DEP's line before placing a turf lawn, green or pool surround near the dune; see our <a href=\"/guides/oceanfront-turf-cccl-and-beachfront-setback/\">oceanfront CCCL guide</a> for the rest."
       ]
     },
     {
@@ -147,8 +148,16 @@
     {
       "label": "Ch. 2026-63, Laws of Florida (HB 803)",
       "url": "https://www.nassaucountyfl.com/DocumentCenter/View/31830/Chapter-2026-63-HB803"
+    },
+    {
+      "label": "Fla. Stat. 161.053: Coastal Construction Control Line",
+      "url": "https://www.flsenate.gov/Laws/Statutes/2024/161.053"
+    },
+    {
+      "label": "Florida DEP: Coastal Construction Control Line Program",
+      "url": "https://floridadep.gov/rcp/coastal-construction-control-line"
     }
   ],
-  "checked": "2026-09-07",
+  "checked": "2026-09-13",
   "publicReferences": []
 }

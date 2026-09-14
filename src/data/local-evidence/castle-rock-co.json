@@ -1,0 +1,19 @@
+{
+  "intent": "Inside a named Castle Rock HOA, what does that association's own design guidelines actually require for artificial turf, on top of whatever the Town allows?",
+  "distinctValue": "Castlewood Ranch is the one named subdivision in this batch with a readable HOA design-guidelines document. Its own text sets a face-weight floor for artificial turf that the Town's ColoradoScape rule never mentions: 65 oz. minimum in the front yard, 50 oz. in the back, professionally installed. That is additional to, not instead of, the Town's no-front-yard / 500-square-foot-back rule for homes permitted after 1 January 2023 already on the page.",
+  "sources": [
+    {
+      "label": "Castlewood Ranch Design Guidelines (adopted 29 April 2000, amended 9 February 2021)",
+      "url": "https://static1.squarespace.com/static/5c76b2a9e8ba44187ba47659/t/612120d04b9a7537417ca914/1629561042900/Covenants+Castlewood+Ranch+Guidelines+2021-+Upton+Ct.pdf",
+      "checked": "2026-09-14",
+      "supports": [
+        "Adopted April 29, 2000",
+        "Amended February 9, 2021",
+        "Artificial turf is permitted. It must be a minimum of 65 oz. face weight (front yard) and 50 oz. (backyard) and professionally installed."
+      ]
+    }
+  ],
+  "unresolved": [
+    "The guidelines list named artificial-turf and seed products by brand; the page must not reproduce that list (site rule: no product or vendor names)."
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "intent": "A buyer inside St. Johns Golf & Country Club or RiverTown wants to know who actually governs a turf or putting-green layout on their lot, and whether their own community's rule is different from the county- and state-level rules the rest of the St. Johns page already covers.",
+  "distinctValue": "The rest of the page covers the county (no turf rule) and the state DEP standard (pond setback, no county ban on a lot of an acre or less). Two named communities inside St. Johns depart from that in opposite directions worth calling out by name. St. Johns Golf & Country Club's own Architectural Guidelines, effective 15 November 2010 under Declaration Article IV, Section 4.3, ban artificial grass outright (4(d): \"No artificial grass, trees, plants or vegetation are permitted on the exterior of a lot or structure\") and require St. Augustine sod (4(c)). Fla. Stat. 720.3045 still keeps that ban from reaching turf outside the street, adjoining-lot, common-area and golf-course sightlines, so the page explains what's still possible rather than treating the ban as absolute. The club's amenities are run separately by the Sampson Creek Community Development District, which is the community's SB 1180 CDD note: a CDD enforcing its own deed restrictions sits outside the 720.3045 sightline protection. RiverTown, named in the page's existing governance block alongside Aberdeen, Durbin Crossing and Shearwater, has its own reviewing body worth naming: Rivertown Community Association Inc., which publishes its own ARB Guidelines and ARB application on its public site.",
+  "sources": [
+    {
+      "label": "St. Johns Golf & Country Club: Architectural Guidelines, effective 15 November 2010",
+      "url": "https://stjohnsgcc.org/wp-content/uploads/2018/11/AdoptedARB-Guidelines-2010.pdf",
+      "checked": "2026-09-13",
+      "supports": [
+        "\"These Guidelines, effective November 15, 2010, are provided in accordance with Article IV, Section 4.3 of the Declaration of Covenants, Conditions and Restrictions for St. Johns Golf and Country Club.\"",
+        "Section 4, Turf Requirements, 4(c): \"To insure a consistent turf color and texture within the community, St. Augustine sod must be used.\"",
+        "Section 4, Turf Requirements, 4(d): \"No artificial grass, trees, plants or vegetation are permitted on the exterior of a lot or structure.\"",
+        "Section 1(c): \"Dog runs, dog kennels, or similar outdoor animal caging are not permitted.\""
+      ]
+    },
+    {
+      "label": "St. Johns Golf & Country Club: Architectural Review Application",
+      "url": "https://www.stjohnsgcc.org/wp-content/uploads/2021/08/CURRENT_ARB_Application_HOA.pdf",
+      "checked": "2026-09-13",
+      "supports": [
+        "\"All submittals are required to be turned in the Friday prior to the monthly Architectural Review Meeting.\"",
+        "Application fields cover fencing, landscaping or removal of landscaping, play equipment and pools, addressed \"TO: St. Johns Golf & Country Club\" and reviewed by the \"Architectural Review Committee.\""
+      ]
+    },
+    {
+      "label": "Sampson Creek Amenity Center Policies, 2026",
+      "url": "https://www.stjohnsgcc.org/wp-content/uploads/2026/02/SJGCC-Policies-02.20.26.pdf",
+      "checked": "2026-09-13",
+      "supports": [
+        "Title page: \"SAMPSON CREEK AMENITY CENTER POLICIES.\"",
+        "\"'Property Owner' shall mean any individual who owns real property within the Sampson Creek CDD.\"",
+        "\"The above Policies were amended and adopted by the Sampson Creek Community\" ... \"Sampson Creek CDD\", identifying the district, not the golf and country club association, as the body that runs the amenity center.",
+        "\"The Sampson Creek Community Development District (the 'District'), pursuant to Chapter 190,\" Florida Statutes."
+      ]
+    },
+    {
+      "label": "Rivertown Community Association Inc.",
+      "url": "https://www.rivertowncommunity.com/default.php",
+      "checked": "2026-09-13",
+      "supports": [
+        "Site title: \"Rivertown Community Association Inc.\"",
+        "Main navigation lists, under Community Documents: \"ARB Guidelines\" and \"ARB Application\" as published pages of the association's own site."
+      ]
+    }
+  ]
+}

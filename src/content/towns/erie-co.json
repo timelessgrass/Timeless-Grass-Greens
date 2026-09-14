@@ -62,7 +62,8 @@
       "h2": "Nearly every subdivision has an HOA, and the back yard is still yours.",
       "paras": [
         "Outside Old Town, almost every Erie home sits in an HOA, and most sit inside a metro district too. For detached homes, Colorado law is clear on three points: nonvegetative turf out back can't be banned, hardscape can't be pushed past 20% of the landscaped area without good reason, and a mostly drought-tolerant option has to be offered (<a href=\"https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SB23-178</a>). Attached homes and condos aren't covered.",
-        "Most Erie HOAs want an architectural submission before any landscape change. The custom layout you approve before work starts is the drawing to send them, so the board sees exactly what's going in."
+        "Colliers Hill shows what that looks like in writing. Its Master Association's Aesthetic Provisions Pertaining to Water-Wise Landscaping for detached homes, adopted by board resolution on 1 August 2023, require written approval from the Architectural Control Committee before nonvegetative turf goes in, and the plans have to state the turf's type, color, manufacturer, model, dimensions and placement (<a href=\"https://pcms.net/wp-content/uploads/2026/04/Aesthetic-Provisions-Pertaining-to-Water-Wise-Landscaping-Detached.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Colliers Hill Master Association</a>). The Committee must also preapprove any of the three SB23-178 water-wise garden designs and weigh Article 5I of the recorded Declaration and the community's Design Guidelines. The provisions only reach rear-yard nonvegetative turf, and they don't mention putting greens at all, so ask the Committee directly if a green is part of the plan. This resolution doesn't cover Vista Ridge or other Erie communities — check which document governs your own HOA before you submit.",
+        "The custom layout you approve before work starts is the drawing to send your own architectural committee, so the board sees exactly what's going in."
       ]
     }
   ],
@@ -109,6 +110,10 @@
       "url": "https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf"
     },
     {
+      "label": "Colliers Hill Master Association: Aesthetic Provisions Pertaining to Water-Wise Landscaping for Single Family Detached Common Interest Communities (adopted 1 August 2023)",
+      "url": "https://pcms.net/wp-content/uploads/2026/04/Aesthetic-Provisions-Pertaining-to-Water-Wise-Landscaping-Detached.pdf"
+    },
+    {
       "label": "Colorado National Golf Club",
       "url": "https://www.coloradonationalgolfclub.com/"
     },
@@ -133,6 +138,6 @@
       "url": "https://www.erieco.gov/1519/Parks-Recreation"
     }
   ],
-  "checked": "2026-09-07",
+  "checked": "2026-09-14",
   "publicReferences": []
 }

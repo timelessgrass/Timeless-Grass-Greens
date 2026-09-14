@@ -1,0 +1,48 @@
+{
+  "intent": "Inside Marsh Landing, does turf need architectural-committee approval, and does the county's 'Registered Notice Association' status give owners a way around that committee?",
+  "distinctValue": "The Marsh Landing Master Association's own public Architectural Review page states that an application is required of 'all exterior modifications, including like-for-like replacements and tree removals,' which reaches a lawn-to-turf swap or a tree cleared for a green even though the page never names turf specifically. The ARB judges applications against its ARB Green Book, 2024 Edition Revision 4 (July 2024), and Marsh Landing Management coordinates the review. Separately, the page discloses that in February 2011 the ARB became a St. Johns County 'Registered Notice Association,' a status the county created in June 2010 requiring every HOA to declare itself either a Registered Approval Association or a Registered Notice Association. Under Notice status, the county will issue a building permit without ARB-stamped plans if the owner files a signed affidavit that the ARB received the identical application at least 30 days earlier, a delivery receipt, and a statement acknowledging the civil-liability risk of violating the covenants. That is a mechanism for getting a county permit, not a waiver of the ARB's own approval, and the page presents it that way rather than as a way around the committee.",
+  "sources": [
+    {
+      "label": "Marsh Landing Master Association: Architectural Review (ARB)",
+      "url": "https://www.marshlandinghoa.com/info.php?pnum=57",
+      "checked": "2026-09-13",
+      "supports": [
+        "The purpose of the Architectural Review Board (ARB) is to protect the aesthetic quality of the environment at the design level by controlling specifications, architecture, design, appearance, location, landscaping, and alterations or modifications of all buildings and structures located within the Association.",
+        "Application is required of all exterior modifications, including like-for-like replacements and tree removals.",
+        "ARB activities are coordinated by Marsh Landing Management.",
+        "ARB Green Book 2024 Edition Revision 4, July 2024",
+        "ARB meets on the 1st and 3rd Tuesday of each month, 2:00 p.m. unless otherwise noted in Agenda below.",
+        "Registered Notice Association: In February 2011 the Architectural Review Board's (ARB) standing in St Johns County was modified to become what is known as a Registered Notice Association. In June of 2010 St Johns County issued new regulations. These require that each Homeowners Association declare to the County whether is is a Registered Approval Association or a Registered Notice Association.",
+        "After careful consideration, discussion with legal counsel and the Master Board, the ARB is now officially a Registered Notice Association.",
+        "The new regulation also allows property owners to apply to the County for a permit to build or modify their residences absent a stamped set of plans approved by the ARB. Should that occur, the County requires: 1. A signed affidavit swearing that the ARB did in fact receive the same application at least 30 days prior. 2. A copy of the receipt showing that it was delivered to the Association. 3. Documentation from the homeowners that they are aware that they are in an association governed by the ARB and that they accept the risks of civil liability should they violate the Covenants and Restrictions. 4. An extra copy of the plans with a stamped envelope that the County will use to send the plans to the ARB."
+      ]
+    },
+    {
+      "label": "Ponte Vedra Zoning District Regulations, Section VIII.U: Tree Protections (Ordinance 2020-38, updated July 2025)",
+      "url": "https://www.sjcfl.us/wp-content/uploads/2026/02/PVZDR-Code.pdf",
+      "checked": "2026-09-14",
+      "supports": [
+        "U. Tree Protections",
+        "1. Purpose and Intent. The provisions of this Section are established for the protection and preservation of oak, hickory, magnolia and other Protected Trees on residential lots in the Ponte Vedra Zoning District.",
+        "2. Applicability. All existing, proposed and reconfigured residential lots within the Ponte Vedra Zoning District shall be subject to the provisions of this Section.",
+        "3. Relationship to Land Development Regulations. The provisions of this Section of the Ponte Vedra Zoning Regulations shall be in addition to Article IV, St. Johns County Land Development Code, and applicable solely to existing, proposed or reconfigured residential lots within the Ponte Vedra Zoning District. In the case of any conflict between this Section and Article IV, Land Development Code, the provisions of this Section shall prevail.",
+        "Protected Tree: Any Tree having a Diameter at Breast Height of ten (10) inches or greater, excluding Exempt Trees.",
+        "Specimen Tree: A Specimen Tree is any Protected Tree with a DBH of thirty (30) inches or greater.",
+        "a. Permits required. No person shall, directly or indirectly, cut down, destroy, remove, or effectively destroy by damaging, any Protected Tree on existing, proposed or reconfigured residential lots in the Ponte Vedra Zoning District without first obtaining Site Plan approval and a Protected Tree Removal Permit, as provided for herein.",
+        "d. Expiration of Protected Tree Removal Permits. A Protected Tree Removal Permit shall expire six (6) months of the date of issuance.",
+        "5. Appeals. When a Protected Tree Removal permit has been denied by the County Administrator, the property owner or agent may appeal this decision to the Ponte Vedra Zoning and Adjustment Board (PVZAB).",
+        "b. No mitigation shall be required pursuant to a Protected Tree Removal Permit for removal of Protected Trees whose trunk at ground level is wholly or partially located within five (5) feet of, and including, an existing or proposed Building Footprint of a principal building, driveway less than or equal to eight hundred (800) square feet or along a perimeter fence line.",
+        "c. Mitigation for Protected Trees removed pursuant to a Protected Tree Removal Permit whose trunk at ground level is wholly or partially located within five (5) feet of, and including, the footprint of a pool, patio, gazebo, sidewalk, driveway, accessory building or structure or other similar improvement shall consist of replacement on-site of one (1) inch DBH for each one (1) inch DBH removed, with a minimum replacement tree size of two (2) inches DBH.",
+        "d. Mitigation for all other Protected Trees removed pursuant to a Protected Tree Removal Permit shall consist of replacement on-site of two (2) inches DBH for each one (1) inch DBH removed, with a minimum replacement tree size of four (4) inches DBH.",
+        "f. Mitigation for Protected Trees removed pursuant to an After-the-Fact Compliance and Mitigation Permit that otherwise would require mitigation shall consist of twice the required mitigation for a Protected Tree Removal Permit, as provided for herein, with a minimum replacement tree size of four (4) inches DBH.",
+        "g. If the site is not of sufficient size to reasonably allow for replacing all the Protected Tree inches lost, as determined by the County Administrator, a one hundred dollar ($100) per lost Tree inch deficiency charge for mitigation not capable of being performed on-site shall be paid into the St. Johns County Tree Bank Fund.",
+        "History Ordinance Number 2020-38, Updated July 2025."
+      ]
+    }
+  ],
+  "unresolved": [
+    "The ARB page never names artificial turf, synthetic turf, or lawn replacement specifically; the application requirement is read from its general 'all exterior modifications, including like-for-like replacements' language, and the page tells the reader to confirm the current Green Book standards and application process with the Association before finalizing a layout.",
+    "No fee amounts (the ARB's Fee Schedule form) are used, per the site's no-prices rule.",
+    "The page's prior PVZDR source (sjcfl.us/.../pvzdr-code-update-jan25.withtitlepage.pdf) returned 404 on 2026-09-14; replaced with the current live document at sjcfl.us/wp-content/uploads/2026/02/PVZDR-Code.pdf, confirmed 200 and containing the same Section VIII.U Tree Protections text (footer dated 'Updated July 2025'). Whether The Plantation sits inside the Ponte Vedra Zoning District remains unconfirmed by the county, so it stays unnamed in connection with this rule, per the build plan's owner decision."
+  ]
+}

@@ -52,6 +52,17 @@
         "General FDPs allow certain projects and uses to take place without the need for an Individual Floodplain Development Permit",
         "Individual permits are required for all development in the floodplain that is not covered under a General Floodplain Development Permit"
       ]
+    },
+    {
+      "label": "City of Boulder: Landmark Alteration Certificate application and review",
+      "url": "https://bouldercolorado.gov/services/landmark-alteration-certificate-application-and-review",
+      "checked": "2026-09-14",
+      "supports": [
+        "An LAC is not required for landscaping but is required for paving and hardscaping and the removal of mature trees.",
+        "Fences, decks, deck railings, bike racks/e-bike stations, regrading, retaining walls, outdoor kitchens, pools and spas, skylights.",
+        "Site Plan - Side-by-side measured drawings of the property showing existing and proposed location of buildings, fences and mature trees.",
+        "A common misconception is that the review requirement is based on the age of a building. However, an LAC is required for all properties within a historic district, including newer buildings."
+      ]
     }
   ]
 }

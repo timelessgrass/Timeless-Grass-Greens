@@ -53,6 +53,7 @@
       "paras": [
         "An Anastasia Island address can fall under three governments. Davis Shores and Lighthouse Park are inside the City of St. Augustine, where the historic districts need a certificate of appropriateness and the city's tree rules apply. The incorporated beach is the City of St. Augustine Beach, with an impervious cap of 0.40 on low-density lots and a permit needed to remove a tree (<a href=\"https://www.zoneomics.com/code/st-augustine-beach-FL/chapter_6\" target=\"_blank\" rel=\"nofollow noopener\">St. Augustine Beach code</a>).",
         "Butler Beach, Crescent Beach and the rest of the island are unincorporated St. Johns County, with no city architectural board and no city impervious cap. Gated communities add a layer of their own: Marsh Creek and Sea Colony carry private deed restrictions. Find out which applies to your address first; it changes the paperwork more than the turf.",
+        "Marsh Creek, the gated community in unincorporated St. Johns County, doesn't ban artificial grass outright. Its <a href=\"http://www.actiontitlestjohns.com/communitydocs/Marshcreek.pdf\" target=\"_blank\" rel=\"nofollow noopener\">declaration</a>, amended 20 May 1997, requires the Architectural Review Board's approval before any artificial grass, plants or other artificial vegetation goes on a lot — an application decides it, not a blanket rule. A lot that borders the community golf course also carries a separate easement for ordinary play, and the same declaration requires fencing or improvements next to the course to be strictly reviewed so they don't interfere with a shot, worth knowing before you plan a green's outline or fence line on a course-side lot. Fla. Stat. 720.3045 keeps an association from blocking turf that meets Florida's standard on the part of a lot no one can see from the frontage, the next lot, a common area or a community golf course; on a course-side lot, whether a green would be visible from play is exactly what the ARB decision turns on. Confirm the current rule with the association before you design one.",
         "One state law holds across all three: a city or county can't ban turf that meets Florida's standard on a single-family parcel up to an acre (<a href=\"https://www.flsenate.gov/Laws/Statutes/2025/0125.572\" target=\"_blank\" rel=\"nofollow noopener\">Fla. Stat. 125.572</a>)."
       ]
     },
@@ -83,7 +84,7 @@
     },
     {
       "q": "Are there HOAs on the island?",
-      "a": "Some. Coverage runs from none in Davis Shores, Lighthouse Park and most of Butler Beach to strict rules in Marsh Creek and Sea Colony. Where an HOA governs, Florida law bars it from restricting turf that no one can see from the frontage, the lot next door, a common area or a community golf course (<a href=\"https://www.flsenate.gov/Laws/Statutes/2025/720.3045\" target=\"_blank\" rel=\"nofollow noopener\">Fla. Stat. 720.3045</a>)."
+      "a": "Some. Coverage runs from none in Davis Shores, Lighthouse Park and most of Butler Beach to an ARB approval requirement in Marsh Creek and strict rules in Sea Colony. Where an HOA governs, Florida law bars it from restricting turf that no one can see from the frontage, the lot next door, a common area or a community golf course (<a href=\"https://www.flsenate.gov/Laws/Statutes/2025/720.3045\" target=\"_blank\" rel=\"nofollow noopener\">Fla. Stat. 720.3045</a>)."
     },
     {
       "q": "When the shortage order ends, how often can I water?",
@@ -140,8 +141,15 @@
     {
       "label": "St. Johns River Water Management District: watering restrictions",
       "url": "https://www.sjrwmd.com/wateringrestrictions/"
+    },
+    {
+      "label": "Marsh Creek Declaration of Covenants, Conditions, Restrictions and Easements",
+      "url": "http://www.actiontitlestjohns.com/communitydocs/Marshcreek.pdf"
     }
   ],
-  "checked": "2026-09-07",
+  "foldedFrom": [
+    "marsh-creek-fl"
+  ],
+  "checked": "2026-09-13",
   "publicReferences": []
 }

@@ -33,6 +33,7 @@
       "h2": "Identify who controls the proposed space.",
       "paras": [
         "In communities such as RiverTown, Aberdeen, Durbin Crossing and Shearwater, private-lot and amenity projects can have different governing bodies. Confirm who controls the exact space and can authorize the work before requesting a shared-area scope.",
+        "In RiverTown, that reviewing body is the <a href=\"https://www.rivertowncommunity.com/default.php\" target=\"_blank\" rel=\"nofollow noopener\">Rivertown Community Association Inc.</a>, which publishes its own ARB Guidelines and ARB application. A RiverTown owner takes a lawn, pet-area or putting-green layout to that association before work starts, not to a citywide office.",
         "For a district dog park or other activity area, describe traffic, maintenance, equipment and access during the work. Do not apply a single-family turf standard to a commercial or common-area project without checking the requirements for that use."
       ]
     },
@@ -43,7 +44,8 @@
       "paras": [
         "St. Johns is unincorporated, so county rules apply, and the county's Land Development Code never mentions artificial turf (<a href=\"https://www.sjcfl.us/wp-content/uploads/2024/01/entire-ldc-march-4-2025.pdf\" target=\"_blank\" rel=\"nofollow noopener\">St. Johns County LDC</a>). Since 19 May 2026 it couldn't ban compliant turf on a single-family lot of an acre or less anyway (<a href=\"https://www.flsenate.gov/Laws/Statutes/2025/0125.572\" target=\"_blank\" rel=\"nofollow noopener\">Fla. Stat. 125.572</a>). What the state's standard asks for is permeable turf, with every edge and seam anchored against wind and flooding.",
         "Water is the line that moves layouts here. The same standard keeps turf out of swales, ditches and stormwater ponds, and back from the edge of any lake, pond or creek (<a href=\"https://flrules.org/gateway/RuleNo.asp?ID=62-308.100\" target=\"_blank\" rel=\"nofollow noopener\">DEP Rule 62-308.100</a>). In RiverTown, Aberdeen and Shearwater a great many back fences face water, so the custom layout you approve before work starts is where that line gets drawn.",
-        "Your HOA is a separate matter, because the state rule binds the county, not associations. An association can't restrict turf nobody can see from the street, a neighbouring lot, a common area or a community golf course (<a href=\"https://www.flsenate.gov/Laws/Statutes/2025/720.3045\" target=\"_blank\" rel=\"nofollow noopener\">Fla. Stat. 720.3045</a>), so a yard open to a lake path or a Cimarrone fairway may fall outside that protection. Our <a href=\"/guides/florida-friendly-landscaping-and-hoas/\">guide to turf and Florida HOAs</a> covers the rest."
+        "Your HOA is a separate matter, because the state rule binds the county, not associations. An association can't restrict turf nobody can see from the street, a neighbouring lot, a common area or a community golf course (<a href=\"https://www.flsenate.gov/Laws/Statutes/2025/720.3045\" target=\"_blank\" rel=\"nofollow noopener\">Fla. Stat. 720.3045</a>), so a yard open to a lake path or a Cimarrone fairway may fall outside that protection. Our <a href=\"/guides/florida-friendly-landscaping-and-hoas/\">guide to turf and Florida HOAs</a> covers the rest.",
+        "St. Johns Golf & Country Club goes further than a sightline test: its Architectural Guidelines, effective 15 November 2010, require St. Augustine sod and state plainly that no artificial grass is permitted on the exterior of a lot (<a href=\"https://stjohnsgcc.org/wp-content/uploads/2018/11/AdoptedARB-Guidelines-2010.pdf\" target=\"_blank\" rel=\"nofollow noopener\">St. Johns Golf & Country Club Architectural Guidelines</a>). Fla. Stat. 720.3045 still keeps that ban from reaching turf that can't be seen from the street, an adjoining lot, a common area or the club's golf course, so a pet area or putting green sited fully outside those sightlines can still be possible; a siting plan goes to the association through its <a href=\"https://www.stjohnsgcc.org/wp-content/uploads/2021/08/CURRENT_ARB_Application_HOA.pdf\" target=\"_blank\" rel=\"nofollow noopener\">architectural review application</a>, submitted ahead of the monthly ARC meeting. The club's amenities are a separate matter again, run by the Sampson Creek Community Development District under its own <a href=\"https://www.stjohnsgcc.org/wp-content/uploads/2026/02/SJGCC-Policies-02.20.26.pdf\" target=\"_blank\" rel=\"nofollow noopener\">2026 policies</a>; a CDD enforcing its own deed restrictions sits outside the state's sightline protection, so confirm the community's current rules with the association before a layout is set."
       ]
     },
     {
@@ -93,6 +95,10 @@
     {
       "q": "Is St. Johns the same as St. Johns County?",
       "a": "No. St. Johns is the community name on ZIP 32259 addresses, mostly the newer half along CR-210, Race Track Road and St. Johns Parkway. St. Johns County is the county around it, and the St. Johns River runs along the community's western edge. The older half of the ZIP, around Julington Creek Plantation, usually goes by Fruit Cove."
+    },
+    {
+      "q": "Can I install artificial turf in St. Johns Golf & Country Club?",
+      "a": "Not on any part of the lot visible from the street, a neighboring lot, a common area or the golf course. The community's own Architectural Guidelines, effective 15 November 2010, require St. Augustine sod and prohibit artificial grass outright (<a href=\"https://stjohnsgcc.org/wp-content/uploads/2018/11/AdoptedARB-Guidelines-2010.pdf\" target=\"_blank\" rel=\"nofollow noopener\">St. Johns Golf & Country Club Architectural Guidelines</a>). Fla. Stat. 720.3045 protects turf placed fully out of those sightlines, so a pet area or putting green tucked behind the house can still be worth reviewing. Confirm the community's current rules with the association before a layout is set."
     }
   ],
   "nearby": [
@@ -100,6 +106,9 @@
     "fruit-cove-fl",
     "switzerland-fl",
     "nocatee-fl"
+  ],
+  "foldedFrom": [
+    "st-johns-golf-and-country-club-fl"
   ],
   "sources": [
     {
@@ -145,9 +154,25 @@
     {
       "label": "USDA NRCS Soil Data Access",
       "url": "https://sdmdataaccess.nrcs.usda.gov/"
+    },
+    {
+      "label": "St. Johns Golf & Country Club: Architectural Guidelines, effective 15 November 2010",
+      "url": "https://stjohnsgcc.org/wp-content/uploads/2018/11/AdoptedARB-Guidelines-2010.pdf"
+    },
+    {
+      "label": "St. Johns Golf & Country Club: Architectural Review Application",
+      "url": "https://www.stjohnsgcc.org/wp-content/uploads/2021/08/CURRENT_ARB_Application_HOA.pdf"
+    },
+    {
+      "label": "Sampson Creek Amenity Center Policies, 2026",
+      "url": "https://www.stjohnsgcc.org/wp-content/uploads/2026/02/SJGCC-Policies-02.20.26.pdf"
+    },
+    {
+      "label": "Rivertown Community Association Inc.",
+      "url": "https://www.rivertowncommunity.com/default.php"
     }
   ],
-  "checked": "2026-09-07",
+  "checked": "2026-09-13",
   "publicReferences": [
     "https://flrules.org/gateway/RuleNo.asp?ID=62-308.100"
   ]

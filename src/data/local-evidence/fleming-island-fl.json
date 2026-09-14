@@ -1,0 +1,36 @@
+{
+  "intent": "Fleming Island Plantation and Eagle Harbor each publish their own landscape rule for artificial grass. What does each rule actually say, and what does that mean for a turf or putting-green project?",
+  "distinctValue": "The page previously implied Fleming Island Plantation turf just needed a BAR application. Its own guidelines, Revision N, ban artificial grass outright at 5.13.4, so the only path left is Florida's own-lot exception, and even that only where the turf is fully out of sight of the frontage, adjacent parcels, adjacent common areas and the community golf course. Eagle Harbor, under a different CDD and its own ARC, takes a different approach: a percentage-of-lot sod cap by lot type, never naming artificial turf at all, so a buyer there needs the ARC's own answer on whether turf counts toward that cap.",
+  "sources": [
+    {
+      "label": "Fleming Island Plantation: BAR Residential Guidelines, Revision N",
+      "url": "https://www.flemingislandplantationowners.com/wp-content/uploads/sites/46/2025/01/Copy-of-BARguidelinesRevN-draft-1.pdf",
+      "checked": "2026-09-13",
+      "supports": [
+        "5.13.4 Artificial Vegetation: \"No artificial grass, plants, flowers or other artificial vegetation or sculptural landscape décor shall be placed on the exterior portion of any lot.\"",
+        "Site grading section: \"All homes abutting drainage/water retention areas/ponds must have St. Augustine sod installed down to the normal water level.\""
+      ]
+    },
+    {
+      "label": "Fla. Stat. 720.3045",
+      "url": "https://www.flsenate.gov/Laws/Statutes/2024/720.3045",
+      "checked": "2026-09-13",
+      "supports": [
+        "Bars a homeowners' association from restricting a parcel owner's use of, among other things, artificial turf, where the item is not visible from the frontage of the parcel, an adjacent parcel, or an adjacent common area, and is not visible from an adjoining golf course."
+      ]
+    },
+    {
+      "label": "Eagle Harbor: ARC Residential Guidelines, Revision 19",
+      "url": "https://www.eagleharborassociation.com/pdf.php?lFileID=96362",
+      "checked": "2026-09-13",
+      "supports": [
+        "Revision history: \"Revision 19 dated 1 February 2023.\"",
+        "\"All sod shall be the St. Augustine variety or may be Zoysia or Bermuda variety so long as a Landscape Design Change Application has been completed, reviewed, and approved by the Architectural Review Committee (ARC) prior to installation.\"",
+        "\"Sand, white rock, large wood chips, plastic sheeting and similar materials shall not be considered an acceptable alternative to grass, ground cover or mulch unless otherwise approved by the ARC.\"",
+        "\"Sod shall comprise no more than the amount listed below of the total open space area of the lot, including paved areas. Lot Designation/Size / Maximum Sod Coverage: 'A' & 'E' Lots 90' x 100' (minimum) 60%; 'B' Lots 80' x 100' (minimum) 65%; 'C' Lots 70' x 100' (minimum) 75%; 'D' & 'F' Lots 45' x 70' (minimum) 75%.",
+        "\"Each lot shall be provided with at least a 50% tree canopy, of the total open space, through the preservation of existing trees and the planting of new canopy trees.\"",
+        "Revision log: \"Revision 10 dated 1 May 2017. Added Subparagraph G. Pond Bank Erosion to III.9 Landscaping Design Standards and added Attachment 18, MEMO ... Subject: Restoration of Pond Bank Procedures.\""
+      ]
+    }
+  ]
+}

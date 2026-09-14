@@ -1,0 +1,29 @@
+{
+  "intent": "Columbine Valley is split among 12 separate HOAs with no covenant kept by the Town, so which association's rules apply and what its own approval process requires before a turf or putting-green plan reaches the Town for a building permit.",
+  "distinctValue": "The Town's own HOA page confirms Columbine Valley has no single governing covenant: 12 associations, membership tied to the nearest one, and no documents or services provided by the Town itself. For the original Old Town area, the Columbine Valley Homeowners Association's own regulations page dates its two governing documents (1955/1996 and 2006) and states plainly that its Architectural Committee must approve plans before the Town will issue a building permit. The page's review fee and its committee chairperson's name, phone and email are excluded from the site under the no-fees and no-private-individuals rules.",
+  "sources": [
+    {
+      "label": "Town of Columbine Valley: HOAs",
+      "url": "https://columbinevalley.org/hoa/",
+      "checked": "2026-09-14",
+      "supports": [
+        "Columbine Valley is made up of strong neighborhood communities governed by 12 Homeowner Associations (HOAs). All residents are required to belong to the association nearest their home.",
+        "The Town does not maintain current documents or provide any services directly to the HOAs. The covenants for each association are different, so residents should have a copy of their own covenant to see what is allowed.",
+        "Listed HOA: Columbine Valley (Old Town), with a linked website www.columbinevalleyHOA.org."
+      ]
+    },
+    {
+      "label": "Columbine Valley Homeowners Association: HOA regulations",
+      "url": "https://columbinevalleyhoa.org/hoa-regulations",
+      "checked": "2026-09-14",
+      "supports": [
+        "Columbine Valley Homeowners Association has adopted the following Use & Building Restrictions, as well as Rules & Regulations to guide the look and feel of the community.",
+        "Use & Building Restrictions: Originally adopted in 1955 and amended in 1996, these restrictions guide the architectural design in the Columbine Valley Homeowners Association community.",
+        "Rules & Regulations: Adopted in 2006, these rules and regulations supplement the original Use & Building Restrictions document above.",
+        "Prior to receiving a building permit from the Town of Columbine Valley, homeowners must first submit plans to the Columbine Valley Homeowners Association's Architectural Committee (ACC) for approval. This long-standing committee is responsible for reviewing and approving Columbine Valley \"Old Town\" homeowner building and remodeling plans.",
+        "Following approval of building plans by the ACC, homeowners may submit plans to the Town of Columbine Valley for review and approval. Once receiving approval by the Town, a building permit will be issued.",
+        "Excluded from site copy per the no-fees and no-private-individuals rules: the page also names the ACC chairperson with a phone number and email, and lists a $100/$250 review fee tied to construction cost."
+      ]
+    }
+  ]
+}

@@ -2691,6 +2691,14 @@ export const GUIDES: Guide[] = [
         ]
       },
       {
+        "h2": "Ponte Vedra Zoning District: its own tree section, and the 1-acre exemption does not apply",
+        "body": [
+          "The Ponte Vedra Zoning District carries its own tree rules on top of Article IV. Ordinance 2020-38, Section VIII.U, sets a lower Protected Tree threshold there — 10 inches DBH, instead of the county's 8-inch threshold — and reaches every existing, proposed or reconfigured residential lot in the district. Section VIII.U.3 states this section applies in addition to Article IV, and that its provisions prevail where the two conflict. Article IV's exemption for a single-family home site on a lot of 1 acre or less does not carry into the district: a Protected Tree Removal Permit is required there regardless of lot size.",
+          "Mitigation depends on where the trunk sits. No mitigation is owed for a Protected Tree whose trunk at ground level falls within 5 feet of a building footprint, a driveway of 800 square feet or less, or a perimeter fence line. Inside 5 feet of a pool, patio, gazebo, sidewalk, driveway, accessory structure or similar improvement, mitigation runs 1 inch of replacement DBH for each inch removed. Every other Protected Tree removed under a permit carries a 2-inch-for-1-inch replacement ratio. Where a lot cannot fit all the required replacement trees on site, the shortfall is paid into the St. Johns County Tree Bank Fund on a per-inch basis; the county sets that rate, and it can change, so ask St. Johns County for the current figure rather than relying on a number printed here.",
+          "A Protected Tree Removal Permit denied by the County Administrator can be appealed to the Ponte Vedra Zoning and Adjustment Board (PVZAB), which also hears variance requests from these tree provisions. Ask St. Johns County's planning and development review staff, before the layout is drawn, whether a given lot sits inside the Ponte Vedra Zoning District — the district boundary, not the acre count, decides which set of rules applies."
+        ]
+      },
+      {
         "h2": "Unincorporated Amelia Island: a 5-inch threshold and a Tree Commission",
         "body": [
           "Nassau County's Unincorporated Amelia Island Tree Protection and Replacement Ordinance, Ordinance No. 2021-012, was adopted on 9 August 2021 and took effect on 7 February 2022. It is Section 37.02 of the county's Land Development Code, and it applies within the unincorporated areas of Amelia Island. The county's <a href=\"https://www.nassaucountyfl.com/DocumentCenter/View/22775/Tree-Ordinance-Summary\" target=\"_blank\" rel=\"nofollow noopener\">summary</a> sets a lower threshold than St. Johns County. A Protected Tree is any healthy, non-invasive tree of 5 inches DBH or more, and removing one needs a county tree removal permit.",
@@ -2720,7 +2728,7 @@ export const GUIDES: Guide[] = [
     "faq": [
       {
         "q": "Can I cut down a healthy oak to make room for turf in St. Johns County?",
-        "a": "On an existing single-family home site on a lot of record of 1 acre or less, Section 4.01.05.C.11 of the county's Land Development Code exempts Protected Tree removal from a permit. On a larger lot, the exemption covers only land within 100 feet of the house. A Specimen Tree, such as a live oak of 50 inches DBH or more, still needs County Administrator approval unless diseased or a substantial threat to the house. Confirm with the county before any tree comes down."
+        "a": "Outside the Ponte Vedra Zoning District: on an existing single-family home site on a lot of record of 1 acre or less, Section 4.01.05.C.11 of the county's Land Development Code exempts Protected Tree removal from a permit. On a larger lot, the exemption covers only land within 100 feet of the house. A Specimen Tree, such as a live oak of 50 inches DBH or more, still needs County Administrator approval unless diseased or a substantial threat to the house. Inside the Ponte Vedra Zoning District, that 1-acre exemption does not apply: Ordinance 2020-38, Section VIII.U, requires a Protected Tree Removal Permit on every residential lot regardless of size, and its provisions prevail over Article IV where they conflict. Confirm with the county, or the PVZAB inside the district, before any tree comes down."
       },
       {
         "q": "Does an arborist's letter get me out of the county tree permit?",
@@ -2752,7 +2760,13 @@ export const GUIDES: Guide[] = [
         "label": "St. Johns County Land Development Code, Article IV Natural Resources (edition dated August 11, 2025)",
         "cite": "Sec. 4.01.05.B.1 prohibits Protected Tree removal, damage to a Protected Tree, or land clearing without a valid county permit; B.3 bars changing earth grade within the Protected Area of a preserved Protected Tree unless approved by the County Administrator; B.4 bars drainage changes that trap water within it. C: exemptions do not apply to Specimen or Historic Trees unless stated, and the burden of proof lies with the person claiming. C.11 exempts land clearing or Protected Tree removal for existing single-family home sites on a lot of record of 1.0 acre or less, and within 100 feet of the perimeter of the home on larger lots; Historic and Specimen Trees need County Administrator approval unless diseased or a substantial threat to the existing house. Table 4.01.05.D.3.a specimen minimum DBH: live oak 50, sand live oak 49, laurel oak 48, southern magnolia 61 inches. D.5 root pruning, hand excavation within the Protected Area and even cuts of roots 2 inches and larger for grade cuts under Historic or Specimen Trees. E.3.e fine of $5,000 per Specimen Tree removed without authorization.",
         "url": "https://www.sjcfl.us/wp-content/uploads/2024/01/Article-IV.pdf",
-        "checked": "2026-09-12"
+        "checked": "2026-09-14"
+      },
+      {
+        "label": "St. Johns County Ordinance No. 2020-38 — Ponte Vedra Zoning District Regulations, Section VIII.U, Tree Protections",
+        "cite": "U.2: applies to all existing, proposed and reconfigured residential lots within the Ponte Vedra Zoning District. U.3: this Section is in addition to Article IV of the Land Development Code, and its provisions prevail where the two conflict. Protected Tree: DBH of 10 inches or greater. U.5: a denied Protected Tree Removal Permit may be appealed to the Ponte Vedra Zoning and Adjustment Board (PVZAB), which also hears variances under U.6. U.7.b: no mitigation for a Protected Tree whose trunk at ground level falls within 5 feet of a building footprint, a driveway of 800 square feet or less, or a perimeter fence line. U.7.c: 1-inch DBH replacement for each inch removed within 5 feet of a pool, patio, gazebo, sidewalk, driveway, accessory structure or similar improvement. U.7.d: 2-inch DBH replacement for each inch removed for all other Protected Trees. U.7.g: where a site cannot fit the required replacement on-site, the shortfall is paid into the St. Johns County Tree Bank Fund on a per-lost-inch basis, at a rate set by the county. Adopted August 18, 2020.",
+        "url": "https://stjohnsclerk.com/minrec/OrdinanceBooks/2020/ORD2020-38.pdf",
+        "checked": "2026-09-14"
       },
       {
         "label": "St. Johns County Land Development Code, Article XII Definitions (edition dated June 2, 2026)",
@@ -2783,6 +2797,7 @@ export const GUIDES: Guide[] = [
       "https://www.flsenate.gov/Laws/Statutes/2025/163.045",
       "https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc",
       "https://www.sjcfl.us/wp-content/uploads/2024/01/Article-IV.pdf",
+      "https://stjohnsclerk.com/minrec/OrdinanceBooks/2020/ORD2020-38.pdf",
       "https://www.nassaucountyfl.com/DocumentCenter/View/22775/Tree-Ordinance-Summary",
       "https://www.nassaucountyfl.com/1273/Unincorporated-Amelia-Island-Tree-Ordina",
       "https://coab.us/DocumentCenter/View/15920/Turf-Installation-Guidelines"
@@ -2896,6 +2911,125 @@ export const GUIDES: Guide[] = [
       "https://floridadep.gov/rcp/coastal-construction-control-line",
       "https://www.scstatehouse.gov/code/t48c039.php",
       "https://www.law.cornell.edu/cfr/text/44/60.3"
+    ]
+  },
+  {
+    "slug": "public-bid-thresholds-turf-fields",
+    "market": "all",
+    "title": "Public Bid Thresholds for a Turf Field | TIMELESS Grass & Greens",
+    "description": "See the dollar thresholds that push a school, park or town's turf field project into formal competitive bidding in Colorado, North Carolina, South Carolina and Florida.",
+    "h1": "Public Bid Thresholds for a Turf Field Contract: Colorado, North Carolina, South Carolina and Florida",
+    "updated": "2026-09-14",
+    "answer": {
+      "question": "At what contract value does a public turf field have to go to formal competitive bid?",
+      "answer": "It depends on the state and the agency. Florida sets $300,000 statewide for general construction, $75,000 for electrical, both adjusted every year. North Carolina sets $500,000 statewide. Colorado's $500,000 rule binds only state agencies, and South Carolina has no statewide figure at all — in both, a county, town or school district sets its own threshold in its own adopted procurement code. Ask the procuring office for its current number before assuming one."
+    },
+    "sections": [
+      {
+        "h2": "The threshold decides how the project gets bought, not whether turf is allowed",
+        "body": [
+          "A school district, park district, city or county buying a synthetic turf field doesn't get to decide whether to run a public bid. State law, or in some states the agency's own adopted policy, sets a dollar line tied to the contract's estimated cost. Above that line, the project has to be advertised and awarded through formal, sealed competitive bidding. Below it, most states allow a simpler informal process, such as collecting a handful of quotes with no public advertisement required.",
+          "That line is a legal trigger, not a price we quote or a fee we charge. It's set by statute or by the procuring agency's own board, and it applies before design work is finished, not after. The four figures below come from the actual statutes and codes, read directly, for Colorado, North Carolina, South Carolina and Florida. Two of those states set one number for the whole state. The other two hand the number to the county, town or district itself, which means the figure that actually governs a specific field isn't on this page at all until you go find that agency's own procurement code. A park district's project sometimes carries state grant funding on top of its own procurement rules, which can layer its own conditions onto the bid process — see <a href=\"/blog/state-park-grants-for-turf-fields/\">State Park Grants for Turf Fields</a> for how that funding interacts with a project's timeline and paperwork."
+        ]
+      },
+      {
+        "h2": "Florida: $300,000 for general construction, $75,000 for electrical work, both adjusted every year",
+        "body": [
+          "Fla. Stat. 255.20(1) (2025) puts it directly: a county, municipality, special district under chapter 189, or other political subdivision <a href=\"https://www.flsenate.gov/Laws/Statutes/2025/255.20\" target=\"_blank\" rel=\"nofollow noopener\">\"must competitively award to an appropriately licensed contractor each project that is estimated to cost more than $300,000\"</a>, using sealed bids, a request for proposals, a request for qualifications, or competitive negotiation. Electrical work carries its own, lower line: any project estimated to cost more than $75,000 for electrical work has to go through the same competitive process, even if the rest of the job stays under $300,000.",
+          "Neither figure is fixed. Section 255.20(2) requires both dollar amounts to be adjusted annually by the change in the Engineering News-Record's Building Cost Index, calculated from January 1, 2009 forward, so the current figure runs higher than the $300,000 and $75,000 written into the original text, and it moves again every January. Confirm the current adjusted number with the procuring agency before assuming a prior year's figure still applies.",
+          "A Florida public school board or Florida College System institution works from a separate statute. Fla. Stat. 1013.45(1)(e) (2025) doesn't set a bid-trigger dollar amount the way 255.20 does. Instead it caps day-labor, or force-account, construction, renovation or maintenance work at $600,000, an amount the statute says \"shall be adjusted annually based upon changes in the Consumer Price Index.\" Above that cap, a district has to use one of the statute's other listed methods, such as competitive bids, design-build, construction management or program management, rather than have its own crews do the work. Before a district gets anywhere near that question, it has to clear who signs off on a field project on school property in the first place — see <a href=\"/blog/who-permits-a-turf-field-at-a-public-school/\">Who Permits a Turf Field at a Public School?</a> for that approval chain."
+        ]
+      },
+      {
+        "h2": "North Carolina: $500,000 for formal bidding, $30,000 before any competition is required",
+        "body": [
+          "N.C.G.S. 143-129 sets the trigger for construction and repair work let by a North Carolina local government, including a county, city, town or school administrative unit. The University of North Carolina School of Government's January 2024 public procurement materials, which quote and cite the statute, give a $30,000 informal-bidding threshold below which no statutory competitive process is required, and a $500,000 formal-bidding threshold at and above which sealed bids must be publicly opened. Purchases of goods, as distinct from construction, sit on a separate $90,000 formal threshold under the same statute; that is not the figure that governs a turf field construction contract.",
+          "North Carolina's statutory dollar thresholds have changed before, so confirm the current figure with the school district's or municipality's finance officer or legal counsel before relying on it for a specific project. A project priced close to $500,000 is exactly the case where the current number matters."
+        ]
+      },
+      {
+        "h2": "South Carolina: no statewide number — the county, town or district sets its own",
+        "body": [
+          "South Carolina's Consolidated Procurement Code, Title 11, Chapter 35 of the state code, governs state government agencies directly. It does not hand a county, municipality or school district a statewide dollar threshold for a construction bid the way Florida and North Carolina do. Instead, S.C. Code 11-35-5320 requires that <a href=\"https://www.scstatehouse.gov/code/t11c035.php\" target=\"_blank\" rel=\"nofollow noopener\">\"all political subdivisions of the State shall adopt ordinances or procedures embodying sound principles of appropriately competitive procurement\"</a>, a requirement the statute originally set a July 1, 1983 deadline for, recodified from the old Section 11-35-50 in 2019. The dollar figure that decides when a specific county's or town's turf field project needs formal, sealed bidding lives in that political subdivision's own adopted procurement ordinance, not in the state code.",
+          "A South Carolina school district gets pulled toward the state's own code only above a size threshold. S.C. Code 11-35-5340 subjects any school district whose total annual budget, including debt service, exceeds $75 million to the Consolidated Procurement Code, unless the district's own procurement code has been found, in writing, substantially similar to the state code by the state's Division of Procurement Services, in which case the district is exempt except for a procurement audit every three years. For almost any South Carolina district or town planning a field, the answer to what bid threshold applies starts with a call to that agency's own purchasing office, not a statute."
+        ]
+      },
+      {
+        "h2": "Colorado: the state's own $500,000 rule binds state agencies, not your school district or town",
+        "body": [
+          "Colorado's Construction Bidding for Public Projects Act, C.R.S. 24-92-101 and 24-92-102, defines a <a href=\"https://colorado.public.law/statutes/crs_24-92-102\" target=\"_blank\" rel=\"nofollow noopener\">\"public project\"</a> to exclude \"any project for which appropriation or expenditure of moneys may be reasonably expected not to exceed five hundred thousand dollars,\" with a lower $250,000 line for a project under the supervision of the state Department of Transportation. Above those figures, the Act's competitive bidding requirements apply.",
+          "The catch for a school district, park district or town reading this page: Article 92 defines who it binds narrowly, as \"any agency, department, division, board, bureau, commission, institution, or section of this state which is a budgetary unit exercising construction contracting authority or discretion.\" That's state government, not a local school district or a home-rule municipality. Colorado doesn't set one statewide dollar trigger for local-government construction bidding the way Florida and North Carolina do. A school district's or town's own board sets that number in its own purchasing policy or municipal charter, and it can differ from one Front Range district to the next. Ask the procuring agency for its own current bid-threshold policy before assuming the state's $500,000 figure applies to your project."
+        ]
+      },
+      {
+        "h2": "What the threshold means for a turf field project",
+        "body": [
+          "A full-size synthetic multi-purpose field or a regulation infield conversion, with base, drainage, turf, lining and goals, commonly prices into six figures once a design is finished, which puts many public field projects at or near these thresholds in every state on this page. That's worth knowing before a district or town starts a design: crossing the line means the project has to be advertised and awarded through a formal, sealed competitive process, on the agency's own procurement timeline, before a contractor can be selected, not after a preferred contractor has already measured the site. It's also worth knowing before the specification is written: a bid document that names one brand instead of describing a performance standard can run into its own legal problems separate from the dollar threshold — see <a href=\"/blog/can-a-public-turf-bid-name-a-brand/\">Can a Public Turf Bid Name a Brand?</a> for what a spec can and can't require.",
+          "We work inside whatever process the procuring agency runs. A free visit to measure the field and check the ground, a layout your board approves, site prep and a base built for the local soil and drainage, turf laid, seamed and edged, infill and cleanup, and a walkthrough of what the finished field needs is the same scope of work whether it's bought through an informal quote or a formal sealed bid. The threshold, the bid documents and the specification language are the agency's call and its own counsel's or purchasing office's to make. Call us at 303-349-2368 once you know which process you're running, and we'll work inside it."
+        ]
+      },
+      {
+        "h2": "Confirm the current figure before you rely on it",
+        "body": [
+          "Every dollar figure on this page is a legal bidding trigger quoted from a statute or state code, not a price we charge, and three of the four move on their own schedule. Florida's general construction and electrical figures adjust every January by a construction cost index, and its school-facility day-labor cap adjusts every year by the Consumer Price Index. North Carolina's figures on this page come from the University of North Carolina School of Government's January 2024 summary of the statute. In Colorado and South Carolina, the number that actually governs a specific field project isn't a statewide figure at all; it's whatever that county's, town's or district's own procurement ordinance currently sets. None of this is legal advice. Before a public body finalizes a turf field budget or procurement path, its own counsel or purchasing office should confirm the current, applicable figure."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Does this apply to a homeowner or an HOA project?",
+        "a": "No. These thresholds govern public bodies, counties, municipalities, special districts and school districts spending public funds on construction. A private homeowner or an HOA installing turf isn't subject to any competitive-bidding statute; those questions turn on the property's own covenants or local permitting rules instead."
+      },
+      {
+        "q": "Which of these four states has one number that applies statewide?",
+        "a": "Florida and North Carolina each set one statutory dollar figure for local-government construction bidding: $300,000 in Florida (with a separate $75,000 line for electrical work), $500,000 in North Carolina. Colorado's and South Carolina's statewide figures bind state agencies, not a county, town or school district's own field project."
+      },
+      {
+        "q": "If my state doesn't set a statewide threshold, how do I find the number that applies to us?",
+        "a": "Ask the procuring agency, whether that's a school district, park district, town or county, for its own adopted procurement code or purchasing policy. In Colorado and South Carolina that document, not a state statute, sets the dollar figure at which a turf field contract has to go to formal, sealed competitive bidding."
+      },
+      {
+        "q": "Does a typical turf field project cross these thresholds?",
+        "a": "Often, yes. A full-size multi-purpose field or a regulation infield conversion, once base work, drainage, turf, lining and goals are priced together, commonly runs into six figures, putting many public field projects at or near the formal-bid line in every state on this page. Confirm the agency's estimated project cost against its own current threshold before assuming which procurement path applies."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Fla. Stat. 255.20 — Contracts for public construction works (2025)",
+        "cite": "255.20(1): a county, municipality, special district under chapter 189, or other political subdivision \"must competitively award to an appropriately licensed contractor each project that is estimated to cost more than $300,000,\" and for electrical work \"each project that is estimated to cost more than $75,000,\" using sealed bids, RFP, RFQ or competitive negotiation. 255.20(2) requires both figures to be adjusted annually by the change in the Engineering News-Record's Building Cost Index, calculated from January 1, 2009 forward.",
+        "url": "https://www.flsenate.gov/Laws/Statutes/2025/255.20",
+        "checked": "2026-09-14"
+      },
+      {
+        "label": "Fla. Stat. 1013.45 — Contracts for public educational and Florida College System facilities (2025)",
+        "cite": "1013.45(1)(e) caps day-labor (force-account) construction, renovation, remodeling or maintenance contracts at $600,000, an amount that \"shall be adjusted annually based upon changes in the Consumer Price Index.\" Paragraph (1) otherwise lists competitive bids, design-build, construction management and program management as contracting methods, without a stated dollar figure triggering their use.",
+        "url": "https://www.flsenate.gov/Laws/Statutes/2025/1013.45",
+        "checked": "2026-09-14"
+      },
+      {
+        "label": "S.C. Code Ann. Title 11, Chapter 35 — Consolidated Procurement Code",
+        "cite": "11-35-5320 (recodified from the former 11-35-50 by 2019 Act No. 41, eff. May 13, 2019): \"All political subdivisions of the State shall adopt ordinances or procedures embodying sound principles of appropriately competitive procurement no later than July 1, 1983.\" 11-35-5340: a school district whose total annual budget, including debt service, exceeds $75 million is subject to the Consolidated Procurement Code unless its own procurement code is found, in writing, substantially similar by the state's Division of Procurement Services, in which case the district is exempt except for a procurement audit every three years.",
+        "url": "https://www.scstatehouse.gov/code/t11c035.php",
+        "checked": "2026-09-14"
+      },
+      {
+        "label": "C.R.S. 24-92-101, 24-92-102 — Construction Bidding for Public Projects Act",
+        "cite": "24-92-101 gives the article's short title. 24-92-102 defines \"agency of government\" as \"any agency, department, division, board, bureau, commission, institution, or section of this state which is a budgetary unit exercising construction contracting authority or discretion\" and defines \"public project\" to exclude \"any project for which appropriation or expenditure of moneys may be reasonably expected not to exceed five hundred thousand dollars,\" with a $250,000 line for a project under the supervision of the Department of Transportation.",
+        "url": "https://colorado.public.law/statutes/crs_24-92-102",
+        "checked": "2026-09-14"
+      },
+      {
+        "label": "N.C.G.S. 143-129, via UNC School of Government, \"Public Procurement and Contracting in North Carolina\" (Jan. 15, 2024 course materials)",
+        "cite": "Cites G.S. 143-129 for a $30,000 informal-bidding threshold and a $500,000 formal-bidding threshold for construction and repair contracts, and a separate $90,000 formal-bidding threshold for purchase contracts under the same statute.",
+        "url": "https://www.sog.unc.edu/sites/default/files/course_materials/CIO%20January%202024_Contracting%20and%20Procurement.pdf",
+        "checked": "2026-09-14"
+      }
+    ],
+    "publicReferences": [
+      "https://www.flsenate.gov/Laws/Statutes/2025/255.20",
+      "https://www.scstatehouse.gov/code/t11c035.php",
+      "https://colorado.public.law/statutes/crs_24-92-102",
+      "https://www.sog.unc.edu/sites/default/files/course_materials/CIO%20January%202024_Contracting%20and%20Procurement.pdf"
     ]
   },
 ];

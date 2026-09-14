@@ -1,0 +1,18 @@
+{
+  "intent": "Whether a Heritage Hills homeowner can put artificial turf in a front or street-visible side yard, and how the community's own hardscape limit affects a back-yard putting green or turf area with paver surrounds or a sport-court pad.",
+  "distinctValue": "The page already explains that Colorado's SB23-178 protects back-yard turf on a detached single-family home but leaves the front yard to the HOA. This adds the Heritage Hills HOA's own published design standard for that front-yard call: artificial turf is barred on front yards and on side yards visible from the street, effective 1 June 2022 and not retroactive, and hardscape (including sport courts) is capped at 20% of the front or back yard, excluding pool decking, with a discretionary path to 33% only when the landscape plan uses screening or the lot is enclosed by a privacy fence.",
+  "sources": [
+    {
+      "label": "Heritage Hills HOA: Design Standards",
+      "url": "https://www.heritagehillshoa.org/design-standards",
+      "checked": "2026-09-14",
+      "supports": [
+        "Artificial turf is not permitted on front yards or side yards where visible from the street (Landscaping section, effective June 1, 2022)",
+        "Use of hardscape (e.g., concrete, tile, stone, sport courts) is limited to twenty percent (20%) of the area of the front/back yard",
+        "Pool decking is not included in this limitation.",
+        "may be expanded to a maximum of 33% if landscape screening has been employed in the landscape plan, or if the property is screened with a privacy fence",
+        "Effective Date: June 1, 2022 (not applied retroactively to projects completed or approved before this date)"
+      ]
+    }
+  ]
+}

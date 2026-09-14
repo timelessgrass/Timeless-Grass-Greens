@@ -1,0 +1,61 @@
+{
+  "sources": [
+    {
+      "label": "Cherry Hills Country Club (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Cherry_Hills_Country_Club",
+      "checked": "2026-09-07",
+      "supports": [
+        "founded in 1922 to a William Flynn design and renovated by Tom Doak in 2008",
+        "hosted three U.S. Opens (1938, 1960 and 1978), two PGA Championships (1941 and 1985), the 2005 U.S. Women's Open, the 1993 U.S. Senior Open and the 2014 BMW Championship",
+        "championship 18 and a 9-hole par-3, and Glenmoor Country Club sits inside the Village as well"
+      ]
+    },
+    {
+      "label": "Cherry Hills Village: Accessory and Recreational Structure Requirements, revised 23 May 2024 (PDF)",
+      "url": "https://www.cherryhillsvillage.com/DocumentCenter/View/4334/Accessory-and-Recreational-Structure-Requirements",
+      "checked": "2026-09-14",
+      "supports": [
+        "Revised: May 23, 2024",
+        "Any structure that is a detached subordinate structure including, but not limited to, the following: ... Sports Courts",
+        "Separate permits and plans are required for the following: 1. Additions to existing structures... 4. Fences, walls/retaining walls, and earthen berms",
+        "*R-1  2 1/2 Acres  3  1,100 Sq. Ft.  75'  25'  25'  35'",
+        "R-5  16,000 Sq. Ft.  2  500 Sq. Ft.  25'  7.5'  7.5'  30'",
+        "A Phase III Drainage Report if adding more than 2500 square feet of impervious surface area",
+        "A Stormwater Management Plan (SWMP) or Grading, Erosion, and Sediment Control Plan (GESC) and a completed Stormwater Construction Permit Application if disturbing 1 acre or more and/or adjacent to a waterway or watercourse (floodplain)"
+      ]
+    },
+    {
+      "label": "Colorado Geological Survey: expansive soil and rock",
+      "url": "https://coloradogeologicalsurvey.org/geologic-hazards/expansive-soil-rock/",
+      "checked": "2026-09-07",
+      "supports": [
+        "swelling clay, the smectitic kind that heaves slabs, cracks foundations and buckles flatwork when it gets wet"
+      ]
+    },
+    {
+      "label": "Cherry Hills Village: building permits",
+      "url": "https://www.cherryhillsvillage.com/421/Building-Permits",
+      "checked": "2026-09-07",
+      "supports": [
+        "Adding more than 2,500 square feet of impervious surface calls for a Phase III Drainage Report",
+        "disturbing an acre or more, or working next to a waterway or floodplain, calls for a stormwater plan and a Stormwater Construction Permit"
+      ]
+    },
+    {
+      "label": "Cherry Hills Village: water and sewer districts in the city (PDF)",
+      "url": "https://www.cherryhillsvillage.com/documentcenter/view/174",
+      "checked": "2026-09-07",
+      "supports": [
+        "Most homes are on Denver Water"
+      ]
+    },
+    {
+      "label": "Cherry Hills Village: Denver Water and the Stage 1 declaration",
+      "url": "https://www.cherryhillsvillage.com/310/Denver-Water",
+      "checked": "2026-09-07",
+      "supports": [
+        "lawn watering and spray irrigation are prohibited from 1 October 2026, including watering grass by hand"
+      ]
+    }
+  ]
+}

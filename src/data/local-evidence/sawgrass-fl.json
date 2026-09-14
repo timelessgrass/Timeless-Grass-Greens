@@ -1,0 +1,27 @@
+{
+  "intent": "What do the Sawgrass Country Club and Sawgrass Players Club sides actually publish about the architectural review process for a turf or putting-green project?",
+  "distinctValue": "Both sides of Sawgrass publish their own review paperwork. The Country Club side's architectural review application (dated June 2024) spells out two checks with every submission — a nonrefundable review fee and a separate, partly-or-fully refundable construction deposit that penalties and fines come out of first — plus fixed outdoor work hours (Monday-Friday 7 a.m.-5 p.m., Saturday 7 a.m.-3 p.m., no work Sundays or the named federal holidays). The Players Club side runs through a master architectural review board with its own coordinator, over 16 subassociations that each keep their own board and governing documents. Neither source states which approval comes first.",
+  "sources": [
+    {
+      "label": "Sawgrass Association: architectural review application",
+      "url": "https://www.sawgrassassociation.com/wp-content/uploads/sites/40/2024/06/Architectural-Review-Application.pdf",
+      "checked": "2026-09-13",
+      "supports": [
+        "Fees: Two checks must be attached to the application made out to the Sawgrass Association. One is a nonrefundable processing fee and the second is a refundable in whole or part construction deposit that will be refunded upon inspection and approval by the Architectural Review Committee.",
+        "The property owner must send two separate checks with this application made payable to Sawgrass Association, Inc. One is for the nonrefundable review fee and the other is a refundable, in whole or part, construction deposit. Any penalties or citation fines will be deducted from the construction deposit.",
+        "Outdoor Hired Work Hours: Monday: Friday 7 AM to 5 PM Saturday: 7AM – 3 PM Sunday and Designated Holidays: NO WORK (New Year’s Day, Memorial Day, Independence Day, Labor Day, Thanksgiving, and Christmas)",
+        "Outdoor Hired Work Hours Monday – Friday: 7:00am to 5:00pm Saturday: 7:00am to 3:00pm No Outdoor Work Permitted on Sunday & Designated Federal Holidays. (New Year’s Day, Memorial Day, Independence Day, Labor Day, Thanksgiving, and Christmas Day.)",
+        "Rev 6 -2024"
+      ]
+    },
+    {
+      "label": "Sawgrass Players Club: architectural review",
+      "url": "https://sawgrassplayersclub.org/architectural-review/",
+      "checked": "2026-09-13",
+      "supports": [
+        "Marsh Landing Management Company, located at 4200 Marsh Landing Blvd., Suite 200, Jacksonville Beach, FL 32250, manages the Sawgrass Players Club master association and its Architectural Review Board (ARB) Coordinator.",
+        "The community contains 16 subassociations that each maintain their own Boards, governing documents and property management companies."
+      ]
+    }
+  ]
+}

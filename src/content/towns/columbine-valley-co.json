@@ -33,7 +33,8 @@
       "h2": "Check both the course side and the street side.",
       "paras": [
         "Mark the boundary and any shared drainage features beside the course. Show us water that arrives from outside the proposed area so it is considered separately from the surface choice.",
-        "At the street, confirm the Town’s right-of-way boundary before drawing turf to the curb. Bring any Town or community conditions to the visit; the visible lawn edge is not always the property line."
+        "At the street, confirm the Town’s right-of-way boundary before drawing turf to the curb. Bring any Town or community conditions to the visit; the visible lawn edge is not always the property line.",
+        "Columbine Valley is governed by 12 separate HOAs, and every resident belongs to the association nearest their home. Covenants differ between them, and the Town keeps no HOA documents and provides no services to the associations, so the right rules come from your own association, not the Town (<a href=\"https://columbinevalley.org/hoa/\" target=\"_blank\" rel=\"nofollow noopener\">Town of Columbine Valley</a>). In the original Old Town area, the Columbine Valley Homeowners Association applies its Use & Building Restrictions, adopted in 1955 and amended in 1996, along with Rules & Regulations adopted in 2006. A turf or putting-green plan there goes to the association's Architectural Committee for approval before the Town will issue a building permit (<a href=\"https://columbinevalleyhoa.org/hoa-regulations\" target=\"_blank\" rel=\"nofollow noopener\">Columbine Valley Homeowners Association</a>)."
       ]
     },
     {
@@ -139,8 +140,16 @@
     {
       "label": "Colorado SB23-178, signed act",
       "url": "https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf"
+    },
+    {
+      "label": "Town of Columbine Valley: HOAs",
+      "url": "https://columbinevalley.org/hoa/"
+    },
+    {
+      "label": "Columbine Valley Homeowners Association: HOA regulations",
+      "url": "https://columbinevalleyhoa.org/hoa-regulations"
     }
   ],
-  "checked": "2026-09-07",
+  "checked": "2026-09-14",
   "publicReferences": []
 }

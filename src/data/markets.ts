@@ -100,6 +100,10 @@ export const MARKETS: Market[] = [
     ],
     guides: [
       {
+        "slug": "public-bid-thresholds-turf-fields",
+        "anchor": "Know the bid threshold for a school or park field"
+      },
+      {
         "slug": "north-carolina-hoa-turf-rules",
         "anchor": "Plan an HOA submission on the North Carolina side"
       },
@@ -201,6 +205,10 @@ export const MARKETS: Market[] = [
       }
     ],
     guides: [
+      {
+        "slug": "public-bid-thresholds-turf-fields",
+        "anchor": "Check the bid threshold before a public field contract"
+      },
       {
         "slug": "colorado-city-artificial-turf-codes",
         "anchor": "Compare city turf codes across the metro"
@@ -308,6 +316,10 @@ export const MARKETS: Market[] = [
       }
     ],
     guides: [
+      {
+        "slug": "public-bid-thresholds-turf-fields",
+        "anchor": "Plan a public turf field bid around Florida\u2019s threshold"
+      },
       {
         "slug": "northeast-florida-historic-district-turf-review",
         "anchor": "Check historic-district review before changing a yard"

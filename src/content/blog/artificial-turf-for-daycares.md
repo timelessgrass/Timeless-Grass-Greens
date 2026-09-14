@@ -5,7 +5,7 @@ description: Plan daycare turf around the equipment, tested surfacing, shade and
 h1: Planning artificial turf for a daycare play yard
 topic: Commercial and sports
 published: '2026-09-10'
-updated: '2026-09-12'
+updated: '2026-09-14'
 answer:
   question: Can a daycare use artificial turf in its play yard?
   answer: A daycare may be able to use artificial turf, but the complete surface must suit the equipment and meet the requirements for that program. Confirm the proposal with the licensing authority before ordering. Ask for test documentation for the turf and any pad together, then plan shade, drainage and cleaning.
@@ -55,6 +55,9 @@ sources:
   - label: 'Kruse et al., UF/IFAS Extension EP612: Synthetic Turfgrass and the Nine Principles of Florida-Friendly Landscaping'
     url: https://ask.ifas.ufl.edu/publication/EP612
     checked: '2026-09-10'
+  - label: '10A NCAC 09 .0605 (North Carolina child care centers): outdoor learning environment, protective surfacing and fall zones, amended effective 1 September 2019'
+    url: http://reports.oah.state.nc.us/ncac/title%2010a%20-%20health%20and%20human%20services/chapter%2009%20-%20child%20care%20rules/10a%20ncac%2009%20.0605.pdf
+    checked: '2026-09-14'
 related:
   services:
     - commercial-turf
@@ -122,6 +125,18 @@ Florida's [Rule 65C-22.001](https://www.flrules.org/gateway/ruleNo.asp?id=65C-22
 The handbook doesn't name artificial turf either. Turf over a pad would have to qualify as a unitary surface with F1292 data on file, so confirm it with DCF licensing before you build.
 
 One Florida rule doesn't apply to most centers. The state's residential synthetic turf standard, with its natural-infill limit, covers single-family lots of one acre or less, and [DEP's FAQ](https://floridadep.gov/sites/default/files/SyntheticTurfFAQ%20final.pdf) says it doesn't reach commercial property.
+
+## North Carolina: loose fill or F1292-certified material
+
+North Carolina's child care center rule, [10A NCAC 09 .0605](http://reports.oah.state.nc.us/ncac/title%2010a%20-%20health%20and%20human%20services/chapter%2009%20-%20child%20care%20rules/10a%20ncac%2009%20.0605.pdf), sets the outdoor surfacing rules:
+
+- Stationary outdoor equipment more than 18 inches high must sit over protective surfacing.
+- Protective surfacing is either listed loose fill (wood mulch, wood chips, fine or coarse sand, pea gravel) or a material the manufacturer certifies as shock-absorbing under ASTM F1292, installed, maintained and replaced to the manufacturer's instructions. Pea gravel can't be used where children under three play, and loose fill can't go over concrete.
+- Loose-fill depth depends on the equipment's critical height: 6 inches (any material, sand included) at 5 feet or under, 6 inches except sand from just over 5 feet up to 7 feet, 9 inches except sand from 7 to 10 feet, and 12 inches whenever sand is the material above a 5-foot critical height.
+- The fall zone extends 3 feet beyond the equipment for children under two and 6 feet for children two and older, with longer zones for swings.
+- Children can't go barefoot outdoors, or use equipment, when the equipment or the surfacing is too hot to touch.
+
+The rule doesn't name turf. As in the other states, a turf system over a pad would have to qualify as the ASTM F1292-certified material to count as protective surfacing — confirm the surfacing choice with your licensing consultant before you build.
 
 ## Heat and hygiene
 

@@ -1,0 +1,24 @@
+{
+  "intent": "Does Atlantic Beach Country Club allow synthetic turf, and does its impervious-surface cap match the citywide rule?",
+  "distinctValue": "Atlantic Beach Country Club is a special planned area inside the city, governed first by the City of Atlantic Beach's Special Planned Area Ordinance Amendment 90-13-219 and then by the club's own Amended and Restated Post Construction ARB Standards and Guidelines. Its impervious-surface cap is 65%, not the citywide 45% figure the rest of the town page carries, and its synthetic-turf rules (fully fenced back yards only, ARB plan approval, an 18-inch planted border, a 4-to-6-inch crushed rock base, no crumb rubber, an active maintenance agreement, and a final Public Works review) are its own, layered on top of the city's separate turf guidelines rather than replacing them.",
+  "sources": [
+    {
+      "label": "Atlantic Beach Country Club: Amended and Restated Post Construction ARB Standards and Guidelines (First Amendment)",
+      "url": "https://abcchoa.com/editor_upload/File/Post%20Construction%20ARB%20Standards%20and%20Guidelines%20-%20Updated.pdf",
+      "checked": "2026-09-13",
+      "supports": [
+        "First Amendment to the Amended and Restated Post Construction ARB Standards and Guidelines (Originally Amended and Restated 4/6/2023) First Amendment adopted 8/27/26",
+        "Atlantic Beach Country Club (\"ABCC\") development standards were first established by the City of Atlantic Beach with the adoption of Special Planned Area Ordinance Amendment 90-13-219 (\"Ordinance\") on August 26, 2013. These development standards still largely govern overall development standards (i.e. set-backs, maximum lot coverage, maximum impervious surface restrictions, tree removal, etc.).",
+        "B. Site conditions as defined by the Ordinance i. Maximum impervious surface is 65%",
+        "iii. Synthetic turf will only be allowed to be installed in fully fenced back yards after review and approval by the ARB of a detailed landscape and installation plan.",
+        "iv. Synthetic turf shall not be installed within 18 inches of a side lot line, rear lot line, fence line, or a drainage easement (the \"border area\"). In the border area, shrubbery or hedges with a minimum height of 24 inches at time of installation shall be planted to block the view of the synthetic turf from neighboring properties at ground level.",
+        "v. For corner lots facing on two streets, synthetic turf shall not extend beyond the sidewall of the house on any side of the house facing a street. A border area shall be maintained for a distance of 18 inches beyond the synthetic turf, and it shall be planted with shrubbery or hedges with a minimum height of 24 inches at time of installation.",
+        "vi. Synthetic turf installations shall, at a minimum meet the following criteria: a. The turf shall be of high quality and be polychromatic so as to approximate the look, color and texture of natural grass.",
+        "d. The turf shall be installed by a reputable installer over a drain field consisting of between 4 and 6 inches of crushed and compacted rock covering a weed protection fabric.",
+        "e. The turf installation shall include in-fill product appropriate for the intended use. In applications where there will be pet traffic, infill products that cool the surface and provide odor reduction such as TºCool™ and zeolite shall be used so long as their use, application and disposal is in accordance with all laws, rules and regulations. Silica sand should only be used in low traffic areas. No crumb rubber of any kind is to be used as in-fill.",
+        "viii. A maintenance agreement with a reputable synthetic turf maintenance company shall be active and in place at all times. An executed copy of such maintenance agreement shall be submitted as part of the ARB approval process.",
+        "ix. If a synthetic turf installation is approved, it shall be conditioned upon a review and approval of the proposed turf and sub-base products by the COAB Public Works Department. The homeowner shall provide a copy of the COAB [approval]."
+      ]
+    }
+  ]
+}

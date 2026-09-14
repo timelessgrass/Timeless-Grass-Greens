@@ -52,6 +52,7 @@
       "paras": [
         "Florida law stops an HOA restricting artificial turf that can't be seen from the frontage, a neighboring lot, a common area or a community golf course (<a href=\"https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&amp;Search_String=&amp;URL=0700-0799/0720/Sections/0720.3045.html\" target=\"_blank\" rel=\"nofollow noopener\">Fla. Stat. 720.3045</a>). That last clause matters more in Sawgrass than almost anywhere. A large share of lots here face a fairway, and a green the course can see falls outside the statute, so your architectural board decides.",
         "Every home here sits under a master association, and nearly every one of the 16 Players Club subdivisions and each Country Club village adds its own sub-association and architectural board (<a href=\"https://sawgrasscommunity.com/sawgrass-players-club/\" target=\"_blank\" rel=\"nofollow noopener\">Sawgrass Players Club</a>). Expect the board to ask for a plot plan, the product's spec sheet, the base and infill details and a sample of the turf. The layout you approve with us before work starts is where that packet begins.",
+        "On the Country Club side, the association's architectural review application (dated June 2024) requires two checks with every submission: a nonrefundable review fee and a separate construction deposit, refunded in whole or in part after a compliance inspection, with any penalties or fines taken out of it first. Outdoor work is limited to Monday through Friday, 7 a.m. to 5 p.m., and Saturday, 7 a.m. to 3 p.m., with none on Sundays or the designated federal holidays, so build those hours into your install schedule (<a href=\"https://www.sawgrassassociation.com/wp-content/uploads/sites/40/2024/06/Architectural-Review-Application.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Sawgrass Association</a>). On the Players Club side, the master association's architectural review board has its own coordinator, and each of the 16 subassociations keeps its own board and governing documents (<a href=\"https://sawgrassplayersclub.org/architectural-review/\" target=\"_blank\" rel=\"nofollow noopener\">Sawgrass Players Club</a>). Confirm with your subassociation and the master board which sign-offs your project needs; neither source sets an order between them.",
         "State law doesn't override the board, either. Fla. Stat. 125.572 and DEP Rule 62-308.100 limit what counties and cities can ban, not what a private association can (<a href=\"https://floridadep.gov/sites/default/files/SyntheticTurfFAQ%20final.pdf\" target=\"_blank\" rel=\"nofollow noopener\">DEP</a>). Our guide to <a href=\"/guides/florida-friendly-landscaping-and-hoas/\">turf and Florida HOAs</a> goes further."
       ]
     },
@@ -144,9 +145,17 @@
     {
       "label": "St. Johns River Water Management District: watering restrictions",
       "url": "https://www.sjrwmd.com/wateringrestrictions/"
+    },
+    {
+      "label": "Sawgrass Association: architectural review application",
+      "url": "https://www.sawgrassassociation.com/wp-content/uploads/sites/40/2024/06/Architectural-Review-Application.pdf"
+    },
+    {
+      "label": "Sawgrass Players Club: architectural review",
+      "url": "https://sawgrassplayersclub.org/architectural-review/"
     }
   ],
-  "checked": "2026-09-07",
+  "checked": "2026-09-13",
   "publicReferences": [
     "https://www.flrules.org/gateway/ruleNo.asp?id=62-308.100"
   ]

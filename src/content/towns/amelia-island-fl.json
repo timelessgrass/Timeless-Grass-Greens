@@ -51,6 +51,7 @@
       "h2": "Behind the gate, the ARB reviews the yard.",
       "paras": [
         "Nearly every address on the south end sits inside a gated community with an architectural review board: the Amelia Island Plantation Community Association and its villa and neighbourhood associations, Amelia Surf & Racquet Club, Summer Beach, The Amelia Island Club. Turf goes through that board like any other change to the yard, and the plan you sign off with us becomes the heart of the submission.",
+        "Inside Amelia Island Plantation, the ARB's own rule reaches further than a typical HOA: any work that changes the exterior of your property, including the landscape, needs an application and prior approval before you start, not after. That standard names all tree removal, all major re-landscaping, all new exterior construction, renovations and site improvements, and any activity that affects the natural environment (<a href=\"https://aipca.net/need-to-knows/\" target=\"_blank\" rel=\"nofollow noopener\">AIPCA</a>). A turf lawn, pet area, putting green or pool surround counts as landscape work under that rule even in a backyard no street can see, and clearing a tree to make room for it is its own separate approval. The board's review standard is that constructed elements be 'expressed in forms, colors and textures that blend and complement' the natural setting — plan color, pile and edging with that language in mind, and confirm the current requirement with the association before the layout is final.",
         "State law is less help here than people hope. Florida's HOA statute protects turf only where it's out of view from the frontage, next door, shared ground or a golf course the community shares (<a href=\"https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&amp;Search_String=&amp;URL=0700-0799/0720/Sections/0720.3045.html\" target=\"_blank\" rel=\"nofollow noopener\">Fla. Stat. 720.3045</a>), and on an island of fairways, marsh views and shared paths, plenty of yards are in view. Our <a href=\"/guides/florida-friendly-landscaping-and-hoas/\">HOA guide</a> has the rest.",
         "Where the city ends matters too. Inside Fernandina Beach, the city's code and, in its historic districts, the Historic District Council apply; south of the city line the island is unincorporated Nassau County (<a href=\"https://www.nassaucountyfl.com/DocumentCenter/View/18158/12--Background-DA--Future-Land-Use-Element\" target=\"_blank\" rel=\"nofollow noopener\">Nassau County</a>). Oceanfront lots add the coastal construction control line and dune protection rules."
       ]
@@ -113,6 +114,10 @@
       "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0700-0799/0720/Sections/0720.3045.html"
     },
     {
+      "label": "Amelia Island Plantation Community Association: Need-to-Knows",
+      "url": "https://aipca.net/need-to-knows/"
+    },
+    {
       "label": "Nassau County: Future Land Use Element background",
       "url": "https://www.nassaucountyfl.com/DocumentCenter/View/18158/12--Background-DA--Future-Land-Use-Element"
     },
@@ -133,6 +138,6 @@
       "url": "https://en.wikipedia.org/wiki/Amelia_Island"
     }
   ],
-  "checked": "2026-09-07",
+  "checked": "2026-09-13",
   "publicReferences": []
 }

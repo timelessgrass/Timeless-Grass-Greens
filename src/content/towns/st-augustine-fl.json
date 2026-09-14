@@ -53,7 +53,8 @@
       "paras": [
         "Most work in the city's five Historic Preservation districts needs a Certificate of Appropriateness from HARB, the city's historic architecture board, judged against its Architectural Guidelines for Historic Preservation. City tree protection applies too. Before the courtyard layout is final, ask the city whether your work needs a certificate, and get the answer in writing.",
         "State law stops a city banning turf that meets Florida's standard on a single-family lot of an acre or less (<a href=\"https://www.flsenate.gov/Laws/Statutes/2025/0125.572\" target=\"_blank\" rel=\"nofollow noopener\">Fla. Stat. 125.572</a>). What that standard asks of the turf itself is set out in our <a href=\"/guides/florida-turf-infill-rules/\">guide to Florida's turf rules</a>.",
-        "Homeowners' associations are rare in the old city; the gate downtown is HARB, not an HOA. Where one does exist, it can restrict only what's visible from the street, next door, a common area or a community golf course (<a href=\"https://www.flsenate.gov/Laws/Statutes/2025/720.3045\" target=\"_blank\" rel=\"nofollow noopener\">Fla. Stat. 720.3045</a>)."
+        "Homeowners' associations are rare in the old city; the gate downtown is HARB, not an HOA. Where one does exist, it can restrict only what's visible from the street, next door, a common area or a community golf course (<a href=\"https://www.flsenate.gov/Laws/Statutes/2025/720.3045\" target=\"_blank\" rel=\"nofollow noopener\">Fla. Stat. 720.3045</a>).",
+        "Palencia carries a St. Augustine mailing address, but the community itself sits in unincorporated St. Johns County, so the city's HARB review and code sections above don't reach it; what governs there is the Palencia Architectural Review Board. A 15 December 2016 notice from the Palencia Property Owners Association quotes Section 8.1 of the community's Declaration: the ARB \"exists to review all designs and plans of all new homes and improvements to existing homes and landscaping,\" and every owner is asked to contact the ARB before any exterior change (<a href=\"https://d29qgt99bd79l1.cloudfront.net/20161219160354.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Palencia Property Owners Association</a>). The same notice cites Section 5.16: a lawn damaged by chinch bugs, fungus or another infestation \"will need to be replaced with sod grass\" in the affected areas. The notice does not mention artificial turf, so a lawn or putting-green layout there should go to the ARB in writing before it's final, and Fla. Stat. 720.3045 still limits what the association can restrict to what's visible from the street, a neighboring lot, a common area or a golf course."
       ]
     },
     {
@@ -92,6 +93,10 @@
     {
       "q": "Does the city give a rebate for switching to turf?",
       "a": "No. Neither the city nor the St. Johns River Water Management District offers a rebate for artificial turf. What you gain is a courtyard that never waits for its watering day."
+    },
+    {
+      "q": "Is a St. Augustine mailing address the same as the city, for approvals?",
+      "a": "Not always. Palencia has a St. Augustine mailing address but is unincorporated St. Johns County, so HARB and the city code above don't apply there; its own Architectural Review Board reviews landscaping and improvements first. Confirm which body has jurisdiction over your address before the layout is final."
     }
   ],
   "nearby": [
@@ -148,10 +153,17 @@
     {
       "label": "Florida Rule 62-308.100, F.A.C.: synthetic turf",
       "url": "https://www.flrules.org/gateway/ruleNo.asp?id=62-308.100"
+    },
+    {
+      "label": "Palencia Property Owners Association: Friendly Reminders notice (15 December 2016)",
+      "url": "https://d29qgt99bd79l1.cloudfront.net/20161219160354.pdf"
     }
   ],
-  "checked": "2026-09-07",
+  "checked": "2026-09-13",
   "publicReferences": [
     "https://library.municode.com/fl/st._augustine/codes/code_of_ordinances?nodeId=PTIICOOR_CH19NU_ARTIIFORE_S19-16MARE"
+  ],
+  "foldedFrom": [
+    "palencia-fl"
   ]
 }

@@ -1,0 +1,21 @@
+{
+  "intent": "I'm putting turf into a new-build or established Erie yard and need to know what my HOA's architectural committee actually requires before I submit, not a generic 'expect a submission' line.",
+  "distinctValue": "Replaces the unsourced 'most Erie HOAs want an architectural submission' line with a real example read from the governing document itself: the Colliers Hill Master Association's Aesthetic Provisions Pertaining to Water-Wise Landscaping for Single Family Detached Common Interest Communities, adopted by board resolution on 1 August 2023. The document requires written Architectural Control Committee approval before installing nonvegetative turf grass, and the submitted plans must state the turf's type, color, manufacturer, model, dimensions and placement. The Committee must also preapprove any of the three SB23-178 water-wise garden designs attached to the guidelines, and must weigh Article 5I of the recorded Declaration of Covenants for Daybreak (now Colliers Hill Master Association) and the community's separate Design Guidelines. The provisions reach only rear-yard nonvegetative turf and never mention putting greens, so the page tells the reader to ask the Committee about a green rather than assume it is covered. The document is Colliers Hill's own resolution; it does not extend to Vista Ridge, a separate Erie community, so the page does not claim it does.",
+  "sources": [
+    {
+      "label": "Colliers Hill Master Association: Aesthetic Provisions Pertaining to Water-Wise Landscaping for Single Family Detached Common Interest Communities",
+      "url": "https://pcms.net/wp-content/uploads/2026/04/Aesthetic-Provisions-Pertaining-to-Water-Wise-Landscaping-Detached.pdf",
+      "checked": "2026-09-14",
+      "supports": [
+        "Title: \"Aesthetic Provisions Pertaining to Water-Wise Landscaping for Colliers Hill Master Association, Inc.\"",
+        "\"The following Aesthetic Provisions Pertaining to Water-Wise Landscaping for Single Family Detached Common Interest Communities were adopted by Resolution of the Board of Directors of Colliers Hill Master Association, Inc. (the “Association”) pursuant to Colorado law at a regular meeting of the Board.\"",
+        "\"These Aesthetic Provisions were adopted at an open meeting of the Board of Directors in accordance with Colorado law, this 1st day of August, 2023 Resolution of the Board of Directors of Colliers Hill Master Association, Inc.\"",
+        "\"3. The Lot Owner must submit detailed Plans and Specifications for the Water-Wise Landscaping and/or vegetable gardens to the Architectural Control Committee and obtain written approval from the Committee prior to installing, changing, or modifying the landscaping.\"",
+        "\"4. Detailed Plans and Specifications generally include, but are not necessarily limited to: ... b. The type, color, manufacturer, model, dimensions, and placement/location of the nonvegetative turf grass to be incorporated into the rear yard Water-Wise Landscaping.\"",
+        "\"5. In passing upon plans and specifications for Water-Wise Landscaping and vegetable gardens, the Committee shall: a. Preapprove any one of the three water-wise garden designs developed in accordance with Senate Bill 23-178 attached to these guidelines. ... c. Consider the factors enumerated in Article 5I of the recorded Declaration of Covenants, Conditions, and Restrictions for Daybreak (n/k/a Colliers Hill Master Association) and the Design Guidelines for Colliers Hill Master Association, Inc. as amended and supplemented from time to time...\"",
+        "Putting greens are not mentioned anywhere in the document; only 'nonvegetative turf grass' in the rear yard is addressed. The document is scoped to 'Single Family Detached Common Interest Communities' and does not mention Vista Ridge.",
+        "Read by curl and pdftotext on 2026-09-14."
+      ]
+    }
+  ]
+}

@@ -43,7 +43,8 @@
       "paras": [
         "The Town's ColoradoScape ordinance, No. 2022-025, took effect on 1 January 2023 for new homes and commercial properties. For a home permitted and built after that date the rule is no turf in the front yard and no more than 500 square feet in the back yard, with the details in the Town's Landscape and Irrigation Criteria Manual (<a href=\"https://www.crgov.com/3902/Landscape-Design-for-Homeowners\" target=\"_blank\" rel=\"nofollow noopener\">Town of Castle Rock</a>). Homes built before 2023 are outside the rule.",
         "The Town's pages do not say whether artificial turf counts toward that 500 square feet, and the answer decides how much of a back yard can be lawn. If your home is newer, ask the Town before the layout is final, and have the answer in writing.",
-        "Nearly every Castle Rock subdivision built since 1990 has an HOA. In Macanta the Town preapproves backyard designs before the first installation; in other neighborhoods, ask your HOA for its preapproved ColoradoScape designs. Colorado law also bars HOA design guidelines from prohibiting nonvegetative turf in the back yard of a detached single-family home (<a href=\"https://leg.colorado.gov/bills/sb23-178\" target=\"_blank\" rel=\"nofollow noopener\">SB23-178</a>)."
+        "Nearly every Castle Rock subdivision built since 1990 has an HOA. In Macanta the Town preapproves backyard designs before the first installation; in other neighborhoods, ask your HOA for its preapproved ColoradoScape designs. Colorado law also bars HOA design guidelines from prohibiting nonvegetative turf in the back yard of a detached single-family home (<a href=\"https://leg.colorado.gov/bills/sb23-178\" target=\"_blank\" rel=\"nofollow noopener\">SB23-178</a>).",
+        "Castlewood Ranch is one example of what a subdivision's own rule can add. Its Design Guidelines, adopted 29 April 2000 and last amended 9 February 2021, set a face-weight floor for artificial turf: a minimum of 65 oz. in the front yard and 50 oz. in the back, professionally installed (<a href=\"https://static1.squarespace.com/static/5c76b2a9e8ba44187ba47659/t/612120d04b9a7537417ca914/1629561042900/Covenants+Castlewood+Ranch+Guidelines+2021-+Upton+Ct.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Castlewood Ranch Design Guidelines</a>). That weight floor sits on top of the Town's rule above, not instead of it: a Castlewood Ranch home permitted after 1 January 2023 still has no turf in front and the 500-square-foot backyard limit, whatever face weight the guidelines allow."
       ]
     },
     {
@@ -93,6 +94,10 @@
     {
       "q": "Can my HOA stop me putting turf in my back yard?",
       "a": "Not with a flat ban on a detached single-family home: Colorado's SB23-178 bars HOA design guidelines from prohibiting nonvegetative turf in the back yard. Attached homes and condominiums are not covered. In Macanta the Town also preapproves backyard designs before the first installation (<a href=\"https://leg.colorado.gov/bills/sb23-178\" target=\"_blank\" rel=\"nofollow noopener\">SB23-178</a>)."
+    },
+    {
+      "q": "Does Castlewood Ranch have its own rule for artificial turf?",
+      "a": "Yes. Its Design Guidelines, adopted 29 April 2000 and last amended 9 February 2021, permit artificial turf at a minimum of 65 oz. face weight in front and 50 oz. in back, professionally installed. That is on top of the Town's rule, not instead of it, for a home permitted after 1 January 2023 (<a href=\"https://static1.squarespace.com/static/5c76b2a9e8ba44187ba47659/t/612120d04b9a7537417ca914/1629561042900/Covenants+Castlewood+Ranch+Guidelines+2021-+Upton+Ct.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Castlewood Ranch Design Guidelines</a>)."
     }
   ],
   "nearby": [
@@ -128,9 +133,16 @@
     {
       "label": "Red Hawk Ridge Golf Course",
       "url": "https://www.redhawkridge.com/"
+    },
+    {
+      "label": "Castlewood Ranch Design Guidelines (adopted 29 April 2000, amended 9 February 2021)",
+      "url": "https://static1.squarespace.com/static/5c76b2a9e8ba44187ba47659/t/612120d04b9a7537417ca914/1629561042900/Covenants+Castlewood+Ranch+Guidelines+2021-+Upton+Ct.pdf"
     }
   ],
-  "checked": "2026-09-07",
+  "foldedFrom": [
+    "castlewood-ranch-co"
+  ],
+  "checked": "2026-09-14",
   "publicReferences": [
     "https://www.crgov.com/3902/Landscape-Design-for-Homeowners"
   ]

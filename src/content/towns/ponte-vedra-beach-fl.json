@@ -51,9 +51,11 @@
       "kicker": "Who approves it",
       "h2": "Two approval paths: the zoning board on the boulevard, a private committee behind the gates.",
       "paras": [
-        "Ponte Vedra Beach is unincorporated, with no city hall, but it has its own zoning district. The Ponte Vedra Zoning District Regulations, Ordinance 2020-38, are administered by the Ponte Vedra Zoning and Adjustment Board, which takes final action on building size, land-use intensity, and the yards and open space around buildings (<a href=\"https://www.sjcfl.us/wp-content/uploads/2023/08/pvzdr-code-update-jan25.withtitlepage.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Ponte Vedra Zoning District Regulations</a>).",
+        "Ponte Vedra Beach is unincorporated, with no city hall, but it has its own zoning district. The Ponte Vedra Zoning District Regulations, Ordinance 2020-38, are administered by the Ponte Vedra Zoning and Adjustment Board, which takes final action on building size, land-use intensity, and the yards and open space around buildings (<a href=\"https://www.sjcfl.us/wp-content/uploads/2026/02/PVZDR-Code.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Ponte Vedra Zoning District Regulations</a>).",
         "The zoning rules date to 1965, and the overlay for the coastal corridor to 1997. On the boulevard, where many older lots have no HOA in the usual sense, ask county planning whether your layout needs anything from the board before it's final.",
-        "Inside Sawgrass Players Club, Sawgrass Country Club, Marsh Landing and The Plantation, a private architectural committee approves changes instead, and the covenants still bind. Our guide explains <a href=\"/guides/florida-friendly-landscaping-and-hoas/\">what a committee can and can't stop</a>."
+        "The district's own Tree Protections rule, current as of a July 2025 update, applies to every existing, proposed or reconfigured residential lot in the district and prevails over Article IV of the county Land Development Code wherever the two conflict. A Protected Tree is any tree with a trunk of 10 inches DBH or more; a Specimen Tree, one of 30 inches DBH or more. Removing a Protected Tree needs Site Plan approval and a Protected Tree Removal Permit, which expires six months after it's issued. No replacement tree is required for one within 5 feet of the house footprint, a driveway of 800 square feet or less, or the perimeter fence line; near a pool, patio, sidewalk or similar improvement the replacement is inch-for-inch, and everywhere else it's two inches planted for every inch removed. An after-the-fact permit doubles the requirement, and a denial is appealed to the same Ponte Vedra Zoning and Adjustment Board (<a href=\"https://www.sjcfl.us/wp-content/uploads/2026/02/PVZDR-Code.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Ponte Vedra Zoning District Regulations, Section VIII.U</a>). Clearing a mature oak to open up a green or a lawn usually lands in the two-inch tier, so plan the layout around the trees you want to keep and confirm the permit before any tree work starts.",
+        "Inside Sawgrass Players Club, Sawgrass Country Club, Marsh Landing and The Plantation, a private architectural committee approves changes instead, and the covenants still bind. Our guide explains <a href=\"/guides/florida-friendly-landscaping-and-hoas/\">what a committee can and can't stop</a>.",
+        "In Marsh Landing, that committee is the Master Association's Architectural Review Board, and its own published rule is broad: an application is required of \"all exterior modifications, including like-for-like replacements and tree removals\" (<a href=\"https://www.marshlandinghoa.com/info.php?pnum=57\" target=\"_blank\" rel=\"nofollow noopener\">Marsh Landing Master Association: Architectural Review</a>). Replacing a worn lawn with turf, or clearing a tree for a green, needs an application first, judged against the ARB Green Book, 2024 Edition, and coordinated by the association's management company. Since February 2011 the ARB has also been a St. Johns County Registered Notice Association, which lets an owner get a county building permit without ARB-stamped plans by filing a signed affidavit that the ARB received the same application at least 30 days earlier and by accepting the civil-liability risk of violating the covenants. That's a county-permitting route for structures like a pool or pergola, not a substitute for the ARB's own decision on your turf or green."
       ]
     },
     {
@@ -111,8 +113,8 @@
       "url": "https://en.wikipedia.org/wiki/Ponte_Vedra_Beach,_Florida"
     },
     {
-      "label": "Ponte Vedra Zoning District Regulations (Ordinance 2020-38)",
-      "url": "https://www.sjcfl.us/wp-content/uploads/2023/08/pvzdr-code-update-jan25.withtitlepage.pdf"
+      "label": "Ponte Vedra Zoning District Regulations (Ordinance 2020-38, updated July 2025)",
+      "url": "https://www.sjcfl.us/wp-content/uploads/2026/02/PVZDR-Code.pdf"
     },
     {
       "label": "St. Johns County: planning and zoning boards and agencies",
@@ -141,10 +143,17 @@
     {
       "label": "Fla. Stat. 720.3045: items not visible from the frontage, including artificial turf",
       "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0700-0799/0720/Sections/0720.3045.html"
+    },
+    {
+      "label": "Marsh Landing Master Association: Architectural Review",
+      "url": "https://www.marshlandinghoa.com/info.php?pnum=57"
     }
   ],
-  "checked": "2026-09-07",
+  "checked": "2026-09-14",
   "publicReferences": [
-    "https://www.sjcfl.us/wp-content/uploads/2023/08/pvzdr-code-update-jan25.withtitlepage.pdf"
+    "https://www.sjcfl.us/wp-content/uploads/2026/02/PVZDR-Code.pdf"
+  ],
+  "foldedFrom": [
+    "marsh-landing-country-club-fl"
   ]
 }

@@ -1,0 +1,26 @@
+{
+  "intent": "Give Marsh Creek Country Club its own sourced passage on anastasia-island-fl instead of the page's earlier generic line that it 'carries private deed restrictions': state what its declaration actually requires for artificial grass, and what that means for a lot bordering its golf course.",
+  "distinctValue": "The Marsh Creek Declaration of Covenants, Conditions, Restrictions and Easements (O.R. Book 753, page 1756; executed 11 July 1987) is not a flat turf ban. Article V, Section 4(k), amended in its entirety 20 May 1997, requires Architectural Review Board approval before any artificial grass, plants or other artificial vegetation is placed on a lot -- an application decides the outcome, not a blanket prohibition. Article X, Section 5 separately subjects every lot abutting the golf course to an easement for ordinary play (ball removal, noise) and requires fencing and improvements next to the course to be strictly reviewed so they don't interfere with play, which bears on where a putting green or its fencing sits on a course-side lot. Fla. Stat. 720.3045's protection for turf not visible from a community golf course means that protection doesn't reach a green that would be visible from play on a Marsh Creek course-side lot -- the ARB decision governs there. The live PDF host refused direct connections on 2026-09-13; the same document was read via its archived copy on web.archive.org.",
+  "sources": [
+    {
+      "label": "Marsh Creek Declaration of Covenants, Conditions, Restrictions and Easements",
+      "url": "http://www.actiontitlestjohns.com/communitydocs/Marshcreek.pdf",
+      "checked": "2026-09-13",
+      "supports": [
+        "MARSH CREEK DECLARATION OF COVENANTS, CONDITIONS, RESTRICTIONS AND EASEMENTS ... dated July 11, 1987.",
+        "3. Section 4(k) of Article V of the Declaration is hereby amended in its entirety to read as follows: \"(k) Landscaping. A basic landscaping plan shall be prepared for each Lot and must be submitted to and approved by the ARB prior to initial construction and development thereon. No artificial grass, plants or other artificial vegetation or sculptural landscape décor shall be placed or maintained on any Lot unless approved by the ARB.\"",
+        "SECOND AMENDMENT TO MARSH CREEK DECLARATION OF COVENANTS, CONDITIONS RESTRICTIONS AND EASEMENTS THE AMENDMENT is made this 20th day of May, 1997",
+        "Section 5. Easements for Golf Course. Each Lot abutting or contiguous with the golf course to be constructed in connection with the Marsh Creek Country Club is hereby subjected to an easement for the ordinary and usual activities associated with the playing of golf, including without limitation, removal of balls, noise of players and carts, and normal maintenance. All fencing and other improvement abutting the golf course shall be strictly reviewed to assure that such fencing and improvements do not interfere with the playing of golf.",
+        "A portion of Government Lot 7, Section 3, together with a portion of Government Lots 5, 6, 7 and 8, Section 4, together with a portion of Government Lots 1 and 2, Section 9, all lying with in Township 9 South, range 30 east, Anastasia Island, St. Johns County, Florida"
+      ]
+    },
+    {
+      "label": "Fla. Stat. 720.3045 (2025)",
+      "url": "https://www.flsenate.gov/Laws/Statutes/2025/720.3045",
+      "checked": "2026-09-13",
+      "supports": [
+        "an association may not restrict parcel owners or their tenants from installing, displaying, or storing any items on a parcel which are not visible from the parcel's frontage or an adjacent parcel, an adjacent common area, or a community golf course, including, but not limited to, artificial turf"
+      ]
+    }
+  ]
+}

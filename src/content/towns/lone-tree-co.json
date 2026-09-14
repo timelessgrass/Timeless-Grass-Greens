@@ -42,6 +42,7 @@
       "paras": [
         "Lone Tree has more homes in multi-unit buildings than detached houses, and its newest neighborhoods are its densest. That matters for turf, because SB23-178 protects back-yard turf only on a single-family detached home. Its bar on HOA design guidelines that prohibit nonvegetative turf doesn't reach a condominium, or an attached home that shares one or more walls with another (<a href=\"https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SB23-178</a>).",
         "In a detached house in Heritage Hills, Carriage Club, the Fairways or Acres Green, the back-yard protection is yours, though the front yard is still your HOA's call. In a townhome or condo, the association's rules decide, and the patio or strip outside may well be common property.",
+        "Heritage Hills' own rules make that front-yard call concrete. Effective 1 June 2022, and not applied to a project already completed or approved before that date, the association's design standards bar artificial turf on front yards and on side yards visible from the street (<a href=\"https://www.heritagehillshoa.org/design-standards\" target=\"_blank\" rel=\"nofollow noopener\">Heritage Hills HOA Design Standards</a>). Hardscape — concrete, tile, stone and sport courts — is capped at 20% of the front or back yard, with pool decking excluded from that count. The HOA can allow up to 33% only where the landscape plan uses screening or the lot is enclosed by a privacy fence, and that expansion is the board's call to grant, not something to count on going in. For a back-yard putting green with paver surrounds or a sport-court pad here, run the hardscape math before the plan goes to the board, and confirm the current rules with the Heritage Hills HOA before you design around them.",
         "Shared ground carries a second limit under Colorado's newer turf law, set out in our <a href=\"/guides/colorado-turf-law/\">guide to the state turf law</a>. The city's own code is the other place a landscaping standard could sit, so ask Lone Tree before you design a front yard."
       ]
     },
@@ -124,8 +125,15 @@
     {
       "label": "Colorado Geological Survey: heaving bedrock",
       "url": "https://coloradogeologicalsurvey.org/hazards/heaving-bedrock/"
+    },
+    {
+      "label": "Heritage Hills HOA: Design Standards",
+      "url": "https://www.heritagehillshoa.org/design-standards"
     }
   ],
-  "checked": "2026-09-07",
+  "foldedFrom": [
+    "heritage-hills-co"
+  ],
+  "checked": "2026-09-14",
   "publicReferences": []
 }

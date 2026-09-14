@@ -1,0 +1,37 @@
+{
+  "intent": "What property and project conditions should be checked before relying on a Florida building-permit exemption?",
+  "distinctValue": "Retains the dated source already cited by the Jacksonville Beach page; it does not establish eligibility for a particular property.",
+  "status": "Prior research, not reverified in this editorial pass.",
+  "sources": [
+    {
+      "label": "HB 803 (2026), ch. 2026-63 — amendment to Fla. Stat. 553.79",
+      "url": "https://www.nassaucountyfl.com/DocumentCenter/View/31830/Chapter-2026-63-HB803",
+      "checked": "2026-09-07",
+      "supports": [
+        "\"A local government that issues building permits shall exempt an owner of a single-family dwelling or the owner's contractor from the requirement to obtain a building permit to perform any work valued at less than $7,500 on the owner's property.\" The exemption does not apply to work on property partially or entirely located in a flood hazard area."
+      ]
+    },
+    {
+      "label": "Fla. Stat. 161.053: Coastal Construction Control Line",
+      "url": "https://www.flsenate.gov/Laws/Statutes/2024/161.053",
+      "checked": "2026-09-13",
+      "supports": [
+        "(1)(a) \"Upon such filing with the Department of State, no person, firm, corporation, or governmental agency shall construct any structure whatsoever seaward thereof; make any excavation, remove any beach material, or otherwise alter existing ground elevations; drive any vehicle on, over, or across any sand dune; or damage or cause to be damaged such sand dune or the vegetation growing thereon seaward thereof, except as hereinafter provided.\"",
+        "(18)(a) \"The department may grant general permits for projects, including dune restoration, dune walkovers, decks, fences, landscaping, sidewalks, driveways, pool resurfacing, minor pool repairs, and other nonhabitable structures, if the projects, due to type, size, or temporary nature, will not cause a measurable interference with the natural functioning of the beach-dune system.\" Landscaping is listed under the general-permit track, not given an automatic exemption."
+      ]
+    },
+    {
+      "label": "Florida DEP: Coastal Construction Control Line Program",
+      "url": "https://floridadep.gov/rcp/coastal-construction-control-line",
+      "checked": "2026-09-13",
+      "supports": [
+        "\"The Coastal Construction Control Line (CCCL) Program regulates structures and activities that can cause beach erosion, destabilize dunes, damage upland properties or interfere with public access.\"",
+        "The program applies special siting and design criteria to construction and related activities and protects dune vegetation."
+      ]
+    }
+  ],
+  "reviewNotes": [
+    "Confirm current applicability with the building department for the address and full scope, including the flood-hazard limitation. This record preserves an existing source and does not extend service territory.",
+    "Added an oceanfront CCCL paragraph per plans/buildout/jax-premium/build.json strengthen item: check the lot against DEP's control line before planning turf near the dune; general permits cover landscaping rather than an automatic exemption."
+  ]
+}

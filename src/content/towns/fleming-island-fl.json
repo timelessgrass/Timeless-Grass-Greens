@@ -41,9 +41,9 @@
       "kicker": "Your board comes first",
       "h2": "On Fleming Island, the architectural board sees the plan before anyone digs.",
       "paras": [
-        "Fleming Island Plantation is a deed-restricted community development district, run under recorded covenants and its BAR Guidelines, Revision N (<a href=\"https://fipcdd.com/\" target=\"_blank\" rel=\"nofollow noopener\">Fleming Island Plantation CDD</a>). Any exterior change needs an application to the Plantation's architectural board, the BAR, before work starts, and changes made without one draw fines (<a href=\"https://www.flemingislandplantationowners.com/\" target=\"_blank\" rel=\"nofollow noopener\">Fleming Island Plantation community site</a>).",
-        "Eagle Harbor sits under The Crossings at Fleming Island CDD, set up in 1989, with its own HOA on top (<a href=\"https://thecrossingsatflemingislandcdd.com/\" target=\"_blank\" rel=\"nofollow noopener\">The Crossings at Fleming Island CDD</a>). Pace Island, gated on Doctors Lake, has an association of its own.",
-        "Whichever one you're in, the custom layout you approve before work starts is the drawing to send with your application. It shows where the turf goes, what stays planted, and how the yard still drains to its pond."
+        "Fleming Island Plantation is a deed-restricted community development district, run under recorded covenants and its BAR Residential Guidelines, Revision N (<a href=\"https://www.flemingislandplantationowners.com/wp-content/uploads/sites/46/2025/01/Copy-of-BARguidelinesRevN-draft-1.pdf\" target=\"_blank\" rel=\"nofollow noopener\">BAR Residential Guidelines</a>). Section 5.13.4, Artificial Vegetation, bans it outright: \"No artificial grass, plants, flowers or other artificial vegetation or sculptural landscape décor shall be placed on the exterior portion of any lot.\" That leaves Fla. Stat. 720.3045 as the only path, and only where the turf sits fully out of sight of the frontage, adjacent parcels, adjacent common areas and the community golf course (<a href=\"https://www.flsenate.gov/Laws/Statutes/2024/720.3045\" target=\"_blank\" rel=\"nofollow noopener\">section 720.3045</a>). The same guidelines require homes on a drainage or retention pond to keep St. Augustine sod down to the normal water level, so a live sod strip stays between any turf and the pond. Confirm the current rule with the association before planning a layout.",
+        "Eagle Harbor sits under The Crossings at Fleming Island CDD, set up in 1989, with its own HOA on top (<a href=\"https://thecrossingsatflemingislandcdd.com/\" target=\"_blank\" rel=\"nofollow noopener\">The Crossings at Fleming Island CDD</a>). Its ARC Residential Guidelines, last revised 1 February 2023 (Revision 19), cap how much of a lot's open space can be sod, paved areas included: 60% on 'A' and 'E' lots, 65% on 'B' lots, and 75% on 'C', 'D' and 'F' lots, alongside a required tree canopy and natural-area minimum (<a href=\"https://www.eagleharborassociation.com/pdf.php?lFileID=96362\" target=\"_blank\" rel=\"nofollow noopener\">Eagle Harbor ARC Residential Guidelines</a>). Sand, white rock, large wood chips, plastic sheeting and similar materials aren't an acceptable alternative to grass unless the ARC approves them, and any change of sod variety needs a Landscape Design Change Application approved before installation. The guidelines never name artificial turf, so ask the ARC in writing whether it counts toward the sod cap or needs its own approval, with your coverage numbers worked out first. Pond-bank lots follow the guidelines' own restoration procedure.",
+        "Pace Island, gated on Doctors Lake, has an association of its own. Whichever community you're in, the custom layout you approve before work starts is the drawing to send with your application. It shows where the turf goes, what stays planted, and how the yard still drains to its pond."
       ]
     },
     {
@@ -75,7 +75,7 @@
   "faq": [
     {
       "q": "Who installs artificial turf in Fleming Island, FL?",
-      "a": "We install artificial turf, backyard putting greens and pet turf on Fleming Island, FL. Most homes here sit in a CDD or HOA, and in Fleming Island Plantation any exterior change needs an application to the architectural board before work starts. Yards that back onto a pond or Doctors Lake also fall under the state turf rule's setbacks. Call 303-349-2368 for a free estimate."
+      "a": "We install artificial turf, backyard putting greens and pet turf on Fleming Island, FL. Most homes here sit in a CDD or HOA. Fleming Island Plantation's own guidelines ban artificial grass outright, so any turf there has to rely on the state's own-lot exception and sit fully out of sight. Eagle Harbor caps how much of a lot can be sod instead. Yards that back onto a pond or Doctors Lake also fall under the state turf rule's setbacks. Call 303-349-2368 for a free estimate."
     },
     {
       "q": "Does Florida's new turf law override my HOA or CDD?",
@@ -108,6 +108,14 @@
     {
       "label": "Fleming Island Plantation community site: covenants and BAR Guidelines",
       "url": "https://www.flemingislandplantationowners.com/"
+    },
+    {
+      "label": "Fleming Island Plantation: BAR Residential Guidelines, Revision N",
+      "url": "https://www.flemingislandplantationowners.com/wp-content/uploads/sites/46/2025/01/Copy-of-BARguidelinesRevN-draft-1.pdf"
+    },
+    {
+      "label": "Eagle Harbor: ARC Residential Guidelines, Revision 19",
+      "url": "https://www.eagleharborassociation.com/pdf.php?lFileID=96362"
     },
     {
       "label": "The Crossings at Fleming Island Community Development District",
@@ -146,7 +154,7 @@
       "url": "https://www.flsenate.gov/Laws/Statutes/2024/720.3045"
     }
   ],
-  "checked": "2026-09-07",
+  "checked": "2026-09-13",
   "publicReferences": [
     "https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc"
   ]
