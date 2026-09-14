@@ -5,7 +5,7 @@ import '../styles/components.css';
 import '../styles/home.css';
 import '../styles/wizard.css';
 import '../styles/service.css';
-import { businessName, phone, phoneHref, email, foundedYear } from '../data/brief';
+import { businessName, phone, phoneHref, email, foundedYear, socialProfiles } from '../data/brief';
 import { MARKETS } from '../data/markets';
 import { SERVICES } from '../data/services';
 import { Image } from 'astro:assets';
@@ -44,6 +44,7 @@ const graph: any[] = [
     ...(foundedYear ? { foundingDate: String(foundedYear) } : {}),
     ...(phone ? { telephone: phone } : {}),
     ...(email ? { email } : {}),
+    ...(socialProfiles.length ? { sameAs: socialProfiles.map((s) => s.url) } : {}),
     knowsAbout: SERVICES.map((s) => s.name),
     /* the three markets by name, as the header shows them; each area and town page names its own places */
     areaServed: MARKETS.map((m) => ({ '@type': 'Place', name: m.name })),
@@ -196,6 +197,12 @@ if (schema?.length) graph.push(...schema);
           <p class="micro">Learn</p>
           <ul><li><a href="/blog/">Turf questions</a></li><li><a href="/guides/">Turf rules by state</a></li></ul>
         </div>
+        {socialProfiles.length > 0 && (
+          <div>
+            <p class="micro">Follow us</p>
+            <ul>{socialProfiles.map((s) => <li><a href={s.url} target="_blank" rel="me noopener">{s.network}</a></li>)}</ul>
+          </div>
+        )}
       </nav>
       {phoneHref && <a class="foot__tel" href={phoneHref} data-cta="call-footer">{phone}</a>}
       <p class="foot__legal">&copy; {new Date().getFullYear()} {businessName} · <a href="/privacy/">Privacy</a></p>

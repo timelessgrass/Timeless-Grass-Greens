@@ -60,6 +60,7 @@ export const businessName = fact<string>(identity?.display_name);
 export const foundedYear  = fact<number>(identity?.founded_year);
 export const phone        = fact<string>(location?.phone);
 export const email        = fact<string>(location?.email);
+export const socialProfiles = facts<{ network: string; url: string }>(identity?.social_profiles);
 
 export const services     = facts<string>(b.services);
 export const serviceAreas = facts<string>(b.service_areas);

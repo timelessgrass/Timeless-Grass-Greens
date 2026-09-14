@@ -63,6 +63,23 @@
         "Site Plan - Side-by-side measured drawings of the property showing existing and proposed location of buildings, fences and mature trees.",
         "A common misconception is that the review requirement is based on the age of a building. However, an LAC is required for all properties within a historic district, including newer buildings."
       ]
+    },
+    {
+      "label": "City of Boulder: What Is a Historic District?",
+      "url": "https://bouldercolorado.gov/news/what-historic-district",
+      "checked": "2026-09-14",
+      "supports": [
+        "There are 10 historic districts in town, including Chautauqua, the Pearl Street Mall, Mapleton Hill and seven other residential areas."
+      ]
+    },
+    {
+      "label": "City of Boulder: Landmarks and Historic Districts",
+      "url": "https://bouldercolorado.gov/services/landmarks-and-historic-districts",
+      "checked": "2026-09-14",
+      "supports": [
+        "There are currently 10 historic districts and 200 individual landmarks, totaling more than 1,300 designated properties.",
+        "All exterior changes to a property designated as an individual landmark or located within a historic district require review and approval through a Landmark Alteration Certificate (LAC)."
+      ]
     }
   ]
 }

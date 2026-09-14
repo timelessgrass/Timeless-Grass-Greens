@@ -3,6 +3,43 @@
   "distinctValue": "Old Denver's fill-over-clay ground, its Stage 1 drought rules with no turf rebate, and Berkley's split between two water districts that both answer to Denver Water while sitting outside city jurisdiction for permits.",
   "sources": [
     {
+      "label": "National Register of Historic Places: Park Hill Historic District nomination form",
+      "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/04001348_text",
+      "checked": "2026-09-14",
+      "supports": [
+        "historic name Park Hill",
+        "other names/site number 5DV9035",
+        "street & number Bounded by Colorado Blvd., E. 26th Ave., Dahlia St., and E. Montview Blvd.",
+        "city or town Denver ... state Colorado ... county Denver"
+      ]
+    },
+    {
+      "label": "National Park Service: NRHP record, Park Hill Historic District",
+      "url": "https://npgallery.nps.gov/AssetDetail/NRIS/04001348",
+      "checked": "2026-09-14",
+      "supports": [
+        "NRIS ID 04001348, date shown as 12/16/2004 for the Park Hill Historic District record."
+      ]
+    },
+    {
+      "label": "National Park Service: National Register FAQs",
+      "url": "https://www.nps.gov/subjects/nationalregister/faqs.htm",
+      "checked": "2026-09-14",
+      "supports": [
+        "Under Federal Law, the listing of a property in the National Register places no restrictions on what a non-federal owner may do with their property up to and including destruction, unless the property is involved in a project that receives Federal assistance, usually funding or licensing/permitting."
+      ]
+    },
+    {
+      "label": "Denver: Landmark Districts in the City and County of Denver",
+      "url": "https://www.denvergov.org/files/assets/public/v/4/community-planning-and-development/documents/landmark-preservation/historic_districts_list.pdf",
+      "checked": "2026-09-14",
+      "supports": [
+        "Landmark Districts in the City and County of Denver (list of Historic District Name, Historic District #, Year Designated) — Park Hill does not appear as a row.",
+        "University Park ... D-61 ... 2024 ... 1886 - 1967",
+        "5/21/2025 Page 1 of 1 (document date, via a web.archive.org copy of the denvergov.org file; direct connections to denvergov.org timed out on 2026-09-14)"
+      ]
+    },
+    {
       "label": "Berkeley Water and Sanitation District",
       "url": "https://berkeleywsd.colorado.gov/",
       "checked": "2026-09-13",

@@ -65,7 +65,8 @@
       "paras": [
         "In Crestmoor Park (2nd Filing), the homeowners association's design guidelines count landscaping, a change of grade, ground level or drainage pattern as \"Development\" that needs Architectural Review Committee approval before it starts, most recently revised 19 May 2026 (<a href=\"https://img1.wsimg.com/blobby/go/a7cb532b-523d-4c31-97cb-cc4a5c15bd44/downloads/0cedb9e6-ef0c-4a2d-9b9a-cbece860e9bf/Design%20Guidelines%202026.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Crestmoor Park (2nd Filing) Homes Association Design Guidelines</a>). Inside the 8-foot side setbacks the guidelines allow only landscaping, so turf can run to the line but a wall, structure or edging there cannot. The guidelines do set a turf rule: premium artificial turf is accepted only with a full specification and sample submitted for ARC approval, only plush rolled goods with a natural look are considered, and interlocking turf squares are forbidden outright, so send the ARC your layout and product details before work starts (<a href=\"https://crestmoorparktwo.org/architectural-review\" target=\"_blank\" rel=\"nofollow noopener\">Crestmoor Park Homes Association</a>).",
         "Belcaro Park is an architectural HOA with covenants, split into four filings that each carry their own covenant document (<a href=\"https://belcaropark.com/about/\" target=\"_blank\" rel=\"nofollow noopener\">Belcaro Park Homeowners Association</a>, <a href=\"https://belcaropark.com/members-page/maps-covenants-by-laws/\" target=\"_blank\" rel=\"nofollow noopener\">maps and covenants by filing</a>). No turf rule is published on its public pages, so a project there needs the covenant for that filing and the association's procedures packet for architectural projects before you plan a layout.",
-        "Country Club and Denver's other landmark historic districts follow the city's landmark design guidelines for site and landscape design, dated 27 January 2016 in the document's own footer. Guideline 5.4a asks owners to keep most of a historic front yard as a grass lawn or a designed xeriscape that still reads as a landscaped yard, and guideline 5.4d says not to add berms that weren't historically there; the same rule reaches a street-facing side yard on a corner lot (<a href=\"https://www.denvergov.org/content/dam/denvergov/Portals/646/documents/landmark/design_guidelines/Denver_Landmark_Guidelines-Landscape.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Denver Landmark Guidelines: Site & Landscape Design</a>). Turf itself isn't mentioned, so ask Landmark Preservation staff whether a front-yard install needs review before you plan one. A back yard in one of these districts that also sits in an HOA still falls under the state line that makes a covenant against nonvegetative turf there unenforceable (<a href=\"https://codes.findlaw.com/co/title-37-water-and-irrigation/co-rev-st-sect-37-60-126/\" target=\"_blank\" rel=\"nofollow noopener\">C.R.S. 37-60-126</a>)."
+        "Country Club and Denver's other landmark historic districts follow the city's landmark design guidelines for site and landscape design, dated 27 January 2016 in the document's own footer. Guideline 5.4a asks owners to keep most of a historic front yard as a grass lawn or a designed xeriscape that still reads as a landscaped yard, and guideline 5.4d says not to add berms that weren't historically there; the same rule reaches a street-facing side yard on a corner lot (<a href=\"https://www.denvergov.org/content/dam/denvergov/Portals/646/documents/landmark/design_guidelines/Denver_Landmark_Guidelines-Landscape.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Denver Landmark Guidelines: Site & Landscape Design</a>). Turf itself isn't mentioned, so ask Landmark Preservation staff whether a front-yard install needs review before you plan one. A back yard in one of these districts that also sits in an HOA still falls under the state line that makes a covenant against nonvegetative turf there unenforceable (<a href=\"https://codes.findlaw.com/co/title-37-water-and-irrigation/co-rev-st-sect-37-60-126/\" target=\"_blank\" rel=\"nofollow noopener\">C.R.S. 37-60-126</a>).",
+        "Park Hill Historic District, bounded by Colorado Blvd., E. 26th Ave., Dahlia St. and E. Montview Blvd., is a listing on the National Register of Historic Places (<a href=\"https://npgallery.nps.gov/NRHP/GetAsset/NRHP/04001348_text\" target=\"_blank\" rel=\"nofollow noopener\">National Register nomination form</a>, listed 16 Dec 2004 per the <a href=\"https://npgallery.nps.gov/AssetDetail/NRIS/04001348\" target=\"_blank\" rel=\"nofollow noopener\">National Park Service record</a>). Under federal law, that listing alone places no restrictions on what a private owner does with the property, unless the project uses federal funding or needs a federal licence or permit (<a href=\"https://www.nps.gov/subjects/nationalregister/faqs.htm\" target=\"_blank\" rel=\"nofollow noopener\">National Park Service</a>). Park Hill isn't on Denver's list of Landmark Districts, current as of 21 May 2025, the same list that added University Park in 2024 (<a href=\"https://www.denvergov.org/files/assets/public/v/4/community-planning-and-development/documents/landmark-preservation/historic_districts_list.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Denver landmark historic districts list</a>), so the city's landmark design review and guideline 5.4a above don't reach a Park Hill yard. Check the city's landmark map for your address before you plan a front-yard layout there."
       ]
     }
   ],
@@ -111,9 +112,26 @@
     "berkley-co",
     "crestmoor-co",
     "belcaro-park-co",
-    "country-club-co"
+    "country-club-co",
+    "park-hill-co"
   ],
   "sources": [
+    {
+      "label": "National Register of Historic Places: Park Hill Historic District nomination form",
+      "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/04001348_text"
+    },
+    {
+      "label": "National Park Service: NRHP record, Park Hill Historic District",
+      "url": "https://npgallery.nps.gov/AssetDetail/NRIS/04001348"
+    },
+    {
+      "label": "National Park Service: National Register FAQs",
+      "url": "https://www.nps.gov/subjects/nationalregister/faqs.htm"
+    },
+    {
+      "label": "Denver: Landmark Districts in the City and County of Denver",
+      "url": "https://www.denvergov.org/files/assets/public/v/4/community-planning-and-development/documents/landmark-preservation/historic_districts_list.pdf"
+    },
     {
       "label": "Denver Water: Board of Water Commissioners declares Stage 1 drought",
       "url": "https://www.denverwater.org/tap/denver-board-water-commissioners-declares-stage-1-drought-implements-mandatory-watering"

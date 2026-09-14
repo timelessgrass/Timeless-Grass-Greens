@@ -106,7 +106,29 @@
       "date": "2026-09-04",
       "transcript": "onboarding-2026-09-04-diarized.txt",
       "note": "The founder's own years, never the company's. Timeless was founded in 2024."
-    }
+    },
+    "social_profiles": [
+      {
+        "value": {
+          "network": "Instagram",
+          "url": "https://www.instagram.com/timeless_grass/"
+        },
+        "status": "EXTERNAL_SOURCE",
+        "source": "operator_supplied",
+        "source_detail": "Profile link supplied by Ty (To The Max Media) in chat, 2026-09-14",
+        "date": "2026-09-14"
+      },
+      {
+        "value": {
+          "network": "Facebook",
+          "url": "https://www.facebook.com/profile.php?id=61556909127385"
+        },
+        "status": "EXTERNAL_SOURCE",
+        "source": "operator_supplied",
+        "source_detail": "Profile link supplied by Ty (To The Max Media) in chat, 2026-09-14",
+        "date": "2026-09-14"
+      }
+    ]
   },
   "services": [
     {
