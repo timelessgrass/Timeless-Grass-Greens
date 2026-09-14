@@ -15,8 +15,8 @@ import {
  *
  * Every POST, including an unexpected external POST, is intercepted at context
  * level. No POST is ever continued or fetched. GET assets/pages remain real.
- * A fixture fails if anything tries to POST outside the two local form endpoints.
- * Native no-JS POST success is a test HTML response, not a Netlify delivery test.
+ * A fixture fails if anything tries to POST anywhere but the site's /api/lead endpoint.
+ * Native no-JS POST success is a test HTML response, not a delivery test.
  *
  * Run Chromium first; root should verify the intended browser projects/config.
  * Tests use the current source selectors, field values and native dialog behavior.
@@ -60,7 +60,7 @@ const test = base.extend<{ postGuard: PostGuard }>({
           body: request.postData() ?? '',
           contentType: request.headers()['content-type'] ?? '',
         });
-        if (url.origin !== ORIGIN || !['/', '/thanks/'].includes(url.pathname)) {
+        if (url.origin !== ORIGIN || url.pathname !== '/api/lead') {
           unexpected.push(request.url());
           await route.fulfill({ status: 400, body: 'Blocked unexpected POST during E2E.' });
           return;
@@ -122,7 +122,7 @@ function expectPayload(post: CapturedPost, expectedPath: string, expectedUse = L
   expect(post.contentType).toContain('application/x-www-form-urlencoded');
   const body = new URLSearchParams(post.body);
   for (const [field, value] of Object.entries({ ...LEAD, use: expectedUse })) expect(body.get(field), field).toBe(value);
-  expect(body.get('form-name')).toBe('quote');
+  expect(body.has('form-name'), 'no Netlify Forms field').toBe(false);
   expect(body.get('landing-page')).toBe('/estimate/');
   expect(body.get('company')).toBe('');
 }
@@ -211,7 +211,7 @@ test('Indoor turf query preset reaches the unchanged use field in the request', 
   await form.getByRole('button', { name: 'Request a free estimate', exact: true }).click();
   await expect(form.locator('[data-wiz-done]')).toContainText('call to arrange');
   expect(postGuard.posts).toHaveLength(1);
-  expectPayload(postGuard.posts[0], '/', 'Indoor turf');
+  expectPayload(postGuard.posts[0], '/api/lead', 'Indoor turf');
 });
 
 test('every service estimate action selects its matching project type', async ({ page, postGuard }) => {
@@ -295,7 +295,7 @@ test('conflicting service preset asks for confirmation while generic actions res
   expect(postGuard.posts).toHaveLength(1);
   const payload = new URLSearchParams(postGuard.posts[0].body);
   for (const [field, value] of Object.entries(LEAD)) expect(payload.get(field), field).toBe(value);
-  expect(payload.get('form-name')).toBe('quote');
+  expect(payload.has('form-name'), 'no Netlify Forms field').toBe(false);
   expect(payload.get('landing-page')).toBe('/services/pet-turf/');
 });
 
@@ -325,7 +325,7 @@ test('failed submission retains every answer; retry succeeds without navigation'
     }
   }
   expect(postGuard.posts).toHaveLength(1);
-  expectPayload(postGuard.posts[0], '/');
+  expectPayload(postGuard.posts[0], '/api/lead');
 
   await submit.click();
   await expect(form.locator('[data-wiz-done]')).toBeVisible();
@@ -334,7 +334,7 @@ test('failed submission retains every answer; retry succeeds without navigation'
   await expect(error).toBeHidden();
   await expect(page).toHaveURL(BASE_URL + '/estimate/');
   expect(postGuard.posts).toHaveLength(2);
-  expectPayload(postGuard.posts[1], '/');
+  expectPayload(postGuard.posts[1], '/api/lead');
 });
 
 test('pending and completed requests cannot submit duplicate leads', async ({ page, postGuard }) => {
@@ -554,8 +554,8 @@ test.describe('without JavaScript', () => {
     expect(await form.evaluate((node: HTMLFormElement) => node.checkValidity())).toBe(true);
     await form.getByRole('button', { name: 'Request a free estimate', exact: true }).click();
     await expect(page.getByRole('heading', { name: 'Captured locally' })).toBeVisible();
-    await expect(page).toHaveURL(BASE_URL + '/thanks/');
+    await expect(page).toHaveURL(BASE_URL + '/api/lead');
     expect(postGuard.posts).toHaveLength(1);
-    expectPayload(postGuard.posts[0], '/thanks/');
+    expectPayload(postGuard.posts[0], '/api/lead');
   });
 });

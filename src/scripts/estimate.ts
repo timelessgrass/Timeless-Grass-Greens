@@ -1,11 +1,11 @@
 /**
- * The estimate: a five-step wizard over the one Netlify form ("quote"), shown in a dialog on
+ * The estimate: a five-step wizard over the one estimate form ("quote"), shown in a dialog on
  * every page and inline on /estimate/.
  *
  * Progressive: the HTML is a complete form. This file shows one question at a time, advances
  * when an answer is tapped, checks each step, and submits in place with fetch. A failed or timed
  * out request keeps the answers on screen so the visitor can retry or call. Without JavaScript,
- * the native form still posts to Netlify and serves /thanks/.
+ * the native form still posts to /api/lead (netlify/functions/lead.mjs), which sends it on to /thanks/.
  *
  * The dialog is a native <dialog> opened with showModal(): focus is trapped, the page behind is
  * inert, Escape closes it, and focus goes back to the button that opened it. Any element with
@@ -101,7 +101,7 @@ function enhance(form: HTMLFormElement): Wizard {
     const timeout = window.setTimeout(() => controller.abort(), 15000);
     try {
       const body = new URLSearchParams(new FormData(form) as unknown as Record<string, string>).toString();
-      const res = await fetch('/', { method: 'POST', headers: { 'Content-Type': 'application/x-www-form-urlencoded' }, body, signal: controller.signal });
+      const res = await fetch(form.action, { method: 'POST', headers: { 'Content-Type': 'application/x-www-form-urlencoded', Accept: 'application/json' }, body, signal: controller.signal });
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const first = (form.querySelector<HTMLInputElement>('input[name="name"]')?.value ?? '').trim().split(/\s+/)[0];
       const slot = form.querySelector('[data-wiz-name]');

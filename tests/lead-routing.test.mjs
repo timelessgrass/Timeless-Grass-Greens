@@ -5,11 +5,11 @@ import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { buildLead, resolveArea, stateOf, phoneParts, CAMPAIGN_NAME, LEAD_TYPE } from '../netlify/functions/lib/lead-routing.mjs';
 import PLACES from '../netlify/functions/lib/places.mjs';
-import handler from '../netlify/functions/submission-created.mjs';
+import handler from '../netlify/functions/lead.mjs';
 
 const root = fileURLToPath(new URL('..', import.meta.url));
 const submission = (data, extra = {}) => ({
-  id: 'sub_123', form_name: 'quote', created_at: '2026-09-14T19:05:00.000Z', data: { 'form-name': 'quote', ...data }, ...extra,
+  id: 'lead_123', created_at: '2026-09-14T19:05:00.000Z', data: { ...data }, ...extra,
 });
 const BASE = {
   use: 'Putting green', size: '500 to 1,500 sq ft', timeline: 'As soon as possible', town: 'Conway, SC 29526',
@@ -153,27 +153,56 @@ test('the honeypot and a lead with no way to reach them are dropped; a test is m
   assert.match(buildLead(submission(BASE), { test: true }).subject, /^\[TEST\] /);
 });
 
-const event = (payload) => new Request('https://example.test/.netlify/functions/submission-created', { method: 'POST', body: JSON.stringify({ payload }) });
+const post = (fields, accept = 'application/json') => new Request('https://example.test/api/lead', {
+  method: 'POST',
+  headers: { 'Content-Type': 'application/x-www-form-urlencoded', Accept: accept },
+  body: new URLSearchParams(fields).toString(),
+});
 
-test('the Netlify event function sends the estimate form to Make, and only that form', async (t) => {
+test('the lead endpoint sends an estimate to Make and tells the wizard it worked', async (t) => {
   const calls = [];
   t.mock.method(console, 'log', () => {});
   t.mock.method(globalThis, 'fetch', async (url, init) => { calls.push({ url, body: JSON.parse(init.body) }); return new Response('Accepted'); });
-  const res = await handler(event(submission(BASE)));
+  const res = await handler(post(BASE));
   assert.equal(res.status, 200);
+  assert.deepEqual(await res.json(), { ok: true });
   assert.equal(calls.length, 1);
   assert.match(calls[0].url, /^https:\/\/hook\.us2\.make\.com\//);
   assert.equal(calls[0].body.lane, 'home');
   assert.equal(calls[0].body.campaignName, CAMPAIGN_NAME);
-  await handler(event({ ...submission(BASE), form_name: 'newsletter' }));
-  assert.equal(calls.length, 1);
+  assert.match(calls[0].body.leadId, /^[0-9a-f-]{36}$/);
 });
 
-test('a refused hand-off is tried twice, then reported as a failure', async (t) => {
+test('without JavaScript the form goes on to /thanks/, or to a page with the number when Make refuses', async (t) => {
+  t.mock.method(console, 'log', () => {});
+  t.mock.method(console, 'error', () => {});
+  let makeUp = true;
+  t.mock.method(globalThis, 'fetch', async () => new Response('x', { status: makeUp ? 200 : 500 }));
+  const sent = await handler(post(BASE, 'text/html'));
+  assert.equal(sent.status, 303);
+  assert.equal(sent.headers.get('location'), '/thanks/');
+  makeUp = false;
+  const refused = await handler(post({ ...BASE, market: 'grand-strand' }, 'text/html'));
+  assert.equal(refused.status, 502);
+  assert.match(await refused.text(), /720-630-0108/);
+});
+
+test('a refused hand-off is tried twice, then reported to the wizard', async (t) => {
   let attempts = 0;
   t.mock.method(console, 'error', () => {});
   t.mock.method(globalThis, 'fetch', async () => { attempts++; return new Response('nope', { status: 500 }); });
-  const res = await handler(event(submission(BASE)));
+  const res = await handler(post(BASE));
   assert.equal(res.status, 502);
+  assert.deepEqual(await res.json(), { ok: false });
   assert.equal(attempts, 2);
+});
+
+test('the honeypot is answered as accepted but never forwarded, and only POST is served', async (t) => {
+  let calls = 0;
+  t.mock.method(console, 'warn', () => {});
+  t.mock.method(globalThis, 'fetch', async () => { calls++; return new Response('Accepted'); });
+  const bot = await handler(post({ ...BASE, company: 'Acme' }));
+  assert.equal(bot.status, 200);
+  assert.equal(calls, 0);
+  assert.equal((await handler(new Request('https://example.test/api/lead'))).status, 405);
 });

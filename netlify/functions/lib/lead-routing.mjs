@@ -1,7 +1,7 @@
 /**
  * A website estimate request, turned into what Brian needs to call it back.
  *
- * netlify/functions/submission-created.mjs hands every verified "quote" submission to
+ * netlify/functions/lead.mjs (POST /api/lead) hands every estimate request from the form to
  * buildLead(). The result goes to Make (scenario "Timeless · Website Estimate Lead"), which routes
  * it by `lane`: every real lead to the TTM portal, and an email to Brian from the route for that
  * lane. Pure: no network, and no clock beyond the submission's own timestamp.
@@ -197,7 +197,7 @@ const pageMarketOf = (field, landingPage) => {
 const ATTRIBUTION = ['utm_source', 'utm_medium', 'utm_campaign', 'utm_term', 'utm_content', 'gclid', 'gbraid', 'wbraid', 'fbclid', 'first_referrer'];
 
 /**
- * @param payload the Netlify submission payload: { id, created_at, form_name, data: { field: value } }
+ * @param payload { id, created_at, data: { field: value } }: the form's fields, an id and when it arrived
  * @param opts.test a test run: Make sends it to the agency inbox only, never to Brian or the portal
  * @returns the lead for Make, or null when it should not be forwarded (honeypot, or no way to reach them)
  */
@@ -346,7 +346,7 @@ export function renderEmail(lead, { prep = [], timelineLine = '' } = {}) {
     <p style="margin:0;font-family:${SANS};font-size:12px;line-height:19px;color:${C.dim};word-break:break-all;">
       Submitted ${esc(lead.submittedLocal)}<br>
       From the estimate form on <a href="${esc(lead.pageUrl)}" style="color:${C.dim};">${esc(lead.pageUrl.replace(/^https?:\/\//, ''))}</a><br>
-      ${lead.leadId ? `Netlify submission ${esc(lead.leadId)}<br>` : ''}
+      ${lead.leadId ? `Lead ID ${esc(lead.leadId)}<br>` : ''}
       ${trackLines.join('<br>')}
     </p>
   </td></tr>
