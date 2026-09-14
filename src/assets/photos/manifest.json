@@ -151,5 +151,23 @@
   "h": 640,
   "ratio": 0.75,
   "kb": 51
+ },
+ {
+  "file": "side-yard-before-sand-and-weeds.jpg",
+  "alt": "A fenced side yard of bare sand and weeds, with a gravel bed and brick edging along the house and deck stairs behind",
+  "kind": "before",
+  "w": 1269,
+  "h": 952,
+  "ratio": 1.333,
+  "kb": 466
+ },
+ {
+  "file": "side-yard-after-artificial-turf.jpg",
+  "alt": "The same side yard covered in artificial turf from the fence to the concrete path, the gravel bed and brick edging kept",
+  "kind": "after",
+  "w": 1269,
+  "h": 952,
+  "ratio": 1.333,
+  "kb": 432
  }
 ]

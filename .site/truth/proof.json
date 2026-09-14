@@ -31,8 +31,107 @@
    "client_named": false
   }
  },
- "photos": [],
- "reviews": [],
+ "photos": [
+  {
+   "file": "side-yard-before-sand-and-weeds.jpg",
+   "kind": "before",
+   "caption": "Before: bare sand and weeds from the fence to the patio path.",
+   "shot_with": "customer phone",
+   "source": "customer_google_review",
+   "date": null,
+   "pair_id": "ba-1",
+   "note": "Posted by the customer with her Google review of the Denver profile; supplied by Ty 2026-09-14. Cropped and scaled so the two frames line up. Only these two of her photos are used."
+  },
+  {
+   "file": "side-yard-after-artificial-turf.jpg",
+   "kind": "after",
+   "caption": "Turf from the fence line to the patio path, with the gravel bed kept.",
+   "shot_with": "customer phone",
+   "source": "customer_google_review",
+   "date": null,
+   "pair_id": "ba-1",
+   "note": "Posted by the customer with her Google review of the Denver profile; supplied by Ty 2026-09-14. Cropped and scaled so the two frames line up. Only these two of her photos are used."
+  }
+ ],
+ "reviews": [
+  {
+   "platform": "google",
+   "url": "https://share.google/GghMR8Ua2gUM7z3ng",
+   "author": "Aria V.",
+   "business": "TIMELESS Grass & Greens (Denver profile)",
+   "quote": "see src/data/reviews.ts",
+   "stars": 5,
+   "date": null,
+   "permission": false,
+   "source": "Screenshots supplied by Ty, 2026-09-14"
+  },
+  {
+   "platform": "google",
+   "url": "https://share.google/GghMR8Ua2gUM7z3ng",
+   "author": "JP W.",
+   "business": "TIMELESS Grass & Greens (Denver profile)",
+   "quote": "see src/data/reviews.ts",
+   "stars": 5,
+   "date": null,
+   "permission": false,
+   "source": "Screenshots supplied by Ty, 2026-09-14"
+  },
+  {
+   "platform": "google",
+   "url": "https://share.google/GghMR8Ua2gUM7z3ng",
+   "author": "Harry M.",
+   "business": "TIMELESS Grass & Greens (Denver profile)",
+   "quote": "see src/data/reviews.ts",
+   "stars": 5,
+   "date": null,
+   "permission": false,
+   "source": "Screenshots supplied by Ty, 2026-09-14"
+  },
+  {
+   "platform": "google",
+   "url": "https://share.google/GghMR8Ua2gUM7z3ng",
+   "author": "Mary T.",
+   "business": "TIMELESS Grass & Greens (Denver profile)",
+   "quote": "see src/data/reviews.ts",
+   "stars": 5,
+   "date": null,
+   "permission": false,
+   "source": "Screenshots supplied by Ty, 2026-09-14"
+  },
+  {
+   "platform": "google",
+   "url": "https://www.nocoturf.com/",
+   "author": "Ally P.",
+   "business": "NoCo Turf (sister company)",
+   "quote": "see src/data/reviews.ts",
+   "stars": 5,
+   "date": null,
+   "permission": false,
+   "source": "nocoturf.com review section, read 2026-09-14; Brian offered NoCo Turf reviews on the call (00:40:38) and Ty asked for them to be cited as the sister company (2026-09-14)"
+  },
+  {
+   "platform": "google",
+   "url": "https://www.nocoturf.com/",
+   "author": "Kevin A.",
+   "business": "NoCo Turf (sister company)",
+   "quote": "see src/data/reviews.ts",
+   "stars": 5,
+   "date": null,
+   "permission": false,
+   "source": "nocoturf.com review section, read 2026-09-14; Brian offered NoCo Turf reviews on the call (00:40:38) and Ty asked for them to be cited as the sister company (2026-09-14)"
+  },
+  {
+   "platform": "google",
+   "url": "https://www.nocoturf.com/",
+   "author": "Jim W.",
+   "business": "NoCo Turf (sister company)",
+   "quote": "see src/data/reviews.ts",
+   "stars": 5,
+   "date": null,
+   "permission": false,
+   "source": "nocoturf.com review section, read 2026-09-14; Brian offered NoCo Turf reviews on the call (00:40:38) and Ty asked for them to be cited as the sister company (2026-09-14)"
+  }
+ ],
  "credentials": [],
  "case_studies": []
 }

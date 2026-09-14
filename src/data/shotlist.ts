@@ -48,10 +48,16 @@ export const SHOTS: Shot[] = [
     file: 'putting-green-shared-amenity-lawn.jpg', alt: 'A putting green on a shared lawn beside a residential building',
     caption: 'A green on a shared lawn beside a residential building.', heroFocus: '50% 80%' },
 
-  { id: 'ba-1a', kind: 'before', pairId: 'ba-1', ratio: '3/2', stock: { src: 'https://images.pexels.com/photos/11654274/pexels-photo-11654274.jpeg?auto=compress&cs=tinysrgb&w=1600', credit: 'Pexels #11654274' },
-    brief: 'BEFORE — stand somewhere you can stand again. Note the spot.' },
-  { id: 'ba-1b', kind: 'after',  pairId: 'ba-1', ratio: '3/2', stock: { src: 'https://images.pexels.com/photos/15413574/pexels-photo-15413574.jpeg?auto=compress&cs=tinysrgb&w=1600', credit: 'Pexels #15413574' },
-    brief: 'AFTER — same spot, same height, same time of day if you can.' },
+  /* ba-1: a customer's own before and after, posted with her Google review of the Denver profile
+     (Ty, 2026-09-14). Only these two of her photos are used. */
+  { id: 'ba-1a', kind: 'before', pairId: 'ba-1', ratio: '4/3', stock: { src: 'https://images.pexels.com/photos/11654274/pexels-photo-11654274.jpeg?auto=compress&cs=tinysrgb&w=1600', credit: 'Pexels #11654274' },
+    brief: 'BEFORE — stand somewhere you can stand again. Note the spot.',
+    file: 'side-yard-before-sand-and-weeds.jpg', alt: 'A fenced side yard of bare sand and weeds, with a gravel bed and brick edging along the house and deck stairs behind',
+    caption: 'Before: bare sand and weeds from the fence to the patio path.' },
+  { id: 'ba-1b', kind: 'after',  pairId: 'ba-1', ratio: '4/3', stock: { src: 'https://images.pexels.com/photos/15413574/pexels-photo-15413574.jpeg?auto=compress&cs=tinysrgb&w=1600', credit: 'Pexels #15413574' },
+    brief: 'AFTER — same spot, same height, same time of day if you can.',
+    file: 'side-yard-after-artificial-turf.jpg', alt: 'The same side yard covered in artificial turf from the fence to the concrete path, the gravel bed and brick edging kept',
+    caption: 'Turf from the fence line to the patio path, with the gravel bed kept.' },
   { id: 'ba-2a', kind: 'before', pairId: 'ba-2', ratio: '3/2', stock: { src: 'https://images.pexels.com/photos/6729124/pexels-photo-6729124.jpeg?auto=compress&cs=tinysrgb&w=1600', credit: 'Pexels #6729124' }, brief: 'BEFORE — second job. Same rule.' },
   { id: 'ba-2b', kind: 'after',  pairId: 'ba-2', ratio: '3/2', stock: { src: 'https://images.pexels.com/photos/5231242/pexels-photo-5231242.jpeg?auto=compress&cs=tinysrgb&w=1600', credit: 'Pexels #5231242' }, brief: 'AFTER — second job, matched angle.' },
   { id: 'ba-3a', kind: 'before', pairId: 'ba-3', ratio: '3/2', stock: { src: 'https://images.pexels.com/photos/3999647/pexels-photo-3999647.jpeg?auto=compress&cs=tinysrgb&w=1600', credit: 'Pexels #3999647' }, brief: 'BEFORE — third job.' },

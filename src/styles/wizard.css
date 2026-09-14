@@ -125,6 +125,7 @@ html.estimate-open { overflow: hidden; }
 .has-inline-estimate .bar { display: none; }
 .estimate-page__card { width: 100%; max-width: 640px; margin-inline: auto; background: var(--ground); border: 1px solid var(--rule);
   border-radius: var(--radius-card); box-shadow: 0 18px 40px rgba(14, 14, 12, .08); }
+.estimate-page .reviews--compact { max-width: 640px; } /* the two reviews under the form share its width */
 
 /* --- the offer: what the free estimate includes, and the button that opens it -------- */
 .offer { display: grid; gap: clamp(2rem, 5vw, 4rem); align-items: center; }

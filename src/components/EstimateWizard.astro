@@ -17,8 +17,8 @@ import { phone as briefPhone, phoneHref as briefPhoneHref } from '../data/brief'
 
 /** phone/phoneHref default to the shared brief.ts number; Base.astro passes the market-resolved
  *  pair (src/data/contact.ts) for the modal it renders on every page. */
-interface Props { mode?: 'modal' | 'inline'; phone?: string | null; phoneHref?: string | null }
-const { mode = 'modal', phone = briefPhone, phoneHref = briefPhoneHref } = Astro.props;
+interface Props { mode?: 'modal' | 'inline'; phone?: string | null; phoneHref?: string | null; market?: string }
+const { mode = 'modal', phone = briefPhone, phoneHref = briefPhoneHref, market = '' } = Astro.props;
 
 const USES = [
   { v: 'Lawn', label: 'Lawn', icon: 'leaf' },
@@ -31,11 +31,16 @@ const USES = [
 ];
 const SIZES = ['Under 500 sq ft', '500 to 1,500 sq ft', '1,500 to 5,000 sq ft', 'Over 5,000 sq ft', 'Not sure yet'];
 const WHEN = ['As soon as possible', 'In the next few months', 'Just getting prices'];
+/* Filled by src/scripts/estimate.ts from the landing URL and the referring site, for the lead email
+   and the portal (netlify/functions/lib/lead-routing.mjs). Empty when the visit carried none. */
+const ATTRIBUTION = ['utm_source', 'utm_medium', 'utm_campaign', 'utm_term', 'utm_content', 'gclid', 'gbraid', 'wbraid', 'fbclid', 'first_referrer'];
 const title = `wiz-${mode}-title`;
 ---
 <form class={`wiz wiz--${mode}`} name="quote" method="POST" action="/thanks/" data-netlify="true" netlify-honeypot="company" data-wizard data-preview={import.meta.env.DEV ? 'true' : undefined} data-cta="quote-form" aria-labelledby={title}>
   <input type="hidden" name="form-name" value="quote" />
   <input type="hidden" name="landing-page" value={Astro.url.pathname} />
+  <input type="hidden" name="market" value={market} />
+  {ATTRIBUTION.map((n) => <input type="hidden" name={n} value="" data-attr />)}
   <p class="hp" aria-hidden="true"><label>Company <input type="text" name="company" tabindex="-1" autocomplete="off" /></label></p>
 
   <div class="wiz__head">

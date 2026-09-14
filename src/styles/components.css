@@ -237,16 +237,65 @@
 .step h3 { margin-bottom: .55rem; }
 .step p { color: var(--ink-dim); font-size: .95rem; margin: 0; max-width: 42ch; }
 
-/* --- before / after wipe ------------------------------------------------------------ */
-.wipes { display: grid; gap: 1.6rem; }
-@media (min-width: 900px) { .wipes { grid-template-columns: 1fr 1fr; } }
-.wipe { position: relative; border-radius: var(--radius-card); overflow: hidden; }
-.wipe .fig { margin: 0; } .wipe .fig figcaption { display: none; }
-.wipe__after { position: absolute; inset: 0; clip-path: inset(0 100% 0 0); }
-.wipe__line { position: absolute; top: 0; bottom: 0; left: 0; width: 2px; background: var(--ground); box-shadow: 0 0 0 1px rgba(0,0,0,.25); pointer-events: none; }
-.wipe__tag { position: absolute; top: .8rem; font-size: .66rem; letter-spacing: .16em; text-transform: uppercase; font-weight: 600; padding: .3rem .6rem; border-radius: var(--radius-pill); background: rgba(14,14,12,.78); color: var(--ink-on-dark); z-index: 2; }
-.wipe__tag--b { left: .8rem; } .wipe__tag--a { right: .8rem; color: var(--accent-on-dark); }
-.wipe__cap { font-size: .84rem; color: var(--ink-faint); margin: .7rem 0 0; }
+/* --- before / after: drag the divider (BeforeAfter.astro) ------------------------------ */
+.barow { display: grid; gap: clamp(1.4rem, 3.5vw, 2.8rem); align-items: center; }
+@media (min-width: 900px) { .barow:not(.barow--solo) { grid-template-columns: minmax(0, 1.5fr) minmax(0, 1fr); } }
+.barow ~ .barow { margin-top: clamp(2rem, 5vw, 3.2rem); } /* ~ not +: Astro renders the slider's <script> right after each row */
+.barow--solo { max-width: 860px; margin-inline: auto; }
+.ba { margin: 0; }
+.ba__stage { --pos: 50%; position: relative; aspect-ratio: 4 / 3; overflow: hidden; border-radius: var(--radius-card); background: var(--ground-dark);
+             touch-action: pan-y; user-select: none; -webkit-user-select: none; cursor: ew-resize; }
+.ba__img { position: absolute; inset: 0; pointer-events: none; } /* the stage takes every pointer; no native image drag */
+.ba__img .fig, .ba__img .fig__media { margin: 0; height: 100%; }
+.ba__img img { display: block; width: 100%; height: 100%; object-fit: cover; }
+.ba__img figcaption { display: none; }
+.ba__img--after { clip-path: inset(0 0 0 var(--pos)); }
+.ba__line { position: absolute; top: 0; bottom: 0; left: var(--pos); z-index: 2; width: 2px; translate: -1px 0; background: var(--ink-on-dark);
+            box-shadow: 0 0 0 1px rgba(14, 14, 12, .22); pointer-events: none; }
+.ba__grip { position: absolute; top: 50%; left: 50%; display: grid; place-items: center; width: 48px; height: 48px; translate: -50% -50%;
+            border-radius: var(--radius-pill); background: var(--ink-on-dark); color: var(--ground-dark); box-shadow: var(--shadow-float);
+            transition: scale var(--dur-ui) var(--ease); }
+.ba__grip svg { width: 22px; height: 22px; }
+.ba__grip path { fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+.ba.is-dragging .ba__grip { scale: 1.08; }
+.ba__tag { position: absolute; top: .8rem; font-size: .66rem; letter-spacing: .16em; text-transform: uppercase; font-weight: 600; padding: .3rem .6rem; border-radius: var(--radius-pill); background: rgba(14,14,12,.78); color: var(--ink-on-dark); z-index: 2; }
+.ba__tag--b { left: .8rem; } .ba__tag--a { right: .8rem; color: var(--accent-on-dark); }
+.ba__range { position: absolute; left: 0; bottom: 0; width: 100%; height: 1px; margin: 0; opacity: 0; pointer-events: none; }
+.ba:not(.is-live) .ba__range { display: none; }
+.ba__stage:has(.ba__range:focus-visible) { outline: 3px solid var(--accent); outline-offset: 3px; }
+.on-dark .ba__stage:has(.ba__range:focus-visible) { outline-color: var(--accent-on-dark); }
+.ba__cap { margin: .75rem 0 0; font-size: .84rem; color: var(--ink-faint); }
+.on-dark .ba__cap { color: var(--ink-on-dark-faint); }
+.baquote { margin: 0; display: grid; gap: .9rem; }
+.baquote__q { margin: 0; font-family: var(--font-display); font-size: clamp(1.25rem, 2.3vw, 1.6rem); line-height: 1.4; letter-spacing: var(--track-display); text-wrap: pretty; }
+.baquote__by { display: grid; gap: .15rem; font-size: .86rem; color: var(--ink-dim); }
+.baquote__by b { color: var(--ink); font-weight: 600; }
+.on-dark .baquote__by { color: var(--ink-on-dark-dim); }
+.on-dark .baquote__by b { color: var(--ink-on-dark); }
+
+/* --- reviews (Reviews.astro, ReviewCard.astro). Phones swipe a row; wider screens show a grid. -- */
+.stars { color: var(--accent); font-size: .95rem; letter-spacing: .14em; line-height: 1; }
+.on-dark .stars { color: var(--accent-on-dark); }
+.reviews { list-style: none; margin: 0; padding: 0; display: grid; gap: 1rem; align-items: stretch;
+           grid-template-columns: repeat(auto-fit, minmax(min(100%, 290px), 1fr)); }
+.barow ~ .reviews { margin-top: clamp(2rem, 5vw, 3rem); }
+@media (max-width: 699px) {
+  .reviews:not(.reviews--compact) { grid-template-columns: none; grid-auto-flow: column; grid-auto-columns: 86%; overflow-x: auto;
+                                    overscroll-behavior-x: contain; scroll-snap-type: x mandatory; scrollbar-width: none; }
+  .reviews:not(.reviews--compact)::-webkit-scrollbar { display: none; }
+  .reviews > li { scroll-snap-align: start; }
+}
+.review { display: grid; grid-template-rows: auto 1fr auto; gap: .8rem; padding: 1.3rem 1.3rem 1.15rem; background: var(--ground-band); border-radius: var(--radius-card); }
+.sec--band .review, .reviews--compact .review { background: var(--ground); }
+.review__q { margin: 0; font-family: var(--font-display); font-size: 1.08rem; line-height: 1.48; color: var(--ink); }
+.review__q p { margin: 0; }
+.review__by { margin: 0; display: grid; gap: .12rem; font-size: .82rem; line-height: 1.35; color: var(--ink-dim); }
+.review__by b { color: var(--ink); font-size: .9rem; font-weight: 600; }
+.reviews__foot { margin: 1.3rem 0 0; display: flex; flex-wrap: wrap; align-items: center; gap: .5rem 1.5rem; font-size: .88rem; color: var(--ink-dim); }
+.reviews__more { display: inline-flex; align-items: center; gap: .4rem; font-weight: 600; color: var(--accent); }
+.reviews__more svg { width: 1em; height: 1em; }
+.reviews--compact { margin: 1.4rem auto 0; }
+.reviews--compact .review__q { font-size: 1rem; }
 
 /* --- faq ------------------------------------------------------------------------------ */
 .faq { margin-top: 2.2rem; }

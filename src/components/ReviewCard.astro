@@ -1,0 +1,12 @@
+---
+/** One review, as written, with who wrote it and where it was posted (src/data/reviews.ts). */
+import { BUSINESS_LABEL, type Review } from '../data/reviews';
+
+interface Props { r: Review }
+const { r } = Astro.props;
+---
+<li class="review" data-reveal>
+  <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
+  <blockquote class="review__q"><p>{r.text}</p></blockquote>
+  <p class="review__by"><b>{r.author}</b><span>{BUSINESS_LABEL[r.business]}</span></p>
+</li>

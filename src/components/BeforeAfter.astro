@@ -1,0 +1,112 @@
+---
+/**
+ * A before/after pair you can drag.
+ *
+ * The AFTER photograph sits over the BEFORE, clipped at the divider. A mouse drags from anywhere on
+ * the photo; a finger moves it with a sideways drag or a tap, while an up-and-down swipe still
+ * scrolls the page (touch-action: pan-y). A range input carries the same value for arrow keys and
+ * screen readers. Without JavaScript the pair rests half and half with both tags showing. The first
+ * time it comes into view, the divider sweeps once to show that it moves; reduced motion skips that.
+ *
+ * Renders nothing unless both photographs exist. When a review came with the pair (reviews.ts
+ * pairId), its words sit beside the photographs.
+ */
+import Figure from './Figure.astro';
+import { SHOTS } from '../data/shotlist';
+import { REVIEWS, BUSINESS_LABEL } from '../data/reviews';
+
+interface Props { pairId: string }
+const { pairId } = Astro.props;
+const before = SHOTS.find((s) => s.pairId === pairId && s.kind === 'before' && s.file);
+const after = SHOTS.find((s) => s.pairId === pairId && s.kind === 'after' && s.file);
+const said = REVIEWS.find((r) => r.pairId === pairId);
+const sizes = '(min-width: 1180px) 700px, (min-width: 900px) 58vw, 92vw';
+---
+{before && after && (
+  <div class:list={['barow', { 'barow--solo': !said }]} data-reveal>
+    <figure class="ba" data-ba>
+      <div class="ba__stage">
+        <div class="ba__img"><Figure shot={before} sizes={sizes} /></div>
+        <div class="ba__img ba__img--after"><Figure shot={after} sizes={sizes} /></div>
+        <span class="ba__tag ba__tag--b" aria-hidden="true">Before</span>
+        <span class="ba__tag ba__tag--a" aria-hidden="true">After</span>
+        <span class="ba__line" aria-hidden="true"><span class="ba__grip"><svg viewBox="0 0 24 24" focusable="false"><path d="M9 6l-6 6 6 6M15 6l6 6-6 6" /></svg></span></span>
+        <input class="ba__range" type="range" min="0" max="100" step="2" value="50" aria-label="Before and after photos: move to compare" aria-valuetext="Half before, half after" data-ba-range />
+      </div>
+      {after.caption && <figcaption class="ba__cap">{after.caption}</figcaption>}
+    </figure>
+    {said && (
+      <blockquote class="baquote">
+        <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
+        <p class="baquote__q">{said.text}</p>
+        <footer class="baquote__by"><b>{said.author}</b><span>{BUSINESS_LABEL[said.business]}, posted with these photos</span></footer>
+      </blockquote>
+    )}
+  </div>
+)}
+
+<script>
+  import { gsap } from 'gsap';
+
+  const valuetext = (p: number) => (p <= 2 ? 'All after' : p >= 98 ? 'All before' : `${Math.round(100 - p)}% after`);
+
+  document.querySelectorAll<HTMLElement>('[data-ba]').forEach((ba) => {
+    const stage = ba.querySelector<HTMLElement>('.ba__stage');
+    const range = ba.querySelector<HTMLInputElement>('[data-ba-range]');
+    if (!stage || !range) return;
+    let hint: gsap.core.Timeline | undefined;
+    const set = (v: number) => {
+      const p = Math.max(0, Math.min(100, v));
+      stage.style.setProperty('--pos', `${p}%`);
+      range.value = String(Math.round(p));
+      range.setAttribute('aria-valuetext', valuetext(p));
+    };
+    const takeOver = () => { hint?.kill(); hint = undefined; };
+    ba.classList.add('is-live');
+    range.addEventListener('input', () => { takeOver(); set(Number(range.value)); });
+
+    /* A mouse drags at once. A finger waits to see which way it moves: sideways drags the divider,
+       up or down leaves the page to scroll (the browser then cancels the pointer). */
+    let drag: { id: number; x: number; y: number; live: boolean } | null = null;
+    const follow = (e: PointerEvent) => { const r = stage.getBoundingClientRect(); set(((e.clientX - r.left) / r.width) * 100); };
+    const begin = (e: PointerEvent) => {
+      takeOver();
+      stage.setPointerCapture(e.pointerId);
+      ba.classList.add('is-dragging');
+      if (drag) drag.live = true;
+      follow(e);
+    };
+    stage.addEventListener('pointerdown', (e) => {
+      if (e.button !== 0 || drag) return; // one pointer at a time: a second finger never takes over the drag
+      drag = { id: e.pointerId, x: e.clientX, y: e.clientY, live: false };
+      if (e.pointerType === 'mouse') begin(e);
+    });
+    stage.addEventListener('pointermove', (e) => {
+      if (!drag || e.pointerId !== drag.id) return;
+      if (drag.live) { follow(e); return; }
+      const dx = Math.abs(e.clientX - drag.x);
+      if (dx > 6 && dx > Math.abs(e.clientY - drag.y)) begin(e);
+    });
+    const end = (e: PointerEvent) => {
+      if (!drag || e.pointerId !== drag.id) return;
+      if (!drag.live && e.type === 'pointerup') { takeOver(); follow(e); } // a tap moves the divider there
+      drag = null;
+      ba.classList.remove('is-dragging');
+    };
+    stage.addEventListener('pointerup', end);
+    stage.addEventListener('pointercancel', end);
+    stage.addEventListener('lostpointercapture', end); // never stuck mid-drag if the capture is lost
+
+    if (!matchMedia('(prefers-reduced-motion: no-preference)').matches || !('IntersectionObserver' in window)) return;
+    const seen = new IntersectionObserver(([entry]) => {
+      if (!entry.isIntersecting) return;
+      seen.disconnect();
+      if (drag || range.value !== '50') return;
+      const o = { p: 50 };
+      hint = gsap.timeline({ defaults: { ease: 'expo.out', onUpdate: () => set(o.p) } })
+        .to(o, { p: 68, duration: 1 })
+        .to(o, { p: 50, duration: 1.1 }, '+=.15');
+    }, { threshold: 0.6 });
+    seen.observe(stage);
+  });
+</script>

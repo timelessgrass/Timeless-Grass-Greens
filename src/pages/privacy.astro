@@ -1,12 +1,13 @@
 ---
 /* What the estimate form collects and where it goes. Descriptive only: every line is something
-   this codebase does (EstimateWizard's fields, Netlify Forms, Google Fonts, the Google Maps embed
-   on the area pages, no analytics), so the page stays true until the code changes. Anything about
-   how the business handles leads beyond that is the client's to add. noindex: a policy, not a page
-   anyone searches for. */
+   this codebase does (EstimateWizard's fields, the campaign tags estimate.ts reads, Netlify Forms,
+   the Netlify function that hands each request to Make for the owner's email and the lead list,
+   Google Fonts, the Google Maps embed on the area pages, no analytics), so the page stays true until
+   the code changes. Anything about how the business handles leads beyond that is the client's to
+   add. noindex: a policy, not a page anyone searches for. */
 import Base from '../layouts/Base.astro';
 import { phone, phoneHref, email } from '../data/brief';
-const updated = '11 September 2026';
+const updated = '14 September 2026';
 ---
 <Base title="Privacy | TIMELESS Grass & Greens" description="What the estimate form collects, where it is kept, and how to ask us to delete it." robots="noindex, follow">
   <section class="hero hero--sub turf-marks turf-marks--dark">
@@ -22,12 +23,13 @@ const updated = '11 September 2026';
     <div class="wrap doc__sec">
       <h2>What the estimate form collects</h2>
       <p>What you want installed, roughly how big the area is, when you would like it done, your town or ZIP code, your name and phone number, and your email address if you choose to give it. The submission also records the page where you opened the form.</p>
+      <p>If you reached this site from an ad or a link with campaign tags, the submission also records those tags, the ad&rsquo;s click ID and the website that sent you. Your browser keeps them only until you close the tab, not in a cookie.</p>
 
       <h2>What we use it for</h2>
-      <p>To call or email you about your estimate and your project.</p>
+      <p>To call or email you about your estimate and your project, and to see which ads and pages bring in requests.</p>
 
       <h2>Where it is kept</h2>
-      <p>The form is handled by Netlify, the company that hosts this site. Netlify stores each submission for us.</p>
+      <p>The form is handled by Netlify, the company that hosts this site. Netlify stores each submission for us. Each request is then passed through Make, an automation service, which emails it to us and adds it to the lead list our marketing agency keeps for us.</p>
 
       <h2>Other services this site uses</h2>
       <p>The fonts load from Google Fonts. The maps on our area pages are Google Maps, and Google may set cookies once a map loads. This site runs no advertising trackers and no analytics.</p>

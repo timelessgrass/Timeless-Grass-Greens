@@ -6,6 +6,8 @@ import Icon from '../../components/Icon.astro';
 import Extra from '../../components/Extra.astro';
 import OfferPanel from '../../components/OfferPanel.astro';
 import Process from '../../components/Process.astro';
+import Reviews from '../../components/Reviews.astro';
+import { reviewsFor } from '../../data/reviews';
 import { SERVICES } from '../../data/services';
 import { MARKETS } from '../../data/markets';
 import { SHOTS } from '../../data/shotlist';
@@ -22,6 +24,8 @@ const materials = fact<string>(positioning?.materials);
 const shot = (id: string) => SHOTS.find((x) => x.id === id && x.file);
 const heroFile = s.heroShot ? shot(s.heroShot)?.file ?? null : null;
 const work = s.work.map(shot).filter((x): x is NonNullable<typeof x> => !!x);
+/* reviews from customers who had this kind of job; two or more, or none */
+const said = reviewsFor(s.slug, 4);
 /* articles that answer this service's questions, linked from the FAQ; the ones written mainly for it first */
 const reads = (await getPublishedCollection('blog')).filter((p) => p.data.related.services.includes(s.slug))
   .sort((a, b) => Number(b.data.related.services[0] === s.slug) - Number(a.data.related.services[0] === s.slug)).slice(0, 6);
@@ -103,6 +107,10 @@ const crumbs = [
     </div>
   </section>
   )}
+
+
+  <!-- 3b · REVIEWS — customers who had this kind of job, in their own words -->
+  {said.length >= 2 && <Reviews items={said} pair={said.some((r) => r.pairId === 'ba-1') ? 'ba-1' : undefined} />}
 
 
   <!-- 4 · WHAT'S INCLUDED -->

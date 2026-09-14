@@ -235,7 +235,7 @@ if (schema?.length) graph.push(...schema);
     <dialog class="estimate" aria-label="Free estimate">
       <div class="estimate__card">
         <button class="estimate__x" type="button" data-estimate-close aria-label="Close"><Icon name="x" /></button>
-        <EstimateWizard mode="modal" phone={phone} phoneHref={phoneHref} />
+        <EstimateWizard mode="modal" phone={phone} phoneHref={phoneHref} market={market} />
       </div>
     </dialog>
   )}

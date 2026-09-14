@@ -7,6 +7,8 @@ import OfferPanel from '../components/OfferPanel.astro';
 import Process from '../components/Process.astro';
 import Thumb from '../components/Thumb.astro';
 import Marquee from '../components/Marquee.astro';
+import BeforeAfter from '../components/BeforeAfter.astro';
+import Reviews from '../components/Reviews.astro';
 import { phone, phoneHref, positioning, fact } from '../data/brief';
 import { SHOTS, shotsBy, heroSrc } from '../data/shotlist';
 import { MARKETS } from '../data/markets';
@@ -17,7 +19,8 @@ import { MARKETS } from '../data/markets';
    are gone. The order follows the buyer:
      hero → services → photos → why choose us → how it works → areas → FAQ → form.
    Claims trace to the discovery call or the old site (.site/truth, and the old-site README for
-   what it may source). No review count, rating, customer count or warranty: none is sourced. */
+   what it may source). Reviews are customers' own words, quoted from Google (src/data/reviews.ts);
+   still no review count, average rating, customer count or warranty: none is sourced. */
 
 const materials = fact<string>(positioning?.materials); // "American-made turf, premium product" — Brian, 00:33:22
 const hero = heroSrc();
@@ -96,10 +99,9 @@ const mosaicSizes = (i: number) => i === 0
   ? '(min-width: 1180px) 1180px, 92vw'
   : '(min-width: 1180px) 580px, (min-width: 900px) 46vw, 44vw';
 
-const pair = (id: string) => ({ b: SHOTS.find((s) => s.pairId === id && s.kind === 'before')!, a: SHOTS.find((s) => s.pairId === id && s.kind === 'after')! });
-/* A wipe scrubs an AFTER photograph across a BEFORE photograph. Only pairs where BOTH
-   photographs exist are rendered, and the section disappears entirely until one does. */
-const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(id); return !!p.b?.file && !!p.a?.file; });
+/* Before/after pairs render only where BOTH photographs exist; the section disappears until one does. */
+const hasPair = (id: string) => (['before', 'after'] as const).every((k) => SHOTS.some((x) => x.pairId === id && x.kind === k && x.file));
+const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter(hasPair);
 ---
 <Base
   title="TIMELESS Grass & Greens — Artificial Turf & Putting Greens"
@@ -181,30 +183,23 @@ const PAIRS = ['ba-1', 'ba-2', 'ba-3', 'ba-4'].filter((id) => { const p = pair(i
   </section>
 
 
-  <!-- 4 · BEFORE / AFTER — gated on real pairs; renders nothing until the client sends them -->
+  <!-- 4 · BEFORE / AFTER — gated on real pairs. The first came with a customer's Google review, so
+       the review sits beside it. Drag, arrow keys or a screen reader move the divider. -->
   {PAIRS.length > 0 && (
   <section class="sec sec--green on-dark turf-marks turf-marks--dark">
     <div class="wrap">
       <div class="kick" data-reveal>
         <p class="micro">Before and after</p>
-        <h2>Same yard. Scroll to see it change.</h2>
+        <h2>Same yard. Drag to see the change.</h2>
       </div>
-      <div class="wipes">
-        {PAIRS.map((id) => { const p = pair(id); return (
-          <div>
-            <div class="wipe" data-reveal>
-              <span class="wipe__tag wipe__tag--b">Before</span><span class="wipe__tag wipe__tag--a">After</span>
-              <Figure shot={p.b} />
-              <div class="wipe__after"><Figure shot={p.a} /></div>
-              <span class="wipe__line"></span>
-            </div>
-            {p.a.caption && <p class="wipe__cap">{p.a.caption}</p>}
-          </div>
-        ); })}
-      </div>
+      {PAIRS.map((id) => <BeforeAfter pairId={id} />)}
     </div>
   </section>
   )}
+
+
+  <!-- 4b · REVIEWS — customers' own words; NoCo Turf's are labelled as our sister company's -->
+  <Reviews ids={['jp-w', 'harry-m', 'mary-t', 'ally-p', 'jim-w', 'kevin-a']} />
 
 
   <!-- 5 · WHY CHOOSE US — four things the buyer gets. The photograph starts close and pulls

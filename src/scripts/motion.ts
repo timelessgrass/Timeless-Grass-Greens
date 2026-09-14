@@ -160,20 +160,7 @@ gsap.matchMedia().add('(prefers-reduced-motion: no-preference)', () => {
     scrollTrigger: { trigger: '[data-zoom]', start: 'top 88%', end: 'bottom 52%', scrub: .6 },
   });
 
-  /* ---- 6. before/after: scroll wipes the AFTER over the BEFORE ---------------- */
-  document.querySelectorAll<HTMLElement>('.wipe').forEach((w) => {
-    const after = w.querySelector<HTMLElement>('.wipe__after');
-    const line  = w.querySelector<HTMLElement>('.wipe__line');
-    if (!after) return;
-    gsap.fromTo(after, { clipPath: 'inset(0 100% 0 0)' }, {
-      clipPath: 'inset(0 0% 0 0)', ease: 'none',
-      scrollTrigger: { trigger: w, start: 'top 75%', end: 'bottom 45%', scrub: .8 },
-    });
-    if (line) gsap.fromTo(line, { left: '0%' }, {
-      left: '100%', ease: 'none',
-      scrollTrigger: { trigger: w, start: 'top 75%', end: 'bottom 45%', scrub: .8 },
-    });
-  });
+  /* ---- 6. before/after: a drag slider now, with its own script in BeforeAfter.astro ---- */
 
   /* ---- 14. the grass leans as the hero scrolls away, like wind ----------------------- */
   if (document.querySelector('.grassline__g')) gsap.to('.grassline__g', {

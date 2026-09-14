@@ -1,9 +1,11 @@
 ---
 /* The wizard on its own page. Every "Request a free estimate" link points here, so a visitor whose
    browser cannot open the dialog (or who has JavaScript off) still reaches the form, and an ad can
-   link straight to it — /estimate/?use=Pet%20turf lands on step two. noindex: it is a form, not a page. */
+   link straight to it — /estimate/?use=Pet%20turf lands on step two. noindex: it is a form, not a page.
+   Two short reviews sit under the form, for the visitor deciding whether to send it. */
 import Base from '../layouts/Base.astro';
 import EstimateWizard from '../components/EstimateWizard.astro';
+import Reviews from '../components/Reviews.astro';
 ---
 <Base
   title="Free Estimate | TIMELESS Grass & Greens"
@@ -17,6 +19,7 @@ import EstimateWizard from '../components/EstimateWizard.astro';
       <div class="estimate-page__card">
         <EstimateWizard mode="inline" />
       </div>
+      <Reviews ids={['mary-t', 'jp-w']} ground="none" compact />
     </div>
   </section>
 </Base>

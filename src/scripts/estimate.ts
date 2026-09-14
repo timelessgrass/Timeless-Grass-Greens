@@ -157,6 +157,24 @@ function enhance(form: HTMLFormElement): Wizard {
 const wizards = new Map<HTMLFormElement, Wizard>();
 document.querySelectorAll<HTMLFormElement>('form[data-wizard]').forEach((f) => wizards.set(f, enhance(f)));
 
+/* Where the visit came from, for the lead email and the portal: the UTM tags and ad click IDs on the
+   landing URL, and the first outside site that sent them. Kept for the tab's session, so someone who
+   lands from an ad and reads three pages still carries the click ID into the form. A new tagged
+   landing replaces the tags; storage that is blocked just means this page's own URL is used. */
+const ATTR_KEYS = ['utm_source', 'utm_medium', 'utm_campaign', 'utm_term', 'utm_content', 'gclid', 'gbraid', 'wbraid', 'fbclid'];
+const attribution = ((): Record<string, string> => {
+  let kept: Record<string, string> = {};
+  try { kept = JSON.parse(sessionStorage.getItem('tg-attribution') || '{}'); } catch { /* blocked or unreadable */ }
+  const params = new URLSearchParams(location.search);
+  const tagged = Object.fromEntries(ATTR_KEYS.flatMap((k) => { const v = params.get(k); return v ? [[k, v.slice(0, 200)]] : []; }));
+  const outside = document.referrer && new URL(document.referrer).origin !== location.origin ? document.referrer.slice(0, 300) : '';
+  const now = Object.keys(tagged).length ? { ...tagged, first_referrer: kept.first_referrer || outside } : { ...kept };
+  if (!now.first_referrer && outside) now.first_referrer = outside;
+  try { sessionStorage.setItem('tg-attribution', JSON.stringify(now)); } catch { /* blocked */ }
+  return now;
+})();
+wizards.forEach((_, form) => form.querySelectorAll<HTMLInputElement>('input[data-attr]').forEach((input) => { input.value = attribution[input.name] ?? ''; }));
+
 /* /estimate/?use=Pet%20turf — an ad or a link can land the visitor on step two */
 const inline = document.querySelector<HTMLFormElement>('form.wiz--inline');
 const asked = new URLSearchParams(location.search).get('use');

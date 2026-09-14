@@ -1,0 +1,56 @@
+---
+/**
+ * Customer reviews, in their own words (src/data/reviews.ts).
+ *
+ * Every card says where the review was posted: "Google review" for TIMELESS, and "Google review of
+ * NoCo Turf, our sister company" for NoCo Turf's. Five stars show because each quoted review gave
+ * five. There is no average, no count and no Review schema (Base.astro explains why). The link to
+ * Google appears only beside TIMELESS reviews, since that is the profile it opens.
+ *
+ * `pair` puts a before/after slider first, with the review that came with it, and leaves that
+ * review out of the cards. `ground="none"` renders only the cards, for a page that already has
+ * its own section.
+ */
+import BeforeAfter from './BeforeAfter.astro';
+import ReviewCard from './ReviewCard.astro';
+import Icon from './Icon.astro';
+import { REVIEWS, GOOGLE_REVIEWS_URL, type Review } from '../data/reviews';
+
+interface Props {
+  ids?: string[];
+  items?: Review[];
+  pair?: string;
+  micro?: string;
+  heading?: string;
+  ground?: 'plain' | 'band' | 'none';
+  compact?: boolean;
+}
+const { ids, items, pair, micro = 'Reviews', heading = 'What customers say.', ground = 'plain', compact = false } = Astro.props;
+const chosen = items ?? (ids ? ids.map((id) => REVIEWS.find((r) => r.id === id)).filter((r): r is Review => !!r) : REVIEWS);
+const cards = chosen.filter((r) => !pair || r.pairId !== pair);
+const pairReview = pair ? REVIEWS.find((r) => r.pairId === pair) : undefined;
+const showsTimeless = cards.some((r) => r.business === 'timeless') || pairReview?.business === 'timeless';
+const showsSister = cards.some((r) => r.business === 'noco') || pairReview?.business === 'noco';
+---
+{ground === 'none' ? (
+  <ul class:list={['reviews', { 'reviews--compact': compact }]}>
+    {cards.map((r) => <ReviewCard r={r} />)}
+  </ul>
+) : (
+  <section class:list={['sec', { 'sec--band': ground === 'band' }]}>
+    <div class="wrap">
+      <div class="kick kick--left" data-reveal>
+        <p class="micro">{micro}</p>
+        <h2>{heading}</h2>
+      </div>
+      {pair && <BeforeAfter pairId={pair} />}
+      {cards.length > 0 && <ul class="reviews">{cards.map((r) => <ReviewCard r={r} />)}</ul>}
+      {(showsTimeless || showsSister) && (
+        <p class="reviews__foot" data-reveal>
+          {showsTimeless && <a class="reviews__more" href={GOOGLE_REVIEWS_URL} target="_blank" rel="noopener">Read our reviews on Google<Icon name="arrow" /></a>}
+          {showsSister && <span>NoCo Turf is our sister company in northern Colorado.</span>}
+        </p>
+      )}
+    </div>
+  </section>
+)}
