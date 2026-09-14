@@ -1256,7 +1256,7 @@ export const GUIDES: Guide[] = [
           "For projects in the Denver metro and northeast Florida, include stormwater classification in the local project inquiry. Our <a href=\"/guides/colorado-turf-law/\">Colorado turf law guide</a> and <a href=\"/guides/florida-turf-infill-rules/\">Florida turf law guide</a> cover separate questions about where turf may be used.",
           "Bring the address or parcel number, the area being converted, a simple layout, the product sheet and the proposed base and drainage details. Show any other work included in the job, such as a patio, retaining edge or drain.",
           "<ul><li>How will the proposed turf assembly count toward this property’s lot coverage or stormwater requirements?</li><li>What product data, drawings or professional details are needed?</li><li>Does the complete project need a permit, review or inspection?</li><li>Will this change affect a stormwater charge, and what documentation would establish that?</li></ul>",
-          "Include the answer in the written scope before work begins. On a free TIMELESS visit, we can discuss the intended use, layout and installation options, then provide a written price for the agreed work."
+          "Include the answer in the written scope before work begins. On a free visit, we can discuss the intended use, layout and installation options, then provide a written price for the agreed work."
         ]
       }
     ],
@@ -1660,9 +1660,9 @@ export const GUIDES: Guide[] = [
         ]
       },
       {
-        "h2": "Where TIMELESS fits once you know the answer",
+        "h2": "Where we fit once you know the answer",
         "body": [
-          "We've worked in the Denver metro, the Grand Strand and northeast Florida for 13 years, and we design every layout to the rule for the actual address — not a generic one. On a free visit, we measure the property, check the ground, and talk through what your city allows in that strip along with everything else on the lot. If the right-of-way is off-limits or restricted, we draw the layout around it; if it's allowed, we build it to the city's planting and drainage terms.",
+          "We install across the Denver metro, the Grand Strand and northeast Florida with 13 years' experience, and we design every layout to the rule for the actual address — not a generic one. On a free visit, we measure the property, check the ground, and talk through what your city allows in that strip along with everything else on the lot. If the right-of-way is off-limits or restricted, we draw the layout around it; if it's allowed, we build it to the city's planting and drainage terms.",
           "You approve the layout before anything is installed. Call 303-349-2368 to schedule a free visit for a project in the Denver metro, the Grand Strand or northeast Florida, including the residential turf work covered on our <a href=\"/denver-metro/residential-turf/\">Denver metro</a>, <a href=\"/grand-strand/residential-turf/\">Grand Strand</a> and <a href=\"/northeast-florida/residential-turf/\">northeast Florida</a> pages."
         ]
       }
@@ -1760,7 +1760,7 @@ export const GUIDES: Guide[] = [
       {
         "h2": "Where this fits in the layout",
         "body": [
-          "On a lot where the septic system limits part of the usable yard, the rest of the property still has room for <a href=\"/services/residential-turf/\">a full lawn</a>, <a href=\"/services/pet-turf/\">a dog run</a> or <a href=\"/services/putting-greens/\">a backyard putting green</a>. A free TIMELESS visit measures the ground and works around whatever the county tells you is off-limits, so the layout you approve respects the septic system rather than working against it.",
+          "On a lot where the septic system limits part of the usable yard, the rest of the property still has room for <a href=\"/services/residential-turf/\">a full lawn</a>, <a href=\"/services/pet-turf/\">a dog run</a> or <a href=\"/services/putting-greens/\">a backyard putting green</a>. On a free visit we measure the ground and work around whatever the county tells you is off-limits, so the layout you approve respects the septic system rather than working against it.",
           "This guide covers Florida and North Carolina onsite sewage rules only. South Carolina and Colorado each regulate onsite wastewater systems under their own state frameworks, which are not addressed here — a Grand Strand property on the South Carolina side, or a Denver metro property on a septic system, needs its own answer from the relevant state or county office."
         ]
       }
@@ -1780,7 +1780,7 @@ export const GUIDES: Guide[] = [
       },
       {
         "q": "What if the county says no?",
-        "a": "Then that area is off-limits for turf, and the layout is planned around it. A free TIMELESS visit can measure the rest of the property and design a layout that keeps clear of the field, repair area and easements you were told to avoid."
+        "a": "Then that area is off-limits for turf, and the layout is planned around it. On a free visit we can measure the rest of the property and design a layout that keeps clear of the field, repair area and easements you were told to avoid."
       }
     ],
     "sources": [
@@ -2142,7 +2142,7 @@ export const GUIDES: Guide[] = [
         "body": [
           "Before you set a start date on a putting green, a full backyard turf conversion, or a pet-turf run in unincorporated Jefferson or Arapahoe County, add up everything that will disturb ground on your property this season — not just the turf. In Jefferson County, ask whether your total, combined with any related work, stays under 0.5 acres. In Arapahoe County, ask Public Works and Development directly whether your project needs a GESC permit under the current Manual, since the Land Development Code sends that question there rather than answering it in the code text.",
           "Either way, a permit determination — or an exemption — doesn't remove the responsibility to control erosion and keep soil on your own lot while the work is underway. That part of both counties' rules applies whether or not paperwork is required.",
-          "We do a free visit to measure your yard and check the ground before anything is scheduled. That visit tells us the disturbed area a project will actually involve, which is the number you need before calling the county. We build a custom layout you approve, and we've worked across the Denver metro area for 13 years. Call 303-349-2368 to start.",
+          "We do a free visit to measure your yard and check the ground before anything is scheduled. That visit tells us the disturbed area a project will actually involve, which is the number you need before calling the county. We build a custom layout you approve, with 13 years' experience behind it. Call 303-349-2368 to start.",
           "This question comes up most on <a href=\"/services/residential-turf/\">residential turf</a> and <a href=\"/services/putting-greens/\">backyard putting green</a> jobs, where excavation and base work are part of the project either way. For state-level rules that sit above the county code — including HOA turf restrictions and Colorado's own turf statutes — see our guides to <a href=\"/guides/colorado-turf-law/\">Colorado artificial turf law</a> and <a href=\"/guides/colorado-hoa-turf-rules/\">Colorado HOA turf rules</a>."
         ]
       },
@@ -2342,7 +2342,7 @@ export const GUIDES: Guide[] = [
       {
         "h2": "What to bring the floodplain office",
         "body": [
-          "Before your free TIMELESS visit, or before we finalize a layout, check with the county or city floodplain administrator for the parcel. Bring or describe: the address or parcel number, the flood zone if you already know it, the area proposed for turf, the approximate depth of excavation and base material, whether any fill will raise the existing grade, and where the site drains.",
+          "Before your free visit, or before we finalize a layout, check with the county or city floodplain administrator for the parcel. Bring or describe: the address or parcel number, the flood zone if you already know it, the area proposed for turf, the approximate depth of excavation and base material, whether any fill will raise the existing grade, and where the site drains.",
           "Ask directly whether the project needs a floodplain development permit, what the regulatory flood protection elevation requires for the site, and whether anything about the location — a V/VE zone, a mapped floodway, a dune, a wetland — adds requirements beyond the general permit. Keep the answer with your project file.",
           "We measure the ground and build a layout you approve. We bring 13 years' experience to installations across these markets. We do not determine floodplain permit requirements — that is the county or city's call, made from the parcel record and the flood maps they maintain."
         ]
@@ -2721,7 +2721,7 @@ export const GUIDES: Guide[] = [
           "Settle the tree questions before the estimate. First confirm whether the lot is inside a city or in an unincorporated area, and which code reaches it. Then measure each tree near the project at breast height and compare it with that code's protected and specimen thresholds. Mark every drip line that reaches the yard, including trees next door.",
           "Bring in an arborist first in three cases: you want a tree removed, you want turf inside a drip line on a lot the state rule covers, or grading is planned inside a protected tree's drip line. A risk assessment and a no-harm certification answer different questions, so tell the arborist which one you need. If a Specimen Tree would come down, the county's decision comes before the layout.",
           "Keeping the turf edge outside every drip line avoids the state rule's drip-line certification, though paragraph (8)(a) still bars harm to a nearby tree's roots. Our article on <a href=\"/blog/artificial-turf-around-trees/\">artificial turf around trees</a> explains why the base is where roots get hurt. If your project also needs HOA approval, read <a href=\"/guides/florida-friendly-landscaping-and-hoas/\">what Florida law says about HOAs and turf</a>.",
-          "Our founder brings 13 years' experience to <a href=\"/northeast-florida/residential-turf/\">residential turf</a>, <a href=\"/northeast-florida/pet-turf/\">pet turf</a> and <a href=\"/northeast-florida/putting-greens/\">putting greens</a>, and we install across Northeast Florida. On a free visit we measure and check the ground. The custom layout you approve can hold the edge where your arborist and your county say it belongs. Call 303-349-2368 or <a href=\"/estimate/\">request a free estimate</a>."
+          "We bring 13 years' experience to <a href=\"/northeast-florida/residential-turf/\">residential turf</a>, <a href=\"/northeast-florida/pet-turf/\">pet turf</a> and <a href=\"/northeast-florida/putting-greens/\">putting greens</a>, and we install across Northeast Florida. On a free visit we measure and check the ground. The custom layout you approve can hold the edge where your arborist and your county say it belongs. Call 303-349-2368 or <a href=\"/estimate/\">request a free estimate</a>."
         ]
       }
     ],

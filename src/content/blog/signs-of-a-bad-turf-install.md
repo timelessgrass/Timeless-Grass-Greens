@@ -68,4 +68,4 @@ For a new installation or a substantial repair, make these details visible in th
 - What materials will be removed, reused or disposed of.
 - The care instructions, warranty and process for reporting a concern.
 
-TIMELESS offers [turf removal and replacement](/services/turf-removal-and-replacement/). Bring photos and any information about the existing installation to the free visit. We can discuss the condition, intended use and installation options, then put the proposed scope and price in writing.
+We offer [turf removal and replacement](/services/turf-removal-and-replacement/). Bring photos and any information about the existing installation to the free visit. We can discuss the condition, intended use and installation options, then put the proposed scope and price in writing.

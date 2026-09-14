@@ -49,6 +49,21 @@
   to = "/estimate/"
   status = 301
 
+[[redirects]]
+  from = "/projects"
+  to = "/"
+  status = 301
+
+[[redirects]]
+  from = "/thank-you"
+  to = "/"
+  status = 301
+
+[[redirects]]
+  from = "/marketing-form"
+  to = "/estimate/"
+  status = 301
+
 
 [[redirects]]
   from = "/blog/*"
@@ -76,22 +91,22 @@
   status = 301
 
 [[redirects]]
-  from = "/services/artificial-turf-installation/*"
-  to = "/services/residential-turf/"
-  status = 301
-
-[[redirects]]
   from = "/services/artificial-turf-installation"
   to = "/services/residential-turf/"
   status = 301
 
 [[redirects]]
-  from = "/services/landscape-design-installation/*"
+  from = "/services/artificial-turf-installation/*"
   to = "/services/residential-turf/"
   status = 301
 
 [[redirects]]
   from = "/services/landscape-design-installation"
+  to = "/services/residential-turf/"
+  status = 301
+
+[[redirects]]
+  from = "/services/landscape-design-installation/*"
   to = "/services/residential-turf/"
   status = 301
 
@@ -116,13 +131,13 @@
   status = 301
 
 [[redirects]]
-  from = "/services/specialty-turf-installation/*"
-  to = "/services/residential-turf/"
+  from = "/services/specialty-turf-installation"
+  to = "/services/"
   status = 301
 
 [[redirects]]
-  from = "/services/specialty-turf-installation"
-  to = "/services/"
+  from = "/services/specialty-turf-installation/*"
+  to = "/services/residential-turf/"
   status = 301
 
 [[redirects]]

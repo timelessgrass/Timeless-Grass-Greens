@@ -329,7 +329,7 @@ export const SERVICES: Service[] = [
     close: 'Ready to plan the shared space?',
     answer: {
       "question": "What should a commercial turf project include?",
-      "answer": "Start with the activity, traffic and care needs of the space. The installation scope should cover the selected surface system, preparation, drainage, access and finishing. Timeless offers a free site visit, custom layout and written price, with property requirements checked before work begins."
+      "answer": "Start with the activity, traffic and care needs of the space. The installation scope should cover the selected surface system, preparation, drainage, access and finishing. We offer a free site visit, custom layout and written price, with property requirements checked before work begins."
     },
   },
   {

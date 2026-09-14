@@ -27,7 +27,7 @@ const src = `https://www.google.com/maps?q=${encodeURIComponent(query)}&z=${zoom
   <div class="areamap__frame">
     <iframe
       src={src}
-      title={`Map of the ${label} service area`}
+      title={`Map of the ${label.replace(/^The\s+/, '')} service area`}
       loading="lazy"
       referrerpolicy="no-referrer-when-downgrade"
       allowfullscreen></iframe>
