@@ -68,7 +68,7 @@ const MARKETS = MARKET_STATES;
 
 const words = (s) => s.replace(/<[^>]+>/g, ' ').split(/\s+/).filter(Boolean);
 const copyOf = (d) => [d.lede, ...(d.wins || []), d.answer?.answer || '', d.servicesNote || '',
-  ...(d.blocks || []).flatMap((b) => [b.h2, ...b.paras]), ...(Array.isArray(d.faq) ? d.faq : []).flatMap((f) => [f?.q, f?.a])].join('\n');
+  ...(d.blocks || []).flatMap((b) => [b.h2, b.takeaway || '', ...b.paras]), ...(Array.isArray(d.faq) ? d.faq : []).flatMap((f) => [f?.q, f?.a])].join('\n');
 const shingles = (s) => { const w = words(s.toLowerCase().replace(/[^a-z0-9\s]/g, ' ')); const set = new Set(); for (let i = 0; i + 5 <= w.length; i++) set.add(w.slice(i, i + 5).join(' ')); return set; };
 const jaccard = (a, b) => { let n = 0; for (const x of a) if (b.has(x)) n++; return n / (a.size + b.size - n || 1); };
 

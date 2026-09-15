@@ -7,8 +7,8 @@
   "county": "Horry",
   "title": "Artificial Turf in Atlantic Beach, SC | TIMELESS Grass & Greens",
   "description": "Atlantic Beach needs a zoning permit to grade, fill or surface a lot, and caps hard surface at 40% in R2. Get the town's answer on turf before you plan.",
-  "h1": "Artificial turf in Atlantic Beach, planned around the town's zoning permit.",
-  "lede": "Grading, filling or surfacing a lot here takes a town zoning permit, and home lots have a cap on hard surface. We draw your lawn, dog area or putting green to fit, then give you a written price after a free visit to measure and check the ground.",
+  "h1": "Artificial turf in Atlantic Beach, SC, drawn to fit your lot.",
+  "lede": "A lawn, dog area or putting green that fits the town's rules. We measure and check the ground at a free visit, then give you a written price.",
   "wins": [
     "A layout sized to your district's surface cap",
     "Ground checked, from dune sand to wet flats",
@@ -16,13 +16,14 @@
   ],
   "answer": {
     "question": "Do I need a permit to put artificial turf in Atlantic Beach, SC?",
-    "answer": "Expect to. The town's Land Management Ordinance requires a zoning permit to improve any lot by grading, filling or surfacing. It never mentions turf, so it doesn't say whether turf counts toward the impervious cap of 40% of the lot in the R2 district or 50% in MS1R. Ask the Town for a Zoning Determination Letter before the layout is final."
+    "answer": "Expect to. Grading, filling or surfacing a lot needs a town zoning permit, and the ordinance doesn't say whether turf counts toward the hard-surface cap. Ask the town for a Zoning Determination Letter before your layout is final."
   },
   "blocks": [
     {
       "icon": "file",
       "kicker": "The zoning permit",
       "h2": "Grading, filling or surfacing a lot needs the town's sign-off.",
+      "takeaway": "Plan on a town zoning permit before any grading or base work. If you want the answer first, ask the town for a Zoning Determination Letter.",
       "paras": [
         "Atlantic Beach is its own town with its own rulebook, separate from North Myrtle Beach. Under Sec. 5.3.320 of the <a href=\"https://www.townofatlanticbeachsc.com/page/open/1907/0/AtlanticBeach%20Land%20Management%20Ordinance%203.21.2025.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Town of Atlantic Beach Land Management Ordinance</a> (March 2025 version), a zoning permit is required for improving any lot by grading, removing trees, filling or surfacing. Turf means stripping the old surface, shaping the ground and laying a compacted base, so plan on applying.",
         "The application needs the parcel's tax map number, a plat or plot plan, a written description of the work and every property owner's signature (Sec. 5.3.322). For home lots, the town's <a href=\"https://www.townofatlanticbeachsc.com/upload/page/0143/Town%20of%20AB%20Development%20Process%20Guide%20pdf.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Development Process Guide</a> (updated August 2025) wants a site plan showing lot coverage and open space. Complete applications are reviewed within 10 business days, with corrections sent back as comments. Commercial and mixed-use sites add a landscape plan and a 20-business-day review.",
@@ -33,6 +34,7 @@
       "icon": "ruler",
       "kicker": "The coverage cap",
       "h2": "Home lots get a hard-surface budget. Turf isn't on either list.",
+      "takeaway": "Home lots have a hard-surface cap: 40% of the lot in R2 and 50% in MS1R. Ask the town in writing whether turf counts, and we size your layout to fit.",
       "paras": [
         "Houses and duplexes are only allowed in the R2 and MS1R districts, and a house may go in WF1 with a Special Exception, according to the guide. Table 5.3.420A caps impervious surface at 40% of the lot in R2, with at least 55% left as open space. In MS1R the cap is 50%, with at least 40% open space. Find your district on the zoning map linked from the town's <a href=\"https://www.townofatlanticbeachsc.com/page/documents-forms-permits\" target=\"_blank\" rel=\"nofollow noopener\">Permits, Zoning and Documents page</a>.",
         "The definitions leave turf in the middle. Impervious means a surface that does not absorb or percolate water: buildings, asphalt or concrete, water bodies. Pervious means one that lets air and water through, like earth, oyster shell or gravel, and is not covered by manmade materials. Turf is built to let water through, but it is manmade.",
@@ -43,6 +45,7 @@
       "icon": "drop",
       "kicker": "Stormwater and flood rules",
       "h2": "Keep the dig to 5,000 square feet or less, and the drainage as it was.",
+      "takeaway": "Keep the disturbed area to 5,000 square feet or less and the drainage as it was, and the detailed stormwater standards don't apply. Flood-zone lots still need a permit first.",
       "paras": [
         "Sec. 5.3.1053 exempts some work from the detailed stormwater standards in Sec. 5.3.1055 to 5.3.1061. One exemption covers work that disturbs no more than 5,000 square feet of land in total and doesn't disrupt existing drainage patterns. Another covers additions or modifications to existing single-family homes. Past 5,000 square feet, the guide says the town reviews a Stormwater Management Plan prepared by a South Carolina professional engineer. Your custom layout shows the turf area, so you know which side of that line you're on.",
         "Flood rules sit on top. The home exemption stays subject to the town's Flood Damage Prevention Ordinance (Exhibit D2 of the ordinance). In a FEMA special flood hazard area, it requires a development permit before work starts, and development includes filling, grading, paving and excavating. Applications go to the Planning Administrator, with a certified plot plan showing the 100-year floodplain for a lot that is, or appears to be, in the floodplain. Ask whether your lot is mapped before the base goes in."
@@ -52,6 +55,7 @@
       "icon": "shovel",
       "kicker": "The ground",
       "h2": "Three sands inside the town limits, and one of them holds water.",
+      "takeaway": "The sand drains fast toward the ocean and holds water farther inland. The free visit checks your ground, and the base is built for it.",
       "paras": [
         "The USDA soil survey shows Newhan fine sand toward the ocean, Lakeland sand mid-town and Leon fine sand farther inland (<a href=\"https://sdmdataaccess.sc.egov.usda.gov/\" target=\"_blank\" rel=\"nofollow noopener\">USDA Soil Data Access</a>, point queries inside the town boundary, September 2026). The first two are rated excessively drained. Leon is rated poorly drained.",
         "Newhan is wind-blown sand with shell fragments and very rapid permeability (<a href=\"https://soilseries.sc.egov.usda.gov/OSD_Docs/N/NEWHAN.html\" target=\"_blank\" rel=\"nofollow noopener\">USDA: Newhan series</a>). Leon's series description puts the water table 6 to 18 inches down for 1 to 4 months in most years (<a href=\"https://soilseries.sc.egov.usda.gov/OSD_Docs/L/LEON.html\" target=\"_blank\" rel=\"nofollow noopener\">USDA: Leon series</a>). A base that stays dry on the first can sit in water on the second.",
@@ -62,6 +66,7 @@
       "icon": "shield",
       "kicker": "Covenants and the oceanfront",
       "h2": "Check the deed, and on the ocean, find the shore protection line.",
+      "takeaway": "Check your deed for covenants before you apply. On an oceanfront lot, the turf stays landward of the shore protection line and the dunes stay as they are.",
       "paras": [
         "Sec. 5.3.6 follows S.C. Code § 6-29-1145: a zoning application asks whether a recorded covenant conflicts with the work. If the town knows of one, it won't issue the permit until you show the covenant has been released, and a permit doesn't free you from a covenant. On the town's <a href=\"https://www.townofatlanticbeachsc.com/upload/page/0143/Restrictive%20Covenants%20Affidavitt.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Restrictive Covenants Affidavit</a> (February 2026), filed with zoning applications, you confirm that no covenants apply or that the work doesn't conflict with them.",
         "On a lot that touches the Atlantic, Sec. 5.3.803 has the shore protection line and the state setback line set before construction, with a fence or barrier at least 3 feet high along the shore protection line. Seaward of that line, altering sand, dunes or vegetation needs a permit from the Administrator (Sec. 5.3.805), and the guide lists a state Critical Area Permit from SCDES for beachfront property. Keep the turf landward of the line and the dune plants where they are."

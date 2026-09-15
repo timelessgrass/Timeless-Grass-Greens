@@ -210,3 +210,42 @@
   .doc__rail { grid-column: 2; grid-row: 1 / span 2; min-width: 0; }
   .doc__rail > .doc__contents { position: sticky; top: calc(var(--chrome-h, 84px) + 1.5rem); max-height: calc(100dvh - var(--chrome-h, 84px) - 3rem); overflow-y: auto; }
 }
+
+/* --- local pages, brief layout: the rules as short takeaways, each one's detail one tap away ---- */
+.know { display: grid; gap: clamp(1.6rem, 4vw, 3.5rem); }
+@media (min-width: 980px) {
+  .know { grid-template-columns: minmax(0, .85fr) minmax(0, 1.15fr); align-items: start; }
+  .know__head { position: sticky; top: calc(var(--chrome-h, 84px) + 1.5rem); }
+}
+.know__head h2 { font-size: clamp(1.8rem, 4vw, 2.7rem); max-width: 16ch; }
+.know__head > p:not(.micro) { margin: .9rem 0 0; max-width: 40ch; color: var(--ink-dim); font-size: 1.05rem; line-height: 1.6; }
+.know__cta { display: flex; flex-wrap: wrap; gap: .7rem; margin-top: 1.4rem; }
+.know__cta--after { margin-top: 0; }
+@media (min-width: 980px) { .know .know__cta--after { display: none; } } /* the sticky heading carries the buttons beside the list */
+@media (max-width: 979px) { .know .know__head .know__cta { display: none; } } /* phones get them after the list, once it is read */
+/* brief pages on phones: the project cards as a two-up grid of names, so choosing one takes a glance, not two screens */
+@media (max-width: 639px) {
+  .benefits--tight { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .7rem; }
+  .benefits--tight .benefit--link > a { padding: 1rem .9rem 1.05rem; }
+  .benefits--tight .benefit p { display: none; }
+  .benefits--tight .benefit__h { margin-bottom: .2rem; font-size: 1.05rem; }
+  .benefits--tight .benefit__go { font-size: .8rem; }
+  .benefits--tight > .benefit--link:last-child:nth-child(odd) { grid-column: 1 / -1; }
+}
+.know__list { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--rule); }
+.know__item { display: grid; grid-template-columns: 44px minmax(0, 1fr); column-gap: 1rem; padding: 1.3rem 0; border-bottom: 1px solid var(--rule); }
+.know__ico { display: grid; place-items: center; width: 44px; height: 44px; border-radius: 12px; background: rgba(48, 116, 8, .1); color: var(--accent); }
+.know__ico .ico { width: 22px; height: 22px; }
+.know__item h3 { padding-top: .45rem; font-size: clamp(1.15rem, 2.2vw, 1.4rem); line-height: 1.2; }
+.know__take { margin: .4rem 0 0; max-width: 58ch; color: var(--ink); font-size: 1.02rem; line-height: 1.6; }
+.know__rule { margin-top: .25rem; }
+.know__rule summary { display: inline-flex; align-items: center; gap: .5rem; min-height: 44px; cursor: pointer; list-style: none; color: var(--accent); font-size: .92rem; font-weight: 600; }
+.know__rule summary::-webkit-details-marker { display: none; }
+.know__rule summary::after { content: ""; width: 7px; height: 7px; border-right: 2px solid currentColor; border-bottom: 2px solid currentColor; transform: translateY(-2px) rotate(45deg); transition: transform var(--dur-ui) var(--ease); }
+.know__rule[open] summary::after { transform: translateY(2px) rotate(-135deg); }
+.know__detail { margin: .1rem 0 .4rem; padding-left: 1rem; border-left: 2px solid var(--rule); }
+.know__detail p { margin: .7rem 0 0; max-width: 62ch; color: var(--ink-dim); font-size: .95rem; line-height: 1.65; }
+.know__detail p:first-child { margin-top: .15rem; }
+.know__detail .know__lead { color: var(--ink); font-weight: 600; }
+.know__detail a { color: var(--accent); text-underline-offset: .15em; }
+.know__sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }

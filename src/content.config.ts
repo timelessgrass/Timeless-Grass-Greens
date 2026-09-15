@@ -37,7 +37,9 @@ const blog = defineCollection({
    checks every number against the research, every link against the sources, and every page
    against every other for near-duplicate text. */
 const link = z.object({ label: z.string(), url: z.string().url() });
-const block = z.object({ icon: z.string(), kicker: z.string(), h2: z.string(), paras: z.array(z.string()).min(1) });
+/* takeaway: the block in one or two plain sentences for the buyer. When every block has one, the page
+   shows the takeaways and folds the paragraphs under "See the rule" (src/pages/[market]/[slug].astro). */
+const block = z.object({ icon: z.string(), kicker: z.string(), h2: z.string(), takeaway: z.string().optional(), paras: z.array(z.string()).min(1) });
 const MARKET = z.enum(['denver-metro', 'grand-strand', 'northeast-florida']);
 const towns = defineCollection({
   loader: glob({ pattern: '**/*.json', base: './src/content/towns' }),

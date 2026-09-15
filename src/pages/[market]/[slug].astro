@@ -73,7 +73,9 @@ const schema = town
 /* grounds alternate from the answer band down, so no two neighbours match */
 const nearby = (town ? town.data.nearby : ls!.data.towns).map((s) => towns.find((t) => t.id === s)).filter((x): x is NonNullable<typeof x> => !!x);
 const ground = (i: number) => (i % 2 === 0 ? 'sec sec--band' : 'sec');
-const nBlocks = d.blocks.length;
+/* brief: every block has a takeaway, so the rules sit in one short list with the detail one tap away */
+const brief = d.blocks.every((b) => b.takeaway);
+const nBlocks = brief ? 1 : d.blocks.length;
 const gServices = ground(1 + nBlocks), gFaq = ground(2 + nBlocks);
 const offerBand = gFaq === 'sec';
 ---
@@ -117,7 +119,43 @@ const offerBand = gFaq === 'sec';
     </div>
   </section>
 
-  {d.blocks.map((b, i) => (
+  {brief ? (
+    <section class={ground(1)}>
+      <div class="wrap know">
+        <div class="know__head" data-reveal>
+          <p class="micro">Before you install{town ? ` in ${town.data.name}` : ''}</p>
+          <h2>{town ? `What to know in ${town.data.name}.` : 'What to know before you start.'}</h2>
+          <p>The rules in short. We measure and check the ground at a free visit, then draw a layout that fits.</p>
+          <div class="know__cta">
+            <a class="btn btn--primary" href="/estimate/" data-estimate={svc ? svc.preset : ''} data-cta={`quote-know-${slug}`}>Request a free estimate<Icon name="arrow" /></a>
+            {phoneHref && <a class="btn btn--ghost" href={phoneHref} data-cta={`call-know-${slug}`}><Icon name="phone" />Call <span class="nowrap">{phone}</span></a>}
+          </div>
+        </div>
+        <ul class="know__list">
+          {d.blocks.map((b) => (
+            <li class="know__item" data-reveal>
+              <span class="know__ico"><Icon name={b.icon} /></span>
+              <div>
+                <h3>{b.kicker}</h3>
+                <p class="know__take">{b.takeaway}</p>
+                <details class="know__rule">
+                  <summary>See the rule<span class="know__sr"> on {b.kicker.toLowerCase()}</span></summary>
+                  <div class="know__detail">
+                    <p class="know__lead">{b.h2}</p>
+                    {b.paras.map((p) => <p set:html={p} />)}
+                  </div>
+                </details>
+              </div>
+            </li>
+          ))}
+        </ul>
+        <div class="know__cta know__cta--after">
+          <a class="btn btn--primary" href="/estimate/" data-estimate={svc ? svc.preset : ''} data-cta={`quote-know-after-${slug}`}>Request a free estimate<Icon name="arrow" /></a>
+          {phoneHref && <a class="btn btn--ghost" href={phoneHref} data-cta={`call-know-after-${slug}`}><Icon name="phone" />Call <span class="nowrap">{phone}</span></a>}
+        </div>
+      </div>
+    </section>
+  ) : d.blocks.map((b, i) => (
     <section class={ground(1 + i)}>
       <div class="wrap doc__sec local__block" data-reveal>
         <p class="micro local__kick"><Icon name={b.icon} />{b.kicker}</p>
@@ -134,7 +172,7 @@ const offerBand = gFaq === 'sec';
         <h2>{town ? 'Choose your turf project.' : `${svc!.name} for your space.`}</h2>
         {town && <p class="local__note">{town.data.servicesNote}</p>}
       </div>
-      <ul class="benefits">
+      <ul class={`benefits${brief ? ' benefits--tight' : ''}`}>
         {svcs.map((s) => (
           <li class="benefit benefit--link" data-reveal>
             <a href={svcHref(s.slug)} data-cta={`svc-${s.slug}-${slug}`}>
@@ -158,7 +196,7 @@ const offerBand = gFaq === 'sec';
       </div>
       <div class="faq" data-reveal>
         {d.faq.map((f, i) => (
-          <details class="qa" open={i === 0}><summary><h3>{f.q}</h3></summary><p set:html={f.a} /></details>
+          <details class="qa" open={!brief && i === 0}><summary><h3>{f.q}</h3></summary><p set:html={f.a} /></details>
         ))}
       </div>
       </>}
