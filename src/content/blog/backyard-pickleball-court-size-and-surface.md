@@ -1,7 +1,7 @@
 ---
 status: published
 title: Backyard Pickleball Court Size and Surface | TIMELESS Grass & Greens
-description: A regulation pickleball court is 20 by 44 feet, but that isn't enough room. What USA Pickleball's rulebook sets for run-off space, and where turf fits around the lines.
+description: "A regulation pickleball court is 20 by 44 feet, but that isn't enough room. What USA Pickleball's rulebook sets for run-off, and where turf fits."
 h1: 'Backyard Pickleball Court: How Much Space, and What Surface Plays'
 topic: Commercial and sports
 published: '2026-09-13'

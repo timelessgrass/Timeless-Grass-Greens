@@ -23,7 +23,7 @@ sources:
     url: https://chsaa-media.sfo3.cdn.digitaloceanspaces.com/wp-content/uploads/2026/03/25150846/SMAC_HANDBOOK_57_.pdf
     checked: '2026-09-14'
   - label: 'CHSAA SMAC Alert: Heat Illness and Air Quality Reminders (6 August 2025)'
-    url: https://chsaanow.com/news/2025/8/6/general-smac-alert-heat-illness-and-air-quality-reminders.aspx
+    url: https://chsaanow.com/news/2025/08/06/general-smac-alert-heat-illness-and-air-quality-reminders
     checked: '2026-09-14'
 related:
   services:
@@ -33,7 +33,7 @@ related:
   guides: []
 publicReferences:
   - https://chsaa-media.sfo3.cdn.digitaloceanspaces.com/wp-content/uploads/2026/03/25150846/SMAC_HANDBOOK_57_.pdf
-  - https://chsaanow.com/news/2025/8/6/general-smac-alert-heat-illness-and-air-quality-reminders.aspx
+  - https://chsaanow.com/news/2025/08/06/general-smac-alert-heat-illness-and-air-quality-reminders
 ---
 
 ## The decision: plan for 86.2°F, not for how mild August feels
@@ -54,7 +54,7 @@ CHSAA's [Sports Medicine Advisory Committee Handbook](https://chsaa-media.sfo3.c
 
 That last line is the one to build around. It isn't a recommendation to cut practice short; it's a stop, full stop, until the number drops. CHSAA also directs programs to the National Weather Service's WBGT tool rather than a home thermometer, so the reading a coach checks and the reading that governs the field should be the same source.
 
-CHSAA's August 2025 [SMAC alert](https://chsaanow.com/news/2025/8/6/general-smac-alert-heat-illness-and-air-quality-reminders.aspx) reinforces why WBGT is the metric: it "evaluates heat stress by considering temperature, humidity, wind speed, sun angle, and cloud cover" and is "more accurate than the heat index." A heat index reading and a WBGT reading can disagree, so a field plan built around the wrong number is a field plan built around the wrong stop line.
+CHSAA's August 2025 [SMAC alert](https://chsaanow.com/news/2025/08/06/general-smac-alert-heat-illness-and-air-quality-reminders) reinforces why WBGT is the metric: it "evaluates heat stress by considering temperature, humidity, wind speed, sun angle, and cloud cover" and is "more accurate than the heat index." A heat index reading and a WBGT reading can disagree, so a field plan built around the wrong number is a field plan built around the wrong stop line.
 
 These numbers belong to CHSAA and can change. Get the current chart from your athletic director or CHSAA before you finalize a field schedule, and keep a copy with the site plan.
 

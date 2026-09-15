@@ -1,7 +1,7 @@
 ---
 status: published
 title: 'Indoor Gym Turf: Fire Code and Air Quality | TIMELESS Grass & Greens'
-description: Turf in a gym is a floor covering to the building code. See which fire tests apply near corridors and exits, and what federal research found in indoor field air.
+description: "Turf in a gym is a floor covering under the building code. Which fire tests apply near corridors and exits, and what federal research found in indoor field air."
 h1: 'Indoor turf for a gym: fire rules and air quality'
 topic: Commercial and sports
 published: '2026-09-12'
@@ -17,7 +17,7 @@ faq:
   - q: Does a sprinkler system change what the turf needs?
     a: Yes. Where a building is sprinklered throughout under Section 903.3.1.1 or 903.3.1.2, the <a href="https://up.codes/viewer/colorado/ibc-2021/chapter/8/interior-finishes" target="_blank" rel="nofollow noopener">2021 IBC</a> permits Class II material where Class I would be required, and a pill-test pass where Class II would be required. The pill test itself still applies everywhere.
   - q: Did the federal research find indoor turf unsafe?
-    a: It didn't set out to answer that. <a href="https://www.epa.gov/chemical-research/federal-research-recycled-tire-crumb-used-playing-fields" target="_blank" rel="nofollow noopener">EPA</a> says the reports together are not a risk assessment. They found exposures may be higher at indoor fields, from a very small number of indoor air measurements, and supported the conclusion that exposures overall are likely limited.
+    a: It didn't set out to answer that. <a href="https://www.epa.gov/chemical-research/federal-research-recycled-tire-crumb-used-playing-fields-and-playgrounds" target="_blank" rel="nofollow noopener">EPA</a> says the reports together are not a risk assessment. They found exposures may be higher at indoor fields, from a very small number of indoor air measurements, and supported the conclusion that exposures overall are likely limited.
   - q: Do the findings apply to other infills?
     a: No. The fields in the study used recycled tire crumb rubber infill (<a href="https://www.epa.gov/sites/default/files/2019-08/documents/synthetic_turf_field_recycled_tire_crumb_rubber_research_under_the_federal_research_action_plan_final_report_part_1_volume_1.pdf" target="_blank" rel="nofollow noopener">EPA Part 1 report</a>). The research tells you nothing about other infills, or turf with no infill, in either direction.
 sources:
@@ -31,7 +31,7 @@ sources:
     url: https://www.law.cornell.edu/cfr/text/16/1630.1
     checked: '2026-09-12'
   - label: 'U.S. EPA: Federal Research on Recycled Tire Crumb Used on Playing Fields and Playgrounds'
-    url: https://www.epa.gov/chemical-research/federal-research-recycled-tire-crumb-used-playing-fields
+    url: https://www.epa.gov/chemical-research/federal-research-recycled-tire-crumb-used-playing-fields-and-playgrounds
     checked: '2026-09-12'
   - label: 'EPA and CDC/ATSDR (July 2019): Synthetic Turf Field Recycled Tire Crumb Rubber Research, Final Report Part 1, Volume 1 (EPA/600/R-19/051.1)'
     url: https://www.epa.gov/sites/default/files/2019-08/documents/synthetic_turf_field_recycled_tire_crumb_rubber_research_under_the_federal_research_action_plan_final_report_part_1_volume_1.pdf
@@ -47,7 +47,7 @@ related:
   guides: []
 publicReferences:
   - https://up.codes/viewer/colorado/ibc-2021/chapter/8/interior-finishes
-  - https://www.epa.gov/chemical-research/federal-research-recycled-tire-crumb-used-playing-fields
+  - https://www.epa.gov/chemical-research/federal-research-recycled-tire-crumb-used-playing-fields-and-playgrounds
   - https://www.epa.gov/system/files/documents/2024-04/tcrs-exposure-characterization-volume-1.pdf
 ---
 
@@ -115,7 +115,7 @@ One line matters for turf with a pad: "Carpet-type floor coverings shall be test
 
 ## What federal research found in the air at an indoor field
 
-In February 2016, CDC/ATSDR and the EPA, with the Consumer Product Safety Commission, launched the [Federal Research Action Plan on tire crumb](https://www.epa.gov/chemical-research/federal-research-recycled-tire-crumb-used-playing-fields). Two reports cover playing fields.
+In February 2016, CDC/ATSDR and the EPA, with the Consumer Product Safety Commission, launched the [Federal Research Action Plan on tire crumb](https://www.epa.gov/chemical-research/federal-research-recycled-tire-crumb-used-playing-fields-and-playgrounds). Two reports cover playing fields.
 
 **Part 1 (July 2019)** sampled 40 fields with tire crumb rubber infill: 25 outdoor and 15 indoor. The [report](https://www.epa.gov/sites/default/files/2019-08/documents/synthetic_turf_field_recycled_tire_crumb_rubber_research_under_the_federal_research_action_plan_final_report_part_1_volume_1.pdf) found most organic chemicals at higher levels in the infill at indoor fields. With the lower ventilation rates indoors, it said exposures "may be higher for people using indoor fields." It added that more research would be needed to confirm this.
 

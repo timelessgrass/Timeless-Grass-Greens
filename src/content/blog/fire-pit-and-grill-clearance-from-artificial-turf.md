@@ -1,7 +1,7 @@
 ---
 status: published
 title: Fire Pit and Grill Clearance From Turf | TIMELESS Grass & Greens
-description: A fire pit, grill or outdoor kitchen needs a non-combustible pad set back from the turf edge. What drives the setback, and what to settle before the layout is final.
+description: "A fire pit, grill or outdoor kitchen needs a non-combustible pad set back from the turf. What drives the setback, and what to settle before the layout."
 h1: How Far Should a Fire Pit, Grill or Outdoor Kitchen Sit From Artificial Turf?
 topic: Heat and safety
 published: '2026-09-13'

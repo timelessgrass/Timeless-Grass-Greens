@@ -15,7 +15,7 @@ faq:
   - q: Can turf run right up to my pool fence?
     a: It can, as long as the barrier still measures up afterwards. The <a href="https://www.cpsc.gov/s3fs-public/362%20Safety%20Barrier%20Guidelines%20for%20Pools.pdf" target="_blank" rel="nofollow noopener">CPSC</a> measures barrier height on the side facing away from the pool, so measure from the finished turf surface. Its guidelines also allow a smaller gap under the fence over grass or pebbles than over a solid surface. Your building department decides which figures apply.
   - q: Can I run sprinklers to cool turf by my pool in Florida?
-    a: Not with an in-ground system on most home lots. Florida's synthetic turf rule, <a href="https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc" target="_blank" rel="nofollow noopener">Rule 62-308.100, F.A.C.</a>, covers single-family properties of 1 acre or less and says in-ground irrigation systems cannot be used to irrigate synthetic turf areas. Where a system is already in, your local government may require the heads removed and the pipe capped.
+    a: Not with an in-ground system on most home lots. Florida's synthetic turf rule, <a href="https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc" target="_blank" rel="nofollow noopener">Rule 62-308.100, F.A.C.</a>, covers single-family properties of 1 acre or less and says in-ground irrigation systems cannot be used to irrigate synthetic turf areas. Where a system is already in, your local government may require the heads removed and the pipe capped.
   - q: Does turf beside a pool get too hot for bare feet?
     a: It can run far hotter than grass. In <a href="https://plantscience.psu.edu/research/centers/ssrc/documents/temperature-irrigation.pdf" target="_blank" rel="nofollow noopener">Penn State's test plots</a>, synthetic surfaces reached 54°C to 72°C (about 129°F to 161°F) on an August afternoon when the air above was near 30°C. Keep the barefoot route from the house to the pool steps in shade or on the deck.
 sources:
@@ -32,7 +32,7 @@ sources:
     url: https://www.cpsc.gov/s3fs-public/362%20Safety%20Barrier%20Guidelines%20for%20Pools.pdf
     checked: '2026-09-12'
   - label: 'Rule 62-308.100, F.A.C., Florida DEP synthetic turf standard (effective 19 May 2026): permeability, stormwater, irrigation and infill'
-    url: https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
+    url: https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
     checked: '2026-09-12'
   - label: 'Synthetic Turf Council: Considerations When Buying Synthetic Grass for Landscape Use (September 2013)'
     url: https://cdn.ymaws.com/www.syntheticturfcouncil.org/resource/resmgr/guidelines/STC_Considerations_When_Buyi.pdf
@@ -53,7 +53,7 @@ related:
 publicReferences:
   - https://www.flsenate.gov/Laws/Statutes/2025/515.29
   - https://www.cpsc.gov/s3fs-public/362%20Safety%20Barrier%20Guidelines%20for%20Pools.pdf
-  - https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
+  - https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
 ---
 
 ## Start with the pool barrier, not the turf
@@ -100,7 +100,7 @@ A pool puts water on the ground beyond the rain: splash-out, wet feet, the deck 
 
 Look at which way the deck slopes. If it sheds water toward the lawn, the turf and its base take that water on top of every storm.
 
-Florida's statewide turf standard, [Rule 62-308.100](https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc), in force since 19 May 2026, covers single-family properties of 1 acre or less. It requires:
+Florida's statewide turf standard, [Rule 62-308.100](https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc), in force since 19 May 2026, covers single-family properties of 1 acre or less. It requires:
 
 - **Permeable turf** on a permeable backing, over a subgrade prepared for positive drainage.
 - **No pooling,** and no increase in runoff volume, direction or rate onto neighboring properties. Where possible, runoff goes to pervious areas on your own lot.

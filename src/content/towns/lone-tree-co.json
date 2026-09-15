@@ -67,7 +67,7 @@
       "takeaway": "Clay here can swell up to 20% and push over 30,000 pounds per square foot; on the bluffs, grade and drainage matter too. We check the ground at the free visit, then plan the base.",
       "paras": [
         "Lone Tree sits at 6,280 feet, rising from built-out suburban ground in the north to grassland bluffs in the south with views of the Front Range. Bluffs Regional Park, 235 acres of open space and trails, is where you can see the change.",
-        "Beneath it is Douglas County's swelling clay: bentonite and montmorillonite that can grow by up to 20% in volume and press on a foundation with over 30,000 pounds per square foot (<a href=\"https://coloradogeologicalsurvey.org/hazards/expansive-soil/\" target=\"_blank\" rel=\"nofollow noopener\">Colorado Geological Survey</a>). The county also maps a Dipping Bedrock Overlay District for its steeply tilted bedrock (<a href=\"https://coloradogeologicalsurvey.org/hazards/heaving-bedrock/\" target=\"_blank\" rel=\"nofollow noopener\">Colorado Geological Survey</a>).",
+        "Beneath it is Douglas County's swelling clay: bentonite and montmorillonite that can grow by up to 20% in volume and press on a foundation with over 30,000 pounds per square foot (<a href=\"https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/\" target=\"_blank\" rel=\"nofollow noopener\">Colorado Geological Survey</a>). The county also maps a Dipping Bedrock Overlay District for its steeply tilted bedrock (<a href=\"https://coloradogeologicalsurvey.org/publications/heaving-bedrock-hazards-douglas-colorado/\" target=\"_blank\" rel=\"nofollow noopener\">Colorado Geological Survey</a>).",
         "On ground like that, the base is what keeps a lawn flat from one season to the next, and on the bluffs grade and drainage matter as much as depth. On the free visit we measure the yard and look at the ground, then plan a base that suits it."
       ]
     }
@@ -125,11 +125,11 @@
     },
     {
       "label": "Colorado Geological Survey: expansive soil",
-      "url": "https://coloradogeologicalsurvey.org/hazards/expansive-soil/"
+      "url": "https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/"
     },
     {
       "label": "Colorado Geological Survey: heaving bedrock",
-      "url": "https://coloradogeologicalsurvey.org/hazards/heaving-bedrock/"
+      "url": "https://coloradogeologicalsurvey.org/publications/heaving-bedrock-hazards-douglas-colorado/"
     },
     {
       "label": "Heritage Hills HOA: Design Standards",

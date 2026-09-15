@@ -35,7 +35,7 @@ sources:
     url: https://resourcecentral.org/lawn/
     checked: '2026-09-08'
   - label: 'Rule 62-308.100, Florida Administrative Code: adopted rule text'
-    url: https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
+    url: https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
     checked: '2026-09-08'
 related:
   services:
@@ -82,7 +82,7 @@ Turf runs hotter than grass in direct sun. UF/IFAS reports natural lawns measure
 
 Runoff is the cost fewer people know about. UF/IFAS cites research finding more runoff and less water retention on synthetic lawns than on living ones, and zinc in synthetic turf runoff at levels that pose a potential risk to surface waters. Its [extension blog](https://blogs.ifas.ufl.edu/global/2025/07/15/considering-synthetic-turf-what-homeowners-should-know-before-installation/) puts part of that down to the build: turf laid over compacted soil slows infiltration and speeds runoff.
 
-The build can be done better. [Florida's standard](https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc) requires the turf, backing and subgrade to be permeable, and bars compacting the soil beneath to the point that percolation suffers. Even then, the ground has the last word. As NJ DEP puts it, a turf product that drains 10 inches an hour doesn't make the soil under it drain that fast.
+The build can be done better. [Florida's standard](https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc) requires the turf, backing and subgrade to be permeable, and bars compacting the soil beneath to the point that percolation suffers. Even then, the ground has the last word. As NJ DEP puts it, a turf product that drains 10 inches an hour doesn't make the soil under it drain that fast.
 
 ## Wildlife and soil
 

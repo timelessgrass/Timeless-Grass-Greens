@@ -11,11 +11,11 @@ answer:
   answer: They can. Turf covers the surface, not the soil below it. Colorado State University Extension puts a pocket gopher's main tunnel 4 to 18 inches down, and gophers gnaw plastic irrigation lines. Voles need cover, such as mulch and fabric-covered beds beside the turf. Control the animals before you install. Then decide on a wire mesh layer under the base, and gravel or conduit around the lines that stay.
 faq:
   - q: What mesh size keeps out both gophers and voles?
-    a: 'Quarter-inch is the size that shows up in both sets of guidance. <a href="https://www.extension.colostate.edu/docs/pubs/natres/06515.pdf" target="_blank" rel="nofollow noopener">CSU Extension</a> gives ¼- to ½-inch hardware cloth for gophers. <a href="https://ipm.ucanr.edu/PMG/PESTNOTES/pn7439.html" target="_blank" rel="nofollow noopener">UC IPM</a> gives ¼ inch or smaller for voles. Galvanized or stainless steel lasts longer, but <a href="https://extension.usu.edu/crops/research/pocket-gophers" target="_blank" rel="nofollow noopener">Utah State University Extension</a> says galvanized mesh will eventually rust away.'
+    a: 'Quarter-inch is the size that shows up in both sets of guidance. <a href="https://www.extension.colostate.edu/docs/pubs/natres/06515.pdf" target="_blank" rel="nofollow noopener">CSU Extension</a> gives ¼- to ½-inch hardware cloth for gophers. <a href="https://ipm.ucanr.edu/home-and-landscape/voles/" target="_blank" rel="nofollow noopener">UC IPM</a> gives ¼ inch or smaller for voles. Galvanized or stainless steel lasts longer, but <a href="https://extension.usu.edu/crops/research/pocket-gophers" target="_blank" rel="nofollow noopener">Utah State University Extension</a> says galvanized mesh will eventually rust away.'
   - q: Will ultrasonic spikes or repellents keep gophers out from under turf?
-    a: 'Not on the evidence. <a href="https://ipm.ucanr.edu/PMG/PESTNOTES/pn7433.html" target="_blank" rel="nofollow noopener">UC IPM</a> says vibrating stakes, ultrasonic devices and wind-powered pinwheels were not effective in research trials, and no repellent currently sold successfully protects plants from gophers. For voles, it lists ultrasonic devices and flooding as ineffective in landscapes.'
+    a: 'Not on the evidence. <a href="https://ipm.ucanr.edu/home-and-landscape/pocket-gophers/" target="_blank" rel="nofollow noopener">UC IPM</a> says vibrating stakes, ultrasonic devices and wind-powered pinwheels were not effective in research trials, and no repellent currently sold successfully protects plants from gophers. For voles, it lists ultrasonic devices and flooding as ineffective in landscapes.'
   - q: How do I protect a drip line that still runs beside the turf?
-    a: 'Two ways. <a href="https://www.extension.colostate.edu/docs/pubs/natres/06515.pdf" target="_blank" rel="nofollow noopener">CSU Extension</a> says to enclose buried irrigation lines and cables in conduit more than 2.9 inches across. <a href="https://ipm.ucanr.edu/PMG/PESTNOTES/pn7433.html" target="_blank" rel="nofollow noopener">UC IPM</a> suggests 6 to 8 inches of coarse gravel, 1 inch or larger, around buried flexible sprinkler lines.'
+    a: 'Two ways. <a href="https://www.extension.colostate.edu/docs/pubs/natres/06515.pdf" target="_blank" rel="nofollow noopener">CSU Extension</a> says to enclose buried irrigation lines and cables in conduit more than 2.9 inches across. <a href="https://ipm.ucanr.edu/home-and-landscape/pocket-gophers/" target="_blank" rel="nofollow noopener">UC IPM</a> suggests 6 to 8 inches of coarse gravel, 1 inch or larger, around buried flexible sprinkler lines.'
   - q: Can I trap gophers and voles in Colorado?
     a: 'CSU Extension describes them this way. Its gopher fact sheet, reviewed February 2016, says gophers are not protected by state or federal laws. Its <a href="https://extension.colostate.edu/resource/managing-voles-in-colorado/" target="_blank" rel="nofollow noopener">vole fact sheet</a>, reviewed August 2025, calls voles non-game wildlife that may be captured or killed when they cause a nuisance or property damage. Rules can change. Check with <a href="https://cpw.state.co.us/species/pocket-gophers" target="_blank" rel="nofollow noopener">Colorado Parks and Wildlife</a> or your county extension office first.'
 sources:
@@ -26,10 +26,10 @@ sources:
     url: https://extension.colostate.edu/resource/managing-voles-in-colorado/
     checked: '2026-09-12'
   - label: 'Baldwin, UC IPM Pest Notes: Pocket Gophers, UC ANR Publication 7433 (updated June 2025)'
-    url: https://ipm.ucanr.edu/PMG/PESTNOTES/pn7433.html
+    url: https://ipm.ucanr.edu/home-and-landscape/pocket-gophers/
     checked: '2026-09-12'
   - label: 'Baldwin, UC IPM Pest Notes: Voles (Meadow Mice), UC ANR Publication 7439 (updated April 2023)'
-    url: https://ipm.ucanr.edu/PMG/PESTNOTES/pn7439.html
+    url: https://ipm.ucanr.edu/home-and-landscape/voles/
     checked: '2026-09-12'
   - label: 'PlantTalk Colorado 2310, CSU Extension: Difference between vole damage and pocket gopher damage'
     url: https://planttalk.colostate.edu/topics/wildlife-issues/2310-difference-voles-damage-pocket-gopher-damage/
@@ -53,12 +53,12 @@ related:
 publicReferences:
   - https://www.extension.colostate.edu/docs/pubs/natres/06515.pdf
   - https://extension.colostate.edu/resource/managing-voles-in-colorado/
-  - https://ipm.ucanr.edu/PMG/PESTNOTES/pn7433.html
+  - https://ipm.ucanr.edu/home-and-landscape/pocket-gophers/
 ---
 
 ## Turf covers the ground, not the tunnels
 
-Artificial turf and its base sit on top of the soil. Gophers live in the soil. [Colorado State University Extension](https://www.extension.colostate.edu/docs/pubs/natres/06515.pdf) puts a pocket gopher's main tunnel 4 to 18 inches below the surface, in burrows 2 to 3½ inches wide. One burrow system can hold up to 200 yards of tunnel. [UC IPM](https://ipm.ucanr.edu/PMG/PESTNOTES/pn7433.html) says the nest can sit as deep as 6 feet, depending on the soil.
+Artificial turf and its base sit on top of the soil. Gophers live in the soil. [Colorado State University Extension](https://www.extension.colostate.edu/docs/pubs/natres/06515.pdf) puts a pocket gopher's main tunnel 4 to 18 inches below the surface, in burrows 2 to 3½ inches wide. One burrow system can hold up to 200 yards of tunnel. [UC IPM](https://ipm.ucanr.edu/home-and-landscape/pocket-gophers/) says the nest can sit as deep as 6 feet, depending on the soil.
 
 In Colorado this is a common question. [Colorado Parks and Wildlife](https://cpw.state.co.us/species/pocket-gophers) says every part of the state has some kind of pocket gopher. [PlantTalk Colorado](https://planttalk.colostate.edu/topics/wildlife-issues/2310-difference-voles-damage-pocket-gopher-damage/) counts voles and pocket gophers among the most common burrowing animals here.
 
@@ -76,7 +76,7 @@ UC IPM adds that one gopher can push up several mounds a day. Fresh mounds mean 
 
 ## What turf changes for voles
 
-Voles live closer to the surface than gophers. [UC IPM's vole notes](https://ipm.ucanr.edu/PMG/PESTNOTES/pn7439.html) describe many short, shallow burrows and runways hidden under grass or other cover. Voles also eat turfgrass. [CSU Extension](https://extension.colostate.edu/resource/managing-voles-in-colorado/) says they often build runways in lawns, and that most damage happens in winter under snow.
+Voles live closer to the surface than gophers. [UC IPM's vole notes](https://ipm.ucanr.edu/home-and-landscape/voles/) describe many short, shallow burrows and runways hidden under grass or other cover. Voles also eat turfgrass. [CSU Extension](https://extension.colostate.edu/resource/managing-voles-in-colorado/) says they often build runways in lawns, and that most damage happens in winter under snow.
 
 What voles want is cover. UC lists vegetation, mulch and weed cloth as the ground cover they use near homes. [PlantTalk Colorado](https://planttalk.colostate.edu/topics/wildlife-issues/2309-managing-vole-damage-landscapes/) calls shrub and flower beds covered with landscape fabric especially attractive, and says Front Range junipers often suffer vole damage. It also says voles are more common where yards border natural areas or greenbelts with tall grass. Its advice:
 

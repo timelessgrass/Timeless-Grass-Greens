@@ -56,7 +56,7 @@
       "takeaway": "County code has no turf provision, so for a home the limits that matter are the 70% impervious ratio and setbacks. Condos and townhomes in the town center add an association's approval.",
       "paras": [
         "Vilano Beach has no city government, so St. Johns County's Land Development Code applies, and it has no provision on artificial turf. For a home, the limits that matter are the 70% impervious surface ratio and the district setbacks (<a href=\"https://www.sjcfl.us/wp-content/uploads/2024/01/article-vi.pdf\" target=\"_blank\" rel=\"nofollow noopener\">LDC Article VI</a>). In the town center, condos and townhomes add an association's approval.",
-        "On the ocean side, the state's Coastal Construction Control Line decides more. Florida DEP regulates structures and activities seaward of that line that could erode the beach, destabilize the dune, damage upland property or block public access, and its permits protect sea turtles and dune plants too (<a href=\"https://floridadep.gov/water/coastal-construction-control-line\" target=\"_blank\" rel=\"nofollow noopener\">Florida DEP</a>). DEP publishes no plain answer for landscaping, so check your lot with DEP before you plan anything near the dune, and check your flood zone at the same time.",
+        "On the ocean side, the state's Coastal Construction Control Line decides more. Florida DEP regulates structures and activities seaward of that line that could erode the beach, destabilize the dune, damage upland property or block public access, and its permits protect sea turtles and dune plants too (<a href=\"https://floridadep.gov/rcp/coastal-construction-control-line\" target=\"_blank\" rel=\"nofollow noopener\">Florida DEP</a>). DEP publishes no plain answer for landscaping, so check your lot with DEP before you plan anything near the dune, and check your flood zone at the same time.",
         "One county rule makes the case for turf on its own: fertilizer is capped at 5 pounds of nitrogen per 1,000 square feet a year, and none may go down under a storm watch or warning (<a href=\"https://www.sjcfl.us/protect-our-water/\" target=\"_blank\" rel=\"nofollow noopener\">St. Johns County</a>). Turf needs none."
       ]
     },
@@ -116,7 +116,7 @@
     },
     {
       "label": "Florida DEP: Coastal Construction Control Line program",
-      "url": "https://floridadep.gov/water/coastal-construction-control-line"
+      "url": "https://floridadep.gov/rcp/coastal-construction-control-line"
     },
     {
       "label": "St. Johns County: protect our water (watering and fertilizer rules)",
@@ -145,6 +145,6 @@
   ],
   "checked": "2026-09-07",
   "publicReferences": [
-    "https://floridadep.gov/water/coastal-construction-control-line"
+    "https://floridadep.gov/rcp/coastal-construction-control-line"
   ]
 }

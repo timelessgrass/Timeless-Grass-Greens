@@ -11,7 +11,7 @@ answer:
   answer: A useful turf quote identifies the measured area, layout, exact materials and work included in the price. It should explain preparation, drainage, seams, edges, removal and cleanup, along with timing and payment terms. Compare those details before comparing totals, and put agreed changes in writing.
 faq:
   - q: Why does base depth matter on a quote?
-    a: 'Because base preparation affects drainage and surface condition, and it is covered once the turf goes down. Rules that spell it out use numbers: <a href="https://www.thorntonwater.com/wp-content/uploads/2026/02/2026-residential_artificial_turf_info__rules-1.pdf" target="_blank" rel="nofollow noopener">Thornton''s rebate</a> requires at least 3 inches of compacted aggregate, and <a href="https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc" target="_blank" rel="nofollow noopener">Florida''s standard</a> requires washed subgrade material and permeable layers. A quote that only says "base prep" can''t be compared.'
+    a: 'Because base preparation affects drainage and surface condition, and it is covered once the turf goes down. Rules that spell it out use numbers: <a href="https://www.thorntonwater.com/wp-content/uploads/2026/02/2026-residential_artificial_turf_info__rules-1.pdf" target="_blank" rel="nofollow noopener">Thornton''s rebate</a> requires at least 3 inches of compacted aggregate, and <a href="https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc" target="_blank" rel="nofollow noopener">Florida''s standard</a> requires washed subgrade material and permeable layers. A quote that only says "base prep" can''t be compared.'
   - q: Who should deal with the sprinkler lines?
     a: 'The quote should say. Utilities mark only the lines they own: <a href="https://www.colorado811.org/residential-digging" target="_blank" rel="nofollow noopener">Colorado 811</a> says private lines such as sprinklers and landscape lighting aren''t marked, and <a href="https://sc811.com/homeowners/faqs-homeowners/" target="_blank" rel="nofollow noopener">SC811</a> says the same of lines running past the meter. Someone has to find, cap or reroute them before the digging starts.'
   - q: How should payments be structured?
@@ -35,7 +35,7 @@ sources:
     url: https://www.thorntonwater.com/wp-content/uploads/2026/02/2026-residential_artificial_turf_info__rules-1.pdf
     checked: '2026-09-08'
   - label: 'Rule 62-308.100, Florida Administrative Code: adopted rule text'
-    url: https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
+    url: https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
     checked: '2026-09-08'
   - label: '21 NCAC 28B .0503(b), North Carolina Landscape Contractors'' Licensing Board: artificial turf installation standard'
     url: http://reports.oah.state.nc.us/ncac/title%2021%20-%20occupational%20licensing%20boards%20and%20commissions/chapter%2028%20-%20landscape%20contractors/chapter%2028%20rules.pdf
@@ -105,7 +105,7 @@ This line should explain the preparation for the property rather than leaving it
 - how it's compacted
 - the slope, and which way the water runs
 
-Where rules spell this out, they use specifics. [Thornton's rebate rules](https://www.thorntonwater.com/wp-content/uploads/2026/02/2026-residential_artificial_turf_info__rules-1.pdf) require at least 3 inches of compacted aggregate. [Florida's standard](https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc) requires washed subgrade material, permeable layers all the way down, and no compacting the soil beneath to the point that water can't soak in. North Carolina's [landscape licensing board](http://reports.oah.state.nc.us/ncac/title%2021%20-%20occupational%20licensing%20boards%20and%20commissions/chapter%2028%20-%20landscape%20contractors/chapter%2028%20rules.pdf) writes it into its rules: a sub-grade compacted and pitched to drain. Our [installer licensing guide](/guides/turf-installer-licensing-by-state/) makes the same point: ask for base depth and infill weight as numbers.
+Where rules spell this out, they use specifics. [Thornton's rebate rules](https://www.thorntonwater.com/wp-content/uploads/2026/02/2026-residential_artificial_turf_info__rules-1.pdf) require at least 3 inches of compacted aggregate. [Florida's standard](https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc) requires washed subgrade material, permeable layers all the way down, and no compacting the soil beneath to the point that water can't soak in. North Carolina's [landscape licensing board](http://reports.oah.state.nc.us/ncac/title%2021%20-%20occupational%20licensing%20boards%20and%20commissions/chapter%2028%20-%20landscape%20contractors/chapter%2028%20rules.pdf) writes it into its rules: a sub-grade compacted and pitched to drain. Our [installer licensing guide](/guides/turf-installer-licensing-by-state/) makes the same point: ask for base depth and infill weight as numbers.
 
 ## Drainage
 

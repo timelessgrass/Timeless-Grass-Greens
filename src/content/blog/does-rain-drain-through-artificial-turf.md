@@ -41,7 +41,7 @@ sources:
     url: https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00013889&dataTypes=MLY-TMAX-NORMAL,MLY-TMIN-NORMAL,MLY-PRCP-NORMAL&format=json
     checked: '2026-09-07'
   - label: 'Rule 62-308.100, Florida Administrative Code: adopted rule text'
-    url: https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
+    url: https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
     checked: '2026-09-08'
   - label: 'City of Atlantic Beach, Florida: Artificial Turf Installation Guidelines'
     url: https://coab.us/DocumentCenter/View/15920/Turf-Installation-Guidelines
@@ -106,7 +106,7 @@ When the water table is that close, the sand is already full, and fast soil does
 
 Most of the mapped ground here drains poorly. USDA soil data puts 71.4% of mapped acres in Duval County, 78.5% in St. Johns and 82.2% in Nassau in the poorly or very poorly drained classes. In St. Johns, 75.7% of mapped acres have the water table within 6 inches of the surface at some point in a normal year ([USDA Soil Data Access](https://sdmdataaccess.nrcs.usda.gov/)).
 
-Then the rain comes in a block: roughly 28.8 inches at Jacksonville from June through September in a normal year ([NOAA](https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00013889&dataTypes=MLY-TMAX-NORMAL,MLY-TMIN-NORMAL,MLY-PRCP-NORMAL&format=json)). Florida's 2026 standard for home lawns treats the layers as one system. It requires washed base material, water passing through the turf, backing and base, and no compacting the soil beneath to the point that percolation suffers ([Rule 62-308.100](https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc)). Local detail is on our [northeast Florida page](/northeast-florida/).
+Then the rain comes in a block: roughly 28.8 inches at Jacksonville from June through September in a normal year ([NOAA](https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00013889&dataTypes=MLY-TMAX-NORMAL,MLY-TMIN-NORMAL,MLY-PRCP-NORMAL&format=json)). Florida's 2026 standard for home lawns treats the layers as one system. It requires washed base material, water passing through the turf, backing and base, and no compacting the soil beneath to the point that percolation suffers ([Rule 62-308.100](https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc)). Local detail is on our [northeast Florida page](/northeast-florida/).
 
 ## What "drains well" looks like on paper
 

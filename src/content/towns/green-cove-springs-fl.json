@@ -48,7 +48,7 @@
       "paras": [
         "In central Green Cove Springs the USDA soil survey maps Cassia fine sand. Its main soil, Mandarin, makes up 80% of the map unit and is somewhat poorly drained: at its highest point in the year the water table sits 77 centimeters down, about 30 inches. The land is nearly flat, 0 to 2% slope, with no flooding or ponding mapped (<a href=\"https://sdmdataaccess.sc.egov.usda.gov/\" target=\"_blank\" rel=\"nofollow noopener\">USDA Soil Data Access</a>).",
         "Rain passes through turf and stone quickly, then meets ground that is wet for part of the year. We build the base for that soil and grade it so water heads somewhere that can take it, away from the house and the lot next door.",
-        "Florida's turf rule, in force since 19 May 2026, wants the same result: permeable turf on a pervious subgrade prepared for positive drainage, with no pooling and no extra runoff onto adjacent properties (<a href=\"https://www.flrules.org/gateway/readFile.asp?sid=0&amp;tid=30839130&amp;type=1&amp;file=62-308.100.doc\" target=\"_blank\" rel=\"nofollow noopener\">DEP Rule 62-308.100</a>). The city is working on drainage too, replacing stormwater pipes on Clay Street and Ferris Street and adding a stormwater pond on Oakridge (<a href=\"https://www.greencovesprings.com/419/Stormwater-Projects\" target=\"_blank\" rel=\"nofollow noopener\">city stormwater projects</a>)."
+        "Florida's turf rule, in force since 19 May 2026, wants the same result: permeable turf on a pervious subgrade prepared for positive drainage, with no pooling and no extra runoff onto adjacent properties (<a href=\"https://flrules.org/gateway/readFile.asp?sid=0&amp;tid=30839130&amp;type=1&amp;file=62-308.100.doc\" target=\"_blank\" rel=\"nofollow noopener\">DEP Rule 62-308.100</a>). The city is working on drainage too, replacing stormwater pipes on Clay Street and Ferris Street and adding a stormwater pond on Oakridge (<a href=\"https://www.greencovesprings.com/419/Stormwater-Projects\" target=\"_blank\" rel=\"nofollow noopener\">city stormwater projects</a>)."
       ]
     },
     {
@@ -91,7 +91,7 @@
     },
     {
       "q": "Does Florida's turf rule limit what the city can require?",
-      "a": "The rule, effective 19 May 2026, says local governments may not regulate turf on single-family lots of an acre or less in a way that's inconsistent with it, and lets them set a drainage standard of up to 10 inches an hour through all layers (<a href=\"https://www.flrules.org/gateway/readFile.asp?sid=0&amp;tid=30839130&amp;type=1&amp;file=62-308.100.doc\" target=\"_blank\" rel=\"nofollow noopener\">DEP Rule 62-308.100</a>). DEP doesn't permit or inspect turf and points local questions to the local government (<a href=\"https://floridadep.gov/sites/default/files/SyntheticTurfFAQ%20final.pdf\" target=\"_blank\" rel=\"nofollow noopener\">DEP FAQ</a>), so ask Development Services how Sec. 113-4 applies."
+      "a": "The rule, effective 19 May 2026, says local governments may not regulate turf on single-family lots of an acre or less in a way that's inconsistent with it, and lets them set a drainage standard of up to 10 inches an hour through all layers (<a href=\"https://flrules.org/gateway/readFile.asp?sid=0&amp;tid=30839130&amp;type=1&amp;file=62-308.100.doc\" target=\"_blank\" rel=\"nofollow noopener\">DEP Rule 62-308.100</a>). DEP doesn't permit or inspect turf and points local questions to the local government (<a href=\"https://floridadep.gov/sites/default/files/SyntheticTurfFAQ%20final.pdf\" target=\"_blank\" rel=\"nofollow noopener\">DEP FAQ</a>), so ask Development Services how Sec. 113-4 applies."
     },
     {
       "q": "Can artificial turf count as required landscaping on a commercial site?",
@@ -123,7 +123,7 @@
     },
     {
       "label": "DEP Rule 62-308.100, F.A.C.: synthetic turf (adopted rule text, effective 19 May 2026)",
-      "url": "https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc"
+      "url": "https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc"
     },
     {
       "label": "Florida DEP: Synthetic Turf FAQ",

@@ -17,7 +17,7 @@ faq:
       No single distance fits every tree, but written rules give you a floor. <a href="https://www.thorntonwater.com/wp-content/uploads/2026/02/2026-residential_artificial_turf_info__rules-1.pdf" target="_blank" rel="nofollow noopener">Thornton's 2026 turf rules</a> require three feet from the trunk of a deciduous tree and keep turf outside the drip line of an evergreen. <a href="https://coab.us/DocumentCenter/View/15920/Turf-Installation-Guidelines" target="_blank" rel="nofollow noopener">Atlantic Beach, Florida</a> asks for at least 18 to 24 inches from the base where turf has to go under a canopy. The farther back the edge sits, the fewer roots the base touches.
   - q: Does Florida's turf rule cover my neighbor's tree?
     a: >-
-      Yes. <a href="https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc" target="_blank" rel="nofollow noopener">Rule 62-308.100</a> bars synthetic turf inside tree drip lines on your property or adjacent properties. The exceptions are a tree listed as a noxious weed, or a certified arborist certifying from the specific site that the install would not harm the tree. The rule covers single-family lots of an acre or less. Your county or city can tell you how it applies to your lot.
+      Yes. <a href="https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc" target="_blank" rel="nofollow noopener">Rule 62-308.100</a> bars synthetic turf inside tree drip lines on your property or adjacent properties. The exceptions are a tree listed as a noxious weed, or a certified arborist certifying from the specific site that the install would not harm the tree. The rule covers single-family lots of an acre or less. Your county or city can tell you how it applies to your lot.
   - q: What should go around the trunk instead of turf?
     a: >-
       Something that lets water and air in. <a href="https://engagement.source.colostate.edu/want-to-remove-your-lawn-heres-how-not-to-kill-your-trees/" target="_blank" rel="nofollow noopener">CSU Extension</a> suggests a 4-inch layer of wood chips or gravel over bare soil, and advises against plastic weed barrier. <a href="https://gardeningsolutions.ifas.ufl.edu/plants/trees-and-shrubs/trees/tree-root-problems/" target="_blank" rel="nofollow noopener">UF/IFAS Extension</a> advises mulch about three inches deep, kept well away from the trunk.
@@ -26,7 +26,7 @@ faq:
       Yes. The <a href="https://www.treesaregood.org/Portals/0/TreesAreGood_Avoid%20Damage%20During%20Construction_0721.pdf" target="_blank" rel="nofollow noopener">International Society of Arboriculture</a> says construction damage may take many years to affect a tree, and small injuries can add up to a decline that is hard to reverse. Watch the canopy for a few years afterwards. CSU Extension lists brown leaf edges, early fall color and leaf drop, and twig dieback as signs of water stress.
 sources:
   - label: 'Rule 62-308.100, F.A.C., adopted rule text: synthetic turf on single-family lots, including proximity to trees (effective 19 May 2026)'
-    url: https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
+    url: https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
     checked: '2026-09-12'
   - label: 'Dennis and Jacobi, revised by Hammond, Colorado State University Extension Fact Sheet 7.420: Protecting Trees During Construction (revised 8/20)'
     url: https://csfs.colostate.edu/wp-content/uploads/2024/01/Protecting-Trees-During-Construction-Fact-Sheet-7.420.pdf
@@ -57,7 +57,7 @@ related:
     - florida-turf-infill-rules
     - colorado-water-rebates-and-turf
 publicReferences:
-  - https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
+  - https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
   - https://csfs.colostate.edu/wp-content/uploads/2024/01/Protecting-Trees-During-Construction-Fact-Sheet-7.420.pdf
   - https://www.treesaregood.org/Portals/0/TreesAreGood_Avoid%20Damage%20During%20Construction_0721.pdf
 ---
@@ -89,7 +89,7 @@ Then there is water. CSU points out that a tree that has grown in a lawn for dec
 
 Three sets of rules in the areas we serve spell out tree limits. What follows is a summary. Check the current text with the office that enforces it.
 
-**Florida, statewide.** [Rule 62-308.100](https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc), in force since 19 May 2026, sets minimum standards for synthetic turf on single-family lots of an acre or less. An install "cannot compromise the health of nearby trees," root damage included. Turf may not go inside a tree's drip line, on your lot or a neighbor's, unless the tree is a listed noxious weed or a certified arborist certifies from the specific site that it would not harm the tree.
+**Florida, statewide.** [Rule 62-308.100](https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc), in force since 19 May 2026, sets minimum standards for synthetic turf on single-family lots of an acre or less. An install "cannot compromise the health of nearby trees," root damage included. Turf may not go inside a tree's drip line, on your lot or a neighbor's, unless the tree is a listed noxious weed or a certified arborist certifies from the specific site that it would not harm the tree.
 
 **Atlantic Beach, Florida.** The city's [turf installation guidelines](https://coab.us/DocumentCenter/View/15920/Turf-Installation-Guidelines) say turf should stay out from under drip lines where possible. Where it has to go under a canopy:
 

@@ -22,7 +22,7 @@
       "h2": "Know the rule that stops a city or county ban.",
       "takeaway": "On a single-family lot of an acre or less, compliant turf can't be banned by your city or county. Ask for product specs showing no heavy metals or added PFAS, and natural or coated-sand infill.",
       "paras": [
-        "Since 19 May 2026, a Florida city or county can’t prohibit synthetic turf on single-family property when the turf complies with the state’s standard, and can’t regulate turf in a way that’s inconsistent with it (<a href=\"https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0100-0199%2F0125%2FSections%2F0125.572.html\" target=\"_blank\" rel=\"nofollow noopener\">section 125.572</a>). That standard is <a href=\"https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc\" target=\"_blank\" rel=\"nofollow noopener\">Rule 62-308.100</a>, and it covers single-family lots of one acre or less. Turf that meets it on a qualifying lot is protected from a local ban. That protection runs against local government only. Your HOA, and a CDD enforcing deed restrictions, are separate questions.",
+        "Since 19 May 2026, a Florida city or county can’t prohibit synthetic turf on single-family property when the turf complies with the state’s standard, and can’t regulate turf in a way that’s inconsistent with it (<a href=\"https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0100-0199%2F0125%2FSections%2F0125.572.html\" target=\"_blank\" rel=\"nofollow noopener\">section 125.572</a>). That standard is <a href=\"https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc\" target=\"_blank\" rel=\"nofollow noopener\">Rule 62-308.100</a>, and it covers single-family lots of one acre or less. Turf that meets it on a qualifying lot is protected from a local ban. That protection runs against local government only. Your HOA, and a CDD enforcing deed restrictions, are separate questions.",
         "The rule starts with materials. Turf, backing and infill can’t contain heavy metals or intentionally added PFAS, and all of it must be disposable at a permitted Florida landfill. Infill is limited to clean silica sand, rock, shell or other natural material, or coated silica sand with a non-toxic coating that meets the same limits. Rubber and other synthetic infill are allowed only under playground equipment, and the installation has to keep infill from washing off the property. When you compare turf options at the free visit, ask for the product specifications behind those lines.",
         "The state doesn’t check the work. The <a href=\"https://floridadep.gov/sites/default/files/SyntheticTurfFAQ%20final.pdf\" target=\"_blank\" rel=\"nofollow noopener\">DEP synthetic turf FAQ</a> says the department issues no permit and runs no inspection or enforcement program, and it sends local permitting questions to your city or county."
       ]
@@ -101,11 +101,11 @@
   "sources": [
     {
       "label": "Rule 62-308.100, F.A.C.: adopted rule text",
-      "url": "https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc"
+      "url": "https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc"
     },
     {
       "label": "Florida Administrative Code: Rule 62-308.100 record (effective 19 May 2026)",
-      "url": "https://www.flrules.org/gateway/ruleNo.asp?id=62-308.100"
+      "url": "https://flrules.org/gateway/ruleNo.asp?id=62-308.100"
     },
     {
       "label": "Fla. Stat. 125.572: regulation of synthetic turf",
@@ -153,7 +153,7 @@
     }
   ],
   "publicReferences": [
-    "https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc",
+    "https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc",
     "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0100-0199%2F0125%2FSections%2F0125.572.html",
     "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0700-0799/0720/Sections/0720.3045.html",
     "https://floridadep.gov/sites/default/files/SyntheticTurfFAQ%20final.pdf",

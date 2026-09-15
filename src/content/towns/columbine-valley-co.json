@@ -66,9 +66,9 @@
       "h2": "River-valley ground that stays damp.",
       "takeaway": "Old irrigated farm ground here runs 35 to 60% clay and drains slowly, so the base needs real drainage. Out front, ask the Town where its right-of-way begins before turf runs to the curb.",
       "paras": [
-        "Columbine Valley sits at 5,358 feet on old irrigated farm ground in the South Platte valley, where river alluvium mixes with the region's swelling clay (<a href=\"https://coloradogeologicalsurvey.org/geologic-hazards/expansive-soil-rock/\" target=\"_blank\" rel=\"nofollow noopener\">Colorado Geological Survey</a>). The locally named Englewood soil series runs 35 to 60% clay, with slow permeability (<a href=\"https://soilseries.sc.egov.usda.gov/OSD_Docs/E/ENGLEWOOD.html\" target=\"_blank\" rel=\"nofollow noopener\">USDA</a>).",
+        "Columbine Valley sits at 5,358 feet on old irrigated farm ground in the South Platte valley, where river alluvium mixes with the region's swelling clay (<a href=\"https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/\" target=\"_blank\" rel=\"nofollow noopener\">Colorado Geological Survey</a>). The locally named Englewood soil series runs 35 to 60% clay, with slow permeability (<a href=\"https://soilseries.sc.egov.usda.gov/OSD_Docs/E/ENGLEWOOD.html\" target=\"_blank\" rel=\"nofollow noopener\">USDA</a>).",
         "The Town runs stormwater and mosquito management programs, and next to the course its irrigation, drainage and tree canopy shape how wet the neighboring lots stay (<a href=\"https://columbinevalley.org/public-works-2/\" target=\"_blank\" rel=\"nofollow noopener\">Town of Columbine Valley</a>). A base with real drainage matters more here than on high, dry ground.",
-        "Out front, check where your lot ends. The Town keeps a right of way along its streets that often looks like part of the front yard, so ask the Town where its strip begins before turf runs to the curb (<a href=\"https://www.columbinevalley.org/136/Public-Works\" target=\"_blank\" rel=\"nofollow noopener\">Town of Columbine Valley</a>)."
+        "Out front, check where your lot ends. The Town keeps a right of way along its streets that often looks like part of the front yard, so ask the Town where its strip begins before turf runs to the curb (<a href=\"https://columbinevalley.org/public-works/\" target=\"_blank\" rel=\"nofollow noopener\">Town of Columbine Valley</a>)."
       ]
     }
   ],
@@ -89,7 +89,7 @@
     },
     {
       "q": "Where does my front yard end?",
-      "a": "Often short of the curb. The Town keeps a right of way along its streets that can look like part of your front yard, so ask the Town where your lot line sits before turf goes to the street (<a href=\"https://www.columbinevalley.org/136/Public-Works\" target=\"_blank\" rel=\"nofollow noopener\">Town of Columbine Valley</a>)."
+      "a": "Often short of the curb. The Town keeps a right of way along its streets that can look like part of your front yard, so ask the Town where your lot line sits before turf goes to the street (<a href=\"https://columbinevalley.org/public-works/\" target=\"_blank\" rel=\"nofollow noopener\">Town of Columbine Valley</a>)."
     },
     {
       "q": "Can I put a putting green on a fairway-side lot?",
@@ -116,7 +116,7 @@
     },
     {
       "label": "Colorado Geological Survey: expansive soil and rock",
-      "url": "https://coloradogeologicalsurvey.org/geologic-hazards/expansive-soil-rock/"
+      "url": "https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/"
     },
     {
       "label": "USDA: Englewood soil series",
@@ -128,7 +128,7 @@
     },
     {
       "label": "Town of Columbine Valley: public works questions and right of way",
-      "url": "https://www.columbinevalley.org/136/Public-Works"
+      "url": "https://columbinevalley.org/public-works/"
     },
     {
       "label": "Denver Water: drought and Stage 1 restrictions",

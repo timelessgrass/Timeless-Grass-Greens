@@ -64,8 +64,8 @@
       "h2": "Confirm who reviews Civietown work: the town or the county.",
       "takeaway": "Civietown has no town government, so ask Shallotte and Brunswick County which one reviews your parcel. If the county does, filling or digging four inches or more that changes drainage needs its stormwater permit.",
       "paras": [
-        "Civietown sits along Civietown Road SW (SR 1132), about 3.8 miles east of Shallotte, and has no incorporated town government of its own — it doesn't appear as a place on federal or OpenStreetMap place records, only as the road name. The town review described above may not be who covers your project there. Ask both Shallotte Planning & Zoning and <a href=\"https://www.brunswickcountync.gov/planning/\" target=\"_blank\" rel=\"nofollow noopener\">Brunswick County Planning & Community Enforcement</a>, which reviews unincorporated land outside every town's planning jurisdiction, to confirm which office covers your specific parcel before you finalize a layout.",
-        "Where the county reviews the work instead of the town, Brunswick County's <a href=\"https://www.brunswickcountync.gov/DocumentCenter/View/7215\" target=\"_blank\" rel=\"nofollow noopener\">stormwater ordinance</a> applies on its own terms: filling or excavating a parcel by four inches or more, in a way that changes how it drains, needs a Stormwater Management Plan and a county Stormwater Permit, and any digging within 30 feet of a stream bank needs one too unless the county's management manual marks the work exempt. See our <a href=\"/grand-strand/ash-nc/\">Ash, NC</a> page for how that county permit trigger plays out nearby, then bring the same questions on dig depth and any stream near your Civietown lot to the county before work starts."
+        "Civietown sits along Civietown Road SW (SR 1132), about 3.8 miles east of Shallotte, and has no incorporated town government of its own — it doesn't appear as a place on federal or OpenStreetMap place records, only as the road name. The town review described above may not be who covers your project there. Ask both Shallotte Planning & Zoning and <a href=\"https://www.brunswickcountync.gov/381/Planning-Community-Enforcement\" target=\"_blank\" rel=\"nofollow noopener\">Brunswick County Planning & Community Enforcement</a>, which reviews unincorporated land outside every town's planning jurisdiction, to confirm which office covers your specific parcel before you finalize a layout.",
+        "Where the county reviews the work instead of the town, Brunswick County's <a href=\"https://www.brunswickcountync.gov/DocumentCenter/View/7215/BC-Stormwater-Ordinance-Update-01202026\" target=\"_blank\" rel=\"nofollow noopener\">stormwater ordinance</a> applies on its own terms: filling or excavating a parcel by four inches or more, in a way that changes how it drains, needs a Stormwater Management Plan and a county Stormwater Permit, and any digging within 30 feet of a stream bank needs one too unless the county's management manual marks the work exempt. See our <a href=\"/grand-strand/ash-nc/\">Ash, NC</a> page for how that county permit trigger plays out nearby, then bring the same questions on dig depth and any stream near your Civietown lot to the county before work starts."
       ]
     }
   ],
@@ -106,11 +106,11 @@
     },
     {
       "label": "Brunswick County Planning & Community Enforcement",
-      "url": "https://www.brunswickcountync.gov/planning/"
+      "url": "https://www.brunswickcountync.gov/381/Planning-Community-Enforcement"
     },
     {
       "label": "Brunswick County Stormwater Quality Management and Discharge Control Ordinance (PDF)",
-      "url": "https://www.brunswickcountync.gov/DocumentCenter/View/7215"
+      "url": "https://www.brunswickcountync.gov/DocumentCenter/View/7215/BC-Stormwater-Ordinance-Update-01202026"
     },
     {
       "label": "Brierwood community site",

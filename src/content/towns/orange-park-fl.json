@@ -44,7 +44,7 @@
       "h2": "In most Orange Park yards, the tree is the gatekeeper.",
       "takeaway": "Turf can't sit inside a drip line, yours or a neighbor's, without a certified arborist's letter saying it won't harm the tree. Get that letter before the layout is final.",
       "paras": [
-        "Few streets in town answer to an HOA, because most of Orange Park was built before covenanted subdivisions. What shapes a layout instead is Florida's turf standard. Since 19 May 2026 an installation can't compromise the health of nearby trees, roots included, and turf can't sit within a drip line on your lot or the next one unless a certified arborist, working from the site itself, certifies it won't be harmful to the tree (<a href=\"https://www.flrules.org/gateway/readFile.asp?sid=0&amp;tid=30839130&amp;type=1&amp;file=62-308.100.doc\" target=\"_blank\" rel=\"nofollow noopener\">Florida's turf rule</a>).",
+        "Few streets in town answer to an HOA, because most of Orange Park was built before covenanted subdivisions. What shapes a layout instead is Florida's turf standard. Since 19 May 2026 an installation can't compromise the health of nearby trees, roots included, and turf can't sit within a drip line on your lot or the next one unless a certified arborist, working from the site itself, certifies it won't be harmful to the tree (<a href=\"https://flrules.org/gateway/readFile.asp?sid=0&amp;tid=30839130&amp;type=1&amp;file=62-308.100.doc\" target=\"_blank\" rel=\"nofollow noopener\">Florida's turf rule</a>).",
         "With 70-to-100-year-old oaks spread over whole back yards, that takes in most of the shady ground that most needs turf. So the arborist's letter comes first and the layout second. Without a letter, the turf is planned around the canopy rather than under it.",
         "Two more lines in the rule matter on older lots. Where a house is on septic, the tank has to stay reachable for routine pumpout, and no in-ground irrigation can run under turf, so those heads come out and the pipe is capped. The Town can't ban turf that meets the standard on a home lot of one acre or smaller (<a href=\"https://laws.flrules.org/files/Ch_2025-140.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Ch. 2025-140</a>), but it keeps its own code, including historic review for contributing properties in the River Road Historic District."
       ]
@@ -85,7 +85,7 @@
     },
     {
       "q": "Is turf allowed beneath the live oak in my Orange Park yard?",
-      "a": "Yes, if a certified arborist puts it in writing. The state standard covers every drip line, including a neighbour's tree that overhangs your yard, and allows turf inside one only when the arborist certifies it won't be harmful to the tree (<a href=\"https://www.flrules.org/gateway/readFile.asp?sid=0&amp;tid=30839130&amp;type=1&amp;file=62-308.100.doc\" target=\"_blank\" rel=\"nofollow noopener\">Florida's turf rule</a>). Without it, plan the turf around the canopy rather than under it."
+      "a": "Yes, if a certified arborist puts it in writing. The state standard covers every drip line, including a neighbour's tree that overhangs your yard, and allows turf inside one only when the arborist certifies it won't be harmful to the tree (<a href=\"https://flrules.org/gateway/readFile.asp?sid=0&amp;tid=30839130&amp;type=1&amp;file=62-308.100.doc\" target=\"_blank\" rel=\"nofollow noopener\">Florida's turf rule</a>). Without it, plan the turf around the canopy rather than under it."
     },
     {
       "q": "Who supplies water in Orange Park?",
@@ -109,7 +109,7 @@
   "sources": [
     {
       "label": "Rule 62-308.100, F.A.C.: adopted rule text",
-      "url": "https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc"
+      "url": "https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc"
     },
     {
       "label": "Chapter 2025-140, Laws of Florida (HB 683)",
@@ -153,6 +153,6 @@
     "bellair-meadowbrook-terrace-fl"
   ],
   "publicReferences": [
-    "https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc"
+    "https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc"
   ]
 }

@@ -1,7 +1,7 @@
 ---
 status: published
 title: Is Artificial Turf Wheelchair Accessible? | TIMELESS Grass & Greens
-description: Turf can serve an accessible route or play area only if the installed system is firm and stable. What the ADA Standards and ASTM F1951 ask for, and what to check.
+description: "Turf can serve an accessible route or play area only if the installed system is firm and stable. What the ADA Standards and ASTM F1951 ask, and what to check."
 h1: Is artificial turf wheelchair accessible?
 topic: Commercial and sports
 published: '2026-09-12'

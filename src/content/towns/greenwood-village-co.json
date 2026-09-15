@@ -56,7 +56,7 @@
       "takeaway": "From horse pastures to courtyard lots, the ground is clay that swells when wet. We match the base to your soil and slope; on acreage, ask the city early whether grading needs approval.",
       "paras": [
         "The city's 2018 Comprehensive Plan divides it into planning areas that behave like different towns (<a href=\"https://greenwoodvillage.com/DocumentCenter/View/18538/2018-Final-Comprehensive-Plan\" target=\"_blank\" rel=\"nofollow noopener\">City of Greenwood Village</a>). Rural Homestead allows one home per 2.5 acres, on gravel roads with horse pastures. The West End runs about one home an acre, with valley pans and drainage ditches instead of curb and gutter. The Preserve was platted between 1990 and 2000, and Cottonwood Grove holds 8 to 12 homes an acre.",
-        "Under all of it is Front Range clay that can expand up to 20% by volume when wet, with pressures above 30,000 pounds per square foot, and engineers treat a 3% swell as potentially damaging (<a href=\"https://coloradogeologicalsurvey.org/geologic-hazards/expansive-soil-rock/\" target=\"_blank\" rel=\"nofollow noopener\">Colorado Geological Survey</a>). Greenwood, Prentice and Goldsmith gulches cut through the rolling yards, with floodplain along Cherry Creek and the High Line Canal.",
+        "Under all of it is Front Range clay that can expand up to 20% by volume when wet, with pressures above 30,000 pounds per square foot, and engineers treat a 3% swell as potentially damaging (<a href=\"https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/\" target=\"_blank\" rel=\"nofollow noopener\">Colorado Geological Survey</a>). Greenwood, Prentice and Goldsmith gulches cut through the rolling yards, with floodplain along Cherry Creek and the High Line Canal.",
         "The city has its own 2022 Storm Drainage Criteria Manual and a Construction Site Management Manual for grading and erosion control (<a href=\"https://www.greenwoodvillage.com/2501/Adopted-Codes-Manuals\" target=\"_blank\" rel=\"nofollow noopener\">City of Greenwood Village</a>). Our base is matched to the soil and the slope; on the larger acreage, ask the city early whether the grading needs its approval."
       ]
     },
@@ -67,7 +67,7 @@
       "takeaway": "Most of the Village's water traces to Denver Water, and some Rural Homestead homes run on private wells. Turf ends the watering routine, and on a well it takes the lawn off the pump.",
       "paras": [
         "Greenwood Village runs no water utility. Its Comprehensive Plan names seven water providers inside the city: Castlewood, Cherry Hills Village Water, Cherry Creek Village, Greenwood Village Water, Havana, South East Englewood and Southgate (<a href=\"https://greenwoodvillage.com/DocumentCenter/View/18538/2018-Final-Comprehensive-Plan\" target=\"_blank\" rel=\"nofollow noopener\">City of Greenwood Village</a>). Some Rural Homestead homes have no municipal water at all and rely on private wells.",
-        "Most of that water traces back to Denver Water; nearby Willows Water District says plainly that Denver Water is its source (<a href=\"https://willowswater.org/\" target=\"_blank\" rel=\"nofollow noopener\">Willows Water District</a>). Denver Water's Stage 1 drought has run since 25 March 2026, and on 26 August 2026 its board ended the lawn watering season: from 1 October, watering grass or running spray irrigation is prohibited, hand-watering of grass included (<a href=\"https://www.denverwater.org/drought\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>). Your district can tell you how it enforces that.",
+        "Most of that water traces back to Denver Water; nearby Willows Water District says plainly that Denver Water is its source (<a href=\"https://www.willowswater.org/\" target=\"_blank\" rel=\"nofollow noopener\">Willows Water District</a>). Denver Water's Stage 1 drought has run since 25 March 2026, and on 26 August 2026 its board ended the lawn watering season: from 1 October, watering grass or running spray irrigation is prohibited, hand-watering of grass included (<a href=\"https://www.denverwater.org/drought\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>). Your district can tell you how it enforces that.",
         "Denver Water's turfgrass removal discount won't fund turf in the new landscape (<a href=\"https://www.denverwater.org/tap/ditching-useless-turf-coloradoscape-we-can-help\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>). So turf earns no rebate, but it ends the two-day watering routine for good, and on a well it takes the lawn off the pump."
       ]
     }
@@ -121,7 +121,7 @@
     },
     {
       "label": "Colorado Geological Survey: expansive soil and rock",
-      "url": "https://coloradogeologicalsurvey.org/geologic-hazards/expansive-soil-rock/"
+      "url": "https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/"
     },
     {
       "label": "City of Greenwood Village: adopted codes and manuals",
@@ -129,7 +129,7 @@
     },
     {
       "label": "Willows Water District",
-      "url": "https://willowswater.org/"
+      "url": "https://www.willowswater.org/"
     },
     {
       "label": "Denver Water: drought and Stage 1 restrictions",

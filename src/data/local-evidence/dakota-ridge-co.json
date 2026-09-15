@@ -15,7 +15,7 @@
     },
     {
       "label": "Jefferson County Wildfire Resiliency Code (county-hosted accessible PDF, effective July 1, 2026)",
-      "url": "https://www.jeffco.us/DocumentCenter/View/57852/",
+      "url": "https://www.jeffco.us/DocumentCenter/View/57852/Jefferson-County-Colorado-Wildfire-Resiliency-Code-PDF",
       "checked": "2026-09-12",
       "supports": [
         "This Wildfire Resiliency Code shall apply to all unincorporated areas of Jefferson County.",
@@ -34,7 +34,7 @@
     },
     {
       "label": "Jefferson County: Defensible Space & Structure Hardening (Wildfire Resiliency Code overview and FAQ)",
-      "url": "https://www.jeffco.us/2672/Defensible-Space-Wildfire-Mitigation",
+      "url": "https://www.jeffco.us/2672/Defensible-Space-Structure-Hardening",
       "checked": "2026-09-12",
       "supports": [
         "On March 10, 2026, the Jefferson County Board of County Commissioners (BCC) approved the WRC, updates to Zoning Resolution Section 39 Wildland Urban Interface Overlay District, and a new Wildland Urban Interface (WUI) Overlay District map.",
@@ -57,7 +57,7 @@
     },
     {
       "label": "Jefferson County: Wildland Urban Interface (WUI) Overlay for Unincorporated Jefferson County, Colorado, February 2026 (PDF map)",
-      "url": "https://www.jeffco.us/DocumentCenter/View/58294/",
+      "url": "https://www.jeffco.us/DocumentCenter/View/58294/Wildland-Urban-Interface-WUI-Overlay-District-Map-PDF",
       "checked": "2026-09-12",
       "supports": [
         "Wildland Urban Interface (WUI) Overlay for Unincorporated Jefferson County, Colorado February 2026",
@@ -67,7 +67,7 @@
     },
     {
       "label": "Jefferson County Zoning Resolution, Section 39: Wildland Urban Interface Overlay District (amended 03-10-26)",
-      "url": "https://www.jeffco.us/DocumentCenter/View/2474/",
+      "url": "https://www.jeffco.us/DocumentCenter/View/2474/Section-39-Wildland-Urban-Interface-Overlay-District-PDF",
       "checked": "2026-09-12",
       "supports": [
         "Section 39 - Wildland Urban Interface Overlay District",
@@ -140,7 +140,7 @@
     },
     {
       "label": "Southwest Metropolitan Water and Sanitation District: District Boundary Map",
-      "url": "https://swmetrowsdco.gov/district-boundary-map",
+      "url": "https://www.swmetrowsdco.gov/district-boundary-map",
       "checked": "2026-09-12",
       "supports": [
         "Southwest Metropolitan Water and Sanitation District provides water distribution and wastewater collection services to approximately 18,000 residences and businesses in western Arapahoe, eastern Jefferson, and northern Douglas Counties. To verify if you are within the district boundaries, contact the office at 303-979-2333",

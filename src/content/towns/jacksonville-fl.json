@@ -98,7 +98,7 @@
     },
     {
       "q": "What infill goes under turf in Jacksonville?",
-      "a": "On a single-family lot of an acre or less, natural infill only: clean silica sand, rock, shell or other natural material. Rubber and other synthetic infill are allowed only under playground equipment (<a href=\"https://www.flrules.org/gateway/readFile.asp?sid=0&amp;tid=30839130&amp;type=1&amp;file=62-308.100.doc\" target=\"_blank\" rel=\"nofollow noopener\">Rule 62-308.100</a>). In one lab study MRSA lasted longer in sand than in rubber, so a dog run wants a regular rinse. Our <a href=\"/guides/florida-turf-infill-rules/\">Florida infill guide</a> has the detail."
+      "a": "On a single-family lot of an acre or less, natural infill only: clean silica sand, rock, shell or other natural material. Rubber and other synthetic infill are allowed only under playground equipment (<a href=\"https://flrules.org/gateway/readFile.asp?sid=0&amp;tid=30839130&amp;type=1&amp;file=62-308.100.doc\" target=\"_blank\" rel=\"nofollow noopener\">Rule 62-308.100</a>). In one lab study MRSA lasted longer in sand than in rubber, so a dog run wants a regular rinse. Our <a href=\"/guides/florida-turf-infill-rules/\">Florida infill guide</a> has the detail."
     },
     {
       "q": "Does JEA give a rebate for artificial turf?",
@@ -154,11 +154,11 @@
     },
     {
       "label": "Florida Administrative Code: Rule 62-308.100, Synthetic Turf",
-      "url": "https://www.flrules.org/gateway/ruleNo.asp?id=62-308.100"
+      "url": "https://flrules.org/gateway/ruleNo.asp?id=62-308.100"
     },
     {
       "label": "Rule 62-308.100: adopted rule text",
-      "url": "https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc"
+      "url": "https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc"
     },
     {
       "label": "Florida DEP: Synthetic Turf FAQ",
@@ -223,6 +223,6 @@
     "murray-hill-fl"
   ],
   "publicReferences": [
-    "https://www.flrules.org/gateway/ruleNo.asp?id=62-308.100"
+    "https://flrules.org/gateway/ruleNo.asp?id=62-308.100"
   ]
 }

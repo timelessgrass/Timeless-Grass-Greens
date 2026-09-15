@@ -1,7 +1,7 @@
 ---
 status: published
 title: Artificial Turf Before and After a Hurricane | TIMELESS Grass & Greens
-description: Secure loose yard items and clear debris before the storm. After it, stay out of floodwater, then clear, brush and check the infill before deciding what to replace.
+description: "Secure loose yard items and clear debris before the storm. After it, stay out of floodwater, then clear, brush and check the infill before replacing anything."
 h1: What to do with artificial turf before and after a hurricane
 topic: Care and lifespan
 published: '2026-09-12'

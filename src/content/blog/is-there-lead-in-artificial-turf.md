@@ -15,7 +15,7 @@ faq:
   - q: Is nylon turf more likely to contain lead than polyethylene?
     a: That is what the 2008 testing showed. The <a href="https://stacks.cdc.gov/view/cdc/25186/cdc_25186_DS1.pdf" target="_blank" rel="nofollow noopener">CDC advisory</a> said New Jersey's limited sampling found lead of potential concern in nylon and nylon/polyethylene blend fibers, and very low levels in polyethylene-only fields. It also said not all nylon turf had elevated lead. Treat that as history, not a rule for products sold today, and ask for the test.
   - q: Does Florida ban heavy metals in artificial turf?
-    a: On single-family lots of an acre or less, yes. <a href="https://www.flrules.org/gateway/readFile.asp?sid=0&amp;tid=30839130&amp;type=1&amp;file=62-308.100.doc" target="_blank" rel="nofollow noopener">Rule 62-308.100</a>, in effect since 19 May 2026, says turf, including backing and infill, must not contain heavy metals. <a href="https://coab.us/DocumentCenter/View/15920/Turf-Installation-Guidelines" target="_blank" rel="nofollow noopener">Atlantic Beach</a> separately requires turf free of hazardous materials and heavy metals. Ask your city's building or planning office what paperwork it accepts.
+    a: On single-family lots of an acre or less, yes. <a href="https://flrules.org/gateway/readFile.asp?sid=0&amp;tid=30839130&amp;type=1&amp;file=62-308.100.doc" target="_blank" rel="nofollow noopener">Rule 62-308.100</a>, in effect since 19 May 2026, says turf, including backing and infill, must not contain heavy metals. <a href="https://coab.us/DocumentCenter/View/15920/Turf-Installation-Guidelines" target="_blank" rel="nofollow noopener">Atlantic Beach</a> separately requires turf free of hazardous materials and heavy metals. Ask your city's building or planning office what paperwork it accepts.
   - q: Should old turf be tested for lead?
     a: If it's worn, faded or dusty, ask about it. In 2008 the <a href="https://stacks.cdc.gov/view/cdc/25186/cdc_25186_DS1.pdf" target="_blank" rel="nofollow noopener">CDC</a> recommended testing nylon or nylon-blend turf with abraded, faded or broken fibers or visible dust, and replacing worn, dusty fields as soon as practicable. It sent facility managers to their state or local health or environment department for sampling methods.
 sources:
@@ -38,7 +38,7 @@ sources:
     url: https://cdn.ymaws.com/www.syntheticturfcouncil.org/resource/resmgr/guidelines/STC_Considerations_When_Buyi.pdf
     checked: '2026-09-12'
   - label: 'Rule 62-308.100, F.A.C., adopted rule text (effective 19 May 2026): paragraph (2)(a), heavy metals'
-    url: https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
+    url: https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
     checked: '2026-09-12'
   - label: 'City of Atlantic Beach, Florida: Artificial Turf Installation Guidelines (section 7, material quality)'
     url: https://coab.us/DocumentCenter/View/15920/Turf-Installation-Guidelines
@@ -120,7 +120,7 @@ In a small pilot study the report summarized, 13 blood samples from people aged 
 
 In northeast Florida, two written rules apply:
 
-- **Statewide.** [Rule 62-308.100](https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc) sets minimum standards for turf on single-family lots of an acre or less. It says turf, "including backing material and infill, must not contain heavy metals." It took effect on 19 May 2026. Our [Florida infill guide](/guides/florida-turf-infill-rules/) covers the rest of it.
+- **Statewide.** [Rule 62-308.100](https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc) sets minimum standards for turf on single-family lots of an acre or less. It says turf, "including backing material and infill, must not contain heavy metals." It took effect on 19 May 2026. Our [Florida infill guide](/guides/florida-turf-infill-rules/) covers the rest of it.
 - **Atlantic Beach.** The city's [installation guidelines](https://coab.us/DocumentCenter/View/15920/Turf-Installation-Guidelines) require turf "free of hazardous materials and heavy metals," and list manufacturer product specifications among the documents the city needs to see.
 
 Neither text names a test method or a numeric limit. Ask your city's building or planning office what it will accept before material is ordered. This is a summary, not legal advice.

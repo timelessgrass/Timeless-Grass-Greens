@@ -15,7 +15,7 @@ faq:
   - q: What about a 3-year-old preschool classroom at the same school?
     a: That's the harder question, and the states split. Florida requires the school to run and staff the program directly, keep a majority of enrolled children at 5 or older, and meet personnel screening, or the program counts as child care. Colorado's definition goes the other direction — it specifically includes "facilities for children under six years of age with stated educational purposes operated in conjunction with a public, private, or parochial college or a private or parochial school," per <a href="https://codes.findlaw.com/co/title-26-5-early-childhood-programs-and-services/co-rev-st-sect-26-5-5-303/" target="_blank" rel="nofollow noopener">C.R.S. 26.5-5-303(3)(a)</a>, without the same operate-and-staff or majority-age carve-out Florida writes in.
   - q: Does adding an after-care program change the classification?
-    a: It can. North Carolina's exclusion for an accredited nonpublic school's early childhood program depends partly on hours and funding — under <a href="https://web.archive.org/web/2026/https://www.ncleg.gov/enactedlegislation/statutes/html/bysection/chapter_110/gs_110-86.html" target="_blank" rel="nofollow noopener">G.S. 110-86(2)f</a>, a program running more than six and a half hours a day loses the exclusion if it receives NC Pre-K or child care subsidy funding. In South Carolina, a program for under-school-age children that runs more than four hours a day falls outside the four-hour exclusion in <a href="https://www.scstatehouse.gov/code/t63c013.php" target="_blank" rel="nofollow noopener">S.C. Code 63-13-20(4)</a>. Before-care and after-care hours can push a program past either line.
+    a: It can. North Carolina's exclusion for an accredited nonpublic school's early childhood program depends partly on hours and funding — under <a href="https://web.archive.org/web/20260304012300/https://ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_110/GS_110-86.html" target="_blank" rel="nofollow noopener">G.S. 110-86(2)f</a>, a program running more than six and a half hours a day loses the exclusion if it receives NC Pre-K or child care subsidy funding. In South Carolina, a program for under-school-age children that runs more than four hours a day falls outside the four-hour exclusion in <a href="https://www.scstatehouse.gov/code/t63c013.php" target="_blank" rel="nofollow noopener">S.C. Code 63-13-20(4)</a>. Before-care and after-care hours can push a program past either line.
   - q: If the play yard program isn't licensed as child care, does that mean there's no surfacing standard at all?
     a: No. Florida's exemption for a 3-to-under-5 program still requires "substantial compliance" with the state's minimum child care standards under <a href="https://www.flsenate.gov/Laws/Statutes/2025/402.3025" target="_blank" rel="nofollow noopener">Fla. Stat. 402.3025(2)(d)1</a>. An unlicensed program isn't a standards-free program; ask the licensing authority which minimum standards still apply.
 sources:
@@ -29,7 +29,7 @@ sources:
     url: https://codes.findlaw.com/co/title-26-5-early-childhood-programs-and-services/co-rev-st-sect-26-5-5-303/
     checked: '2026-09-14'
   - label: 'N.C. Gen. Stat. 110-86, Definitions (viewed via Wayback Machine archive of ncleg.gov, snapshot dated 4 March 2026; the live page refused automated reads)'
-    url: https://web.archive.org/web/2026/https://www.ncleg.gov/enactedlegislation/statutes/html/bysection/chapter_110/gs_110-86.html
+    url: https://web.archive.org/web/20260304012300/https://ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_110/GS_110-86.html
     checked: '2026-09-14'
 related:
   services:
@@ -85,7 +85,7 @@ In plain terms: Colorado's statute names a private school's own preschool progra
 
 ## North Carolina: an accreditation and funding test, not just hours
 
-[N.C. Gen. Stat. 110-86](https://web.archive.org/web/2026/https://www.ncleg.gov/enactedlegislation/statutes/html/bysection/chapter_110/gs_110-86.html), read via an archived copy after the live page refused automated access, excludes public schools from the "child care" definition outright. For nonpublic schools, the exclusion in subsection (2)f is narrower and depends on two things at once: accreditation and funding.
+[N.C. Gen. Stat. 110-86](https://web.archive.org/web/20260304012300/https://ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_110/GS_110-86.html), read via an archived copy after the live page refused automated access, excludes public schools from the "child care" definition outright. For nonpublic schools, the exclusion in subsection (2)f is narrower and depends on two things at once: accreditation and funding.
 
 To qualify, the nonpublic school must be one "described in Part 2 of Article 39 of Chapter 115C" and "accredited by national or regional accrediting agencies with early childhood standards." If both hold, the school's early childhood program is excluded from the child care definition if it either:
 

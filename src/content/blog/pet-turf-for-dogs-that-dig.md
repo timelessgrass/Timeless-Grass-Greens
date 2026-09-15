@@ -11,13 +11,13 @@ answer:
   answer: It can. Dogs dig for reasons such as heat, prey, boredom or escape, and chew to relieve boredom, teething pain or anxiety, and turf does not remove those reasons. Reduce the risk before you buy. Anchor every edge and seam, put a buried wire or rock barrier where your dog digs at the fence, and give your dog exercise and a spot where digging is allowed. If pieces get swallowed, call your veterinarian.
 faq:
   - q: Will a buried barrier stop my dog digging under the fence?
-    a: It lowers the odds, but don't count on it alone. The <a href="https://www.humanesociety.org/resources/stop-dogs-digging" target="_blank" rel="nofollow noopener">Humane Society of the United States</a> suggests chicken wire buried at the base of the fence with the sharp edges rolled away from the yard, large rocks partly buried along the fence line, or a fence bottom sunk 1 to 2 feet. <a href="https://ipm.ucanr.edu/PMG/PESTNOTES/pn7433.html" target="_blank" rel="nofollow noopener">UC IPM</a> calls even a 2-foot gopher barrier not perfect. Pair the barrier with the reason your dog digs.
+    a: It lowers the odds, but don't count on it alone. The <a href="https://www.humaneworld.org/en/resources/stop-dogs-digging" target="_blank" rel="nofollow noopener">Humane Society of the United States</a> suggests chicken wire buried at the base of the fence with the sharp edges rolled away from the yard, large rocks partly buried along the fence line, or a fence bottom sunk 1 to 2 feet. <a href="https://ipm.ucanr.edu/home-and-landscape/pocket-gophers/" target="_blank" rel="nofollow noopener">UC IPM</a> calls even a 2-foot gopher barrier not perfect. Pair the barrier with the reason your dog digs.
   - q: What should I do if my dog eats pieces of turf?
     a: Call your veterinarian. <a href="https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-topics/gastrointestinal-foreign-body-obstruction-dogs" target="_blank" rel="nofollow noopener">Cornell's Riney Canine Health Center</a> explains that a swallowed object too large to pass can lodge in the stomach or small intestine, that these blockages are emergencies often needing surgery, and that vomiting and lethargy are among the signs.
   - q: Can a turf yard still have a digging spot?
     a: Yes, and it is easier to plan one in than to cut one out later. The <a href="https://www.vetmed.ucdavis.edu/sites/g/files/dgvnsk491/files/inline-files/Why_Does_My_Dog_Dig.pdf" target="_blank" rel="nofollow noopener">UC Davis veterinary behavior handout</a> suggests a sandbox or a sand area with toys and treats buried in it, and rewarding your dog for digging there.
   - q: Should I punish my dog for digging up the turf?
-    a: No. The <a href="https://www.vetmed.ucdavis.edu/sites/g/files/dgvnsk491/files/inline-files/Why_Does_My_Dog_Dig.pdf" target="_blank" rel="nofollow noopener">UC Davis handout</a> says not to physically punish a dog for digging. The <a href="https://www.humanesociety.org/resources/stop-dogs-digging" target="_blank" rel="nofollow noopener">Humane Society</a> adds that punishing after the fact does not address the cause and makes fear or anxiety digging worse. For escape or anxiety digging, UC Davis points you to your veterinarian.
+    a: No. The <a href="https://www.vetmed.ucdavis.edu/sites/g/files/dgvnsk491/files/inline-files/Why_Does_My_Dog_Dig.pdf" target="_blank" rel="nofollow noopener">UC Davis handout</a> says not to physically punish a dog for digging. The <a href="https://www.humaneworld.org/en/resources/stop-dogs-digging" target="_blank" rel="nofollow noopener">Humane Society</a> adds that punishing after the fact does not address the cause and makes fear or anxiety digging worse. For escape or anxiety digging, UC Davis points you to your veterinarian.
 sources:
   - label: 'UC Davis School of Veterinary Medicine, Clinical Animal Behavior Service: Why Does My Dog Dig? (client handout)'
     url: https://www.vetmed.ucdavis.edu/sites/g/files/dgvnsk491/files/inline-files/Why_Does_My_Dog_Dig.pdf
@@ -26,13 +26,13 @@ sources:
     url: https://www.aspca.org/pet-care/dog-care/common-dog-behavior-issues/destructive-chewing
     checked: '2026-09-12'
   - label: 'Humane Society of the United States: How to get your dog to stop digging'
-    url: https://www.humanesociety.org/resources/stop-dogs-digging
+    url: https://www.humaneworld.org/en/resources/stop-dogs-digging
     checked: '2026-09-12'
   - label: 'Humane Society of the United States: How to stop animals from digging or burrowing under fences (L-shaped footers)'
-    url: https://www.humanesociety.org/resources/fence-out-digging-animals
+    url: https://www.humaneworld.org/en/resources/how-stop-animals-digging-or
     checked: '2026-09-12'
   - label: 'Baldwin, UC IPM Pest Notes: Pocket Gophers, UC ANR Publication 7433 (updated June 2025)'
-    url: https://ipm.ucanr.edu/PMG/PESTNOTES/pn7433.html
+    url: https://ipm.ucanr.edu/home-and-landscape/pocket-gophers/
     checked: '2026-09-12'
   - label: 'Cornell Richard P. Riney Canine Health Center: Gastrointestinal foreign body obstruction in dogs (updated December 2024)'
     url: https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-topics/gastrointestinal-foreign-body-obstruction-dogs
@@ -41,7 +41,7 @@ sources:
     url: https://www.thorntonwater.com/wp-content/uploads/2026/02/2026-residential_artificial_turf_info__rules-1.pdf
     checked: '2026-09-12'
   - label: 'Rule 62-308.100, F.A.C., adopted rule text: anchoring at all edges and seams'
-    url: https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
+    url: https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
     checked: '2026-09-12'
 related:
   services:
@@ -54,7 +54,7 @@ related:
     - florida-turf-infill-rules
 publicReferences:
   - https://www.vetmed.ucdavis.edu/sites/g/files/dgvnsk491/files/inline-files/Why_Does_My_Dog_Dig.pdf
-  - https://ipm.ucanr.edu/PMG/PESTNOTES/pn7433.html
+  - https://ipm.ucanr.edu/home-and-landscape/pocket-gophers/
   - https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-topics/gastrointestinal-foreign-body-obstruction-dogs
 ---
 
@@ -80,7 +80,7 @@ The behavior service at the [UC Davis School of Veterinary Medicine](https://www
 - **Escape.** Running and barking along the fence, or bolting at gates. UC Davis suggests talking to your veterinarian.
 - **Anxiety.** Damage that happens while you are away, around doors and windows. Also a question for your veterinarian.
 
-The [Humane Society of the United States](https://www.humanesociety.org/resources/stop-dogs-digging) reads the holes the same way. Digging under or along a fence suggests escape. Holes near foundations, large shade trees or water suggest a dog looking for comfort.
+The [Humane Society of the United States](https://www.humaneworld.org/en/resources/stop-dogs-digging) reads the holes the same way. Digging under or along a fence suggests escape. Holes near foundations, large shade trees or water suggest a dog looking for comfort.
 
 That matters for turf. A dog digging to cool off needs shade more than a stronger edge, and turf in full sun gets hot. Our article on [how hot artificial turf gets](/blog/how-hot-does-artificial-turf-get/) covers that side.
 
@@ -112,7 +112,7 @@ Its prevention advice is plain: keep chewable objects out of reach, and supervis
 Two written rules show the standard to ask for. Neither mentions dogs.
 
 - **Thornton, Colorado.** The city's [2026 turf rules](https://www.thorntonwater.com/wp-content/uploads/2026/02/2026-residential_artificial_turf_info__rules-1.pdf) for its rebate program require turf anchored at all edges and seams with pins or nails the manufacturer recommends. Seams are glued, not sewn.
-- **Florida.** [Rule 62-308.100](https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc), the state standard for turf on single-family lots of an acre or less since 19 May 2026, requires anchoring at all edges and seams, strong enough at a minimum to withstand wind or flooding.
+- **Florida.** [Rule 62-308.100](https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc), the state standard for turf on single-family lots of an acre or less since 19 May 2026, requires anchoring at all edges and seams, strong enough at a minimum to withstand wind or flooding.
 
 Thornton's maintenance list doubles as a routine for a dog yard. It includes fixing looseness at edges and seams, brushing back infill that has moved, and repairing depressions. Walk the edges regularly and deal with anything lifting early.
 
@@ -126,9 +126,9 @@ If your dog digs along the fence, the fix belongs at the fence. The Humane Socie
 - Partly bury large rocks along the bottom of the fence line.
 - Bury the bottom of the fence 1 to 2 feet below the surface.
 
-Its [guidance on burrowing animals](https://www.humanesociety.org/resources/fence-out-digging-animals) adds an L-shaped wire footer. It is buried about a foot deep and runs out at a right angle for a foot or more, so a digger hits a flat barrier. Where digging a trench isn't practical, it says the footer can lie on the surface, stapled tight and covered.
+Its [guidance on burrowing animals](https://www.humaneworld.org/en/resources/how-stop-animals-digging-or) adds an L-shaped wire footer. It is buried about a foot deep and runs out at a right angle for a foot or more, so a digger hits a flat barrier. Where digging a trench isn't practical, it says the footer can lie on the surface, stapled tight and covered.
 
-For gophers, [UC IPM](https://ipm.ucanr.edu/PMG/PESTNOTES/pn7433.html) goes deeper: hardware cloth or ½- to ¾-inch mesh buried at least 2 feet, with 6 inches bent out at a right angle. It recommends galvanized or stainless steel wire to make the barrier last longer. It also says the method is not perfect, because persistent gophers dig below it. Treat any barrier as one part of the plan.
+For gophers, [UC IPM](https://ipm.ucanr.edu/home-and-landscape/pocket-gophers/) goes deeper: hardware cloth or ½- to ¾-inch mesh buried at least 2 feet, with 6 inches bent out at a right angle. It recommends galvanized or stainless steel wire to make the barrier last longer. It also says the method is not perfect, because persistent gophers dig below it. Treat any barrier as one part of the plan.
 
 Your city may shape that strip too. Thornton's 2026 rules list a three-foot buffer between turf and all property lines, made of wood mulch, gravel or rock. Where rules like those apply and the fence sits on the property line, fence-line digging happens in the buffer, not the turf. Ask your city what applies before the layout is drawn.
 

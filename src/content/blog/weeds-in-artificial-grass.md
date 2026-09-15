@@ -1,7 +1,7 @@
 ---
 status: published
 title: Why Do Weeds Grow in Artificial Grass? | TIMELESS Grass & Greens
-description: Weeds can grow in debris on turf or around its edges. Remove them carefully, clear accumulated material and assess recurring growth before altering the installation.
+description: "Weeds can grow in debris on turf or around its edges. Remove them carefully, clear the debris and look into recurring growth before changing the installation."
 h1: Can weeds grow in artificial grass?
 topic: Care and lifespan
 published: '2026-09-10'
@@ -11,7 +11,7 @@ answer:
   answer: Yes. Seeds can establish in accumulated debris, and growth can also appear around edges or through parts of an installation. Clear loose material and deal with young weeds carefully using compatible methods. Neither the location of a weed nor the presence of a barrier proves where every root started.
 faq:
   - q: Will a weed barrier stop weeds in artificial grass?
-    a: Only from below, and not completely. <a href="https://ipm.ucanr.edu/PMG/PESTNOTES/pn7441.html" target="_blank" rel="nofollow noopener">UC IPM</a> notes that yellow nutsedge can grow through most landscape fabrics and that weeds grow through any gap, and <a href="https://s3.wp.wsu.edu/uploads/sites/403/2015/03/landscape-fabric.pdf" target="_blank" rel="nofollow noopener">WSU's extension horticulturist</a> writes that soil or organic matter on top of a fabric speeds its colonization by weeds. Seeds that land on the turf itself are a surface problem.
+    a: Only from below, and not completely. <a href="https://ipm.ucanr.edu/home-and-landscape/weed-management-in-landscapes/" target="_blank" rel="nofollow noopener">UC IPM</a> notes that yellow nutsedge can grow through most landscape fabrics and that weeds grow through any gap, and <a href="https://s3.wp.wsu.edu/uploads/sites/403/2015/03/landscape-fabric.pdf" target="_blank" rel="nofollow noopener">WSU's extension horticulturist</a> writes that soil or organic matter on top of a fabric speeds its colonization by weeds. Seeds that land on the turf itself are a surface problem.
   - q: Can I use weed killer on artificial grass?
     a: 'Sparingly, and only a product your turf maker approves. The <a href="https://cdn.ymaws.com/staging-stc.site-ym.com/resource/resmgr/guidelines/STC_Guidelines_for_Maintenan.pdf" target="_blank" rel="nofollow noopener">Synthetic Turf Council</a> says weeds come out easily by hand if caught early, and the UK sports surface builders'' <a href="https://sapca.org.uk/wp-content/uploads/2018/07/SAPCA_Code_of_Practice_Construction_Maintenance_Synthetic_Turf_01.pdf" target="_blank" rel="nofollow noopener">code of practice</a> keeps weed killer for deep-rooted weeds, and never an oil-based one. Pull the whole root: some weeds come back stronger when they''re only cut off.'
   - q: Why won't Denver Water fund weed barriers?
@@ -29,7 +29,7 @@ sources:
     url: https://ucanr.edu/blog/over-fence-alameda-county/article/artificial-turf-what-consider
     checked: '2026-09-10'
   - label: 'Wilen, UC IPM Pest Notes 7441 (updated September 2018): Weed Management in Landscapes'
-    url: https://ipm.ucanr.edu/PMG/PESTNOTES/pn7441.html
+    url: https://ipm.ucanr.edu/home-and-landscape/weed-management-in-landscapes/
     checked: '2026-09-10'
   - label: 'Chalker-Scott, Washington State University Extension: The Myth of Landscape Fabric'
     url: https://s3.wp.wsu.edu/uploads/sites/403/2015/03/landscape-fabric.pdf
@@ -38,7 +38,7 @@ sources:
     url: https://coloradogeologicalsurvey.org/wp-content/uploads/woocommerce_uploads/SP-14.pdf
     checked: '2026-09-08'
   - label: 'Rule 62-308.100, Florida Administrative Code: adopted rule text'
-    url: https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
+    url: https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
     checked: '2026-09-08'
   - label: 'Denver Water: Landscape Transformation Assistance Program, HOA and commercial eligibility'
     url: https://www.denverwater.org/business/rebates-and-conservation-tips/landscape-transformation-assistance-program/hoa-commercial
@@ -63,7 +63,7 @@ related:
     - colorado-water-rebates-and-turf
 publicReferences:
   - https://sapca.org.uk/wp-content/uploads/2018/07/SAPCA_Code_of_Practice_Construction_Maintenance_Synthetic_Turf_01.pdf
-  - https://ipm.ucanr.edu/PMG/PESTNOTES/pn7441.html
+  - https://ipm.ucanr.edu/home-and-landscape/weed-management-in-landscapes/
 ---
 
 ## Most weeds start on top
@@ -80,7 +80,7 @@ So look where the debris gathers: under trees, along planting beds where soil an
 
 Weeds from below are what a barrier is for. A fabric laid before the base goes in helps against them, but it has limits:
 
-- **Tough perennials get through.** [UC IPM](https://ipm.ucanr.edu/PMG/PESTNOTES/pn7441.html) notes that yellow nutsedge can grow through most landscape fabrics, with thicker fabrics holding it back better.
+- **Tough perennials get through.** [UC IPM](https://ipm.ucanr.edu/home-and-landscape/weed-management-in-landscapes/) notes that yellow nutsedge can grow through most landscape fabrics, with thicker fabrics holding it back better.
 - **Gaps let weeds in.** UC IPM also warns that weeds grow through any gap in the fabric, so overlaps and edges matter.
 - **Anything on top feeds them.** [Washington State University's extension horticulturist](https://s3.wp.wsu.edu/uploads/sites/403/2015/03/landscape-fabric.pdf) writes that soil or organic matter on top of a fabric speeds its colonization by weeds, and that weeds eventually grow on top of and through it.
 
@@ -91,7 +91,7 @@ Keep the fabric covered, too. WSU notes that geotextiles can degrade in as littl
 ## What goes under turf where you live
 
 - **Colorado.** On swelling clay, the [Colorado Geological Survey](https://coloradogeologicalsurvey.org/wp-content/uploads/woocommerce_uploads/SP-14.pdf) discourages plastic sheeting because it traps moisture. Non-woven fabric, it says, controls weeds and slows infiltration but still lets moisture evaporate. If your base has a barrier under it, it should be non-woven fabric, not plastic.
-- **Florida.** The state's standard for single-family lots requires permeability through the turf, the backing and the subgrade under [Rule 62-308.100](https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc). Whatever goes under the base has to let water through.
+- **Florida.** The state's standard for single-family lots requires permeability through the turf, the backing and the subgrade under [Rule 62-308.100](https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc). Whatever goes under the base has to let water through.
 - **Denver Water's rebate.** You may have read that Denver Water won't fund weed barriers. That's a condition of its [HOA and commercial landscape program](https://www.denverwater.org/business/rebates-and-conservation-tips/landscape-transformation-assistance-program/hoa-commercial), which won't pay for designs that include artificial turf, landscape fabrics or weed barriers. It isn't a rule about turf. Our [Colorado rebates guide](/guides/colorado-water-rebates-and-turf/) covers which providers pay for what.
 
 ## Getting rid of the weeds you find

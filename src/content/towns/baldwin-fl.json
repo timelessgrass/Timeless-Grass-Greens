@@ -88,7 +88,7 @@
     },
     {
       "q": "Can artificial turf go over a septic tank?",
-      "a": "Florida's turf standard says an installation must provide access to the septic tank for routine pumpout (<a href=\"https://www.flrules.org/gateway/readFile.asp?sid=0&amp;tid=30839130&amp;type=1&amp;file=62-308.100.doc\" target=\"_blank\" rel=\"nofollow noopener\">DEP Rule 62-308.100</a>). So the layout works around the lid, and the tank gets marked before any digging starts."
+      "a": "Florida's turf standard says an installation must provide access to the septic tank for routine pumpout (<a href=\"https://flrules.org/gateway/readFile.asp?sid=0&amp;tid=30839130&amp;type=1&amp;file=62-308.100.doc\" target=\"_blank\" rel=\"nofollow noopener\">DEP Rule 62-308.100</a>). So the layout works around the lid, and the tank gets marked before any digging starts."
     },
     {
       "q": "Is Baldwin on JEA water?",
@@ -136,7 +136,7 @@
     },
     {
       "label": "DEP Rule 62-308.100, F.A.C.: synthetic turf (adopted rule text)",
-      "url": "https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc"
+      "url": "https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc"
     }
   ],
   "checked": "2026-09-07",

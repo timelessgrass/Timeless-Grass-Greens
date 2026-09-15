@@ -15,7 +15,7 @@ faq:
   - q: How deep should the base be?
     a: It depends on the soil and the use, so no single number fits every yard. Written rules give examples. Thornton's rebate rules require at least three inches of compacted aggregate (<a href="https://www.thorntonwater.com/wp-content/uploads/2026/02/2026-residential_artificial_turf_info__rules-1.pdf" target="_blank" rel="nofollow noopener">Thornton Water</a>). Treat that as a minimum for one program, not a design.
   - q: Can artificial turf go straight on dirt?
-    a: Not to any written standard we know of. <a href="http://reports.oah.state.nc.us/ncac/title%2021%20-%20occupational%20licensing%20boards%20and%20commissions/chapter%2028%20-%20landscape%20contractors/chapter%2028%20rules.pdf" target="_blank" rel="nofollow noopener">North Carolina's rule</a> requires a compacted sub-grade pitched to drain. <a href="https://www.flrules.org/gateway/readFile.asp?sid=0&amp;tid=30839130&amp;type=1&amp;file=62-308.100.doc" target="_blank" rel="nofollow noopener">Florida's rule</a> requires a washed, water-permeable layer under the turf.
+    a: Not to any written standard we know of. <a href="http://reports.oah.state.nc.us/ncac/title%2021%20-%20occupational%20licensing%20boards%20and%20commissions/chapter%2028%20-%20landscape%20contractors/chapter%2028%20rules.pdf" target="_blank" rel="nofollow noopener">North Carolina's rule</a> requires a compacted sub-grade pitched to drain. <a href="https://flrules.org/gateway/readFile.asp?sid=0&amp;tid=30839130&amp;type=1&amp;file=62-308.100.doc" target="_blank" rel="nofollow noopener">Florida's rule</a> requires a washed, water-permeable layer under the turf.
   - q: If the turf has drain holes, why does the base matter?
     a: 'Because the water still has to go somewhere. <a href="https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf" target="_blank" rel="nofollow noopener">New Jersey''s environment department</a> puts it plainly: a turf product that drains 10 inches an hour does not mean the ground underneath will take water that fast. Clay fills up quickly, and then the water runs off or sits.'
 sources:
@@ -23,7 +23,7 @@ sources:
     url: http://reports.oah.state.nc.us/ncac/title%2021%20-%20occupational%20licensing%20boards%20and%20commissions/chapter%2028%20-%20landscape%20contractors/chapter%2028%20rules.pdf
     checked: '2026-09-08'
   - label: 'Rule 62-308.100, F.A.C., adopted rule text: washed subgrade, permeability, anchoring and natural infill'
-    url: https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
+    url: https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
     checked: '2026-09-08'
   - label: 'Raspanti et al., New Jersey DEP Division of Science & Research: synthetic turf science report, October 2025 (drainage and installation)'
     url: https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf
@@ -68,7 +68,7 @@ A turf lawn is a small drainage system with a carpet on top. From the bottom up:
 
 Around all of it, the edges and seams are anchored so nothing lifts or shifts.
 
-Two states have written this down, and their rules make a useful checklist even where they are not the law. [North Carolina's landscape contractor rules](http://reports.oah.state.nc.us/ncac/title%2021%20-%20occupational%20licensing%20boards%20and%20commissions/chapter%2028%20-%20landscape%20contractors/chapter%2028%20rules.pdf) list five steps for installing artificial turf. [Florida's standard](https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc) for single-family lawns, in force since 19 May 2026, adds rules for drainage and materials. Our [guide to installer rules by state](/guides/turf-installer-licensing-by-state/) sets the North Carolina standard out in full.
+Two states have written this down, and their rules make a useful checklist even where they are not the law. [North Carolina's landscape contractor rules](http://reports.oah.state.nc.us/ncac/title%2021%20-%20occupational%20licensing%20boards%20and%20commissions/chapter%2028%20-%20landscape%20contractors/chapter%2028%20rules.pdf) list five steps for installing artificial turf. [Florida's standard](https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc) for single-family lawns, in force since 19 May 2026, adds rules for drainage and materials. Our [guide to installer rules by state](/guides/turf-installer-licensing-by-state/) sets the North Carolina standard out in full.
 
 ## The ground underneath
 

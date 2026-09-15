@@ -86,7 +86,7 @@
     },
     {
       "q": "Can the city ban artificial turf?",
-      "a": "Not on a single-family lot of an acre or less, if the turf meets the state standard (<a href=\"https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&amp;Search_String=&amp;URL=0100-0199%2F0125%2FSections%2F0125.572.html\" target=\"_blank\" rel=\"nofollow noopener\">Fla. Stat. 125.572</a>). That standard allows natural infill such as clean sand, and rubber only under play equipment (<a href=\"https://www.flrules.org/gateway/ruleNo.asp?id=62-308.100\" target=\"_blank\" rel=\"nofollow noopener\">DEP Rule 62-308.100</a>). Our <a href=\"/guides/florida-turf-infill-rules/\">Florida infill guide</a> has the rest."
+      "a": "Not on a single-family lot of an acre or less, if the turf meets the state standard (<a href=\"https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&amp;Search_String=&amp;URL=0100-0199%2F0125%2FSections%2F0125.572.html\" target=\"_blank\" rel=\"nofollow noopener\">Fla. Stat. 125.572</a>). That standard allows natural infill such as clean sand, and rubber only under play equipment (<a href=\"https://flrules.org/gateway/ruleNo.asp?id=62-308.100\" target=\"_blank\" rel=\"nofollow noopener\">DEP Rule 62-308.100</a>). Our <a href=\"/guides/florida-turf-infill-rules/\">Florida infill guide</a> has the rest."
     },
     {
       "q": "I'm on city water. Do the district's watering limits apply to me?",
@@ -133,7 +133,7 @@
     },
     {
       "label": "Florida Rule 62-308.100, F.A.C.: synthetic turf",
-      "url": "https://www.flrules.org/gateway/ruleNo.asp?id=62-308.100"
+      "url": "https://flrules.org/gateway/ruleNo.asp?id=62-308.100"
     },
     {
       "label": "Fla. Stat. 720.3045: items not visible from the frontage, a neighbor or a common area",

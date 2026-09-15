@@ -11,7 +11,7 @@ answer:
   answer: It depends on what you most want to reduce, because no infill removes every concern. The federal tire crumb study, released in 2019 and April 2024, found chemicals in the rubber and concluded exposures are likely limited, but it is not a risk assessment. TPE and EPDM appear to carry fewer chemicals of concern. Plant-based infills are less studied. Heavy sand-based infills are less likely to wash away.
 faq:
   - q: Did the EPA say crumb rubber fields are safe?
-    a: 'Not in those words. The <a href="https://www.epa.gov/chemical-research/federal-research-recycled-tire-crumb-used-playing-fields" target="_blank" rel="nofollow noopener">EPA</a> says the two federal reports are not a risk assessment. Its conclusion is narrower: chemicals are present in tire crumb and exposures can occur, but they are likely limited. In the pilot, metals in blood were similar to the general population, and PAH markers in urine did not differ from players on grass.'
+    a: 'Not in those words. The <a href="https://www.epa.gov/chemical-research/federal-research-recycled-tire-crumb-used-playing-fields-and-playgrounds" target="_blank" rel="nofollow noopener">EPA</a> says the two federal reports are not a risk assessment. Its conclusion is narrower: chemicals are present in tire crumb and exposures can occur, but they are likely limited. In the pilot, metals in blood were similar to the general population, and PAH markers in urine did not differ from players on grass.'
   - q: Is TPE or EPDM infill safer than crumb rubber?
     a: 'On chemicals, it looks that way, with limits. The Toxics Use Reduction Institute at UMass Lowell found that <a href="https://www.uml.edu/docs/TPE-2017_tcm18-385728.pdf" target="_blank" rel="nofollow noopener">TPE</a> contains fewer chemicals of concern than tire crumb, and that <a href="https://www.uml.edu/docs/EPDM-2017_tcm18-386012.pdf" target="_blank" rel="nofollow noopener">EPDM</a> may. Both are still likely to contain some. Products vary, so ask for the polymer and additives in writing.'
   - q: Will cork or coconut infill keep a field cooler?
@@ -22,7 +22,7 @@ faq:
     a: 'Share the habits <a href="https://portal.ct.gov/dph/environmental-health/environmental-and-occupational-health-assessment/artificial-turf-fields" target="_blank" rel="nofollow noopener">Connecticut''s Department of Public Health</a> lists: wear shoes, wash hands after play and before eating, clean turf burns with soap and water, and take shoes off before going indoors. Tell families with food allergies if the infill contains walnut shell or coconut.'
 sources:
   - label: 'U.S. EPA: Federal Research on Recycled Tire Crumb Used on Playing Fields and Playgrounds (Part 1, July 2019; Part 2, April 2024)'
-    url: https://www.epa.gov/chemical-research/federal-research-recycled-tire-crumb-used-playing-fields
+    url: https://www.epa.gov/chemical-research/federal-research-recycled-tire-crumb-used-playing-fields-and-playgrounds
     checked: '2026-09-12'
   - label: 'U.S. EPA: Tire Crumb Research, Key Questions and Answers'
     url: https://www.epa.gov/chemical-research/tire-crumb-questions-and-answers
@@ -59,14 +59,14 @@ related:
   guides:
     - florida-turf-infill-rules
 publicReferences:
-  - https://www.epa.gov/chemical-research/federal-research-recycled-tire-crumb-used-playing-fields
+  - https://www.epa.gov/chemical-research/federal-research-recycled-tire-crumb-used-playing-fields-and-playgrounds
   - https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf
   - https://portal.ct.gov/dph/environmental-health/environmental-and-occupational-health-assessment/artificial-turf-fields
 ---
 
 ## What the federal study found
 
-In February 2016, CDC/ATSDR and the EPA, working with the Consumer Product Safety Commission, launched the Federal Research Action Plan on tire crumb used on playing fields. The [EPA](https://www.epa.gov/chemical-research/federal-research-recycled-tire-crumb-used-playing-fields) calls it the largest tire crumb rubber study conducted in the United States. It reported in two parts.
+In February 2016, CDC/ATSDR and the EPA, working with the Consumer Product Safety Commission, launched the Federal Research Action Plan on tire crumb used on playing fields. The [EPA](https://www.epa.gov/chemical-research/federal-research-recycled-tire-crumb-used-playing-fields-and-playgrounds) calls it the largest tire crumb rubber study conducted in the United States. It reported in two parts.
 
 **Part 1, July 2019,** asked what is in the rubber. As expected, it detected a range of metals, semivolatile and volatile organic compounds, and bacteria. The team sampled 40 fields, 25 outdoor and 15 indoor, plus material from nine tire recycling plants, according to [New Jersey's environment department](https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf), which summarized both parts in October 2025.
 

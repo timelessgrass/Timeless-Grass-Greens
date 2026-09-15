@@ -13,7 +13,7 @@ faq:
   - q: Does artificial turf count as playground safety surfacing?
     a: Only as a tested system. The <a href="https://www.cpsc.gov/s3fs-public/325.pdf" target="_blank" rel="nofollow noopener">CPSC's Public Playground Safety Handbook</a> says carpeting and mats aren't appropriate under equipment unless they're tested to and comply with ASTM F1292, the impact attenuation standard, and tells buyers of manufactured surfaces to ask for F1292 test data showing the critical height. Ask for that data for the turf and pad together, at your tallest fall height.
   - q: Does Florida's turf infill rule apply to a daycare?
-    a: Not to a center on commercial property. Florida's synthetic turf standard covers single-family lots of one acre or less, and <a href="https://floridadep.gov/sites/default/files/SyntheticTurfFAQ%20final.pdf" target="_blank" rel="nofollow noopener">DEP's FAQ</a> says it doesn't apply to commercial property. A family child care home on a single-family lot is a different case. Either way, the play area answers to DCF's <a href="https://www.flrules.org/gateway/readRefFile.asp?refId=19085&filename=Child%20Care%20Facility%20Handbook.docx" target="_blank" rel="nofollow noopener">Child Care Facility Handbook</a>.
+    a: Not to a center on commercial property. Florida's synthetic turf standard covers single-family lots of one acre or less, and <a href="https://floridadep.gov/sites/default/files/SyntheticTurfFAQ%20final.pdf" target="_blank" rel="nofollow noopener">DEP's FAQ</a> says it doesn't apply to commercial property. A family child care home on a single-family lot is a different case. Either way, the play area answers to DCF's <a href="https://flrules.org/gateway/readRefFile.asp?refId=19085&filename=Child+Care+Facility+Handbook.docx" target="_blank" rel="nofollow noopener">Child Care Facility Handbook</a>.
   - q: Is artificial turf too hot for a play yard?
     a: It can be in full sun. The <a href="https://www.cpsc.gov/s3fs-public/325.pdf" target="_blank" rel="nofollow noopener">CPSC handbook</a> warns that some dark surfacing in intense sun has caused blistering on bare feet, and suggests shade. Florida's handbook requires shade in the outdoor play area, and <a href="https://www.scstatehouse.gov/coderegs/Chapter%20114.pdf" target="_blank" rel="nofollow noopener">South Carolina's center rule</a> puts slides and uncoated metal equipment in the shade.
   - q: How do we keep turf clean at a daycare?
@@ -32,10 +32,10 @@ sources:
     url: https://www.scstatehouse.gov/coderegs/Chapter%20114.pdf
     checked: '2026-09-10'
   - label: 'Florida Rule 65C-22.001 (effective 1 September 2026): incorporates the Child Care Facility Handbook (December 2025)'
-    url: https://www.flrules.org/gateway/ruleNo.asp?id=65C-22.001
+    url: https://flrules.org/gateway/ruleNo.asp?id=65C-22.001
     checked: '2026-09-10'
   - label: 'Florida DCF, Child Care Facility Handbook (December 2025): outdoor play area and fall/use zone'
-    url: https://www.flrules.org/gateway/readRefFile.asp?refId=19085&filename=Child%20Care%20Facility%20Handbook.docx
+    url: https://flrules.org/gateway/readRefFile.asp?refId=19085&filename=Child+Care+Facility+Handbook.docx
     checked: '2026-09-10'
   - label: U.S. Consumer Product Safety Commission, Public Playground Safety Handbook (Publication 325)
     url: https://www.cpsc.gov/s3fs-public/325.pdf
@@ -72,7 +72,7 @@ publicReferences:
   - https://www.cpsc.gov/s3fs-public/325.pdf
   - https://www.law.cornell.edu/regulations/colorado/8-CCR-1402-1-2.230
   - https://www.scstatehouse.gov/coderegs/Chapter%20114.pdf
-  - https://www.flrules.org/gateway/readRefFile.asp?refId=19085&filename=Child%20Care%20Facility%20Handbook.docx
+  - https://flrules.org/gateway/readRefFile.asp?refId=19085&filename=Child+Care+Facility+Handbook.docx
 ---
 
 ## Where children can fall, the surface has to give
@@ -114,7 +114,7 @@ Turf isn't named. "Such as" leaves room for other cushioning, but whether turf o
 
 ## Florida: loose fill or a tested unitary surface
 
-Florida's [Rule 65C-22.001](https://www.flrules.org/gateway/ruleNo.asp?id=65C-22.001), effective 1 September 2026, makes child care programs follow the [Child Care Facility Handbook](https://www.flrules.org/gateway/readRefFile.asp?refId=19085&filename=Child%20Care%20Facility%20Handbook.docx) dated December 2025. For the play yard, the handbook requires:
+Florida's [Rule 65C-22.001](https://flrules.org/gateway/ruleNo.asp?id=65C-22.001), effective 1 September 2026, makes child care programs follow the [Child Care Facility Handbook](https://flrules.org/gateway/readRefFile.asp?refId=19085&filename=Child+Care+Facility+Handbook.docx) dated December 2025. For the play yard, the handbook requires:
 
 - At least 45 square feet of usable, safe and sanitary outdoor play area per child aged one and older.
 - Shade in the outdoor play area, from trees, buildings or structures.

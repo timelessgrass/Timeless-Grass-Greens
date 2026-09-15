@@ -6,7 +6,7 @@
   "placeType": "City",
   "county": "Clay",
   "title": "Artificial Turf in Penney Farms, FL | TIMELESS Grass & Greens",
-  "description": "Penney Farms' tree-removal permit and impervious-surface ratio bind lots of an acre or more, and institutional or commercial ground. Most in-town house lots are under it.",
+  "description": "Penney Farms' tree permit and impervious-surface ratio apply to lots of an acre or more and to institutional or commercial ground. Most house lots are smaller.",
   "h1": "Artificial turf in Penney Farms, FL, sized to your lot and trees.",
   "lede": "Most in-town houses clear the tree-removal permit, but the town still caps hard surface. Free visit, then a custom layout you approve before anything is dug.",
   "wins": [
@@ -48,7 +48,7 @@
       "paras": [
         "Section 6.01.02 caps impervious surface as a ratio of the total to the gross site area: 0.35 in rural density residential, 0.40 in low density residential, 0.50 in medium-low residential, and 0.70 in commercial, industrial and institutional districts. Roofs, sidewalks and parking lots already count toward it, and most in-town houses sit in the 0.40 or 0.50 districts rather than the tighter 0.35. Your district comes from the town's Future Land Use Map, not from how the lot is used today, so confirm it before assuming a ratio.",
         "Artificial turf isn't named. The code defines impervious surface as ground compacted or covered so it is highly resistant to water soaking in, and it leaves porous paving built to town-approved standards out of the count. Where a compacted turf base falls is the town's call, so take the product sheet and base detail to Town Hall before the layout is final. Our <a href=\"/guides/is-artificial-turf-impervious/\">guide to turf and impervious surface</a> lists what to bring.",
-        "Underneath the town's own rules sits a state floor. Since 19 May 2026, a Florida local government can't prohibit artificial turf on a single-family lot of an acre or less once it meets the state's infill standard, Rule 62-308.100, F.A.C. (<a href=\"https://www.flrules.org/gateway/ruleNo.asp?id=62-308.100\" target=\"_blank\" rel=\"nofollow noopener\">DEP Rule 62-308.100</a>). Penney Farms doesn't prohibit turf outright, so this protects the concept, not the tree-removal or coverage rules above it; our <a href=\"/guides/florida-turf-infill-rules/\">Florida turf infill guide</a> covers what infill the rule allows."
+        "Underneath the town's own rules sits a state floor. Since 19 May 2026, a Florida local government can't prohibit artificial turf on a single-family lot of an acre or less once it meets the state's infill standard, Rule 62-308.100, F.A.C. (<a href=\"https://flrules.org/gateway/ruleNo.asp?id=62-308.100\" target=\"_blank\" rel=\"nofollow noopener\">DEP Rule 62-308.100</a>). Penney Farms doesn't prohibit turf outright, so this protects the concept, not the tree-removal or coverage rules above it; our <a href=\"/guides/florida-turf-infill-rules/\">Florida turf infill guide</a> covers what infill the rule allows."
       ]
     },
     {
@@ -130,7 +130,7 @@
     },
     {
       "label": "Rule 62-308.100, F.A.C. — adopted rule text, Florida Administrative Code",
-      "url": "https://www.flrules.org/gateway/ruleNo.asp?id=62-308.100"
+      "url": "https://flrules.org/gateway/ruleNo.asp?id=62-308.100"
     },
     {
       "label": "USDA NRCS Soil Data Access (SSURGO), two points inside Penney Farms town limits",
@@ -141,6 +141,6 @@
   "publicReferences": [
     "https://penneyfarmsfl.org/wp-content/uploads/Penney-Farms-LDRs-2020.pdf",
     "https://penneyfarmsfl.org/wp-content/uploads/Town-of-Penney-Farms-CCR-2025.pdf",
-    "https://www.flrules.org/gateway/ruleNo.asp?id=62-308.100"
+    "https://flrules.org/gateway/ruleNo.asp?id=62-308.100"
   ]
 }

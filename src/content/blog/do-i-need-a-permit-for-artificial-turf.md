@@ -1,7 +1,7 @@
 ---
 status: published
 title: Do I Need a Permit for Artificial Turf? | TIMELESS Grass & Greens
-description: Ask the local office about the full turf project, including excavation, drainage and irrigation changes. Confirm documentation and inspections before covering the base.
+description: "Ask the local office about the whole turf project, including excavation, drainage and irrigation changes, and confirm inspections before the base is covered."
 h1: Do you need a permit for artificial turf?
 topic: Local rules
 published: '2026-09-10'

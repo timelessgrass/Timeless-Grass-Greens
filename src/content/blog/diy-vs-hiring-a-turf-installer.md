@@ -1,7 +1,7 @@
 ---
 status: published
 title: DIY Turf vs Hiring an Installer | TIMELESS Grass & Greens
-description: 'Compare the complete turf job: access, removal, preparation, drainage, seams, equipment and care. Include disposal and any project requirements in either option.'
+description: "Compare the full turf job: access, removal, prep, drainage, seams, equipment and care, including disposal and any project requirements in either option."
 h1: Should you install artificial turf yourself or hire an installer?
 topic: Costs and planning
 published: '2026-09-10'
@@ -13,7 +13,7 @@ faq:
   - q: Do I need to call 811 to put in artificial turf?
     a: Yes, if you're digging. <a href="https://www.colorado811.org/residential-digging" target="_blank" rel="nofollow noopener">Colorado 811</a> says state law requires contacting it at least two full business days before you dig, and lists landscaping among the projects that count. <a href="https://sunshine811.com/when-can-i-dig" target="_blank" rel="nofollow noopener">Sunshine 811</a> asks for two full business days in Florida, and <a href="https://sc811.com/homeowners/faqs-homeowners/" target="_blank" rel="nofollow noopener">SC811</a> three full working days in South Carolina. Utilities mark only their own lines, so sprinkler and lighting lines are yours to find.
   - q: Can I lay turf over my existing grass?
-    a: 'Not if you want it to stay flat and drain. The written standards start below the lawn: <a href="http://reports.oah.state.nc.us/ncac/title%2021%20-%20occupational%20licensing%20boards%20and%20commissions/chapter%2028%20-%20landscape%20contractors/chapter%2028%20rules.pdf" target="_blank" rel="nofollow noopener">North Carolina''s licensing board</a> requires a compacted sub-grade pitched to drain, and <a href="https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc" target="_blank" rel="nofollow noopener">Florida''s standard</a> requires permeable layers over washed subgrade material. Turf laid straight over grass has neither.'
+    a: 'Not if you want it to stay flat and drain. The written standards start below the lawn: <a href="http://reports.oah.state.nc.us/ncac/title%2021%20-%20occupational%20licensing%20boards%20and%20commissions/chapter%2028%20-%20landscape%20contractors/chapter%2028%20rules.pdf" target="_blank" rel="nofollow noopener">North Carolina''s licensing board</a> requires a compacted sub-grade pitched to drain, and <a href="https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc" target="_blank" rel="nofollow noopener">Florida''s standard</a> requires permeable layers over washed subgrade material. Turf laid straight over grass has neither.'
   - q: Does Florida's turf rule apply if I install it myself?
     a: 'It sets the standard for synthetic turf on single-family lots of one acre or less, and says nothing about who does the work: natural infill, permeable layers, washed subgrade material, and anchoring at edges and seams. <a href="https://floridadep.gov/sites/default/files/SyntheticTurfFAQ%20final.pdf" target="_blank" rel="nofollow noopener">DEP</a> doesn''t inspect, but the state''s protection from local turf bans covers only turf that meets the standard.'
   - q: When is hiring worth it?
@@ -32,7 +32,7 @@ sources:
     url: http://reports.oah.state.nc.us/ncac/title%2021%20-%20occupational%20licensing%20boards%20and%20commissions/chapter%2028%20-%20landscape%20contractors/chapter%2028%20rules.pdf
     checked: '2026-09-08'
   - label: 'Rule 62-308.100, Florida Administrative Code: adopted rule text'
-    url: https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
+    url: https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
     checked: '2026-09-08'
   - label: 'Florida DEP: Minimum Standards for the Installation of Synthetic Turf, frequently asked questions'
     url: https://floridadep.gov/sites/default/files/SyntheticTurfFAQ%20final.pdf
@@ -88,7 +88,7 @@ One state's licensing board wrote those steps down as a standard. [North Carolin
 - an evenly weighted sand layer over the whole surface
 - the manufacturer's specifications, followed
 
-[Florida's standard](https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc) for single-family lots adds washed subgrade material, permeable layers from the turf down, no over-compacting of the soil beneath, and anchoring at every edge and seam. It says nothing about who does the work, so it applies to a weekend job too. Our [Florida infill guide](/guides/florida-turf-infill-rules/) covers the rest of the rule.
+[Florida's standard](https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc) for single-family lots adds washed subgrade material, permeable layers from the turf down, no over-compacting of the soil beneath, and anchoring at every edge and seam. It says nothing about who does the work, so it applies to a weekend job too. Our [Florida infill guide](/guides/florida-turf-infill-rules/) covers the rest of the rule.
 
 Nothing on those lists is exotic. The work is in doing each one properly.
 

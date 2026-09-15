@@ -17,7 +17,7 @@ faq:
   - q: Can I use a leaf blower on a putting green?
     a: Yes, gently. <a href="https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf" target="_blank" rel="nofollow noopener">New Jersey's report</a> lists leaf blowing, compared with raking, among the habits that carry infill and plastic particles off a turf field. Blow leaves off from a distance, and rake or brush where you can.
   - q: What infill can a putting green use in Florida?
-    a: On a single-family lot of an acre or less, natural infill only. <a href="https://www.flrules.org/gateway/readFile.asp?sid=0&amp;tid=30839130&amp;type=1&amp;file=62-308.100.doc" target="_blank" rel="nofollow noopener">Rule 62-308.100</a> allows clean silica sand, rock, shell or other natural material, with rubber allowed only under playground equipment. The install has to keep infill from washing off the property.
+    a: On a single-family lot of an acre or less, natural infill only. <a href="https://flrules.org/gateway/readFile.asp?sid=0&amp;tid=30839130&amp;type=1&amp;file=62-308.100.doc" target="_blank" rel="nofollow noopener">Rule 62-308.100</a> allows clean silica sand, rock, shell or other natural material, with rubber allowed only under playground equipment. The install has to keep infill from washing off the property.
 sources:
   - label: 'Synthetic Turf Council (industry association): Suggested Guidelines for the Essential Elements of Synthetic Turf Systems, revised November 2011, section 6 (maintenance) and section 7 (seam inspection)'
     url: https://cdn.ymaws.com/staging-stc.site-ym.com/resource/resmgr/guidelines/STC_Suggested_Guidelines_for.pdf
@@ -26,7 +26,7 @@ sources:
     url: https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf
     checked: '2026-09-10'
   - label: 'Rule 62-308.100, F.A.C., adopted rule text: infill on single-family lots'
-    url: https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
+    url: https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
     checked: '2026-09-08'
   - label: 'Williams & Pulley, Brigham Young University: full-day surface temperatures on adjacent synthetic and natural fields'
     url: https://www.westcoastturf.com/getdoc.cfm?id=38
@@ -84,7 +84,7 @@ What to do about it:
 3. **Top up** only where it is still low after brushing, a little at a time, and brush it in.
 4. **Roll some putts** across the area before you add more.
 
-In Florida, the infill choice is set by rule on a single-family lot of an acre or less. [Rule 62-308.100](https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc) allows clean silica sand, rock, shell or other natural material, with rubber only under playground equipment. Our [Florida infill guide](/guides/florida-turf-infill-rules/) covers the rule.
+In Florida, the infill choice is set by rule on a single-family lot of an acre or less. [Rule 62-308.100](https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc) allows clean silica sand, rock, shell or other natural material, with rubber only under playground equipment. Our [Florida infill guide](/guides/florida-turf-infill-rules/) covers the rule.
 
 If you want to understand speed itself, and what number to aim for, our post on [how fast a putting green should roll](/blog/how-fast-should-a-putting-green-roll/) covers it.
 

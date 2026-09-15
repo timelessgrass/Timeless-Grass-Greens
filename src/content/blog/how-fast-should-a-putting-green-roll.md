@@ -17,7 +17,7 @@ faq:
   - q: Do I need a real Stimpmeter to measure my green?
     a: Only if you want a number you can compare with a course. The Stimpmeter is a USGA device that releases the ball at the same speed every time, which is what makes its readings comparable. Any consistent ramp will tell you whether your own green got faster or slower from one month to the next.
   - q: Why do putts break so much more on my green?
-    a: 'Speed magnifies slope. A <a href="https://gsr.lib.msu.edu/2000s/2008/080721.pdf" target="_blank" rel="nofollow noopener">USGA Green Section Record article</a> puts it plainly: as green speeds increase, the potential for uncontrollable slopes also increases. On a home green, where the slopes are built in on purpose, the speed has to be chosen with them.'
+    a: 'Speed magnifies slope. A <a href="https://gsrpdf.lib.msu.edu/?file=%2F2000s%2F2008%2F080721.pdf" target="_blank" rel="nofollow noopener">USGA Green Section Record article</a> puts it plainly: as green speeds increase, the potential for uncontrollable slopes also increases. On a home green, where the slopes are built in on purpose, the speed has to be chosen with them.'
 sources:
   - label: USGA, Stimpmeter Instructions, as reprinted in Hole Notes (August 2000), Michigan State University Turfgrass Information Center archive
     url: https://archive.lib.msu.edu/tic/holen/article/2000aug24.pdf
@@ -26,10 +26,10 @@ sources:
     url: https://www.gcmonline.com/docs/librariesprovider2/document-library/golfers-perceptions-greens-speeds.pdf
     checked: '2026-09-10'
   - label: 'Jerry Lemons, USGA Green Section Record (July–August 2008): Putting Green Speeds, Slopes, and Non-Conforming Hole Locations'
-    url: https://gsr.lib.msu.edu/2000s/2008/080721.pdf
+    url: https://gsrpdf.lib.msu.edu/?file=%2F2000s%2F2008%2F080721.pdf
     checked: '2026-09-10'
   - label: 'A. Douglas Brede, USGA Green Section Record (November–December 1990): Measuring Green Speed on Sloped Putting Greens'
-    url: https://gsr.lib.msu.edu/1990s/1990/901110.pdf
+    url: https://gsrpdf.lib.msu.edu/?file=%2F1990s%2F1990%2F901110.pdf
     checked: '2026-09-10'
 related:
   services:
@@ -42,7 +42,7 @@ related:
     - colorado-turf-law
 publicReferences:
   - https://archive.lib.msu.edu/tic/holen/article/2000aug24.pdf
-  - https://gsr.lib.msu.edu/2000s/2008/080721.pdf
+  - https://gsrpdf.lib.msu.edu/?file=%2F2000s%2F2008%2F080721.pdf
 ---
 
 ## What a stimp number means
@@ -74,7 +74,7 @@ The USGA published a speed chart with those instructions:
 
 It adds that bermudagrass greens are typically slower, and it's firm about what the chart is for: "it is NOT the intention of the USGA to attempt to standardize green speeds." The Stimpmeter "is not intended for course comparisons."
 
-Course speeds have crept up since that chart. A [2008 USGA Green Section Record article](https://gsr.lib.msu.edu/2000s/2008/080721.pdf) notes that the national average was 6 feet 6 inches when the Stimpmeter was first tested in 1976 and 1977. It also quotes a 2003 finding that readings on American courses "generally range from 7' to 12'." So the most useful number for you is the one at your own course. Ask the pro shop what the greens usually run.
+Course speeds have crept up since that chart. A [2008 USGA Green Section Record article](https://gsrpdf.lib.msu.edu/?file=%2F2000s%2F2008%2F080721.pdf) notes that the national average was 6 feet 6 inches when the Stimpmeter was first tested in 1976 and 1977. It also quotes a 2003 finding that readings on American courses "generally range from 7' to 12'." So the most useful number for you is the one at your own course. Ask the pro shop what the greens usually run.
 
 ## You can't feel six inches
 
@@ -108,7 +108,7 @@ You can check your green the way a course does.
 2. **Roll three balls one way,** then three back. Each set should stop within 8 inches.
 3. **Average the two distances.** If the two directions differ by more than 18 inches, the instructions call the result questionable. Try a flatter spot.
 
-No level spot? Use the slope formula a USGA researcher published in 1990: speed = 2 × uphill × downhill ÷ (uphill + downhill) ([Brede, Green Section Record](https://gsr.lib.msu.edu/1990s/1990/901110.pdf)). If the ball rolls 6 feet uphill and 12 feet downhill, the formula gives 8 feet. A plain average would say 9.
+No level spot? Use the slope formula a USGA researcher published in 1990: speed = 2 × uphill × downhill ÷ (uphill + downhill) ([Brede, Green Section Record](https://gsrpdf.lib.msu.edu/?file=%2F1990s%2F1990%2F901110.pdf)). If the ball rolls 6 feet uphill and 12 feet downhill, the formula gives 8 feet. A plain average would say 9.
 
 ## Choosing your speed
 

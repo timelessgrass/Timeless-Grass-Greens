@@ -44,8 +44,8 @@
       "h2": "In Fairmount, a thirsty lawn now carries a drought surcharge.",
       "takeaway": "Since May, each quarterly bill adds a drought surcharge above 12,000 gallons that climbs with use. Turf takes the lawn's share of those gallons to zero.",
       "paras": [
-        "Fairmount's water comes from the North Table Mountain Water and Sanitation District, which has served more than 10,000 residents, businesses and industries for over 65 years and names the Fairmount community first in its service area (<a href=\"https://www.ntmwater.org/\" target=\"_blank\" rel=\"nofollow noopener\">North Table Mountain Water</a>).",
-        "Since 1 May 2026, a drought surcharge has been added to every quarterly bill, per 1,000 gallons: nothing on the first 12,000 gallons, $1.10 from 13,000 to 50,000, $2.20 from 51,000 to 90,000, and $6.60 for every thousand over 90,000 (<a href=\"https://www.ntmwater.org/restrictions-conservation/\" target=\"_blank\" rel=\"nofollow noopener\">North Table Mountain Water</a>). The more lawn you water, the further up those tiers a summer quarter climbs.",
+        "Fairmount's water comes from the North Table Mountain Water and Sanitation District, which has served more than 10,000 residents, businesses and industries for over 65 years and names the Fairmount community first in its service area (<a href=\"https://ntmwater.org/\" target=\"_blank\" rel=\"nofollow noopener\">North Table Mountain Water</a>).",
+        "Since 1 May 2026, a drought surcharge has been added to every quarterly bill, per 1,000 gallons: nothing on the first 12,000 gallons, $1.10 from 13,000 to 50,000, $2.20 from 51,000 to 90,000, and $6.60 for every thousand over 90,000 (<a href=\"https://ntmwater.org/restrictions-conservation/\" target=\"_blank\" rel=\"nofollow noopener\">North Table Mountain Water</a>). The more lawn you water, the further up those tiers a summer quarter climbs.",
         "Turf takes that part of the bill to zero. No irrigated grass means no gallons for it, and no tier to climb."
       ]
     },
@@ -55,7 +55,7 @@
       "h2": "Two watering days, and no city code on top.",
       "takeaway": "Home yards here follow the water district's two-day watering schedule, since there's no city landscaping code. Turf needs no watering day at all.",
       "paras": [
-        "Lawn watering is allowed two days a week: even-numbered homes on Sunday and Thursday, odd-numbered on Saturday and Wednesday, multi-family and commercial on Tuesday and Friday, and never from 10 a.m. to 6 p.m. Hand-watering trees and gardens is fine at any hour (<a href=\"https://www.ntmwater.org/restrictions-conservation/\" target=\"_blank\" rel=\"nofollow noopener\">North Table Mountain Water</a>).",
+        "Lawn watering is allowed two days a week: even-numbered homes on Sunday and Thursday, odd-numbered on Saturday and Wednesday, multi-family and commercial on Tuesday and Friday, and never from 10 a.m. to 6 p.m. Hand-watering trees and gardens is fine at any hour (<a href=\"https://ntmwater.org/restrictions-conservation/\" target=\"_blank\" rel=\"nofollow noopener\">North Table Mountain Water</a>).",
         "Fairmount is unincorporated Jefferson County, so there's no city landscaping code; the water district's rules are the ones that bind a home yard. Shared ground is different: under SB24-005 and HB25-1113, an HOA common area or a new commercial site can't get non-functional turf, while a sports field still can (<a href=\"https://content.leg.colorado.gov/sites/default/files/2024a_005_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SB24-005</a>, <a href=\"https://content.leg.colorado.gov/sites/default/files/2025a_1113_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">HB25-1113</a>)."
       ]
     },
@@ -85,11 +85,11 @@
     },
     {
       "q": "Why is there no turf rebate in Fairmount?",
-      "a": "Because of where the water comes from. North Table Mountain explains that Denver Water's rebates are only available to entities that buy treated water from Denver, and it buys raw water, so there's no rebate to claim here (<a href=\"https://www.ntmwater.org/restrictions-conservation/\" target=\"_blank\" rel=\"nofollow noopener\">North Table Mountain Water</a>). Other providers' rules are in our <a href=\"/guides/colorado-water-rebates-and-turf/\">metro rebates rundown</a>."
+      "a": "Because of where the water comes from. North Table Mountain explains that Denver Water's rebates are only available to entities that buy treated water from Denver, and it buys raw water, so there's no rebate to claim here (<a href=\"https://ntmwater.org/restrictions-conservation/\" target=\"_blank\" rel=\"nofollow noopener\">North Table Mountain Water</a>). Other providers' rules are in our <a href=\"/guides/colorado-water-rebates-and-turf/\">metro rebates rundown</a>."
     },
     {
       "q": "What happens if I water on the wrong day?",
-      "a": "A first violation costs nothing, a second $250 and every one after that $500. The rules last until both Denver Water and North Table Mountain decide the drought has eased (<a href=\"https://www.ntmwater.org/restrictions-conservation/\" target=\"_blank\" rel=\"nofollow noopener\">North Table Mountain Water</a>)."
+      "a": "A first violation costs nothing, a second $250 and every one after that $500. The rules last until both Denver Water and North Table Mountain decide the drought has eased (<a href=\"https://ntmwater.org/restrictions-conservation/\" target=\"_blank\" rel=\"nofollow noopener\">North Table Mountain Water</a>)."
     },
     {
       "q": "Can my HOA stop turf in my Fairmount back yard?",
@@ -113,11 +113,11 @@
   "sources": [
     {
       "label": "North Table Mountain Water and Sanitation District",
-      "url": "https://www.ntmwater.org/"
+      "url": "https://ntmwater.org/"
     },
     {
       "label": "North Table Mountain Water: restrictions and conservation",
-      "url": "https://www.ntmwater.org/restrictions-conservation/"
+      "url": "https://ntmwater.org/restrictions-conservation/"
     },
     {
       "label": "Colorado SB24-005, signed act",
@@ -137,7 +137,7 @@
     },
     {
       "label": "Fossil Trace Golf Club",
-      "url": "https://www.fossiltrace.com/"
+      "url": "https://fossiltrace.com/"
     },
     {
       "label": "Colorado HB21-1229",

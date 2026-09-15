@@ -5,7 +5,7 @@
   "state": "CO",
   "county": null,
   "title": "Artificial Turf in Erie, CO | TIMELESS Grass & Greens",
-  "description": "Turn your Erie back yard into space you use. Plan an artificial lawn, pet area or putting green, from an unfinished subdivision yard to an established Old Town lot.",
+  "description": "Turn your Erie back yard into space you use: an artificial lawn, pet area or putting green, for an unfinished subdivision yard or an Old Town lot.",
   "h1": "Artificial turf in Erie, CO, on a proper base where builder sod struggled.",
   "lede": "Swap tired builder sod for a lawn, pet area or putting green that never needs irrigating. Free visit, written price, and the ground checked first.",
   "wins": [
@@ -56,7 +56,7 @@
       "takeaway": "New-build lots got builder sod on scraped, compacted subsoil over swelling clay, and parts of Erie sit on old coal-mine ground. We dig to depth and build a free-draining base.",
       "paras": [
         "Much of Erie is new: two-story homes on flat, fenced lots in Colliers Hill, Erie Highlands, Westerly, Compass and the other new subdivisions, handed over with builder-grade sod on scraped, compacted subsoil and a basic pop-up sprinkler system. That sod often sits on almost nothing, which is why so much of it struggles.",
-        "Under it is the Laramie Formation over Pierre Shale, so swelling clay is the starting assumption. Erie also sits on the old Boulder-Weld coalfield, where the Colorado Geological Survey maps coal-mine subsidence and notes that development has spread onto undermined ground (<a href=\"https://coloradogeologicalsurvey.org/hazards/subsidence/coal-mine-subsidence/\" target=\"_blank\" rel=\"nofollow noopener\">Colorado Geological Survey</a>).",
+        "Under it is the Laramie Formation over Pierre Shale, so swelling clay is the starting assumption. Erie also sits on the old Boulder-Weld coalfield, where the Colorado Geological Survey maps coal-mine subsidence and notes that development has spread onto undermined ground (<a href=\"https://coloradogeologicalsurvey.org/publications/coal-mine-subsidence-land-use-boulder-weld-colorado/\" target=\"_blank\" rel=\"nofollow noopener\">Colorado Geological Survey</a>).",
         "The yards are dead flat, which helps. The job is won below the surface: dig out to a proper depth, build a free-draining base, and send water to the street and the sump the way the lot was graded."
       ]
     },
@@ -89,7 +89,7 @@
     },
     {
       "q": "Can an Erie HOA or business put artificial turf on common grounds?",
-      "a": "Not as a new decorative lawn. Colorado now stops local governments permitting non-functional turf when business, institutional or common-interest landscapes are built, while fields of play stay exempt (<a href=\"https://content.leg.colorado.gov/sites/default/files/2024a_005_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SB24-005</a>, amended by <a href=\"https://content.leg.colorado.gov/sites/default/files/2025a_1113_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">HB25-1113</a>). The Town's own parks are cutting back too, aiming for 20% less irrigation in 2026 (<a href=\"https://www.erieco.gov/1519/Parks-Recreation\" target=\"_blank\" rel=\"nofollow noopener\">Town of Erie</a>)."
+      "a": "Not as a new decorative lawn. Colorado now stops local governments permitting non-functional turf when business, institutional or common-interest landscapes are built, while fields of play stay exempt (<a href=\"https://content.leg.colorado.gov/sites/default/files/2024a_005_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SB24-005</a>, amended by <a href=\"https://content.leg.colorado.gov/sites/default/files/2025a_1113_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">HB25-1113</a>). The Town's own parks are cutting back too, aiming for 20% less irrigation in 2026 (<a href=\"https://www.erieco.gov/2342/Parks-Recreation\" target=\"_blank\" rel=\"nofollow noopener\">Town of Erie</a>)."
     },
     {
       "q": "Does turf suit an Old Town Erie yard?",
@@ -108,7 +108,7 @@
     },
     {
       "label": "Colorado Geological Survey: coal mine subsidence",
-      "url": "https://coloradogeologicalsurvey.org/hazards/subsidence/coal-mine-subsidence/"
+      "url": "https://coloradogeologicalsurvey.org/publications/coal-mine-subsidence-land-use-boulder-weld-colorado/"
     },
     {
       "label": "Colorado SB23-178, signed act",
@@ -140,7 +140,7 @@
     },
     {
       "label": "Town of Erie: Parks & Recreation",
-      "url": "https://www.erieco.gov/1519/Parks-Recreation"
+      "url": "https://www.erieco.gov/2342/Parks-Recreation"
     }
   ],
   "checked": "2026-09-14",

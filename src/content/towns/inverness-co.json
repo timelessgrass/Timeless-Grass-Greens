@@ -65,7 +65,7 @@
       "h2": "A small water district with no published watering calendar.",
       "takeaway": "The water district here publishes no watering schedule or turf rebate. Turf just looks the same in August as it did in May, with no irrigation line to run.",
       "paras": [
-        "Inverness Water and Sanitation District serves the area from offices in Englewood, across parts of Arapahoe and Douglas counties (<a href=\"https://www.invernesswater.org/\" target=\"_blank\" rel=\"nofollow noopener\">Inverness Water and Sanitation District</a>). As of September 2026 its public site lists no drought stage, no watering-day schedule and no conservation rebate. What it does offer is the free EyeOnWater app for watching use and catching leaks.",
+        "Inverness Water and Sanitation District serves the area from offices in Englewood, across parts of Arapahoe and Douglas counties (<a href=\"https://invernesswater.org/\" target=\"_blank\" rel=\"nofollow noopener\">Inverness Water and Sanitation District</a>). As of September 2026 its public site lists no drought stage, no watering-day schedule and no conservation rebate. What it does offer is the free EyeOnWater app for watching use and catching leaks.",
         "Rebates won't cover turf here. Resource Central's regional lawn replacement program only funds landscapes that are half or more waterwise plants, and synthetic grass isn't a plant (<a href=\"https://resourcecentral.org/lawn/\" target=\"_blank\" rel=\"nofollow noopener\">Resource Central</a>).",
         "So the case for turf in Inverness isn't a watering rule or a check in the mail. It's a lawn or a green that looks the same in August as it did in May, without an irrigation line to run."
       ]
@@ -120,7 +120,7 @@
     },
     {
       "label": "Inverness Water and Sanitation District",
-      "url": "https://www.invernesswater.org/"
+      "url": "https://invernesswater.org/"
     },
     {
       "label": "Resource Central: lawn replacement",
@@ -128,7 +128,7 @@
     },
     {
       "label": "Colorado Geological Survey: expansive soil",
-      "url": "https://coloradogeologicalsurvey.org/water/expansive-soil/"
+      "url": "https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/"
     },
     {
       "label": "Wikipedia: Arrow Electronics",

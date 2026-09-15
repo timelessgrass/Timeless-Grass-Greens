@@ -20,7 +20,7 @@
     },
     {
       "label": "Brunswick County Planning & Community Enforcement",
-      "url": "https://www.brunswickcountync.gov/planning/",
+      "url": "https://www.brunswickcountync.gov/381/Planning-Community-Enforcement",
       "checked": "2026-09-13",
       "supports": [
         "\"Brunswick County Planning & Community Enforcement provides public planning services for unincorporated areas of Brunswick County that fall outside the planning jurisdictions of municipalities.\""
@@ -28,7 +28,7 @@
     },
     {
       "label": "Brunswick County Stormwater Quality Management and Discharge Control Ordinance (PDF)",
-      "url": "https://www.brunswickcountync.gov/DocumentCenter/View/7215",
+      "url": "https://www.brunswickcountync.gov/DocumentCenter/View/7215/BC-Stormwater-Ordinance-Update-01202026",
       "checked": "2026-09-13",
       "supports": [
         "Section 1.4 Applicability: \"The provisions of the Ordinance shall apply to all areas within the planning jurisdictional limits of Brunswick County.\"",
@@ -117,7 +117,7 @@
       ],
       "claim": "Where the county reviews the work, Brunswick County's stormwater ordinance requires a permit for a four-inch-plus grading change that alters drainage, or for disturbance within 30 feet of a stream bank not listed as exempt.",
       "source_urls": [
-        "https://www.brunswickcountync.gov/DocumentCenter/View/7215"
+        "https://www.brunswickcountync.gov/DocumentCenter/View/7215/BC-Stormwater-Ordinance-Update-01202026"
       ],
       "evidence_type": "fresh primary-source verification",
       "checked": "2026-09-13",

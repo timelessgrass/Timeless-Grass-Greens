@@ -55,7 +55,7 @@
       "h2": "Florida's turf standard was written for weather like this.",
       "takeaway": "On a single-family lot of an acre or less, turf must be anchored at every edge and seam and withstand wind or flooding. Turf that meets that standard can't be banned by the county.",
       "paras": [
-        "Since 19 May 2026, Florida's standard for turf on a single-family lot of an acre or less has required it to be anchored at all edges and seams and, at a minimum, to withstand the effects of wind or flooding (<a href=\"https://www.flrules.org/gateway/ruleNo.asp?id=62-308.100\" target=\"_blank\" rel=\"nofollow noopener\">DEP Rule 62-308.100</a>). Turf that meets the standard can't be banned by the county (<a href=\"https://www.flsenate.gov/Laws/Statutes/2025/0125.572\" target=\"_blank\" rel=\"nofollow noopener\">Fla. Stat. 125.572</a>).",
+        "Since 19 May 2026, Florida's standard for turf on a single-family lot of an acre or less has required it to be anchored at all edges and seams and, at a minimum, to withstand the effects of wind or flooding (<a href=\"https://flrules.org/gateway/ruleNo.asp?id=62-308.100\" target=\"_blank\" rel=\"nofollow noopener\">DEP Rule 62-308.100</a>). Turf that meets the standard can't be banned by the county (<a href=\"https://www.flsenate.gov/Laws/Statutes/2025/0125.572\" target=\"_blank\" rel=\"nofollow noopener\">Fla. Stat. 125.572</a>).",
         "The same rule keeps turf permeable and free of intentionally added PFAS and heavy metals, and bars it from adding stormwater runoff or harming the property next door. No in-ground irrigation may run under it.",
         "If your lot is on the ocean side, find out where the state's Coastal Construction Control Line falls before you plan anything near the dune. The state's permitting covers work seaward of that line, and St. Johns County's dune protection rules apply as well."
       ]
@@ -84,7 +84,7 @@
     },
     {
       "q": "How close to the Intracoastal or the marsh can turf go?",
-      "a": "No closer than 10 feet to the Intracoastal, the Guana River or any other natural or man-made waterbody, measured from the ordinary or mean high water line (<a href=\"https://www.flrules.org/gateway/ruleNo.asp?id=62-308.100\" target=\"_blank\" rel=\"nofollow noopener\">DEP Rule 62-308.100</a>). It can't go in a swale, a ditch or a stormwater pond either. We draw your layout to that line, and you approve it before work starts."
+      "a": "No closer than 10 feet to the Intracoastal, the Guana River or any other natural or man-made waterbody, measured from the ordinary or mean high water line (<a href=\"https://flrules.org/gateway/ruleNo.asp?id=62-308.100\" target=\"_blank\" rel=\"nofollow noopener\">DEP Rule 62-308.100</a>). It can't go in a swale, a ditch or a stormwater pond either. We draw your layout to that line, and you approve it before work starts."
     },
     {
       "q": "My house is on a private well. Does the watering order apply?",
@@ -96,7 +96,7 @@
     },
     {
       "q": "What infill goes into turf here?",
-      "a": "Natural infill only. Florida's standard allows clean silica sand, rock or shell, and keeps rubber to the footprint of playground equipment (<a href=\"https://www.flrules.org/gateway/ruleNo.asp?id=62-308.100\" target=\"_blank\" rel=\"nofollow noopener\">DEP Rule 62-308.100</a>). Our <a href=\"/guides/florida-turf-infill-rules/\">infill guide</a> has the detail."
+      "a": "Natural infill only. Florida's standard allows clean silica sand, rock or shell, and keeps rubber to the footprint of playground equipment (<a href=\"https://flrules.org/gateway/ruleNo.asp?id=62-308.100\" target=\"_blank\" rel=\"nofollow noopener\">DEP Rule 62-308.100</a>). Our <a href=\"/guides/florida-turf-infill-rules/\">infill guide</a> has the detail."
     }
   ],
   "nearby": [
@@ -116,7 +116,7 @@
     },
     {
       "label": "Florida Rule 62-308.100, F.A.C.: synthetic turf",
-      "url": "https://www.flrules.org/gateway/ruleNo.asp?id=62-308.100"
+      "url": "https://flrules.org/gateway/ruleNo.asp?id=62-308.100"
     },
     {
       "label": "Fla. Stat. 125.572 (2025): regulation of synthetic turf",

@@ -1,7 +1,7 @@
 ---
 status: published
 title: Does Turf Stop Armadillos and Skunks? | TIMELESS Grass & Greens
-description: Armadillos and skunks dig for insects, earthworms and grubs living in soil under a lawn. Turf removes most of that food source. Edges and burrows still need attention.
+description: "Armadillos and skunks dig for grubs, worms and insects in the soil under a lawn. Turf removes most of that food, but edges and burrows still need attention."
 h1: Will artificial turf stop armadillos and skunks digging up the yard?
 topic: Lawns
 published: '2026-09-12'

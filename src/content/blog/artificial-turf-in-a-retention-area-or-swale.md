@@ -13,14 +13,14 @@ faq:
   - q: Does the state turf rule cover a condo or duplex?
     a: No. <a href="https://floridadep.gov/sites/default/files/SyntheticTurfFAQ%20final.pdf" target="_blank" rel="nofollow noopener">Florida DEP</a> says Rule 62-308.100 applies only to single-family residential properties of 1 acre or less, not to condominiums, duplexes, parks, athletic fields or commercial property. For those, ask the city or county, and check the permit for the neighborhood's stormwater system before any work starts.
   - q: How close can turf go to a retention pond?
-    a: Where no local buffer zone has been set, <a href="https://www.flrules.org/gateway/readFile.asp?sid=0&amp;tid=30839130&amp;type=1&amp;file=62-308.100.doc" target="_blank" rel="nofollow noopener">Rule 62-308.100</a> keeps turf at least 10 feet from a natural or man-made waterbody, measured from the ordinary or mean high water line. The exception is a physical barrier such as a seawall or bulkhead. Turf also can't go in a stormwater pond or its littoral zone.
+    a: Where no local buffer zone has been set, <a href="https://flrules.org/gateway/readFile.asp?sid=0&amp;tid=30839130&amp;type=1&amp;file=62-308.100.doc" target="_blank" rel="nofollow noopener">Rule 62-308.100</a> keeps turf at least 10 feet from a natural or man-made waterbody, measured from the ordinary or mean high water line. The exception is a physical barrier such as a seawall or bulkhead. Turf also can't go in a stormwater pond or its littoral zone.
   - q: What engineering documentation does Atlantic Beach want?
     a: The <a href="https://coab.us/DocumentCenter/View/15920/Turf-Installation-Guidelines" target="_blank" rel="nofollow noopener">city's guidelines</a> say it may require engineering documentation showing that stormwater capacity and drainage performance are maintained in a retention or drainage area. They don't say what that document must contain. Ask the city what it needs for your lot before a layout is drawn.
   - q: If the turf drains fast, why can't it go in a swale?
     a: Because a swale or basin works through its shape and the soil under it, not only its surface. Base stone and grading can take up room the water was meant to fill, and <a href="https://ask.ifas.ufl.edu/publication/EP612" target="_blank" rel="nofollow noopener">UF/IFAS Extension</a> notes that turf installs often compact the soil, which slows infiltration and raises the risk of runoff. Florida's statutes also define a swale as vegetated ground built to help treat stormwater.
 sources:
   - label: 'Rule 62-308.100, Florida Administrative Code, adopted rule text (effective 19 May 2026): permeability, stormwater management and waterbody setback'
-    url: https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
+    url: https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
     checked: '2026-09-12'
   - label: 'Florida DEP: Synthetic Turf frequently asked questions (Rule 62-308.100 scope, permits and local questions)'
     url: https://floridadep.gov/sites/default/files/SyntheticTurfFAQ%20final.pdf
@@ -46,14 +46,14 @@ related:
     - is-artificial-turf-impervious
     - florida-turf-infill-rules
 publicReferences:
-  - https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
+  - https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
   - https://coab.us/DocumentCenter/View/15920/Turf-Installation-Guidelines
   - https://ask.ifas.ufl.edu/publication/EP612
 ---
 
 ## Florida's standard keeps turf out of swales
 
-If your home is on a single-family lot of an acre or less, start with the state. Since 19 May 2026, [Rule 62-308.100](https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc) has set the minimum standards for turf on those lots. Two lines in its stormwater section decide this question:
+If your home is on a single-family lot of an acre or less, start with the state. Since 19 May 2026, [Rule 62-308.100](https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc) has set the minimum standards for turf on those lots. Two lines in its stormwater section decide this question:
 
 - The installation must not alter the permitted stormwater management system as designed.
 - Turf "shall not be installed within a swale, ditch, stormwater pond," or a pond's littoral zone.

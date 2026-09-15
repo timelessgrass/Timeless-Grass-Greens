@@ -11,7 +11,7 @@ answer:
   answer: Yes. The screen keeps out leaves and most insects, but it doesn't keep out rain, so the ground under the turf still needs the same drainage a Florida turf job needs anywhere else. What changes inside the cage is the pool barrier, which may run through a screen door rather than a fence, and the wetland buffer some Northeast Florida lots carry along a pond edge.
 faq:
   - q: Does turf inside a pool cage still need a gravel base and drainage?
-    a: Yes. Florida's synthetic turf rule, <a href="https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc" target="_blank" rel="nofollow noopener">Rule 62-308.100, F.A.C.</a>, requires permeable turf on a permeable backing over a subgrade graded for positive drainage, with no pooling and no added runoff onto a neighbor's lot. The rule covers single-family lots of 1 acre or less and doesn't carve out an exception for turf under a screen roof or mesh wall, so plan the base the same way you would for an open yard.
+    a: Yes. Florida's synthetic turf rule, <a href="https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc" target="_blank" rel="nofollow noopener">Rule 62-308.100, F.A.C.</a>, requires permeable turf on a permeable backing over a subgrade graded for positive drainage, with no pooling and no added runoff onto a neighbor's lot. The rule covers single-family lots of 1 acre or less and doesn't carve out an exception for turf under a screen roof or mesh wall, so plan the base the same way you would for an open yard.
   - q: Does a screen enclosure count as the pool barrier?
     a: It can, if the screen door is the self-closing, self-latching feature the pool passed inspection with. <a href="https://www.flsenate.gov/Laws/Statutes/2025/515.27" target="_blank" rel="nofollow noopener">Fla. Stat. 515.27</a> lists a self-closing, self-latching door among five safety features a residential pool may use, alongside a barrier, an approved safety cover, exit alarms, or a pool alarm. If your screen door is doing that job, the turf at its threshold can't be what stops it from closing and latching.
   - q: Does turf need to stay clear of a pond or wetland behind the lanai?
@@ -20,7 +20,7 @@ faq:
     a: Only where the structure actually shades it. Screen mesh cuts glare and wind more than it blocks direct sun, and most pool cages leave the area over the water and deck open to the sky. Plan shade the same way you would outside a cage — by what roofline or tree canopy actually falls across the turf at midday, not by the screen itself.
 sources:
   - label: 'Rule 62-308.100, F.A.C., Florida DEP synthetic turf standard (effective 19 May 2026): permeability, stormwater, irrigation and infill'
-    url: https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
+    url: https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
     checked: '2026-09-13'
   - label: 'Fla. Stat. 515.27 (2025): residential swimming pool safety feature options'
     url: https://www.flsenate.gov/Laws/Statutes/2025/515.27
@@ -40,7 +40,7 @@ related:
   guides:
     - florida-turf-infill-rules
 publicReferences:
-  - https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
+  - https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
   - https://www.flsenate.gov/Laws/Statutes/2025/515.27
   - https://www.sjcfl.us/wp-content/uploads/2024/01/Article-IV.pdf
 ---
@@ -55,7 +55,7 @@ Plan a screened-in lawn or pet run the way you'd plan an open one — same base,
 
 Most residential pool cages are mesh from the footers to the roofline, not a solid roof. Rain falls through the same as it does outside the cage; the screen's job is keeping leaves, pollen and most insects out, not keeping water out.
 
-That matters because Florida's statewide synthetic turf standard, [Rule 62-308.100, F.A.C.](https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc), effective 19 May 2026, applies to single-family properties of 1 acre or less and doesn't distinguish covered ground from open ground. It requires:
+That matters because Florida's statewide synthetic turf standard, [Rule 62-308.100, F.A.C.](https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc), effective 19 May 2026, applies to single-family properties of 1 acre or less and doesn't distinguish covered ground from open ground. It requires:
 
 - **Permeable turf on permeable backing,** over a subgrade prepared for positive drainage.
 - **No pooling, and no added runoff** onto a neighboring property; water should reach pervious ground on your own lot where possible.

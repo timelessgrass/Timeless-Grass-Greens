@@ -97,7 +97,7 @@
     },
     {
       "q": "Is there a golf course in Wheat Ridge?",
-      "a": "Not inside the city. Applewood Golf Course, a public par-71 course operating since the 1960s, sits just west at 14001 W. 32nd Avenue in Golden (<a href=\"https://www.applewoodgc.com/\" target=\"_blank\" rel=\"nofollow noopener\">Applewood Golf Course</a>). A green on a deep Wheat Ridge lot puts practice a few steps from the back door."
+      "a": "Not inside the city. Applewood Golf Course, a public par-71 course operating since the 1960s, sits just west at 14001 W. 32nd Avenue in Golden (<a href=\"https://applewoodgc.com/\" target=\"_blank\" rel=\"nofollow noopener\">Applewood Golf Course</a>). A green on a deep Wheat Ridge lot puts practice a few steps from the back door."
     }
   ],
   "nearby": [
@@ -133,7 +133,7 @@
     },
     {
       "label": "Applewood Golf Course",
-      "url": "https://www.applewoodgc.com/"
+      "url": "https://applewoodgc.com/"
     }
   ],
   "checked": "2026-09-07",

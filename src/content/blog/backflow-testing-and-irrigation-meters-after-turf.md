@@ -1,7 +1,7 @@
 ---
 status: published
 title: Backflow Testing After Turf | TIMELESS Grass & Greens
-description: Converting most of the lawn to turf doesn't remove the irrigation connection from your utility's cross-connection rules. Here's what to ask before you cap zones.
+description: "Converting most of a lawn to turf doesn't remove the irrigation connection from your utility's cross-connection rules. What to ask before you cap zones."
 h1: What happens to your backflow preventer and irrigation meter after turf?
 topic: Costs and planning
 published: '2026-09-12'

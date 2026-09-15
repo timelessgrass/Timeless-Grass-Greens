@@ -96,7 +96,7 @@ for (const file of files) {
   // what src/content.config.ts would reject
   const need = (ok, msg) => { if (!ok) out.push(['FAIL', msg]); };
   need((d.title || '').length <= 70, `title is ${(d.title || '').length} characters; the limit is 70`);
-  need((d.description || '').length <= 170, `description is ${(d.description || '').length} characters; the limit is 170`);
+  need((d.description || '').length <= 160, `description is ${(d.description || '').length} characters; the limit is 160`);
   for (const k of ['title', 'description', 'h1', 'lede', 'checked']) need(typeof d[k] === 'string' && d[k].trim(), `missing ${k}`);
   need(d.answer?.question && d.answer?.answer, 'missing answer.question or answer.answer');
   need(Array.isArray(d.wins) && d.wins.length === 3, `wins must be exactly 3 (has ${d.wins?.length ?? 0})`);

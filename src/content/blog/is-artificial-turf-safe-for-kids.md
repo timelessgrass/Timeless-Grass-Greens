@@ -38,7 +38,7 @@ sources:
     url: https://pmc.ncbi.nlm.nih.gov/articles/PMC7222665/
     checked: '2026-09-08'
   - label: 'Rule 62-308.100, Florida Administrative Code: adopted rule text'
-    url: https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
+    url: https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
     checked: '2026-09-08'
   - label: 'City of Atlantic Beach, Florida: Artificial Turf Installation Guidelines'
     url: https://coab.us/DocumentCenter/View/15920/Turf-Installation-Guidelines
@@ -100,7 +100,7 @@ Infill holds on, too. A [2020 lab study](https://pmc.ncbi.nlm.nih.gov/articles/P
 
 This is where products differ. New Jersey's study notes that "detectable levels of lead have been found in synthetic turf because lead-based pigments are used in its manufacturing." In a small pilot study it summarized, metals in the blood of young players didn't rise after activity on outdoor turf.
 
-Florida's standard for home lawns prohibits heavy metals and intentionally added PFAS, and keeps rubber infill to the footprint of playground equipment ([Rule 62-308.100](https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc)). Atlantic Beach, Florida, requires turf "free of hazardous materials and heavy metals" ([city guidelines](https://coab.us/DocumentCenter/View/15920/Turf-Installation-Guidelines)). Ask for the selected product documentation in writing. A material rule does not replace planning for heat, falls and ongoing care.
+Florida's standard for home lawns prohibits heavy metals and intentionally added PFAS, and keeps rubber infill to the footprint of playground equipment ([Rule 62-308.100](https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc)). Atlantic Beach, Florida, requires turf "free of hazardous materials and heavy metals" ([city guidelines](https://coab.us/DocumentCenter/View/15920/Turf-Installation-Guidelines)). Ask for the selected product documentation in writing. A material rule does not replace planning for heat, falls and ongoing care.
 
 ## A safer play area, step by step
 

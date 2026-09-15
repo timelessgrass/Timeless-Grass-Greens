@@ -38,7 +38,7 @@ sources:
     url: https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf
     checked: '2026-09-10'
   - label: 'Rule 62-308.100, F.A.C., adopted rule text: natural infill on single-family lots'
-    url: https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
+    url: https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
     checked: '2026-09-08'
 related:
   services:

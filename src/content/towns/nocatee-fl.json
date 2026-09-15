@@ -44,7 +44,7 @@
       "h2": "A back yard a few strides deep has to work hard.",
       "takeaway": "Kids and a dog cross the same few feet all day, and sod gives out along the fence first. Turf ends the cycle: no bare path, no mud, no reseeding.",
       "paras": [
-        "Nocatee's builders sell lots by their width: 40-foot lots in Daniel Park at Town Center, 40-, 50- and 60-foot lots at The Crossing at Twenty Mile, 60- and 70-foot lots at The Outlook (<a href=\"https://www.nocatee.com/neighborhoods/\" target=\"_blank\" rel=\"nofollow noopener\">Nocatee</a>). On the narrower lots, the back yard between the lanai and the rear line is a few strides deep, and on a large share of them that line is a retention pond or the edge of a preserve.",
+        "Nocatee's builders sell lots by their width: 40-foot lots in Daniel Park at Town Center, 40-, 50- and 60-foot lots at The Crossing at Twenty Mile, 60- and 70-foot lots at The Outlook (<a href=\"https://www.nocatee.com/neighborhoods\" target=\"_blank\" rel=\"nofollow noopener\">Nocatee</a>). On the narrower lots, the back yard between the lanai and the rear line is a few strides deep, and on a large share of them that line is a retention pond or the edge of a preserve.",
         "Grass can't recover in a space that small. Two kids and a dog cross the same few feet all day, and the builder's sod gives out along the fence first. If yours has already been replaced once, turf ends the cycle: no bare path, no mud at the slider, nothing to reseed.",
         "Most lots here get full sun, because the trees are young. Lots that back onto the preserve in Crosswater and Coastal Oaks have more mature canopy, and more shade."
       ]
@@ -108,7 +108,7 @@
   "sources": [
     {
       "label": "Nocatee: neighborhoods",
-      "url": "https://www.nocatee.com/neighborhoods/"
+      "url": "https://www.nocatee.com/neighborhoods"
     },
     {
       "label": "Tolomato Community Development District",
@@ -140,7 +140,7 @@
     },
     {
       "label": "Florida Rule 62-308.100, F.A.C.: synthetic turf",
-      "url": "https://www.flrules.org/gateway/ruleNo.asp?id=62-308.100"
+      "url": "https://flrules.org/gateway/ruleNo.asp?id=62-308.100"
     },
     {
       "label": "GolfPass: Palm Valley Golf Club",
@@ -152,6 +152,6 @@
     "ponte-vedra-fl"
   ],
   "publicReferences": [
-    "https://www.flrules.org/gateway/ruleNo.asp?id=62-308.100"
+    "https://flrules.org/gateway/ruleNo.asp?id=62-308.100"
   ]
 }

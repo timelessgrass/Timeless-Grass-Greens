@@ -22,8 +22,8 @@
       "h2": "Adding turf can change your stormwater permit.",
       "takeaway": "On a permitted site, turf can count as a change that needs a permit, and so can passing 9,000 square feet of impervious and semi-impervious surface. Ask the agency how it counts turf.",
       "paras": [
-        "On a site that already has an environmental resource permit, a turf area can count as a change. <a href=\"https://www.flrules.org/gateway/readFile.asp?sid=0&amp;tid=20397080&amp;type=1&amp;file=62-330.020.doc\" target=\"_blank\" rel=\"nofollow noopener\">Rule 62-330.020</a> requires a permit for any modification or alteration of a previously permitted project. On any site, it also requires one for a project that, alone or with work done after October 1, 2013, totals more than 9,000 square feet of impervious and semi-impervious surface, or more than 4,000 square feet of it used by vehicles. Its exceptions include listed exemptions and the 10/2 general permit for upland stormwater systems.",
-        "The statewide <a href=\"https://aws.sjrwmd.com/SJRWMD/permitting/AH_I_thru_Appendix_D.pdf\" target=\"_blank\" rel=\"nofollow noopener\">ERP Applicant’s Handbook, Volume I</a>, adopted by DEP in <a href=\"https://www.flrules.org/gateway/readFile.asp?sid=0&amp;tid=30666082&amp;type=1&amp;file=62-330.010.doc\" target=\"_blank\" rel=\"nofollow noopener\">Rule 62-330.010</a> and used by the St. Johns River Water Management District, defines impervious as surfaces that don’t let water through, or barely do. Semi-impervious means surfaces that partly restrict it, such as gravel, limerock and certain compacted soils. Neither definition mentions turf, so get the reviewing agency’s answer on how it counts the turf and its stone base before you set a budget.",
+        "On a site that already has an environmental resource permit, a turf area can count as a change. <a href=\"https://flrules.org/gateway/readFile.asp?sid=0&amp;tid=20397080&amp;type=1&amp;file=62-330.020.doc\" target=\"_blank\" rel=\"nofollow noopener\">Rule 62-330.020</a> requires a permit for any modification or alteration of a previously permitted project. On any site, it also requires one for a project that, alone or with work done after October 1, 2013, totals more than 9,000 square feet of impervious and semi-impervious surface, or more than 4,000 square feet of it used by vehicles. Its exceptions include listed exemptions and the 10/2 general permit for upland stormwater systems.",
+        "The statewide <a href=\"https://aws.sjrwmd.com/SJRWMD/permitting/AH_I_thru_Appendix_D.pdf\" target=\"_blank\" rel=\"nofollow noopener\">ERP Applicant’s Handbook, Volume I</a>, adopted by DEP in <a href=\"https://flrules.org/gateway/readFile.asp?sid=0&amp;tid=30666082&amp;type=1&amp;file=62-330.010.doc\" target=\"_blank\" rel=\"nofollow noopener\">Rule 62-330.010</a> and used by the St. Johns River Water Management District, defines impervious as surfaces that don’t let water through, or barely do. Semi-impervious means surfaces that partly restrict it, such as gravel, limerock and certain compacted soils. Neither definition mentions turf, so get the reviewing agency’s answer on how it counts the turf and its stone base before you set a budget.",
         "If your site has a permit, the handbook weighs an increase of more than 10 percent or 0.5 acres of impervious and semi-impervious surface, whichever is less, in deciding whether a change is more than minor, unless the site was permitted with enough stormwater treatment and flood attenuation for it. Before the grass comes out, take the permit number, the approved drainage plan and the turf’s drainage data to the agency that issued the permit. Our <a href=\"/guides/is-artificial-turf-impervious/\">impervious surface guide</a> lists the questions to ask."
       ]
     },
@@ -94,7 +94,7 @@
   "sources": [
     {
       "label": "Rule 62-308.100, F.A.C.: adopted rule text (effective 19 May 2026)",
-      "url": "https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc"
+      "url": "https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc"
     },
     {
       "label": "Florida DEP: Synthetic Turf FAQ",
@@ -106,11 +106,11 @@
     },
     {
       "label": "Rule 62-330.020, F.A.C.: regulated activities (last amended 1 June 2018)",
-      "url": "https://www.flrules.org/gateway/readFile.asp?sid=0&tid=20397080&type=1&file=62-330.020.doc"
+      "url": "https://flrules.org/gateway/readFile.asp?sid=0&tid=20397080&type=1&file=62-330.020.doc"
     },
     {
       "label": "Rule 62-330.010, F.A.C.: purpose and implementation (amended 7 April 2026)",
-      "url": "https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30666082&type=1&file=62-330.010.doc"
+      "url": "https://flrules.org/gateway/readFile.asp?sid=0&tid=30666082&type=1&file=62-330.010.doc"
     },
     {
       "label": "DEP and water management districts: ERP Applicant’s Handbook, Volume I (effective June 28, 2024; SJRWMD copy)",
@@ -172,7 +172,7 @@
   "publicReferences": [
     "https://floridadep.gov/sites/default/files/SyntheticTurfFAQ%20final.pdf",
     "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0125/Sections/0125.572.html",
-    "https://www.flrules.org/gateway/readFile.asp?sid=0&tid=20397080&type=1&file=62-330.020.doc",
+    "https://flrules.org/gateway/readFile.asp?sid=0&tid=20397080&type=1&file=62-330.020.doc",
     "https://aws.sjrwmd.com/SJRWMD/permitting/AH_I_thru_Appendix_D.pdf",
     "https://library.municode.com/fl/jacksonville/codes/code_of_ordinances?nodeId=TITXVIILAUS_CH656ZOCO_PT16DE_S656.1601DE",
     "https://coab.us/DocumentCenter/View/15920/Turf-Installation-Guidelines"

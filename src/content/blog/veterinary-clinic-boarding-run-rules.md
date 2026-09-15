@@ -1,7 +1,7 @@
 ---
 status: published
 title: 'Vet Clinic Boarding Run Rules | TIMELESS Grass & Greens'
-description: A boarding or exercise run at a veterinary clinic answers to different rules depending on whether the practice solicits boarding. Confirm which one applies first.
+description: "A boarding or exercise run at a veterinary clinic answers to different rules depending on whether the practice solicits boarding. Confirm which applies."
 h1: "Turf in a veterinary clinic's boarding or exercise run: which state rule applies"
 topic: Local rules
 published: '2026-09-14'

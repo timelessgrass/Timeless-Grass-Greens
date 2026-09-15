@@ -4,7 +4,7 @@
   "sources": [
     {
       "label": "Deerwood Improvement Association: ARC Guidelines",
-      "url": "http://www.deerwoodjax.com/arc-guidelines.html",
+      "url": "http://deerwoodjax.com/arc-guidelines.html",
       "checked": "2026-09-12",
       "supports": [
         "Approved by the DIA Board of Directors — June 23, 2026",
@@ -36,7 +36,7 @@
     },
     {
       "label": "Deerwood Improvement Association: Community Resources",
-      "url": "http://www.deerwoodjax.com/resources.html",
+      "url": "http://deerwoodjax.com/resources.html",
       "checked": "2026-09-12",
       "supports": [
         "All exterior modifications — including paint colors, landscaping changes, additions, and structures — require prior approval from the Architectural Review Board.",
@@ -46,7 +46,7 @@
     },
     {
       "label": "Deerwood Improvement Association: About Deerwood",
-      "url": "http://www.deerwoodjax.com/about.html",
+      "url": "http://deerwoodjax.com/about.html",
       "checked": "2026-09-12",
       "supports": [
         "Located at the NE corner of Baymeadows Road & Southside Boulevard",
@@ -58,7 +58,7 @@
     },
     {
       "label": "Deerwood Improvement Association: Covenant Enforcement",
-      "url": "http://www.deerwoodjax.com/covenant-enforcement.html",
+      "url": "http://deerwoodjax.com/covenant-enforcement.html",
       "checked": "2026-09-12",
       "supports": [
         "An ARC violation occurs when a homeowner: Makes an exterior improvement without first obtaining the required ARC approval, or Receives ARC approval but does not complete the work as approved.",
@@ -77,7 +77,7 @@
     },
     {
       "label": "Rule 62-308.100, F.A.C.: adopted rule text",
-      "url": "https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc",
+      "url": "https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc",
       "checked": "2026-09-12",
       "supports": [
         "(1)(b) Pursuant to s. 125.572, F.S., this rule establishes minimum standards for the installation of synthetic turf on single-family residential properties of 1 acre or less in size.",

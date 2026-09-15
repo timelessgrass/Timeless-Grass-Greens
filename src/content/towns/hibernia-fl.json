@@ -96,7 +96,7 @@
     },
     {
       "q": "Can turf go over my septic drainfield?",
-      "a": "Plan around it. The state holds unobstructed ground of at least 1.5 times the drainfield's absorption area, counting the drainfield inside that figure, so a 200 square foot field ties up 300 square feet all told, contiguous to the field and on top of every setback (<a href=\"https://www.flrules.org/gateway/readFile.asp?sid=0&amp;tid=30927303&amp;type=1&amp;file=62-6.005.doc\" target=\"_blank\" rel=\"nofollow noopener\">Rule 62-6.005</a>). Cover any part of it with impervious material once the system has final approval and the state moves to revoke the septic permit (<a href=\"https://www.flrules.org/gateway/readFile.asp?sid=0&amp;tid=29703260&amp;type=1&amp;file=62-6.003.doc\" target=\"_blank\" rel=\"nofollow noopener\">Rule 62-6.003</a>). Neither rule names synthetic turf, so we keep the turf footprint clear of both and you take anything beyond that to the <a href=\"https://clay.floridahealth.gov/programs-and-services/environmental-health/\" target=\"_blank\" rel=\"nofollow noopener\">Florida Department of Health in Clay County</a>, whose eBridge records hold final septic inspections from 1993 to the present, searchable by street address or parcel ID. Ask for yours before we draw the layout."
+      "a": "Plan around it. The state holds unobstructed ground of at least 1.5 times the drainfield's absorption area, counting the drainfield inside that figure, so a 200 square foot field ties up 300 square feet all told, contiguous to the field and on top of every setback (<a href=\"https://flrules.org/gateway/readFile.asp?sid=0&amp;tid=30927303&amp;type=1&amp;file=62-6.005.doc\" target=\"_blank\" rel=\"nofollow noopener\">Rule 62-6.005</a>). Cover any part of it with impervious material once the system has final approval and the state moves to revoke the septic permit (<a href=\"https://flrules.org/gateway/readFile.asp?sid=0&amp;tid=29703260&amp;type=1&amp;file=62-6.003.doc\" target=\"_blank\" rel=\"nofollow noopener\">Rule 62-6.003</a>). Neither rule names synthetic turf, so we keep the turf footprint clear of both and you take anything beyond that to the <a href=\"https://clay.floridahealth.gov/programs-and-services/environmental-health/\" target=\"_blank\" rel=\"nofollow noopener\">Florida Department of Health in Clay County</a>, whose eBridge records hold final septic inspections from 1993 to the present, searchable by street address or parcel ID. Ask for yours before we draw the layout."
     }
   ],
   "nearby": [
@@ -136,11 +136,11 @@
     },
     {
       "label": "Fla. Admin. Code R. 62-6.005: location and installation of onsite sewage systems (adopted text)",
-      "url": "https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30927303&type=1&file=62-6.005.doc"
+      "url": "https://flrules.org/gateway/readFile.asp?sid=0&tid=30927303&type=1&file=62-6.005.doc"
     },
     {
       "label": "Fla. Admin. Code R. 62-6.003: permits and inspections, voiding a permit (adopted text)",
-      "url": "https://www.flrules.org/gateway/readFile.asp?sid=0&tid=29703260&type=1&file=62-6.003.doc"
+      "url": "https://flrules.org/gateway/readFile.asp?sid=0&tid=29703260&type=1&file=62-6.003.doc"
     },
     {
       "label": "Florida Department of Health in Clay County: Environmental Public Health",
@@ -167,6 +167,6 @@
   "publicReferences": [
     "https://www.claycountygov.com/government/planning-and-zoning/flood-fema-info/development-within-a-flood-plain",
     "https://www.claycountygov.com/home/showpublisheddocument/1688/638947509720500000",
-    "https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30927303&type=1&file=62-6.005.doc"
+    "https://flrules.org/gateway/readFile.asp?sid=0&tid=30927303&type=1&file=62-6.005.doc"
   ]
 }

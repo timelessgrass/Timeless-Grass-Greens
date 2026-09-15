@@ -1,7 +1,7 @@
 ---
 status: published
 title: Northeast Florida Turf Rebates | TIMELESS Grass & Greens
-description: Verify the exact program, provider and eligible materials before budgeting a turf rebate. A conservation grant or sod credit is not automatically a turf incentive.
+description: "Verify the program, provider and eligible materials before counting on a turf rebate. A conservation grant or sod credit isn't automatically a turf incentive."
 h1: Can a northeast Florida rebate help pay for artificial turf?
 topic: Local rules
 published: '2026-09-10'

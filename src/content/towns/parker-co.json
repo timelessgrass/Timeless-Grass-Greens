@@ -96,7 +96,7 @@
     },
     {
       "q": "Where do I ask the Town about a turf plan?",
-      "a": "The Planning Division handles site plans and requests for variances from the Land Development Ordinance. It's at 20120 E. Mainstreet, open Monday to Friday, 8 a.m. to 5 p.m. (<a href=\"https://www.parkerco.gov/285/Planning-Division\" target=\"_blank\" rel=\"nofollow noopener\">Town of Parker</a>). The Town also says it promotes xeric landscaping (<a href=\"https://www.parkerco.gov/FAQ.aspx?QID=302\" target=\"_blank\" rel=\"nofollow noopener\">Town of Parker</a>), so show which areas stay planted."
+      "a": "The Planning Division handles site plans and requests for variances from the Land Development Ordinance. It's at 20120 E. Mainstreet, open Monday to Friday, 8 a.m. to 5 p.m. (<a href=\"https://www.parkerco.gov/285/Planning-Division\" target=\"_blank\" rel=\"nofollow noopener\">Town of Parker</a>). The Town also says it promotes xeric landscaping (<a href=\"https://www.parkerco.gov/m/faq?cat=53#question-302\" target=\"_blank\" rel=\"nofollow noopener\">Town of Parker</a>), so show which areas stay planted."
     }
   ],
   "nearby": [
@@ -129,7 +129,7 @@
     },
     {
       "label": "Town of Parker: landscaping FAQ",
-      "url": "https://www.parkerco.gov/FAQ.aspx?QID=302"
+      "url": "https://www.parkerco.gov/m/faq?cat=53#question-302"
     },
     {
       "label": "Parker Water and Sanitation District: watering restrictions",

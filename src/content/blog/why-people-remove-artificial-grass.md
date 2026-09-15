@@ -44,7 +44,7 @@ sources:
     url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10088630/
     checked: '2026-09-08'
   - label: 'Rule 62-308.100, Florida Administrative Code: adopted rule text'
-    url: https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
+    url: https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
     checked: '2026-09-08'
   - label: 'Colorado SB24-005, signed act (2024): grandfathering and the redevelopment trigger'
     url: https://content.leg.colorado.gov/sites/default/files/2024a_005_signed.pdf
@@ -85,7 +85,7 @@ Over-compacting makes it worse. UF/IFAS points out that turf laid over compacted
 
 Loose seams, lifted edges and a surface that humps up are the next group. One industry guide lists the usual signs of turf near the end: seams that keep loosening, color fading toward gray-green, loose fibers and infill piling up at the edges, and splitting blades ([Sports Venue Calculator](https://sportsvenuecalculator.com/knowledge/artificial-turf-field/turf-field-replacement-and-recycling/)).
 
-Some of that is age. Some of it is the ground. Across the Denver metro, swelling clay can "expand up to 20% by volume when exposed to water," according to the [Colorado Geological Survey](https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/). A thin base on that ground moves with it. Florida's 2026 standard requires anchoring at all edges and seams on single-family lawns ([Rule 62-308.100](https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc)), because a loose edge is where failures start.
+Some of that is age. Some of it is the ground. Across the Denver metro, swelling clay can "expand up to 20% by volume when exposed to water," according to the [Colorado Geological Survey](https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/). A thin base on that ground moves with it. Florida's 2026 standard requires anchoring at all edges and seams on single-family lawns ([Rule 62-308.100](https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc)), because a loose edge is where failures start.
 
 ## It simply wore out
 
@@ -101,7 +101,7 @@ Most of it goes to a landfill. [New Jersey's environment department](https://dep
 
 Turf that went in years ago may predate the rules its replacement has to meet.
 
-- **Florida:** on a single-family lot of an acre or less, new turf is measured against the 2026 state standard. That means washed base material, water passing through the turf, backing and base, anchoring at every edge and seam, and infill limited to sand, rock, shell or other natural material, with rubber kept to the footprint of playground equipment ([Rule 62-308.100](https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc)).
+- **Florida:** on a single-family lot of an acre or less, new turf is measured against the 2026 state standard. That means washed base material, water passing through the turf, backing and base, anchoring at every edge and seam, and infill limited to sand, rock, shell or other natural material, with rubber kept to the footprint of playground equipment ([Rule 62-308.100](https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc)).
 - **Colorado:** turf at a single-family home sits outside the state's turf law. On commercial and HOA common property, turf installed before 2026 is grandfathered, but a redevelopment that disturbs more than half the landscape area counts as a new project ([SB24-005](https://content.leg.colorado.gov/sites/default/files/2024a_005_signed.pdf)).
 
 ## Can the old base be reused?

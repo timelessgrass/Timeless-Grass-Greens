@@ -1,7 +1,7 @@
 ---
 status: published
 title: Artificial Turf at a Hotel or HOA Pool | TIMELESS Grass & Greens
-description: State rules set how wide a hotel, condo or HOA pool deck must be and what it is made of. Where artificial turf fits in South Carolina, Florida and North Carolina.
+description: "State rules set a hotel, condo or HOA pool deck's width and surface. Where artificial turf fits in South Carolina, Florida and North Carolina."
 h1: Can a hotel or HOA pool deck use artificial turf?
 topic: Commercial and sports
 published: '2026-09-12'
@@ -23,7 +23,7 @@ sources:
     url: https://des.sc.gov/sites/des/files/Library/Regulations/R.61-51.pdf
     checked: '2026-09-12'
   - label: 'Florida Department of Health: Public Swimming Pools (permits and pool plans)'
-    url: https://www.floridahealth.gov/environmental-health/swimming-pools/index.html
+    url: https://www.floridahealth.gov/community-environmental-public-health/environmental-public-health/water-quality/public-swimming-pools/
     checked: '2026-09-12'
   - label: 'Florida Department of Health, Pool Checklist for the Florida Building Code, 8th edition (dated 29 August 2024): Section 454.1.3.1'
     url: https://www.floridahealth.gov/wp-content/uploads/2025/08/poolchecklistfbc8thed9-1-24.docx
@@ -106,7 +106,7 @@ Florida sets public pool construction in the Florida Building Code, Section 454.
 
 One water rule reaches past the deck. Florida's pool rule, [Chapter 64E-9](https://www.floridahealth.gov/wp-content/uploads/2025/08/64e-9faceff7-20-2016a004eff6-11-2023.doc), says landscape irrigation water that wets the wet deck or the pool must be potable, or tested to potable quality. Reclaimed water used inside the pool fence or within 100 feet of the water must go through drip irrigation or soaker hoses. If you plan to rinse turf beside the deck, ask the county health department how that applies.
 
-Then the order of steps. The [Department of Health](https://www.floridahealth.gov/environmental-health/swimming-pools/index.html) says an operating permit application must reach it before the building department can issue a construction or modification permit for a public pool. Chapter 64E-9 applies that sequence to modifications, filed on form DH 4159.
+Then the order of steps. The [Department of Health](https://www.floridahealth.gov/community-environmental-public-health/environmental-public-health/water-quality/public-swimming-pools/) says an operating permit application must reach it before the building department can issue a construction or modification permit for a public pool. Chapter 64E-9 applies that sequence to modifications, filed on form DH 4159.
 
 ## Brunswick County, North Carolina
 

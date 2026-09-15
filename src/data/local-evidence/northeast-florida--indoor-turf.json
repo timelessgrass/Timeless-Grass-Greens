@@ -79,7 +79,7 @@
     },
     {
       "label": "International Code Council: Florida codes (2023 FBC Building Ch. 3 and 8, 2023 FBC Existing Building Ch. 7, 2026 9th Edition listing)",
-      "url": "https://codes.iccsafe.org/codes/florida",
+      "url": "https://codes.iccsafe.org/codes/united-states/florida",
       "checked": "2026-09-12",
       "supports": [
         "Read in ICC's free read-only view (a JavaScript app with no stable deep links; this is the Florida titles page the Florida Building Commission links to as '2023 FBC').",
@@ -101,7 +101,7 @@
     },
     {
       "label": "Rule 69A-60.002, F.A.C.: Scope; Description of Florida Fire Prevention Code (adopted text)",
-      "url": "https://www.flrules.org/gateway/readFile.asp?sid=0&tid=27834361&type=1&file=69A-60.002.doc",
+      "url": "https://flrules.org/gateway/readFile.asp?sid=0&tid=27834361&type=1&file=69A-60.002.doc",
       "checked": "2026-09-12",
       "supports": [
         "(3)(a) The Florida Fire Prevention Code consists of: 1. National Fire Protection Association (NFPA) 1, the Fire Code, Florida 2021 edition, as adopted in Rule 69A-60.003, F.A.C.; 2. NFPA 101, the Life Safety Code®, Florida 2021 edition, as adopted and incorporated in Rule 69A-60.004, F.A.C., and their additions, deletions, and other modifications to NFPA 1 and NFPA 101, Florida 2021 editions, as provided therein; and, 3. All codes, standards, publications, and authorities adopted in Rule 69A-60.005, F.A.C.",
@@ -111,7 +111,7 @@
     },
     {
       "label": "FLRules: Rule 69A-60.002 notice history",
-      "url": "https://www.flrules.org/gateway/ruleNo.asp?id=69A-60.002",
+      "url": "https://flrules.org/gateway/ruleNo.asp?id=69A-60.002",
       "checked": "2026-09-12",
       "supports": [
         "Current effective version: Effective Date: 12/31/2023",
@@ -131,7 +131,7 @@
     },
     {
       "label": "Rule 69A-58.002, F.A.C.: Scope: New Construction and Existing Facilities (adopted text)",
-      "url": "https://www.flrules.org/gateway/readFile.asp?sid=0&tid=12206788&type=1&file=69A-58.002.doc",
+      "url": "https://flrules.org/gateway/readFile.asp?sid=0&tid=12206788&type=1&file=69A-58.002.doc",
       "checked": "2026-09-12",
       "supports": [
         "69A-58.002 Scope: New Construction and Existing Facilities.",

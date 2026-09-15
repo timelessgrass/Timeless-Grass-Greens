@@ -71,7 +71,9 @@ const schema = town
        areaServed: { '@type': 'Place', name: m.name } }];
 
 /* grounds alternate from the answer band down, so no two neighbours match */
-const nearby = (town ? town.data.nearby : ls!.data.towns).map((s) => towns.find((t) => t.id === s)).filter((x): x is NonNullable<typeof x> => !!x);
+/* a town's own nearby list, then the towns that list it, so a place no neighbour names still gets linked back */
+const listedBy = town ? towns.filter((t) => t.id !== town.id && t.data.nearby.includes(town.id)).map((t) => t.id) : [];
+const nearby = [...new Set([...(town ? town.data.nearby : ls!.data.towns), ...listedBy])].slice(0, town ? 10 : undefined).map((s) => towns.find((t) => t.id === s)).filter((x): x is NonNullable<typeof x> => !!x);
 const ground = (i: number) => (i % 2 === 0 ? 'sec sec--band' : 'sec');
 /* brief: every block has a takeaway, so the rules sit in one short list with the detail one tap away */
 const brief = d.blocks.every((b) => b.takeaway);

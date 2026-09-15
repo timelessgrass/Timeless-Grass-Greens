@@ -13,7 +13,7 @@ faq:
   - q: Is sand infill safe for dogs?
     a: The answer depends on the selected product and how the space is used and maintained. Florida’s standard permits several natural infills where it applies; it does not require sand alone. In a <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7222665/" target="_blank" rel="nofollow noopener">2020 lab study</a>, MRSA took 27 hours to lose half its viability in sand, against 12 hours in crumb rubber and 2 in EPDM rubber. That lab result is not a test of your yard or a prescription for a cleaning schedule. Follow the product instructions and plan care around actual use.
   - q: Can I use crumb rubber in a Florida back yard?
-    a: Not under the state standard. On single-family lots of an acre or less, <a href="https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc" target="_blank" rel="nofollow noopener">Rule 62-308.100</a> allows rubber or any other synthetic infill only within the footprint of playground equipment. The state doesn't inspect, but turf that meets the rule is what Florida law protects from a local ban.
+    a: Not under the state standard. On single-family lots of an acre or less, <a href="https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc" target="_blank" rel="nofollow noopener">Rule 62-308.100</a> allows rubber or any other synthetic infill only within the footprint of playground equipment. The state doesn't inspect, but turf that meets the rule is what Florida law protects from a local ban.
   - q: Which infill is coolest for paws?
     a: 'Of the rubbers, TPE ran cooler than crumb rubber: 45.6°C against 53.5°C in one study collected by a <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11272752/" target="_blank" rel="nofollow noopener">2024 analysis of 23 studies</a>. Shade did far more. The same analysis found sun against shade moved the surface by about 25°C.'
   - q: Does infill need topping up?
@@ -29,7 +29,7 @@ sources:
     url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11272752/
     checked: '2026-09-08'
   - label: 'Rule 62-308.100, Florida Administrative Code: adopted rule text'
-    url: https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
+    url: https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
     checked: '2026-09-08'
   - label: 'Florida DEP: Synthetic Turf frequently asked questions'
     url: https://floridadep.gov/sites/default/files/SyntheticTurfFAQ%20final.pdf
@@ -55,7 +55,7 @@ related:
   guides:
     - florida-turf-infill-rules
 publicReferences:
-  - https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
+  - https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
   - https://floridadep.gov/sites/default/files/SyntheticTurfFAQ%20final.pdf
 ---
 
@@ -121,7 +121,7 @@ A thin spot matters for more than looks. Infill holds the blades up and helps wa
 
 ## Florida decides part of it for you
 
-On a Florida single-family lot of an acre or less, [Rule 62-308.100](https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc) allows infill of "clean silica sand, rock, shell, or other natural material," allows coated sand if the coating is non-toxic, and confines rubber or any other synthetic infill to the footprint of playground equipment. The rule says "if used," so infill isn't required.
+On a Florida single-family lot of an acre or less, [Rule 62-308.100](https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc) allows infill of "clean silica sand, rock, shell, or other natural material," allows coated sand if the coating is non-toxic, and confines rubber or any other synthetic infill to the footprint of playground equipment. The rule says "if used," so infill isn't required.
 
 [Florida DEP](https://floridadep.gov/sites/default/files/SyntheticTurfFAQ%20final.pdf) doesn't permit or inspect turf. Meeting the rule still matters, because compliant turf is what state law protects from a local ban. If you're counting on zeolite, ask your city or county how it reads "other natural material" before you order. Our [Florida infill guide](/guides/florida-turf-infill-rules/) covers the rule in full.
 

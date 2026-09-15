@@ -18,6 +18,10 @@ export async function getStaticPaths() {
 }
 const { p } = Astro.props;
 const d = p.data;
+/* three more articles on the same topic, taken in turn around the topic, so every article gets linked from its neighbours */
+const sameTopic = (await getPublishedCollection('blog')).filter((x) => x.data.topic === d.topic).sort((a, b) => a.id.localeCompare(b.id));
+const at = sameTopic.findIndex((x) => x.id === p.id);
+const related = [...new Map([1, 2, 3].map((k) => sameTopic[(at + k) % sameTopic.length]).filter((x) => x && x.id !== p.id).map((x) => [x.id, x])).values()];
 const preset = d.related.services.length === 1 ? SERVICES.find((s) => s.slug === d.related.services[0])?.preset : undefined;
 const { Content, headings } = await render(p);
 const contents = headings.filter((h) => h.depth === 2);
@@ -77,6 +81,15 @@ const next = [
                   <details class="qa"><summary><h3>{qa.q}</h3></summary><p set:html={qa.a} /></details>
                 ))}
               </div>
+            </section>
+          )}
+
+          {related.length > 0 && (
+            <section class="doc__sec" data-reveal>
+              <h2>Related turf questions</h2>
+              <ul class="lawlinks lawlinks--light">
+                {related.map((r) => <li><a href={`/blog/${r.id}/`}>{r.data.h1}</a></li>)}
+              </ul>
             </section>
           )}
 

@@ -1,7 +1,7 @@
 ---
 status: published
 title: 'Pergola Footings and Turf: What Goes First? | TIMELESS Grass & Greens'
-description: 'Pergola footings go in before the turf, not after. What a layout settles first, and the wetland-setback rule that can affect a permanent post footing near a creek.'
+description: "Pergola footings go in before the turf, not after. What a layout settles first, and the wetland-setback rule that can affect a post footing near a creek."
 h1: 'Pergola posts and artificial turf: what goes in first'
 topic: Costs and planning
 published: '2026-09-13'

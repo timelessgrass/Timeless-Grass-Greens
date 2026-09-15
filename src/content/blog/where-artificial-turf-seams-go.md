@@ -34,7 +34,7 @@ sources:
     url: http://reports.oah.state.nc.us/ncac/title%2021%20-%20occupational%20licensing%20boards%20and%20commissions/chapter%2028%20-%20landscape%20contractors/chapter%2028%20rules.pdf
     checked: '2026-09-12'
   - label: 'Rule 62-308.100, F.A.C., adopted rule text, new 19 May 2026: tree drip lines, anchoring at edges and seams, septic tank access'
-    url: https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
+    url: https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
     checked: '2026-09-12'
   - label: 'Thornton Water: 2026 Artificial Turf Rules for the Water-Wise Landscape Rebate (buffers, anchoring, glued seams, maintenance)'
     url: https://www.thorntonwater.com/wp-content/uploads/2026/02/2026-residential_artificial_turf_info__rules-1.pdf
@@ -50,7 +50,7 @@ related:
 publicReferences:
   - https://nibs-s3-wbdg3-production.s3.us-east-1.amazonaws.com/FFC/DOD/UFGS/UFGS%2032%2018%2016.13.pdf
   - https://www.thorntonwater.com/wp-content/uploads/2026/02/2026-residential_artificial_turf_info__rules-1.pdf
-  - https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
+  - https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
 ---
 
 ## A seam is where one roll meets the next
@@ -91,7 +91,7 @@ A rectangle gets its seams from roll width alone. Most of the extra seams in a r
 
 - **Inside corners.** An L-shaped lawn wrapped around a patio needs either a join near the corner or a larger piece cut to the shape, with the offcut used elsewhere only where its nap lines up.
 - **Curves and beds.** A curved border is cut out of the roll. A long curve that spans more than one roll width crosses a seam along the way.
-- **Areas the turf has to avoid.** Local rules can move the edge of the lawn, and every new edge means more cutting. Thornton's [2026 turf rules](https://www.thorntonwater.com/wp-content/uploads/2026/02/2026-residential_artificial_turf_info__rules-1.pdf) for its water-wise rebate keep turf three feet from property lines (at the front, it may run to the line if a three-foot buffer separates it from the sidewalk) and from the trunk of any deciduous tree, and outside the dripline of any evergreen. [Florida's standard](https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc) for single-family lots of an acre or less, new on 19 May 2026, keeps turf out of tree drip lines unless a certified arborist certifies it won't harm the tree, and requires access to the septic tank for routine pumpout.
+- **Areas the turf has to avoid.** Local rules can move the edge of the lawn, and every new edge means more cutting. Thornton's [2026 turf rules](https://www.thorntonwater.com/wp-content/uploads/2026/02/2026-residential_artificial_turf_info__rules-1.pdf) for its water-wise rebate keep turf three feet from property lines (at the front, it may run to the line if a three-foot buffer separates it from the sidewalk) and from the trunk of any deciduous tree, and outside the dripline of any evergreen. [Florida's standard](https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc) for single-family lots of an acre or less, new on 19 May 2026, keeps turf out of tree drip lines unless a certified arborist certifies it won't harm the tree, and requires access to the septic tank for routine pumpout.
 
 That is why a [residential turf](/services/residential-turf/) layout starts with the edges, then fits the rolls inside them.
 

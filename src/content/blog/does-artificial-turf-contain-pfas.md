@@ -13,7 +13,7 @@ faq:
   - q: Is turf with PFAS banned in Colorado?
     a: For new installs, yes, if the PFAS were intentionally added. Under <a href="https://leg.colorado.gov/bills/sb24-081" target="_blank" rel="nofollow noopener">SB24-081</a>, from 1 January 2026 no one may install artificial turf containing intentionally added PFAS on any property in the state. The rule is written around installing, so it is the product going in that has to meet it.
   - q: Does Florida's turf rule say anything about PFAS?
-    a: Yes. Paragraph (2)(a) of <a href="https://www.flrules.org/gateway/readFile.asp?sid=0&amp;tid=30839130&amp;type=1&amp;file=62-308.100.doc" target="_blank" rel="nofollow noopener">Rule 62-308.100</a> prohibits heavy metals and intentionally added PFAS in turf on single-family lots of an acre or less. The state does not inspect or enforce it, but it is the standard a lawn has to meet for the state's protection from local bans.
+    a: Yes. Paragraph (2)(a) of <a href="https://flrules.org/gateway/readFile.asp?sid=0&amp;tid=30839130&amp;type=1&amp;file=62-308.100.doc" target="_blank" rel="nofollow noopener">Rule 62-308.100</a> prohibits heavy metals and intentionally added PFAS in turf on single-family lots of an acre or less. The state does not inspect or enforce it, but it is the standard a lawn has to meet for the state's protection from local bans.
   - q: Can a lab test prove turf is PFAS-free?
     a: Not a narrow one. Massachusetts' <a href="https://www.turi.org/publications/per-and-poly-fluoroalkyl-substances-pfas-in-artificial-turf-carpet/" target="_blank" rel="nofollow noopener">Toxics Use Reduction Institute</a> points out that not finding a few specific PFAS does not mean a material is free of them. A total fluorine test or a TOP assay tells you more.
   - q: Is PFAS in turf a health risk?
@@ -38,7 +38,7 @@ sources:
     url: https://leg.colorado.gov/bills/sb24-081
     checked: '2026-09-10'
   - label: 'Rule 62-308.100, F.A.C., adopted rule text: paragraph (2)(a), heavy metals and intentionally added PFAS'
-    url: https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
+    url: https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
     checked: '2026-09-08'
   - label: 'Thornton Water: 2026 Artificial Turf Rules for the Water-Wise Landscape Rebate'
     url: https://www.thorntonwater.com/wp-content/uploads/2026/02/2026-residential_artificial_turf_info__rules-1.pdf
@@ -103,7 +103,7 @@ Water utilities have noticed the gap. Thornton's rebate rules for artificial tur
 Two of our three markets now have written rules on PFAS in turf.
 
 - **Colorado.** [SB24-081](https://leg.colorado.gov/bills/sb24-081), signed 1 May 2024, bars anyone from installing artificial turf that contains intentionally added PFAS on any property in the state from 1 January 2026. That covers every yard, not just commercial sites.
-- **Florida.** [Rule 62-308.100](https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc), in force since 19 May 2026, prohibits heavy metals and intentionally added PFAS in turf on single-family lots of an acre or less. The state does not inspect installs, but a lawn has to meet the standard to get the state's protection from local bans. Our [Florida infill guide](/guides/florida-turf-infill-rules/) explains how that works.
+- **Florida.** [Rule 62-308.100](https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc), in force since 19 May 2026, prohibits heavy metals and intentionally added PFAS in turf on single-family lots of an acre or less. The state does not inspect installs, but a lawn has to meet the standard to get the state's protection from local bans. Our [Florida infill guide](/guides/florida-turf-infill-rules/) explains how that works.
 
 Both rules turn on the words "intentionally added". That puts the weight on what the manufacturer can document about how the product was made.
 

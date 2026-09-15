@@ -13,14 +13,14 @@ faq:
   - q: How steep is too steep for artificial turf?
     a: No single number fits every yard, and we know of no written residential limit for turf. Two reference points help. The <a href="https://coloradogeologicalsurvey.org/wp-content/uploads/woocommerce_uploads/SP-14.pdf" target="_blank" rel="nofollow noopener">Colorado Geological Survey</a> does not recommend slopes over 15 percent within 10 feet of a house on swelling soil. The <a href="https://up.codes/viewer/colorado/irc-2021/chapter/4/foundations" target="_blank" rel="nofollow noopener">2021 International Residential Code</a> sets special rules for buildings on or next to slopes steeper than 1 in 3. Past that point, holding the soil comes first.
   - q: Will the infill wash down the hill?
-    a: It can. <a href="https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf" target="_blank" rel="nofollow noopener">New Jersey's environment department</a> notes that rubber pellets are buoyant and may wash away, and that heavier infills such as coated sand are less likely to. In Florida, <a href="https://www.flrules.org/gateway/readFile.asp?sid=0&amp;tid=30839130&amp;type=1&amp;file=62-308.100.doc" target="_blank" rel="nofollow noopener">Rule 62-308.100</a> requires a home install to be designed so infill does not wash off the property.
+    a: It can. <a href="https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf" target="_blank" rel="nofollow noopener">New Jersey's environment department</a> notes that rubber pellets are buoyant and may wash away, and that heavier infills such as coated sand are less likely to. In Florida, <a href="https://flrules.org/gateway/readFile.asp?sid=0&amp;tid=30839130&amp;type=1&amp;file=62-308.100.doc" target="_blank" rel="nofollow noopener">Rule 62-308.100</a> requires a home install to be designed so infill does not wash off the property.
   - q: Can my turf send runoff into my neighbor's yard?
     a: In Florida, the install has to be designed to prevent that. Rule 62-308.100 bars an increase in the volume, direction or rate of runoff reaching adjacent properties, and <a href="https://coab.us/DocumentCenter/View/15920/Turf-Installation-Guidelines" target="_blank" rel="nofollow noopener">Atlantic Beach</a> says turf must not cause runoff onto adjacent properties. In Colorado and the Carolinas, ask your city or county stormwater office what applies. If a dispute has already started, that is a question for a lawyer.
   - q: Can turf go on the flat steps of a terrace?
     a: Yes. Each step becomes a small, near-level lawn, and the walls take the change in height. Under the 2021 International Residential Code, a retaining wall holding back more than 48 inches of unbalanced fill must be designed to accepted engineering practice. Ask your building department which code edition and permits apply to your lot.
 sources:
   - label: 'Rule 62-308.100, F.A.C., adopted rule text (new 19 May 2026): infill, stormwater, waterbody setback and anchoring'
-    url: https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
+    url: https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
     checked: '2026-09-12'
   - label: 'City of Atlantic Beach, Florida: Artificial Turf Installation Guidelines (location, retention areas, inspection)'
     url: https://coab.us/DocumentCenter/View/15920/Turf-Installation-Guidelines
@@ -52,7 +52,7 @@ related:
   guides:
     - is-artificial-turf-impervious
 publicReferences:
-  - https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
+  - https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
   - https://ask.ifas.ufl.edu/publication/EP612
   - https://coab.us/DocumentCenter/View/15920/Turf-Installation-Guidelines
 ---
@@ -79,7 +79,7 @@ A living lawn has roots. Turf doesn't, and on a slope that difference shows.
 
 None of that rules turf out. It means two things on a slope:
 
-- **The soil can't be packed shut.** Florida's rule for home lawns bars compacting the soil under the base to the point that water can no longer percolate ([Rule 62-308.100](https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc)).
+- **The soil can't be packed shut.** Florida's rule for home lawns bars compacting the soil under the base to the point that water can no longer percolate ([Rule 62-308.100](https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc)).
 - **The bottom of the slope needs a plan.** Water that runs through the base arrives at the low edge. Something there has to take it: a pervious bed, a swale on your own lot, or a drain.
 
 ## Keeping infill and edges in place

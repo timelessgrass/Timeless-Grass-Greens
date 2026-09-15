@@ -53,7 +53,7 @@
     },
     {
       "label": "WithersRavenel: Comparative Analysis of Synthetic Turf and Natural Grass",
-      "url": "https://withersravenel.com/news/comparative-analysis-of-synthetic-turf-and-natural-grass/",
+      "url": "https://withersravenel.com/news/comparative-analysis-of-synthetic-turf-and-natural-grass-for-athletic-fields-in-north-carolina/",
       "checked": "2026-09-12",
       "supports": [
         "\"North Carolina General Statutes §143-214.7D(b)(6) stated that the following is not considered built-upon area or impervious surface for state or local stormwater programs: Artificial turf, manufactured to allow water to drain through the backing of the turf, is installed according to the manufacturer's specifications over a pervious surface.\" The statute page itself (ncleg.gov, G.S. 143-214.7D) returned HTTP 403 on 2026-09-12; the same text is quoted from it in src/data/guides.ts (nc-vs-sc-built-upon-area)."

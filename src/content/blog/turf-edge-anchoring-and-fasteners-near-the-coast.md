@@ -17,7 +17,7 @@ answer:
 faq:
   - q: Does Florida law require turf edges to be anchored?
     a: >-
-      Yes, on the properties it covers. <a href="https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc" target="_blank" rel="nofollow noopener">Rule 62-308.100, F.A.C.</a>, in force statewide since 19 May 2026, applies to single-family residential
+      Yes, on the properties it covers. <a href="https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc" target="_blank" rel="nofollow noopener">Rule 62-308.100, F.A.C.</a>, in force statewide since 19 May 2026, applies to single-family residential
       properties of one acre or less and states that "synthetic turf shall be anchored at all edges and seams
       that, at a minimum, will withstand the effects of wind or flooding." It doesn't name a fastener type or
       a wind speed; it sets the outcome and leaves the method to the installer.
@@ -43,7 +43,7 @@ faq:
       coastal lot; neither substitutes for the other.
 sources:
   - label: 'Rule 62-308.100, F.A.C., Florida DEP synthetic turf standard (effective 19 May 2026): edge and seam anchoring, permeability, drainage and infill'
-    url: https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
+    url: https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
     checked: '2026-09-13'
   - label: 'American Galvanizers Association: HDG in Coastal Climates'
     url: https://galvanizeit.org/knowledgebase/article/hdg-in-coastal-climates
@@ -57,7 +57,7 @@ related:
     - denver-metro
   guides: []
 publicReferences:
-  - https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
+  - https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
   - https://galvanizeit.org/knowledgebase/article/hdg-in-coastal-climates
 ---
 
@@ -69,7 +69,7 @@ Florida's rule for synthetic turf treats every lot the same on paper: edges and 
 
 ## What Florida's turf rule requires at the edge
 
-[Rule 62-308.100, F.A.C.](https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc), effective statewide since 19 May 2026, covers single-family residential properties of one acre or less. On anchoring, it states plainly that synthetic turf "shall be anchored at all edges and seams that, at a minimum, will withstand the effects of wind or flooding."
+[Rule 62-308.100, F.A.C.](https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc), effective statewide since 19 May 2026, covers single-family residential properties of one acre or less. On anchoring, it states plainly that synthetic turf "shall be anchored at all edges and seams that, at a minimum, will withstand the effects of wind or flooding."
 
 The same rule sets three other requirements that touch the same install:
 

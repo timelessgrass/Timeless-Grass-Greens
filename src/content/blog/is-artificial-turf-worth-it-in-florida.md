@@ -38,7 +38,7 @@ sources:
     url: https://www.sjcfl.us/protect-our-water/
     checked: '2026-09-08'
   - label: 'Rule 62-308.100, Florida Administrative Code: adopted rule text'
-    url: https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
+    url: https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
     checked: '2026-09-08'
   - label: 'Fla. Stat. 125.572: regulation of synthetic turf'
     url: https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0100-0199%2F0125%2FSections%2F0125.572.html
@@ -115,7 +115,7 @@ So plan shade for the places people sit and play, and treat the hose as a quick 
 
 Three rules shape a Florida install:
 
-- **Infill.** On a single-family lot of an acre or less, the 2026 state standard allows clean silica sand, rock, shell or other natural material, and keeps rubber to the footprint of playground equipment. It also bans heavy metals and intentionally added PFAS in the turf system ([Rule 62-308.100](https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc)). Our [Florida infill guide](/guides/florida-turf-infill-rules/) covers the details.
+- **Infill.** On a single-family lot of an acre or less, the 2026 state standard allows clean silica sand, rock, shell or other natural material, and keeps rubber to the footprint of playground equipment. It also bans heavy metals and intentionally added PFAS in the turf system ([Rule 62-308.100](https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc)). Our [Florida infill guide](/guides/florida-turf-infill-rules/) covers the details.
 - **Local bans.** Cities and counties can't ban turf on a single-family lot if it meets that standard ([Fla. Stat. 125.572](https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0100-0199%2F0125%2FSections%2F0125.572.html)).
 - **Your HOA.** An association can't restrict turf that isn't visible from the frontage, a neighbor's lot, a common area or a community golf course ([Fla. Stat. 720.3045](https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0700-0799/0720/Sections/0720.3045.html)). A front yard is a different conversation.
 

@@ -1,7 +1,7 @@
 ---
 status: published
 title: Wetland Buffers and Conservation Easements | TIMELESS Grass & Greens
-description: A lot backing to a marsh or preserve carries two separate rules, not one. What St. Johns County's upland buffer and a recorded conservation easement each require.
+description: "A lot backing to a marsh or preserve carries two separate rules. What St. Johns County's upland buffer and a recorded conservation easement each require."
 h1: 'Wetland Buffers and Conservation Easements: Where Turf Has to Stop'
 topic: Local rules
 published: '2026-09-13'

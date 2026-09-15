@@ -157,7 +157,7 @@ export const GUIDES: Guide[] = [
       {
         "label": "Colorado Water Conservation Board — Turf Replacement Program",
         "cite": "C.R.S. 37-60-135 bars grant money from being used to replace turf with artificial turf; CWCB \"is no longer accepting applications\" as of March 2025; single-family homeowners and HOAs were never eligible applicants; water-wise landscaping cross-reference at 37-60-135(2)(l).",
-        "url": "https://cwcb.colorado.gov/turf-replacement-program",
+        "url": "https://cwcb.colorado.gov/turf",
         "checked": "2026-09-07"
       }
     ],
@@ -256,7 +256,7 @@ export const GUIDES: Guide[] = [
       {
         "label": "WithersRavenel — Comparative Analysis of Synthetic Turf and Natural Grass, 29 April 2026",
         "cite": "Quotes N.C.G.S. 143-214.7D(b)(6) and dates SB 166 as effective September 2024, retroactive to July 2023; states the change let permitting agencies treat synthetic fields much like natural grass fields for stormwater.",
-        "url": "https://withersravenel.com/news/comparative-analysis-of-synthetic-turf-and-natural-grass/",
+        "url": "https://withersravenel.com/news/comparative-analysis-of-synthetic-turf-and-natural-grass-for-athletic-fields-in-north-carolina/",
         "checked": "2026-09-07"
       },
       {
@@ -292,13 +292,13 @@ export const GUIDES: Guide[] = [
       {
         "label": "Brunswick County Unified Development Ordinance (revised through 19 August 2024)",
         "cite": "The Impervious Surface definition names compacted earth, gravel, concrete, asphalt and building footprints, and treats porous pavement, uncovered wooden slatted decks and pool water area as pervious. Full-text search of the 491-page UDO returns no occurrence of artificial turf or synthetic turf. Sec. 4.8.7.E Water Quality Protection Overlay limits built-upon impervious area to 25 percent of the lot.",
-        "url": "https://www.brunswickcountync.gov/DocumentCenter/View/5460",
+        "url": "https://www.brunswickcountync.gov/DocumentCenter/View/5460/UDO-Revised-and-Readopted---March-2015-Revision--19Aug24",
         "checked": "2026-09-07"
       },
       {
         "label": "Brunswick County Stormwater Quality Management and Discharge Control Ordinance",
         "cite": "Section 1.5(d) defines built-upon area with the pre-2024 exclusion list — slatted wood deck, pool water area, #57 stone at least four inches thick over geotextile fabric, trails under G.S. 113A-85 — and does not list artificial turf.",
-        "url": "https://www.brunswickcountync.gov/DocumentCenter/View/7215",
+        "url": "https://www.brunswickcountync.gov/DocumentCenter/View/7215/BC-Stormwater-Ordinance-Update-01202026",
         "checked": "2026-09-07"
       },
       {
@@ -350,7 +350,7 @@ export const GUIDES: Guide[] = [
     ],
     "slug": "no-turf-rebates-grand-strand",
     "title": "Turf Rebate Eligibility in Horry County | TIMELESS Grass & Greens",
-    "description": "We found no confirmed artificial-turf rebate in the Horry County sources reviewed. Check your water provider, eligibility and approval before budgeting a credit.",
+    "description": "We found no confirmed artificial-turf rebate in the Horry County sources we reviewed. Check your water provider, eligibility and approval before budgeting.",
     "h1": "Check turf rebate eligibility in Horry County",
     "market": "grand-strand",
     "updated": "2026-09-12",
@@ -452,7 +452,7 @@ export const GUIDES: Guide[] = [
       {
         "label": "Colorado Water Conservation Board — Turf Replacement Program, C.R.S. 37-60-135 (HB22-1151)",
         "cite": "Applicants \"shall not use the money to replace turf with any of the following: (a) impermeable concrete; (b) artificial turf; (c) water features such as fountains; (d) invasive plant species; or (e) turf.\" CWCB stopped accepting applications in March 2025.",
-        "url": "https://cwcb.colorado.gov/turf-replacement-program",
+        "url": "https://cwcb.colorado.gov/turf",
         "checked": "2026-09-07"
       },
       {
@@ -476,7 +476,7 @@ export const GUIDES: Guide[] = [
       {
         "label": "Centennial Water & Sanitation District (Highlands Ranch Water) — Turf Replacement Program",
         "cite": "\"Artificial turf replacements are no longer eligible for rebate. We apologize for any inconvenience. $2.50/sq. ft. for ColoradoScape… $1.50/sq. ft. for low-water use turf: Dog Tuff, Tahoma 31.\"",
-        "url": "https://www.centennialwater.org/turf-replacement-program",
+        "url": "https://www.highlandsranchwater.org/turf-replacement-program",
         "checked": "2026-09-07"
       },
       {
@@ -507,7 +507,7 @@ export const GUIDES: Guide[] = [
   },
   {
     "publicReferences": [
-      "https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc",
+      "https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc",
       "https://floridadep.gov/sites/default/files/SyntheticTurfFAQ%20final.pdf"
     ],
     "slug": "florida-turf-infill-rules",
@@ -588,13 +588,13 @@ export const GUIDES: Guide[] = [
       {
         "label": "Rule 62-308.100, F.A.C. — adopted rule text, Florida Administrative Code",
         "cite": "\"Infill material, if used, shall only be clean silica sand, rock, shell, or other natural material, except that coated silica sand may be used provided that any coating used is non-toxic... Rubber or any other synthetic infill material is allowed only within the footprint of playground equipment... Installation shall be designed to prevent washing away of any infill material off the residential property.\" Also (2)(a) heavy metals and intentionally added PFAS prohibited; (2)(b) disposable at a Chapter 62-701, F.A.C. permitted landfill; (2)(d) washed subgrade; (4) permeability and no compaction of soil beneath subgrade; (9)(b) anchoring at all edges and seams. History–New 5-19-26.",
-        "url": "https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc",
+        "url": "https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc",
         "checked": "2026-09-08"
       },
       {
         "label": "Florida Administrative Code rule record — 62-308.100 \"Synthetic Turf\"",
         "cite": "Chapter 62-308, \"Minimum Standards for the Installation of Synthetic Turf on Specified Properties\". Effective Date: 5/19/2026. History note \"History–New 5-19-26\". Rulemaking Authority and Law Implemented: 125.572 FS.",
-        "url": "https://www.flrules.org/gateway/ruleNo.asp?id=62-308.100",
+        "url": "https://flrules.org/gateway/ruleNo.asp?id=62-308.100",
         "checked": "2026-09-08"
       },
       {
@@ -764,7 +764,7 @@ export const GUIDES: Guide[] = [
       {
         "label": "Rule 62-308.100, F.A.C. — Synthetic Turf",
         "cite": "Fla. Admin. Code R. 62-308.100, effective 19 May 2026 (file date 29 April 2026; history note \"New 5-19-26\")",
-        "url": "https://www.flrules.org/gateway/ruleNo.asp?id=62-308.100",
+        "url": "https://flrules.org/gateway/ruleNo.asp?id=62-308.100",
         "checked": "2026-09-07"
       },
       {
@@ -964,7 +964,7 @@ export const GUIDES: Guide[] = [
       {
         "label": "Centennial Water & Sanitation District (Highlands Ranch), Turf Replacement Program",
         "cite": "\"Artificial turf replacements are no longer eligible for rebate.\" Rebates listed at $2.50/sq ft for ColoradoScape and $1.50/sq ft for low-water use turf.",
-        "url": "https://www.centennialwater.org/turf-replacement-program",
+        "url": "https://www.highlandsranchwater.org/turf-replacement-program",
         "checked": "2026-09-07"
       },
       {
@@ -1300,7 +1300,7 @@ export const GUIDES: Guide[] = [
       "https://www.denverwater.org/tap/ditching-useless-turf-coloradoscape-we-can-help",
       "https://www.auroragov.org/UserFiles/Servers/Server_1881137/File/Residents/Water/Water%20Conservation/Landscape%20rebate/GRIP_Residential_Manual_2026_web_accessible.pdf",
       "https://crconserve.com/153/Rebates",
-      "https://www.centennialwater.org/turf-replacement-program",
+      "https://www.highlandsranchwater.org/turf-replacement-program",
       "https://www.erieco.gov/1962/2026-Turf-Replacement-Rebate-Program"
     ],
     "slug": "colorado-water-rebates-and-turf",
@@ -1430,7 +1430,7 @@ export const GUIDES: Guide[] = [
       {
         "label": "Centennial Water & Sanitation District (Highlands Ranch) — Turf Replacement Program",
         "cite": "\"Artificial turf replacements are no longer eligible for rebate. We apologize for any inconvenience. $2.50/sq. ft. for ColoradoScape… $1.50/sq. ft. for low-water use turf: Dog Tuff, Tahoma 31.\" All 2026 rebate funding exhausted; the turf replacement rebate reopens 1 March 2027. Also: \"The average participant in our turf replacement program saves 25,000 gallons of water annually.\"",
-        "url": "https://www.centennialwater.org/turf-replacement-program",
+        "url": "https://www.highlandsranchwater.org/turf-replacement-program",
         "checked": "2026-09-07"
       },
       {
@@ -1478,7 +1478,7 @@ export const GUIDES: Guide[] = [
       {
         "label": "Colorado Water Conservation Board — Turf Replacement Program",
         "cite": "\"Update: As of March 2025, CWCB is no longer accepting applications for the Turf Replacement Grant Program.\" Statute (HB22-1151, C.R.S. 37-60-135): applicants \"SHALL NOT USE THE MONEY TO REPLACE TURF WITH ANY OF THE FOLLOWING: (A) IMPERMEABLE CONCRETE; (B) ARTIFICIAL TURF; (C) WATER FEATURES SUCH AS FOUNTAINS; (D) INVASIVE PLANT SPECIES; OR (E) TURF.\" CWCB lists \"Single Family Homeowners\" and \"Homeowners' Associations or any Multifamily Property\" as INELIGIBLE ENTITIES.",
-        "url": "https://cwcb.colorado.gov/turf-replacement-program",
+        "url": "https://cwcb.colorado.gov/turf",
         "checked": "2026-09-07"
       },
       {
@@ -1599,7 +1599,7 @@ export const GUIDES: Guide[] = [
     "slug": "artificial-turf-in-the-right-of-way",
     "market": "all",
     "title": "Artificial Turf in the Right-of-Way | TIMELESS Grass & Greens",
-    "description": "The strip between sidewalk and street isn't yours to plan alone. What Atlantic Beach, FL and Westminster, CO actually say, and how to ask before you design it in.",
+    "description": "The strip between sidewalk and street isn't yours to plan alone. What Atlantic Beach, FL and Westminster, CO say, and how to ask before you design it in.",
     "h1": "The strip between the sidewalk and the street: when artificial turf there isn't your decision",
     "updated": "2026-09-13",
     "answer": {
@@ -1737,7 +1737,7 @@ export const GUIDES: Guide[] = [
       {
         "h2": "Florida: 'obstructed land,' and who administers the rule",
         "body": [
-          "<a href=\"https://www.flrules.org/gateway/ruleNo.asp?id=62-6.002\" target=\"_blank\" rel=\"nofollow noopener\">Rule 62-6.002(44), F.A.C.</a>, amended July 9, 2025, defines \"obstructed land\" as \"areas on a lot or property used for such purposes as pools, concrete slabs, buildings, driveways, parking and similar areas which prohibit, hinder, or affect the installation, operation or maintenance of an onsite sewage treatment and disposal system.\" The rule's own listing names the Florida Department of Environmental Protection (DEP) as its issuing agency. Under House Bill 1475 (2023), the state is transferring the onsite sewage program from the Department of Health to DEP over five years: as of January 1, 2025 (July 1, 2025 for Marion County), DEP directly administers septic permitting in 17 Florida counties, and county health departments continue to implement the program under DEP's direction everywhere else.",
+          "<a href=\"https://flrules.org/gateway/ruleNo.asp?id=62-6.002\" target=\"_blank\" rel=\"nofollow noopener\">Rule 62-6.002(44), F.A.C.</a>, amended July 9, 2025, defines \"obstructed land\" as \"areas on a lot or property used for such purposes as pools, concrete slabs, buildings, driveways, parking and similar areas which prohibit, hinder, or affect the installation, operation or maintenance of an onsite sewage treatment and disposal system.\" The rule's own listing names the Florida Department of Environmental Protection (DEP) as its issuing agency. Under House Bill 1475 (2023), the state is transferring the onsite sewage program from the Department of Health to DEP over five years: as of January 1, 2025 (July 1, 2025 for Marion County), DEP directly administers septic permitting in 17 Florida counties, and county health departments continue to implement the program under DEP's direction everywhere else.",
           "Artificial turf is not on the obstructed-land list, and the rule does not say whether a turf system counts as a \"similar area.\" That is a call for the office that administers the program in your county to make, not a general answer that applies statewide — and which office that is now depends on whether your county is one of the 17 DEP administers directly. Bring the parcel's septic permit records and a sketch of the proposed turf area when you ask, and get the answer in writing before ordering material.",
           "The question is separate from where the water table sits or how the system was originally sized, both of which the county's file on the property will show. If any part of the proposed turf sits over the drainfield or repair area, raise that specifically — a general \"can I put turf in my yard\" question may not surface it."
         ]
@@ -1787,7 +1787,7 @@ export const GUIDES: Guide[] = [
       {
         "label": "Rule 62-6.002(44), F.A.C. — Onsite Sewage Treatment and Disposal Systems, definitions",
         "cite": "Amended July 9, 2025. Defines \"obstructed land\" as \"areas on a lot or property used for such purposes as pools, concrete slabs, buildings, driveways, parking and similar areas which prohibit, hinder, or affect the installation, operation or maintenance of an onsite sewage treatment and disposal system.\" Artificial turf is not named in the definition. The rule's issuing agency, per its flrules.org listing, is the Florida Department of Environmental Protection; under HB 1475 (2023) the onsite sewage program is transferring from the Department of Health to DEP over five years, with DEP directly administering permitting in 17 counties as of January 1, 2025 (Marion County July 1, 2025).",
-        "url": "https://www.flrules.org/gateway/ruleNo.asp?id=62-6.002",
+        "url": "https://flrules.org/gateway/ruleNo.asp?id=62-6.002",
         "checked": "2026-09-13"
       },
       {
@@ -1798,7 +1798,7 @@ export const GUIDES: Guide[] = [
       }
     ],
     "publicReferences": [
-      "https://www.flrules.org/gateway/ruleNo.asp?id=62-6.002",
+      "https://flrules.org/gateway/ruleNo.asp?id=62-6.002",
       "http://reports.oah.state.nc.us/ncac/title%2015a%20-%20environmental%20quality/chapter%2018%20-%20environmental%20health/subchapter%20e/subchapter%20e%20rules.pdf"
     ]
   },
@@ -2098,7 +2098,7 @@ export const GUIDES: Guide[] = [
     "slug": "colorado-county-grading-permits-for-turf",
     "market": "denver-metro",
     "title": "Colorado County Grading Permits for Turf | TIMELESS Grass & Greens",
-    "description": "No city hall reviews your yard in unincorporated Jefferson or Arapahoe County. Here's when a grading or GESC permit applies to a turf job, from each county's own code.",
+    "description": "No city hall reviews your yard in unincorporated Jefferson or Arapahoe County. When a grading or GESC permit applies to a turf job, from each county's code.",
     "h1": "No city hall? When unincorporated Jefferson or Arapahoe County wants a grading permit for your turf job",
     "updated": "2026-09-12",
     "answer": {
@@ -2388,7 +2388,7 @@ export const GUIDES: Guide[] = [
       {
         "label": "Brunswick County Unified Development Ordinance, Article 7, Flood Damage Prevention Ordinance (text dated December 6, 2019; UDO republished January 28, 2025)",
         "cite": "Defines development to include filling, grading, paving and excavation; requires a Floodplain Development Permit; applications must show grading and pavement areas, fill materials and drainage; sets the regulatory flood protection elevation at BFE plus 2 feet; defines Coastal A Zones.",
-        "url": "https://www.brunswickcountync.gov/DocumentCenter/View/5460",
+        "url": "https://www.brunswickcountync.gov/DocumentCenter/View/5460/UDO-Revised-and-Readopted---March-2015-Revision--19Aug24",
         "checked": "2026-09-13"
       },
       {
@@ -2401,7 +2401,7 @@ export const GUIDES: Guide[] = [
     "publicReferences": [
       "https://www.law.cornell.edu/cfr/text/44/60.3",
       "https://www.sjcfl.us/departments/floodplain-management/",
-      "https://www.brunswickcountync.gov/DocumentCenter/View/5460"
+      "https://www.brunswickcountync.gov/DocumentCenter/View/5460/UDO-Revised-and-Readopted---March-2015-Revision--19Aug24"
     ]
   },
   {
@@ -2537,7 +2537,7 @@ export const GUIDES: Guide[] = [
     "slug": "northeast-florida-historic-district-turf-review",
     "market": "northeast-florida",
     "title": "Historic District Turf Rules in NE Florida | TIMELESS Grass & Greens",
-    "description": "Jacksonville, St. Augustine and St. Johns County each run a separate historic review process. What each one covers, who decides, and where turf fits before you order.",
+    "description": "Jacksonville, St. Augustine and St. Johns County each run their own historic review. What each covers, who decides, and where turf fits before you order.",
     "h1": "Turf in a Jacksonville, St. Augustine or St. Johns County historic district",
     "updated": "2026-09-13",
     "answer": {
@@ -2650,7 +2650,7 @@ export const GUIDES: Guide[] = [
     "slug": "northeast-florida-tree-rules-and-turf",
     "market": "northeast-florida",
     "title": "Northeast Florida Tree Rules and Turf | TIMELESS Grass & Greens",
-    "description": "Florida's arborist law drops permits only for risky trees on single-family lots. St. Johns County, Amelia Island and Atlantic Beach tree rules for turf, side by side.",
+    "description": "Florida's arborist law drops permits only for risky trees on single-family lots. St. Johns County, Amelia Island and Atlantic Beach tree rules for turf.",
     "h1": "Live oaks and turf in Northeast Florida: which rule protects the tree, and what Florida's arborist law changes",
     "updated": "2026-09-12",
     "answer": {
@@ -2676,7 +2676,7 @@ export const GUIDES: Guide[] = [
       {
         "h2": "Florida's turf rule draws its own line at the drip line",
         "body": [
-          "<a href=\"https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc\" target=\"_blank\" rel=\"nofollow noopener\">Rule 62-308.100</a>, effective 19 May 2026, sets minimum standards for synthetic turf on single-family residential properties of 1 acre or less. Paragraph (8)(a) says installation cannot compromise the health of nearby trees, including damage to tree roots. Paragraph (8)(b) says synthetic turf shall not be installed inside tree drip lines, on the property or on adjacent properties.",
+          "<a href=\"https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc\" target=\"_blank\" rel=\"nofollow noopener\">Rule 62-308.100</a>, effective 19 May 2026, sets minimum standards for synthetic turf on single-family residential properties of 1 acre or less. Paragraph (8)(a) says installation cannot compromise the health of nearby trees, including damage to tree roots. Paragraph (8)(b) says synthetic turf shall not be installed inside tree drip lines, on the property or on adjacent properties.",
           "There are two ways past that line. The tree is a noxious weed as defined in Chapter 581, Florida Statutes. Or a certified arborist, using site-specific information and best professional judgment, certifies that installation within that drip line would not be harmful to the tree. Note the difference from s. 163.045. That statute accepts an ISA-certified arborist or a Florida licensed landscape architect, and the document is about risk from a tree. The turf rule names a certified arborist, and the certification is about harm to a tree that stays.",
           "Two consequences for planning. Your neighbor's tree counts, because the rule names drip lines on adjacent properties. And a risk assessment for a tree coming down is a different document from a certification that turf will not harm a tree staying up. For how the same rule treats infill and base material, see our guide to <a href=\"/guides/florida-turf-infill-rules/\">Florida turf infill rules</a>."
         ]
@@ -2736,7 +2736,7 @@ export const GUIDES: Guide[] = [
       },
       {
         "q": "Do I need permission to lay a turf base under an oak I am keeping?",
-        "a": "Check two things. On a single-family lot of 1 acre or less, <a href=\"https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc\" target=\"_blank\" rel=\"nofollow noopener\">Rule 62-308.100</a> bars synthetic turf inside a drip line unless a certified arborist certifies it would not harm the tree. In unincorporated St. Johns County, changing the grade inside a preserved Protected Tree's drip line needs County Administrator approval. Atlantic Beach adds a trunk setback and a 3-inch subbase limit under trees. Ask your city or county which apply to your lot."
+        "a": "Check two things. On a single-family lot of 1 acre or less, <a href=\"https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc\" target=\"_blank\" rel=\"nofollow noopener\">Rule 62-308.100</a> bars synthetic turf inside a drip line unless a certified arborist certifies it would not harm the tree. In unincorporated St. Johns County, changing the grade inside a preserved Protected Tree's drip line needs County Administrator approval. Atlantic Beach adds a trunk setback and a 3-inch subbase limit under trees. Ask your city or county which apply to your lot."
       },
       {
         "q": "Does my neighbor's tree affect where my turf can go?",
@@ -2753,7 +2753,7 @@ export const GUIDES: Guide[] = [
       {
         "label": "Rule 62-308.100, F.A.C. — Synthetic Turf, adopted rule text",
         "cite": "(1)(b) minimum standards for the installation of synthetic turf on single-family residential properties of 1 acre or less. (8)(a) installation cannot compromise the health of nearby trees, including damage to tree roots, other than noxious weeds under Chapter 581, F.S. (8)(b) synthetic turf shall not be installed inside tree drip lines, whether on the property or adjacent properties, unless the tree is a noxious weed or a certified arborist, using site specific information and best professional judgment, certifies that installation within that drip line would not be harmful to the tree. History–New 5-19-26.",
-        "url": "https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc",
+        "url": "https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc",
         "checked": "2026-09-12"
       },
       {
@@ -2795,7 +2795,7 @@ export const GUIDES: Guide[] = [
     ],
     "publicReferences": [
       "https://www.flsenate.gov/Laws/Statutes/2025/163.045",
-      "https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc",
+      "https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc",
       "https://www.sjcfl.us/wp-content/uploads/2024/01/Article-IV.pdf",
       "https://stjohnsclerk.com/minrec/OrdinanceBooks/2020/ORD2020-38.pdf",
       "https://www.nassaucountyfl.com/DocumentCenter/View/22775/Tree-Ordinance-Summary",
@@ -2917,7 +2917,7 @@ export const GUIDES: Guide[] = [
     "slug": "public-bid-thresholds-turf-fields",
     "market": "all",
     "title": "Public Bid Thresholds for a Turf Field | TIMELESS Grass & Greens",
-    "description": "See the dollar thresholds that push a school, park or town's turf field project into formal competitive bidding in Colorado, North Carolina, South Carolina and Florida.",
+    "description": "The dollar thresholds that push a school, park or town turf field into formal competitive bidding in Colorado, North Carolina, South Carolina and Florida.",
     "h1": "Public Bid Thresholds for a Turf Field Contract: Colorado, North Carolina, South Carolina and Florida",
     "updated": "2026-09-14",
     "answer": {

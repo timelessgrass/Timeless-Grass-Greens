@@ -1,7 +1,7 @@
 ---
 status: published
 title: Denver Green Buildings Ordinance Turf | TIMELESS Grass & Greens
-description: Denver requires green space on large buildings and roof jobs. Artificial turf does not count toward it. What the ordinance requires, and how to plan a turf deck instead.
+description: "Denver requires green space on large buildings and roof jobs, and artificial turf doesn't count. What the ordinance requires, and how to plan a turf deck."
 h1: Does rooftop or podium turf count toward Denver's Green Buildings Ordinance?
 topic: Commercial and sports
 published: '2026-09-14'

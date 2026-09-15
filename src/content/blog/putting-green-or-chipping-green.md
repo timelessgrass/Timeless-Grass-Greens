@@ -1,7 +1,7 @@
 ---
 status: published
 title: 'Putting Green or Chipping Green | TIMELESS Grass & Greens'
-description: 'A pure putting surface and a chip-and-putt layout use different turf, different footprint and the same regulation hole. What to settle before the layout is final.'
+description: "A pure putting surface and a chip-and-putt layout use different turf and footprints but the same regulation hole. What to settle before the layout is final."
 h1: 'Putting Green or Chipping Green: What Changes Underfoot'
 topic: Putting greens
 published: '2026-09-13'

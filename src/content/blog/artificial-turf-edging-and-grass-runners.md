@@ -33,7 +33,7 @@ faq:
   - q: Does Florida's turf rule say how edges must be held?
     a: >-
       It says what the anchoring must withstand, not what to anchor with.
-      <a href="https://www.flrules.org/gateway/readFile.asp?sid=0&amp;tid=30839130&amp;type=1&amp;file=62-308.100.doc" target="_blank" rel="nofollow noopener">Rule 62-308.100</a>,
+      <a href="https://flrules.org/gateway/readFile.asp?sid=0&amp;tid=30839130&amp;type=1&amp;file=62-308.100.doc" target="_blank" rel="nofollow noopener">Rule 62-308.100</a>,
       in force since 19 May 2026 for single-family lots of 1 acre or less, requires turf to be anchored at all edges and seams
       in a way that at a minimum withstands wind or flooding. It also requires installation to the manufacturer's specifications.
 sources:
@@ -56,7 +56,7 @@ sources:
     url: https://cmg.extension.colostate.edu/Gardennotes/561.pdf
     checked: '2026-09-12'
   - label: 'Rule 62-308.100, F.A.C., adopted rule text: synthetic turf on single-family lots, anchoring at edges and seams'
-    url: https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
+    url: https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
     checked: '2026-09-12'
   - label: 'Thornton Water: 2026 Artificial Turf Rules for the Water-Wise Landscape Rebate (dated 1 January 2026)'
     url: https://www.thorntonwater.com/wp-content/uploads/2026/02/2026-residential_artificial_turf_info__rules-1.pdf
@@ -122,7 +122,7 @@ An edge that lifts leaves a gap. Soil, runners and toes all find it.
 
 Both written standards we checked require anchoring at the edges:
 
-- **Florida.** [Rule 62-308.100](https://www.flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc), in force since 19 May 2026, sets minimum standards for turf on single-family lots of 1 acre or less. It requires turf to be anchored at all edges and seams in a way that at a minimum withstands wind or flooding.
+- **Florida.** [Rule 62-308.100](https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc), in force since 19 May 2026, sets minimum standards for turf on single-family lots of 1 acre or less. It requires turf to be anchored at all edges and seams in a way that at a minimum withstands wind or flooding.
 - **Thornton.** The city's [2026 rebate rules](https://www.thorntonwater.com/wp-content/uploads/2026/02/2026-residential_artificial_turf_info__rules-1.pdf) require anchoring at all edges and seams, using the pins or nails the manufacturer recommends. They also list looseness at edges among the things regular maintenance has to fix.
 
 The edge should also meet the border without a gap. Turf that stops short of the concrete leaves a thin band of soil, and a band of soil is where a runner roots.

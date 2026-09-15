@@ -67,7 +67,7 @@
       "takeaway": "Turf must be permeable, with no in-ground irrigation. On a lot sloping to a lagoon, the often-soggy 10-foot strip can stay planted, and we draw the layout around drip lines and the water line.",
       "paras": [
         "Sawgrass went up from the late 1970s through the 1990s, and many yards now sit under decades of live oak, laurel oak and slash pine. Grass laid in full sun around 1980 has been losing to the shade and the roots ever since. Turf doesn't need the sun, but the state's standard has a say in where it goes.",
-        "Under DEP Rule 62-308.100, turf can't go inside a tree's drip line unless a certified arborist confirms it won't harm the tree, and it has to stay at least 10 feet from a natural or man-made waterbody, such as a golf lagoon, measured from the high water line. It can't sit in a swale, a ditch or a stormwater pond, it has to be permeable, and turf areas can't have in-ground irrigation (<a href=\"https://www.flrules.org/gateway/ruleNo.asp?id=62-308.100\" target=\"_blank\" rel=\"nofollow noopener\">DEP Rule 62-308.100</a>).",
+        "Under DEP Rule 62-308.100, turf can't go inside a tree's drip line unless a certified arborist confirms it won't harm the tree, and it has to stay at least 10 feet from a natural or man-made waterbody, such as a golf lagoon, measured from the high water line. It can't sit in a swale, a ditch or a stormwater pond, it has to be permeable, and turf areas can't have in-ground irrigation (<a href=\"https://flrules.org/gateway/ruleNo.asp?id=62-308.100\" target=\"_blank\" rel=\"nofollow noopener\">DEP Rule 62-308.100</a>).",
         "On a lot that slopes to a lagoon, the low edge often stays soggy anyway, so that 10-foot strip can stay planted while the usable yard above it goes to turf. We draw the layout around the drip lines and the water line, and you approve it before any work starts."
       ]
     }
@@ -129,7 +129,7 @@
     },
     {
       "label": "Florida Rule 62-308.100, F.A.C.: synthetic turf",
-      "url": "https://www.flrules.org/gateway/ruleNo.asp?id=62-308.100"
+      "url": "https://flrules.org/gateway/ruleNo.asp?id=62-308.100"
     },
     {
       "label": "St. Johns County: who is your water service provider",
@@ -162,6 +162,6 @@
   ],
   "checked": "2026-09-13",
   "publicReferences": [
-    "https://www.flrules.org/gateway/ruleNo.asp?id=62-308.100"
+    "https://flrules.org/gateway/ruleNo.asp?id=62-308.100"
   ]
 }

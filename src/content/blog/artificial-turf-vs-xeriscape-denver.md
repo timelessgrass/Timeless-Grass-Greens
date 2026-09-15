@@ -11,7 +11,7 @@ answer:
   answer: Xeriscape is a landscape approach using appropriate plants, efficient watering and practical lawn areas. Artificial turf is a manufactured surface for a particular use. A yard can combine them, with turf where its function is useful and planting elsewhere. Both need planning and ongoing care.
 faq:
   - q: Does artificial turf count as xeriscape in Colorado?
-    a: Not for the state's purposes. The statute behind Colorado's Turf Replacement Program bars grant money from paying to replace grass with artificial turf, as the <a href="https://cwcb.colorado.gov/turf-replacement-program" target="_blank" rel="nofollow noopener">Colorado Water Conservation Board</a> sets out. Xeriscape's seven principles are built around plants, soil and water, and turf is none of those.
+    a: Not for the state's purposes. The statute behind Colorado's Turf Replacement Program bars grant money from paying to replace grass with artificial turf, as the <a href="https://cwcb.colorado.gov/turf" target="_blank" rel="nofollow noopener">Colorado Water Conservation Board</a> sets out. Xeriscape's seven principles are built around plants, soil and water, and turf is none of those.
   - q: Will my water provider pay me to xeriscape?
     a: Often, when there is money left. <a href="https://www.auroragov.org/UserFiles/Servers/Server_1881137/File/Residents/Water/Water%20Conservation/Landscape%20rebate/GRIP_Residential_Manual_2026_web_accessible.pdf" target="_blank" rel="nofollow noopener">Aurora Water</a> pays $3.00 a square foot for a water-wise landscape, but requires at least half living plant cover and lists artificial turf as prohibited. Many 2026 programs are already full, including <a href="https://resourcecentral.org/lawn/" target="_blank" rel="nofollow noopener">Resource Central's</a>.
   - q: Can my HOA stop me from xeriscaping or putting turf in the back yard?
@@ -35,7 +35,7 @@ sources:
     url: https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf
     checked: '2026-09-08'
   - label: 'Colorado Water Conservation Board: Turf Replacement Program, C.R.S. 37-60-135'
-    url: https://cwcb.colorado.gov/turf-replacement-program
+    url: https://cwcb.colorado.gov/turf
     checked: '2026-09-08'
   - label: 'Resource Central: lawn replacement program'
     url: https://resourcecentral.org/lawn/
@@ -99,7 +99,7 @@ Notice number five says limit, not remove. Colorado's own [legal definition](htt
 
 Turf covers the part of the yard that has to be walked on, played on or looked at as green. It needs no irrigation for growth. Product choice, site preparation, use and care still affect how it holds up.
 
-It is not xeriscape, though, and Colorado law treats it that way. The statute behind the state's Turf Replacement Program bars grant money from paying to replace grass with artificial turf, as the [Colorado Water Conservation Board](https://cwcb.colorado.gov/turf-replacement-program) sets out. That program has stopped taking applications in any case.
+It is not xeriscape, though, and Colorado law treats it that way. The statute behind the state's Turf Replacement Program bars grant money from paying to replace grass with artificial turf, as the [Colorado Water Conservation Board](https://cwcb.colorado.gov/turf) sets out. That program has stopped taking applications in any case.
 
 CSU's John Murgel names the trade-offs plainly. Artificial turf can get very hot, needs water to cool down and to clean, and eventually ends up in a landfill. All three are real, and you should plan for them:
 

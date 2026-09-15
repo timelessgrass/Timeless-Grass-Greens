@@ -59,9 +59,9 @@
       "takeaway": "Check which county your parcel is in. North of the line, Horry's height rule doesn't reach the yard; south of it, digging within a protected tree's zone needs a Georgetown County permit.",
       "paras": [
         "Garden City sits in southern Horry County, with the Georgetown County line on its south side. The built-up beach carries on past that line into Georgetown County, to a peninsula at the mouth of Murrells Inlet (<a href=\"https://en.wikipedia.org/wiki/Garden_City,_South_Carolina\" target=\"_blank\" rel=\"nofollow noopener\">Wikipedia</a>). Check your parcel record before you ask about permits, because each county has its own desk and its own rules.",
-        "North of the line, Horry County's Garden City Height Overlay runs from the Surfside Beach town limit to the county line and caps new construction at 35 feet, with some mapped exceptions. It is a building rule, not a yard rule (<a href=\"https://horrycounty-sc.elaws.us/code/coor_apxb_artvii_723\" target=\"_blank\" rel=\"nofollow noopener\">Horry County Zoning §723.2</a>). For how Horry's impervious-surface wording lands on turf, read <a href=\"/guides/nc-vs-sc-built-upon-area/\">our guide to built-upon area in the two Carolinas</a>.",
+        "North of the line, Horry County's Garden City Height Overlay runs from the Surfside Beach town limit to the county line and caps new construction at 35 feet, with some mapped exceptions. It is a building rule, not a yard rule (Horry County Zoning §723.2). For how Horry's impervious-surface wording lands on turf, read <a href=\"/guides/nc-vs-sc-built-upon-area/\">our guide to built-upon area in the two Carolinas</a>.",
         "South of the line, Georgetown County's Waccamaw Neck overlay protects trees at least 10 inches across at 4.5 feet up, apart from palmettos, pines other than longleaf, sweet gums, crepe myrtles, wax myrtles, Bradford pears and pecans. On an occupied single-family lot you still need a county permit to remove or damage one, and digging and grading count as damage (<a href=\"https://www.gtcountysc.gov/DocumentCenter/View/1346/ARTICLE-13-Tree-Regulations-PDF\" target=\"_blank\" rel=\"nofollow noopener\">Georgetown County Article XIII</a>). A tree's protection zone is its diameter in inches read as feet, or out to the canopy edge if that is wider.",
-        "Georgetown County also bills a yearly stormwater fee to properties with 400 square feet or more of impervious area, meaning manmade surfaces that don't let rain soak into the ground (<a href=\"https://www.gtcountysc.gov/faq.aspx?TID=57\" target=\"_blank\" rel=\"nofollow noopener\">Georgetown County stormwater FAQ</a>). Turf isn't named, so ask the county how a draining turf system counts, and see <a href=\"/guides/is-artificial-turf-impervious/\">whether artificial turf is impervious</a>."
+        "Georgetown County also bills a yearly stormwater fee to properties with 400 square feet or more of impervious area, meaning manmade surfaces that don't let rain soak into the ground (<a href=\"https://www.gtcountysc.gov/m/faq?cat=57\" target=\"_blank\" rel=\"nofollow noopener\">Georgetown County stormwater FAQ</a>). Turf isn't named, so ask the county how a draining turf system counts, and see <a href=\"/guides/is-artificial-turf-impervious/\">whether artificial turf is impervious</a>."
       ]
     },
     {
@@ -123,7 +123,7 @@
     },
     {
       "label": "Georgetown County: Stormwater rates and fees FAQ",
-      "url": "https://www.gtcountysc.gov/faq.aspx?TID=57"
+      "url": "https://www.gtcountysc.gov/m/faq?cat=57"
     },
     {
       "label": "WMBF: Portion of Garden City beach excluded from federal renourishment project (31 March 2026)",
@@ -137,7 +137,6 @@
   "publicReferences": [
     "https://www.scstatehouse.gov/code/t48c039.php",
     "https://www.scstatehouse.gov/coderegs/Chapter%2030.pdf",
-    "https://horrycounty-sc.elaws.us/code/coor_apxb_artvii_723",
     "https://www.gtcountysc.gov/DocumentCenter/View/1346/ARTICLE-13-Tree-Regulations-PDF"
   ],
   "checked": "2026-09-12"

@@ -1,7 +1,7 @@
 ---
 status: published
 title: Landscape Lighting Wire Under Turf | TIMELESS Grass & Greens
-description: Low-voltage wire for uplighting palms, oaks or a pergola can run under a turf base. What the burial-depth rule requires and what to settle before the layout is final.
+description: "Low-voltage lighting wire for palms, oaks or a pergola can run under a turf base. What the burial-depth rule requires, and what to settle before the layout."
 h1: Can Low-Voltage Landscape Lighting Wire Run Under Artificial Turf?
 topic: Lawns
 published: '2026-09-13'

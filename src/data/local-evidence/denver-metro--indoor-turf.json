@@ -64,7 +64,7 @@
     },
     {
       "label": "City of Westminster: Building Division (fetched live with curl)",
-      "url": "https://www.westminsterco.gov/621/Building-Division",
+      "url": "https://www.westminsterco.gov/621/Building",
       "checked": "2026-09-12",
       "supports": [
         "The 2021 International Codes (I-Codes) have been in effect since June 1, 2024.",
@@ -184,7 +184,7 @@
     },
     {
       "label": "Colorado Division of Fire Prevention and Control: School Construction (fetched live with curl)",
-      "url": "https://dfpc.colorado.gov/sections/fire-and-life-safety/building-codes-branch/school-construction",
+      "url": "https://dfpc.colorado.gov/sections/fire-life-safety/building-codes-branch/school-construction",
       "checked": "2026-09-12",
       "supports": [
         "All work done on public schools, institute charter schools, charter schools and junior colleges that is not considered as maintenance or service will require a permit and adhere to the adopted codes of the Division.",

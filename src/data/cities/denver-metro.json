@@ -36,7 +36,7 @@
    "https://www.thorntonwater.com/hoa-rebates-and-free-services/",
    "https://leg.colorado.gov/bills/sb24-005",
    "https://codes.findlaw.com/co/title-38-property-real-and-personal/co-rev-st-sect-38-33-3-106-5.html",
-   "https://cwcb.colorado.gov/turf-replacement-program",
+   "https://cwcb.colorado.gov/turf",
    "https://www.toddcreekgolfclub.com/",
    "https://www.riverdalegolf.com/",
    "https://www.55places.com/colorado/communities/heritage-todd-creek",
@@ -81,7 +81,7 @@
    "https://www.thorntonwater.com/wp-content/uploads/2026/02/2026-residential_artificial_turf_info__rules-1.pdf",
    "https://leg.colorado.gov/bills/sb24-005",
    "https://codes.findlaw.com/co/title-38-property-real-and-personal/co-rev-st-sect-38-33-3-106-5.html",
-   "https://cwcb.colorado.gov/turf-replacement-program",
+   "https://cwcb.colorado.gov/turf",
    "https://educationdata.urban.org/api/v1/schools/ccd/directory/2022/?fips=8 (NCES CCD school directory)",
    "https://overpass-api.de/api/interpreter (OpenStreetMap features, Henderson bounding box)",
    "https://adamscountyco.gov/our-county/community-economic-development/planning-development/development-standards-regulations/"
@@ -121,7 +121,7 @@
    "https://www.crestviewwatercolorado.gov/boundary-map",
    "https://leg.colorado.gov/bills/sb24-005",
    "https://codes.findlaw.com/co/title-38-property-real-and-personal/co-rev-st-sect-38-33-3-106-5.html",
-   "https://cwcb.colorado.gov/turf-replacement-program",
+   "https://cwcb.colorado.gov/turf",
    "https://wps.org/",
    "https://educationdata.urban.org/api/v1/schools/ccd/directory/2022/?fips=8 (NCES CCD school directory)",
    "https://overpass-api.de/api/interpreter (OpenStreetMap features, Shaw Heights bounding box)",
@@ -161,7 +161,7 @@
    "https://data.epa.gov/efservice/WATER_SYSTEM/PRIMACY_AGENCY_CODE/CO/JSON (EPA SDWIS: NORTH WASHINGTON STREET WSD CO0101105; NORTH WASHINGTON WUA CO0101110)",
    "https://leg.colorado.gov/bills/sb24-005",
    "https://www.thorntonwater.com/hoa-rebates-and-free-services/ (Thornton's statement of SB24-005's effect on artificial turf for common areas)",
-   "https://cwcb.colorado.gov/turf-replacement-program",
+   "https://cwcb.colorado.gov/turf",
    "https://www.denverwater.org/residential/rebates-and-conservation-tips/remodel-your-yard/turfgrass-removal",
    "https://www.crestviewwatercolorado.gov/summer-watering-rules (comparable purchased-Denver-Water rule set)",
    "https://codes.findlaw.com/co/title-38-property-real-and-personal/co-rev-st-sect-38-33-3-106-5.html",
@@ -201,7 +201,7 @@
    "https://www.crestviewwatercolorado.gov/residential-rebates",
    "https://www.crestviewwatercolorado.gov/boundary-map",
    "https://www.denverwater.org/residential/rebates-and-conservation-tips/remodel-your-yard/turfgrass-removal",
-   "https://cwcb.colorado.gov/turf-replacement-program",
+   "https://cwcb.colorado.gov/turf",
    "https://leg.colorado.gov/bills/sb24-005",
    "https://codes.findlaw.com/co/title-38-property-real-and-personal/co-rev-st-sect-38-33-3-106-5.html",
    "https://educationdata.urban.org/api/v1/schools/ccd/directory/2022/?fips=8 (NCES CCD school directory)",
@@ -275,7 +275,7 @@
    "https://www.highlandsranchwater.org/ — provider identity, Stage 1, rebates and ColoradoScape (checked 2026-09-07)",
    "https://resourcecentral.org/lawn/ — Highlands Ranch Water is a partner; 200 sq ft minimum, 50% waterwise plants, HOA compliance required, 2026 full (checked 2026-09-07)",
    "https://leg.colorado.gov/bills/sb24-005 — common interest community property prohibition from 1 Jan 2026, athletic fields exempt (checked 2026-09-07)",
-   "https://coloradogeologicalsurvey.org/water/expansive-soil/ — Douglas County Dipping Bedrock Overlay Districts, 20% expansion, 30,000 psf (checked 2026-09-07)",
+   "https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/ — Douglas County Dipping Bedrock Overlay Districts, 20% expansion, 30,000 psf (checked 2026-09-07)",
    "https://en.wikipedia.org/wiki/Douglas_County,_Colorado — highest median household income of any Colorado county, 7th nationally (checked 2026-09-07)",
    "https://en.wikipedia.org/wiki/Highlands_Ranch_Mansion — full ownership history, 2010 conveyance, $6M renovation, June 2012 re-opening (checked 2026-09-07)",
    "https://en.wikipedia.org/wiki/Lone_Tree,_Colorado — Lone Tree Golf Club & Hotel, Arnold Palmer par-72, South Suburban-managed, borders Highlands Ranch to the west (checked 2026-09-07)",
@@ -342,13 +342,13 @@
    "https://www.erieco.gov/1058/Water-Sources",
    "https://www.erieco.gov/1991/Drought-Information",
    "https://www.erieco.gov/2625/Seasonal-Watering",
-   "https://www.erieco.gov/1519/Parks-Recreation",
+   "https://www.erieco.gov/2342/Parks-Recreation",
    "https://www.erieco.gov/235/About-Erie",
    "https://www.svvsd.org/schools/",
    "https://www.coloradonationalgolfclub.com/",
    "https://leg.colorado.gov/bills/sb23-178",
    "https://leg.colorado.gov/bills/sb24-005",
-   "https://coloradogeologicalsurvey.org/hazards/subsidence/coal-mine-subsidence/",
+   "https://coloradogeologicalsurvey.org/publications/coal-mine-subsidence-land-use-boulder-weld-colorado/",
    "https://en.wikipedia.org/wiki/Laramie_Formation"
   ]
  },
@@ -457,8 +457,8 @@
    "https://api.censusreporter.org/1.0/data/show/latest?table_ids=B25024,B25003&geo_ids=160|05000US08035",
    "https://leg.colorado.gov/bills/sb23-178",
    "https://leg.colorado.gov/bills/sb24-005",
-   "https://coloradogeologicalsurvey.org/hazards/expansive-soil/",
-   "https://coloradogeologicalsurvey.org/hazards/heaving-bedrock/"
+   "https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/",
+   "https://coloradogeologicalsurvey.org/publications/heaving-bedrock-hazards-douglas-colorado/"
   ]
  },
  {
@@ -494,8 +494,8 @@
    "https://api.censusreporter.org/1.0/data/show/latest?table_ids=B25024,B25003&geo_ids=160|05000US08035",
    "https://leg.colorado.gov/bills/sb23-178",
    "https://leg.colorado.gov/bills/sb24-005",
-   "https://coloradogeologicalsurvey.org/hazards/expansive-soil/",
-   "https://coloradogeologicalsurvey.org/hazards/heaving-bedrock/",
+   "https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/",
+   "https://coloradogeologicalsurvey.org/publications/heaving-bedrock-hazards-douglas-colorado/",
    "https://www.campbowwow.com/locations/colorado/"
   ]
  },
@@ -524,7 +524,7 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Sterling_Ranch,_Colorado",
    "https://sterlingranch.com/",
-   "https://sterlingranch.com/sustainability/",
+   "https://sterlingranch.com/our-story/sustainability/",
    "https://sterlingranch.com/education/",
    "https://sterlingranchcab.com/",
    "https://sterlingranchcab.com/198/Architectural-Community-Standards",
@@ -533,7 +533,7 @@
    "https://arcisgolf.com/clubs/arrowhead-golf-club/home",
    "https://www.dcsdk12.org/schools",
    "https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/",
-   "https://cwcb.colorado.gov/turf-replacement-program",
+   "https://cwcb.colorado.gov/turf",
    "https://leg.colorado.gov/bills/sb24-005"
   ]
  },
@@ -567,7 +567,7 @@
    "https://leg.colorado.gov/bills/sb23-178",
    "https://leg.colorado.gov/bills/sb24-005",
    "https://en.wikipedia.org/wiki/Marshall_Fire",
-   "https://coloradogeologicalsurvey.org/hazards/subsidence/coal-mine-subsidence/",
+   "https://coloradogeologicalsurvey.org/publications/coal-mine-subsidence-land-use-boulder-weld-colorado/",
    "https://en.wikipedia.org/wiki/Laramie_Formation",
    "https://www.coalcreekgolf.com/",
    "https://www.bvsd.org/schools",
@@ -609,7 +609,7 @@
    "https://www.denverwater.org/drought",
    "https://www.denverwater.org/",
    "https://leg.colorado.gov/bills/sb23-178",
-   "https://coloradogeologicalsurvey.org/geologic-hazards/expansive-soil-rock/",
+   "https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/",
    "https://soilseries.sc.egov.usda.gov/OSD_Docs/E/ENGLEWOOD.html",
    "https://r.jina.ai/https://library.municode.com/co/cherry_hills_village/codes/municipal_code"
   ]
@@ -649,7 +649,7 @@
    "https://en.wikipedia.org/wiki/BMW_Championship_(PGA_Tour)",
    "https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/",
    "https://leg.colorado.gov/bills/sb24-005",
-   "https://cwcb.colorado.gov/turf-replacement-program",
+   "https://cwcb.colorado.gov/turf",
    "https://www.dcsdk12.org/schools"
   ]
  },
@@ -712,13 +712,13 @@
    "https://en.wikipedia.org/wiki/Columbine,_Colorado",
    "https://en.wikipedia.org/wiki/Columbine_Valley,_Colorado",
    "https://swmetrowsdco.gov/",
-   "https://swmetrowsdco.gov/district-information",
-   "https://swmetrowsdco.gov/hoa-outreach",
+   "https://www.swmetrowsdco.gov/district-information",
+   "https://www.swmetrowsdco.gov/hoa-outreach",
    "https://www.denverwater.org/about-us/how-we-operate/service-area/distributors",
    "https://www.denverwater.org/residential/rebates-and-conservation-tips/summer-watering-rules",
    "https://www.denverwater.org/residential/rebates-and-conservation-tips/remodel-your-yard",
    "https://www.denverwater.org/residential/rebates-and-conservation-tips/remodel-your-yard/turfgrass-removal",
-   "https://cwcb.colorado.gov/turf-replacement-program",
+   "https://cwcb.colorado.gov/turf",
    "https://leg.colorado.gov/bills/sb24-005",
    "https://sdmdataaccess.sc.egov.usda.gov/ (SSURGO mukey 497477, Denver-Urban land complex 0-2% slopes, queried 2026-09-07)",
    "https://censusreporter.org/profiles/16000US0816110-columbine-co/ (ACS 2020-2024 5-year)",
@@ -758,9 +758,9 @@
    "https://www.denverwater.org/drought",
    "https://www.denverwater.org/",
    "https://www.denverwater.org/residential/rebates-and-conservation-tips",
-   "https://willowswater.org/",
+   "https://www.willowswater.org/",
    "https://leg.colorado.gov/bills/sb23-178",
-   "https://coloradogeologicalsurvey.org/geologic-hazards/expansive-soil-rock/",
+   "https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/",
    "https://soilseries.sc.egov.usda.gov/OSD_Docs/E/ENGLEWOOD.html",
    "https://en.wikipedia.org/wiki/Denver_Technological_Center",
    "https://ssprd.org/about/",
@@ -802,8 +802,8 @@
    "https://api.censusreporter.org/1.0/data/show/latest?table_ids=B25024,B25003&geo_ids=160|05000US08035",
    "https://leg.colorado.gov/bills/sb23-178",
    "https://leg.colorado.gov/bills/sb24-005",
-   "https://coloradogeologicalsurvey.org/hazards/expansive-soil/",
-   "https://coloradogeologicalsurvey.org/hazards/heaving-bedrock/",
+   "https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/",
+   "https://coloradogeologicalsurvey.org/publications/heaving-bedrock-hazards-douglas-colorado/",
    "https://www.campbowwow.com/locations/colorado/"
   ]
  },
@@ -874,7 +874,7 @@
    "https://columbinevalley.org/public-works-2/",
    "https://columbinevalley.org/building-department/",
    "https://columbinevalley.org/muncipal-code/",
-   "https://www.columbinevalley.org/136/Public-Works",
+   "https://columbinevalley.org/public-works/",
    "https://www.columbinevalley.org/",
    "https://en.wikipedia.org/wiki/Columbine_Country_Club",
    "https://api.censusreporter.org/1.0/data/show/latest?table_ids=B19013,B25003,B25077,B25034,B25024,B01003,B03002,B19301&geo_ids=16000US0816385",
@@ -882,7 +882,7 @@
    "https://www.denverwater.org/drought",
    "https://www.denverwater.org/",
    "https://leg.colorado.gov/bills/sb23-178",
-   "https://coloradogeologicalsurvey.org/geologic-hazards/expansive-soil-rock/",
+   "https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/",
    "https://soilseries.sc.egov.usda.gov/OSD_Docs/E/ENGLEWOOD.html",
    "https://r.jina.ai/https://library.municode.com/co/columbine_valley/codes/code_of_ordinances"
   ]
@@ -912,10 +912,10 @@
   "sources": [
    "https://en.wikipedia.org/wiki/West_Pleasant_View,_Colorado",
    "https://en.wikipedia.org/wiki/Applewood,_Colorado",
-   "https://cmwc.net/",
-   "https://cmwc.net/service-area-map/",
+   "https://www.cmwc.net/",
+   "https://www.cmwc.net/about-us/service-area-map/",
    "https://www.prospectdistrict.org/",
-   "https://www.fossiltrace.com/",
+   "https://fossiltrace.com/",
    "https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/",
    "https://leg.colorado.gov/bills/hb21-1229",
    "https://leg.colorado.gov/bills/sb24-005",
@@ -944,8 +944,8 @@
   "caveat_fields": [],
   "sources": [
    "https://en.wikipedia.org/wiki/Foxfield,_Colorado",
-   "https://townoffoxfield.colorado.gov/residents/utilities/water-and-septic",
-   "https://townoffoxfield.colorado.gov/government/land-use-and-master-plan",
+   "https://townoffoxfield.colorado.gov/utilities/water-and-septic",
+   "https://townoffoxfield.colorado.gov/land-use-and-master-plan",
    "https://townoffoxfield.colorado.gov/",
    "http://foxfield-co.elaws.us/code/mc_ch16_art2_sec16-2-50 (Large Lot Rural Residential District — dimensional requirements, accessory uses)",
    "http://foxfield-co.elaws.us/code/mc_ch16_art4_sec16-4-20 (keeping and raising of animals)",
@@ -997,7 +997,7 @@
    "https://leg.colorado.gov/bills/hb21-1229",
    "https://leg.colorado.gov/bills/sb24-005",
    "https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/",
-   "https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/heaving-bedrock/",
+   "https://coloradogeologicalsurvey.org/publications/heaving-bedrock-hazards-douglas-colorado/",
    "https://en.wikipedia.org/wiki/Dakota_Hogback",
    "https://www.ifoothills.org/",
    "https://www.raccooncreek.com/"
@@ -1064,8 +1064,8 @@
    "https://www.cityofgolden.gov/services/water_service.php",
    "https://www.cityofgolden.gov/community/parks_trails/index.php",
    "https://www.cityofgolden.gov/business/land_use_development/zoning_criteria_guide.php",
-   "https://www.fossiltrace.com/",
-   "https://www.applewoodgc.com/",
+   "https://fossiltrace.com/",
+   "https://applewoodgc.com/",
    "https://www.jeffcopublicschools.org/schools/high",
    "https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/",
    "https://codes.findlaw.com/co/title-38-property-real-and-personal/co-rev-st-sect-38-33-3-106-5.html",
@@ -1134,8 +1134,8 @@
    "https://api.censusreporter.org/1.0/data/show/latest?table_ids=B25024,B25003&geo_ids=160|05000US08035",
    "https://leg.colorado.gov/bills/sb23-178",
    "https://leg.colorado.gov/bills/sb24-005",
-   "https://coloradogeologicalsurvey.org/hazards/expansive-soil/",
-   "https://coloradogeologicalsurvey.org/hazards/heaving-bedrock/",
+   "https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/",
+   "https://coloradogeologicalsurvey.org/publications/heaving-bedrock-hazards-douglas-colorado/",
    "https://www.pwsd.org/3366/Watering-Restrictions"
   ]
  },
@@ -1169,7 +1169,7 @@
    "https://www.denverwater.org/residential/rebates-and-conservation-tips/summer-watering-rules",
    "https://www.denverwater.org/residential/rebates-and-conservation-tips/remodel-your-yard",
    "https://www.denverwater.org/residential/rebates-and-conservation-tips/remodel-your-yard/turfgrass-removal",
-   "https://cwcb.colorado.gov/turf-replacement-program",
+   "https://cwcb.colorado.gov/turf",
    "https://leg.colorado.gov/bills/sb24-005",
    "https://sdmdataaccess.sc.egov.usda.gov/ (SSURGO mukey 94147, Renohill-Buick loams 3-9% slopes, queried 2026-09-07)",
    "https://data.epa.gov/efservice/WATER_SYSTEM/STATE_CODE/CO/JSON (SDWIS: CO0103176 Cherry Creek Village WD; CO0103721 Southgate WSD; CO0103100 Willows WD)",
@@ -1245,7 +1245,7 @@
    "https://en.wikipedia.org/wiki/Cherry_Hills_Country_Club — championship record (checked 2026-09-07)",
    "https://en.wikipedia.org/wiki/Cherry_Hills_Village,_Colorado (checked 2026-09-07)",
    "https://leg.colorado.gov/bills/sb24-005 (checked 2026-09-07)",
-   "https://coloradogeologicalsurvey.org/water/expansive-soil/ (checked 2026-09-07)"
+   "https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/ (checked 2026-09-07)"
   ]
  },
  {
@@ -1280,7 +1280,7 @@
    "https://www.denverwater.org/residential/rebates-and-conservation-tips/summer-watering-rules",
    "https://www.denverwater.org/residential/rebates-and-conservation-tips/remodel-your-yard",
    "https://www.denverwater.org/residential/rebates-and-conservation-tips/remodel-your-yard/turfgrass-removal",
-   "https://cwcb.colorado.gov/turf-replacement-program",
+   "https://cwcb.colorado.gov/turf",
    "https://leg.colorado.gov/bills/sb24-005",
    "https://sdmdataaccess.sc.egov.usda.gov/ (SSURGO mukey 94147, Renohill-Buick loams 3-9% slopes, queried 2026-09-07)",
    "https://censusreporter.org/profiles/16000US0808070-bow-mar-co/ (ACS 2020-2024 5-year)",
@@ -1434,8 +1434,8 @@
    "https://www.parkerco.gov/",
    "https://leg.colorado.gov/bills/sb23-178",
    "https://leg.colorado.gov/bills/sb24-005",
-   "https://coloradogeologicalsurvey.org/hazards/expansive-soil/",
-   "https://coloradogeologicalsurvey.org/hazards/heaving-bedrock/",
+   "https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/",
+   "https://coloradogeologicalsurvey.org/publications/heaving-bedrock-hazards-douglas-colorado/",
    "https://www.campbowwow.com/locations/colorado/"
   ]
  },
@@ -1500,11 +1500,11 @@
   ],
   "sources": [
    "https://en.wikipedia.org/wiki/Applewood,_Colorado",
-   "https://www.applewoodgc.com/",
+   "https://applewoodgc.com/",
    "https://www.prospectdistrict.org/",
-   "https://cmwc.net/",
-   "https://cmwc.net/service-area-map/",
-   "https://www.fossiltrace.com/",
+   "https://www.cmwc.net/",
+   "https://www.cmwc.net/about-us/service-area-map/",
+   "https://fossiltrace.com/",
    "https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/",
    "https://leg.colorado.gov/bills/hb21-1229",
    "https://leg.colorado.gov/bills/sb24-005",
@@ -1580,8 +1580,8 @@
    "https://leg.colorado.gov/bills/hb22-1151",
    "https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/",
    "https://en.wikipedia.org/wiki/Colorado_Mills",
-   "https://www.applewoodgc.com/",
-   "https://www.fossiltrace.com/",
+   "https://applewoodgc.com/",
+   "https://fossiltrace.com/",
    "https://www.jeffco.us/1332/Wildfire"
   ]
  },
@@ -1617,7 +1617,7 @@
    "https://ssprd.org/about/",
    "https://www.denverwater.org/drought",
    "https://www.denverwater.org/",
-   "https://coloradogeologicalsurvey.org/geologic-hazards/expansive-soil-rock/",
+   "https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/",
    "https://soilseries.sc.egov.usda.gov/OSD_Docs/E/ENGLEWOOD.html",
    "https://leg.colorado.gov/bills/sb23-178"
   ]
@@ -1646,12 +1646,12 @@
   ],
   "sources": [
    "https://en.wikipedia.org/wiki/Fairmount,_Colorado",
-   "https://www.ntmwater.org/",
-   "https://www.ntmwater.org/restrictions-conservation/",
+   "https://ntmwater.org/",
+   "https://ntmwater.org/restrictions-conservation/",
    "https://www.prospectdistrict.org/",
    "https://www.denverwater.org/residential/rebates-and-conservation-tips/summer-watering-rules",
-   "https://www.fossiltrace.com/",
-   "https://www.applewoodgc.com/",
+   "https://fossiltrace.com/",
+   "https://applewoodgc.com/",
    "https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/",
    "https://leg.colorado.gov/bills/hb21-1229",
    "https://leg.colorado.gov/bills/sb24-005"
@@ -1761,8 +1761,8 @@
    "https://leg.colorado.gov/bills/hb22-1151",
    "https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/",
    "https://edgewaterpublicmarket.com/",
-   "https://www.fossiltrace.com/",
-   "https://www.applewoodgc.com/",
+   "https://fossiltrace.com/",
+   "https://applewoodgc.com/",
    "https://www2.census.gov/geo/docs/reference/codes2020/place/st08_co_place2020.txt"
   ]
  },
@@ -1793,7 +1793,7 @@
    "https://www.cmwc.net/",
    "https://www.denverwater.org/residential/rebates-and-conservation-tips/summer-watering-rules",
    "https://www.rootedinfun.com/",
-   "https://www.applewoodgc.com/",
+   "https://applewoodgc.com/",
    "https://www.jeffcopublicschools.org/schools/high",
    "https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/",
    "https://codes.findlaw.com/co/title-38-property-real-and-personal/co-rev-st-sect-38-33-3-106-5.html",
@@ -1822,12 +1822,12 @@
   "caveat_fields": [],
   "sources": [
    "https://en.wikipedia.org/wiki/Arvada,_Colorado",
-   "https://arvadaco.gov/drought",
+   "https://www.arvadaco.gov/1499/Water-Restrictions",
    "https://arvadaco.gov/",
    "https://www.westwoodsgolf.com/",
    "https://www.apexprd.org/",
    "https://oldetownarvada.org/",
-   "https://candelaslife.com/",
+   "https://www.candelaslife.com/",
    "https://www.jeffcopublicschools.org/schools/high",
    "https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/",
    "https://codes.findlaw.com/co/title-38-property-real-and-personal/co-rev-st-sect-38-33-3-106-5.html",
@@ -1965,10 +1965,10 @@
    "https://datausa.io/profile/geo/meridian-co",
    "https://www.meridiandistrict.com/",
    "https://www.meridiandistrict.com/summer-watering-guide",
-   "https://www.meridiandistrict.com/design-control-committee",
+   "https://accdcc.com/meridian-dcc",
    "https://www.meridiandistrict.com/faqs",
    "https://leg.colorado.gov/bills/sb24-005",
-   "https://cwcb.colorado.gov/turf-replacement-program",
+   "https://cwcb.colorado.gov/turf",
    "https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/"
   ]
  },
@@ -2003,7 +2003,7 @@
    "https://cottonwoodwater.org/",
    "https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/",
    "https://leg.colorado.gov/bills/sb24-005",
-   "https://cwcb.colorado.gov/turf-replacement-program",
+   "https://cwcb.colorado.gov/turf",
    "https://www.dcsdk12.org/schools"
   ]
  },
@@ -2072,7 +2072,7 @@
    "https://www.ifoothills.org/",
    "https://www.raccooncreek.com/",
    "https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/",
-   "https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/heaving-bedrock/",
+   "https://coloradogeologicalsurvey.org/publications/heaving-bedrock-hazards-douglas-colorado/",
    "https://leg.colorado.gov/bills/hb21-1229",
    "https://leg.colorado.gov/bills/sb24-005"
   ]
@@ -2175,7 +2175,7 @@
    "https://arcisgolf.com/clubs/arrowhead-golf-club/home",
    "https://www.ravennagolf.com/",
    "https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/",
-   "https://cwcb.colorado.gov/turf-replacement-program",
+   "https://cwcb.colorado.gov/turf",
    "https://leg.colorado.gov/bills/sb24-005",
    "https://www.dcsdk12.org/schools"
   ]
@@ -2205,12 +2205,12 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Inverness,_Colorado (checked 2026-09-07)",
    "https://censusreporter.org/profiles/16000US0838910/ — ACS 2024 5-year (checked 2026-09-07)",
-   "https://www.invernesswater.org/ — Inverness Water and Sanitation District, service area, no published restrictions or rebates (checked 2026-09-07)",
+   "https://invernesswater.org/ — Inverness Water and Sanitation District, service area, no published restrictions or rebates (checked 2026-09-07)",
    "https://en.wikipedia.org/wiki/Arrow_Electronics — HQ at 9151 E Panorama Circle, $30.9B revenue, 22,230 employees, 2025 (checked 2026-09-07)",
    "https://leg.colorado.gov/bills/sb24-005 — commercial/institutional/common-interest prohibition from 1 Jan 2026 (checked 2026-09-07)",
    "https://golf.ssprd.org/ and https://en.wikipedia.org/wiki/Lone_Tree,_Colorado — nearby South Suburban golf (checked 2026-09-07)",
    "https://resourcecentral.org/lawn/ — 50% waterwise plants requirement (checked 2026-09-07)",
-   "https://coloradogeologicalsurvey.org/water/expansive-soil/ (checked 2026-09-07)"
+   "https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/ (checked 2026-09-07)"
   ]
  },
  {
@@ -2247,7 +2247,7 @@
    "https://www.denverwater.org/drought",
    "https://www.denverwater.org/",
    "https://www.denverwater.org/residential/rebates-and-conservation-tips",
-   "https://coloradogeologicalsurvey.org/geologic-hazards/expansive-soil-rock/",
+   "https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/",
    "https://soilseries.sc.egov.usda.gov/OSD_Docs/E/ENGLEWOOD.html",
    "https://leg.colorado.gov/bills/sb23-178"
   ]
@@ -2286,8 +2286,8 @@
    "https://www.denverwater.org/about-us/how-we-operate/service-area/distributors",
    "https://www.jeffco.us/1332/Wildfire",
    "https://geneseefoundation.org/wp-content/uploads/2024/07/ARC-Standards-_2024_Final-Draft.pdf",
-   "https://www.fossiltrace.com/",
-   "https://www.applewoodgc.com/"
+   "https://fossiltrace.com/",
+   "https://applewoodgc.com/"
   ]
  },
  {
@@ -2328,7 +2328,7 @@
    "https://redrocks.jeffcopublicschools.org/",
    "https://bearcreek.jeffcopublicschools.org/",
    "https://leg.colorado.gov/bills/sb24-005",
-   "https://cmwc.net/",
+   "https://www.cmwc.net/",
    "https://coloradogeologicalsurvey.org/hazards/swelling-soil/"
   ]
  },
@@ -2363,7 +2363,7 @@
    "https://golf.ssprd.org/ — Family Sports Golf Course, two-tiered heated and lighted driving range near Centennial Airport (checked 2026-09-07)",
    "https://acwwa.com/ and https://acwwa.com/2162/Conservation-Tips — ACWWA advisory guidance only (checked 2026-09-07)",
    "https://resourcecentral.org/lawn/ — 200 sq ft minimum, 50% waterwise plants, 2026 program full (checked 2026-09-07)",
-   "https://coloradogeologicalsurvey.org/water/expansive-soil/ — Front Range expansive clay behaviour (checked 2026-09-07)"
+   "https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/ — Front Range expansive clay behaviour (checked 2026-09-07)"
   ]
  },
  {
@@ -2394,7 +2394,7 @@
    "https://www.westminsterco.gov/1104/Golf",
    "https://www.westminsterco.gov/285/Standley-Lake-History",
    "https://www.westminsterco.gov/416/Indoor-Turf-Field-Rentals",
-   "https://www.westminsterco.gov/365/Neighborhood-Sustainability-Program",
+   "https://www.westminsterco.gov/365/Neighborhood-Sustainability-Programs",
    "https://butterflies.org/visit/",
    "https://en.wikipedia.org/wiki/Westminster,_Colorado",
    "https://leg.colorado.gov/bills/sb24-005"
@@ -2491,8 +2491,8 @@
    "https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/",
    "https://www.jeffco.us/1332/Wildfire",
    "https://www.evergreenrecreation.com/",
-   "https://www.fossiltrace.com/",
-   "https://www.applewoodgc.com/"
+   "https://fossiltrace.com/",
+   "https://applewoodgc.com/"
   ]
  },
  {
@@ -2555,7 +2555,7 @@
    "https://datausa.io/profile/geo/mountain-view-co",
    "https://www.denverwater.org/residential/rebates-and-conservation-tips/summer-watering-rules",
    "https://www.denverwater.org/",
-   "https://cmwc.net/",
+   "https://www.cmwc.net/",
    "https://cmwc.net/service-area/",
    "https://en.wikipedia.org/wiki/Lakeside,_Colorado",
    "https://en.wikipedia.org/wiki/Berkeley,_Denver",

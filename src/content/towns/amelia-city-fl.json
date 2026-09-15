@@ -67,7 +67,7 @@
       "takeaway": "The Phase III order allows one irrigation day a week, never between 8 a.m. and 6 p.m., and it covers private wells too. A turf lawn simply drops off that schedule.",
       "paras": [
         "Water Shortage Order 2026-017 put the district’s portion of Nassau County, the unincorporated south island included, under a Phase III Extreme Water Shortage. The district declared it on 13 May 2026 (<a href=\"https://www.sjrwmd.com/2026/05/district-declares-phase-iii-extreme-water-shortage/\" target=\"_blank\" rel=\"nofollow noopener\">SJRWMD</a>) and <a href=\"https://www.sjrwmd.com/2026/09/one-year-of-below-average-rainfall-continues-to-impact-water-resources-across-portions-of-the-district/\" target=\"_blank\" rel=\"nofollow noopener\">said it was still in effect on 3 September 2026</a>: a single irrigation day each week, Saturday for an odd or no street number and Sunday for an even one, nothing between 8 a.m. and 6 p.m., and aesthetic water use banned (<a href=\"https://www.sjrwmd.com/wateringrestrictions/\" target=\"_blank\" rel=\"nofollow noopener\">SJRWMD watering restrictions</a>).",
-        "If you're on the public system out here it's Nassau Amelia, largely south of A1A, which moved from Nassau County to the Florida Governmental Utility Authority on 18 September 2025, so the bill comes from FGUA and not the City of Fernandina Beach utility (<a href=\"https://www.fgua.com/about-us/systems/\" target=\"_blank\" rel=\"nofollow noopener\">FGUA</a>). FGUA publishes no schedule of its own and sends customers to the water management district and the county instead (<a href=\"https://www.fgua.com/customer-service/water-restrictions/\" target=\"_blank\" rel=\"nofollow noopener\">FGUA water restrictions</a>). Some south-end parcels are on wells instead, and the restrictions cover private wells and pumps as well as utility water (<a href=\"https://www.sjrwmd.com/wateringrestrictions/\" target=\"_blank\" rel=\"nofollow noopener\">SJRWMD watering restrictions</a>), so check what your address actually runs on.",
+        "If you're on the public system out here it's Nassau Amelia, largely south of A1A, which moved from Nassau County to the Florida Governmental Utility Authority on 18 September 2025, so the bill comes from FGUA and not the City of Fernandina Beach utility (<a href=\"https://www.fgua.com/about-us/systems/\" target=\"_blank\" rel=\"nofollow noopener\">FGUA</a>). FGUA publishes no schedule of its own and sends customers to the water management district and the county instead (<a href=\"https://www.fgua.com/community/water-restrictions/\" target=\"_blank\" rel=\"nofollow noopener\">FGUA water restrictions</a>). Some south-end parcels are on wells instead, and the restrictions cover private wells and pumps as well as utility water (<a href=\"https://www.sjrwmd.com/wateringrestrictions/\" target=\"_blank\" rel=\"nofollow noopener\">SJRWMD watering restrictions</a>), so check what your address actually runs on.",
         "Outside a shortage, the district allows twice-weekly watering in daylight saving time and once-weekly in winter (<a href=\"https://www.sjrwmd.com/wateringrestrictions/\" target=\"_blank\" rel=\"nofollow noopener\">SJRWMD</a>). No rebate for artificial turf is on offer from the water management district. Turf simply drops off the watering schedule."
       ]
     }
@@ -97,7 +97,7 @@
     },
     {
       "q": "Who supplies the water here?",
-      "a": "On the public system it's Nassau Amelia, largely south of A1A, run by the Florida Governmental Utility Authority since 18 September 2025 rather than by the county (<a href=\"https://www.fgua.com/about-us/systems/\" target=\"_blank\" rel=\"nofollow noopener\">FGUA</a>). FGUA sets no irrigation days itself and sends customers to the water management district and the county (<a href=\"https://www.fgua.com/customer-service/water-restrictions/\" target=\"_blank\" rel=\"nofollow noopener\">FGUA water restrictions</a>). Some parcels out here are on wells instead, so read your own bill before you assume either way."
+      "a": "On the public system it's Nassau Amelia, largely south of A1A, run by the Florida Governmental Utility Authority since 18 September 2025 rather than by the county (<a href=\"https://www.fgua.com/about-us/systems/\" target=\"_blank\" rel=\"nofollow noopener\">FGUA</a>). FGUA sets no irrigation days itself and sends customers to the water management district and the county (<a href=\"https://www.fgua.com/community/water-restrictions/\" target=\"_blank\" rel=\"nofollow noopener\">FGUA water restrictions</a>). Some parcels out here are on wells instead, so read your own bill before you assume either way."
     }
   ],
   "nearby": [
@@ -156,7 +156,7 @@
     },
     {
       "label": "Florida Governmental Utility Authority: water restrictions",
-      "url": "https://www.fgua.com/customer-service/water-restrictions/"
+      "url": "https://www.fgua.com/community/water-restrictions/"
     }
   ],
   "checked": "2026-09-12",

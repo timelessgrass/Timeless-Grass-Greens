@@ -1,7 +1,7 @@
 ---
 status: published
 title: Head Start's Playground Equipment Rule | TIMELESS Grass & Greens
-description: 'Head Start centers add one federal layer on top of state licensing: tested play equipment and materials, plus an ongoing maintenance system, under 45 CFR 1302.47.'
+description: "Head Start centers add a federal layer on top of state licensing: tested play equipment and materials, plus ongoing maintenance, under 45 CFR 1302.47."
 h1: Head Start's federal playground rule sits on top of state daycare licensing
 topic: Local rules
 published: '2026-09-14'
