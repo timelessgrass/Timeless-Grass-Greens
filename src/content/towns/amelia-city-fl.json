@@ -6,8 +6,8 @@
   "county": "Nassau",
   "title": "Artificial Turf in Amelia City, FL | TIMELESS Grass & Greens",
   "description": "Lawns and putting greens for Amelia City properties. Plan a lawn, pet area or practice green around the wooded setting of the south island.",
-  "h1": "Lawns and putting greens for Amelia City properties.",
-  "lede": "Plan a lawn, pet area or practice green around the wooded setting of the south island. Start with a free visit and written installation estimate.",
+  "h1": "Artificial turf in Amelia City, FL, around trees that need a permit to remove.",
+  "lede": "Keep the wooded lot and add a lawn, pet area or putting green in the clearing. Nassau County's rules apply here, not Fernandina Beach's. Free visit and written estimate.",
   "wins": [
     "Keep trees and existing paths in view",
     "Choose a useful lawn or practice area",
@@ -15,13 +15,14 @@
   ],
   "answer": {
     "question": "What should an Amelia City turf project consider first?",
-    "answer": "Choose the usable part of the yard and identify trees, drainage features and any waterfront restrictions. Amelia City is unincorporated Nassau County, so confirm the applicable county and community requirements for the address before finalizing the layout."
+    "answer": "The trees. Any healthy tree 5 inches across or more is protected, and each kept tree gets a protection zone around its trunk. Mark them, plus wet spots and any dune or community limits, before the layout."
   },
   "blocks": [
     {
       "icon": "flag",
       "kicker": "A wooded island yard",
       "h2": "Fit the green into a clearing you can reach.",
+      "takeaway": "Fit the green into a clearing that keeps the wooded lot intact, with room to walk around it. Mark tree canopy and roots first, and keep leaves in the care plan.",
       "paras": [
         "A putting green can leave the rest of a wooded lot intact. Choose the putts you want, the route from the house and room to walk around the surface. A lawn or pet area closer to the door can remain separate.",
         "Mark tree canopy and roots before discussing preparation. Keep leaves and other debris in the care plan, and establish any required tree advice before proposing work beneath the canopy."
@@ -31,6 +32,7 @@
       "icon": "drop",
       "kicker": "Marsh or beach side",
       "h2": "Let the actual property set the boundary.",
+      "takeaway": "On a river-facing lot, bring shoreline and drainage details and show where water collects, since new turf alone won't fix a wet yard. Near the beach, check dune restrictions before setting the layout.",
       "paras": [
         "On an Amelia River-facing lot, bring known shoreline and drainage information and show where water collects. Near the beach, identify any coastal or dune restrictions before placing the work area. A surface replacement alone will not resolve a wet-yard problem.",
         "Use Nassau County requirements for an unincorporated parcel, plus the current rules of any private community. Do not assume Fernandina Beach’s historic review applies to the entire island or that a south-island address has no review at all."
@@ -40,6 +42,7 @@
       "icon": "file",
       "kicker": "Whose rules",
       "h2": "County rules here, not the city's design review.",
+      "takeaway": "Fernandina Beach's historic review doesn't reach Amelia City; Nassau County's code and building department do. In a private community, the board has a say on turf color, height and edging.",
       "paras": [
         "Amelia City is an unincorporated community on the south half of Amelia Island, so the City of Fernandina Beach's Land Development Code and its Historic District Council, with its Certificate of Appropriateness process, don't apply (<a href=\"https://en.wikipedia.org/wiki/Amelia_City,_Florida\" target=\"_blank\" rel=\"nofollow noopener\">Amelia City</a>). Your turf job answers to Nassau County's development code and building department instead. That's a different path from the one a homeowner in the National Register district six miles north walks, not a lighter one: the county keeps a tree law written for this stretch of island alone.",
         "That doesn't mean nobody reviews the yard. Plenty of south-end addresses sit inside private communities, Summer Beach, Amelia Island Plantation and Amelia Surf & Racquet Club among them, whose boards have a say on the color, height and edging of any turf, and on the beach side, state coastal-construction and dune-protection limits apply. Florida's Florida-Friendly Landscaping law won't override any of it, since it doesn't clearly protect synthetic turf (<a href=\"/guides/florida-friendly-landscaping-and-hoas/\">our guide to Florida-Friendly law and HOAs</a>)."
@@ -49,6 +52,7 @@
       "icon": "ruler",
       "kicker": "Tree protection zones",
       "h2": "The oaks set the edge of the base.",
+      "takeaway": "Removing a healthy tree 5 inches or more across usually takes a county permit, and each kept tree gets a protection zone. Ask the county arborist whether a turf base can go inside one.",
       "paras": [
         "Amelia City has a tree law the mainland doesn’t. On 9 August 2021 Nassau County adopted Ordinance No. 2021-012, § 37.02 of the county code, to limit the loss of trees in the unincorporated areas of Amelia Island (<a href=\"https://www.nassaucountyfl.com/1273/Unincorporated-Amelia-Island-Tree-Ordina\" target=\"_blank\" rel=\"nofollow noopener\">Nassau County</a>). It went into effect on 7 February 2022 (<a href=\"https://www.nassaucountyfl.com/DocumentCenter/View/22775/Tree-Ordinance-Summary\" target=\"_blank\" rel=\"nofollow noopener\">ordinance summary</a>). Fernandina Beach runs its own rules, and Nassauville across the river sits outside it altogether.",
         "Two numbers shape a layout here. Under § 37.02 as codified through April 2026, a protected tree is any healthy tree measuring 5 inches or more in diameter at breast height that isn’t on the Florida Exotic Pest Plant Council’s Category I or II invasive list, and removing one takes a permit from the county planning department unless the code exempts it. A live oak of 40 inches or more, or a multi-trunk live oak of 60 inches combined, is a specimen tree. None of the code’s exemptions apply to those: removal goes to the Nassau County-Amelia Island Tree Commission at a public hearing, which weighs whether the tree is dead, fallen or compromised and likely to fail, whether keeping it removes all economically viable use of the property, or whether no feasible design would save it (<a href=\"https://library.municode.com/fl/nassau_county/codes/code_of_ordinances?nodeId=APXALADECO_ORDINANCE_NO._97-19NACOFL_ART37NAREPR_S37.02UNAMISTRPRRE\" target=\"_blank\" rel=\"nofollow noopener\">Nassau County Code § 37.02</a>).",
@@ -60,6 +64,7 @@
       "icon": "drop",
       "kicker": "Water",
       "h2": "One day a week, whatever the water source.",
+      "takeaway": "The Phase III order allows one irrigation day a week, never between 8 a.m. and 6 p.m., and it covers private wells too. A turf lawn simply drops off that schedule.",
       "paras": [
         "Water Shortage Order 2026-017 put the district’s portion of Nassau County, the unincorporated south island included, under a Phase III Extreme Water Shortage. The district declared it on 13 May 2026 (<a href=\"https://www.sjrwmd.com/2026/05/district-declares-phase-iii-extreme-water-shortage/\" target=\"_blank\" rel=\"nofollow noopener\">SJRWMD</a>) and <a href=\"https://www.sjrwmd.com/2026/09/one-year-of-below-average-rainfall-continues-to-impact-water-resources-across-portions-of-the-district/\" target=\"_blank\" rel=\"nofollow noopener\">said it was still in effect on 3 September 2026</a>: a single irrigation day each week, Saturday for an odd or no street number and Sunday for an even one, nothing between 8 a.m. and 6 p.m., and aesthetic water use banned (<a href=\"https://www.sjrwmd.com/wateringrestrictions/\" target=\"_blank\" rel=\"nofollow noopener\">SJRWMD watering restrictions</a>).",
         "If you're on the public system out here it's Nassau Amelia, largely south of A1A, which moved from Nassau County to the Florida Governmental Utility Authority on 18 September 2025, so the bill comes from FGUA and not the City of Fernandina Beach utility (<a href=\"https://www.fgua.com/about-us/systems/\" target=\"_blank\" rel=\"nofollow noopener\">FGUA</a>). FGUA publishes no schedule of its own and sends customers to the water management district and the county instead (<a href=\"https://www.fgua.com/customer-service/water-restrictions/\" target=\"_blank\" rel=\"nofollow noopener\">FGUA water restrictions</a>). Some south-end parcels are on wells instead, and the restrictions cover private wells and pumps as well as utility water (<a href=\"https://www.sjrwmd.com/wateringrestrictions/\" target=\"_blank\" rel=\"nofollow noopener\">SJRWMD watering restrictions</a>), so check what your address actually runs on.",

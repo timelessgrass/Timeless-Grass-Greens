@@ -6,8 +6,8 @@
   "county": "Arapahoe",
   "title": "Artificial Turf in Bow Mar, CO | TIMELESS Grass & Greens",
   "description": "A lawn or putting green for your Bow Mar property. Make room for outdoor use while keeping the trees, views and paths you value.",
-  "h1": "A lawn or putting green for your Bow Mar property.",
-  "lede": "Make room for outdoor use while keeping the trees, views and paths you value. Request a free visit to discuss the layout and installation price.",
+  "h1": "Artificial turf in Bow Mar, CO, for sloping acre lots near the lakes.",
+  "lede": "Make room for a lawn or green while keeping the trees, views and paths you value. We discuss the layout and price at a free visit.",
   "wins": [
     "Plan the green around useful putting lines",
     "Keep trees and surrounding landscape in view",
@@ -15,13 +15,14 @@
   ],
   "answer": {
     "question": "What should a Bow Mar turf layout take into account?",
-    "answer": "Include the intended turf use, existing trees, views and changes in grade. Ask the Town’s design review board and the relevant association which requirements apply before finalizing the layout. Bring their responses to the estimate, especially where preparation may alter drainage."
+    "answer": "Grade, trees and views. A grade change disturbing more than 4 cubic yards needs the Town's design board, as can landscaping that may affect a neighbor's view, so ask the board and your association before finalizing."
   },
   "blocks": [
     {
       "icon": "flag",
       "kicker": "Room to practice",
       "h2": "An open acre does not have to become one large lawn.",
+      "takeaway": "Choose which part of the acre becomes the green, pet area or lawn, and start with the putting distances you want. A well-placed green can leave most of the landscape intact.",
       "paras": [
         "Choose the part you want for a green, pet use or everyday lawn. For putting, start with the distances you want to practice and the route from the house. A well-placed green can leave most of the surrounding landscape intact."
       ]
@@ -30,6 +31,7 @@
       "icon": "drop",
       "kicker": "The setting matters",
       "h2": "Plan the grade and the view together.",
+      "takeaway": "On a slope toward the lakes, point out existing water routes and neighboring boundaries. Settle any drainage advice separately from choosing turf, and describe the digging, not just the surface, to the reviewers.",
       "paras": [
         "On a property sloping toward the lakes, point out existing water routes and neighboring boundaries. Changes in level belong in the preparation discussion, with any required drainage advice resolved separately from turf selection.",
         "Ask the Town’s design review board and your association what they require for the proposed work. Describe excavation and landscape changes as well as the visible surface. We can consider written conditions when discussing the layout; the estimate does not replace those reviews."
@@ -39,6 +41,7 @@
       "icon": "shield",
       "kicker": "The local rules",
       "h2": "In Bow Mar, the Town's design board sees the plan first.",
+      "takeaway": "A grade change disturbing more than 4 cubic yards needs design board approval. Sport courts must sit inside the building envelope, so ask in writing whether a putting green counts as one.",
       "paras": [
         "Bow Mar's design board, the DRB, was set up by Ordinance 323 in 2018, and its guidelines of 24 June 2019 cover most of what happens to a yard here. Landscaping needs DRB approval when it comes with a new home or a major remodel, when it may affect a neighbor's view, and when it substantially changes the landscaping already in place (<a href=\"https://www.townofbowmar.org/ordinances-and-policies\" target=\"_blank\" rel=\"nofollow noopener\">Town of Bow Mar</a>).",
         "Grade is the rule most likely to catch a turf job. Section XII of the guidelines sends any change of grade, landscape berms included, that disturbs more than 4 cubic yards of soil to the DRB. Leveling part of a sloping acre can pass that mark, so allow time for approval before the dig.",
@@ -49,6 +52,7 @@
       "icon": "drop",
       "kicker": "Water",
       "h2": "Your bill comes from the district. The watering rules come from Denver Water.",
+      "takeaway": "Your bill comes from the district, but Denver Water's rules set the schedule: two lawn days a week now, and no lawn watering after 30 September. Turf needs none of those days.",
       "paras": [
         "Bow Mar Water and Sanitation District serves 296 residences (<a href=\"https://www.townofbowmar.org/bow-mar-water-sanitation-district\" target=\"_blank\" rel=\"nofollow noopener\">Town of Bow Mar</a>). It buys Denver Water's supply through a master meter and bills you on its own rate schedule, which is why a waste report goes to the district and not to Denver Water (<a href=\"https://www.denverwater.org/about-us/how-we-operate/service-area/distributors\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>).",
         "Denver Water's supply conditions still set the schedule. It declared Stage 1 drought on 25 March 2026, running to 30 April 2027, with a target of cutting total use by 20%. Lawns get two assigned days a week, Sunday and Thursday for even addresses and Wednesday and Saturday for odd ones, and only before 10 a.m. or after 6 p.m. (<a href=\"https://www.denverwater.org/residential/rebates-and-conservation-tips/summer-watering-rules\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>).",
@@ -59,6 +63,7 @@
       "icon": "shovel",
       "kicker": "The ground",
       "h2": "Swelling clay on a slope that runs down to the lakes.",
+      "takeaway": "This ground swells when wet and sheds rain instead of soaking it up, sloping toward the lakes. We build the base for that clay and set the fall so rain runs away from the house.",
       "paras": [
         "USDA soil maps put Bow Mar on Renohill-Buick loams, 3 to 9 percent slopes. Renohill, about 65% of that ground, is a loam over a subsoil that runs 45% clay from 4 to 18 inches down. It rates high for shrink-swell and sits in hydrologic group D, the slowest class for taking in water, and Buick, most of the rest, is group C (<a href=\"https://sdmdataaccess.sc.egov.usda.gov/\" target=\"_blank\" rel=\"nofollow noopener\">USDA Soil Data Access</a>).",
         "Put together, that's ground that swells when it's wet, sheds rain instead of soaking it up, and falls toward the water. We prepare the site and build the base for this clay, and set the fall so rain leaves the pad and heads away from the house.",

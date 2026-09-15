@@ -7,8 +7,8 @@
   "county": "Brunswick",
   "title": "Artificial Turf in Ash, NC | TIMELESS Grass & Greens",
   "description": "Artificial turf, dog runs and putting greens near the branches that feed the Waccamaw in Ash, NC, planned around Brunswick County's stormwater rules.",
-  "h1": "Artificial turf in Ash, close to the branches that feed the Waccamaw.",
-  "lede": "Ash's crossroads sits among several unnamed branches that drain toward the Waccamaw River, and Brunswick County's stormwater rules turn on how close your dig comes to one of them. We measure, check the ground and look at where water runs, then you approve a layout before any soil moves.",
+  "h1": "Artificial turf in Ash, NC, planned around the 30-foot stream buffer.",
+  "lede": "Ash sits among branches that feed the Waccamaw, and county permits turn on your dig's depth and distance from a stream. Free visit, ground checked, written price.",
   "wins": [
     "See whether a branch near your lot sets a 30-foot buffer",
     "Find out if your dig needs a county stormwater permit",
@@ -16,13 +16,14 @@
   ],
   "answer": {
     "question": "Do I need a county permit for artificial turf in Ash, NC?",
-    "answer": "It depends on how deep you dig and how close the work comes to a stream. Ash is unincorporated, so Brunswick County's stormwater ordinance applies. A Stormwater Management Plan and county Stormwater Permit are required when filling or excavating changes the ground surface by four inches or more and changes how water drains, or when work disturbs land within 30 feet of a stream bank, unless the work is one the county's manual lists as exempt or allowed. Ask the county before you dig."
+    "answer": "It depends on your dig. Brunswick County can require a stormwater plan and permit when the ground changes by four inches or more, or when work disturbs land within 30 feet of a stream. Ask the county first."
   },
   "blocks": [
     {
       "icon": "drop",
       "kicker": "Close to the water",
       "h2": "The Ash crossroads sits among the branches that feed the Waccamaw.",
+      "takeaway": "Ash has no town office, so Brunswick County reviews the work. If a branch crosses or borders your lot, the 30-foot stream buffer reaches your yard, and we check it at the free visit.",
       "paras": [
         "Ash is a crossroads on NC 130, not a town of its own. A <a href=\"https://geocoding.geo.census.gov/geocoder/geographies/coordinates?x=-78.5878&y=34.0201&benchmark=Public_AR_Current&vintage=Current_Current&layers=all&format=json\" target=\"_blank\" rel=\"nofollow noopener\">Census Bureau geographic lookup</a> for the crossroads returns Waccamaw township, Brunswick County, with no incorporated place listed for the point — so there is no town council or town zoning office reviewing the work here. The county is.",
         "That location is also close to water. A <a href=\"https://hydro.nationalmap.gov/arcgis/rest/services/nhd/MapServer/6/query?geometry=-78.5878,34.0201&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&distance=1600&units=esriSRUnit_Meter&outFields=gnis_name,ftype,fcode&returnGeometry=false&f=json\" target=\"_blank\" rel=\"nofollow noopener\">federal hydrography check</a> around the crossroads turns up several unnamed intermittent branches, plus the Waccamaw River itself, within about a mile. If one of those branches crosses or borders your lot, Brunswick County's 30-foot stream buffer reaches your yard specifically, not just a riverfront parcel down the road.",
@@ -33,6 +34,7 @@
       "icon": "shovel",
       "kicker": "The four-inch trigger",
       "h2": "The depth of the dig, and whether it changes how water drains, decide the permit.",
+      "takeaway": "Changing the ground by four inches or more can trigger a county stormwater permit, though the ordinance also ties it to a drainage change. Ask the Stormwater Engineer which version applies.",
       "paras": [
         "Brunswick County's <a href=\"https://www.brunswickcountync.gov/DocumentCenter/View/7215\" target=\"_blank\" rel=\"nofollow noopener\">Stormwater Quality Management and Discharge Control Ordinance</a> covers every area within the county's planning jurisdiction, Ash included. Filling or excavating a parcel so the land surface changes by four inches or more, and the existing drainage pattern changes with it, needs a Stormwater Management Plan and a county Stormwater Permit. The only exception is fill or digging for a septic system the county health department requires, approves and inspects — a turf base is not that.",
         "The county's <a href=\"https://www.brunswickcountync.gov/248/Stormwater-Ordinance\" target=\"_blank\" rel=\"nofollow noopener\">Stormwater Ordinance page</a> puts it more simply: residential grading, filling or excavating that changes elevation by more than four inches needs a permit, without mentioning drainage. Ask the county's Stormwater Engineer which version applies to your plan. Work that trips neither version, and meets the county's drainage standards, needs no permit.",
@@ -43,6 +45,7 @@
       "icon": "ruler",
       "kicker": "The 30-foot line",
       "h2": "Keep the dig and the pet run 30 feet back from a stream bank.",
+      "takeaway": "Turf and grading aren’t on the county’s exempt list, so ask before work comes within 30 feet of a stream bank. A ditch on your land still has to keep draining.",
       "paras": [
         "The ordinance triggers the same plan and permit for any work that disturbs land within 30 feet of a stream or other natural waterway, \"except when such disturbance is designated as Exempt or Allowable in the Brunswick County Storm Water Management Manual.\" The manual's own list marks fences as exempt, provided disturbance is minimized and no forest vegetation is removed, and playground equipment on a single-family lot as exempt if it removes no vegetation. There is no row for turf, lawn or grading, so ask the county before any part of that work goes inside the 30 feet.",
         "A separate section of the ordinance backs that up with an undisturbed 30-foot riparian buffer on all sides of perennial and intermittent streams. Not every wet line on your lot counts: the ordinance treats a natural drainage way with 300 acres or less draining to it as an intermittent stream once it shows as a blue line on the USGS quadrangle map, and it exempts ditches and other manmade conveyances from the buffer. The county keeps a buffer map, and checking your parcel against it is your job as the property owner.",
@@ -53,6 +56,7 @@
       "icon": "layout",
       "kicker": "What's under the turf",
       "h2": "State law, not the county's old list, decides whether the base counts as impervious.",
+      "takeaway": "State law says turf built to drain through its backing, over a pervious surface, isn't built-upon area, but the county's older list doesn't say so. Put the base material and depth on your layout.",
       "paras": [
         "Brunswick County's ordinance names compacted earth, gravel, concrete and asphalt as impervious surface, and leaves a few things out of that count: a wood deck, a pool's water area, and number 57 stone laid at least four inches thick over geotextile fabric. Turf is never mentioned — the county wrote that list before 2024.",
         "North Carolina has since answered the question in statute for stormwater programs generally: artificial turf manufactured to drain through its backing, and installed to the manufacturer's specification over a pervious surface, is not built-upon area, and a local government can't enforce a stricter definition. Brunswick County's ordinance hasn't been updated to say so, which is why a desk review may still work from the old list. Our <a href=\"/guides/nc-vs-sc-built-upon-area/\">guide to built-upon area in North and South Carolina</a> covers that statute and where it stops.",
@@ -63,6 +67,7 @@
       "icon": "file",
       "kicker": "The county desks",
       "h2": "Two county offices, and a drought that changes the watering calendar, not your dig.",
+      "takeaway": "Start with county Planning to confirm your parcel sits outside every town's jurisdiction; stormwater questions go to the county Stormwater Engineer. Show us the well, septic tank and drainfield so the layout avoids them.",
       "paras": [
         "<a href=\"https://www.brunswickcountync.gov/planning/\" target=\"_blank\" rel=\"nofollow noopener\">Brunswick County Planning & Community Enforcement</a> handles zoning for unincorporated land that sits outside every town's planning jurisdiction — start there to confirm your parcel is one of them. The Engineering Department keeps the stormwater ordinance on file, and its Stormwater Administrator approves plans; the Stormwater Ordinance page lists the county Stormwater Engineer for questions. For a single house, the <a href=\"https://www.brunswickcountync.gov/DocumentCenter/View/7140\" target=\"_blank\" rel=\"nofollow noopener\">residential application, Form SW-002</a> goes in with Form SW-001, and asks for runoff before and after the work for the 1-, 10-, 25- and 100-year, 24-hour storms.",
         "The county also runs this same ordinance by agreement in Belville, Boiling Spring Lakes, Bolivia, St. James and Sunset Beach — not in Shallotte or Carolina Shores. If your parcel turns out to sit in one of those towns, start with our <a href=\"/grand-strand/shallotte-nc/\">Shallotte</a> or <a href=\"/grand-strand/carolina-shores-nc/\">Carolina Shores</a> page instead.",

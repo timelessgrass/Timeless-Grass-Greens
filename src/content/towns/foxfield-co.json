@@ -6,8 +6,8 @@
   "county": "Arapahoe",
   "title": "Artificial Turf in Foxfield, CO | TIMELESS Grass & Greens",
   "description": "A lawn, pet area or putting green on your Foxfield acreage. Choose a useful outdoor area near the house while keeping the rest of the property working.",
-  "h1": "A lawn, pet area or putting green on your Foxfield acreage.",
-  "lede": "Choose a useful outdoor area near the house while keeping the rest of the property working. Start with a free site visit and written estimate.",
+  "h1": "Artificial turf in Foxfield, CO, that needs neither the well nor a tap.",
+  "lede": "On a household-use well, a bluegrass lawn may not be allowed at all. Turf gives you a green yard around the leach field and paddocks, after a free site visit.",
   "wins": [
     "Keep wells, septic and access in the plan",
     "Separate a dog area from other animal use",
@@ -15,13 +15,14 @@
   ],
   "answer": {
     "question": "How should turf be planned around a Foxfield well and septic system?",
-    "answer": "Bring the recorded locations and any applicable requirements for those systems before placing the turf area. Obtain suitable guidance before proposing preparation over or near a septic component. Keep access available, and account for any cleaning water the chosen turf use will need."
+    "answer": "Around them, with the base kept off the leach field. Show us your well and septic records, and we find the field at the free visit before the layout is drawn."
   },
   "blocks": [
     {
       "icon": "paw",
       "kicker": "Around the house",
       "h2": "Give dogs a defined area beside the larger property.",
+      "takeaway": "Give dogs a defined area near the door, separate from drives, paddocks and any green, with cleanup access planned. Don't assume pet turf suits every animal or paddock.",
       "paras": [
         "A pet area near the door can be separate from drives, paddocks and a practice green. Plan the route your dogs use, cleanup access and the edge where turf meets the rest of the ground. Do not assume pet turf is intended for every animal or paddock use.",
         "For golf, use the available room for purposeful putts and a chipping position. Leave room for routine property access rather than spreading the green across a route you still need."
@@ -31,6 +32,7 @@
       "icon": "shield",
       "kicker": "Before the boundary is final",
       "h2": "Locate the systems beneath the land.",
+      "takeaway": "Show us your well and septic records before the layout is final, and check your well's permitted use if you'll rinse turf with it.",
       "paras": [
         "Show us well and septic records, known utilities and any existing drainage features. Ask the appropriate authority or system professional about proposed work nearby. A large lot does not make every open area available for excavation or compaction.",
         "Foxfield has Town requirements for grading and lot coverage. Ask how they apply to the whole proposal and bring the response to the estimate. If you rely on a well, check its permitted use when planning cleaning and the planting that will remain."
@@ -40,6 +42,7 @@
       "icon": "drop",
       "kicker": "Water",
       "h2": "In Foxfield, a green lawn starts with your well permit.",
+      "takeaway": "Many wells here may be household use only, which rules out lawn watering, so ask the state what yours allows. Turf needs neither the well nor a costly central-water tap.",
       "paras": [
         "Most homes in Foxfield have private wells. The State Engineer issues the permits, and each well has its own limit on water use depending on when its permit was granted; the Town's advice is to ask the Colorado Division of Water Resources what yours allows (<a href=\"https://townoffoxfield.colorado.gov/residents/utilities/water-and-septic\" target=\"_blank\" rel=\"nofollow noopener\">Town of Foxfield</a>).",
         "That limit can be tight. Under Colorado's exempt-well rules, most wells drilled after May 1972 on parcels under 35 acres are permitted for household use only, which rules out watering lawns and gardens (<a href=\"https://extension.colostate.edu/topic-areas/natural-resources/private-wells-for-home-use-6-700/\" target=\"_blank\" rel=\"nofollow noopener\">Colorado State University Extension</a>). If your well is one of them, a bluegrass lawn isn't on the table at all.",
@@ -50,6 +53,7 @@
       "icon": "shield",
       "kicker": "The local rules",
       "h2": "Grading takes a Town permit, and hard cover stops at 25%.",
+      "takeaway": "Foxfield issues its own grading and berm permits, and its rules differ from Arapahoe County's. With impervious coverage capped at 25% of each lot, ask the Town before you plan.",
       "paras": [
         "Foxfield issues overlot grading permits and berm permits as permit types of their own, alongside building, fence and driveway permits. It also notes that its building rules differ from Arapahoe County's, so read the Town's before a project starts (<a href=\"https://townoffoxfield.colorado.gov/government/land-use-and-master-plan\" target=\"_blank\" rel=\"nofollow noopener\">Town of Foxfield</a>).",
         "The whole town is zoned Large Lot Rural Residential: one home per 105,000 square feet, or 2.41 acres, with 50-foot front setbacks, 25-foot side and rear setbacks, and impervious coverage capped at 25% of the lot (<a href=\"http://foxfield-co.elaws.us/code/mc_ch16_art2_sec16-2-50\" target=\"_blank\" rel=\"nofollow noopener\">Foxfield Municipal Code</a>).",
@@ -60,6 +64,7 @@
       "icon": "shovel",
       "kicker": "The ground",
       "h2": "Flat, heavy Heldt clay, with a leach field to work around.",
+      "takeaway": "The ground here is heavy Heldt clay that drains slowly, and every home is on septic. We find your leach field at the free visit and keep the base clear of it.",
       "paras": [
         "USDA soil maps put Foxfield on Heldt clay, 0 to 3 percent slopes. It runs about 47.5% clay from the surface down to 60 inches, carries a high shrink-swell rating and takes in water slowly (<a href=\"https://sdmdataaccess.sc.egov.usda.gov/\" target=\"_blank\" rel=\"nofollow noopener\">USDA Soil Data Access</a>). Ground like this doesn't drain well, and it doesn't hold still through a freeze and a thaw.",
         "Every home in Foxfield is on septic, permitted by Arapahoe County Public Health. A leach field is no place to compact a turf base, so on the free site visit we find yours first, along with the gravel drives, fences and paddocks that shape the layout.",

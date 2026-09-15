@@ -6,8 +6,8 @@
   "county": null,
   "title": "Artificial Turf in Brighton, CO | TIMELESS Grass & Greens",
   "description": "Artificial lawns and backyard greens in Brighton. Choose a lawn, pet area or practice green with the work clearly priced.",
-  "h1": "Artificial lawns and backyard greens in Brighton.",
-  "lede": "Choose a lawn, pet area or practice green with the work clearly priced. We offer free site visits across Brighton.",
+  "h1": "Artificial turf in Brighton, CO, installed while the citywide sod ban holds.",
+  "lede": "Whether your yard sits on Brighton's free-draining loam or wet river ground, we build the base to match. You get a free visit and a written price.",
   "wins": [
     "Use a deep yard for purposeful putting lines",
     "Choose a smaller lawn or pet area if it fits",
@@ -15,13 +15,14 @@
   ],
   "answer": {
     "question": "How can I use a deep Brighton yard for a putting green?",
-    "answer": "Choose the putt lengths and any chipping position before adding cups. Leave room for walking, access and the rest of the yard. Show us the route past garages, gates or fences so the written estimate covers how the work can be carried out."
+    "answer": "Use the length: a deep yard can give a longer putting line without a wide green. Plan where you'll stand and chip, keep the lawn and planting you want, and walk the delivery route with us."
   },
   "blocks": [
     {
       "icon": "flag",
       "kicker": "A green at home",
       "h2": "Use the length; keep the rest of the yard useful.",
+      "takeaway": "A deep yard can offer a longer putting line without a wide green. If you have alley access or a detached garage, walk the delivery route with us; it can change how we install.",
       "paras": [
         "A deep yard can offer a longer putting line without needing a wide green. Think about where you will stand and where a chipping area would fit, then compare that layout with the lawn and planting you want to retain.",
         "In an older property with alley access or a detached garage, walk the delivery route with us. A convenient route can change the proposed installation method and belongs in the estimate."
@@ -31,6 +32,7 @@
       "icon": "drop",
       "kicker": "Before choosing the surface",
       "h2": "Show us the low spots after rain.",
+      "takeaway": "Show us where water collects on your lot rather than assuming a soil type from the address. Turf skips root growth, but that doesn't exempt it from landscape or grading review.",
       "paras": [
         "For a property toward the river or Barr Lake, bring any known drainage or flood information for the lot. Elsewhere in Brighton, the same practical check applies: show where water collects rather than assuming a particular soil from the address.",
         "Check the City and any association requirements for the complete proposal. Turf does not need to grow roots, but that does not make it exempt from landscape or grading review. Ask for unresolved site conditions to be written down before work begins."
@@ -40,6 +42,7 @@
       "icon": "clock",
       "kicker": "The sod ban",
       "h2": "Until October 2026, new sod is off the table.",
+      "takeaway": "Brighton bans new sod over 200 square feet through September, but turf isn't sod, so it can go in now. New sod after that needs a strict six-week watering schedule that turf skips entirely.",
       "paras": [
         "Brighton's Stage 1 drought order prohibits installing or replacing sod on more than 200 square feet through 30 September 2026 (<a href=\"https://www.brightonco.gov/578/Watering-Restrictions\" target=\"_blank\" rel=\"nofollow noopener\">City of Brighton</a>). The ban is on sod. Artificial turf isn't sod, so a new lawn can still go in while the order stands.",
         "From 1 October the city issues free sod permits, and each one comes with a strict six-week schedule: up to three waterings a day of no more than 10 minutes for the first two weeks, up to two a day for the next two, outside the 10-to-6 window, then once a day, and after that the full restrictions again. A turf lawn skips all six weeks, because there's nothing to root.",
@@ -50,6 +53,7 @@
       "icon": "ruler",
       "kicker": "The city's own code",
       "h2": "Twenty percent out front. Out back, the code pulls two ways.",
+      "takeaway": "Where the city code reaches your job, front-yard turf is capped at 20% of the frontage, and landscape plans need at least 50% living cover. Ask Community Development in writing whether your re-landscape is exempt.",
       "paras": [
         "Brighton names artificial turf in its own Land Use & Development Code, so the limits here come from the city rather than from a water utility's rebate terms. Table 8-1 in Section 8.02 lets a detached house, duplex or row house lay artificial turf in the frontage — the ground between the building line and the street — and limits it to 20% of that frontage area (<a href=\"https://library.municode.com/CO/Brighton/codes/land_use?nodeId=ART8LASIDEST_8.02LADE\" target=\"_blank\" rel=\"nofollow noopener\">City of Brighton</a>). Out back the same table names no percentage: it lists artificial turf among the materials you may use across the rest of the lot, on its own or mixed with planting. Section 8.04 pulls the other way, asking every landscape plan for “a living ground cover of at least 50% of the landscape area” (<a href=\"https://library.municode.com/CO/Brighton/codes/land_use?nodeId=ART8LASIDEST_8.04PLSP\" target=\"_blank\" rel=\"nofollow noopener\">City of Brighton</a>). Artificial turf is not living cover, so read that back yard row against the 50%, not on its own.",
         "Whether those standards reach your job is the next question, and Section 8.01 answers it. They apply to new development, and they exempt improvements to a detached house or duplex that need no Site Improvement or Residential Design Review and are not part of a larger neighborhood or subdivision plan (<a href=\"https://library.municode.com/CO/Brighton/codes/land_use?nodeId=ART8LASIDEST_8.01INAP\" target=\"_blank\" rel=\"nofollow noopener\">City of Brighton</a>). A new build on a platted subdivision lot is a different case from a re-landscape behind an older Main Street house. Ask Brighton Community Development which of the two your address falls under, and how they apply the 50% living cover rule to a back yard. Get both answers in writing before the layout is fixed."
@@ -59,6 +63,7 @@
       "icon": "shovel",
       "kicker": "Loam and river bottom",
       "h2": "Most of Brighton drains well. The river side doesn't.",
+      "takeaway": "Most of Brighton drains well, but river-side ground has a high water table and needs a drainage layer. Where the code applies, turf must percolate at least 5 inches an hour.",
       "paras": [
         "Across most of town the USDA maps Dacono loam and Vona sandy loam: level, free-draining ground with little shrink-swell, Vona about two-thirds sand (<a href=\"https://sdmdataaccess.nrcs.usda.gov/\" target=\"_blank\" rel=\"nofollow noopener\">USDA Soil Data Access</a>). Swelling clay isn't the Brighton problem it is on Thornton's shale breaks.",
         "Toward the South Platte and the Barr Lake side, the survey maps Aquolls instead: poorly drained ground with a high water table. A turf base there needs a proper drainage layer, or the lawn sits wet.",

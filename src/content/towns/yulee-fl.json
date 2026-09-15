@@ -7,8 +7,8 @@
   "county": "Nassau",
   "title": "Artificial Turf in Yulee, FL | TIMELESS Grass & Greens",
   "description": "Is your Yulee parcel in the William Burgess District? See which rules reach turf, fences and groundcover, then get a free visit and a layout you approve.",
-  "h1": "Artificial turf in Yulee, planned around the rules your parcel follows.",
-  "lede": "Find out whether your parcel sits in Nassau County's William Burgess District, then plan a lawn, dog run or putting green that fits its rules. Start with a free visit to measure and check the ground.",
+  "h1": "Artificial turf in Yulee, FL, planned around the William Burgess District.",
+  "lede": "Your Yulee parcel's date and district decide which rules reach a lawn, dog run or putting green. We check the ground at a free visit, and you approve the layout.",
   "wins": [
     "Know which rulebook covers your parcel before the layout",
     "Pet areas and fences planned to the district's limits",
@@ -16,13 +16,14 @@
   ],
   "answer": {
     "question": "Do William Burgess District rules apply to artificial turf at my Yulee home?",
-    "answer": "Check your parcel first. The district covers 5,400 acres east of I-95, west of US 17, south of SR 200 and north of the Nassau River. Building or replacing a single-family house on a parcel that existed on 8 July 2019 is exempt from its design standards. Pre-2019 PUDs and East Nassau Community Planning Area land follow their own approvals. Ask Nassau County Planning, 904-530-6320, how turf is treated on your parcel."
+    "answer": "Possibly. The district's Blueprint covers new development and redevelopment inside its lines, but building or replacing a house on a parcel that existed as of 8 July 2019 is exempt from its design standards. Check your parcel on the Property Appraiser's map."
   },
   "blocks": [
     {
       "icon": "pin",
       "kicker": "Start with the map",
       "h2": "Find out whether your parcel is inside the William Burgess District.",
+      "takeaway": "Check the county Property Appraiser's map layers to see whether your parcel sits inside the William Burgess District. Yulee Heights has no zoning of its own, so the same map check applies there too.",
       "paras": [
         "Nassau County's William Burgess District takes in 5,400 acres: all the land east of I-95, west of US 17, south of SR 200 and north of the Nassau River (<a href=\"https://www.nassaucountyfl.com/1226/William-Burgess-Overlay-District\" target=\"_blank\" rel=\"nofollow noopener\">Nassau County</a>). If your Yulee address falls inside those lines, the district's <a href=\"https://www.nassaucountyfl.com/DocumentCenter/View/29303/\" target=\"_blank\" rel=\"nofollow noopener\">Context and Connectivity Blueprint</a> is part of your rulebook. Outside them, the county's Land Development Code applies without it.",
         "To check, open the Nassau County Property Appraiser's map and turn on Map Layers, then Planning and Growth Management, then William Burgess District Transect. The county adopted the Blueprint on 8 July 2019 through Ordinances 2019-19 and 2019-20. Read the current version, dated 28 July 2025.",
@@ -33,6 +34,7 @@
       "icon": "file",
       "kicker": "Which approvals govern",
       "h2": "The date your parcel existed decides which rules reach it.",
+      "takeaway": "A house built or replaced on a parcel that existed as of 8 July 2019 skips the design standards, unless the lot's been rezoned to a transect zone. Bring that history to the free visit.",
       "paras": [
         "The Blueprint covers all new development and redevelopment in the district, on private and public land, unless something is expressly exempted. The exemption most homeowners need: building or replacing a single-family dwelling on an individual parcel that existed as of 8 July 2019 is not subject to its design standards. It stops applying once a parcel has been rezoned and moved to a transect zone on the land use map (<a href=\"https://www.nassaucountyfl.com/DocumentCenter/View/29303/\" target=\"_blank\" rel=\"nofollow noopener\">Blueprint, applicability</a>).",
         "Two kinds of land keep their own paperwork. A Planned Unit Development whose development order the county commission signed before 8 July 2019 follows that order. Land in the East Nassau Community Planning Area follows the ENCPA approvals, including Article 27 of the county code. Where those documents are silent, the Blueprint fills the gap.",
@@ -43,6 +45,7 @@
       "icon": "leaf",
       "kicker": "Groundcover and the site plan",
       "h2": "On a district site plan, ask whether turf counts as groundcover.",
+      "takeaway": "Where the district applies, unpaved developed ground needs turfgrass, approved groundcover or mulch, and county code says synthetic groundcovers aren't acceptable substitutes. Ask Planning in writing whether turf counts or must sit outside that area.",
       "paras": [
         "Where the Blueprint applies, every site has to meet the landscaping minimums in Section 37.05 of the county code, and disturbed ground can't be left bare. Turfgrass, other approved groundcover or mulch has to cover every developed area that isn't paved or built on (<a href=\"https://www.nassaucountyfl.com/DocumentCenter/View/29303/\" target=\"_blank\" rel=\"nofollow noopener\">Blueprint, landscaping</a>).",
         "Section 37.05 itself says synthetic groundcovers are not acceptable substitutes, and it sets out separately what an individual one- or two-family home has to meet (<a href=\"http://nassaucounty-fl.elaws.us/code/coor_apxa_florida_art37_sec37.05\" target=\"_blank\" rel=\"nofollow noopener\">Nassau County code, Sec. 37.05</a>). The Blueprint doesn't mention artificial turf at all.",
@@ -53,6 +56,7 @@
       "icon": "paw",
       "kicker": "Dog runs and fences",
       "h2": "Keep the dog run behind the house, where a fence can stand taller.",
+      "takeaway": "In the district, front fences stop at 4 feet, at least half see-through, and side and rear fences at 6 feet. Ask Planning if that covers existing homes, or put the dog run out back.",
       "paras": [
         "Most pet areas need a fence, and the Blueprint is strict about fences out front. A front-yard fence can't be more than 4 feet high, has to be at least 50% see-through, and can't be chain link. Side and rear fences can reach 6 feet (<a href=\"https://www.nassaucountyfl.com/DocumentCenter/View/29303/\" target=\"_blank\" rel=\"nofollow noopener\">Blueprint, fences</a>).",
         "Those limits sit among the site plan standards for new development and redevelopment, so ask Planning whether they reach a fence added at an existing home. <a href=\"/services/pet-turf/\">Pet turf</a> in the back yard sidesteps the tightest of them. If your street has an association, its fence rules apply on top."
@@ -62,6 +66,7 @@
       "icon": "drop",
       "kicker": "Water and ponds",
       "h2": "One watering day a week, and a pond edge that isn't yours to turf.",
+      "takeaway": "Watering is limited to one day a week under the current order. If your yard backs a stormwater pond, stop the turf at your property line and leave the pond's planted edge alone.",
       "paras": [
         "As of 12 September 2026, the St. Johns River Water Management District lists Nassau County under Phase III water shortage order 2026-017. Landscape irrigation is limited to one day a week and never between 8 a.m. and 6 p.m.: Saturday for odd-numbered addresses, Sunday for even. Private wells and pumps are covered too, and new sod gets only a grow-in allowance that tapers off (<a href=\"https://www.sjrwmd.com/wateringrestrictions/\" target=\"_blank\" rel=\"nofollow noopener\">SJRWMD watering restrictions</a>).",
         "If your yard backs onto a stormwater pond, stop the turf at your line. The Blueprint wants retention ponds planted as landscape features, ties each facility to a recorded maintenance agreement, and says native perennial planting should replace turf grass where possible (<a href=\"https://www.nassaucountyfl.com/DocumentCenter/View/29303/\" target=\"_blank\" rel=\"nofollow noopener\">Blueprint, stormwater</a>). We check how the lot falls on the free visit and build the base to drain."

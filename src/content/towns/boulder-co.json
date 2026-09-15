@@ -6,8 +6,8 @@
   "county": "Boulder",
   "title": "Artificial Turf in Boulder, CO | TIMELESS Grass & Greens",
   "description": "Plan a turf project that fits your Boulder property. Considering a lawn area, putting green or sports surface?",
-  "h1": "Plan a turf project that fits your Boulder property.",
-  "lede": "Considering a lawn area, putting green or sports surface? Start with the intended use, the space available and the City requirements for your project.",
+  "h1": "Artificial turf in Boulder, CO, sized to fit the city's turf cap.",
+  "lede": "Where Boulder's standards apply, home-lot turf stops at the smaller of 25% of the lot or 1,000 square feet. We plan lawn and green together at a free visit.",
   "wins": [
     "Define the activity and footprint",
     "Compare layout and surface options",
@@ -15,13 +15,14 @@
   ],
   "answer": {
     "question": "What is the first step for a turf project in Boulder?",
-    "answer": "Identify the property and the intended use, then ask the City which landscape requirements apply to the proposal. Boulder regulates artificial turf in applicable development projects, so confirm that point before committing to the footprint. We offer free visits to discuss the layout and installation scope."
+    "answer": "Identify the property and the intended use, then ask the City which landscape requirements apply. Boulder regulates artificial turf in applicable development projects, so confirm that before committing to the footprint. We offer free visits to discuss the layout."
   },
   "blocks": [
     {
       "icon": "layout",
       "kicker": "A useful surface",
       "h2": "Choose an area with a clear purpose.",
+      "takeaway": "For putting, start with the lengths you want and room to stand. On a small lot, show us the trees and narrowest access route before we settle the outline.",
       "paras": [
         "For putting, start with the putt lengths and room to stand. For a lawn or activity area, identify who will use it and when. Keep paths, planting and shade in the plan so the turf works as part of the yard.",
         "On a small established lot, show us trees and the narrowest route for materials. On a site with changes in level, discuss access and preparation before choosing a final outline."
@@ -31,6 +32,7 @@
       "icon": "shield",
       "kicker": "Boulder requirements",
       "h2": "Confirm what applies before finalizing the size.",
+      "takeaway": "Ask the City whether your renovation or extension triggers its turf standards and how it classes the use. For a sports or equipment area, bring the activity, layout and product documents.",
       "paras": [
         "Boulder’s published standards prohibit artificial turf in new development unless it is functional turf. Where the residential standards apply to a lot with three units or fewer, turf is limited to the smaller of 25% of the lot or 1,000 square feet. That makes the intended use and combined lawn-and-green footprint early decisions.",
         "Ask the City whether your renovation or extension triggers those standards, and how it classifies the proposed use. Bring its response and any association conditions to the estimate. For a sports or equipment area, include the activity, layout and required product documentation in the scope."
@@ -40,6 +42,7 @@
       "icon": "shield",
       "kicker": "Boulder's turf rule",
       "h2": "Since 7 March 2026, new development in Boulder gets functional turf only.",
+      "takeaway": "On home lots of up to three units, turf is capped at 25% of the lot or 1,000 square feet, whichever is less. Turf laid before March 2026 is exempt unless changes bring it in.",
       "paras": [
         "Boulder's water-wise landscape standards took effect on 7 March 2026, and they say it plainly: \"Artificial turf is prohibited in all new development, unless it is functional artificial turf\" (<a href=\"https://bouldercolorado.gov/landscape-manual\" target=\"_blank\" rel=\"nofollow noopener\">City of Boulder</a>). Knowing where that line falls is what lets a Boulder project go ahead.",
         "On a home lot of three units or fewer, turf of either kind is capped at 25% of the lot or 1,000 square feet, whichever is less. Non-functional turf is out entirely on residential lots with more than three units, on commercial, industrial, public and institutional property, in the public right-of-way and in new HOA common areas.",
@@ -52,6 +55,7 @@
       "icon": "flag",
       "kicker": "Flatirons Golf Course",
       "h2": "The city counts a golf course's playing area as functional turf.",
+      "takeaway": "At home, where Boulder's standards apply, a putting green counts toward the same turf cap as a lawn, so plan the two together from the start.",
       "paras": [
         "Flatirons Golf Course, the city's own at 57th and Arapahoe, was built in 1938 with WPA support to a Willie Tucker design, and it hosts more than 50,000 rounds a year (<a href=\"https://bouldercolorado.gov/flatirons-golf-course/golf-course\" target=\"_blank\" rel=\"nofollow noopener\">City of Boulder</a>). It's a Certified Audubon Cooperative Sanctuary, too, and Boulder Country Club sits out in Gunbarrel.",
         "At home, where the standards apply, a putting green counts toward the same cap as a lawn on a lot of three units or fewer. So the green and the lawn get planned together, inside the 25% or 1,000 square feet."
@@ -61,6 +65,7 @@
       "icon": "shovel",
       "kicker": "Terraces and cobble",
       "h2": "Clay over cobble on the south Boulder mesas.",
+      "takeaway": "Around Table Mesa, digs often hit cobble under swelling clay, and water can perch where the two meet. We plan the base around that drainage before the turf goes down.",
       "paras": [
         "Around Table Mesa and Martin Acres, the USDA maps Valmont, Nunn, Kutch and Hargreave soils. Valmont is the telling one: swelling clay over a bed of cobble and gravel, left by old terraces shed off the Flatirons, with terrace escarpments of 12 to 60% where the mesas drop away (<a href=\"https://sdmdataaccess.nrcs.usda.gov/\" target=\"_blank\" rel=\"nofollow noopener\">USDA Soil Data Access</a>).",
         "In practice, digs often hit cobble near the surface and need handwork, terrace edges give real grade breaks, and water can perch where the clay meets the gravel. The base is planned around that drainage, and the free visit is where we find out which of those your lot has.",

@@ -6,8 +6,8 @@
   "county": "Jefferson",
   "title": "Artificial Turf in Mountain View, CO | TIMELESS Grass & Greens",
   "description": "Mountain View needs its own town permit for turf a street or alley can see. Plan the site plan, turf specs and base before your lawn, dog run or green goes in.",
-  "h1": "Artificial turf in Mountain View, with the town permit planned in.",
-  "lede": "Mountain View has its own permit for turf a street or alley can see. We plan your lawn, dog run or putting green around it, starting with a free visit to measure and check the ground.",
+  "h1": "Artificial turf in Mountain View, CO, and the permit a visible yard needs.",
+  "lede": "If the street or alley can see your yard, Mountain View's turf permit needs a scaled site plan. Start with a free visit to measure and check the ground.",
   "wins": [
     "A layout that shows where the turf goes, for your site plan",
     "Turf checked against the town's pile height and weight floors",
@@ -15,13 +15,14 @@
   ],
   "answer": {
     "question": "Do I need a permit for artificial turf in Mountain View, CO?",
-    "answer": "Yes, if the turf will be in a front yard, or in a side or rear yard that can be seen from a street or alley. Mountain View's code makes installing or reinstalling it there without a town artificial turf permit unlawful. A side or rear yard hidden from public right-of-way needs no permit. The application goes to the Town Clerk with two scaled site plans and the turf maker's documents."
+    "answer": "Yes, if the turf will be in a front yard, or a side or rear yard a street or alley can see. Installing it there without the town's artificial turf permit is unlawful. A hidden side or rear yard needs no permit."
   },
   "blocks": [
     {
       "icon": "shield",
       "kicker": "The town permit",
       "h2": "If the street or the alley can see your turf, it needs a permit.",
+      "takeaway": "Turf in a front yard, or a side or back yard the street or alley can see, needs a town permit. Think yours is hidden? Get planning staff to confirm it in writing.",
       "paras": [
         "Mountain View is twelve blocks between Sheridan Boulevard and Fenton Street, from W 41st to W 44th Avenue (<a href=\"https://www.tomv.org/community-local-businesses/page/residential-services\" target=\"_blank\" rel=\"nofollow noopener\">Town of Mountain View</a>). It has been a town of its own since 1904 (<a href=\"https://en.wikipedia.org/wiki/Mountain_View,_Colorado\" target=\"_blank\" rel=\"nofollow noopener\">Wikipedia</a>), even with a Denver mailing address, and its zoning code is the one your yard answers to.",
         "Since Ord. 2020-07-20A, that code has made it unlawful to install or reinstall artificial turf in a residential front yard, side yard, or rear yard visible from public right-of-way without an artificial turf permit (<a href=\"https://mountainview.municipal.codes/Code/16.2\" target=\"_blank\" rel=\"nofollow noopener\">Mountain View Municipal Code 16.02.110</a>). The code counts alleys as public right-of-way (<a href=\"https://mountainview.municipal.codes/Code/16.01.090\" target=\"_blank\" rel=\"nofollow noopener\">Municipal Code 16.01.090</a>), so a back yard seen from the alley needs the permit as surely as a front lawn. A side or rear yard hidden from view needs none, and the town's standards serve there as advisory guidelines.",
@@ -32,6 +33,7 @@
       "icon": "file",
       "kicker": "The application",
       "h2": "Four things go to the Town Clerk.",
+      "takeaway": "The Town Clerk wants two scaled site plans and the maker's spec sheet, instructions and at least eight years' written coverage against fading. Our measured layout gives you the dimensions to draw.",
       "paras": [
         "The form goes to the Town Clerk (<a href=\"https://mountainview.municipal.codes/Code/16.2\" target=\"_blank\" rel=\"nofollow noopener\">Municipal Code 16.02.120</a>). First, the fee: Town Council sets it by resolution, so ask Town Hall at 4176 Benton St., 303-421-7282, for the current amount and the form. Town Hall is open Monday to Thursday (<a href=\"https://www.tomv.org/community-local-businesses/page/residential-services\" target=\"_blank\" rel=\"nofollow noopener\">Town of Mountain View</a>).",
         "Second, two copies of a scaled site plan showing property lines, access and the drive, and the buildings, landscaping and turf, both existing and proposed. The measurements from our free visit and the layout you approve give you the shapes and dimensions to draw.",
@@ -42,6 +44,7 @@
       "icon": "ruler",
       "kicker": "The standards",
       "h2": "The code sets a floor for the turf and the ground under it.",
+      "takeaway": "Visible turf needs at least a 1.25-inch pile and a 50-ounce face weight over a porous, compacted base. If the alley can see your dog run, stains and odors become a code matter.",
       "paras": [
         "Turf in view must be cut pile with infill, made of polypropylene, polyethylene or a blend, with a pile at least 1.25 inches tall and a face weight of at least 50 ounces per square yard. Plastic or nylon carpet used as outdoor turf is prohibited (<a href=\"https://mountainview.municipal.codes/Code/16.4\" target=\"_blank\" rel=\"nofollow noopener\">Municipal Code 16.04.045(d)</a>). Check both numbers on the specification sheet first.",
         "The ground is specified too: a compacted, porous base, graded and drained against runoff and flooding, turf anchored permanently with nails and glue, and a solid barrier such as a concrete mow strip or bender board at the planting beds. Our site prep and base are built for your soil, and the turf is laid, seamed and edged.",
@@ -52,6 +55,7 @@
       "icon": "refresh",
       "kicker": "Replacing or rebuilding",
       "h2": "Older turf and new houses follow their own rules.",
+      "takeaway": "Older turf can stay and be repaired, but not enlarged; replace half or more and the new turf must meet every standard. On a new house, 70% of front and side landscaping must be living.",
       "paras": [
         "Turf laid legally before these standards can stay even if it falls short of them. It can be repaired, or changed to fit the rules better, but not enlarged, expanded or extended. Once 50% or more of it is damaged or removed and replaced with new turf, the replacement must meet every standard (<a href=\"https://mountainview.municipal.codes/Code/16.4\" target=\"_blank\" rel=\"nofollow noopener\">Municipal Code 16.04.045(d)</a>). In view of a street or alley, that reinstall needs the permit.",
         "A new house changes the sums. Where a new primary residential structure is being built, 30% of the lot must be permeable landscaped area and 70% of the required landscaping in the front and side yards must be living material. Artificial turf is not living material and can't count, and the front setback needs living landscaping and a tree before a certificate of occupancy. R-3 lots follow the same wording (<a href=\"https://mountainview.municipal.codes/Code/16.5\" target=\"_blank\" rel=\"nofollow noopener\">Municipal Code 16.05.045</a>). Lay the turf out around that planting, not over it."
@@ -61,6 +65,7 @@
       "icon": "drop",
       "kicker": "Water",
       "h2": "Your water district ends lawn watering after 30 September.",
+      "takeaway": "Your water district ends lawn watering after 30 September 2026 and grants no variance for new seed or sod, with repeat violations fined up to $1,000 each. Ask the district before counting on a rebate.",
       "paras": [
         "The Wheat Ridge Water District supplies and bills Mountain View's water (<a href=\"https://www.tomv.org/community-local-businesses/page/residential-services\" target=\"_blank\" rel=\"nofollow noopener\">Town of Mountain View</a>). It is one of Denver Water's Master Meter distributors, with its own system and its own customer rates (<a href=\"https://www.denverwater.org/about-us/how-we-operate/service-area/distributors\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>), so its board decides how Denver Water's drought rules apply here.",
         "The board chose to follow Denver Water's end to the season. 30 September 2026 is the last day for lawn watering, and from 1 October all lawn watering and lawn spray irrigation are prohibited. Trees, shrubs, perennials and vegetables can still be hand-watered with a shutoff nozzle or given low-volume irrigation, but not between 10 a.m. and 6 p.m. (<a href=\"https://www.wrwdistrict.com/all-lawn-watering-is-prohibited-in-the-wheat-ridge-water-district-after-september-30-2026\" target=\"_blank\" rel=\"nofollow noopener\">Wheat Ridge Water District</a>).",

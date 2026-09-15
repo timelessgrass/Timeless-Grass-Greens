@@ -6,8 +6,8 @@
   "county": null,
   "title": "Artificial Turf in Thornton, CO | TIMELESS Grass & Greens",
   "description": "Artificial lawns and backyard greens in Thornton. Choose a lawn, pet area or putting green with Thornton’s project requirements checked early.",
-  "h1": "Artificial lawns and backyard greens in Thornton.",
-  "lede": "Choose a lawn, pet area or putting green with Thornton’s project requirements checked early. We offer free visits, turf options and written installation estimates.",
+  "h1": "Artificial turf in Thornton, CO, where the city's water utility may pay toward it.",
+  "lede": "Thornton Water pays up to $2 a square foot toward qualifying turf. Plan a lawn, pet area or putting green around its rules, with a free visit and written price.",
   "wins": [
     "Select the use and layout before the product",
     "Include required buffers and planting in the plan",
@@ -15,13 +15,14 @@
   ],
   "answer": {
     "question": "What should a Thornton turf project check before installation?",
-    "answer": "Confirm the City’s current permit and landscape requirements, and any water-program eligibility, before ordering the turf. Ask what product documents and layout details are required for your property and use. Bring those conditions to the free estimate so the scope can account for them."
+    "answer": "The permit, the placement rules and the rebate terms. A Minor Development Permit comes before installation, front and unenclosed side yards cap turf at 25% of the landscape area, and rebate eligibility should be confirmed before you budget for it."
   },
   "blocks": [
     {
       "icon": "layout",
       "kicker": "The usable area",
       "h2": "Plan the edges before you fill the yard.",
+      "takeaway": "Plan the lawn, pet area or green around the routes and planting that stay. Front and unenclosed side yards cap turf at 25% of the landscape area; a permit comes first.",
       "paras": [
         "Choose a lawn, pet area or putting green around the routes and planting that will stay. For a green, identify putting distances and standing space. For pets, leave access for cleanup and discuss the product’s care routine.",
         "Thornton’s published turf rules limit artificial turf in front and unenclosed side yards to 25% of the landscape area. Rear and enclosed side yards have no corresponding area cap, but placement buffers and product requirements still matter. The rules require a Minor Development Permit before installation; obtain the current instructions before ordering materials."
@@ -31,6 +32,7 @@
       "icon": "file",
       "kicker": "Possible incentives",
       "h2": "Get the current terms before using a rebate in the budget.",
+      "takeaway": "Don't count the rebate in your budget until your account and project are confirmed eligible, including the surface being replaced. Bring the program conditions and any association response to the estimate.",
       "paras": [
         "Thornton Water’s published 2026 program offers up to $2 per square foot for qualifying artificial-turf projects, with a $2,000 lifetime maximum per residential lot. Confirm account and project eligibility, including the existing surface being replaced, before including a payment in your budget. The application and permit steps come before installation.",
         "Bring the program conditions and any association response to the estimate. Ask which product documents are available for the selected system and what the rebate application requires, so eligibility and the installation scope are clear before you decide."
@@ -40,6 +42,7 @@
       "icon": "file",
       "kicker": "The rebate",
       "h2": "Thornton pays up to $2 a square foot toward turf.",
+      "takeaway": "The rebate covers projects of 200 to 1,000 square feet, with a $2,000 lifetime cap, and the turf has to replace thirsty lawn, not an existing patio or concrete. The product also needs PFAS-free documentation.",
       "paras": [
         "Thornton is the exception in the metro: its water utility pays toward artificial turf. The Water-Wise Landscape Rebate covers up to $2 a square foot on qualifying projects of 200 to 1,000 square feet, with a lifetime maximum of $2,000 per residential lot (<a href=\"https://www.thorntonwater.com/wp-content/uploads/2026/02/2026-residential_artificial_turf_info__rules-1.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Thornton Water</a>).",
         "The turf has to replace thirsty lawn, such as Kentucky bluegrass, on an existing lot, or bare ground on a new-construction lot. Turf over an existing patio or side-yard concrete doesn't qualify.",
@@ -50,6 +53,7 @@
       "icon": "ruler",
       "kicker": "The city's turf rules",
       "h2": "No limit out back, 25% out front, and buffers.",
+      "takeaway": "Out back there's no area limit, but turf stays 3 feet from property lines and 8 feet from a building's front wall. The base needs at least 3 inches of compacted aggregate.",
       "paras": [
         "The city's code allows artificial turf with no limit in rear yards and enclosed side yards. In front yards and unenclosed side yards it can't exceed 25% of the landscape area, and it needs living plants beside it: one tree equivalent for the first 750 square feet, and half of one for every 250 after that (<a href=\"https://www.thorntonwater.com/wp-content/uploads/2026/02/2026-residential_artificial_turf_info__rules-1.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Thornton Water</a>).",
         "Buffers keep turf off the edges: 3 feet from property lines, 8 feet from the front wall of a building, 3 feet from other walls and hard surfaces outside the rear yard, and 3 feet from a deciduous tree's trunk, with nothing inside an evergreen's dripline. The buffers must be permeable, such as wood mulch or gravel no bigger than 2 inches.",
@@ -61,6 +65,7 @@
       "icon": "drop",
       "kicker": "Stage 1",
       "h2": "Two lawn days a week, and fines from $100.",
+      "takeaway": "Stage 1 limits lawns to two watering days a week, with no watering from 10 a.m. to 6 p.m. Fines start at $100 for homes; a turf lawn comes off that schedule for good.",
       "paras": [
         "Thornton's Stage 1 drought took effect on 15 March 2026, after the lowest snowpack in 20 years in the Upper South Platte and Clear Creek watersheds (<a href=\"https://www.thorntonwater.com/restrictions-drought/\" target=\"_blank\" rel=\"nofollow noopener\">Thornton Water</a>). Lawns are limited to two days a week and face a midday ban from 10 a.m. until 6 p.m., while trees, shrubs, flowers and vegetable gardens can be watered any day.",
         "After a courtesy warning, fines start at $100 for homes, $250 for businesses and $1,000 for construction, and climb from there. Leaks get 10 days to be fixed. A rebated turf lawn comes off that schedule for good."

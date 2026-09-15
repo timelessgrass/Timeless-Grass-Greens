@@ -7,8 +7,8 @@
   "county": "Horry",
   "title": "Artificial Turf in Garden City, SC | TIMELESS Grass & Greens",
   "description": "Artificial turf for Garden City, SC yards. On an oceanfront lot, find where the state's beach and dune lines cross your yard before a base is dug.",
-  "h1": "Artificial turf for Garden City yards, oceanfront lots included.",
-  "lede": "Get a lawn, dog area or putting green you never have to mow or water. On the oceanfront, we plan it around the state's beach and dune lines, starting with a free visit to measure and check the ground.",
+  "h1": "Artificial turf in Garden City, SC, planned around the state's dune lines.",
+  "lede": "On an oceanfront lot, the state's beach and dune lines can reach your yard. We plan your lawn, dog area or putting green around them, starting with a free visit.",
   "wins": [
     "See whether the state's dune zone reaches your yard",
     "A layout drawn against your surveyed lines",
@@ -16,13 +16,14 @@
   ],
   "answer": {
     "question": "Do I need a state permit for artificial turf on a Garden City oceanfront lot?",
-    "answer": "It depends on where the work sits. South Carolina's beach and dune critical area runs from mean high water back to the state's setback line, and no one may fill, remove or alter it without a state permit. Landscaping seaward of the baseline needs a permit too. Have the lines surveyed on your lot before anyone digs a base. Work entirely behind the setback line falls outside that zone, and your county's rules are the next check."
+    "answer": "It depends on where the work sits. The beach and dune critical area runs from mean high water to the state's setback line, and no one may alter it without a state permit. Get your lines surveyed first."
   },
   "blocks": [
     {
       "icon": "shield",
       "kicker": "The state's beach lines",
       "h2": "Two state lines decide whether your beach yard needs a permit.",
+      "takeaway": "The critical area runs from mean high water to the state’s setback line, and nothing there can be filled, removed or altered without a state permit. Ask before digging sand for a turf base.",
       "paras": [
         "South Carolina draws two lines along its oceanfront. On a standard stretch of beach, the baseline sits at the crest of the front row of dunes. The setback line runs landward of it by forty times the beach's average yearly erosion rate, and never less than twenty feet (<a href=\"https://www.scstatehouse.gov/code/t48c039.php\" target=\"_blank\" rel=\"nofollow noopener\">SC Code §48-39-280</a>).",
         "Everything from mean high water back to the setback line is the beach and dune critical area (<a href=\"https://www.scstatehouse.gov/code/t48c039.php\" target=\"_blank\" rel=\"nofollow noopener\">SC Code §48-39-10</a>), and on an oceanfront lot that can include part of the yard. No one may fill, remove, drain or in any way alter that zone without a state permit (<a href=\"https://www.scstatehouse.gov/code/t48c039.php\" target=\"_blank\" rel=\"nofollow noopener\">SC Code §48-39-130</a>). Digging out sand for a turf base is work to ask about first.",
@@ -33,6 +34,7 @@
       "icon": "file",
       "kicker": "The landscaping permit",
       "h2": "What the state asks before turf goes into the dune zone.",
+      "takeaway": "In the dune zone, the state approves a landscaping plan in writing first, bars retaining walls below grade and wants fill contained. Turf needs no sprinklers, so the planning goes into the base.",
       "paras": [
         "Regulation R.30-13(F) sets the terms for landscaping, earthmoving and fill in the beach and dune zone, and R.30-15(E) applies the same terms seaward of the baseline. First comes a comprehensive landscaping plan, approved by the state in writing (<a href=\"https://www.scstatehouse.gov/coderegs/Chapter%2030.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SC Code of Regulations, Chapter 30</a>).",
         "The rest reads like a turf checklist. No beach sand as backfill. No retaining wall below existing grade. Fill and irrigation runoff kept contained. Nothing that alters the front dunes or reaches the active beach, and native plants on the frontal dunes left alone unless the dune is improved. Local rules still apply.",
@@ -43,6 +45,7 @@
       "icon": "ruler",
       "kicker": "Your lot's lines",
       "h2": "Get the lines surveyed, then draw the lawn.",
+      "takeaway": "The state’s map is for reference only — get a property-specific survey to fix your lines. Bring it to the free visit, and we draw a layout showing the turf, base and edges against them.",
       "paras": [
         "The state's current and proposed lines are on a map viewer linked from the <a href=\"https://www.sccoastalinfo.org/resources/sc-beachfront-jurisdictional-lines/\" target=\"_blank\" rel=\"nofollow noopener\">South Carolina Coastal Information Network</a>. The map is for reference only. To fix the lines on a property, the state says to download the coordinates and get a property-specific survey. As of March 2026, the coordinates had not changed since October 2017.",
         "Bring the survey to your free visit. We measure, check the ground and draw a custom layout showing the turf, the base and the edges against the lines. You approve it before work starts, and you can take the same drawing to the Bureau of Coastal Management.",
@@ -53,6 +56,7 @@
       "icon": "pin",
       "kicker": "Horry or Georgetown",
       "h2": "The county line crosses the south end of Garden City.",
+      "takeaway": "Check which county your parcel is in. North of the line, Horry's height rule doesn't reach the yard; south of it, digging within a protected tree's zone needs a Georgetown County permit.",
       "paras": [
         "Garden City sits in southern Horry County, with the Georgetown County line on its south side. The built-up beach carries on past that line into Georgetown County, to a peninsula at the mouth of Murrells Inlet (<a href=\"https://en.wikipedia.org/wiki/Garden_City,_South_Carolina\" target=\"_blank\" rel=\"nofollow noopener\">Wikipedia</a>). Check your parcel record before you ask about permits, because each county has its own desk and its own rules.",
         "North of the line, Horry County's Garden City Height Overlay runs from the Surfside Beach town limit to the county line and caps new construction at 35 feet, with some mapped exceptions. It is a building rule, not a yard rule (<a href=\"https://horrycounty-sc.elaws.us/code/coor_apxb_artvii_723\" target=\"_blank\" rel=\"nofollow noopener\">Horry County Zoning §723.2</a>). For how Horry's impervious-surface wording lands on turf, read <a href=\"/guides/nc-vs-sc-built-upon-area/\">our guide to built-upon area in the two Carolinas</a>.",
@@ -64,6 +68,7 @@
       "icon": "shovel",
       "kicker": "The south-end beach",
       "h2": "Where storms took the dunes, keep beach sand out of the base.",
+      "takeaway": "Where storms thinned the dunes, don't regrade a low yard with beach sand: the dune zone bars it, and work on the active beach too. We bring in base material instead.",
       "paras": [
         "WMBF reported on 31 March 2026 that federal renourishment would place sand to about 1303 South Waccamaw Drive and no farther south, because the Army Corps' footprint comes from a feasibility study done in the 1990s. Garden City residents have spoken out about a lack of dunes and erosion after storms (<a href=\"https://www.wmbfnews.com/2026/03/31/garden-city-beach-excluded-federal-renourishment-project/\" target=\"_blank\" rel=\"nofollow noopener\">WMBF</a>).",
         "A low yard behind a thin dune can tempt you to regrade with sand from the beach. In the dune zone that is barred, and so is work on the active beach: the land seaward of the escarpment or the first line of stable natural vegetation, whichever comes first (<a href=\"https://www.scstatehouse.gov/code/t48c039.php\" target=\"_blank\" rel=\"nofollow noopener\">SC Code §48-39-270</a>). We bring in base material and build the base for the ground you have."

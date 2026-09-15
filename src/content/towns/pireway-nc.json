@@ -7,8 +7,8 @@
   "county": "Columbus",
   "title": "Artificial Turf Near Pireway, NC | TIMELESS Grass & Greens",
   "description": "Artificial turf near Pireway, NC. The crossroads is Columbus County; the river roads are Brunswick County, and that decides your permit. Free visit: 720-630-0108.",
-  "h1": "Artificial turf near Pireway, matched to which county you're in.",
-  "lede": "Pireway sits on a county line as much as a river. The crossroads itself is unincorporated Columbus County; the low roads the flood gauge names, Pireway Road NW and Rivergate Drive, sit across the water in Brunswick County. Start with a free visit to measure your yard and check the ground, then approve a layout before any soil moves.",
+  "h1": "Artificial turf near Pireway, NC, matched to which county you're in.",
+  "lede": "Pireway straddles a county line, so the rules for your yard depend on your parcel. At a free visit we measure and check the ground, and you approve the layout.",
   "wins": [
     "Find out which county's permit rule covers your parcel",
     "A base built for your soil and the river's high water",
@@ -16,13 +16,14 @@
   ],
   "answer": {
     "question": "Do I need a permit to install artificial turf near Pireway?",
-    "answer": "It depends on which side of the Waccamaw your parcel is on. At the Pireway crossroads, in unincorporated Columbus County, a Floodplain Development Permit is required before any grading or fill inside a mapped flood hazard area; the county's ordinance counts filling, grading and excavation as development, which covers a turf base. On Pireway Road NW and Rivergate Drive, the roads the river floods first, the Census Bureau places you in Brunswick County instead, where a different ordinance sets the rule; see our Ash, NC page for how that one works. Either way, ask the county's planning office before the layout is final."
+    "answer": "It depends on your county. At the crossroads, in Columbus County, you need a Floodplain Development Permit before grading or fill in a mapped flood hazard area. On Pireway Road NW and Rivergate Drive, Brunswick County's stormwater triggers apply instead."
   },
   "blocks": [
     {
       "icon": "pin",
       "kicker": "Two counties, one crossroads",
       "h2": "The river decides which county's rules apply to your yard.",
+      "takeaway": "The crossroads at NC 904 and NC 905 is Columbus County; toward the water you're in Brunswick County instead, the same jurisdiction as Ash. Give either county's planning office your actual address first.",
       "paras": [
         "<a href=\"https://geocoding.geo.census.gov/geocoder/geographies/coordinates?x=-78.63779&y=34.02712&benchmark=Public_AR_Current&vintage=Current_Current&layers=all&format=json\" target=\"_blank\" rel=\"nofollow noopener\">Census Bureau geography</a> puts the Pireway crossroads, where NC 904 meets NC 905, in Bug Hill township, Columbus County, with no incorporated town over it. That's the point most people picture when they say \"Pireway,\" and it's Columbus County that governs turf work there.",
         "Drive down toward the water and the county changes. The same <a href=\"https://geocoding.geo.census.gov/geocoder/geographies/coordinates?x=-78.5866&y=34.0122&benchmark=Public_AR_Current&vintage=Current_Current&layers=all&format=json\" target=\"_blank\" rel=\"nofollow noopener\">geocoder places Pireway Road NW at Horseshoe Road NW</a>, the Rivergate Drive area and the NC 904 bridge over the Waccamaw all in Brunswick County, Waccamaw township, the same jurisdiction as Ash on the far bank. Those are the roads the river floods first, so a lot of Pireway's river-adjacent addresses answer to Brunswick County, not Columbus.",
@@ -33,6 +34,7 @@
       "icon": "shield",
       "kicker": "Columbus County side",
       "h2": "At the crossroads, the floodplain permit comes before the base.",
+      "takeaway": "Inside a mapped flood hazard area, a Floodplain Development Permit is required before grading, filling or excavating for a turf base. Apply to the county's floodplain administrator with a scaled plot plan.",
       "paras": [
         "<a href=\"https://www.columbusco.org/sites/default/files/uploads/ordinances/chapter-10-11-18-25.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Columbus County's Flood Damage Prevention Ordinance</a>, Chapter 10, Part 1 of the county code, applies to every Special Flood Hazard Area on the county's flood maps, dated June 2, 2006. Inside one of those areas, a Floodplain Development Permit is required before development begins, and the ordinance defines development to include filling, grading, paving and excavation, the same work a turf base needs.",
         "You apply to the county's floodplain administrator with a scaled plot plan showing the work's location, dimensions and elevations. If your parcel falls inside the mapped floodway itself, fill needs either an engineer's certification that it won't raise flood levels or a FEMA-approved map revision; ask the administrator whether your parcel is mapped that way before the layout is final.",
@@ -43,6 +45,7 @@
       "icon": "drop",
       "kicker": "Brunswick County side",
       "h2": "On Pireway Road NW and Rivergate Drive, Ash's rules apply instead.",
+      "takeaway": "On these roads, Brunswick County's stormwater rules apply instead: a four-inch grading trigger and a 30-foot stream buffer. After high water, silt and debris need clearing before the turf is usable.",
       "paras": [
         "The National Weather Service's <a href=\"https://api.water.noaa.gov/nwps/v1/gauges/FREN7\" target=\"_blank\" rel=\"nofollow noopener\">Freeland gauge</a> on the Waccamaw, upstream of Pireway, ties specific stages to specific roads: at 17 feet, much of Pireway Road NW between Horseshoe Road NW and Rivergate Drive floods; at 18 feet that stretch may become impassable; at 19 feet, the gauge's major flood stage, it will be. All three points sit in Brunswick County, not Columbus.",
         "That means Brunswick County's stormwater ordinance sets the permit rule there instead of the Columbus County flood ordinance, the four-inch grading trigger and the 30-foot stream buffer we cover in detail on our Ash, NC page. Read that page for how the trigger and the buffer work; the office to call is Brunswick County, not Whiteville.",
@@ -53,6 +56,7 @@
       "icon": "shovel",
       "kicker": "The ground",
       "h2": "Sandy loam at the crossroads, low ground toward the river.",
+      "takeaway": "At the crossroads the soil drains moderately well; toward the river, soil and water table work against a lawn. Drain-through turf laid to spec over a pervious surface isn't built-upon area in either county.",
       "paras": [
         "At the Pireway crossroads, USDA soil survey data maps Exum very fine sandy loam on 0 to 2 percent slopes: moderately well drained, rated for no flooding, with a wet layer starting about two feet down. A small share of the same map unit is Grantham soil, poorly drained and wet close to the surface.",
         "That's one point, and it's the high ground; toward the river the soil and the water table both work against a lawn. The free visit is where we measure your specific area and check the ground, so the base is built for what's actually there.",

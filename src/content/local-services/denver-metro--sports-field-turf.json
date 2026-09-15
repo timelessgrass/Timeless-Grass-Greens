@@ -4,8 +4,8 @@
   "service": "sports-field-turf",
   "title": "Sports Field Turf in the Denver Metro | TIMELESS Grass & Greens",
   "description": "How Brighton, Arvada, Lafayette, Boulder and Westminster codes treat an artificial turf sports field, plus Colorado’s PFAS rule. Free visit and written price.",
-  "h1": "Your city’s code shapes a Denver-area turf field.",
-  "lede": "Brighton, Arvada, Lafayette, Boulder and Westminster each set different conditions for artificial turf on a sports field. See what yours asks for, then get a free visit, custom layout and written price from us.",
+  "h1": "Sports field turf in the Denver Metro, shaped by your city's code.",
+  "lede": "Brighton, Arvada, Lafayette, Boulder and Westminster each set different conditions for a turf field. See what yours asks, then get a free visit and written price.",
   "wins": [
     "See how your city’s code treats a turf field",
     "Put PFAS and drainage terms in the order",
@@ -13,13 +13,14 @@
   ],
   "answer": {
     "question": "Can a Denver-area park, school or HOA still put artificial turf on a sports field?",
-    "answer": "Under state law, yes. Colorado’s turf law says nothing in it stops a city, county, town or district from installing, or allowing, artificial turf on athletic fields of play, and it lets them set stricter rules. So the local code sets the details, and each city below treats fields differently. New turf in Colorado must also be free of intentionally added PFAS. Call 303-349-2368 for a free estimate."
+    "answer": "Under state law, yes. Colorado's turf law doesn't stop a city, county or district from allowing artificial turf on athletic fields, and it lets them set stricter rules. New turf statewide must also be free of intentionally added PFAS."
   },
   "blocks": [
     {
       "icon": "file",
       "kicker": "Colorado law",
       "h2": "State law leaves the field to your city.",
+      "takeaway": "State law doesn't stop a city allowing turf on an athletic field, though it bars nonfunctional turf on new commercial, institutional and HOA common-area development. Since 2026, new turf can't contain intentionally added PFAS.",
       "paras": [
         "Since 1 January 2026, <a href=\"https://leg.colorado.gov/bill_files/45372/download\" target=\"_blank\" rel=\"nofollow noopener\">SB24-005</a>, as amended by <a href=\"https://leg.colorado.gov/bill_files/40673/download\" target=\"_blank\" rel=\"nofollow noopener\">HB25-1113</a>, has barred cities, counties, towns, special districts and metropolitan districts from installing, or allowing anyone to install, nonfunctional artificial turf in new development or redevelopment on property such as commercial, institutional and industrial sites and HOA common areas. Functional artificial turf is turf in a space regularly used for civic, community or recreational purposes, which may include a sports field, a playground or part of a park.",
         "The same law says nothing in it stops those bodies installing, or allowing, artificial turf on athletic fields of play, or setting stricter rules of their own. So the local code, and how the city reads your site, sets the conditions. Our <a href=\"/guides/colorado-turf-law/\">Colorado turf law guide</a> covers the rest of the law.",
@@ -30,6 +31,7 @@
       "icon": "pin",
       "kicker": "Brighton, Arvada, Lafayette",
       "h2": "Three codes name fields, each with a condition.",
+      "takeaway": "Brighton needs the turf and any pad to percolate at least 5 inches an hour, Arvada wants the field on an approved plan, and Lafayette won't count it toward required landscaping.",
       "paras": [
         "As posted in September 2026, <a href=\"https://library.municode.com/CO/Brighton/codes/land_use?nodeId=ART8LASIDEST_8.02LADE\" target=\"_blank\" rel=\"nofollow noopener\">Brighton’s landscape standards</a> let artificial turf be used in place of irrigated turf on athletic fields or designated recreation areas approved by the Director. Its <a href=\"https://library.municode.com/CO/Brighton/codes/land_use?nodeId=ART8LASIDEST_8.04PLSP\" target=\"_blank\" rel=\"nofollow noopener\">plant specifications</a> add a drainage standard: the turf and any underlayment below it must have a minimum percolation rate of 5 inches per hour, with permeable liner and bedding so water reaches the soil below. Get the supplier’s percolation rate for the turf and for any pad before the plan goes in.",
         "<a href=\"https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=LADECOARCO_CH4ENSIDE_ART4-6LABU_DIV4-6-7ADTERE_4-6-7-2GRPLBE\" target=\"_blank\" rel=\"nofollow noopener\">Arvada’s code</a> keeps artificial turf from being a permanent, primary ground cover in the landscaped area, except where it is used as part of an approved plan for recreational fields or common amenities such as a clubhouse. Show the turf field on the plan you submit for approval.",
@@ -40,6 +42,7 @@
       "icon": "building",
       "kicker": "Boulder and Westminster",
       "h2": "Two cities judge the field by its use.",
+      "takeaway": "Boulder allows functional turf like sports fields, but not in landscape areas, so ask how it classes yours. Westminster judges each field; its draft would add a planted buffer of at least four feet.",
       "paras": [
         "Where a Boulder project needs a landscape or irrigation plan, the city’s <a href=\"https://bouldercolorado.gov/landscape-manual\" target=\"_blank\" rel=\"nofollow noopener\">landscape manual</a> prohibits artificial turf in all new development unless it is functional artificial turf, a definition that names a sports field. Section 5(B) of the same manual also lists artificial turf among materials prohibited within landscape areas, and takes the meaning of landscaped area from the city code. Ask the city whether it will treat your field as a landscape area before the plan is drawn.",
         "<a href=\"https://www.westminsterco.gov/DocumentCenter/View/1138/City-of-Westminster-Landscape-Regulations-PDF\" target=\"_blank\" rel=\"nofollow noopener\">Westminster’s landscape regulations</a>, effective 1 September 2004, generally prohibit artificial turf outside certain house and duplex yards, but let the city consider sports fields case by case. Artificial turf must meet the standards in the city’s plant list, so get that list before you choose a product.",
@@ -50,6 +53,7 @@
       "icon": "shield",
       "kicker": "Parks, schools and HOAs",
       "h2": "Ask everyone with a say over the site.",
+      "takeaway": "If a metro or special district runs the site, check its turf standard on top of the city's. School districts aren't covered by the state list, so start with the district's facilities office instead.",
       "paras": [
         "The state law’s list of local entities includes special districts and metropolitan districts, and any of them may set turf rules stricter than the state’s. If a metro or special district runs the park or neighborhood amenities where your field would go, check its turf standard as well as the city’s.",
         "School districts are not on that list. For a school field, start with the district’s facilities office and ask which local code, if any, the field will be reviewed under."
@@ -59,6 +63,7 @@
       "icon": "refresh",
       "kicker": "An existing field",
       "h2": "Check whether a new surface means a new review.",
+      "takeaway": "State law allows maintaining turf installed before 2026, but local codes can reach a replacement. Ask your city whether resurfacing counts as a project that brings the field under today's code.",
       "paras": [
         "Colorado’s turf law lets a local entity keep maintaining turf installed before the rule’s 2026 start date. Local codes can still reach a replacement. Boulder’s manual lets landscaping installed before 7 March 2026 stay without complying, unless a project or change to the site requires it. Brighton’s specifications require artificial turf to be replaced when it no longer simulates the infiltration of sod or native grasses. Ask the city whether resurfacing your field counts as a project that brings it under today’s code.",
         "Then book a free visit. We measure, check the ground and give you a custom layout and written price to approve before work starts. See the main <a href=\"/services/sports-field-turf/\">sports field turf service</a> for layout, pad and infill options, or <a href=\"/services/turf-removal-and-replacement/\">turf replacement</a> for a worn surface."

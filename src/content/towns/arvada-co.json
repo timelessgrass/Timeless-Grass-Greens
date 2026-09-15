@@ -6,8 +6,8 @@
   "county": "Jefferson",
   "title": "Artificial Turf in Arvada, CO | TIMELESS Grass & Greens",
   "description": "A lawn, pet area or putting green for your Arvada yard. Replace the patch that takes more work than it earns.",
-  "h1": "A lawn, pet area or putting green for your Arvada yard.",
-  "lede": "Replace the patch that takes more work than it earns. We’ll discuss turf options, a practical layout and the installation scope during a free visit.",
+  "h1": "Artificial turf in Arvada, CO, kept out of public view where the code requires.",
+  "lede": "Arvada's two-day watering schedule and its fines stop at the edge of a turf lawn. We walk the layout with you at a free visit and price it in writing.",
   "wins": [
     "A lawn without routine mowing",
     "Pet areas planned with cleanup access",
@@ -15,13 +15,14 @@
   ],
   "answer": {
     "question": "What changes the installation plan between Arvada properties?",
-    "answer": "Access, existing landscaping and changes in grade affect the installation plan. Show us gates, trees, slopes and wet areas, and bring applicable association requirements. The estimate should describe the removal, preparation and finishing proposed for your property."
+    "answer": "Mostly the ground and the yard's age. East-side lots can hide old ditch laterals and uneven fill, west-side lots add slope and shallow bedrock, and older yards have trees and irrigation to work around. We check at the free visit."
   },
   "blocks": [
     {
       "icon": "home",
       "kicker": "Older yards and new layouts",
       "h2": "Keep the useful parts of the landscape.",
+      "takeaway": "Near Olde Town, plan turf around the trees and irrigation already there. On a newer lot, choose only the lawn or pet area you need and leave room for shade and planting.",
       "paras": [
         "In an established yard near Olde Town, work around trees, paths and existing irrigation instead of starting from an empty outline. On a newer yard, choose the lawn or pet area you actually need and leave space for shade and planting.",
         "For a green, tell us which putt lengths you want. A sloping yard needs a discussion about the playing surface and surrounding access before you settle on its shape."
@@ -31,6 +32,7 @@
       "icon": "shield",
       "kicker": "Before you commit",
       "h2": "Check the requirements for this address and use.",
+      "takeaway": "Bring your association's current landscape rules, and ask the city separately about front-yard, grading or drainage changes. Turf skips routine watering but still needs cleaning and debris removal.",
       "paras": [
         "Bring your community’s current landscape requirements if an association applies. Ask the City about the actual work, particularly front-yard changes, grading or drainage. A private backyard and a shared common area should not be treated as the same proposal.",
         "Artificial turf removes routine lawn irrigation from the converted area. It still needs care; discuss cleaning and debris removal while comparing it with the lawn you have now."
@@ -40,6 +42,7 @@
       "icon": "drop",
       "kicker": "Watering rules",
       "h2": "Arvada fines lawns watered on the wrong day.",
+      "takeaway": "Under Stage 1, Arvada lawns get two assigned watering days, with fines climbing to $500, and new sod gets no grace period. Turf needs none of those days.",
       "paras": [
         "Arvada runs its own water utility, and it has been under Stage 1 mandatory restrictions since 15 April 2026, aiming for about a 20% cut in water use. Lawns get two assigned days a week and no water from 10 a.m. to 6 p.m.: even-numbered houses on Sunday and Thursday, odd-numbered houses on Wednesday and Saturday, and multifamily, commercial and HOA properties on Tuesday and Friday (<a href=\"https://arvadaco.gov/drought\" target=\"_blank\" rel=\"nofollow noopener\">City of Arvada</a>).",
         "The penalties climb: a warning notice first, then $100, $250 and $500. Anyone can report a violation at any hour through the city's Ask Arvada service, and lawn watering ends for the year on 1 October 2026.",
@@ -50,6 +53,7 @@
       "icon": "file",
       "kicker": "Who signs off",
       "h2": "Arvada's code keeps turf out of public view, and names one exception for a green.",
+      "takeaway": "Turf must stay in a back or side yard out of public view, though a putting green up to 400 square feet may be seen. West of Ward Road, most homes answer to an HOA.",
       "paras": [
         "The city writes its own landscaping rules, and they answer the placement question before you draw anything. Section 4-6-7-2 of the Land Development Code counts artificial turf among the inorganic materials that may not be used “as a permanent, primary ground cover within the landscaped area,” then lists the exceptions. One of them is turf that “is used for backyard and side yard applications that are not in public view,” and the code says how far public view reaches: “any area viewable from areas with public access such as streets, sidewalks, parks, and trails” (<a href=\"https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=LADECOARCO_CH4ENSIDE_ART4-6LABU_DIV4-6-7ADTERE_4-6-7-2GRPLBE\" target=\"_blank\" rel=\"nofollow noopener\">Arvada Land Development Code</a>). That exception names back and side yards only, so a front lawn sits outside it whatever the sightlines. In a back or side yard the sightline is the test, and a corner lot’s side yard or a back fence that opens onto a park or trail is inside it.",
         "Putting greens get their own line. Artificial turf for a putting green “not larger than 400 square feet” may go in a side or rear yard even where it is in public view. Keep the green at 400 square feet or under and the sightline stops mattering; add a surrounding lawn or go bigger, and it starts again.",
@@ -61,6 +65,7 @@
       "icon": "shovel",
       "kicker": "The ground",
       "h2": "Celery bottomland in the east, shallow bedrock toward the hogback.",
+      "takeaway": "Some east-side lots hide old ditch laterals and uneven fill, which we look for at the free visit. On sloping west-side lots over shallow bedrock, base depth and drainage decide how turf performs.",
       "paras": [
         "All of Arvada sits on Front Range clay that swells when it gets wet, with pressure of up to 30,000 pounds per square foot. Cracked driveways, sidewalks and basement slabs are the usual sign (<a href=\"https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/\" target=\"_blank\" rel=\"nofollow noopener\">Colorado Geological Survey</a>).",
         "The east side is flat bottomland along Ralston Creek, where Arvada grew celery in the early twentieth century, with heavier, darker topsoil over the clay. A century of flood irrigation left old ditch laterals and uneven fill on some lots. We look for both on the free visit and build the base to suit.",

@@ -6,8 +6,8 @@
   "county": "St. Johns",
   "title": "Artificial Turf in St. Augustine Beach, FL | TIMELESS Grass & Greens",
   "description": "A lawn or putting green for your St. Augustine Beach home. Plan a compact lawn, pet area or green with its layout and care clearly defined.",
-  "h1": "A lawn or putting green for your St. Augustine Beach home.",
-  "lede": "Plan a compact lawn, pet area or green with its layout and care clearly defined. Start with a free visit and written estimate.",
+  "h1": "Artificial turf in St. Augustine Beach, FL, for sand, salt and full sun.",
+  "lede": "No watering day, mowing or fertilizer: turf suits a St. Augustine Beach rental or part-time home. We check the ground at a free visit and give a written price.",
   "wins": [
     "Keep narrow-yard access available",
     "Check lot coverage before sizing the surface",
@@ -15,13 +15,14 @@
   ],
   "answer": {
     "question": "How does lot coverage affect turf in St. Augustine Beach?",
-    "answer": "The City’s published low-density residential limit is 40% impervious coverage. Confirm the classification of the proposed turf and base with the City before assuming it leaves that allowance unchanged. Include other surfaces and any proposed pool or patio work in the same conversation."
+    "answer": "It may limit how much you can add, because the code doesn't say whether turf counts. Low-density lots allow 40% impervious, and the stormwater definition excludes lawns without naming turf. Near the cap, ask the city in writing."
   },
   "blocks": [
     {
       "icon": "layout",
       "kicker": "A compact beach yard",
       "h2": "Keep the route from the door useful.",
+      "takeaway": "On a narrow lot, pick the spot for lawn, pets or putting first and leave room to walk and reach services. The estimate should show how edges finish against paths, beds and fencing.",
       "paras": [
         "On a narrow lot, choose the area for everyday lawn use, pets or a simple putting line before adding features. Leave room to stand, walk and reach services. The finished edges against paths, beds and fencing should be clear in the estimate.",
         "For a rental or part-time home, plan who handles debris removal and pet cleanup. Full-sun areas can become hot, so consider when the space will be used and access to shade."
@@ -31,6 +32,7 @@
       "icon": "file",
       "kicker": "City requirements",
       "h2": "Check coverage and trees together.",
+      "takeaway": "St. Augustine Beach sets its own coverage and tree rules. Tree removal needs City review, so keep existing trees in the layout and resolve any drip-line requirements before site prep.",
       "paras": [
         "St. Augustine Beach is a separate city from St. Augustine and has its own coverage and tree requirements. Its published code sets a 40% impervious limit for low-density residential property, but the wording does not alone establish how every synthetic-turf system is classified. Obtain the City’s answer for your proposal.",
         "The City also requires review for tree removal. Keep existing trees in the layout and resolve any applicable root or drip-line requirements before preparation. Bring the City and community conditions to the visit before the footprint is finalized."
@@ -40,6 +42,7 @@
       "icon": "ruler",
       "kicker": "The impervious cap",
       "h2": "A 0.40 cap, and a base that doesn't eat into it.",
+      "takeaway": "The code doesn't say whether turf counts toward the 0.40 low-density cap, so on a lot near it, ask the city in writing. An open, free-draining base, not compacted fines, keeps rain soaking in.",
       "paras": [
         "St. Augustine Beach limits how much of a lot can be impervious: 0.40 in low-density residential areas, 0.50 in medium density, and 0.70 in high density and commercial (<a href=\"https://www.zoneomics.com/code/st-augustine-beach-FL/chapter_6\" target=\"_blank\" rel=\"nofollow noopener\">St. Augustine Beach code</a>). Whether a turf system counts against that 0.40 is the first design question on almost every lot in the city.",
         "The city's stormwater definition of impervious area leaves out all lawns, landscape areas and gardens (<a href=\"https://library.municode.com/fl/st._augustine_beach/codes/code_of_ordinances?nodeId=PTIICOOR_CH15PLDE_ARTIICOSTMASYPROULI_S15-17DE\" target=\"_blank\" rel=\"nofollow noopener\">St. Augustine Beach Code Sec. 15-17</a>), but it doesn't say whether artificial turf is a lawn. On a lot near its cap, ask the city in writing before you commit to a layout, and put the turf on an open, free-draining base rather than compacted fines, so rain keeps soaking into the ground.",
@@ -50,6 +53,7 @@
       "icon": "home",
       "kicker": "Lots",
       "h2": "The narrow 50-footer, or a real back yard.",
+      "takeaway": "Old platted lots run 50 by 93 feet, leaving a small back yard. Where an HOA governs, state law limits it to turf seen from the street, next door, common areas or a golf course.",
       "paras": [
         "The city covers about 2.17 square miles between the Atlantic and A1A, north to Pope Road, and most of its homes went up in the late 20th century (<a href=\"https://en.wikipedia.org/wiki/St._Augustine_Beach,_Florida\" target=\"_blank\" rel=\"nofollow noopener\">Wikipedia</a>). Low-density lots start at 7,500 square feet, with setbacks of 25 feet in front, 10 at the sides and 20 at the rear. The older platted lots, 50 by 93 feet, get 20, 7.5 and 20, which leaves a small back yard.",
         "Associations vary. Much of the older grid has none, while pockets such as Sea Colony, the city's only private gated oceanfront neighborhood, Anastasia Dunes, Island Hammock, Ocean Palms and Seagate have their own rules. Where an HOA governs, Florida law confines its reach to turf visible from the frontage, a neighboring parcel, a common area or a community golf course (<a href=\"https://www.flsenate.gov/Laws/Statutes/2025/720.3045\" target=\"_blank\" rel=\"nofollow noopener\">Fla. Stat. 720.3045</a>)."
@@ -59,6 +63,7 @@
       "icon": "sun",
       "kicker": "Sand, salt and sun",
       "h2": "Beach sand on coquina, and hardly any shade.",
+      "takeaway": "Salt, wind-blown sand and sun leave a watered sod lawn looking tired. Turf stays green in full sun but heats up, so plan shade for the corner the dog or kids use most.",
       "paras": [
         "Under most yards is barrier-island sand sitting right on coquina shell rock, on ground that's close to flat. Salt blows in off the Atlantic, the wind buries the crown of the grass in sand, and the sun does the rest. Water poured on a sod lawn drains straight through, so it drinks and still looks tired.",
         "Turf stays green in full sun, but full sun heats any surface. Plan shade for the corner the dog or the kids use most in summer (<a href=\"/blog/how-hot-does-artificial-turf-get/\">how hot turf gets</a>).",

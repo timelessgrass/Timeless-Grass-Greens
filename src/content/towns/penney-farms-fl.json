@@ -7,8 +7,8 @@
   "county": "Clay",
   "title": "Artificial Turf in Penney Farms, FL | TIMELESS Grass & Greens",
   "description": "Penney Farms' tree-removal permit and impervious-surface ratio bind lots of an acre or more, and institutional or commercial ground. Most in-town house lots are under it.",
-  "h1": "Artificial turf in Penney Farms, sized to your lot and your trees.",
-  "lede": "Penney Farms runs its own Land Development Regulations, separate from Clay County's. The tree-removal permit and the impervious-surface ratio bind lots of an acre or more, and institutional or commercial ground; most in-town house lots clear both without a permit. Book a free visit to measure your lot and check the ground either way.",
+  "h1": "Artificial turf in Penney Farms, FL, sized to your lot and trees.",
+  "lede": "Most in-town houses clear the tree-removal permit, but the town still caps hard surface. Free visit, then a custom layout you approve before anything is dug.",
   "wins": [
     "A base laid out clear of any protected tree's roots",
     "Site prep sized to your district's coverage limit",
@@ -16,13 +16,14 @@
   ],
   "answer": {
     "question": "Do I need a town permit to put in artificial turf in Penney Farms?",
-    "answer": "Usually not, if your lot is in a residential district under one acre: Low Density lots run at least 21,000 square feet and Medium-Low at least 7,000, both well under an acre, so Section 5.01.01's tree-removal permit doesn't reach a typical in-town house. It does reach a lot of an acre or more and any institutional or commercial ground, where cutting into a protected tree's roots counts as removing it. Ask the Town Clerk which district your lot sits in, and we keep the base outside the roots either way."
+    "answer": "Possibly. The town bars development without a permit, and its definition includes excavating and grading, so ask the Town Clerk whether your dig needs a Site Clearing permit. The tree-removal permit exempts residential lots under an acre."
   },
   "blocks": [
     {
       "icon": "leaf",
       "kicker": "The tree rule",
       "h2": "Cut into an oak's roots and the town calls it tree removal, but not every lot is on the hook.",
+      "takeaway": "Cutting and compacting a base under a canopy can count as tree removal, but homes in residential districts on lots under an acre are exempt from the permit. Confirm your district at Town Hall.",
       "paras": [
         "Penney Farms has its own Land Development Regulations, adopted 28 June 2006 and updated 20 April 2020, and Section 5.01.01 is the part a turf job meets first. It treats anything that will cause a tree to die as removing it, and names two things a lawn install can do: damage to the root system from heavy machinery, and changing the natural grade above the roots or around the trunk (<a href=\"https://penneyfarmsfl.org/wp-content/uploads/Penney-Farms-LDRs-2020.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Penney Farms LDRs</a>). Stripping sod, then cutting and compacting a base under a canopy, can do both.",
         "The permit list covers oaks, the bays and magnolia at 12 inches in diameter or larger, and maple, sweet gum, hickory, elm and sycamore at 18 inches or larger, measured 54 inches above the ground. The code's definitions section casts a wider net, any tree over 8 inches plus palms with 4½ feet of clear trunk, so ask the Town Clerk which measure applies to yours.",
@@ -33,6 +34,7 @@
       "icon": "ruler",
       "kicker": "Around the trunk",
       "h2": "We set the base edge by the tree, not through it.",
+      "takeaway": "A protected tree's zone is its drip line, at least 6 feet and at most 20 from the trunk. We measure trunks and drip lines at the free visit, then draw the layout around them.",
       "paras": [
         "The same regulations define a tree protection zone around each protected tree: 6 feet from the trunk when the drip line is closer than that, the whole drip line when it reaches between 6 and 20 feet, and 20 feet when the crown spreads wider. The code doesn't attach a digging rule to that circle by name, but it's the clearest line the town draws for where the roots are.",
         "At the free visit we check trunk diameters and drip lines against that zone and build your custom layout around it, which you approve before anything is dug. If a green or lawn has to reach under a canopy, that's the part to raise with the Town Clerk before the layout is final."
@@ -42,6 +44,7 @@
       "icon": "layout",
       "kicker": "Coverage",
       "h2": "Your district sets how much of the site can be hard surface, and a state rule sets a floor under all of it.",
+      "takeaway": "Most in-town houses fall in the 0.40 or 0.50 coverage district, and whether a turf base counts as hard surface is the town's call. Bring the product sheet and base detail to Town Hall first.",
       "paras": [
         "Section 6.01.02 caps impervious surface as a ratio of the total to the gross site area: 0.35 in rural density residential, 0.40 in low density residential, 0.50 in medium-low residential, and 0.70 in commercial, industrial and institutional districts. Roofs, sidewalks and parking lots already count toward it, and most in-town houses sit in the 0.40 or 0.50 districts rather than the tighter 0.35. Your district comes from the town's Future Land Use Map, not from how the lot is used today, so confirm it before assuming a ratio.",
         "Artificial turf isn't named. The code defines impervious surface as ground compacted or covered so it is highly resistant to water soaking in, and it leaves porous paving built to town-approved standards out of the count. Where a compacted turf base falls is the town's call, so take the product sheet and base detail to Town Hall before the layout is final. Our <a href=\"/guides/is-artificial-turf-impervious/\">guide to turf and impervious surface</a> lists what to bring.",
@@ -52,6 +55,7 @@
       "icon": "file",
       "kicker": "The paperwork",
       "h2": "Ground work goes through the Town Clerk and the Building Inspector.",
+      "takeaway": "Excavating and grading count as development, which needs a permit the Town Clerk issues after the Building Inspector reviews it, with no public hearing. Ask at Town Hall whether your dig needs one.",
       "paras": [
         "Section 12.01.01 bars development without a permit, and the code's definition of development includes excavating, grading, installing an impervious surface and any tree removal that needs authorization. The Building Inspector reviews each application before the Town Clerk issues the permit, with no public hearing required (12.05.01 and 12.05.02).",
         "For site work the form is the <a href=\"https://penneyfarmsfl.org/wp-content/uploads/Site-Clearing-Site-Work-Application.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Site Clearing/Site Work Application</a>, listed on the town's <a href=\"https://penneyfarmsfl.org/building-department/\" target=\"_blank\" rel=\"nofollow noopener\">Building Department page</a>. It asks for the FLUM designation and acreage, a site plan and survey with a vicinity map, a statement of the proposed work with any wetlands delineated, the tax parcel number, proof of ownership, and a St. Johns River Water Management District permit if wetlands are affected. The town checks completeness within 14 business days.",
@@ -62,6 +66,7 @@
       "icon": "shovel",
       "kicker": "Ground and wells",
       "h2": "Flat sand, a shallow water table, and town wells to keep clear of.",
+      "takeaway": "The water table can sit about a foot down, and within 300 feet of a town well the code bars drainage trenches that cut into it. Ask Town Hall how far the nearest well is.",
       "paras": [
         "USDA soil data at the town's center point returns Hurricane fine sand on 0 to 5 percent slopes, somewhat poorly drained, with the water table as shallow as 69 centimetres in the wet season. A short way south it's Leon fine sand, poorly drained, at 31 centimetres, about a foot down (<a href=\"https://sdmdataaccess.sc.egov.usda.gov/\" target=\"_blank\" rel=\"nofollow noopener\">USDA Soil Data Access</a>). We build the base for the soil your lot actually has and plan where water leaves the turf when the ground below is already wet.",
         "Town water comes from two wells in the Floridan Aquifer (<a href=\"https://penneyfarmsfl.org/wp-content/uploads/Town-of-Penney-Farms-CCR-2025.pdf\" target=\"_blank\" rel=\"nofollow noopener\">town water quality report, 2025</a>), and the code guards them, though its own numbers don't agree with each other. Section 5.04.02 bars development within 50 feet of a public drinking well, but the code's definitions section separately calls the 'zone of exclusion' the land within 200 feet. Either way, within 300 feet the code bars excavated drainage that cuts into the water table, and on sand this wet a drain trench can reach it. Ask Town Hall how far your lot sits from a well before a trench goes on the plan.",

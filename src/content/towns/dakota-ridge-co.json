@@ -7,8 +7,8 @@
   "county": "Jefferson",
   "title": "Artificial Turf in Dakota Ridge, CO | TIMELESS Grass & Greens",
   "description": "Turf for your Dakota Ridge yard, planned around Jefferson County's 2026 wildfire code, the hogback's dipping bedrock and your water district's rules.",
-  "h1": "Turf for your Dakota Ridge yard, planned around the county's rules.",
-  "lede": "Jefferson County writes the rules here, and its wildfire code can decide where turf may meet the house. Plan a lawn, dog run or putting green with that edge drawn in, then start with a free visit to measure and check the ground.",
+  "h1": "Artificial turf in Dakota Ridge, CO, planned around the county's 2026 wildfire code.",
+  "lede": "Pulling a county permit in the wildfire overlay? We keep the first 5 feet from the house turf-free and start the lawn beyond it. Free visit first.",
   "wins": [
     "Turf kept clear of the 5-foot zone where the code applies",
     "A base built for the ground below the hogback",
@@ -16,13 +16,14 @@
   ],
   "answer": {
     "question": "Does Jefferson County's wildfire code affect artificial turf in Dakota Ridge?",
-    "answer": "It can. For county permits applied for since 1 July 2026 on a parcel in the wildfire overlay, a new house, an addition, a rebuilt deck or re-siding 25 percent or more of the walls brings a 5-foot zone of noncombustible, hard surface such as rock, gravel, sand, concrete, bare earth or pavers. Turf isn't on that list. Start the turf 5 feet out, or ask the county in writing first."
+    "answer": "Only when a county permit applied for since 1 July 2026 brings it in. In the wildfire overlay, a new house, addition, deck rebuild or re-siding 25 percent or more of the walls requires noncombustible ground in the first 5 feet, where turf isn't listed."
   },
   "blocks": [
     {
       "icon": "shield",
       "kicker": "Wildfire Resiliency Code",
       "h2": "Pull a permit in the overlay, and turf starts 5 feet from the house.",
+      "takeaway": "A permit in the wildfire overlay, like a new house, addition or deck rebuild, brings a 5-foot noncombustible zone against the house. Turf isn't on the allowed list, so we start it beyond that band.",
       "paras": [
         "Dakota Ridge has no city hall. It is an unincorporated community governed by Jefferson County, with Lakewood to the north, Ken Caryl to the south and the Dakota Hogback to the west (<a href=\"https://en.wikipedia.org/wiki/Dakota_Ridge,_Colorado\" target=\"_blank\" rel=\"nofollow noopener\">Wikipedia</a>). The county rule that shapes a new yard most is its Wildfire Resiliency Code, which covers permits applied for on or after 1 July 2026 (<a href=\"https://www.jeffco.us/DocumentCenter/View/57852/\" target=\"_blank\" rel=\"nofollow noopener\">Jefferson County Wildfire Resiliency Code</a>).",
         "The code isn't retroactive, and it only reaches parcels inside the county's Wildland-Urban Interface overlay. A permit is what brings it in: a new house, an addition, a deck rebuild or new siding. Replacing a beam, a post or 25 percent or more of a deck's joists makes it a rebuild, while new boards alone need no permit. Re-siding under 25 percent of the walls is exempt, and a re-roof brings no yard rules (<a href=\"https://www.jeffco.us/2672/Defensible-Space-Wildfire-Mitigation\" target=\"_blank\" rel=\"nofollow noopener\">Jefferson County</a>). A turf lawn on its own isn't one of the triggers the county lists.",
@@ -34,6 +35,7 @@
       "icon": "pin",
       "kicker": "Class 1 or Class 2",
       "h2": "Find your parcel on the county's map before you draw the yard.",
+      "takeaway": "Check the county's map to see whether your parcel is Class 1 or Class 2; both share the same 5-foot rule near the house. If a permit's coming, settle where turf stops before final inspection.",
       "paras": [
         "On the county's overlay map, dated February 2026, much of the ground between C-470 and Kipling Street, south of Quincy Avenue, is shaded blue for Class 1, with some blocks left white. West of C-470, up toward the hogback, the shading turns orange for Class 2 (<a href=\"https://www.jeffco.us/DocumentCenter/View/58294/\" target=\"_blank\" rel=\"nofollow noopener\">WUI Overlay District map</a>). The map carries no lot lines, so check your parcel on the county's interactive map or call Planning &amp; Zoning on 303-271-8700 (<a href=\"https://www.jeffco.us/2672/Defensible-Space-Wildfire-Mitigation\" target=\"_blank\" rel=\"nofollow noopener\">Jefferson County</a>).",
         "Both classes share the 5-foot rule. From 5 to 30 feet, Zone 2 rules out juniper, arborvitae and Gambel oak, which is worth knowing where turf meets a planting bed (<a href=\"https://www.jeffco.us/DocumentCenter/View/57852/\" target=\"_blank\" rel=\"nofollow noopener\">Wildfire Resiliency Code</a>). Class 2 adds Zone 3, out to 100 feet, with tree crowns spaced apart (<a href=\"https://www.jeffco.us/2672/Defensible-Space-Wildfire-Mitigation\" target=\"_blank\" rel=\"nofollow noopener\">Jefferson County</a>), and stretches Zone 2 standards 10 feet either side of the driveway (<a href=\"https://www.jeffco.us/DocumentCenter/View/2474/\" target=\"_blank\" rel=\"nofollow noopener\">Zoning Resolution Section 39</a>).",
@@ -44,6 +46,7 @@
       "icon": "shovel",
       "kicker": "Dipping bedrock",
       "h2": "On the west side, the rock under the yard stands on edge.",
+      "takeaway": "Along C-470, heaving bedrock can raise ridges up to two feet high when it gets wet. We check your ground's fall and shape the base to send water away from the foundation.",
       "paras": [
         "C-470 runs through the western part of Dakota Ridge (<a href=\"https://en.wikipedia.org/wiki/Dakota_Ridge,_Colorado\" target=\"_blank\" rel=\"nofollow noopener\">Wikipedia</a>), and the county maps a Designated Dipping Bedrock Area along it. The area's western edge follows the top of the Dakota Sandstone on the hogback's eastern dip slope, and the layers beneath it tilt east or northeast at 30 to 90 degrees from horizontal. The guide's map, revised 29 August 2024, draws the band along C-470 from south of Morrison toward Littleton (<a href=\"https://www.jeffco.us/DocumentCenter/View/2074/Designated-Dipping-Bedrock-Area-Guide-PDF\" target=\"_blank\" rel=\"nofollow noopener\">Designated Dipping Bedrock Area Guide</a>).",
         "The hazard there is heaving bedrock. Ridges as large as two feet high form where neighboring layers, each with a different potential to swell, get wet. The county sees damage typically within ten years of development, the ground can keep moving for years or decades, and the pattern is erratic: a damaged house can sit next to homes with no damage at all.",
@@ -55,6 +58,7 @@
       "icon": "drop",
       "kicker": "Water",
       "h2": "The district on your bill sets the surcharge and the season.",
+      "takeaway": "Check which district bills you. On a Lakehurst bill, grass watering is prohibited after September 30, with fines up to $2,000 for spray irrigation; an artificial lawn has no sprinkler season to lose.",
       "paras": [
         "Outside Denver, Denver Water sells through distributors. A Master Meter distributor reads its own customers' meters and bills them on rate schedules it sets itself (<a href=\"https://www.denverwater.org/about-us/how-we-operate/service-area/distributors\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>). Lakehurst Water and Sanitation District is one, and its district map takes in neighborhoods south of Quincy Avenue between Kipling Parkway and C-470 (<a href=\"https://lakehurstwater.org/about-us/district-map/\" target=\"_blank\" rel=\"nofollow noopener\">Lakehurst Water</a>).",
         "On a Lakehurst bill, residential use above 5,000 gallons a month carries a drought surcharge of $1.65 per 1,000 gallons, charged from June for May use. Grass watering is prohibited after 30 September 2026. Spray irrigation after that date is a willful violation, with fines up to $2,000, and the restrictions and surcharges run through 30 April 2027 (<a href=\"https://lakehurstwater.org/drought/\" target=\"_blank\" rel=\"nofollow noopener\">Lakehurst Water</a>). An artificial lawn has no sprinkler season to lose.",

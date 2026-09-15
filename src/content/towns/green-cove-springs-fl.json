@@ -7,8 +7,8 @@
   "county": "Clay",
   "title": "Artificial Turf in Green Cove Springs, FL | TIMELESS Grass & Greens",
   "description": "Turf for Green Cove Springs yards, planned under the city's cap on hard surface: 40% of the site in low-density residential areas, 50% in medium density.",
-  "h1": "Turf for Green Cove Springs yards, planned under the city's cap.",
-  "lede": "Green Cove Springs limits how much of your lot can be impervious surface. We build turf on a base made for your soil, with a layout you can take to the city before work starts.",
+  "h1": "Artificial turf in Green Cove Springs, FL, planned around the city's hard-surface limit.",
+  "lede": "Your roof, driveway and patio already count toward the city's impervious cap. A free visit gets you a measured layout showing turf against them, then a written price.",
   "wins": [
     "A layout that shows the turf and the hard surface around it",
     "A base built for sand with water not far below",
@@ -16,13 +16,14 @@
   ],
   "answer": {
     "question": "Does artificial turf count against Green Cove Springs' impervious-surface limit?",
-    "answer": "Green Cove Springs' code doesn't mention artificial turf. Sec. 113-4 caps impervious surface at 40% of the gross site in low-density residential areas and 50% in medium density, and porous paving used in line with the city's construction manual isn't counted. Before the layout is final, ask Development Services how a permeable turf system on your parcel will be counted and what the manual asks you to show."
+    "answer": "The code doesn't say. It caps impervious surface at 40% of the site in low-density areas and 50% in medium density, and porous paving built to the construction manual isn't counted. Ask Development Services how permeable turf counts before sizing it."
   },
   "blocks": [
     {
       "icon": "ruler",
       "kicker": "The local rule",
       "h2": "Your lot has a cap on hard surface, and the turf area has to fit under it.",
+      "takeaway": "Your roof, driveway and patio already count toward the site's hard-surface cap, and turf could push a tight lot over if it's counted too. Ask the city how permeable turf counts before you size it.",
       "paras": [
         "Sec. 113-4 of the city's land development code caps impervious surface on every development site by land use district: 40% in residential low density, 50% in residential medium density and in the Transition district, 70% in residential high density and 100% in the Downtown Core. The ratio is all the impervious surface on the site divided by the gross site area (<a href=\"https://www.zoneomics.com/code/green-cove-springs-FL/chapter_5\" target=\"_blank\" rel=\"nofollow noopener\">Green Cove Springs LDC, Ch. 113</a>).",
         "Your roof, driveway and patio already use part of that allowance, so a large turf area could tip a 40% lot over if it were counted as hard surface. The code never mentions artificial turf. Subsection (c) is the opening: porous paving used in line with the construction manual isn't counted.",
@@ -33,6 +34,7 @@
       "icon": "file",
       "kicker": "Who reviews it",
       "h2": "Planning & Zoning approves development plans before a building permit.",
+      "takeaway": "Turf isn't on the city's list of work needing Planning and Zoning approval, so ask whether yours does. Take our layout; it marks the turf, its drainage and your existing hard surface.",
       "paras": [
         "Development Services, at City Hall on 321 Walnut Street, handles zoning, building permits and code enforcement. Its Planning & Zoning page says plans for development, from new buildings and additions to pools, fences, screens and signs, need Planning and Zoning approval before a building permit application is approved (<a href=\"https://www.greencovesprings.com/206/Planning-Zoning\" target=\"_blank\" rel=\"nofollow noopener\">City of Green Cove Springs: Planning & Zoning</a>).",
         "Turf isn't on that list, so ask whether yours needs review before anything is ordered. The office is open Monday to Thursday and closed Fridays, and planning questions go to planning@greencovesprings.com (<a href=\"https://www.greencovesprings.com/191/Development-Services\" target=\"_blank\" rel=\"nofollow noopener\">Development Services</a>). Take our layout with you: it marks the turf, where water leaves it and the hard surface already on the lot."
@@ -42,6 +44,7 @@
       "icon": "shovel",
       "kicker": "The ground",
       "h2": "Sand on top, and a water table that rises to meet it.",
+      "takeaway": "Rain moves through turf and stone fast, then meets ground that stays wet part of the year. We build the base for that soil and grade it so water heads away from the house.",
       "paras": [
         "In central Green Cove Springs the USDA soil survey maps Cassia fine sand. Its main soil, Mandarin, makes up 80% of the map unit and is somewhat poorly drained: at its highest point in the year the water table sits 77 centimeters down, about 30 inches. The land is nearly flat, 0 to 2% slope, with no flooding or ponding mapped (<a href=\"https://sdmdataaccess.sc.egov.usda.gov/\" target=\"_blank\" rel=\"nofollow noopener\">USDA Soil Data Access</a>).",
         "Rain passes through turf and stone quickly, then meets ground that is wet for part of the year. We build the base for that soil and grade it so water heads somewhere that can take it, away from the house and the lot next door.",
@@ -52,6 +55,7 @@
       "icon": "drop",
       "kicker": "Your water utility",
       "h2": "The city pumps your water, and it has asked you to hold off on new sod.",
+      "takeaway": "The city asks residents to delay new sod, if possible, until conditions improve, and watering is down to one day a week. A turf area needs no sod and no watering day.",
       "paras": [
         "Green Cove Springs runs its own water system: five Floridan Aquifer wells feeding the Harbor Road and Reynolds treatment plants. The city says nearly 50% of the water it produces is used for irrigation (<a href=\"https://www.greencovesprings.com/279/Water-Wastewater-Division\" target=\"_blank\" rel=\"nofollow noopener\">Water / Wastewater Division</a>).",
         "On 13 May 2026 the city announced a Phase III extreme water shortage declared by the St. Johns River Water Management District: one watering day a week, between 6 p.m. and 8 a.m., Saturday for odd-numbered houses and Sunday for even-numbered ones. It covers private wells and irrigation pumps, and watering new sod is restricted further (<a href=\"https://www.greencovesprings.com/AlertCenter.aspx?AID=Phase-III-Extreme-Water-Declaration-by-t-118\" target=\"_blank\" rel=\"nofollow noopener\">city notice, 13 May 2026</a>).",
@@ -62,6 +66,7 @@
       "icon": "refresh",
       "kicker": "Magnolia Point",
       "h2": "Reclaimed water for Magnolia Point is designed, not built.",
+      "takeaway": "A reclaimed water system for the neighborhood is designed but not built, so a Magnolia Point lawn is on the same one-day order as the rest of town. Check any subdivision covenants before you plan.",
       "paras": [
         "The city already sends treated effluent to the lakes at Magnolia Point Golf and Country Club for irrigation. A reclaimed water system for the neighborhood itself has its design finished, but construction is on hold pending alternate projects and funding. Built, it would save about 73.9 million gallons of Floridan Aquifer water a year (<a href=\"https://www.greencovesprings.com/582/Magnolia-Point-Reclaimed-Water-System\" target=\"_blank\" rel=\"nofollow noopener\">Magnolia Point Reclaimed Water System</a>).",
         "Until then, a Magnolia Point lawn is on the same one-day order as the rest of town. If your subdivision has covenants, read them before you plan; the state rule leaves covenants and deed restrictions alone, and our guide covers <a href=\"/guides/florida-friendly-landscaping-and-hoas/\">what an HOA can and can't block</a>."

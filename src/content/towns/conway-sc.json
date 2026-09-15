@@ -6,8 +6,8 @@
   "county": "Horry",
   "title": "Artificial Turf in Conway, SC | TIMELESS Grass & Greens",
   "description": "Artificial lawns, dog runs and putting greens in Conway. Tell us which part of your yard you want to change.",
-  "h1": "Artificial lawns, dog runs and putting greens in Conway.",
-  "lede": "Tell us which part of your yard you want to change. We’ll visit, discuss the layout and preparation, and provide a written estimate.",
+  "h1": "Artificial turf in Conway, SC, priced one area at a time.",
+  "lede": "Fix the one patch that bothers you, or the whole yard. We visit free, talk layout and prep, then give a written estimate you can compare.",
   "wins": [
     "Start with one useful area or the whole lawn",
     "Include access and preparation in the scope",
@@ -22,6 +22,7 @@
       "icon": "layout",
       "kicker": "Choose the area",
       "h2": "Keep what works and change the difficult patch.",
+      "takeaway": "A dog’s path, a worn patch or space for a green can be a better start than the whole yard. Mark what you want to keep, and bring any survey or site plan.",
       "paras": [
         "A dog’s route from the back door, a worn patch beside the patio or the space for a practice green can be a better starting point than the entire yard. Mark the beds, trees and paths you want to retain. For putting, decide which distances and directions you want to practice.",
         "Gates, steps and material access affect installation as well as the finished turf area. Bring any survey or site plan and include the route to the back yard in the visit."
@@ -31,6 +32,7 @@
       "icon": "drop",
       "kicker": "Wet-yard questions",
       "h2": "Bring photos from after the rain.",
+      "takeaway": "Show us where water collects beside the house or arrives from next door, with rain photos if you have them. Ask for drainage work and unresolved conditions to be named in the estimate.",
       "paras": [
         "If water collects beside the house or comes across from another property, show us where and when it happens. Rain photos can explain something a dry-day visit misses. Ask for any drainage work and unresolved conditions to be identified in the estimate.",
         "Check whether the parcel is inside Conway or in unincorporated Horry County before asking about requirements. If the property has floodplain concerns, grading or drainage changes need their own review; turf is a surface choice, not a flood-control solution."
@@ -40,6 +42,7 @@
       "icon": "pin",
       "kicker": "The address",
       "h2": "City limits change who reviews the project.",
+      "takeaway": "A Conway mailing address doesn’t prove you’re inside city limits — check the parcel on the city’s GIS first. Myrtle Trace and Myrtle Trace South are different rulebooks, so get the answer from your association.",
       "paras": [
         "Use the address and parcel number when checking jurisdiction. The <a href=\"https://www.conwaysc.gov/departments/planning___development/conway_gis.php\" target=\"_blank\" rel=\"nofollow noopener\">City of Conway GIS page</a> links separate city-limit, zoning and flood maps. Start there instead of treating a Conway mailing address as proof that every city rule applies.",
         "Inside the city, <a href=\"https://www.conwaysc.gov/departments/planning___development/index.php\" target=\"_blank\" rel=\"nofollow noopener\">Planning and Development</a> handles land-use questions and tree protection, while <a href=\"https://www.conwaysc.gov/departments/building/index.php\" target=\"_blank\" rel=\"nofollow noopener\">Construction Services</a> handles building permits. For an unincorporated address, start with <a href=\"https://www.horrycountysc.gov/Departments/Planning-and-Zoning\" target=\"_blank\" rel=\"nofollow noopener\">Horry County Planning and Zoning</a>. Describe the whole job: turf area, excavation, imported base, grading, drains and any fence changes. Ask which reviews apply. An answer about replacing a surface may not cover a separate drainage alteration.",
@@ -53,6 +56,7 @@
       "icon": "drop",
       "kicker": "Water before turf",
       "h2": "Show the wet area and where water can leave.",
+      "takeaway": "If your lot sits in a mapped flood hazard area, take the planned prep to the Building Department first, since grading and filling count as development. Turf is a surface, not flood control.",
       "paras": [
         "Conway publishes <a href=\"https://www.conwaysc.gov/departments/building/flood_plain_information1.php\" target=\"_blank\" rel=\"nofollow noopener\">property-level floodplain guidance</a>, including maps and a Building Department contact. Its definition of development includes filling, grading and excavating. If the work area is in a mapped flood hazard area, take the proposed preparation to that department before assuming a yard project falls outside review.",
         "For the estimate, point out water collecting beside the patio, runoff arriving from another property, and downspout discharge. Photos taken after ordinary rain can explain a problem that is invisible during a dry visit. Mark drains and low channels on the plan. The useful question is where water from the finished area is intended to go, and whether that route is available.",
@@ -63,6 +67,7 @@
       "icon": "shovel",
       "kicker": "Layout and access",
       "h2": "Fit the installation around what stays.",
+      "takeaway": "Measure the route in as well as the turf area, and flag trees you want kept. Ask the estimate to separate turf, prep, edging and cleanup from anything still undecided, so layouts compare fairly.",
       "paras": [
         "Measure the route from the unloading point to the back yard as well as the turf area. Gates, steps, fences and material-storage space affect how work can be carried out. Identify irrigation, utility routes, patio edges and trees you want to keep. Conway Planning is the city contact for tree-protection questions; raise them before including excavation or removal in the layout.",
         "For a putting green, mark the standing area, cup locations and room for any chipping you want to practice. For a dog run, show the exit from the house and access for cleaning. For a lawn, decide whether the whole yard needs conversion or a smaller, heavily used area solves the problem.",

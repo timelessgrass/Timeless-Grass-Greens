@@ -4,8 +4,8 @@
   "service": "turf-removal-and-replacement",
   "title": "Turf Replacement in the Denver Metro | TIMELESS Grass & Greens",
   "description": "Replace worn artificial turf in the Denver metro: what Colorado's PFAS rule asks of the new turf, and how four metro cities treat a replacement.",
-  "h1": "Replace worn turf with your city's rules settled first.",
-  "lede": "Colorado law lets your old turf stay, but since 2026 no one may install turf with intentionally added PFAS, so plan on the new turf meeting that rule. In Northglenn, Brighton, Thornton and Westminster, the city's landscape rules may or may not reach the job. Find your city below, then book a free visit: we measure, check the ground and give you a custom layout to approve before work starts.",
+  "h1": "Turf removal and replacement in the Denver Metro, starting with your city's rules.",
+  "lede": "Your old turf can stay, but since 2026 new turf can't contain intentionally added PFAS. Find your city below to see whether its landscape rules reach the job.",
   "wins": [
     "Know what Colorado's PFAS rule asks of the new turf",
     "See whether your city reviews a replacement",
@@ -13,13 +13,14 @@
   ],
   "answer": {
     "question": "Can I replace old artificial turf in the Denver metro?",
-    "answer": "Yes. Colorado law doesn't stop you maintaining turf installed before 1 January 2026. Since that date, though, no one may install artificial turf that contains intentionally added PFAS chemicals on any property in the state, so get documentation for the new turf. Whether a city's landscape code reaches the job depends on the city and the property. Call 303-349-2368 to book a visit."
+    "answer": "Yes. Colorado law doesn't stop you maintaining turf installed before 1 January 2026. Since then, no one may install turf with intentionally added PFAS statewide, so get documentation for the new turf. Whether your city's code reaches the job depends on the property."
   },
   "blocks": [
     {
       "icon": "shield",
       "kicker": "Colorado's PFAS rule",
       "h2": "Old turf can stay. New turf can't contain intentionally added PFAS.",
+      "takeaway": "Since 2026, new turf can't contain intentionally added PFAS anywhere in the state, though keeping turf installed earlier is fine. Get the maker's written PFAS statement before you approve a replacement product.",
       "paras": [
         "Since 1 January 2026, Colorado law says a person shall not install artificial turf that contains intentionally added PFAS chemicals on any portion of property in the state (<a href=\"https://leg.colorado.gov/bill_files/46185/download\" target=\"_blank\" rel=\"nofollow noopener\">SB24-081</a>). That includes your back yard. The same section says nothing in it prohibits maintaining turf installed before that date.",
         "It doesn't say where maintaining ends. The state turf law defines maintaining, for its own article, as an action to preserve the existing state of turf that has already been installed (<a href=\"https://leg.colorado.gov/bill_files/45372/download\" target=\"_blank\" rel=\"nofollow noopener\">SB24-005</a>). Neither law spells out a full replacement, so plan on the new turf meeting the PFAS rule. Before you approve a product, get the maker's written statement and check whether it covers the backing and infill as well as the fibers. Our <a href=\"/blog/does-artificial-turf-contain-pfas/\">PFAS article</a> has the background."
@@ -29,6 +30,7 @@
       "icon": "pin",
       "kicker": "Northglenn",
       "h2": "In Northglenn, find out whether the turf rules reach your home lot.",
+      "takeaway": "Northglenn exempts most home landscaping, but its materials list still points to the city's own turf regulations. Ask Planning and Development whether those apply to your lot before the old turf comes up.",
       "paras": [
         "Northglenn's landscaping section applies to new development and land uses and to some expansions. It exempts site landscaping improvements at an existing single-family home, duplex or manufactured home, except for two parts: site area landscaping and the list of appropriate landscaping materials (<a href=\"https://municode.northglenn.org/ch11/content_11-4.html\" target=\"_blank\" rel=\"nofollow noopener\">Northglenn Municipal Code 11-4-7</a>). That list allows artificial ground cover \"pursuant to\" the city's artificial turf regulations.",
         "Those regulations are what's at stake on a <a href=\"/denver-metro/northglenn-co/\">Northglenn</a> lot. They call for old groundcover removed, compacted porous road base, anchored edges and seams, and no slope over six percent. They also require \"replacement of the artificial turf when maintenance or repair is unable to simulate a healthy living turf\". The code doesn't say outright whether all of that follows the materials list onto a home lot, so ask Planning and Development before the old turf comes up."
@@ -38,6 +40,7 @@
       "icon": "ruler",
       "kicker": "Brighton",
       "h2": "In Brighton, a swap at an existing home or site may fall outside the landscape code.",
+      "takeaway": "Brighton's landscape code exempts most repairs to an existing home unless design review applies. Where it applies, turf must percolate at least 5 inches an hour, so ask Community Development whether yours is exempt.",
       "paras": [
         "<a href=\"/denver-metro/brighton-co/\">Brighton</a>'s landscape standards are written for new development (<a href=\"https://library.municode.com/CO/Brighton/codes/land_use?nodeId=ART8LASIDEST_8.01INAP\" target=\"_blank\" rel=\"nofollow noopener\">Brighton Land Use Code 8.01</a>). Repairs and improvements to an existing detached house or duplex are exempt. The exception is work subject to Site Improvement or Residential Design Review, or part of a larger neighborhood or subdivision plan. So are repairs and improvements to any existing development that don't grow its building footprint or impervious surface by more than 10%.",
         "Where the standards do apply, the turf and any underlayment need a percolation rate of at least 5 inches an hour. Turf \"shall be replaced when it is no longer simulating the infiltration properties of sod or native grasses\" (<a href=\"https://library.municode.com/CO/Brighton/codes/land_use?nodeId=ART8LASIDEST_8.04PLSP\" target=\"_blank\" rel=\"nofollow noopener\">Brighton Land Use Code 8.04</a>). Ask Community Development whether your replacement is exempt."
@@ -47,6 +50,7 @@
       "icon": "file",
       "kicker": "Thornton",
       "h2": "In Thornton, plan for a permit and keep the PFAS paperwork.",
+      "takeaway": "Thornton requires a Minor Development Permit and PFAS documentation before turf goes in, so ask whether a replacement needs one. Keep the file: compliant paperwork means a product later found to contain PFAS may remain.",
       "paras": [
         "<a href=\"/denver-metro/thornton-co/\">Thornton</a> Water's 2026 turf rules, published for its water-wise landscape rebate, say a Minor Development Permit is required before artificial turf is installed as landscaping (<a href=\"https://www.thorntonwater.com/wp-content/uploads/2026/02/2026-residential_artificial_turf_info__rules-1.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Thornton Water</a>). PFAS documentation goes in with the permit application, and the test is stricter than state law: a maker's statement that covers the whole PFAS class, or published testing that the maker didn't carry out.",
         "Keep that file after the job. The same rules say a product later found to contain PFAS may remain in place if the applicant complied with the documentation requirements. They also list replacement of the turf when maintenance or repair cannot simulate a healthy living turf. Ask the Planning Department's Planner of the Day whether new turf where old turf was needs the permit."
@@ -56,6 +60,7 @@
       "icon": "home",
       "kicker": "Westminster",
       "h2": "In Westminster, a back yard and a common area are reviewed differently.",
+      "takeaway": "In Westminster, back-yard turf has in practice gone in without City review, but HOA common areas and commercial sites need a development plan amendment. A rewrite is under way, so ask which rules apply.",
       "paras": [
         "<a href=\"/denver-metro/westminster-co/\">Westminster</a>'s landscape regulations, effective 1 September 2004, allow artificial turf in single-family detached or duplex yards not next to a street, park or open space. They say replacement is required when the City determines the turf no longer visually mimics a healthy living lawn (<a href=\"https://www.westminsterco.gov/DocumentCenter/View/1138/City-of-Westminster-Landscape-Regulations-PDF\" target=\"_blank\" rel=\"nofollow noopener\">Westminster Landscape Regulations</a>). The city's April 2025 FAQ says residents have in practice put turf in back yards without restrictions or City review. Landscape changes on HOA common areas, commercial sites and public rights of way need an Official Development Plan amendment (<a href=\"https://www.westminsterco.gov/DocumentCenter/View/1457/Landscape-Changes---Frequently-Asked-Questions-FAQ-PDF\" target=\"_blank\" rel=\"nofollow noopener\">City of Westminster FAQ</a>).",
         "A rewrite is under way, and the city says it is prospective and not retroactive. Its May 2026 public review draft leaves the effective date blank. It would apply the landscape chapter to an existing development without an approved plan covering landscaping once landscaping changes by at least 200 square feet or five percent, whichever is greater. It would allow turf in rear yards of single-unit lots and in recreation areas, with a planted buffer of at least four feet from any impervious surface (<a href=\"https://www.westminsterco.gov/DocumentCenter/View/6951\" target=\"_blank\" rel=\"nofollow noopener\">Westminster draft code</a>). Ask planning@westminsterco.gov which rules apply when you replace, and whether a like-for-like swap counts as a change."

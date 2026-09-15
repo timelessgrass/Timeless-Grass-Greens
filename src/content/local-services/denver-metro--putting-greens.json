@@ -4,8 +4,8 @@
   "service": "putting-greens",
   "title": "Putting Greens in the Denver Metro | TIMELESS Grass & Greens",
   "description": "Backyard putting greens across the Denver metro. Choose cup positions, slopes and fringe with a free site visit, custom layout and written estimate.",
-  "h1": "Make room for your short game in Denver.",
-  "lede": "A few putts before work or a longer practice session at home. We design and install backyard putting greens from Boulder to Castle Rock, with the shape, cup positions and written price agreed before work starts.",
+  "h1": "Putting greens in the Denver Metro, designed around the putts you practice.",
+  "lede": "A few putts before work, or a longer session at home. We design your green's shape and cup positions, then agree a written price before work starts.",
   "wins": [
     "Choose the putts you want to practice",
     "Fit the green around the rest of the yard",
@@ -20,6 +20,7 @@
       "icon": "flag",
       "kicker": "Your practice",
       "h2": "Choose useful putts before adding size.",
+      "takeaway": "Decide which putts you want, short ones around a cup, longer lines or chips from the edge, before sizing the green. Leave space for the patio, a walking route and other yard uses.",
       "paras": [
         "Think about how you practice now: short putts around a cup, longer lines across the green or chips from the edge. Discuss where you would stand and how the cup positions could offer different putts within the available space.",
         "Keep space for the patio, a walking route and other yard activities. If you want to chip, include the approach area and the direction of play in the first drawing. Product choice and the available space need to suit those shots."
@@ -29,6 +30,7 @@
       "icon": "shovel",
       "kicker": "The installation",
       "h2": "The shape starts underneath the turf.",
+      "takeaway": "The base sets the contours, and turf, infill and brushing shape the roll, so tell us the speed and breaks you like first. Point out settling or standing water before we plan the base.",
       "paras": [
         "The base establishes the contours. Putting turf, infill and brushing also affect the finished roll, so describe the speed and breaks you enjoy before selecting the system. Ask how those choices will affect routine care.",
         "Point out settling, uneven ground and water that gathers in the proposed area. We review the work site before agreeing the preparation. The ground conditions found at the property guide the base work and any drainage changes included in the scope."
@@ -38,6 +40,7 @@
       "icon": "home",
       "kicker": "Property requirements",
       "h2": "Bring the landscape guidelines to the visit.",
+      "takeaway": "A green can be a different proposal than a lawn under your community's guidelines. Ask your association, city or district which design requirements apply before you order materials.",
       "paras": [
         "A green may be a different proposal from the artificial lawn described in a community’s guidelines. Ask the association, municipality or district which design requirements apply to your address and intended layout, including its location in the yard.",
         "For a newer Castle Rock property or a Ken-Caryl community, resolve any questions about the proposed green before ordering materials. The local pages for <a href=\"/denver-metro/castle-rock-co/\">Castle Rock</a> and <a href=\"/denver-metro/ken-caryl-co/\">Ken Caryl</a> help identify the relevant planning questions. Confirm how the proposed green fits the requirements for that property."
@@ -47,6 +50,7 @@
       "icon": "ruler",
       "kicker": "Your estimate",
       "h2": "Price the contours, access and finishing together.",
+      "takeaway": "Removal, gate access, base work and any chipping area all shape the price. At the free visit we measure and discuss what fits, then give you a layout and written price to approve.",
       "paras": [
         "Removal, access through gates, base work, cups, fringe and any chipping area all affect the installation scope. On the free visit, we measure and discuss what fits; you receive a custom layout and written price to consider before work begins.",
         "After installation, keep leaves and debris off the surface and follow the selected system’s brushing and infill guidance. Ask about changes in roll, seams or edges as they arise. See the main <a href=\"/services/putting-greens/\">putting-green service</a> for the available choices."

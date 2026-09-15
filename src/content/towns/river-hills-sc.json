@@ -7,8 +7,8 @@
   "county": "Horry",
   "title": "Artificial Turf in River Hills, SC | TIMELESS Grass & Greens",
   "description": "Replace a River Hills lawn or add a green under the POA's irrigation, sod and ARB rules. A free visit measures the yard and drafts a layout you approve.",
-  "h1": "Fit a lawn or green to River Hills' irrigation and sod rules.",
-  "lede": "Plan around what the property owners association's Architectural Review Board actually requires, not what a neighbor's yard looks like. A free visit turns those rules and your lot into a layout you approve before anything starts.",
+  "h1": "Artificial turf in River Hills, SC, fit to the POA's irrigation rules.",
+  "lede": "Plan around what the ARB requires, not what a neighbor's yard looks like. A free visit turns those rules and your lot into a layout you approve before anything starts.",
   "wins": [
     "A layout planned around the ARB's irrigation and sod rules",
     "A written scope ready before you submit to the ARB",
@@ -16,13 +16,14 @@
   ],
   "answer": {
     "question": "What does River Hills require before I replace a lawn or add a green?",
-    "answer": "River Hills' ARB Standards Manual (Revision 9, November 9, 2021) requires 100% in-ground sprinkler coverage across all landscaped and grassed open space, including the unpaved right of way beside your lot, with plans the ARB approves before installation. That right of way must be sodded, and the ARB can require a refundable deposit for landscaping work. Submit your plan and confirm the current revision with the ARB before you start."
+    "answer": "ARB approval. Submit a request describing the work, and don't start until the ARB, and Horry County where it applies, signs off. Ask in writing whether turf still needs the manual's 100% sprinkler coverage."
   },
   "blocks": [
     {
       "icon": "drop",
       "kicker": "Irrigation",
       "h2": "Every landscaped and grassed area needs 100% sprinkler coverage.",
+      "takeaway": "The manual requires 100% sprinkler coverage on landscaped and grassed space but doesn't say if a turf section needs an active zone. Ask the ARB in writing; we draw turf and sod into one layout.",
       "paras": [
         "The manual's irrigation section is direct: \"All landscaped and grassed open space on residential property shall be irrigated with 100% coverage with an in-ground sprinkler system. This includes the unpaved road right of way immediately adjacent to\" your lot. The ARB has to approve the irrigation or sprinkler plan before it goes in the ground, and heads have to sit inside your property line, at least six feet back from the curb — none are allowed in the sodded right of way or a common area.",
         "That rule is written for grass, and the manual doesn't say whether a section of yard converted to synthetic turf still needs an active sprinkler zone running to it. Take that question to the ARB in writing before you finalize a lawn layout, alongside your irrigation plan for whatever ground stays sodded.",
@@ -33,6 +34,7 @@
       "icon": "shovel",
       "kicker": "The right of way",
       "h2": "The strip by the curb belongs to the association, and it has to stay sod.",
+      "takeaway": "The street right of way in front of your lot belongs to the Association, and it has to stay sodded — no turf there, though driveway edge plantings are allowed.",
       "paras": [
         "\"There exists a street right of way in front of each lot. This area represents Association property,\" and, as the manual puts it, \"his/her individual property line does not extend to the paved surface.\" The planting rules for that strip are specific: \"No plantings should exist in the road right of way except as necessary to screen mechanical items such as utility boxes... All areas within the right of way must be sodded. However, driveway edge plantings are allowed.\"",
         "That right-of-way sod sits separate from the curb-to-house sodded band and the 30% pervious-space rule already covered on our <a href=\"/grand-strand/putting-greens/\">Grand Strand putting greens page</a>. Bring both to the ARB conversation: what's required sod versus what open space or a green can occupy."
@@ -42,6 +44,7 @@
       "icon": "file",
       "kicker": "ARB approval",
       "h2": "Nothing starts in the ground before the ARB signs off.",
+      "takeaway": "Submit your plan to the ARB before anything is dug — work can't start until it, and the county where it applies, signs off. A refundable deposit may apply, returned within 30 days of approval.",
       "paras": [
         "\"Each owner wishing to either build or alter any improvements or landscaping within River Hills must submit a request for approval to the ARB providing details of the proposed construction/alteration.\" The ARB can approve the plan, approve it with changes, or send it back with a list of modifications, and \"work may not begin until appropriate approvals are received\" — from the ARB and, where it applies, from Horry County.",
         "The manual also lets the ARB require a deposit for the work itself: \"Renovations/Alterations/Landscaping: property Owner/Contractor Performance Deposit, refundable. Imposed at the discretion of the ARB, used to insure that the property owner/contractor, during construction keeps the property in a neat, clean, workmanlike manner.\" It's refunded within 30 days of the ARB's approval and release, separate from the $1,000 owner and contractor deposits set for new home construction.",
@@ -52,6 +55,7 @@
       "icon": "home",
       "kicker": "The rest of the lot",
       "h2": "No septic to work around, but every other system still needs a spot on the plan.",
+      "takeaway": "River Hills has no septic systems to plan around — every lot connects to public water and sewer. Point out irrigation lines, the meter and drainage before we finalize where the turf goes.",
       "paras": [
         "\"Each lot must be connected to a public water/sewer system. No septic tanks are permitted within River Hills,\" so a lawn or green layout here isn't routed around a drain field the way some Horry County properties are. Point out irrigation lines, the meter, and any drainage before we finalize where turf goes.",
         "If an old green or a failing lawn area needs to come out first, that's a separate scope — see <a href=\"/grand-strand/turf-removal-and-replacement/\">turf removal and replacement</a> on the Grand Strand."

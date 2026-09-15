@@ -6,8 +6,8 @@
   "county": "Clay",
   "title": "Artificial Turf in Oakleaf Plantation, FL | TIMELESS Grass & Greens",
   "description": "Lawns and pet areas for Oakleaf Plantation yards. Plan a lawn, dedicated dog area or short-game green around your home.",
-  "h1": "Lawns and pet areas for Oakleaf Plantation yards.",
-  "lede": "Plan a lawn, dedicated dog area or short-game green around your home. Request a free visit for turf options and a written installation estimate.",
+  "h1": "Artificial turf in Oakleaf Plantation, FL, built for yards that hold water.",
+  "lede": "Mud after every afternoon storm and grass the dog finishes off: we check your ground at a free visit and build the base for drainage. Then a written price.",
   "wins": [
     "Choose a defined pet or lawn area",
     "Keep required planting and protected trees",
@@ -15,13 +15,14 @@
   ],
   "answer": {
     "question": "What should an Oakleaf turf plan keep from the existing landscape?",
-    "answer": "Confirm the parcel’s Branan Field Corridor requirements and retain any required planting; synthetic turf cannot simply replace those plants. Identify protected trees and resolve any necessary tree-preservation review before preparation affects roots. Bring community requirements and the property plan to the estimate."
+    "answer": "Required plantings and protected trees. Inside the Branan Field Corridor, turf can't replace the plants the county requires, and disturbing a protected tree's roots needs an approved tree preservation plan. Check your association's rules too."
   },
   "blocks": [
     {
       "icon": "paw",
       "kicker": "A busy fenced yard",
       "h2": "Plan around the dog’s routine.",
+      "takeaway": "Plan the dog area around the paths your dog already uses, with room for a water source and easy cleanup. If the yard stays wet, bring us rain photos before the layout is set.",
       "paras": [
         "Start with the path from the door and the spots your dog uses most. A dedicated area can leave room for a patio, planting or a compact green. Include a water source and access for waste pickup and cleaning.",
         "If the yard stays wet, show us rain photos and existing drains. The cause of a water or odor problem needs to be considered separately from replacing the visible surface."
@@ -31,6 +32,7 @@
       "icon": "leaf",
       "kicker": "County and community conditions",
       "h2": "Leave the required landscape in place.",
+      "takeaway": "Check your exact address, not the area name: the commercial area across the Duval line follows different rules. Get your association's current instructions and any CDD conditions before the layout is set.",
       "paras": [
         "The Branan Field Corridor has residential landscape and tree requirements. Check the applicable boundary and conditions for your parcel; required planting does not become optional when a turf area is added. Work affecting protected trees can need an approved preservation plan.",
         "Obtain the current instructions from the appropriate neighborhood association and check any CDD or shared-area conditions. The Oakleaf commercial area across the Duval line has a different jurisdiction, so use the exact work address rather than the area name alone."
@@ -40,6 +42,7 @@
       "icon": "shovel",
       "kicker": "The ground",
       "h2": "Boulogne sand holds water a foot below your yard.",
+      "takeaway": "Boulogne sand here puts the water table about a foot down at its highest, so small dog yards turn to mud after storms. We build the base for drainage, adding a subsurface drain where needed.",
       "paras": [
         "A USDA soil query along Oakleaf Plantation Parkway returns Boulogne fine sand: poorly drained, with the water table about a foot down at its highest and a hydrologic rating of C/D, meaning water soaks in slowly (<a href=\"https://sdmdataaccess.sc.egov.usda.gov/\" target=\"_blank\" rel=\"nofollow noopener\">USDA</a>). Its first organic-stained layer can start just 10 to 13 inches below the surface. Rain here doesn't vanish into the sand the way people expect in Florida.",
         "Along Double Branch Creek and its tributaries the survey adds Pamlico muck and Rutlege mucky fine sand, with pockets of Yulee clay in the low spots. Put that under a small fenced yard the dog uses every day and you get the familiar Oakleaf complaint: mud after every afternoon storm, and grass the dog finishes off.",
@@ -50,6 +53,7 @@
       "icon": "shield",
       "kicker": "County rules",
       "h2": "Here, Clay County's landscaping code follows you home.",
+      "takeaway": "Inside the corridor, Clay County's landscaping rules reach your home lot, not just businesses, and turf can't replace required plants. Protected trees need an approved plan before roots are disturbed.",
       "paras": [
         "Oakleaf Plantation sits inside the Branan Field Corridor, which Sec. 18.5-52(22) draws from the Duval line along Little Black Creek, Black Creek and North Fork Black Creek to the eastern edge of Jennings State Forest. Inside it, Sec. 18.5-51 applies the county's landscaping article to residential buildings as well as businesses, and Sec. 18.5-53(4)(h) bars artificial turf as a substitute for the plants the article requires (<a href=\"https://library.municode.com/fl/clay_county/codes/code_of_ordinances\" target=\"_blank\" rel=\"nofollow noopener\">Clay County code</a>). Where your lot carries required plantings, keep them, and put the turf around them.",
         "Trees matter most on a turf job. Within the corridor, Secs. 18.5-27 to 18.5-32 make it unlawful to cut, remove, damage, root-disturb or even trim a protected tree without an approved tree preservation plan, and trenching a base edge beside a street tree is exactly that kind of work. Along rights-of-way the corridor also asks for a wider landscaped yard, 10 feet instead of 5. Check your parcel against the corridor's boundary before anything is designed.",
@@ -60,6 +64,7 @@
       "icon": "drop",
       "kicker": "Water",
       "h2": "Irrigation once a week, and fines that count by the day.",
+      "takeaway": "Lawn irrigation in Oakleaf is down to one day a week from every source, and watering on the wrong day counts as a new offense each day. Turf skips the schedule entirely.",
       "paras": [
         "Oakleaf's water comes from Clay County Utility Authority. The district's Phase III Order 2026-017 was in force at our 7 September 2026 check, and it cuts lawn irrigation to a single weekly day, set by your address, from every source including private wells (<a href=\"https://clayutility.org/phase-iii-water-shortage-restrictions-now-in-effect/\" target=\"_blank\" rel=\"nofollow noopener\">Clay County Utility Authority</a>).",
         "The county writes the schedule into its own code at Sec. 18.5-73 and enforces it under Sec. 18.5-79, where every day of watering on the wrong day counts as a new offense.",

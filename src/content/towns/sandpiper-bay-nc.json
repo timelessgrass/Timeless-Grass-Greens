@@ -8,8 +8,8 @@
   "county": "Brunswick",
   "title": "Artificial Turf in Sandpiper Bay, NC | TIMELESS Grass & Greens",
   "description": "Sandpiper Bay's covenants ban artificial vegetation outright and bar fences and dog runs. Get the ARC's written answer before you plan turf or a pet area.",
-  "h1": "Turf in Sandpiper Bay, planned around a covenant written before turf existed.",
-  "lede": "Sandpiper Bay's recorded covenants say no artificial vegetation is permitted on any lot's exterior, and no fences, dog houses or animal runs may go up at all. Before you commit to a layout, put the covenant's exact wording in front of the Architectural Review Committee and ask for a written answer on turf.",
+  "h1": "Artificial turf in Sandpiper Bay, NC, planned around the covenants and the ARC.",
+  "lede": "Before you pay for a design, get the ARC's written answer on whether turf counts as the artificial vegetation the covenants ban. Then we draw a layout you approve.",
   "wins": [
     "Get the ARC's written answer on artificial vegetation first",
     "A layout that needs no fence and no dog run",
@@ -17,13 +17,14 @@
   ],
   "answer": {
     "question": "Does Sandpiper Bay's HOA allow artificial turf?",
-    "answer": "Its recorded covenants don't say turf by name, but Article II, Section 25 bans \"artificial vegetation\" on the exterior of any lot, and a February 2026 plain-English summary lists \"artificial plants outdoors\" as not allowed. Neither document defines the term. Any exterior landscaping change also needs the Architectural Review Committee's approval, and the ARC can refuse for looks alone. Ask the ARC in writing whether turf counts before you commit to a design."
+    "answer": "Unclear, so ask. The covenants ban artificial vegetation outdoors but don't name turf or define the term. Any landscaping change also needs ARC approval, which can be refused on looks alone. Get the ARC's answer in writing first."
   },
   "blocks": [
     {
       "icon": "shield",
       "kicker": "The covenant to clear first",
       "h2": "Section 25 bans \"artificial vegetation.\" Nobody has told us if that means turf.",
+      "takeaway": "The covenants ban artificial vegetation on any lot's exterior, but neither they nor the HOA's summary define the term or name turf. Put that question to the ARC in writing before any layout is drawn.",
       "paras": [
         "Sandpiper Bay's <a href=\"https://sandpiperbayhoa.com/wp-content/uploads/2019/09/FINAL-REVISED-COVENANTS.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Declaration of Protective Covenants</a>, revised May 2, 2016, is direct in Article II, Section 25: \"No artificial vegetation shall be permitted on the exterior of any portion of the Subdivision.\" The same section allows exterior sculpture, fountains and flags with prior Association or ARC approval, and protects the display of the American flag. Turf is not named on either side of that sentence.",
         "The HOA's own <a href=\"https://sandpiperbayhoa.com/wp-content/uploads/2026/02/Sandpiper-Bay-Covenants-Plain-English-Rev1.pdf\" target=\"_blank\" rel=\"nofollow noopener\">plain-English summary</a>, dated February 23, 2026, restates it under \"What's Not Allowed\": \"Artificial plants outdoors.\" That's a resident-written gloss on the covenant, not a new rule, and it doesn't settle whether turf grass reads the same as artificial plants. Neither document was written with synthetic turf in mind.",
@@ -34,6 +35,7 @@
       "icon": "paw",
       "kicker": "No fence, no dog house, no run",
       "h2": "A new rule bars fences and animal runs outright — plan pet turf without one.",
+      "takeaway": "The covenants bar fences, dog houses and animal runs outright, with no exception for pets. We lay out a pet area inside your property lines and any approved screening, with no fence in the plan.",
       "paras": [
         "Article II carries a section labeled \"New Section 4\" in the recorded document: \"No fences, walls, above ground pools, dog houses, animal pens or animal runs shall be constructed on any Lot. No hedge, shrubbery or vegetation of any kind shall be grown or placed in the form of a fence or wall on any Lot except used as a privacy screen according to ARC Guidelines.\" It doesn't carve out dog owners.",
         "That matters for pet turf specifically. A fenced run is the usual way to keep a dog area contained, and Sandpiper Bay's covenants remove that option along with the dog house itself. Exhibit B's setback table, which once listed a fence setback for lots backing the golf course, has that line struck through in the recorded copy — consistent with the fence ban rather than in conflict with it.",
@@ -44,6 +46,7 @@
       "icon": "file",
       "kicker": "The ARC's review",
       "h2": "Any exterior change needs a decision — and the ARC can say no on looks alone.",
+      "takeaway": "Swapping a lawn for turf is a landscaping change that needs ARC approval, which can be refused on looks alone. The ARC has 60 days to decide on complete plans, or they're deemed approved.",
       "paras": [
         "Article VIII of the covenants gives the Architectural Review Committee \"exclusive jurisdiction over all construction on any portion of the Subdivision,\" a category that explicitly includes plantings and removal of plants. \"Any change in exterior appearance of any building, wall, fence or other structural improvements, and any change in the appearance of the landscaping, shall be deemed an alteration requiring approval.\" Digging out a lawn and laying turf is a landscaping change under that language.",
         "The ARC has 60 days after you submit complete plans and specifications to approve or disapprove; if it misses that window, the application is deemed approved. But the covenant also gives it wide latitude going the other way: \"Refusal of approval of plans, specifications, and plot plans or any of them may be based on any grounds, including purely aesthetic grounds, which in the sole and uncontrolled discretion of the ARC may seem sufficient.\" A clean written scope, with the Section 25 question already answered, gives you the clearest shot at a fast yes.",
@@ -54,6 +57,7 @@
       "icon": "drop",
       "kicker": "Drainage and the golf course",
       "h2": "Water has to go somewhere the Association already approved.",
+      "takeaway": "If a turf base would shift where your lot's water drains, the Association and ARC must approve a drainage plan first. On course lots, patios, decks and pools stay 20 feet off the course line.",
       "paras": [
         "Article II, Section 24 covers drainage directly: \"No Owner shall modify, change, channel or direct drainage water onto a neighboring Lot, Common Area or the Golf Course except in accordance with a drainage plan approved by the Association and the ARC and in the case of drainage onto the Golf Course, the owner of the Golf Course.\" A turf base changes how a yard sheds water, so if your lot's drainage pattern would shift, that plan needs sign-off before we grade.",
         "Lots that back the golf course carry their own setbacks under the covenants' Exhibit B: residences stay 30 feet off the course line, and patios, decks, pools and similar features stay 20 feet off it. Interior lots not abutting the course keep a 20-foot rear setback. We measure your lot against whichever line applies before the layout is drawn, so the turf edge lands inside it."
@@ -63,6 +67,7 @@
       "icon": "pin",
       "kicker": "Confirm your lot is covered",
       "h2": "The 2016 covenants describe Phase I. Check that your lot is in it.",
+      "takeaway": "These covenants cover Lots 1 through 70 of the platted subdivision — Cape Side and Wyndfall aren't part of it. Ask the HOA's management office which rules apply to your lot first.",
       "paras": [
         "The recorded covenants' Exhibit A describes the property they cover as Lots 1 through 70 of \"Sandpiper Bay Golf Plantation PUD,\" per two 1998 survey plats recorded in Brunswick County. The Town of Sunset Beach's own <a href=\"https://sunsetbeachnc.gov/index.asp?DE=A7601380-D3C4-427E-B03E-DE3295BF00F3&SEC=01618413-240B-4A04-AFAC-7F6F705F1D0D\" target=\"_blank\" rel=\"nofollow noopener\">mosquito-control schedule</a> names Sandpiper Bay, Cape Side and Wyndfall on the same Monday spray route — evidence the Town services all three, though a shared spray route doesn't by itself establish that any of them sits inside the Town's corporate limits. Cape Side and Wyndfall aren't part of the platted Sandpiper Bay lots this declaration covers, so the Section 25 and fence rules above are Sandpiper Bay's, not automatically theirs. If your lot is in Cape Side or Wyndfall, or falls outside the platted Phase I lots, ask the HOA's management office which declaration, if any, actually applies to your property before you rely on anything in this page.",
         "Whether a Town of Sunset Beach permit applies here, on top of the ARC's review, depends on Sandpiper Bay's actual jurisdictional status, which we haven't confirmed against a boundary map or the Town's own statement. Ask the Town's permitting office directly before you plan around it; our <a href=\"/grand-strand/sunset-beach-nc/\">Sunset Beach page</a> covers the Town's stormwater and Fill and Grade permit rules if they apply. At the free visit, we measure the yard, check where water sits after rain, and put the turf area in writing so you can take one square-footage figure to whichever offices need it."

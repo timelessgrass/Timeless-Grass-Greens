@@ -4,8 +4,8 @@
   "service": "residential-turf",
   "title": "Artificial Lawns in Myrtle Beach | TIMELESS Grass & Greens",
   "description": "Artificial lawns sized to North Myrtle Beach and Myrtle Beach coverage limits and planned around the oaks the city and county protect. Free visit.",
-  "h1": "An artificial lawn sized to what your lot is allowed to cover.",
-  "lede": "Skip the mowing on a lawn planned for your lot, anywhere from Shallotte to Burgess. A lawn covers more ground than a dog run or a putting green, so how your city counts it, and which trees stand near it, both matter. We measure the yard and check the ground at a free visit, then draw a custom layout you approve before work starts.",
+  "h1": "Artificial lawns on the Grand Strand, sized to your lot's hard-surface limit.",
+  "lede": "Skip the mowing, with the lawn planned around your lot's coverage limit and nearby oaks. We measure and check the ground free, then give a written price.",
   "wins": [
     "Size the lawn to your district’s hard-surface limit",
     "Plan around the oaks, cedars and magnolias near the lawn",
@@ -13,13 +13,14 @@
   ],
   "answer": {
     "question": "What should I check before replacing my Grand Strand lawn with turf?",
-    "answer": "Start with how your city counts it. In North Myrtle Beach, an R-1 lot can be no more than 40 percent impervious unless an overlay such as R-1H applies (50 percent), and a surface that misses the city’s pervious test counts toward that limit. In Myrtle Beach, 50 percent of the lot must stay pervious in the R-5, R-7, R-8, R-10 and R-15 single-family districts, and 25 percent in RMM, RMH and RMV. Then check the trees: Myrtle Beach and Horry County both have tree rules that reach single-family lots. Call 720-630-0108 for a free estimate."
+    "answer": "Your coverage limit and nearby trees. North Myrtle Beach allows 40 to 60 percent hard surface by district; Myrtle Beach keeps 25 or 50 percent pervious. Myrtle Beach and Horry County both have tree rules reaching house lots."
   },
   "blocks": [
     {
       "icon": "ruler",
       "kicker": "North Myrtle Beach",
       "h2": "Find your district’s limit before you size the lawn.",
+      "takeaway": "North Myrtle Beach allows 40 to 60 percent hard surface, by district and overlay. Turf stays off that count only if it passes the city's pervious test, so ask for your lot's district first.",
       "paras": [
         "In North Myrtle Beach, how much of your lot can be hard surface depends on its zoning district. As of July 2026, <a href=\"https://library.municode.com/sc/north_myrtle_beach/codes/code_of_ordinances?nodeId=COOR_CH23ZO_ARTIIZODIDERE\" target=\"_blank\" rel=\"nofollow noopener\">the city’s zoning code</a> allows no more than 40 percent in R-1 and 45 percent in R-1A. For a single-family house, its district tables allow 50 percent in R-1B, R-2 and R-3, and 60 percent in R-2A and R-2B.",
         "An overlay can change that number. The R-1H historic low-density overlay is for parts of R-1 where most lots are smaller than the standard R-1 lot. On an R-1H lot the limit is 50 percent, and every other R-1 standard still applies. Ask the city for your lot’s district and any overlay on it before you count anything.",
@@ -32,6 +33,7 @@
       "icon": "layout",
       "kicker": "Myrtle Beach",
       "h2": "Keep your district’s share of the lot pervious.",
+      "takeaway": "Myrtle Beach keeps 50 percent of the lot pervious in its single-family districts and 25 percent in RMM, RMH and RMV. Turf isn't defined, so ask Planning and Zoning how turf and its base count.",
       "paras": [
         "Inside Myrtle Beach city limits, <a href=\"https://library.municode.com/sc/myrtle_beach/codes/code_of_ordinances?nodeId=COOR_APXAZO_ART16ARHEDIRE\" target=\"_blank\" rel=\"nofollow noopener\">the residential zoning table</a> sets how much of each lot must stay pervious. As of February 2026, that is 50 percent in the R-5, R-7, R-8, R-10 and R-15 single-family districts. A single-family house in RMM, RMH or RMV needs 25 percent. The IR row gives no figure, but the code says such a requirement “may be provided in other applicable sections,” so ask what applies there too.",
         "Grass counts on the pervious side. Turf doesn’t appear in <a href=\"https://library.municode.com/sc/myrtle_beach/codes/code_of_ordinances?nodeId=COOR_APXAZO_ART2DE_S203DE\" target=\"_blank\" rel=\"nofollow noopener\">the city’s definitions</a>. A pervious surface is “any material that permits full or partial absorption of stormwater or surface water directly into the ground,” and “stone, shell or gravel surfacing” counts as impervious coverage. Turf goes down over a base, so the base matters as much as the turf.",
@@ -42,6 +44,7 @@
       "icon": "leaf",
       "kicker": "Myrtle Beach trees",
       "h2": "Plan the lawn around the oaks, cedars and magnolias.",
+      "takeaway": "In Myrtle Beach, a live oak, red cedar or magnolia is a significant tree at 4 inches across, and lifting grass may need a clearing permit. Ask Construction Services first, and show us each tree.",
       "paras": [
         "On a lot with one single-family house, Myrtle Beach’s <a href=\"https://library.municode.com/sc/myrtle_beach/codes/code_of_ordinances?nodeId=COOR_APXAZO_ART9LATRPR\" target=\"_blank\" rel=\"nofollow noopener\">tree rules</a> cover significant and landmark trees. A live oak, white oak, eastern red cedar, southern magnolia or bald cypress is significant once its trunk is 4 inches across, measured 4.5 feet above the ground. Landmark trees are bigger, such as a live oak or white oak of 25 inches.",
         "Lifting the grass may need a permit. The code asks for a clearing/grubbing permit before “any site clearing or vegetation alteration, other than mowing,” and each clearing, grubbing or grading application needs a tree protection zone plan. It doesn’t say whether stripping a lawn counts, so ask Construction Services before work is scheduled.",
@@ -53,6 +56,7 @@
       "icon": "pin",
       "kicker": "Horry County",
       "h2": "Check for a big live oak, too.",
+      "takeaway": "Horry County's live oak protections reach house lots: a live oak 24 inches or more across can't be injured without county authorization. Ask the zoning office about a tree survey, and show us the tree.",
       "paras": [
         "Horry County’s <a href=\"https://library.municode.com/sc/horry_county/codes/code_of_ordinances?nodeId=COOR_APXBZO_ARTVLABUTRPRST\" target=\"_blank\" rel=\"nofollow noopener\">zoning code</a> exempts individual single-family and duplex houses from its landscape, buffer and tree rules, with one exception: “the Live Oak Protections.” The code says those apply “to any property within Horry County including single family residential.” If your lot is inside a city or town, ask the county and the city which tree rules reach it.",
         "A specimen live oak is one 24 inches or more across at breast height. It is unlawful to injure one or cause its removal unless the county authorizes it, through a variance or, in limited cases, the zoning administrator. Any property with one, single-family lots included, must submit a tree survey.",

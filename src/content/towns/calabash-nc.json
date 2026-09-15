@@ -7,8 +7,8 @@
   "county": "Brunswick",
   "title": "Artificial Turf in Calabash, NC | TIMELESS Grass & Greens",
   "description": "Artificial turf, dog runs and putting greens in Calabash, NC, planned around the Town's 25% impervious line, its plastic landscaping rule and its ditch rules.",
-  "h1": "Artificial turf in Calabash, planned around the Town's own stormwater rules.",
-  "lede": "Calabash runs its own stormwater review, with a line at 25% impervious surface on a house lot. We measure, check the ground and trace where water leaves your yard, then you approve a layout before any digging starts.",
+  "h1": "Artificial turf in Calabash, NC, planned around the Town's 25% impervious line.",
+  "lede": "Calabash runs its own stormwater review, and how turf is counted can decide whether you need an engineer. Free visit, ground checked, written price.",
   "wins": [
     "Know where your lot sits against the 25% line",
     "Keep turf off the Town's ditch and roadside strip",
@@ -16,13 +16,14 @@
   ],
   "answer": {
     "question": "Do I need a Town permit for artificial turf in Calabash, NC?",
-    "answer": "Ask the Town before you dig. Section 8.2 of Calabash's stormwater chapter requires a Town Storm Water Permit for land of one acre or less, and an engineered stormwater plan when a house lot goes above 25% impervious surface. The chapter covers improvements to existing homes as well as new ones. The copy on file was adopted in 2004, so ask the Town whether that threshold is still current."
+    "answer": "Expect to. The Town's stormwater chapter requires a Town Storm Water Permit for land of one acre or less, and an engineered plan above 25% impervious surface on a house lot. Ask the Town whether that 2004 text is current."
   },
   "blocks": [
     {
       "icon": "file",
       "kicker": "The 25% line",
       "h2": "In Calabash, the hard share of your lot decides how much paperwork the turf needs.",
+      "takeaway": "Add up the roof, driveway, walks and patio first: on a house lot, more than 25% impervious surface means an engineered plan. Ask the Town how it counts turf and base.",
       "paras": [
         "Calabash wrote its own stormwater rules into <a href=\"https://cms5.revize.com/revize/calabash/document_center/Town%20Ordinances/OCR_Gen_Code_Oct_2013_5ch53.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Chapter 53 of the Town Code</a>, adopted August 10, 2004. Section 4 applies it to every property owner and to all construction, including improvements to existing homes. Section 9 sends construction that needs no state certification to Section 8.2.",
         "Section 8.2 is short. A Town Storm Water Permit is required for land of one acre or less. On a residential lot, more than 25% impervious surface requires an engineered stormwater plan. Every commercial job needs an engineered plan, and land over one acre is regulated by the State.",
@@ -34,6 +35,7 @@
       "icon": "shield",
       "kicker": "No solid plastic",
       "h2": "Calabash already bans landscaping that sheds rain like a sheet.",
+      "takeaway": "The Town's ban on solid plastic and vinyl landscaping never names turf, and turf that drains through its backing is built to let rain through. Keep the maker's drainage information with your permit papers.",
       "paras": [
         "Section 7 of Chapter 53 sets standards for homes that are already built. Its second rule says no landscaping using impervious materials such as solid plastic and vinyl will be permitted, and that property owners must remove any put down before the chapter took effect. After giving notice, the Town can fine $200 for each violation.",
         "The rule never names artificial turf. It targets surfaces that stop rain reaching the ground, and turf that drains through its backing, over a base that lets water pass, is built to do the opposite. Keep the manufacturer's drainage information with your permit papers in case the Town asks.",
@@ -44,6 +46,7 @@
       "icon": "drop",
       "kicker": "The ditch out front",
       "h2": "Your front lawn may cross onto Town ground before it reaches the road.",
+      "takeaway": "The grass strip you mow out front may be Town right-of-way. Check your survey, and keep the turf, base and any drain pipe out of the ditch unless the Town authorizes it.",
       "paras": [
         "<a href=\"https://cms5.revize.com/revize/calabash/document_center/Town%20Ordinances/OCR_Gen_Code_Oct_2013_5ch54.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Chapter 54 of the Town Code</a>, recodified March 8, 2011, covers streets, rights-of-way and the ditches beside them. Section 54.25 bars anything placed on a street right-of-way unless the chapter allows it. It is unlawful to obstruct a drainage ditch so it impedes the flow of water, to place anything across a ditch without the Town's prior authorization, or to block a ditch right-of-way so maintenance equipment cannot move.",
         "Anything left there stays at your own risk. If it is not removed within a reasonable time after the Town gives notice, the Town removes it at your expense, and the penalty is $100 for each day. Section 54.22 sets $200 a day for blocking a culvert, ditch or drain so water cannot flow over or under a street.",
@@ -54,6 +57,7 @@
       "icon": "building",
       "kicker": "One Town Hall",
       "h2": "Zoning, flood, inspection, CAMA and stormwater all sit with the Town.",
+      "takeaway": "The Town, not the County, handles zoning, flood, inspection, CAMA and stormwater here. If your address is Calabash but you’re not sure you’re inside town limits, confirm with the county first.",
       "paras": [
         "Brunswick County's <a href=\"https://www.brunswickcountync.gov/192/Municipal-Jurisdictions\" target=\"_blank\" rel=\"nofollow noopener\">municipal jurisdictions table</a> lists the Town, not the County, for flood, building inspection, CAMA, zoning and stormwater in Calabash. Town office hours are 8:30 AM to 4:30 PM, Monday through Friday. The same table sends Shallotte's building inspection to the County, so one town's process is no guide to the next.",
         "The Building Inspector handles the Storm Water Permit. A denial can go to the Planning Board, then to the Town Council. If you are cited under Section 8.2, Section 12 gives you 30 days to file a written appeal with the Storm Water Appeals Board, made up of Planning Board members.",
@@ -66,6 +70,7 @@
       "icon": "flag",
       "kicker": "Greens, walls and sheds",
       "h2": "Add a retaining wall or a shed and Article 11 applies as well.",
+      "takeaway": "A sloped green may need a retaining wall: three feet or less skips setback rules, taller needs a building permit. Sheds can cover up to 10% of the lot, 5 feet from any line.",
       "paras": [
         "A green on a sloped yard can call for a retaining wall. Calabash's <a href=\"https://cms5.revize.com/revize/calabash/document_center/Town%20Ordinances/Article%2011%20Table%20of%20Area,%20Yard,%20Height%2020220112.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Article 11 table of area, yard and height</a>, last amended January 12, 2022, frees a wall of three feet or less, measured from the lowest ground to the top, from setback and yard rules. A taller wall needs a building permit.",
         "Accessory buildings may cover up to 10% of the gross lot area and must stand at least 5 feet from any lot line, which matters if a garden shed joins the plan.",

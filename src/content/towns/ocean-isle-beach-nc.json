@@ -7,8 +7,8 @@
   "county": "Brunswick",
   "title": "Artificial Turf in Ocean Isle Beach, NC | TIMELESS Grass & Greens",
   "description": "Ocean Isle Beach keeps zoning, flood, CAMA and stormwater review in-house. Canal and marsh lots also sit inside a state buffer that holds new work back from the water.",
-  "h1": "Turf in Ocean Isle Beach, checked against the Town's own review and the state's canal buffer.",
-  "lede": "One office handles zoning, flood, building inspection, CAMA and stormwater in Ocean Isle Beach, so a turf plan doesn't need three different calls. On a canal or marsh lot, a state buffer also holds new development back from the water. We measure your yard for free, then build the layout you approve around both.",
+  "h1": "Artificial turf in Ocean Isle Beach, NC, planned around the canal buffer.",
+  "lede": "One Town office handles zoning, flood, CAMA and stormwater, and can tell you where a canal lot's state buffer falls. We measure at a free visit and draw your layout.",
   "wins": [
     "One Town office to call about the job",
     "A layout kept clear of the canal buffer",
@@ -16,13 +16,14 @@
   ],
   "answer": {
     "question": "Do I need a permit for artificial turf in Ocean Isle Beach?",
-    "answer": "Ask the Town before work starts. Brunswick County's jurisdiction table lists Ocean Isle Beach, not the County, for zoning, flood, building inspection, CAMA and stormwater, so its Building Inspections office is the one call to make. On a lot along a canal, the marsh or the Intracoastal Waterway, tell the Town's CAMA local permit officer about the state shoreline buffer as well, since it can hold turf back from the water even where the Town's own review clears the job."
+    "answer": "The Town's Building Inspections office can tell you, because Ocean Isle Beach handles its own zoning, flood, building, CAMA and stormwater review. On a canal or marsh lot, ask where the state's shoreline buffer falls too."
   },
   "blocks": [
     {
       "icon": "building",
       "kicker": "One Town Hall",
       "h2": "Ocean Isle Beach keeps every review in-house, which changes who you call.",
+      "takeaway": "Ocean Isle Beach is one of the few towns where zoning, flood, building, CAMA and stormwater stay with the Town, not the County or the state. One office, Building Inspections, is the call to make.",
       "paras": [
         "Brunswick County publishes a <a href=\"https://www.brunswickcountync.gov/192/Municipal-Jurisdictions\" target=\"_blank\" rel=\"nofollow noopener\">Municipal Jurisdictions table</a> that sorts zoning, flood, building inspection, CAMA and stormwater review between each town, the County and, for CAMA, the state office in Wilmington. Ocean Isle Beach is one of the few entries on that table where all five columns read Town. Zoning, flood jurisdiction, building inspection, CAMA and stormwater all sit with Ocean Isle Beach itself.",
         "That is worth knowing because it isn't how the next town over works. The same table sends Shallotte's flood jurisdiction and building inspection to Brunswick County, and its CAMA review to the state office in Wilmington, while its zoning and stormwater stay with the Town. A homeowner moving a turf plan from one town to the other can't assume the same office, or even the same level of government, handles the same piece of paperwork.",
@@ -33,6 +34,7 @@
       "icon": "drop",
       "kicker": "Canal and marsh lots",
       "h2": "The island's dredged canals and marsh edges carry a state buffer of their own.",
+      "takeaway": "A canal or marsh lot can fall inside a state buffer reaching 75 feet landward of normal high water, holding new work back 30 feet. Turf isn't on the short list of exceptions inside it.",
       "paras": [
         "Ocean Isle Beach sits on a barrier island threaded with dredged finger canals, with marsh and Intracoastal Waterway frontage on the mainland side. Any of those shorelines can fall inside the state's estuarine shoreline Area of Environmental Concern, set out in <a href=\"http://reports.oah.state.nc.us/ncac/title%2015a%20-%20environmental%20quality/chapter%2007%20-%20coastal%20management/subchapter%20h/15a%20ncac%2007h%20.0209.pdf\" target=\"_blank\" rel=\"nofollow noopener\">15A NCAC 07H .0209</a>, most recently amended effective November 1, 2025. The estuarine shoreline AEC reaches 75 feet landward of normal high water, or 575 feet where the shoreline sits next to water the state classifies as Outstanding Resource Waters.",
         "Inside that area, the rule caps impervious surface at 30 percent of the AEC portion of the lot and holds new development back 30 feet from normal high water, with a short, specific list of exceptions. Grading, excavation and landscaping with no wetland fill make that list. Artificial turf does not. The Coastal Resources Commission's own agenda for its August 2025 meeting in New Bern carried a variance request over artificial turf inside a buffer at a property in Carolina Beach, which is a sign the state still treats turf as outside the exception rather than inside it.",
@@ -43,6 +45,7 @@
       "icon": "file",
       "kicker": "Before the old lawn comes up",
       "h2": "Ask the Town for the buffer line, then build the layout around it.",
+      "takeaway": "Ask the Town's Building Inspections office where the buffer line falls on your specific lot before a canal-front or marsh-front layout is final. A mainland lot with no water frontage skips the buffer question entirely.",
       "paras": [
         "Because CAMA sits with the Town in Ocean Isle Beach, its Building Inspections office can tell you where the estuarine shoreline AEC and the 30-foot setback fall on your specific lot, rather than sending you to a separate state office to find out. That is the question to bring in before a canal-front or marsh-front layout is final: where the line sits, and whether any part of the planned turf area reaches inside it.",
         "On a mainland lot with no canal, marsh or waterway frontage, the shoreline buffer doesn't apply, and the Town's zoning, flood and stormwater review are the ones to satisfy. Either way, one office can answer all of it, which is the advantage of a town that hasn't split the review up."
@@ -52,6 +55,7 @@
       "icon": "shovel",
       "kicker": "The free visit",
       "h2": "We measure the yard and the water line before you approve anything.",
+      "takeaway": "At the free visit we measure the yard and note how close it runs to a canal or marsh edge. The layout states the turf area in square feet to take to the Town.",
       "paras": [
         "At the free visit, we measure the area you want to change, check where water sits after rain, and note how close the yard runs to a canal, marsh edge or the Intracoastal Waterway. The custom layout you approve before work starts states the turf area in square feet, so you can take that number, and the buffer question, straight to the Town.",
         "In a plantation-style community on the mainland side, check its own architectural rules too before the layout is final; our <a href=\"/grand-strand/putting-greens/\">Grand Strand putting greens page</a> covers how several nearby communities handle backyard greens. With the Town's review in hand, we prepare the site, build a base for your soil, lay, seam and edge the turf, add infill, clean up and walk you through the care it needs."
@@ -61,6 +65,7 @@
       "icon": "pin",
       "kicker": "Nearby communities",
       "h2": "A gated plantation, two canal types and three builder neighborhoods sit around Ocean Isle Beach.",
+      "takeaway": "Brick Landing Plantation sits outside Town limits with its own Master Association — ask it for current guidelines first. Inside Town limits, canal lots on either bulkhead type go through the same Building Inspections office.",
       "paras": [
         "Brick Landing Plantation, the gated golf community just off the mainland side of Ocean Isle Beach, sits in unincorporated Brunswick County rather than inside the Town, so its own Master Community Association, not the Town office described above, is the layer to satisfy first. Under the Association's <a href=\"https://www.bricklanding.org/file/document/1989557178/IQXNmtNLitm4GjMa.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Policies & Procedures</a>, approved June 8, 2022, a storage shed or other structure needs the Architectural Review Committee's review and approval before it goes up, and every property owner is responsible for keeping buildings and grounds clear of what the document calls 'unclean, unsightly or unkempt conditions.' Ask the Master Association for its current Architectural Guidelines before a turf layout is final, since they set out the application process the Policies & Procedures reference.",
         "Some Ocean Isle Beach canal lots sit on a poured concrete bulkhead; others, mostly along the town's older natural canals, sit on a vertical wood bulkhead instead. Either way, the lot is inside Town limits, so the same Building Inspections office covered above still reviews the zoning, flood, CAMA and stormwater side of the job. The bulkhead itself is a separate question: if repair or replacement work is part of the project, ask that office which rule applies to your specific wall.",

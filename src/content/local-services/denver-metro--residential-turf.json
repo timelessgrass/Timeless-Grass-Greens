@@ -4,8 +4,8 @@
   "service": "residential-turf",
   "title": "Artificial Lawns in the Denver Metro | TIMELESS Grass & Greens",
   "description": "Where turf can go on a Denver-area lot: what your HOA can limit for your type of home, how seven cities treat back and front yards, and who pays toward it.",
-  "h1": "An artificial lawn placed where your HOA and city allow it.",
-  "lede": "Where turf can go on your lot turns on three things: the kind of home you own, what your back fence faces and your city's front-yard rule. Your water provider then decides whether anyone pays toward it. Work through all four below. Then we measure, draw a custom layout to those limits and install the lawn.",
+  "h1": "Artificial lawns in the Denver Metro, placed where your HOA and city allow.",
+  "lede": "Where turf can go turns on your home type, your back fence and your city's front-yard rule. We measure, draw a layout you approve and put the price in writing.",
   "wins": [
     "Know what your HOA can limit for your type of home",
     "A custom layout drawn to your city's yard limits",
@@ -13,13 +13,14 @@
   ],
   "answer": {
     "question": "Can I replace my lawn with artificial turf in the Denver metro?",
-    "answer": "Usually in the back yard, and sometimes in part of the front. On a detached home, Colorado law says HOA guidelines must not prohibit nonvegetative turf grass in the back yard. On a home that shares a wall, the HOA can't ban it but may hold it to the rear yard. Cities add their own limits: Arvada keeps a turf lawn out of public view, and Thornton caps it at 25% of the front landscape area. Call 303-349-2368 for a free estimate."
+    "answer": "Usually in the back yard, and sometimes part of the front. Colorado law stops an HOA banning nonvegetative turf in a detached home's back yard, though attached homes may be held to the rear yard. Cities add their own limits on top."
   },
   "blocks": [
     {
       "icon": "home",
       "kicker": "Step 1: your home",
       "h2": "What your HOA can limit depends on the kind of home you own.",
+      "takeaway": "If your home is detached, Colorado law stops your HOA banning turf in the back yard. If it shares a wall with another unit, the HOA can still hold turf to the rear yard only.",
       "paras": [
         "On a detached home, association guidelines must \"not prohibit the use of nonvegetative turf grass in the backyard of a unit owner's property\" (<a href=\"https://codes.findlaw.com/co/title-38-property-real-and-personal/co-rev-st-sect-38-33-3-106-5/\" target=\"_blank\" rel=\"nofollow noopener\">C.R.S. 38-33.3-106.5(1)(i.5)</a>). The board still keeps its bona fide safety rules, its rules on fire buffers and defensible space, and its say over changes to existing grading and drainage. Out front, the statute has the board preapprove at least three water-wise garden designs. Those are plantings, not turf.",
         "If your home shares one or more walls with another unit, a different subsection applies. The association \"shall not prohibit\" nonvegetative turf grass on property you're responsible for, but it can set design rules and \"may restrict the installation of nonvegetative turf grass to rear yard locations only\" (<a href=\"https://codes.findlaw.com/co/title-38-property-real-and-personal/co-rev-st-sect-38-33-3-106-5/\" target=\"_blank\" rel=\"nofollow noopener\">C.R.S. 38-33.3-106.5(1)(i)</a>). The detached-home subsection says in terms that it does not apply to a condominium. In a condo, ask the association for its written turf rules before you plan anything.",
@@ -30,6 +31,7 @@
       "icon": "pin",
       "kicker": "Step 2: your back fence",
       "h2": "A back yard beside a street or park needs a check in two cities.",
+      "takeaway": "In Arvada and Westminster, turf may be off-limits in a back yard seen from or next to a street or park, so check a corner or park-side lot first.",
       "paras": [
         "In <a href=\"/denver-metro/arvada-co/\">Arvada</a>, turf can be the main ground cover in a back or side yard only where it is \"not in public view\", and public view covers anything seen from streets, sidewalks, parks and trails. A putting green of up to 400 square feet is the exception (<a href=\"https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=LADECOARCO_CH4ENSIDE_ART4-6LABU_DIV4-6-7ADTERE_4-6-7-2GRPLBE\" target=\"_blank\" rel=\"nofollow noopener\">Arvada § 4-6-7-2</a>). The rule reaches a change to an existing landscape, unless your subdivision was first built with nine or fewer single-family or duplex lots (<a href=\"https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=LADECOARCO_CH4ENSIDE_ART4-6LABU_DIV4-6-3GELAST_4-6-3-1AP\" target=\"_blank\" rel=\"nofollow noopener\">Arvada § 4-6-3-1</a>).",
         "In <a href=\"/denver-metro/westminster-co/\">Westminster</a>, the regulations allow turf in single-family detached and duplex \"yard areas not adjacent to a street, or public or private park or open space\" (<a href=\"https://www.westminsterco.gov/DocumentCenter/View/1138/City-of-Westminster-Landscape-Regulations-PDF\" target=\"_blank\" rel=\"nofollow noopener\">Westminster Landscape Regulations 2004</a>). So in both cities, check a corner lot, or a yard that backs onto a park, before you plan turf. Add sidewalks and trails in Arvada, and open space in Westminster.",
@@ -40,6 +42,7 @@
       "icon": "layout",
       "kicker": "Step 3: your front yard",
       "h2": "Out front, most cities cap the share, and two keep a turf lawn off the street.",
+      "takeaway": "Out front, Thornton caps turf at 25% and Brighton at 20%; ask Aurora Planning in writing what its 50% cap measures. Arvada and Westminster leave no room for a street-facing turf lawn.",
       "paras": [
         "The step 2 rules leave no room for a turf lawn in a street-facing front yard in Arvada or Westminster. Westminster also wants 50% of a single-family front yard in vegetation (<a href=\"https://www.westminsterco.gov/DocumentCenter/View/1457/Landscape-Changes---Frequently-Asked-Questions-FAQ-PDF\" target=\"_blank\" rel=\"nofollow noopener\">City of Westminster FAQ, April 2025</a>).",
         "Thornton caps turf at 25% of the landscape area in front and unenclosed side yards. You need a Minor Development Permit before installation, and living plants with the turf: one tree equivalent for the first 750 square feet, and half of one for each additional 250 square feet (<a href=\"https://www.thorntonwater.com/wp-content/uploads/2026/02/2026-residential_artificial_turf_info__rules-1.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Thornton Water</a>).",
@@ -52,6 +55,7 @@
       "icon": "drop",
       "kicker": "Step 4: your water bill",
       "h2": "Your water provider sets the rebate and the watering rules.",
+      "takeaway": "Denver Water's rebate excludes turf and its 2026 discounts are gone, but Thornton's pays toward turf replacing a high-water lawn. Either way, turf skips the establishment watering new sod still needs.",
       "paras": [
         "Budget the lawn without a rebate unless your provider confirms one in writing. Denver Water's lawn-removal discount needs a plan for a water-wise landscape, and \"artificial turf is not allowed\". A notice dated 28 March 2026 says its 2026 discounts have all been allocated (<a href=\"https://www.denverwater.org/tap/ditching-useless-turf-coloradoscape-we-can-help\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>). Thornton Water is the exception: its 2026 rebate pays toward turf that replaces high-water lawn on an existing lot. The <a href=\"/guides/colorado-water-rebates-and-turf/\">water rebates guide</a> covers Aurora, Erie, Highlands Ranch and the rest.",
         "If you're weighing new sod instead, check establishment watering first. On 26 August 2026 Denver Water's board ended the lawn watering season, banning lawn watering and all spray irrigation after 30 September. Its watering rules also say establishment permits for new seed or sod \"will not be available after Sept. 30 until further notice\" (<a href=\"https://www.denverwater.org/residential/rebates-and-conservation-tips/summer-watering-rules\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>). Aurora Water's drought page, read on 12 September 2026, lists Stage 1 rules that say \"No new cool-weather turf can be installed\" (<a href=\"https://www.auroragov.org/residents/water/drought\" target=\"_blank\" rel=\"nofollow noopener\">Aurora Water</a>).",

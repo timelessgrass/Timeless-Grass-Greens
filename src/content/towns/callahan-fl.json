@@ -7,8 +7,8 @@
   "county": "Nassau",
   "title": "Artificial Turf in Callahan, FL | TIMELESS Grass & Greens",
   "description": "Callahan's tree code gives a house lot no exemption. See what that means for a turf base, and the arborist step state rules add on top of it.",
-  "h1": "Artificial turf in Callahan, planned around your trees.",
-  "lede": "Inside town limits, Callahan's tree code treats root damage from a turf base as removing the tree, and unlike some neighboring towns, it carries no exemption for a house lot. We lay out your lawn, dog area or green around the trees you keep, then build it. Start with a free visit.",
+  "h1": "Artificial turf in Callahan, FL, laid out around your trees.",
+  "lede": "Callahan's tree code gives no exemption to a house lot, so we draw your turf edges clear of the trees you keep before we build. Start with a free visit.",
   "wins": [
     "Turf edges drawn clear of the trees you keep",
     "A certified arborist's sign-off lined up before a tree in the layout becomes a problem",
@@ -16,13 +16,14 @@
   ],
   "answer": {
     "question": "Does Callahan's tree code apply to an artificial turf install?",
-    "answer": "It can, but only for work that needs a town permit and might take out a tree; a resurfacing job on an existing lawn may not trigger either test, and the town's permits page lists no landscaping or turf permit. Where Chapter 166 does apply, it treats root damage from machinery or a changed grade as removing a tree only when that kills it, leaves it likely to die, or cuts 25% or more of its canopy, and it covers any trunk two inches across with no listed exemption for a house lot. Either way, Florida's own turf rule already keeps synthetic turf out of a tree's drip line unless a certified arborist signs off that it's safe. Get that document if a tree sits inside your layout, and ask the Building and Zoning desk whether Chapter 166 also applies to your job."
+    "answer": "It can. Where a job needs town authorization and might remove a tree, the town's tree code covers any trunk two inches across, with no house-lot exemption. Whether a turf-only job counts is the town's call, so ask first."
   },
   "blocks": [
     {
       "icon": "leaf",
       "kicker": "Chapter 166: Trees",
       "h2": "Callahan's tree code gives a house lot no exemption.",
+      "takeaway": "Root damage or a grade change that kills a tree counts as removing it. On the free visit we mark every trunk two inches across and draw the turf edge clear of its roots.",
       "paras": [
         "Callahan's tree chapter counts more than cutting a tree down as removing it: damage to the root system from heavy machinery, or a changed grade over the roots or around the trunk, both count when they cause the tree to die or become likely to die, and a 25% or greater canopy loss counts on its own. It reaches any single-trunk plant at least two feet tall and two inches across at two feet up. Hilliard's tree article, ten miles north, at least lists an exemption for one- and two-family homes and every pine by name, even if that town leaves open whether the exemption reaches its own removal permit. Callahan's chapter has no such list at all — no property type and no tree species is named as exempt.",
         "A turf base means digging out the top of the yard and compacting new material in its place. Beside a tree you're keeping, that is the kind of root and grade disturbance the chapter describes. On the free visit we mark every trunk that meets the two-inch line and draw the turf edge clear of its roots."
@@ -32,6 +33,7 @@
       "icon": "file",
       "kicker": "Permit first",
       "h2": "Where the chapter applies, the permit comes before the digging.",
+      "takeaway": "If a tree might come out, no work starts until the town issues a removal permit backed by a survey, free if you get it first. Ask Building and Zoning if your job needs one.",
       "paras": [
         "Chapter 166 only reaches \"development\" — activity that needs a town permit or authorization and might require removing a tree — and a use that actually removes a tree is presumed to need one. Whether a turf-only job with no separate building permit counts is the town's call, so ask the Building and Zoning desk before work starts if a tree is in the way.",
         "Where it does apply, no site work may begin and no tree may be removed until the Building Official issues a tree removal permit, backed by a tree survey. The permit is free if you get it before the work. It's issued once the survey is accurate and the tree isn't habitat for a protected species, along with one of: the tree stands in the way of reasonable development, its condition creates a danger of falling or another adverse impact, or it threatens a building, a utility service or safe sight lines at the Building Official's judgment.",
@@ -42,6 +44,7 @@
       "icon": "shield",
       "kicker": "State rule on top",
       "h2": "State law asks for an arborist's sign-off near roots, and it can outrun the town's own fee.",
+      "takeaway": "On a single-family lot of an acre or less, turf stays out of a tree's drip line, yours or a neighbor's, unless a certified arborist certifies on site it won't harm the tree.",
       "paras": [
         "Florida's synthetic turf rule, Rule 62-308.100, F.A.C., in effect since May 2026, sets the minimum standard for a single-family lot of one acre or less, and Callahan can't enforce a local rule that's inconsistent with it on that kind of lot. Under it, turf can't go inside a tree's drip line — on your lot or a neighbor's — unless a certified arborist certifies, from a site-specific look, that it won't harm the tree. We plan the layout to that line and, if a tree needs the call, bring in that certification.",
         "If a tree genuinely has to come out on a single-family lot, Florida law can move faster than Chapter 166's own process. Fla. Stat. 163.045 bars a local government from requiring a notice, permit, fee or mitigation to remove a tree on a single-family lot once an ISA-certified arborist has documented, on site, that it poses an unacceptable risk. That's a route around Callahan's $500 after-the-fact fee and the 30-day clock in cases it covers, and it doesn't touch a routine turf job that leaves a tree standing. Ask the Building and Zoning desk which situation yours is before you commit to either path."
@@ -51,6 +54,7 @@
       "icon": "drop",
       "kicker": "Where the water goes",
       "h2": "Base water goes to a storm outlet, not the sewer, and pipes near a town ditch sit deep.",
+      "takeaway": "Drain water from under your turf goes to a storm sewer or approved outlet, never the town sewer. On a flood-zone lot, check with the Zoning Administrator before work starts.",
       "paras": [
         "Callahan's wastewater code bars stormwater, groundwater and roof runoff from the town's sewer system; that water goes to a storm sewer or to a natural outlet the Public Works Director approves. A drain from under your turf follows that same rule, never a sewer cleanout.",
         "If a drain line or an irrigation pipe for the beds around your turf has to cross a town ditch, it can't run less than 30 inches below the ditch bottom or within four feet of its outside bank. If any part of your lot sits in a mapped flood hazard area, filling and grading for a turf base also counts as development under the town's floodplain chapter, so check with the Town Zoning Administrator, who serves as floodplain administrator, before work starts."
@@ -60,6 +64,7 @@
       "icon": "layout",
       "kicker": "Your free visit",
       "h2": "A layout you approve, with every tree already on it.",
+      "takeaway": "We measure the yard, check the ground and find where water leaves it. Your custom layout shows where the turf stops around each tree, and nothing starts until you approve it.",
       "paras": [
         "We measure the area, check the ground and find where water leaves the yard. Your custom layout shows where the turf stops around each tree, and nothing starts until you approve it. Then we prepare the site, build the base for your soil, lay, seam and edge the turf, add infill, finish and clean up, and walk you through the care it needs."
       ]

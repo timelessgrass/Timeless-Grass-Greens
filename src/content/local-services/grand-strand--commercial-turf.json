@@ -4,8 +4,8 @@
   "service": "commercial-turf",
   "title": "Commercial Turf in Myrtle Beach | TIMELESS Grass & Greens",
   "description": "Commercial turf for Grand Strand play areas, dog runs and shared spaces. Plan the surface, site preparation and upkeep with a free visit and written estimate.",
-  "h1": "Turf for play areas, dog runs and shared spaces.",
-  "lede": "Plan a Grand Strand space around the people and pets who use it. We install commercial turf for daycares, pet facilities and common areas, starting with a free site visit, custom layout and written price.",
+  "h1": "Commercial turf for Myrtle Beach play areas, dog runs and shared spaces.",
+  "lede": "Daycare play yards, busy dog runs and HOA gathering spaces each need different turf. Start with a free visit, a custom layout and a written price.",
   "wins": [
     "Choose the system for the activities and traffic",
     "Plan drainage, cleaning access and finished edges",
@@ -13,13 +13,14 @@
   ],
   "answer": {
     "question": "What should a commercial turf estimate cover?",
-    "answer": "The estimate should describe the space, its intended use and the work needed underneath the turf. We start with a free visit to measure, discuss product and layout options, and identify preparation, drainage and access needs. The written price gives you a scope to review before work starts."
+    "answer": "The whole installation, not just the area: removing the old surface, site access, ground prep, drainage, edges and the turf system. On an occupied property, add delivery access and temporary closures. We start with a free visit and written price."
   },
   "blocks": [
     {
       "icon": "building",
       "kicker": "Your space",
       "h2": "Start with the daily routine.",
+      "takeaway": "Tell us who uses the space, how traffic moves and which gates or paths stay open, so the turf fits the routine. Under play equipment, check required impact protection before choosing a pad.",
       "paras": [
         "A daycare play yard, a busy dog run and an HOA gathering space need different choices. Tell us who uses the area, how traffic moves through it and which gates, paths or equipment need to stay accessible. That helps define where the turf belongs and how its edges meet the rest of the property.",
         "For play equipment, review the required impact protection and accessibility of the complete surface system before choosing a pad or turf. For pet facilities, discuss cleaning access and where wash water can go. For shared spaces, identify who will handle routine care and who needs to approve the layout."
@@ -29,6 +30,7 @@
       "icon": "ruler",
       "kicker": "Plan and price",
       "h2": "Compare the complete installation.",
+      "takeaway": "Price is more than area — removing the old surface, reaching the site and prepping the ground all factor in. An occupied property also needs a plan for delivery access and temporary closures.",
       "paras": [
         "Area is one part of the price. Removing an existing surface, reaching the work area, preparing the ground, addressing drainage, finishing edges and selecting the turf system all affect the scope. Bring any existing site plan and point out water that collects after rain.",
         "An occupied property also needs a work-access plan. Discuss delivery access, temporary closures and the route people or pets will use while work is underway. Agree those details with the installation scope before committing to closure dates."
@@ -38,6 +40,7 @@
       "icon": "drop",
       "kicker": "Everyday care",
       "h2": "Less mowing still leaves work to do.",
+      "takeaway": "Turf ends mowing, not care: debris removal, grooming and, at a pet facility, prompt waste pickup. It gets hot in direct sun, so plan shade and check the surface before play.",
       "paras": [
         "Commercial turf removes mowing within the installed area. It still needs debris removal, grooming and care suited to its use. A pet facility also needs prompt waste pickup and a cleaning routine for busy spots. Odor calls for a look at cleaning, infill and drainage before deciding whether repair or replacement is needed.",
         "Plan shade and check surface conditions before outdoor play. Turf can become hot in direct sun, and a surface that lets water through still needs somewhere for that water to go. Review the sunny areas and the full drainage route during design, and check the finished surface before use."
@@ -47,6 +50,7 @@
       "icon": "shield",
       "kicker": "Before work starts",
       "h2": "Confirm the project requirements.",
+      "takeaway": "Use the address to confirm whether a city or Horry County reviews the project, and ask what the commercial scope requires. Association or property-manager permission is a separate step.",
       "paras": [
         "Use the property address to confirm whether the proposal goes to a city or Horry County. Ask the responsible reviewer what the commercial scope requires, including excavation, drainage changes and any relationship to a larger development. Association or property-manager permission is a separate step.",
         "Keep the proposed turf, base and drainage details together when discussing the project. Identify the commercial use clearly so the reviewer can apply the requirements for that kind of site. Start your <a href=\"/estimate/\">free estimate</a> with the address, intended use and a rough idea of the area."

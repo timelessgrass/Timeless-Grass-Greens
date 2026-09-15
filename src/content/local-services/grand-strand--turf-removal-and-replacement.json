@@ -4,8 +4,8 @@
   "service": "turf-removal-and-replacement",
   "title": "Turf Replacement on the Grand Strand | TIMELESS Grass & Greens",
   "description": "Replace worn or flooded turf from Shallotte to Conway: ask about flood permits before a base is rebuilt, know the drop-off limits, plan around NC’s shoreline buffer.",
-  "h1": "Replace worn or flooded turf on the Grand Strand.",
-  "lede": "Take out turf that has worn through or sat under floodwater, anywhere from Shallotte to Conway. On a free visit we measure and look at the ground under the old turf, then give you a quote for removal, base work and the new turf before any work begins.",
+  "h1": "Turf replacement on the Grand Strand, with the flood-permit question asked first.",
+  "lede": "Worn-through or flood-soaked turf comes out, and new turf goes in on a base built for your ground. Free visit, ground checked, written quote.",
   "wins": [
     "The flood-permit question asked before a flooded base is dug out",
     "County drop-off limits for old turf on both sides of the state line",
@@ -13,13 +13,14 @@
   ],
   "answer": {
     "question": "What changes when you replace turf on the Grand Strand?",
-    "answer": "If the yard flooded, ask the county or town about a flood permit before the old base is dug out or built up, because Horry County counts excavation, grading and fill as development in its flood zones. Settle where the old turf will go, since county drop-off sites limit who can use them and how much. On North Carolina waterfront, plan for new turf to stay 30 feet back from the water. Call 720-630-0108 for a free estimate."
+    "answer": "Flood and shoreline permits can apply. In Horry County's flood zones, digging out or filling a base counts as development, so ask first. On North Carolina waterfront, plan for new turf 30 feet back from the water."
   },
   "blocks": [
     {
       "icon": "drop",
       "kicker": "After a flood",
       "h2": "Rebuilding a flooded base? Ask about a flood permit before anyone digs.",
+      "takeaway": "In unincorporated Horry County, ask the floodplain administrator about your lot before the old base comes out; in a flood zone, digging needs a permit. Inside a city or town, ask it instead.",
       "paras": [
         "Before the old base comes out of a yard in unincorporated Horry County, ask the county’s floodplain administrator whether the lot sits in a flood zone. <a href=\"https://library.municode.com/sc/horry_county/codes/code_of_ordinances?nodeId=COOR_CH9FLDAPRCO_ARTIINGE\" target=\"_blank\" rel=\"nofollow noopener\">Horry County’s flood chapter</a> reaches past FEMA’s special flood hazard areas to a supplemental flood zone, an official map of roughly where water actually spread after Hurricane Florence. Digging out a base counts. The chapter lists excavation, grading and filling as development, and no development may start without a development permit.",
         "Don’t raise a low yard with extra base until you have that answer. When fill goes into either zone, <a href=\"https://library.municode.com/sc/horry_county/codes/code_of_ordinances?nodeId=COOR_CH9FLDAPRCO_ARTIIIPRFLHARE_S9-51GEST\" target=\"_blank\" rel=\"nofollow noopener\">the chapter requires compensatory storage</a>: new floodable space dug out to make up for the storage the fill takes, with engineering analyses. Bring the county’s answer to the free visit so the base work matches it.",
@@ -30,6 +31,7 @@
       "icon": "shovel",
       "kicker": "What the water left",
       "h2": "Look at what the flood left before deciding what stays.",
+      "takeaway": "Photograph soft spots, opened seams and lifted edges once the water drops. If your turf sat under river or storm water, plan for the old infill to leave with it.",
       "paras": [
         "Once the water drops and the surface dries, walk the turf and take photos of soft or sunken spots, seams that have opened, edges that have lifted, and silt or debris caught in the fibers. Note whether the water came from heavy rain, the river or the tide, and how many days it stood. Those photos tell us where to look first when we check the ground on the free visit.",
         "River floodwater can carry more than mud. After Hurricane Florence, nearly 1,000 homes and businesses near the Waccamaw River in Conway flooded, and on 26 September 2018 raw sewage flowed from the Conway Wastewater Treatment Plant into a tributary that feeds the river, according to the <a href=\"https://www.nhc.noaa.gov/data/tcr/AL062018_Florence.pdf\" target=\"_blank\" rel=\"nofollow noopener\">National Hurricane Center’s Florence report</a>. If your turf sat under river or storm water, plan for the old infill to leave with the turf instead of being brushed back into the new lawn."
@@ -39,6 +41,7 @@
       "icon": "shield",
       "kicker": "North Carolina waterfront",
       "h2": "Near North Carolina water, plan for new turf to stop 30 feet back.",
+      "takeaway": "Plan new turf 30 feet back from North Carolina shoreline water; in 2021 the state's coastal commission agreed turf needs a CAMA permit and isn't allowed in that buffer. Ask the Wilmington coastal office first.",
       "paras": [
         "If old turf in Shallotte, Carolina Shores or elsewhere in Brunswick County sits within 30 feet of the water, draw the new layout behind that line unless the state tells you otherwise. North Carolina’s <a href=\"http://reports.oah.state.nc.us/ncac/title%2015a%20-%20environmental%20quality/chapter%2007%20-%20coastal%20management/subchapter%20h/15a%20ncac%2007h%20.0209.pdf\" target=\"_blank\" rel=\"nofollow noopener\">coastal shoreline rule</a> puts new development 30 feet back from the normal water level along estuarine and public trust shorelines, with listed exceptions such as landscaping. Replacement isn’t a way around it. <a href=\"http://reports.oah.state.nc.us/ncac/title%2015a%20-%20environmental%20quality/chapter%2007%20-%20coastal%20management/subchapter%20j/15a%20ncac%2007j%20.0210.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Rule 07J .0210</a> says replacing structures damaged by natural elements or normal deterioration is development that needs CAMA permits, allowed only if the replacement is consistent with current Coastal Resources Commission rules.",
         "Neither rule names turf, but the state has said how it reads them. In an <a href=\"https://www.deq.nc.gov/documents/pdf/coastal-resources-commission-meeting-agendas-minutes/crc-21-24-use-artificial-turfgrass-buffer/download\" target=\"_blank\" rel=\"nofollow noopener\">August 2021 memo</a>, Division of Coastal Management staff asked the Commission to confirm that turf isn’t covered by the landscaping exception. On 15 September 2021 the Commission voted 10-1 to agree with staff’s interpretation that turf requires a CAMA permit, isn’t landscaping and isn’t allowed within the buffer, its <a href=\"https://www.deq.nc.gov/coastal-management/september-2021-coastal-resources-commission-minutes/download?attachment\" target=\"_blank\" rel=\"nofollow noopener\">meeting minutes</a> record. Staff’s <a href=\"https://www.deq.nc.gov/coastal-management/crc-25-36-2025-annual-review-rules-report/open\" target=\"_blank\" rel=\"nofollow noopener\">November 2025 rules review</a> lists the buffer rule for a possible amendment that would say so in the rule itself.",
@@ -49,6 +52,7 @@
       "icon": "pin",
       "kicker": "Where the old turf goes",
       "h2": "Settle where the old turf goes. County drop-off sites have limits.",
+      "takeaway": "Ask that the quote says where the old turf and infill go. Horry County's convenience centers take up to 4 cubic yards a day, and neither county names turf, so ask before hauling it.",
       "paras": [
         "Ask that the quote says where the old turf, backing and infill will go, and know the limits before you haul any yourself. In Horry County, only residents of unincorporated areas can use the SWA’s 25 <a href=\"https://www.solidwasteauthority.org/recyclingcenters.html\" target=\"_blank\" rel=\"nofollow noopener\">recycling convenience centers</a>, and each resident can drop off up to 4 cubic yards of material a day. The <a href=\"https://www.solidwasteauthority.org/howdoi.html\" target=\"_blank\" rel=\"nofollow noopener\">SWA landfill</a> at 1886 Highway 90 in Conway takes mixed construction debris and asks for materials to be separated by type, and its <a href=\"https://www.solidwasteauthority.org/construction.html\" target=\"_blank\" rel=\"nofollow noopener\">C&D Processing Facility</a> takes carpet and carpet padding for recycling.",
         "In Brunswick County, the four <a href=\"https://www.brunswickcountync.gov/417/Convenience-Centers\" target=\"_blank\" rel=\"nofollow noopener\">convenience centers</a> take residential waste from Brunswick County only, and trucks larger than a standard pickup have to use the <a href=\"https://www.brunswickcountync.gov/422/Landfill\" target=\"_blank\" rel=\"nofollow noopener\">county landfill in Bolivia</a>, which also takes only Brunswick County waste. Turf and infill aren’t named on the SWA’s pages or on <a href=\"https://www.brunswickcountync.gov/415/Accepted-Items-Tipping-Fees\" target=\"_blank\" rel=\"nofollow noopener\">Brunswick County’s accepted-items list</a> as of September 2026, so ask the SWA or Brunswick County Solid Waste how to class them before you load a truck."
@@ -58,6 +62,7 @@
       "icon": "ruler",
       "kicker": "Your estimate",
       "h2": "Bring what shows the county, the flood and the shoreline.",
+      "takeaway": "Tell us which county you’re in and send any flood photos or coastal-office answer you have. After the free visit and your approved layout, the job covers prep, base, new turf, infill, finish and cleanup.",
       "paras": [
         "Tell us whether the yard is in Horry or Brunswick County and whether it sits inside a city or town. Send your flood photos and any answer you already have from a flood or coastal office. On North Carolina waterfront, bring any CAMA permit or DCM letter you have for the old turf.",
         "On the free visit, we measure and check the ground under the old turf. Work starts only after you approve a custom layout. The job covers site prep, a base built for your soil, premium American-made turf laid, seamed and edged, infill, finishing and cleanup, and a walkthrough of the care it needs. See our <a href=\"/services/turf-removal-and-replacement/\">turf replacement service</a> for the full scope, and the <a href=\"/grand-strand/\">Grand Strand page</a> for the other turf we install here."

@@ -6,8 +6,8 @@
   "county": "Arapahoe",
   "title": "Artificial Turf in Cherry Creek, CO | TIMELESS Grass & Greens",
   "description": "Turf for yards near Cherry Creek State Park. Plan a lawn, pet area or putting green in the Cherry Creek communities of Arapahoe County.",
-  "h1": "Turf for yards near Cherry Creek State Park.",
-  "lede": "Plan a lawn, pet area or putting green in the Cherry Creek communities of Arapahoe County. We’ll discuss the layout and installation scope during a free visit.",
+  "h1": "Artificial turf in Cherry Creek, CO, near the state park, not Denver.",
+  "lede": "Your district buys from Denver Water, so lawn watering stops after 30 September, and a turf lawn needs none. Free visit and written scope.",
   "wins": [
     "Use the yard for the activities you choose",
     "Keep greenbelt and drainage access in the plan",
@@ -15,13 +15,14 @@
   ],
   "answer": {
     "question": "Which Cherry Creek area does this installation page cover?",
-    "answer": "This page covers the Cherry Creek communities near the state park in Arapahoe County, rather than Cherry Creek North in Denver. Give us the street address and community name when requesting a visit so the layout and property requirements are considered for the right location."
+    "answer": "This page covers the Cherry Creek near the state park in Arapahoe County, not Cherry Creek North in Denver. Give your street address and community name so the layout and requirements match the right location."
   },
   "blocks": [
     {
       "icon": "layout",
       "kicker": "Backyard uses",
       "h2": "Give pets, putting and the patio room to work together.",
+      "takeaway": "A dog area can sit near the house while a green takes a different part of the yard. Bring your putting distances and chipping plans to the visit so the layout fits both.",
       "paras": [
         "A dedicated dog area can sit near the house while a green uses a different part of the yard. Choose how much lawn you need between them, and retain beds or seating that already work. Bring the intended putting distances and any chipping plans to the visit."
       ]
@@ -30,6 +31,7 @@
       "icon": "drop",
       "kicker": "Beside a greenbelt",
       "h2": "Keep the property boundary and water routes clear.",
+      "takeaway": "If your yard backs onto a greenbelt or detention area, bring the property plan and mark the drainage channel or easement first. A low strip there isn't automatically yours to fill.",
       "paras": [
         "If your yard backs onto a greenbelt or detention area, bring the property plan and mark any drainage channel or easement. Do not assume a low strip can be filled or used as part of the turf area.",
         "Confirm the parcel’s jurisdiction and your association’s requirements rather than relying on the mailing address. Describe any grading or drainage changes along with the surface, and bring written conditions to the estimate."
@@ -39,6 +41,7 @@
       "icon": "pin",
       "kicker": "Which Cherry Creek",
       "h2": "The Cherry Creek by the state park, not the one in Denver.",
+      "takeaway": "This Cherry Creek is unincorporated Arapahoe County, with Greenwood Village mailing addresses but county rules — Greenwood Village's own code starts just one street north. Give the community name, not just the address.",
       "paras": [
         "This page is for the Cherry Creek in unincorporated Arapahoe County: about 1.67 square miles running roughly from Dayton Street east almost to Peoria Street, and from just north of Belleview Avenue south toward Arapahoe Road, with Greenwood Village mailing addresses (<a href=\"https://en.wikipedia.org/wiki/Cherry_Creek,_Colorado\" target=\"_blank\" rel=\"nofollow noopener\">Wikipedia</a>). Cherry Creek North is a different place, in Denver, in a different county and on a different water utility.",
         "Cherry Creek State Park forms the northeast edge: 3,346 acres established in 1959 around an 880-acre reservoir, with 35 miles of multi-use trail and a marina (<a href=\"https://en.wikipedia.org/wiki/Cherry_Creek_State_Park\" target=\"_blank\" rel=\"nofollow noopener\">Wikipedia</a>). Golf rings the rest, from Family Sports to the south to Meadow Hills to the northeast.",
@@ -49,6 +52,7 @@
       "icon": "shield",
       "kicker": "HOAs and the district",
       "h2": "Your association's committee comes first.",
+      "takeaway": "State law keeps your HOA from banning turf behind a detached home, though the committee still governs the front yard. Nonfunctional turf is barred on new common property, rights-of-way and medians.",
       "paras": [
         "Cherry Creek Vista, Hills West, Huntington Acres, Orchard Hills and Arapahoe Lake all have covenant-controlled associations with architectural committees, and most neighborhoods keep their own pool and tennis courts. State law keeps an association from forbidding nonvegetative turf in a detached home's rear yard (<a href=\"https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SB23-178</a>), though the committee keeps its say over the front yard and how the job looks.",
         "The Cherry Creek Vista Park and Recreation District runs seven tennis courts, a pool and six parks, and maintains 2.6 miles of county rights-of-way along Havana Street, Orchard Road and parts of Cherry Creek Drive (<a href=\"https://www.ccvprd.org/\" target=\"_blank\" rel=\"nofollow noopener\">Cherry Creek Vista Park and Recreation District</a>).",
@@ -59,6 +63,7 @@
       "icon": "drop",
       "kicker": "Water",
       "h2": "Denver Water's rules, delivered by a small district.",
+      "takeaway": "Water here comes from small districts that buy from Denver Water, so its Stage 1 schedule and October cutoff apply. The 2026 turf-removal rebates are already spent, and they never covered artificial turf.",
       "paras": [
         "Water here comes through small special districts rather than a city utility. Cherry Creek Village Water District is the likely provider for much of the area, with Southgate and Willows next door, and all of them buy their water from Denver Water (<a href=\"https://www.denverwater.org/about-us/how-we-operate/service-area/distributors\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>). The name on your bill settles which one is yours.",
         "Denver Water's Stage 1 drought runs from 25 March 2026 to 30 April 2027: two assigned days a week, watering only before 10 a.m. or after 6 p.m., no water on pavement, and leaks fixed within 10 days. After its board's declaration of 26 August 2026, there is no lawn watering and no spray irrigation at all after 30 September (<a href=\"https://www.denverwater.org/residential/rebates-and-conservation-tips/summer-watering-rules\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>). Master-meter districts handle their own enforcement.",

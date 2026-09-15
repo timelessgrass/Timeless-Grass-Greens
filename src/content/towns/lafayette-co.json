@@ -6,8 +6,8 @@
   "county": "Boulder",
   "title": "Artificial Turf in Lafayette, CO | TIMELESS Grass & Greens",
   "description": "Artificial lawns and backyard greens in Lafayette. Create a lawn, pet area or putting green that works with your property.",
-  "h1": "Artificial lawns and backyard greens in Lafayette.",
-  "lede": "Create a lawn, pet area or putting green that works with your property. Request a free visit to discuss the layout, preparation and written price.",
+  "h1": "Artificial turf in Lafayette, CO, out back where the front-yard rule doesn't reach.",
+  "lede": "Lafayette's code wants most of a front yard living, so turf usually goes out back. We visit free, see where water sits, then give a written price.",
   "wins": [
     "Choose putting lines or everyday lawn use",
     "Keep existing water routes in the plan",
@@ -15,13 +15,14 @@
   ],
   "answer": {
     "question": "What should I show an installer if my Lafayette yard stays wet?",
-    "answer": "Show where water collects and bring photos from after rain, plus any existing drainage information. A turf surface alone does not resolve a high water table or wider drainage problem. Identify any further assessment or drainage work separately before choosing the final layout."
+    "answer": "Where water sits on the lot today, plus any flood or site records. We build the base with fall so rain leaves the yard, but turf won't fix a high water table, so list drainage concerns separately."
   },
   "blocks": [
     {
       "icon": "flag",
       "kicker": "A green at home",
       "h2": "Choose the practice you want between rounds.",
+      "takeaway": "Start with the putt lengths you want and room to stand; a simple green near the patio can do more than extra cups on an awkward shape. Walk us along the route into the yard.",
       "paras": [
         "For an Indian Peaks yard or another golf-focused property, start with putt lengths and room to stand. A simple layout near the patio can be more useful than extra cups across an awkward shape. Keep the surrounding lawn, beds or pet area in the conversation.",
         "In an older yard near Public Road, trees, an irregular boundary or a narrow gate may shape the project. Walk the route into the yard during the visit."
@@ -31,6 +32,7 @@
       "icon": "drop",
       "kicker": "Near low ground",
       "h2": "Treat water concerns as a separate decision.",
+      "takeaway": "Near Coal Creek or Waneka Lake, bring flood or site records and point out wet spots. Turf isn't a promise to dry the yard; ask the estimate to list drainage concerns.",
       "paras": [
         "For a property near Coal Creek or Waneka Lake, bring any recorded site or flood information rather than assuming a particular condition from the neighborhood name. Elsewhere, point out wet spots in the same way.",
         "Confirm the City and applicable association requirements for any landscape or grading changes. Ask the estimate to identify removal, preparation and unresolved drainage concerns so the proposed surface is not mistaken for a promise to dry out the property."
@@ -40,6 +42,7 @@
       "icon": "drop",
       "kicker": "Mandatory in Lafayette",
       "h2": "Lafayette's drought rules are mandatory, not a request.",
+      "takeaway": "Mandatory since 10 April 2026: irrigation two days a week, a third only if absolutely necessary, and no landscape watering from 10 in the morning to 6 at night. Turf needs no watering days.",
       "paras": [
         "Lafayette moved to a mandatory Stage 1 drought response on 10 April 2026, with increased enforcement (<a href=\"https://www.lafayetteco.gov/4302/Drought-Planning-Response\" target=\"_blank\" rel=\"nofollow noopener\">City of Lafayette</a>). The city is aiming for a 10% cut in overall demand and up to 17% less outdoor watering, because both of its sources, Boulder Creek and the Upper Colorado River, peaked nearly a month early, and Boulder Creek ran at less than half its historical average.",
         "Irrigation systems are capped at two days a week, with a third only when absolutely necessary, and landscapes get no water from 10 in the morning until 6 at night.",
@@ -50,6 +53,7 @@
       "icon": "file",
       "kicker": "Lafayette's landscape code",
       "h2": "Out front, three quarters of the yard has to stay alive.",
+      "takeaway": "At least 75% of a front yard, driveways excluded, must be live materials, and turf can't count. So turf belongs in back and side yards; ask the Planning Division whether the rule covers your project.",
       "paras": [
         "Lafayette's code puts a number on the front yard. At least 75% of the gross front yard area, driveways excluded, has to be landscaped with live materials, and the same section says artificial grasses cannot be used to satisfy those landscaping requirements (<a href=\"https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=COOR_CH26DEZO_S26-19DEIMST_S26-19-5LAREGU\" target=\"_blank\" rel=\"nofollow noopener\">Lafayette Municipal Code, Sec. 26-19-5</a>). The code adds that artificial materials are not banned outright. They just don't count toward what the city requires.",
         "So the back and side yards are where an artificial lawn does its work, and out front it sits with the planting instead of replacing it. The section covers new development and anything needing site plan review since March 2004, and a single-family building permit has to meet the front-yard rule even though it needs no landscape plan. Whether a landscaping change at an existing home is caught by it is the city's call: ask the <a href=\"https://www.lafayetteco.gov/110/Planning-Division\" target=\"_blank\" rel=\"nofollow noopener\">Planning Division</a> whether Sec. 26-19-5 applies to your project and what counts toward the 75%. Where the rule creates a practical difficulty, the planning director can grant a variance.",
@@ -60,6 +64,7 @@
       "icon": "shovel",
       "kicker": "Low, wet ground",
       "h2": "Flat, clay and a high water table: drainage decides it.",
+      "takeaway": "Low ground by Coal Creek, Waneka Lake and Baseline Reservoir drains poorly. At the free visit we see where water sits, then build a base with fall that sends rain off the yard.",
       "paras": [
         "Around Indian Peaks, the USDA maps Colby, Heldt, Nunn and Hargreave soils, with montmorillonite and smectite clays among them, on gentle ground (<a href=\"https://sdmdataaccess.nrcs.usda.gov/\" target=\"_blank\" rel=\"nofollow noopener\">USDA Soil Data Access</a>). It also maps two poorly drained soils, Calkins and Loveland, in the low ground along Coal Creek and around Waneka Lake and Baseline Reservoir.",
         "Flat ground, swelling clay and a high water table are the mix that leaves standing water and soft spots under a poorly built lawn. So a Lafayette base is about drainage: a sub-base that lets water through and a surface with positive fall, so rain leaves the yard instead of sitting under the turf.",

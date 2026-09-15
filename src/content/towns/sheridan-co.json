@@ -7,8 +7,8 @@
   "county": "Arapahoe",
   "title": "Artificial Turf in Sheridan, CO | TIMELESS Grass & Greens",
   "description": "Sheridan's 2026 code bars artificial turf in new development, not existing homes. Check the permit, flood map and drainage fee, then plan a lawn, dog area or green.",
-  "h1": "Sheridan's turf ban covers new building, not your existing yard.",
-  "lede": "Since 27 April 2026, Sheridan's code has barred artificial turf in new development and redevelopment. Existing single-family homes are exempt, so what's left is a permit question, the flood map and a drainage fee. Start with a free visit to measure and check the ground.",
+  "h1": "Artificial turf in Sheridan, CO, where the 2026 ban spares existing homes.",
+  "lede": "At an existing Sheridan home, turf comes down to two permit questions and the flood map. Start with a free visit to measure the yard and check the ground.",
   "wins": [
     "Know whether the 2026 ban reaches your lot",
     "Permit and flood-map questions answered first",
@@ -16,13 +16,14 @@
   ],
   "answer": {
     "question": "Can I install artificial turf at my Sheridan home?",
-    "answer": "Yes, at an existing single-family home. Ordinance No. 7-2026 bars artificial turf only in new development and redevelopment, and Sheridan's landscaping code exempts existing single-family houses. The 2026 ban reaches commercial, institutional and industrial sites, common interest communities and developments of five or more units. Building new or adding on can change that, so talk to the Building Department first."
+    "answer": "Yes, at an existing single-family home. Sheridan's 2026 ordinance bars artificial turf only in new development and redevelopment, and the landscaping code exempts existing single-family houses. Building new or adding on can change that, so talk to the Building Department first."
   },
   "blocks": [
     {
       "icon": "shield",
       "kicker": "The 2026 rule",
       "h2": "The ban is aimed at new building, not the lawn you already have.",
+      "takeaway": "Since 27 April 2026 Sheridan has barred turf in new development and redevelopment, though existing single-family homes are exempt. A new house or an addition over 25 percent can change that, so check first.",
       "paras": [
         "On 27 April 2026 Sheridan added a section to its landscaping code: artificial turf is prohibited in new development and redevelopment on applicable property, except where state law exempts it (<a href=\"https://library.municode.com/co/sheridan/codes/code_of_ordinances?nodeId=PTIICOOR_CH56ZO_ARTXXIILA_S56-516.5RENOTUARTUINPLSP\" target=\"_blank\" rel=\"nofollow noopener\">Sec. 56-516.5</a>). The code defines artificial turf as synthetic blades or fibers, infill systems included, laid in place of living ground cover.",
         "Applicable property means commercial, institutional or industrial land, a common interest community including property an owners' association owns or maintains, and residential development of five or more units (<a href=\"https://library.municode.com/co/sheridan/codes/code_of_ordinances?nodeId=PTIICOOR_CH56ZO_ARTXXIILA_S56-519DE\" target=\"_blank\" rel=\"nofollow noopener\">Sec. 56-519</a>). On those sites, the state's carve-outs for functional uses decide what is possible; our <a href=\"/guides/colorado-turf-law/\">Colorado turf law guide</a> sets them out.",
@@ -34,6 +35,7 @@
       "icon": "file",
       "kicker": "Before you order",
       "h2": "Put two questions to the Permit Technician.",
+      "takeaway": "Ask the Permit Technician whether turf needs a landscaping permit, and get it in writing that the single-family exemption covers lifting your lawn. Keep both answers with your layout.",
       "paras": [
         "The city's permits page says a Plumbing/Mechanical/Landscaping Permit application is required for all new installations or replacements (<a href=\"https://ci.sheridan.co.us/421/Permit-Planning-and-Right-of-Way-Applica\" target=\"_blank\" rel=\"nofollow noopener\">City of Sheridan</a>). It doesn't say whether artificial turf counts as a landscaping installation. Ask the Permit Technician on 303-438-3302 and keep the answer with your layout.",
         "Ask the second question at the same time. The landscaping article wants an approved landscape plan before any grading, bulldozing or other extensive removal of existing vegetation (<a href=\"https://library.municode.com/co/sheridan/codes/code_of_ordinances?nodeId=PTIICOOR_CH56ZO_ARTXXIILA_S56-517APLAPL\" target=\"_blank\" rel=\"nofollow noopener\">Sec. 56-517</a>). Lifting a lawn sounds like exactly that, so get it in writing that the single-family exemption covers your job.",
@@ -44,6 +46,7 @@
       "icon": "drop",
       "kicker": "Water and drainage",
       "h2": "Denver Water bills the water. The city bills the drainage.",
+      "takeaway": "Denver Water ends grass watering from 1 October, and a turf lawn has nothing to water. The code doesn't say whether turf changes the city's drainage fee, so ask before counting on a lower bill.",
       "paras": [
         "Denver Water lists the City of Sheridan as a Total Service distributor: Denver Water owns the system, reads each meter, bills each customer, and serves you the same way as inside Denver (<a href=\"https://www.denverwater.org/about-us/how-we-operate/service-area/distributors\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>). The same list names a separate South Sheridan Water and Sanitary Sewer District under Read and Bill, so check the name on your bill. It's a different setup from <a href=\"/denver-metro/englewood-co/\">Englewood next door</a>.",
         "That puts Sheridan under Denver Water's Stage 1 drought, in effect from 25 March 2026 through 30 April 2027, with every customer asked to cut total use by at least 20%. From 1 October, watering grass and running spray irrigation are prohibited; trees and shrubs can still get a hand-held hose with a shutoff nozzle, or drip (<a href=\"https://www.denverwater.org/drought\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>). A turf lawn has nothing to water. The <a href=\"/guides/colorado-water-rebates-and-turf/\">water rebates guide</a> covers what Denver Water will and won't pay for.",
@@ -54,6 +57,7 @@
       "icon": "shovel",
       "kicker": "Under the yard",
       "h2": "Check the flood map before anyone digs.",
+      "takeaway": "Digging out a turf base counts as development, so ask the floodplain administrator whether your lot is mapped first. With frost 36 inches down, we check the soil and grade water away from the house.",
       "paras": [
         "Sheridan's building design criteria answer yes on flood hazards and put the frost line at 36 inches (<a href=\"https://ci.sheridan.co.us/438/City-of-Sheridan-Design-Criteria\" target=\"_blank\" rel=\"nofollow noopener\">City of Sheridan</a>). Both matter to a turf job.",
         "In the city's floodplain rules, development means any man-made change to real estate, including filling, grading, paving, excavation and storing equipment or materials. A floodplain development permit is required before that work begins in a special flood hazard area, land with a one percent or greater chance of flooding in any year (<a href=\"https://library.municode.com/co/sheridan/codes/code_of_ordinances?nodeId=PTIICOOR_CH56ZO_ARTXVIIOOOVDI_S56-385DE\" target=\"_blank\" rel=\"nofollow noopener\">Sec. 56-385</a>). The application goes to the floodplain administrator, with scaled plans of the proposed landscape alterations (<a href=\"https://library.municode.com/co/sheridan/codes/code_of_ordinances?nodeId=PTIICOOR_CH56ZO_ARTXVIIOOOVDI_S56-388PEPR\" target=\"_blank\" rel=\"nofollow noopener\">Sec. 56-388</a>).",
@@ -64,6 +68,7 @@
       "icon": "paw",
       "kicker": "Dog runs and edges",
       "h2": "A fence takes its own permit, and the grass beside the turf still counts.",
+      "takeaway": "Fences need a permit; a front fence must be at least half open and 42 inches tall at most. Grass left by a fence can break the eight-inch weed rule, so we edge turf tight.",
       "paras": [
         "Putting up, altering or rebuilding a fence in Sheridan needs a permit (<a href=\"https://library.municode.com/co/sheridan/codes/code_of_ordinances?nodeId=PTIICOOR_CH56ZO_ARTXIXFE_S56-432PERE\" target=\"_blank\" rel=\"nofollow noopener\">Sec. 56-432</a>). In residential districts a front-yard fence must be at least 50 percent open and no taller than 42 inches, while side fences behind the front building line and rear fences can reach six feet (<a href=\"https://library.municode.com/co/sheridan/codes/code_of_ordinances?nodeId=PTIICOOR_CH56ZO_ARTXIXFE_S56-436GEREALREDI\" target=\"_blank\" rel=\"nofollow noopener\">Sec. 56-436</a>). Draw the dog run's fence line to those limits, then the pet turf inside it.",
         "Sheridan's weed rule makes turf grass or weeds over eight inches a nuisance for anyone who owns, rents or occupies the lot (<a href=\"https://library.municode.com/co/sheridan/codes/code_of_ordinances?nodeId=PTIICOOR_CH46NUEN_ARTIXGRWE_S46-236REREEX\" target=\"_blank\" rel=\"nofollow noopener\">Sec. 46-236</a>). Synthetic blades never get there, but a leftover strip of grass along a fence or bed can. We lay, seam and edge the turf tight to the borders you approved, then finish with infill, cleanup and a walkthrough of the care it needs."

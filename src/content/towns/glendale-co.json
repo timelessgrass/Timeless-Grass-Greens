@@ -7,8 +7,8 @@
   "county": "Arapahoe",
   "title": "Artificial Turf in Glendale, CO | TIMELESS Grass & Greens",
   "description": "Turf for Glendale courtyards, dog runs and play areas, planned around the city rule that artificial plants can't count as required landscaping.",
-  "h1": "Turf for Glendale courtyards, dog runs and play areas.",
-  "lede": "Glendale's code won't count artificial plants as the landscaping your site must keep. We plan turf for the ground around it, and you approve the layout before work starts.",
+  "h1": "Artificial turf in Glendale, CO, for dog runs and play areas.",
+  "lede": "Turf can't stand in for Glendale's required green space, but it fits a dog run or play area your site plan doesn't count. We measure it at a free visit.",
   "wins": [
     "Turf kept out of the open space your plan counts",
     "A dog run you can rinse inside the city's water rules",
@@ -16,13 +16,14 @@
   ],
   "answer": {
     "question": "Can artificial turf count as required landscaping in Glendale, CO?",
-    "answer": "Not under the code as written. Glendale's landscaping section says artificial plants can't be used to meet it, and required usable open space must be at least 90% living material to count. Plan turf for areas your approved site plan doesn't count as open space, and ask the Building & Permits Department in writing whether your spot is one of them before you order materials."
+    "answer": "Not under the code as written. Artificial plants can't meet it, and usable open space must be at least 90% living material to count. Plan turf for ground your site plan doesn't count as open space."
   },
   "blocks": [
     {
       "icon": "shield",
       "kicker": "The local rule",
       "h2": "Glendale won't let turf stand in for the green space your site owes.",
+      "takeaway": "Turf can't replace the grass or beds your site plan counts as open space, since living material must cover most of it. It fits ground the plan doesn't count, like a dog run.",
       "paras": [
         "Glendale's landscaping section, Sec. 17.16.080, bars artificial plants from being used to comply with it. Open space only counts toward the requirement when living material covers at least 90% of it, and the city won't issue a certificate of occupancy where the landscaping requirements aren't met (<a href=\"https://ecode360.com/47871317\" target=\"_blank\" rel=\"nofollow noopener\">Glendale Municipal Code, Sec. 17.16.080</a>).",
         "The same code sets how much a site owes. A development must set aside at least 25% of its area as usable open space. Multifamily sites give the greater of 25% or 200 square feet for each unit, for the first 500 units. Every 500 square feet of open space needs at least one tree, five shrubs and 20 square feet of perennials.",
@@ -33,6 +34,7 @@
       "icon": "file",
       "kicker": "Before you order",
       "h2": "Mark the turf on your site plan, then ask the city in writing.",
+      "takeaway": "Mark where you want turf on your site plan; we measure the area at the free visit to match it. Ask the city in writing whether that spot counts as open space.",
       "paras": [
         "Find the approved site development plan and landscape plan for the property, and mark where you want turf. On the free visit we measure the area, so the drawing matches the site.",
         "Send it to the Building & Permits Department at BuildingPermits@glendale.co.us (<a href=\"https://www.glendale.co.us/429/Permit-Fees-and-Inspections\" target=\"_blank\" rel=\"nofollow noopener\">City of Glendale</a>). Ask in writing whether turf in that spot needs review or a permit, and whether the spot counts toward required open space. Glendale's new building codes took effect on 23 June 2026 (<a href=\"https://www.glendale.co.us/107/Building-Permits-Department\" target=\"_blank\" rel=\"nofollow noopener\">Building & Permits</a>), so ask again if your answer is older.",
@@ -43,6 +45,7 @@
       "icon": "drop",
       "kicker": "Water",
       "h2": "The city bills your water, and its code follows Denver's rules.",
+      "takeaway": "Glendale's code adopts Denver's water restrictions, and Denver Water bans grass watering from 1 October, so ask the city which schedule it enforces. Turf needs no watering day or new-sod permit.",
       "paras": [
         "Denver Water lists the City of Glendale as a Master Meter distributor: it delivers water to the city through master meters, and the city reads your meter and bills you on its own rate schedule (<a href=\"https://www.denverwater.org/about-us/how-we-operate/service-area/distributors\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>). Report water waste to the city, too (<a href=\"https://www.denverwater.org/residential/rebates-and-conservation-tips/summer-watering-rules\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water watering rules</a>).",
         "Glendale's Chapter 13.06 adopts Denver's water restrictions, but its printed calendar is still dated 2013, so ask the city which schedule it enforces. Denver Water's 2026 rules put multifamily, commercial and HOA common areas on Tuesday and Friday, never between 10 a.m. and 6 p.m., under a Stage 1 drought running from 25 March 2026 to 30 April 2027. On 26 August its board ended the lawn season: from 1 October, watering grass and running spray irrigation are prohibited (<a href=\"https://www.denverwater.org/drought\" target=\"_blank\" rel=\"nofollow noopener\">Denver Water</a>).",
@@ -54,6 +57,7 @@
       "icon": "paw",
       "kicker": "Dog runs",
       "h2": "Rinse the dog run on a watering day, and keep the water off the street.",
+      "takeaway": "Ask the city whether rinsing a dog run counts under its power-washing rule before you set a schedule. We build the base so rinse water drains down, not across the walk.",
       "paras": [
         "Pet turf is made to be hosed clean, and in Glendale the rinse has rules. Chapter 13.06 lets individuals clean with water only on assigned days and outside 10 a.m. to 6 p.m., unless there's an immediate health or safety reason, and it treats water that flows into gutters, streets, alleys or storm drains as waste.",
         "That cleaning rule sits under a power-washing heading, so ask the city whether a hose rinse of a dog run counts before you set the schedule. Either way, we build the base for your soil and set the fall so rinse water drains down, not across the walk.",
@@ -64,6 +68,7 @@
       "icon": "building",
       "kicker": "State law",
       "h2": "Courtyards and common areas answer to Colorado's turf law as well.",
+      "takeaway": "State law keeps new decorative turf off commercial, industrial and HOA common ground, and adds multifamily sites with more than twelve units. Ask the city which start date it applies to that part.",
       "paras": [
         "From 1 January 2026, SB24-005 bars local governments from allowing nonfunctional turf, artificial turf or invasive plants in new development or redevelopment on commercial, institutional, industrial or HOA common property (<a href=\"https://content.leg.colorado.gov/sites/default/files/2024a_005_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">SB24-005</a>). HB25-1113 narrowed that to nonfunctional artificial turf and added multifamily property with more than twelve dwelling units (<a href=\"https://content.leg.colorado.gov/sites/default/files/2025a_1113_signed.pdf\" target=\"_blank\" rel=\"nofollow noopener\">HB25-1113</a>). Published guidance differs on when the multifamily part starts, so ask the city which date it applies.",
         "A decorative strip by an entrance is the kind of turf the law targets, and Glendale's code already goes further on required open space. Our <a href=\"/guides/colorado-turf-law/\">guide to Colorado's turf law</a> covers the definitions."

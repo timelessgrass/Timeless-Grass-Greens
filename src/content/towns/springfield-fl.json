@@ -8,8 +8,8 @@
   "county": "Duval",
   "title": "Artificial Turf in Springfield, FL | TIMELESS Grass & Greens",
   "description": "Artificial turf in Springfield, Jacksonville's historic district. See when the City's Certificate of Appropriateness applies to your lawn, pet area or green.",
-  "h1": "Artificial turf in Springfield, planned around the historic district.",
-  "lede": "In the Springfield Historic District, exterior work starts with a Certificate of Appropriateness. We measure your yard for free and draw a custom layout you approve, so you have a plan to take to the City before any turf goes down.",
+  "h1": "Artificial turf in Springfield, FL, planned with the historic district in mind.",
+  "lede": "In Springfield's historic district, the City may need to sign off before turf goes in. We measure at a free visit and draw a layout to show the City.",
   "wins": [
     "Know whether your plan needs a COA before work starts",
     "A measured layout to show the City's preservation staff",
@@ -17,13 +17,14 @@
   ],
   "answer": {
     "question": "Do I need a Certificate of Appropriateness for artificial turf in Springfield?",
-    "answer": "Possibly. Jacksonville's code requires one before any alteration or new construction on property in a historic district. It exempts routine lawn and landscape care only when no hardscape is added or changed, and it defines hardscape as any non-vegetative element of landscaping. Turf isn't named either way. Before work starts, ask the City's Historic Preservation Section whether your layout, edging and any pavers need a COA."
+    "answer": "Possibly. Jacksonville's code requires a Certificate of Appropriateness before any alteration on property in a historic district, and exempts routine lawn care only when no hardscape is added. Turf isn't named either way, so ask the City's Historic Preservation Section first."
   },
   "blocks": [
     {
       "icon": "file",
       "kicker": "The rule that comes first",
       "h2": "In Springfield, the permission comes before the dig.",
+      "takeaway": "Every parcel in Springfield's historic overlay needs a Certificate of Appropriateness before exterior work, on top of any building permit. Check your address against the district boundary before you plan the layout.",
       "paras": [
         "Springfield has its own zoning overlay. Ordinance 2000-302-E adopted it, and every parcel inside is subject to the Springfield Historic District Regulations (<a href=\"http://jacksonville.elaws.us/code/coor_zose_ch656_pt3_subpti_sec656.367\" target=\"_blank\" rel=\"nofollow noopener\">Ord. Code 656.367</a>). Its edge follows Hogans Creek, Broad Street and the old Seaboard Coast Line rail line, so check your address first.",
         "Inside it, Jacksonville's preservation chapter requires a Certificate of Appropriateness, or COA, before any alteration, new construction, demolition or relocation, on top of any building permit you need. The COA's conditions are written into that permit, and work started without one can be stopped with a notice of violation (<a href=\"http://jacksonville.elaws.us/code/coor_titlevii_ch307_pt1_sec307.106\" target=\"_blank\" rel=\"nofollow noopener\">Ord. Code 307.106</a>).",
@@ -34,6 +35,7 @@
       "icon": "shield",
       "kicker": "Lawn care or hardscape",
       "h2": "The code exempts lawn care, not hardscape. Turf sits in between.",
+      "takeaway": "Routine lawn care is exempt from a COA, but new hardscape isn't, and the code never says which side turf falls on. Ask the City's Historic Preservation Section in writing before the layout is final.",
       "paras": [
         "You don't need a COA for routine lawn and landscape care or maintenance. That exemption leaves out changes to existing hardscape and new hardscape (<a href=\"http://jacksonville.elaws.us/code/coor_titlevii_ch307_pt1_sec307.107\" target=\"_blank\" rel=\"nofollow noopener\">Ord. Code 307.107</a>). The code defines hardscape as any non-vegetative element of landscaping, especially masonry or woodwork, and names retaining walls, driveways, parking pads, patios, walkways, decks, trellises, arbors, pergolas and water fountains (<a href=\"http://jacksonville.elaws.us/code/coor_titlevii_ch307_pt1_sec307.102\" target=\"_blank\" rel=\"nofollow noopener\">Ord. Code 307.102</a>).",
         "Artificial turf isn't alive, and it isn't on that list, so the code doesn't settle which side it falls on. The pieces around it are easier to place: a paver border, a concrete mow strip or a new path to the dog run look a lot like the named examples.",
@@ -44,6 +46,7 @@
       "icon": "clock",
       "kicker": "Staff approval or a hearing",
       "h2": "Minor work can be signed off by staff. Major work waits for a hearing.",
+      "takeaway": "Staff can approve minor work that follows the design rules, while other work goes to a Commission hearing. A staff approval can be appealed within 21 days, so ask whether to wait before booking.",
       "paras": [
         "The Historic Preservation Commission keeps a list of routine alterations and minor work that City staff can approve without a public hearing, if the work follows the district's design regulations (Ord. Code 307.107). SPAR points owners to the City's COA Matrix, which sorts work into staff approvals and Commission votes.",
         "If yours goes to the Commission, build the wait into your plans. The completed application has to be filed at least 21 calendar days before the meeting. You post signs along every street side of the lot, no more than 200 feet apart, at least 14 days before the hearing. The Commission decides within 30 days after the hearing, and the signed order follows within 15 calendar days (Ord. Code 307.106).",
@@ -54,6 +57,7 @@
       "icon": "ruler",
       "kicker": "Small lots, close to the street",
       "h2": "Springfield lots are narrow, so the front yard is always on show.",
+      "takeaway": "Lots here can be as narrow as 25 feet, leaving a shallow front yard facing the street. Front-yard turf and a pet area out back may not get the same answer, so ask about both.",
       "paras": [
         "In the RMD-S residential district, a single-family lot can be as narrow as 25 feet and as small as 2,500 square feet. The front setback is a 10-foot minimum and a 15-foot maximum, and the rear setback is ten feet. Buildings and structures can cover at most 50 percent of the lot (<a href=\"http://jacksonville.elaws.us/code/coor_zose_ch656_pt3_subpti_sec656.368\" target=\"_blank\" rel=\"nofollow noopener\">Ord. Code 656.368</a>). If your plan adds a deck or other structure next to the turf, ask the City how it counts toward that cap.",
         "That adds up to a shallow front yard facing the street and a compact yard out back. When the Commission reviews new construction, one of its criteria is that landscaping be compatible with the character of the house and the houses around it (Ord. Code 307.106). A <a href=\"/northeast-florida/pet-turf/\">pet area</a> behind the back fence and turf across the front yard may not get the same answer, so if you want both, ask about both."
@@ -63,6 +67,7 @@
       "icon": "leaf",
       "kicker": "Trees and the public record",
       "h2": "Look up the trees and your neighbors' approvals before you pick a layout.",
+      "takeaway": "Many trees in the district are protected and need a permit before they come out, so plan turf around a tree rather than removing it. COAs are public record you can search by address.",
       "paras": [
         "SPAR notes that many trees in the district are protected and need special permits before they come out. Plan the turf around a tree rather than removing it to make room, and read <a href=\"/blog/artificial-turf-around-trees/\">how turf works under a tree</a> before you set the edge.",
         "COAs are public records. In the City's Land Use & Zoning Portal, choose Inquire Application, then Show Advanced Search, to look one up by address, your neighbors' included. The JaxGIS Land Development Review maps confirm whether a property is in the district, and SPAR's Design Review Committee of planners, architects and engineers offers technical help (<a href=\"https://www.sparcouncil.org/design\" target=\"_blank\" rel=\"nofollow noopener\">SPAR</a>)."

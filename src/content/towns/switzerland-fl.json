@@ -6,8 +6,8 @@
   "county": "St. Johns",
   "title": "Artificial Turf in Switzerland, FL | TIMELESS Grass & Greens",
   "description": "Room for putting and chipping on your Switzerland property. Plan a practice green, lawn or pet area along the SR 13 corridor.",
-  "h1": "Room for putting and chipping on your Switzerland property.",
-  "lede": "Plan a practice green, lawn or pet area along the SR 13 corridor. We offer free visits and written estimates for the work you want to do.",
+  "h1": "Artificial turf in Switzerland, FL, planned around live oaks and septic drainfields.",
+  "lede": "On many older Switzerland acreage parcels, there's no board between you and a new green or lawn. We measure and check the ground at a free visit.",
   "wins": [
     "Use acreage for purposeful practice shots",
     "Keep oaks and septic access in the plan",
@@ -15,13 +15,14 @@
   ],
   "answer": {
     "question": "What should I check before placing a green on Switzerland acreage?",
-    "answer": "Locate septic components, tree canopy and existing water routes, then choose the putting and chipping space that fits around them. On a river-bluff property, bring any shoreline or drainage information. A larger parcel needs its own requirements checked rather than assuming the rules for a small yard apply."
+    "answer": "Start with the septic drainfield, the first thing to map on a parcel like this. Then mark the live-oak canopy, and on a lot over an acre, check whether the green sits beyond 100 feet of the house, where clearing needs a permit."
   },
   "blocks": [
     {
       "icon": "flag",
       "kicker": "A larger practice area",
       "h2": "Leave most of the property as it is.",
+      "takeaway": "A green can add real putting and chipping room without covering the whole property. Keep a pet area's cleaning access and water supply in the plan too.",
       "paras": [
         "A green can offer longer putting lines or a separate chipping position without turning the entire acreage into turf. Choose how you will reach it from the house and leave ordinary service and vehicle access outside the playing area.",
         "A pet area near the door can be a different project with its own care needs. Include cleaning access and the available water supply rather than promising that turf will use no water."
@@ -31,6 +32,7 @@
       "icon": "leaf",
       "kicker": "Along the river corridor",
       "h2": "Keep roots and property systems clear.",
+      "takeaway": "Mark the live-oak canopy and the septic drainfield before any digging starts. On a slope toward the river, bring your runoff routes and shoreline conditions too.",
       "paras": [
         "Mark the live-oak canopy and obtain any required tree advice before proposing preparation beneath it. Locate the septic tank and drainfield and get appropriate guidance before excavation or compaction nearby.",
         "On a lot sloping toward the St. Johns, show runoff routes and any existing retaining or shoreline conditions. Keep unresolved drainage or structural work separate from the turf quote, and confirm county and private property requirements before finalizing the layout."
@@ -40,6 +42,7 @@
       "icon": "file",
       "kicker": "The rules",
       "h2": "No board to ask. Past 100 feet, ask the county.",
+      "takeaway": "On a lot of record over an acre, permit-free clearing reaches only 100 feet from the house, and never a specimen tree or buffer. A green out in the woods needs the permit first.",
       "paras": [
         "Switzerland is unincorporated St. Johns County, so no city code sits on top of the county's, and St. Johns County's development code says nothing about turf (<a href=\"https://www.sjcfl.us/wp-content/uploads/2024/01/article-vi.pdf\" target=\"_blank\" rel=\"nofollow noopener\">St. Johns County</a>). Many older acreage parcels along SR 13 sit outside any HOA, so there's no architectural review between you and a new lawn or green. Newer estate streets in the corridor do carry covenants, so read yours before you plan.",
         "The trees are the other matter, and there the acre works against you. The county lets an existing home clear ground and take protected trees without a permit only on a lot of record of an acre or less; on a bigger lot of record that same exemption reaches just the land within 100 feet of the perimeter of the house (<a href=\"https://www.sjcfl.us/wp-content/uploads/2024/01/Article-IV.pdf\" target=\"_blank\" rel=\"nofollow noopener\">LDC Sec. 4.01.05.C.11</a>). Wherever it reaches, it stops short of a specimen tree, a conservation area or a buffer (<a href=\"https://www.sjcfl.us/code-compliance/\" target=\"_blank\" rel=\"nofollow noopener\">St. Johns County</a>). An acre is the county's own floor in its large-lot districts: the minimum lot is one acre in RS-E and one acre for a single-family home in Open Rural (<a href=\"https://www.sjcfl.us/wp-content/uploads/2024/01/article-vi.pdf\" target=\"_blank\" rel=\"nofollow noopener\">LDC Table 6.01, 12 January 2026 edition</a>). So find your district and pull the recorded acreage of your lot of record before anything is drawn. An acre and a bit puts the woods past the ring on the permit side.",
@@ -50,6 +53,7 @@
       "icon": "drop",
       "kicker": "Wells",
       "h2": "A well can't keep an acre green on one day a week.",
+      "takeaway": "The Phase III order covers private wells too, so a well gets one watering day, Saturday or Sunday, and no new sod for now. Turf asks nothing of the well.",
       "paras": [
         "Much of the corridor is on JEA's Major Grid, but plenty of the rural acreage along SR 13 runs on a private well and septic (<a href=\"https://www.jea.com/about/water_supply/water_facilities/\" target=\"_blank\" rel=\"nofollow noopener\">JEA</a>). The drought order doesn't care which. The Phase III declaration of 11 May 2026, still standing when we checked on 7 September, reaches a private well and pump exactly as it reaches the utility's water (<a href=\"https://www.sjcfl.us/phase-iii-extreme-water-shortage-declaration-may-2026/\" target=\"_blank\" rel=\"nofollow noopener\">St. Johns County</a>).",
         "In practice that's a single watering day, Saturday or Sunday depending on your address, and no new sod or plantings for now. An acre of lawn on a private well was already a pump and power bill; on a single day a week it's a lawn you can't keep green. Turf asks nothing of the well."
@@ -59,6 +63,7 @@
       "icon": "shovel",
       "kicker": "The ground",
       "h2": "A river bluff, old roots and water from uphill.",
+      "takeaway": "Under a big live oak, St. Augustine grass won't hold, and a job on uncleared ground often starts with grubbing and root work. On a river bluff, grading and edge restraint matter more.",
       "paras": [
         "Switzerland shares the flatwoods sand of northwest St. Johns County, sand over a slow, organic-stained hardpan, but two things set its ground apart. Parcels running down to the St. Johns have a bluff slope, brackish water at the toe and stormwater arriving from the neighbours above, so grading and edge restraint matter more here than on a flat subdivision lot.",
         "The other is the canopy. This is old plantation country and the live oaks are the real thing, not builder plantings. Under a big oak, dense shade, a mat of surface roots and a steady fall of leaves and acorns mean St. Augustine won't hold, and parts of many wooded parcels have never been cleared, so a job here often starts with grubbing and root work rather than sod removal.",

@@ -6,8 +6,8 @@
   "county": "St. Johns",
   "title": "Artificial Turf in Ponte Vedra Beach, FL | TIMELESS Grass & Greens",
   "description": "A backyard putting green in Ponte Vedra Beach. Bring short-game practice home, with lawn and pet-turf options for the space around it.",
-  "h1": "A backyard putting green in Ponte Vedra Beach.",
-  "lede": "Bring short-game practice home, with lawn and pet-turf options for the space around it. Request a free visit, custom layout and written estimate.",
+  "h1": "Artificial turf in Ponte Vedra Beach, FL, built for salt air and shade.",
+  "lede": "Practice between rounds on a green behind your own house, a short drive from TPC Sawgrass. Free visit, then a custom layout you approve before work starts.",
   "wins": [
     "Choose putting lines you want to practice",
     "Keep lagoon, tree and access conditions in view",
@@ -15,13 +15,14 @@
   ],
   "answer": {
     "question": "What should I decide before choosing a Ponte Vedra Beach putting green?",
-    "answer": "Choose the putts, chipping space and walking room you want, then identify the usable area around trees and water. Confirm any Ponte Vedra zoning-district requirements and your community’s architectural-review process before finalizing the footprint."
+    "answer": "The putts you want to repeat. Choose the distances first, then contours, cups and fringe, and check who reviews it: the county's zoning board on the boulevard, or your community's architectural committee behind the gates."
   },
   "blocks": [
     {
       "icon": "flag",
       "kicker": "Practice between rounds",
       "h2": "Build around the shots you want to repeat.",
+      "takeaway": "Pick the distances and breaks you want to repeat, then set contours, cups and fringe around them. On a golf- or lagoon-facing lot, keep the boundary, water setback and walking access in the plan.",
       "paras": [
         "A few useful putting lines close to the house can make regular practice easy. Discuss contours, cups and fringe after choosing the distances that matter to you. Select the roll and breaks for the practice you want to repeat.",
         "On a golf- or lagoon-facing lot, keep the property boundary, water setback and walking access in the plan. A lawn or pet area can remain separate from the putting surface."
@@ -31,6 +32,7 @@
       "icon": "file",
       "kicker": "Boulevard and community properties",
       "h2": "Check the zoning district and private requirements.",
+      "takeaway": "On the boulevard, your lot may sit inside the county's Ponte Vedra Zoning District, with its own yard rules. Behind the gates, a private architectural committee reviews too, and one doesn't replace the other.",
       "paras": [
         "The Ponte Vedra Boulevard corridor includes properties within the county’s Ponte Vedra Zoning District, with its own yard and open-space rules. Confirm the parcel and intended work with county planning before using a general county limit to size the project.",
         "In Sawgrass, Marsh Landing or The Plantation, obtain the current architectural instructions as well. Private review does not replace applicable public requirements. Bring the written conditions, tree information and any drainage concerns to the estimate."
@@ -40,6 +42,7 @@
       "icon": "flag",
       "kicker": "Putting greens",
       "h2": "Practice for greens Pete Dye built, in your own back yard.",
+      "takeaway": "A backyard green won't be the 17th, but it gets real slope, a collar and cups where you want them. On golf-frontage lots, we build the base to use the yard's fall.",
       "paras": [
         "TPC Sawgrass has been the permanent home of THE PLAYERS Championship since 1982, played every March on Pete Dye's Stadium Course, whose par-3 17th is the island green; Dye's Valley Course is its neighbor (<a href=\"https://en.wikipedia.org/wiki/TPC_at_Sawgrass\" target=\"_blank\" rel=\"nofollow noopener\">Wikipedia: TPC Sawgrass</a>). The PGA TOUR's world headquarters is in Ponte Vedra Beach, and so is the ATP Tour's.",
         "The courses around it run just as deep. Sawgrass Country Club, member-owned and founded in 1974, hosted THE PLAYERS on its Ed Seay course from 1977 to 1981 (<a href=\"https://en.wikipedia.org/wiki/Sawgrass_Country_Club\" target=\"_blank\" rel=\"nofollow noopener\">Wikipedia: Sawgrass Country Club</a>). The Ponte Vedra Inn & Club, the 1928 resort that started the town, has Ocean and Lagoon courses reworked by Bobby Weed, and The Plantation plays 18 holes, par 72, over 7,141 yards.",
@@ -50,6 +53,7 @@
       "icon": "shield",
       "kicker": "Who approves it",
       "h2": "Two approval paths: the zoning board on the boulevard, a private committee behind the gates.",
+      "takeaway": "Removing a tree with a trunk of 10 inches or more in the zoning district needs Site Plan approval and a permit. In Marsh Landing, replacing a lawn with turf needs an ARB application first.",
       "paras": [
         "Ponte Vedra Beach is unincorporated, with no city hall, but it has its own zoning district. The Ponte Vedra Zoning District Regulations, Ordinance 2020-38, are administered by the Ponte Vedra Zoning and Adjustment Board, which takes final action on building size, land-use intensity, and the yards and open space around buildings (<a href=\"https://www.sjcfl.us/wp-content/uploads/2026/02/PVZDR-Code.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Ponte Vedra Zoning District Regulations</a>).",
         "The zoning rules date to 1965, and the overlay for the coastal corridor to 1997. On the boulevard, where many older lots have no HOA in the usual sense, ask county planning whether your layout needs anything from the board before it's final.",
@@ -62,6 +66,7 @@
       "icon": "sun",
       "kicker": "Salt and shade",
       "h2": "Salt air, brackish wells and live-oak shade: three reasons grass gives out near the ocean.",
+      "takeaway": "Salt air, brackish well water and live-oak shade all wear out grass along the boulevard. Turf needs none of the three, and the canopy that starves grass of sun keeps turf's surface cooler.",
       "paras": [
         "Onshore salt spray burns St. Augustine and Zoysia along the Ponte Vedra Boulevard corridor, and irrigation drawn from shallow coastal wells can be brackish enough to make it worse. Turf takes neither.",
         "Mature live oaks and cabbage palms shade much of the boulevard corridor and the older Sawgrass streets, and grass under them never gets the sun it needs. Turf needs none, and the canopy keeps its surface temperature well down in summer (<a href=\"/blog/how-hot-does-artificial-turf-get/\">what shade does for turf</a>).",

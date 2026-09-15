@@ -6,8 +6,8 @@
   "county": "Clay",
   "title": "Artificial Turf in Middleburg, FL | TIMELESS Grass & Greens",
   "description": "Lawns, pet areas and greens for Middleburg properties. Choose a useful turf area near the house or a practice green with room around it.",
-  "h1": "Lawns, pet areas and greens for Middleburg properties.",
-  "lede": "Choose a useful turf area near the house or a practice green with room around it. Request a free visit and written installation estimate.",
+  "h1": "Artificial turf in Middleburg, FL, sized to the part of your acreage you use.",
+  "lede": "Outside the subdivisions, most Middleburg land has no HOA to ask, and a dog area by the door can leave the rest as it is. Free visit, written price.",
   "wins": [
     "Use acreage for purposeful putting or pet space",
     "Keep trees, systems and access in the layout",
@@ -15,13 +15,14 @@
   ],
   "answer": {
     "question": "What should I have ready for turf on Middleburg acreage?",
-    "answer": "Bring the intended work area, known septic or utility locations and any property plan. Mark trees and water routes before considering preparation. Confirm applicable county and community requirements, including whether the parcel lies in the Greater Lake Asbury District."
+    "answer": "Your property plan, the septic location and any flood or drainage information. Mark trees and low or creek-side ground, and confirm whether the parcel lies in the Greater Lake Asbury District or a covenanted subdivision."
   },
   "blocks": [
     {
       "icon": "layout",
       "kicker": "A defined part of the land",
       "h2": "You do not need to turf the whole property.",
+      "takeaway": "A dog area, lawn or green can leave the rest of your acreage untouched. Choose the zone and activities you want, and keep vehicle and service access outside that footprint.",
       "paras": [
         "A dog area near the door, a lawn beside the patio or a putting green can leave the rest of an acreage lot as it is. Choose the distances and activities you want, then keep vehicle and service access outside that footprint.",
         "If a well supplies the property, allow for the water used in cleaning and the planting that remains. Turf removes lawn irrigation for growth from its area, but pet use still needs care."
@@ -31,6 +32,7 @@
       "icon": "shovel",
       "kicker": "Near Black Creek or on a slope",
       "h2": "Bring the ground and boundaries into the discussion.",
+      "takeaway": "Show any creek-side, low or eroded ground and known flood or drainage information. Turf is not a flood-control fix, so the grade and water route need to be planned together, with septic access kept clear.",
       "paras": [
         "Show creek-side, low or eroded areas and any existing flood or drainage information. The usable playing grade and the route for water need to be considered together; turf is not a flood-control or structural-ground solution.",
         "Middleburg includes properties with different community and overlay conditions. Check the parcel rather than assuming rural land has no review. Keep required planting, protected trees and septic access in the plan before the installation is priced."
@@ -40,6 +42,7 @@
       "icon": "drop",
       "kicker": "Wells count",
       "h2": "On a well, the watering days still apply.",
+      "takeaway": "Clay County's watering limits apply to private wells too, not just utility water. Right now that means one day a week, and a violation can mean a civil infraction of up to $500.",
       "paras": [
         "A lot of rural Middleburg waters from private wells, and it's easy to assume the rules stop at the utility meter. They don't. Clay County's irrigation ordinance applies to each person located within the county, Sec. 18.5-77, private wells and pumps included (<a href=\"https://library.municode.com/fl/clay_county/codes/code_of_ordinances\" target=\"_blank\" rel=\"nofollow noopener\">Clay County code</a>).",
         "Right now that means the Phase III shortage order in force since 11 May 2026: one day a week, Saturday for odd or unnumbered addresses and Sunday for even, no sprinklers from 8 a.m. through 6 p.m., three-quarters of an inch and an hour per zone at most (<a href=\"https://clayutility.org/phase-iii-water-shortage-restrictions-now-in-effect/\" target=\"_blank\" rel=\"nofollow noopener\">Clay County Utility Authority</a>). The utility's headquarters is on Old Jennings Road, here in Middleburg.",
@@ -50,6 +53,7 @@
       "icon": "shovel",
       "kicker": "The ground",
       "h2": "The sand is the easy part. Black Creek is the part to check.",
+      "takeaway": "Central Middleburg's sand drains fast and makes an easy base, but Black Creek ravine lots have real slope, erosion and shade. On a creek lot, the flood zone decides the footprint.",
       "paras": [
         "In central Middleburg the USDA maps Ortega fine sand, 85% of the map unit: moderately well drained, no flooding, no ponding, and the water table stays at least 4.3 feet down (<a href=\"https://sdmdataaccess.sc.egov.usda.gov/\" target=\"_blank\" rel=\"nofollow noopener\">USDA Soil Data Access</a>). Its class, Quartzipsamments, means clean quartz sand with almost no clay or organic matter to hold water.",
         "That's why St. Augustine and Bahia go straw-colored between waterings here, and why one day a week is so hard on them. For turf the same sand is an easy start: water goes straight down through it, and a base built for that soil keeps the surface even.",
@@ -61,6 +65,7 @@
       "icon": "layout",
       "kicker": "Who has a say",
       "h2": "Acreage with no HOA, subdivisions with covenants, and Lake Asbury in between.",
+      "takeaway": "Middleburg is unincorporated, and most of it has no HOA at all, so wooded acreage often has no board to ask. Inside The Ravines, Ridaught Landing or Lake Asbury, read your covenants before you plan.",
       "paras": [
         "Middleburg is unincorporated: no town council, no town ordinance and no town architectural board. Clay County's code governs, and nothing in it prohibits artificial turf. Outside the platted subdivisions most of Middleburg has no HOA at all, so wooded acreage along Blanding Boulevard, CR 218 and CR 220 has no board to ask before a dog run, a green or a full lawn goes in.",
         "Inside The Ravines, Ridaught Landing and the Lake Asbury communities, read your covenants before you plan. The Greater Lake Asbury District is also one of two places where the county's landscaping article reaches homes, under Sec. 18.5-51, so a house there has landscape obligations a house on CR 218 doesn't.",

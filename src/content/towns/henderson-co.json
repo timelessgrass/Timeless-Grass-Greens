@@ -7,8 +7,8 @@
   "county": "Adams",
   "title": "Artificial Turf in Henderson, CO | TIMELESS Grass & Greens",
   "description": "Artificial turf for Henderson, CO homes on wells and septic. Check what your well permit allows outdoors and where the leach field sits before a base is dug.",
-  "h1": "A green Henderson yard that never draws on your well.",
-  "lede": "If your Henderson home runs on a well and a septic system, turf gives you a lawn, dog run or putting green that takes no water from the well and stays clear of the leach field. It starts with a free visit to measure and check the ground.",
+  "h1": "Artificial turf in Henderson, CO, that never draws on your well.",
+  "lede": "Well, tank and leach field set the edges, and we lay out the lawn, dog run or green in the room between them. Free visit first.",
   "wins": [
     "A lawn or green that needs no water from your well",
     "A layout planned around the tank and leach field",
@@ -16,13 +16,14 @@
   ],
   "answer": {
     "question": "Can I water a lawn from my Henderson well?",
-    "answer": "Only if your well permit allows it. Under Colorado Division of Water Resources Guideline 2023-1, many exempt well permits on parcels under 35 acres are household use only: ordinary household purposes inside one single-family dwelling, with no allowed outdoor uses. Other permits can include irrigation of up to one acre of home gardens and lawns. Your permit's wording decides, so look it up before planning grass. Artificial turf needs no irrigation at all."
+    "answer": "Only if your permit includes lawn and garden irrigation. A household-use-only permit rules out growing plants outside the house, and even an irrigation permit caps the area. Look yours up in the state's Well Permits search; turf needs no water."
   },
   "blocks": [
     {
       "icon": "drop",
       "kicker": "The well permit",
       "h2": "On a household-use-only well, the lawn gets nothing.",
+      "takeaway": "A household-use-only well permit rules out watering a lawn at all. Look your well up in the state's search tool — artificial turf needs no water from it either way.",
       "paras": [
         "On a Henderson well, the permit decides whether outdoor watering is allowed at all. <a href=\"https://dnrweblink.state.co.us/dwr/ElectronicFile.aspx?docid=4187690&dbid=0\" target=\"_blank\" rel=\"nofollow noopener\">Guideline 2023-1</a> spells out what a household-use-only permit excludes: growing plants anywhere outside the house, a greenhouse included, and washing vehicles, windows or decks. Watering is limited to personal plants grown indoors.",
         "A permit that does include lawn and garden irrigation still has limits. The irrigated area is capped, and the water can't be used to fill pools, ponds, fountains or waterfalls.",
@@ -33,6 +34,7 @@
       "icon": "pin",
       "kicker": "Small water systems",
       "h2": "Two groundwater systems carry Henderson addresses.",
+      "takeaway": "Not every Henderson home has its own well — some are on a small community water system instead. Ask whichever system bills you whether it limits outdoor watering before you budget new grass.",
       "paras": [
         "Not every home here has its own well. EPA drinking water records list two active community water systems at Henderson, 80640 addresses, and both draw groundwater: <a href=\"https://data.epa.gov/efservice/WATER_SYSTEM/PRIMACY_AGENCY_CODE/CO/PWS_NAME/CONTAINING/HAZELTINE/JSON\" target=\"_blank\" rel=\"nofollow noopener\">Hazeltine Heights Water</a>, with 88 service connections, and <a href=\"https://data.epa.gov/efservice/WATER_SYSTEM/PRIMACY_AGENCY_CODE/CO/PWS_NAME/CONTAINING/TUCSON/JSON\" target=\"_blank\" rel=\"nofollow noopener\">Tucson WC</a>, with 36 (checked 12 September 2026).",
         "Neither record says anything about lawns. Ask the system that bills you whether it limits outdoor watering before you budget for new grass. Our <a href=\"/guides/colorado-water-rebates-and-turf/\">metro rebate rundown</a> covers the larger providers that publish their terms."
@@ -42,6 +44,7 @@
       "icon": "shovel",
       "kicker": "The leach field",
       "h2": "Find the soil treatment area before any base is dug.",
+      "takeaway": "County rules protect the ground over your leach field from compaction by traffic, recreation or site work, and a turf base is compacted rock. Ask the health department first; we place turf around its answer.",
       "paras": [
         "Septic systems here fall under Adams County Health Department <a href=\"https://adamscountyhealthdepartment.org/wp-content/uploads/sites/2/2026/01/eh-wq-septic-system-regulations-2026.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Regulation O-26</a>, adopted on 20 November 2025 and in force since 5 January 2026 (<a href=\"https://adamscountyhealthdepartment.org/wp-content/uploads/sites/2/2025/12/boh-resolution-septic-systems-regulations-2025.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Board of Health Resolution 2025-012</a>). It treats the ground over the leach field as part of the system.",
         "Section 11.10 restricts use of the surface over any part of the system. The soil treatment area must not be subject to damage or soil compaction from livestock, vehicular traffic, recreational use or other site development activity. A field built to O-26 gets at least 10 inches of final cover of soil suitable for vegetation, graded to divert storm water away.",
@@ -52,6 +55,7 @@
       "icon": "shield",
       "kicker": "Adams County's code",
       "h2": "The county doesn't count artificial turf as landscaping.",
+      "takeaway": "New development can't use turf as landscape material; asking for it means meeting minimum planting and requesting an alternative turf design. Turf behind an existing home is a separate case, so ask the county.",
       "paras": [
         "Chapter 4 of Adams County's <a href=\"https://adamscountyco.gov/wp-content/uploads/2025/08/dsr-chapter-04.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Development Standards and Regulations</a>, in the version dated 1 October 2024, says no artificial trees, plants or turf shall be used as a landscape material. An applicant who wants artificial turf must still meet the minimum plant requirements and send the Director of Community and Economic Development a request for an alternative turf design with drainage specifications (Section 4-19-04-01).",
         "That section reaches new development that hadn't applied for a building permit when it took effect, and existing development that needs a change in use permit. For a new single-family house outside eastern Adams County, the chapter also wants the front and side setbacks landscaped and at least 30% of the back yard. Turf behind an existing home is a separate case.",
@@ -62,6 +66,7 @@
       "icon": "layout",
       "kicker": "Planning the yard",
       "h2": "Well, tank and field set the edges of the turf.",
+      "takeaway": "Your well, tank and leach field set fixed points before any layout starts. We edge turf around septic lids rather than laying over them, and mark everything at the free visit.",
       "paras": [
         "Table 6 of O-26 keeps a leach field trench or bed at least 100 feet from a well. A Henderson lot with both has fixed points before any design starts, and the turf works in the room between them and the house.",
         "Keep the septic lids reachable. The county's <a href=\"https://adamscountyhealthdepartment.org/wp-content/uploads/sites/2/2026/01/eh-wq-septic-system-faqs-2026.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Use Permit FAQ</a> lists risers and lids below grade among the deficiencies an inspector flags, and they have to be repaired before a permit is issued. Turf edged around a lid, not laid over it, keeps that simple.",

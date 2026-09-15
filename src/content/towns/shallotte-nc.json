@@ -6,8 +6,8 @@
   "county": "Brunswick",
   "title": "Artificial Turf in Shallotte, NC | TIMELESS Grass & Greens",
   "description": "Artificial turf installation in Shallotte. Turn part of your yard into a lawn, pet area or putting green.",
-  "h1": "Artificial turf installation in Shallotte.",
-  "lede": "Turn part of your yard into a lawn, pet area or putting green. Start with a free site visit, a custom layout and a written estimate.",
+  "h1": "Artificial turf in Shallotte, NC, starting with which office covers your parcel.",
+  "lede": "Make room for a putting green, a pet area and the path from the house in one yard. We measure at a free visit and give you a written estimate.",
   "wins": [
     "Choose the area and use that fit your yard",
     "See a custom layout before work starts",
@@ -15,13 +15,14 @@
   ],
   "answer": {
     "question": "What should I have ready for a Shallotte turf estimate?",
-    "answer": "Show us the area you want to change, the narrowest access into the yard and any places that hold water. For a putting green, tell us which putts you want to practice. Bring any property or association requirements so the proposed work can be priced around them."
+    "answer": "The space, the way in and any wet spots. Show us the area to change, the narrowest gate and places that hold water, and bring any association requirements and written conditions from Town Planning & Zoning."
   },
   "blocks": [
     {
       "icon": "flag",
       "kicker": "A yard you’ll use",
       "h2": "Choose the job for each part of the yard.",
+      "takeaway": "Pick which part of the yard becomes lawn, pet area or putting green before the layout is drawn. Show us gates, steps and wet spots so the written estimate covers removal, prep and finishing.",
       "paras": [
         "A putting green can leave room for a pet area, planting beds and the path from the house. Start with how you want to spend time outside, then choose the turf boundary. For a green, decide which putt lengths matter to you and whether you want room to chip.",
         "At the visit, we’ll discuss the layout and turf options. The written estimate should make the installation scope clear, including removal, preparation and finishing. Show us gates, steps and wet spots that could affect the work."
@@ -31,6 +32,7 @@
       "icon": "shield",
       "kicker": "Your Shallotte property",
       "h2": "Use the parcel address when checking requirements.",
+      "takeaway": "A Shallotte mailing address alone doesn't settle which rules apply. Confirm your parcel's jurisdiction with Town Planning & Zoning, and check any association rules before the layout is set.",
       "paras": [
         "A Shallotte mailing address alone does not settle which requirements apply to the work. Ask Town Planning & Zoning to confirm the jurisdiction for your parcel, and check any association requirements before finalizing the layout.",
         "That check is particularly useful if the project includes grading or drainage changes. Bring any written conditions to the visit so the turf layout and installation scope can take them into account."
@@ -40,6 +42,7 @@
       "icon": "flag",
       "kicker": "Use the space",
       "h2": "Plan the putting lines, pet area and route from the house.",
+      "takeaway": "For a green, choose the direction and length of your putts before cups and contours; for a pet area, the route from the door and cleanup access. Keep disposal visible when comparing estimates.",
       "paras": [
         "For a putting green, choose the direction and length of the putts you want to practice, then consider cups, contours and a fringe. For a pet area, think about the route from the door and access for routine cleanup. Those choices give the layout a purpose before you choose its outline.",
         "Show us the narrowest gate and any steps between unloading and the work area. Include known wet spots, downspouts and any drainage changes you are considering. Keep excavation, base preparation, edging and disposal visible when comparing estimates."
@@ -49,6 +52,7 @@
       "icon": "shield",
       "kicker": "Shallotte properties",
       "h2": "Check the parcel, even when the mailing address says Shallotte.",
+      "takeaway": "The Town's zoning maps may lag recent zoning or annexation changes, so ask staff to confirm. Brierwood has no HOA design review, but Town Planning & Zoning and Code Enforcement still serve it.",
       "paras": [
         "<a href=\"https://www.townofshallotte.org/planning_zoning\" target=\"_blank\" rel=\"nofollow noopener\">Shallotte Planning & Zoning</a> describes its jurisdiction as town limits and the extra-territorial area outside them, and directs building-inspection questions to Brunswick County. Give staff the address and parcel information for the work.",
         "The <a href=\"https://www.townofshallotte.org/index.asp?SEC=C206CE57-2C55-45E6-88CB-08032F3785DD\" target=\"_blank\" rel=\"nofollow noopener\">Town’s zoning and jurisdiction maps</a> may lag recent zoning or annexation changes. Ask staff to confirm which requirements apply, particularly if the proposal changes grading or drainage or lies near a water feature. Bring any applicable association documents to the estimate as well. Brierwood, the former golf-course community south-central of Shallotte built around a course that <a href=\"https://brierwood.info/\" target=\"_blank\" rel=\"nofollow noopener\">closed in 2017</a>, is one place where that association check comes up empty: the community’s own site describes its \"non-HOA status,\" so there is no association design review standing between you and a turf project there. Government services still apply as anywhere in town — <a href=\"https://brierwood.info/government-services/\" target=\"_blank\" rel=\"nofollow noopener\">Brierwood’s own page</a> lists Town of Shallotte Planning & Zoning and Code Enforcement among the departments serving the community, with sewer billed by the town and water by Brunswick County. Use the Town Planning & Zoning guidance above for a Brierwood parcel."
@@ -58,6 +62,7 @@
       "icon": "drop",
       "kicker": "Civietown, unincorporated",
       "h2": "Confirm who reviews Civietown work: the town or the county.",
+      "takeaway": "Civietown has no town government, so ask Shallotte and Brunswick County which one reviews your parcel. If the county does, filling or digging four inches or more that changes drainage needs its stormwater permit.",
       "paras": [
         "Civietown sits along Civietown Road SW (SR 1132), about 3.8 miles east of Shallotte, and has no incorporated town government of its own — it doesn't appear as a place on federal or OpenStreetMap place records, only as the road name. The town review described above may not be who covers your project there. Ask both Shallotte Planning & Zoning and <a href=\"https://www.brunswickcountync.gov/planning/\" target=\"_blank\" rel=\"nofollow noopener\">Brunswick County Planning & Community Enforcement</a>, which reviews unincorporated land outside every town's planning jurisdiction, to confirm which office covers your specific parcel before you finalize a layout.",
         "Where the county reviews the work instead of the town, Brunswick County's <a href=\"https://www.brunswickcountync.gov/DocumentCenter/View/7215\" target=\"_blank\" rel=\"nofollow noopener\">stormwater ordinance</a> applies on its own terms: filling or excavating a parcel by four inches or more, in a way that changes how it drains, needs a Stormwater Management Plan and a county Stormwater Permit, and any digging within 30 feet of a stream bank needs one too unless the county's management manual marks the work exempt. See our <a href=\"/grand-strand/ash-nc/\">Ash, NC</a> page for how that county permit trigger plays out nearby, then bring the same questions on dig depth and any stream near your Civietown lot to the county before work starts."

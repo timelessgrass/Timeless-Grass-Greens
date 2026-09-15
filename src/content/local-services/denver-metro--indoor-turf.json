@@ -4,8 +4,8 @@
   "service": "indoor-turf",
   "title": "Indoor Turf in the Denver Metro | TIMELESS Grass & Greens",
   "description": "Indoor turf for Denver-area gyms and studios. Code editions change by city and fire district, so start with yours. Free visit and a custom layout you approve.",
-  "h1": "Indoor turf for your gym, planned around the code at your address.",
-  "lede": "Get sled lanes, sprint tracks and training floors planned around the rules at your address. Across the Denver metro, building and fire code editions change from one city or fire district to the next, and one town can run two editions at once. Book a free visit and we measure the space, then draw a custom layout for you to approve before any work starts.",
+  "h1": "Indoor turf in the Denver Metro, starting with the code edition at your address.",
+  "lede": "Sled lanes, sprint tracks and training floors, laid out around your gym. We measure your space at a free visit, then draw a layout you approve.",
   "wins": [
     "Know your code editions before you pick a turf",
     "Turf and pad matched to the fire-test reports your office wants",
@@ -13,13 +13,14 @@
   ],
   "answer": {
     "question": "Which code covers indoor turf in a Denver-area gym?",
-    "answer": "It depends on the address. Across the metro, cities, counties and fire districts enforce different editions of the building and fire codes, 2021 at some addresses and 2024 at others. Before you order turf, find out which editions apply at yours, who reviews the plans, and which fire-test reports the office wants for the turf and pad. Call 303-349-2368 for a free estimate."
+    "answer": "It depends on the address. Cities, counties and fire districts across the metro enforce different code editions, 2021 in some, 2024 in others. Find out which edition and fire-test reports your office wants before you order turf."
   },
   "blocks": [
     {
       "icon": "pin",
       "kicker": "City by city",
       "h2": "Your city’s code edition may not be Denver’s.",
+      "takeaway": "Denver builds on the 2024 codes, but Westminster and Erie still use the 2021 building code. Get both the building and fire code editions for your address before you order turf.",
       "paras": [
         "<a href=\"/denver-metro/denver-co/\">Denver</a> builds on the 2024 International Building Code and Fire Code with its own amendments, published as the <a href=\"https://www.denvergov.org/files/assets/public/v/3/community-planning-and-development/documents/ds/building-codes/2025_denver_building_code.pdf\" target=\"_blank\" rel=\"nofollow noopener\">2025 Denver Building Code</a> and the <a href=\"https://denver.legistar1.com/denver/attachments/83f4bb5c-cf4f-49fb-a335-bf6486064e81.pdf\" target=\"_blank\" rel=\"nofollow noopener\">2025 Denver Fire Code</a> and amended again in <a href=\"https://denver.legistar1.com/denver/attachments/0f7d44eb-1fef-4335-8d9e-d9336ee707d9.pdf\" target=\"_blank\" rel=\"nofollow noopener\">November 2025</a>.",
         "Your suburb may be on another edition. As of September 2026, <a href=\"/denver-metro/westminster-co/\">Westminster</a>’s <a href=\"https://www.westminsterco.gov/621/Building-Division\" target=\"_blank\" rel=\"nofollow noopener\">building division</a> lists the 2021 building and fire codes, in effect since June 1, 2024. Broomfield adopted the <a href=\"https://www.broomfield.org/176/Building-Code-Information\" target=\"_blank\" rel=\"nofollow noopener\">2024 codes</a>, fire code included, effective April 15, 2026. <a href=\"/denver-metro/thornton-co/\">Thornton</a> applies the <a href=\"https://www.thorntonco.gov/business-development/city-development/building-permits-inspections\" target=\"_blank\" rel=\"nofollow noopener\">2024 building codes</a> to permit applications from July 1, 2026. <a href=\"/denver-metro/castle-rock-co/\">Castle Rock</a> lists the <a href=\"https://www.crgov.com/2178/Adopted-Building-Codes\" target=\"_blank\" rel=\"nofollow noopener\">2024 building and fire codes</a> for new permit submittals.",
@@ -30,6 +31,7 @@
       "icon": "building",
       "kicker": "Fire districts",
       "h2": "In some suburbs, a fire district reviews your plans.",
+      "takeaway": "In some suburbs a fire district reviews your plans, and one district can run two editions. Check the county assessor's record, not your mailing address, and ask your fire district which edition applies.",
       "paras": [
         "West Metro Fire Rescue does plan review, permits and inspections for new construction and changes to existing buildings. Its <a href=\"https://www.westmetrofire.org/adopted-fire-codes-for-west-metro-fire-rescue\" target=\"_blank\" rel=\"nofollow noopener\">code table</a> lists the 2021 fire code for <a href=\"/denver-metro/lakewood-co/\">Lakewood</a> and 2024 for unincorporated Jefferson County. Check the county assessor’s record before you trust a mailing address: some unincorporated Jefferson County properties carry a city or town address.",
         "South Metro Fire Rescue also runs two editions. Its board <a href=\"https://www.southmetro.org/files/eec292b64/Board+of+Directors+Meeting+Minutes+05.04.26.pdf\" target=\"_blank\" rel=\"nofollow noopener\">adopted the 2024 fire code</a> for unincorporated Jefferson County in its district on May 4, 2026, and its <a href=\"https://www.southmetro.org/files/0c1531be3/05.04.26+SMFR+Regular+Board+Meeting+Packet.pdf\" target=\"_blank\" rel=\"nofollow noopener\">2021 code</a> stays in effect for unincorporated Arapahoe County.",
@@ -40,6 +42,7 @@
       "icon": "file",
       "kicker": "Denver change of use",
       "h2": "Moving your gym into a Denver shop or warehouse? Ask about an architect.",
+      "takeaway": "If the space last held another use, ask Denver about a new certificate of occupancy and an architect before you sign a lease. The turf needs no building permit but must meet interior finish rules.",
       "paras": [
         "In Denver, many interior alterations can be drawn without an architect or engineer, but not ones that affect life safety. The <a href=\"https://www.denvergov.org/files/assets/public/v/3/community-planning-and-development/documents/ds/building-codes/2025_denver_building_code.pdf\" target=\"_blank\" rel=\"nofollow noopener\">building code</a> counts a change of use or occupancy among those, along with changes to the exits and an increase in the number of occupants. You also can’t use a building, or part of one, for an occupancy other than the one on its certificate of occupancy until the building official issues a new certificate.",
         "The turf is the simpler part. Floor coverings and carpeting are on Denver’s list of work exempt from building permits, though they still have to meet the code’s interior finish chapter. If the space last held a different use, ask Denver’s building department about a new certificate and an architect’s drawings before you sign the lease."
@@ -49,6 +52,7 @@
       "icon": "ruler",
       "kicker": "Your free visit",
       "h2": "Bring your code answers to the free visit.",
+      "takeaway": "Get three answers from your code office first: how it classes a turf floor, which fire-test reports it wants, and whether sprinklers change the rating. We measure your space and plan the layout.",
       "paras": [
         "Whatever your edition, get three answers from the office: how it classes a turf floor, which fire-test reports it needs for the turf and pad as one system, and whether corridors, exits or sprinklers raise the rating. If the turf will be glued down, ask whether that needs a fire permit too. Our article on <a href=\"/blog/indoor-turf-for-a-gym/\">indoor turf for a gym</a> explains the tests.",
         "On the visit we measure the training space, check the existing floor and talk through lanes, markings and transitions. Have the floor plan ready, with exits and corridors marked, and know whether sprinklers cover the whole building. Our <a href=\"/services/indoor-turf/\">indoor facility turf</a> page covers turf, pad and marking choices. For Colorado’s rule on new turf, read <a href=\"/blog/does-artificial-turf-contain-pfas/\">does artificial turf contain PFAS?</a>"

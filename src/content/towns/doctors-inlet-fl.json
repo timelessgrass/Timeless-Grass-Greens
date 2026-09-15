@@ -6,8 +6,8 @@
   "county": "Clay",
   "title": "Artificial Turf in Doctors Inlet, FL | TIMELESS Grass & Greens",
   "description": "A lawn, dog run or putting green in Doctors Inlet. Choose the part of your property you want to use differently.",
-  "h1": "A lawn, dog run or putting green in Doctors Inlet.",
-  "lede": "Choose the part of your property you want to use differently. A free visit includes a custom layout, turf options and a written installation price.",
+  "h1": "Artificial turf in Doctors Inlet, FL, planned around the lake edge.",
+  "lede": "Show us where rain stands after a storm, and we'll plan a lawn, dog run or green around it. Free visit, then a written price.",
   "wins": [
     "Plan a useful area without covering the whole yard",
     "Keep lake, creek and drainage access in view",
@@ -15,13 +15,14 @@
   ],
   "answer": {
     "question": "What matters when planning turf beside Doctors Lake or a creek?",
-    "answer": "Bring the property plan and any shoreline, drainage or easement information you have. Mark wet areas before choosing the turf boundary, and keep any further drainage work separate in the estimate. A lawn or green can be planned for the usable part of the property."
+    "answer": "Where the water sits and where the property ends. Bring the property plan and any shoreline, drainage or easement details, show where water collects, and ask the estimate to describe any drainage work."
   },
   "blocks": [
     {
       "icon": "drop",
       "kicker": "Plan the usable ground",
       "h2": "Keep the lake edge and the dog’s routine in the conversation.",
+      "takeaway": "For a dog run, keep a route from the door and access for pickup and cleaning; for a green, leave waterfront and service areas clear. Turf alone won't fix a larger drainage problem.",
       "paras": [
         "If the yard borders Doctors Lake or a creek, identify the property boundary, shoreline conditions and drainage access before placing the turf area. Show where water collects after rain and bring photos if the visit happens on a dry day. Turf alone does not resolve a larger drainage problem.",
         "For a dog run, keep a practical route from the door and access for waste pickup and cleaning. If water comes from a well, account for the cleaning supply and applicable water-use requirements. For a green, reserve useful putting lines and walking room while keeping waterfront and service areas clear.",
@@ -32,6 +33,7 @@
       "icon": "drop",
       "kicker": "Plan the yard",
       "h2": "Bring the wet spots and the water supply into the discussion.",
+      "takeaway": "Photograph any standing water and mark downspouts, drains and the edge you want for the turf before the visit. If the house runs on a well, check its current water-use guidance too.",
       "paras": [
         "Before the visit, take photos of any standing water and note where it collects after rain. Mark downspouts, drains and the edge of the area you want to change. If the yard borders Doctors Lake or a creek, include the property plan and any known drainage or easement information.",
         "The <a href=\"https://sdmdataaccess.sc.egov.usda.gov/\" target=\"_blank\" rel=\"nofollow noopener\">USDA soil survey</a> is a starting point for understanding the ground. Use it alongside an inspection of the work area, and ask the estimate to describe the proposed base, ground preparation and drainage.",

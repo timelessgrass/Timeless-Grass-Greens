@@ -7,8 +7,8 @@
   "county": "Brunswick",
   "title": "Artificial Turf in Sunset Beach, NC | TIMELESS Grass & Greens",
   "description": "Sunset Beach wants a stormwater design once impervious coverage grows by more than 200 sq ft, and caps home lots at 45%. Plan your turf around both.",
-  "h1": "Turf in Sunset Beach, planned around the Town’s 200-square-foot rule.",
-  "lede": "Add more than 200 square feet of impervious coverage in Sunset Beach and the Town wants a stormwater design. Home lots top out at 45%. We measure your yard for free, then give you a custom layout and a written price built around both numbers.",
+  "h1": "Artificial turf in Sunset Beach, NC, planned around the 200-square-foot stormwater trigger.",
+  "lede": "Plan turf around your lot's 45% coverage cap and, on marsh lots, the 30 feet nearest the water. We measure at a free visit and draw a layout you approve.",
   "wins": [
     "Turf area in square feet, ready for the Town",
     "Base depth and any fill written into the scope",
@@ -16,13 +16,14 @@
   ],
   "answer": {
     "question": "Do I need a permit for artificial turf in Sunset Beach?",
-    "answer": "Ask the Town before work starts. Its UDO requires a zoning permit for any activity that increases impervious square footage, and a Town Fill and Grade permit before a lot is graded, filled or excavated. If the Town counts your turf as impervious and it adds more than 200 square feet, you also need a stormwater design. On a marsh or waterway lot, ask the Town’s CAMA officer too."
+    "answer": "Expect to. The Town requires a Fill and Grade permit before a lot is graded, filled or excavated, and a zoning permit for work that adds impervious area. If turf counts as impervious and adds over 200 square feet, you need a stormwater design."
   },
   "blocks": [
     {
       "icon": "ruler",
       "kicker": "The Town’s numbers",
       "h2": "Two numbers set the size of your job: 200 and 45.",
+      "takeaway": "Sunset Beach wants a stormwater design past 200 square feet of impervious coverage, and most home lots cap out at 45%. Ask the Town how it classifies your turf.",
       "paras": [
         "The Town of Sunset Beach lists three limits on its <a href=\"https://sunsetbeachnc.gov/?SEC=9FDD3B05-1B7F-4B02-A674-9E9415FD1D7A&DE=B213897E-E451-45B6-86ED-336228B8C6C5\" target=\"_blank\" rel=\"nofollow noopener\">Stormwater Requirements page</a> (checked September 2026). New construction and additions of more than 200 square feet of impervious coverage need a stormwater design. Impervious coverage is capped at 45% of the lot. Adding more than 4 inches of fill to any part of the lot needs a Brunswick County stormwater plan.",
         "The Town’s <a href=\"https://rebuild-sunsetbeachnc.govoffice2.com/vertical/Sites/%7BC59DF5BC-1B90-44CB-AD2A-9DAE0D811CD0%7D/uploads/2023_ToSB_UDO_(Working_Copy)_Full.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Unified Development Ordinance</a>, adopted September 5, 2023 and amended since, fills in the detail. The 45% cap covers single-family and duplex lots. The conservation and agricultural-forestry districts (CR-1, CR-2 and AF-1) allow 20%. The stormwater plan is due before permits are issued, and a professional engineer, registered landscape architect or surveyor must design it.",
@@ -33,6 +34,7 @@
       "icon": "file",
       "kicker": "The approval steps",
       "h2": "Line up the Town’s permits before the old lawn comes up.",
+      "takeaway": "Any work that adds impervious square footage needs a Town zoning permit, and grading, filling or excavating needs a Fill and Grade permit good for 90 days. Take your layout to Planning & Zoning.",
       "paras": [
         "Inside town limits, Sunset Beach handles zoning, flood, building inspection and CAMA review itself, according to <a href=\"https://www.brunswickcountync.gov/192/Municipal-Jurisdictions\" target=\"_blank\" rel=\"nofollow noopener\">Brunswick County’s jurisdiction table</a>. Stormwater is shared. The table lists the Town, but the County’s <a href=\"https://www.brunswickcountync.gov/248/Stormwater-Ordinance\" target=\"_blank\" rel=\"nofollow noopener\">Stormwater Ordinance page</a> says it administers that ordinance in Sunset Beach under an agreement.",
         "Under the UDO, any activity that proposes to increase impervious square footage needs a zoning permit, and site disturbance can’t start until the UDO Administrator issues it. No lot may be graded, filled or excavated without a Town Fill and Grade permit either. On a single-family or duplex lot, you don’t need a scaled grading plan when fill stays at 4 inches or less. Work under that permit must be finished within 90 days.",
@@ -45,6 +47,7 @@
       "icon": "drop",
       "kicker": "Marsh and waterway lots",
       "h2": "Leave the 30 feet nearest the water out of the plan.",
+      "takeaway": "On marsh or waterway lots, new development must sit 30 feet back from normal high water, and state regulators voted to keep turf out of that strip. We draw the turf edge there.",
       "paras": [
         "Lots on the marsh or a waterway answer to a state coastal rule as well. Under <a href=\"http://reports.oah.state.nc.us/ncac/title%2015a%20-%20environmental%20quality/chapter%2007%20-%20coastal%20management/subchapter%20h/15a%20ncac%2007h%20.0209.pdf\" target=\"_blank\" rel=\"nofollow noopener\">15A NCAC 07H .0209</a>, as amended effective November 1, 2025, the estuarine shoreline Area of Environmental Concern runs 75 feet landward of normal high water, or 575 feet beside Outstanding Resource Waters. Impervious surfaces may not exceed 30 percent of the part of the lot inside it. New development must sit 30 feet back from normal high water, with a short list of exceptions.",
         "Artificial turf is not on that list. The list does include grading, excavation and landscaping with no wetland fill. But in September 2021 the Coastal Resources Commission voted 10 to 1 to prohibit artificial turf within the 30-foot buffer, <a href=\"https://coastalreview.org/2021/09/coastal-resources-commission-digs-in-on-artificial-turf/\" target=\"_blank\" rel=\"nofollow noopener\">Coastal Review reported</a>, and state staff had required its removal in the enforcement cases they handled. The commission’s <a href=\"https://www.deq.nc.gov/news/press-releases/2025/08/14/state-coastal-commission-meet-new-bern-aug-27-28\" target=\"_blank\" rel=\"nofollow noopener\">August 2025 agenda</a> still carried a variance request for artificial turf within the buffer in Carolina Beach.",
@@ -55,6 +58,7 @@
       "icon": "layout",
       "kicker": "Under and around the turf",
       "h2": "What the UDO says about fabric, rubber and fences.",
+      "takeaway": "Landscaping fabric must drain, and solid plastic is barred. Ask Planning & Zoning before choosing rubber infill, and keep a dog-area fence facing water or a golf course to 4 feet.",
       "paras": [
         "Only landscaping fabric that lets rain water flow through is allowed, and solid plastic cover is prohibited. Check that the fabric named in your written scope drains.",
         "The UDO keeps manmade mulch, including recycled tire mulch and other rubberized products, out of the beach districts (BR-1, BR-2 and BB-1), CR-1 and at least 30 feet from any water body. It doesn’t say whether rubber infill under turf counts. If you want rubber in any form, ask Planning & Zoning first.",
@@ -65,6 +69,7 @@
       "icon": "shovel",
       "kicker": "The free visit",
       "h2": "Take numbers to Town Hall, not guesses.",
+      "takeaway": "At the free visit we measure and check where water sits, how deep the base goes and whether it adds fill. Your layout shows the turf area in square feet for the Town.",
       "paras": [
         "At the free visit, we measure the area you want to change and check the ground: where water sits after rain, how deep the base goes and whether it adds fill. The custom layout you approve before work starts shows the turf area in square feet. You can set it against the 200-square-foot trigger and your lot’s 45% cap.",
         "In a golf or association community, check its rules as well; our <a href=\"/grand-strand/putting-greens/\">Grand Strand putting greens page</a> covers how several communities treat backyard greens. With the approvals in hand, we prepare the site, build a base for your soil, lay, seam and edge the turf, add infill, clean up and walk you through the care it needs."

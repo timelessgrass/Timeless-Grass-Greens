@@ -4,8 +4,8 @@
   "service": "pet-turf",
   "title": "Pet Turf in Myrtle Beach | TIMELESS Grass & Greens",
   "description": "Pet turf for Grand Strand dog areas, planned around summer shade, tie-out reach, drainage and flood-zone permits, from Shallotte to Burgess. Free visit.",
-  "h1": "A dog area with shade, room to move and water that drains.",
-  "lede": "Plan your dog’s space from Shallotte to Burgess around afternoon shade, the full reach of any tie-out and where water goes. We measure and check the ground at a free visit, then draw a custom layout for you to approve.",
+  "h1": "Pet turf in Myrtle Beach, with shade, room and drainage planned in.",
+  "lede": "Give your dog afternoon shade, turf across the full reach of any tie-out, and a base that drains. Free visit, ground checked, a custom layout you approve.",
   "wins": [
     "Afternoon shade drawn into the layout from the start",
     "Turf that covers the whole reach of a tie-out or trolley",
@@ -13,13 +13,14 @@
   ],
   "answer": {
     "question": "What should pet turf on the Grand Strand be planned around?",
-    "answer": "Plan it around afternoon shade, the full reach of any tie-out and water that has somewhere to go. Horry County, Myrtle Beach, North Myrtle Beach, Conway and Brunswick County each write their own shade, shelter or tether rules. On a mapped flood-zone lot, ask about a permit before any digging. Call 720-630-0108 to book a free visit."
+    "answer": "Afternoon shade, the full reach of any tie-out, and water that has somewhere to go. Horry County, the cities and Brunswick County set different shade, shelter and tether rules. On a mapped flood-zone lot, ask about a permit before digging."
   },
   "blocks": [
     {
       "icon": "sun",
       "kicker": "Heat and shelter",
       "h2": "Put your dog’s resting spot where afternoon shade falls.",
+      "takeaway": "In unincorporated Horry County, a dog left alone outside over 30 minutes at 85°F or hotter needs whole-body shade, and a doghouse doesn't count. We plan the layout around where afternoon shade falls.",
       "paras": [
         "Plan the shade before the turf. <a href=\"https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00093718.csv\" target=\"_blank\" rel=\"nofollow noopener\">NOAA’s 1991–2020 climate normals</a> for the North Myrtle Beach airport put the average daily high at 87.6°F in July and 86.5°F in August. Turf in full sun gets hot, as our <a href=\"/blog/how-hot-does-artificial-turf-get/\">turf heat article</a> explains.",
         "In unincorporated Horry County, a dog outside for more than 30 minutes without you or a caretaker there needs shade big enough for its whole body whenever the forecast or actual temperature is 85°F or higher, through all daylight hours. <a href=\"https://library.municode.com/sc/horry_county/codes/code_of_ordinances?nodeId=COOR_CH4ANFO_ARTISMANMA\" target=\"_blank\" rel=\"nofollow noopener\">The county’s animal code</a> says a doghouse is inadequate protection from the sun, and trees and shrubbery don’t meet its test for proper shelter.",
@@ -31,6 +32,7 @@
       "icon": "ruler",
       "kicker": "Tie-outs and trolleys",
       "h2": "Tie your dog out? Size the turf to the full reach of the line.",
+      "takeaway": "Turf should cover a tie-out's full reach. Minimums are at least 8 feet in unincorporated Horry County and 10 feet in North Myrtle Beach and Brunswick County, so tell us yours.",
       "paras": [
         "A tethered dog uses every foot of its line, so the turf needs to cover the whole circle or run, with nothing in the way. Most local codes here set a minimum length, and the numbers differ from town to town.",
         "In unincorporated Horry County, <a href=\"https://library.municode.com/sc/horry_county/codes/code_of_ordinances?nodeId=COOR_CH4ANFO_ARTISMANMA\" target=\"_blank\" rel=\"nofollow noopener\">the tether must be at least 8 feet long</a> with a swivel at both ends. A trolley or running line must be at least 8 feet long and no more than 7 feet off the ground, and no object may get in the way of the tether. The dog can’t be tied out above 90°F or in thunderstorms, tropical storms or hurricanes. <a href=\"https://www.ncei.noaa.gov/data/normals-annualseasonal/1991-2020/access/USW00093718.csv\" target=\"_blank\" rel=\"nofollow noopener\">The airport’s normals</a> average about 21 days a year at 90°F or hotter.",
@@ -44,6 +46,7 @@
       "icon": "drop",
       "kicker": "Water and waste",
       "h2": "Give water a way out, and keep waste out of the ditch.",
+      "takeaway": "Horry County and North Myrtle Beach want fast drainage and a space kept free of waste. We build the base so rinse water soaks down, and keep the run back from ditches.",
       "paras": [
         "A puddled dog area is a code problem here, not just a mess. Horry County’s and <a href=\"https://library.municode.com/sc/north_myrtle_beach/codes/code_of_ordinances?nodeId=COOR_CH4ANFO_ARTIINGE_S4-1DE\" target=\"_blank\" rel=\"nofollow noopener\">North Myrtle Beach’s</a> animal codes both want drainage that rapidly removes excess water, and a space clean enough that your dog can walk or lie down without touching waste. <a href=\"https://library.municode.com/sc/horry_county/codes/code_of_ordinances?nodeId=COOR_CH10GATRRE_ARTIISOWAHADI_S10-19EXPRMARE\" target=\"_blank\" rel=\"nofollow noopener\">Horry County also bars</a> letting property become a mosquito breeding place.",
         "Daily pickup matters under local code too. <a href=\"https://library.municode.com/sc/north_myrtle_beach/codes/code_of_ordinances?nodeId=COOR_CH13STMAERCO_ARTIVDEREILCODIIMDI_S13-85WADIPR\" target=\"_blank\" rel=\"nofollow noopener\">North Myrtle Beach bars leaving pet waste</a> on public or private property where it may cause or contribute to pollution. Conway’s code says animal waste must be disposed of without harm to the environment. Brunswick County wants a shelter and the area around it kept clean at all times.",
@@ -54,6 +57,7 @@
       "icon": "shovel",
       "kicker": "Flood-zone lots",
       "h2": "On a mapped flood-zone lot, ask about a permit before any digging.",
+      "takeaway": "In Horry County's flood zones, digging and grading count as development, so ask the floodplain administrator whether your dog area needs a permit. Inside a city or town, ask its flood office.",
       "paras": [
         "<a href=\"https://library.municode.com/sc/horry_county/codes/code_of_ordinances?nodeId=COOR_CH9FLDAPRCO_ARTIINGE\" target=\"_blank\" rel=\"nofollow noopener\">Horry County’s flood chapter</a> covers FEMA special flood hazard areas and the supplemental flood zone, a map drawn to approximate how far flooding reached after Hurricane Florence. Filling, grading and excavation all count as development there, and development needs a permit first. A dog area means digging and grading, so ask the <a href=\"https://library.municode.com/sc/horry_county/codes/code_of_ordinances?nodeId=COOR_CH9FLDAPRCO_ARTIIAD_S9-33DEPECERE\" target=\"_blank\" rel=\"nofollow noopener\">county floodplain administrator</a> whether yours needs one, even at today’s grade.",
         "If you want to raise a soggy run with extra base, ask first whether the county counts that base as fill. Where fill is used for development in either zone, <a href=\"https://library.municode.com/sc/horry_county/codes/code_of_ordinances?nodeId=COOR_CH9FLDAPRCO_ARTIIIPRFLHARE_S9-51GEST\" target=\"_blank\" rel=\"nofollow noopener\">the chapter requires compensatory storage</a>: new floodable space dug out to offset it, backed by engineering analyses.",
@@ -64,6 +68,7 @@
       "icon": "file",
       "kicker": "Four or more dogs",
       "h2": "Four or more dogs in Myrtle Beach? Ask animal control before you plan turf.",
+      "takeaway": "In Myrtle Beach, four or more dogs over four months old count as a kennel, needing an inspection and a sealed floor draining to the sewer. Ask animal control whether that reaches your dog area.",
       "paras": [
         "<a href=\"https://library.municode.com/sc/myrtle_beach/codes/code_of_ordinances?nodeId=COOR_CH4AN\" target=\"_blank\" rel=\"nofollow noopener\">Myrtle Beach’s animal code</a> counts an owner or keeper of four or more dogs over four months old as a kennel. No one may own or operate a kennel without an inspection by the animal control officer.",
         "A non-commercial kennel must connect to the city sewer. Its floors must be impervious and sealed, sloped at least half an inch per foot to drain there. Each animal needs at least 15 square feet of enclosure.",
