@@ -15,7 +15,7 @@ faq:
   - q: Can I apply for the water district's rebate for my house?
     a: Not directly. The St. Johns River Water Management District lists local governments, small utilities, HOAs and POAs, and multi-family properties as the applicants. If your HOA applies, what it can claim is irrigation work, fixtures and similar items, not turf.
   - q: Does Clay County Utility Authority pay anything toward turf?
-    a: The <a href="https://clayutility.org/bill-credits/" target="_blank" rel="nofollow noopener">sod credit</a> discussed here is for establishing living sod. It does not establish eligibility for artificial turf. Ask CCUA to confirm any other current offer and its requirements before including it in a project budget.
+    a: The sod credit discussed here is for establishing living sod. It does not establish eligibility for artificial turf. Ask CCUA to confirm any other current offer and its requirements before including it in a project budget.
   - q: Is artificial turf Florida-Friendly Landscaping?
     a: No. <a href="https://ask.ifas.ufl.edu/publication/EP612" target="_blank" rel="nofollow noopener">UF/IFAS</a> says that because synthetic turf is not alive, it does not meet the criteria of a plant choice for a Florida-Friendly landscape. A program’s own material and project rules still need to be checked; the FFL label alone does not establish a synthetic-turf incentive.
 sources:
@@ -56,8 +56,7 @@ related:
     - florida-friendly-landscaping-and-hoas
     - florida-turf-infill-rules
     - no-turf-rebates-grand-strand
-publicReferences:
-  - https://clayutility.org/bill-credits/
+publicReferences: []
 ---
 
 ## Check the program before counting on a rebate
@@ -91,14 +90,14 @@ The bigger catch is who can apply: local governments, small utilities, HOAs and 
 
 ## Clay County Utility Authority helps you water new sod
 
-Clay County Utility Authority's one lawn-related offer points the other way. Its [sod credit](https://clayutility.org/bill-credits/) eases your bill while new sod takes root. On its [irrigation page](https://clayutility.org/residents-business/irrigation-information/), it says it caps water use at Tier 2 rates for 30 days. The rules:
+Clay County Utility Authority's one lawn-related offer points the other way. Its sod credit eases your bill while new sod takes root. On its irrigation page, it says it caps water use at Tier 2 rates for 30 days. The rules:
 
 - at least one pallet of new sod,
 - a Water Conservation Assessment with a CCUA technician,
 - a request within 30 days of installing the sod, and
 - not for customers on reclaimed irrigation.
 
-Its [conservation programs page](https://clayutility.org/community/conservation-programs/) covers reclaimed water, watering restrictions and Florida-Friendly Landscaping. It lists no rebate or incentive, and nothing for artificial turf.
+Its conservation programs page covers reclaimed water, watering restrictions and Florida-Friendly Landscaping. It lists no rebate or incentive, and nothing for artificial turf.
 
 ## What the cited St. Johns County pages cover
 

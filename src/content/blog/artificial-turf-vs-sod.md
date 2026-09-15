@@ -103,7 +103,7 @@ New sod is thirsty. It has no roots in your soil yet, so it needs daily water fo
 
 - **Denver Water** issues establishment permits to water new sod for up to three weeks, but has said none will be issued after 30 September until further notice.
 - **The St. Johns River district's** current order allows new plantings every day for 15 days, up to three days a week for the next 30, then two days a week for the last 15.
-- **Clay County Utility Authority** offers a [sod credit](https://clayutility.org/bill-credits/) that eases the bill for 30 days while new sod roots, after a conservation check by its technician.
+- **Clay County Utility Authority** offers a sod credit that eases the bill for 30 days while new sod roots, after a conservation check by its technician.
 - **Aurora's** drought rules go further: no new cool-weather turf can be installed.
 
 Turf has no rooting period. Once it is laid, seamed, edged and infilled, you can use it.

@@ -96,7 +96,7 @@ Denver Water's rules also govern the areas it supplies through distributors, and
 
 ## Northeast Florida's Phase III order
 
-The St. Johns River Water Management District declared a Phase III Extreme Water Shortage in May 2026 (Water Shortage Order 2026-017). It covers all of Clay, Duval, Flagler, Nassau, Putnam and St. Johns counties, and every source of water, private wells included. [Clay County Utility Authority](https://clayutility.org/phase-iii-water-shortage-restrictions-now-in-effect/) posted it as in effect on 14 May 2026. The district's watering restrictions page still listed it as in effect on 12 September 2026.
+The St. Johns River Water Management District declared a Phase III Extreme Water Shortage in May 2026 (Water Shortage Order 2026-017). It covers all of Clay, Duval, Flagler, Nassau, Putnam and St. Johns counties, and every source of water, private wells included. Clay County Utility Authority posted it as in effect on 14 May 2026. The district's watering restrictions page still listed it as in effect on 12 September 2026.
 
 What the order says that bears on a turf rinse:
 

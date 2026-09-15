@@ -41,7 +41,7 @@ test('every review says where it was posted, and NoCo Turf reviews say they are 
   await expect(page.locator('.review')).toHaveCount(6);
   await expect(page.locator('.review', { hasText: 'Ally P.' })).toContainText('Google review of NoCo Turf, our sister company');
   await expect(page.locator('.review', { hasText: 'JP W.' })).toContainText('Google review');
-  await expect(page.getByRole('link', { name: 'Read our reviews on Google' })).toHaveAttribute('href', /share\.google/);
+  await expect(page.getByRole('link', { name: 'Read our reviews on Google' })).toHaveAttribute('href', /kgmid=\/g\/11vynn9dqg/);
   const schema = (await page.locator('script[type="application/ld+json"]').allTextContents()).join('');
   expect(schema).not.toMatch(/aggregateRating|"@type":"Review"/);
 });

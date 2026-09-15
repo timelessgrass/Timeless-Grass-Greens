@@ -25,7 +25,7 @@ export type Review = {
 };
 
 /* The Denver profile, where the TIMELESS reviews are posted. */
-export const GOOGLE_REVIEWS_URL = 'https://share.google/GghMR8Ua2gUM7z3ng';
+export const GOOGLE_REVIEWS_URL = 'https://www.google.com/search?kgmid=/g/11vynn9dqg&q=TIMELESS+Grass+%26+Greens';
 
 export const BUSINESS_LABEL: Record<Review['business'], string> = {
   timeless: 'Google review',

@@ -85,7 +85,7 @@ Chinch bugs are the big one. UF/IFAS calls the southern chinch bug "the most imp
 
 ## And the watering rules keep tightening
 
-Even when you want to water, you often can't. The St. Johns River Water Management District allows lawn watering twice a week during daylight saving time and once a week from November to March, never between 10 a.m. and 4 p.m. A water shortage order in 2026 cut that to one day a week ([St. Johns County](https://www.sjcfl.us/protect-our-water/)). Clay County Utility Authority says the restrictions cover every irrigation source, "including potable water, private wells, pumps, ground water, and surface water" ([CCUA](https://clayutility.org/residents-business/irrigation-information/)).
+Even when you want to water, you often can't. The St. Johns River Water Management District allows lawn watering twice a week during daylight saving time and once a week from November to March, never between 10 a.m. and 4 p.m. A water shortage order in 2026 cut that to one day a week ([St. Johns County](https://www.sjcfl.us/protect-our-water/)). Clay County Utility Authority says the restrictions cover every irrigation source, "including potable water, private wells, pumps, ground water, and surface water" (CCUA).
 
 A lawn that needs ½ inch at a time, with one watering day a week in summer heat, is hard to keep green.
 
