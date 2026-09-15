@@ -15,9 +15,9 @@ faq:
   - q: Who should deal with the sprinkler lines?
     a: 'The quote should say. Utilities mark only the lines they own: <a href="https://www.colorado811.org/residential-digging" target="_blank" rel="nofollow noopener">Colorado 811</a> says private lines such as sprinklers and landscape lighting aren''t marked, and <a href="https://sc811.com/homeowners/faqs-homeowners/" target="_blank" rel="nofollow noopener">SC811</a> says the same of lines running past the meter. Someone has to find, cap or reroute them before the digging starts.'
   - q: How should payments be structured?
-    a: The <a href="https://consumer.ftc.gov/articles/how-avoid-home-improvement-scam" target="_blank" rel="nofollow noopener">FTC</a> advises against paying the full amount up front, and against making the final payment until the work is done and you're satisfied. Some states limit down payments, and your state or local consumer agency can tell you the rule where you live.
+    a: The FTC advises against paying the full amount up front, and against making the final payment until the work is done and you're satisfied. Some states limit down payments, and your state or local consumer agency can tell you the rule where you live.
   - q: Does a turf installer need a license?
-    a: It depends on the jurisdiction and full scope. In South Carolina, <a href="https://www.scstatehouse.gov/code/t40c011.php" target="_blank" rel="nofollow noopener">Section 40-11-30</a> requires a license for general contracting over $10,000. That does not establish the classification of every turf installation. Give LLR the address, property type, scope and contract value to confirm the applicable Board and category, including separate residential or specialty requirements. Do not infer an exemption from a lower quote total. <a href="https://dpo.colorado.gov/About" target="_blank" rel="nofollow noopener">Colorado</a> has no state contractor or turf license, and <a href="https://www.flsenate.gov/Laws/Statutes/2025/489.105" target="_blank" rel="nofollow noopener">Florida's contractor categories</a> don't include turf. Irrigation or electrical work on the same job can need a license of its own.
+    a: It depends on the jurisdiction and full scope. In South Carolina, <a href="https://www.scstatehouse.gov/code/t40c011.php" target="_blank" rel="nofollow noopener">Section 40-11-30</a> requires a license for general contracting over $10,000. That does not establish the classification of every turf installation. Give LLR the address, property type, scope and contract value to confirm the applicable Board and category, including separate residential or specialty requirements. Do not infer an exemption from a lower quote total. Colorado has no state contractor or turf license, and <a href="https://www.flsenate.gov/Laws/Statutes/2025/489.105" target="_blank" rel="nofollow noopener">Florida's contractor categories</a> don't include turf. Irrigation or electrical work on the same job can need a license of its own.
 sources:
   - label: 'Federal Trade Commission (July 2022): How To Avoid a Home Improvement Scam'
     url: https://consumer.ftc.gov/articles/how-avoid-home-improvement-scam
@@ -67,8 +67,7 @@ related:
   guides:
     - turf-installer-licensing-by-state
     - florida-turf-infill-rules
-publicReferences:
-  - https://consumer.ftc.gov/articles/how-avoid-home-improvement-scam
+publicReferences: []
 ---
 
 ## Start with how the price was made
@@ -77,7 +76,7 @@ A quote can only be as specific as the visit behind it. Ours starts with a free 
 
 Whoever you get quotes from, the same test applies: can you tell from the paper exactly what you're getting?
 
-The [FTC's advice](https://consumer.ftc.gov/articles/how-avoid-home-improvement-scam) for any home improvement job sets the floor. A written estimate should describe the work, the materials, the completion date and the price. The contract should add a start date, and put in writing any promises made about the scope of the work and the cost of labor and materials.
+The FTC's advice for any home improvement job sets the floor. A written estimate should describe the work, the materials, the completion date and the price. The contract should add a start date, and put in writing any promises made about the scope of the work and the cost of labor and materials.
 
 Turf adds lines of its own. Here's what each should say.
 
@@ -109,7 +108,7 @@ Where rules spell this out, they use specifics. [Thornton's rebate rules](https:
 
 ## Drainage
 
-Turf drains through its backing, but the ground has the final say. As [New Jersey's environment department](https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf) puts it, a product that drains 10 inches an hour doesn't make the soil under it drain that fast. The quote should say where the water goes, whether into the soil, into a stone layer or out to a drain, and how the ground was checked. For a dog run, look for flow-through backing over a free-draining base.
+Turf drains through its backing, but the ground has the final say. As New Jersey's environment department puts it, a product that drains 10 inches an hour doesn't make the soil under it drain that fast. The quote should say where the water goes, whether into the soil, into a stone layer or out to a drain, and how the ground was checked. For a dog run, look for flow-through backing over a free-draining base.
 
 ## The turf and the infill
 

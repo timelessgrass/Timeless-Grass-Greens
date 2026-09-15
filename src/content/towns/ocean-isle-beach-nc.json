@@ -25,7 +25,7 @@
       "h2": "Ocean Isle Beach keeps every review in-house, which changes who you call.",
       "takeaway": "Ocean Isle Beach is one of the few towns where zoning, flood, building, CAMA and stormwater stay with the Town, not the County or the state. One office, Building Inspections, is the call to make.",
       "paras": [
-        "Brunswick County publishes a <a href=\"https://www.brunswickcountync.gov/192/Municipal-Jurisdictions\" target=\"_blank\" rel=\"nofollow noopener\">Municipal Jurisdictions table</a> that sorts zoning, flood, building inspection, CAMA and stormwater review between each town, the County and, for CAMA, the state office in Wilmington. Ocean Isle Beach is one of the few entries on that table where all five columns read Town. Zoning, flood jurisdiction, building inspection, CAMA and stormwater all sit with Ocean Isle Beach itself.",
+        "Brunswick County publishes a Municipal Jurisdictions table that sorts zoning, flood, building inspection, CAMA and stormwater review between each town, the County and, for CAMA, the state office in Wilmington. Ocean Isle Beach is one of the few entries on that table where all five columns read Town. Zoning, flood jurisdiction, building inspection, CAMA and stormwater all sit with Ocean Isle Beach itself.",
         "That is worth knowing because it isn't how the next town over works. The same table sends Shallotte's flood jurisdiction and building inspection to Brunswick County, and its CAMA review to the state office in Wilmington, while its zoning and stormwater stay with the Town. A homeowner moving a turf plan from one town to the other can't assume the same office, or even the same level of government, handles the same piece of paperwork.",
         "For a yard in Ocean Isle Beach, that means one office to bring a layout to: the Town's own Building Inspections department. It reviews the zoning and flood questions, signs off on stormwater, and, because CAMA sits with the Town here rather than in Wilmington, its own local permit officer handles the coastal side too."
       ]
@@ -126,7 +126,6 @@
     }
   ],
   "publicReferences": [
-    "https://www.brunswickcountync.gov/192/Municipal-Jurisdictions",
     "http://reports.oah.state.nc.us/ncac/title%2015a%20-%20environmental%20quality/chapter%2007%20-%20coastal%20management/subchapter%20h/15a%20ncac%2007h%20.0209.pdf"
   ],
   "foldedFrom": [

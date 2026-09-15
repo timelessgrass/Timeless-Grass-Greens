@@ -11,13 +11,13 @@ answer:
   answer: Artificial turf removes mowing and routine irrigation for living grass from the converted area, but it adds manufactured material that needs care and eventual removal. Heat, shedding, drainage and lost planting space also matter. Compare options for the part of the yard you will use rather than assuming one surface is best everywhere.
 faq:
   - q: Does artificial turf really save water?
-    a: 'On irrigation, yes. <a href="https://resourcecentral.org/lawn/" target="_blank" rel="nofollow noopener">Resource Central</a>, which runs lawn replacement for more than 30 Front Range water providers, counts about 10 gallons saved per square foot of lawn converted each year. Turf still uses some water: <a href="https://ask.ifas.ufl.edu/publication/EP612" target="_blank" rel="nofollow noopener">UF/IFAS notes</a> that many manufacturers recommend a weekly wash-down to clear dust and pet waste.'
+    a: 'On irrigation, yes. Resource Central, which runs lawn replacement for more than 30 Front Range water providers, counts about 10 gallons saved per square foot of lawn converted each year. Turf still uses some water: <a href="https://ask.ifas.ufl.edu/publication/EP612" target="_blank" rel="nofollow noopener">UF/IFAS notes</a> that many manufacturers recommend a weekly wash-down to clear dust and pet waste.'
   - q: Does artificial turf shed microplastics?
-    a: Yes. <a href="https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf" target="_blank" rel="nofollow noopener">New Jersey's environment department</a> found that fibers and infill break down into microplastics through sunlight, wear and weather, and leave the site in runoff, on the wind and on shoes. The European Union will stop sales of granular infill for synthetic sports surfaces from <a href="https://trade.ec.europa.eu/access-to-markets/en/news/restriction-microplastics-eu-17-october-2023" target="_blank" rel="nofollow noopener">17 October 2031</a>.
+    a: Yes. New Jersey's environment department found that fibers and infill break down into microplastics through sunlight, wear and weather, and leave the site in runoff, on the wind and on shoes. The European Union will stop sales of granular infill for synthetic sports surfaces from <a href="https://trade.ec.europa.eu/access-to-markets/en/news/restriction-microplastics-eu-17-october-2023" target="_blank" rel="nofollow noopener">17 October 2031</a>.
   - q: Can old artificial turf be recycled?
-    a: Rarely, so far. <a href="https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf" target="_blank" rel="nofollow noopener">New Jersey DEP</a> found that landfill or incineration is standard practice and that very few reuse or recycling options exist yet. Up to 90% of the sand and rubber infill can be vacuumed out before removal, but there's little evidence it can be separated cleanly enough to reuse, and worn plastic tends to be downcycled.
+    a: Rarely, so far. New Jersey DEP found that landfill or incineration is standard practice and that very few reuse or recycling options exist yet. Up to 90% of the sand and rubber infill can be vacuumed out before removal, but there's little evidence it can be separated cleanly enough to reuse, and worn plastic tends to be downcycled.
   - q: Is artificial turf better or worse for the environment than grass?
-    a: It depends what you count. Life cycle studies summarized by <a href="https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf" target="_blank" rel="nofollow noopener">New Jersey DEP</a> generally favor synthetic turf per hour of play on busy sports fields, but they leave out microplastics, and making turf takes large amounts of water, energy and fossil fuels. A back yard sees far fewer hours of play than a field, so those results don't carry straight over.
+    a: It depends what you count. Life cycle studies summarized by New Jersey DEP generally favor synthetic turf per hour of play on busy sports fields, but they leave out microplastics, and making turf takes large amounts of water, energy and fossil fuels. A back yard sees far fewer hours of play than a field, so those results don't carry straight over.
 sources:
   - label: 'New Jersey Department of Environmental Protection, Division of Science & Research (23 October 2025): synthetic turf and the current science'
     url: https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf
@@ -51,14 +51,13 @@ related:
     - florida-friendly-landscaping-and-hoas
 publicReferences:
   - https://ask.ifas.ufl.edu/publication/EP612
-  - https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf
 ---
 
 ## What turf saves
 
-The case for turf starts with water. A lawn that's gone doesn't need sprinklers. [Resource Central](https://resourcecentral.org/lawn/), which runs lawn replacement for more than 30 Front Range water providers, counts about 10 gallons saved for every square foot of lawn converted, every year.
+The case for turf starts with water. A lawn that's gone doesn't need sprinklers. Resource Central, which runs lawn replacement for more than 30 Front Range water providers, counts about 10 gallons saved for every square foot of lawn converted, every year.
 
-The rest of a lawn's inputs go too. [New Jersey's Department of Environmental Protection](https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf) lists what turf skips: mowing, seeding, watering, pesticides and fertilizers. [UF/IFAS Extension](https://ask.ifas.ufl.edu/publication/EP612) confirms that synthetic turf needs no fertilizer.
+The rest of a lawn's inputs go too. New Jersey's Department of Environmental Protection lists what turf skips: mowing, seeding, watering, pesticides and fertilizers. [UF/IFAS Extension](https://ask.ifas.ufl.edu/publication/EP612) confirms that synthetic turf needs no fertilizer.
 
 Two limits on that:
 

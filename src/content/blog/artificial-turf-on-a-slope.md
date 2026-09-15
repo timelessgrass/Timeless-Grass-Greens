@@ -13,9 +13,9 @@ faq:
   - q: How steep is too steep for artificial turf?
     a: No single number fits every yard, and we know of no written residential limit for turf. Two reference points help. The <a href="https://coloradogeologicalsurvey.org/wp-content/uploads/woocommerce_uploads/SP-14.pdf" target="_blank" rel="nofollow noopener">Colorado Geological Survey</a> does not recommend slopes over 15 percent within 10 feet of a house on swelling soil. The <a href="https://up.codes/viewer/colorado/irc-2021/chapter/4/foundations" target="_blank" rel="nofollow noopener">2021 International Residential Code</a> sets special rules for buildings on or next to slopes steeper than 1 in 3. Past that point, holding the soil comes first.
   - q: Will the infill wash down the hill?
-    a: It can. <a href="https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf" target="_blank" rel="nofollow noopener">New Jersey's environment department</a> notes that rubber pellets are buoyant and may wash away, and that heavier infills such as coated sand are less likely to. In Florida, <a href="https://flrules.org/gateway/readFile.asp?sid=0&amp;tid=30839130&amp;type=1&amp;file=62-308.100.doc" target="_blank" rel="nofollow noopener">Rule 62-308.100</a> requires a home install to be designed so infill does not wash off the property.
+    a: It can. New Jersey's environment department notes that rubber pellets are buoyant and may wash away, and that heavier infills such as coated sand are less likely to. In Florida, <a href="https://flrules.org/gateway/readFile.asp?sid=0&amp;tid=30839130&amp;type=1&amp;file=62-308.100.doc" target="_blank" rel="nofollow noopener">Rule 62-308.100</a> requires a home install to be designed so infill does not wash off the property.
   - q: Can my turf send runoff into my neighbor's yard?
-    a: In Florida, the install has to be designed to prevent that. Rule 62-308.100 bars an increase in the volume, direction or rate of runoff reaching adjacent properties, and <a href="https://coab.us/DocumentCenter/View/15920/Turf-Installation-Guidelines" target="_blank" rel="nofollow noopener">Atlantic Beach</a> says turf must not cause runoff onto adjacent properties. In Colorado and the Carolinas, ask your city or county stormwater office what applies. If a dispute has already started, that is a question for a lawyer.
+    a: In Florida, the install has to be designed to prevent that. Rule 62-308.100 bars an increase in the volume, direction or rate of runoff reaching adjacent properties, and Atlantic Beach says turf must not cause runoff onto adjacent properties. In Colorado and the Carolinas, ask your city or county stormwater office what applies. If a dispute has already started, that is a question for a lawyer.
   - q: Can turf go on the flat steps of a terrace?
     a: Yes. Each step becomes a small, near-level lawn, and the walls take the change in height. Under the 2021 International Residential Code, a retaining wall holding back more than 48 inches of unbalanced fill must be designed to accepted engineering practice. Ask your building department which code edition and permits apply to your lot.
 sources:
@@ -54,7 +54,6 @@ related:
 publicReferences:
   - https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
   - https://ask.ifas.ufl.edu/publication/EP612
-  - https://coab.us/DocumentCenter/View/15920/Turf-Installation-Guidelines
 ---
 
 ## Yes, if the slope is gentle and the water has a way off
@@ -86,8 +85,8 @@ None of that rules turf out. It means two things on a slope:
 
 Infill is the sand brushed down between the blades. It weighs the turf down and holds the fibers upright. On a slope, water moving across the surface can carry it off.
 
-- **Light infill floats.** [New Jersey's environment department](https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf) warns that rubber pellets are buoyant and may wash away. Where heavy rain is common, it points to infill with high specific gravity, such as coated sand or zeolite, as less likely to move.
-- **Saturated infill migrates.** The [Synthetic Turf Council's suggested guidelines](https://cdn.ymaws.com/staging-stc.site-ym.com/resource/resmgr/guidelines/STC_Suggested_Guidelines_for.pdf), revised in November 2011, discuss turf over sloped pavement. Without a drainage layer, they say, infill saturates in heavy rain and can migrate with the surface water. Their answer is a drainage mat or pad under the turf, plus interceptor drains, so water can move sideways below the surface.
+- **Light infill floats.** New Jersey's environment department warns that rubber pellets are buoyant and may wash away. Where heavy rain is common, it points to infill with high specific gravity, such as coated sand or zeolite, as less likely to move.
+- **Saturated infill migrates.** The Synthetic Turf Council's suggested guidelines, revised in November 2011, discuss turf over sloped pavement. Without a drainage layer, they say, infill saturates in heavy rain and can migrate with the surface water. Their answer is a drainage mat or pad under the turf, plus interceptor drains, so water can move sideways below the surface.
 - **Florida puts it in writing.** The state rule requires a home install to be designed to keep infill from washing off the property. It also requires anchoring at all edges and seams strong enough to withstand wind or flooding.
 
 For the edges themselves, the council's guidelines list a concrete curb, a treated wood header, a composite material or a trench drain, and say each "should always provide a secure anchor." At the foot of a slope, a trench drain can hold the edge and catch the water in one.
@@ -98,7 +97,7 @@ The low edge is where a slope becomes someone else's problem. It's also where th
 
 **Northeast Florida.** Since 19 May 2026, Rule 62-308.100 has set statewide minimum standards for turf on single-family lots of 1 acre or less. An install must be designed to prevent pooling, or an increase in the volume, direction or rate of runoff to adjacent properties. Where possible, runoff goes to pervious ground on your own lot. Turf can't go in a swale, ditch or stormwater pond at all.
 
-[Atlantic Beach's guidelines](https://coab.us/DocumentCenter/View/15920/Turf-Installation-Guidelines) say it plainly: turf must not interfere with existing drainage patterns "or cause runoff onto adjacent properties." The city asks for a site plan showing the turf against property lines, and inspects the stone base before the turf goes down.
+Atlantic Beach's guidelines say it plainly: turf must not interfere with existing drainage patterns "or cause runoff onto adjacent properties." The city asks for a site plan showing the turf against property lines, and inspects the stone base before the turf goes down.
 
 **Denver metro.** Here the house below matters as much as the neighbor. The [2021 International Residential Code, as published for Colorado](https://up.codes/viewer/colorado/irc-2021/chapter/4/foundations), requires lots to drain water away from foundation walls, with the grade falling at least 6 inches in the first 10 feet. Surface water has to go to an approved point that does not create a hazard. Where lot lines or slopes make that fall impossible, drains or swales take its place.
 
@@ -113,7 +112,7 @@ No one publishes a single limit for turf. These are the reference points in the 
 - **5 percent** (6 inches of fall in 10 feet) is the code's minimum fall away from a foundation.
 - **10 percent** (1 foot in 10 feet) is the Colorado Geological Survey's recommended grade next to a house.
 - **15 percent** is where the Survey stops recommending slopes near a house on swelling soil, because steep slopes "result in downhill movement and erosion of the soil."
-- **33.3 percent** (1 foot of rise in 3 feet) is where the code starts setting special rules for buildings on or next to a slope, to protect against "slope drainage, erosion and shallow failures." In Virginia, the [Fairfax County Soil and Water Conservation District](https://www.fairfaxcounty.gov/soil-water-conservation/drainage-problem-protect-eroding-land) notes that slopes this steep may call for tiered walls that need engineering and a building permit there.
+- **33.3 percent** (1 foot of rise in 3 feet) is where the code starts setting special rules for buildings on or next to a slope, to protect against "slope drainage, erosion and shallow failures." In Virginia, the Fairfax County Soil and Water Conservation District notes that slopes this steep may call for tiered walls that need engineering and a building permit there.
 
 To find your own number, measure the drop from top to bottom and the level distance between those points. Divide the drop by the distance. A 2-foot drop over 20 feet is 10 percent.
 

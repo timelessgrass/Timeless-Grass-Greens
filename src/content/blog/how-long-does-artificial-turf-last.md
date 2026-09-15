@@ -13,11 +13,11 @@ faq:
   - q: How long does artificial grass last in a back yard?
     a: A home lawn’s life depends on the product, sun, use, care and installation. Published ranges are planning estimates, not a replacement date or a product guarantee. Our <a href="/blog/why-people-remove-artificial-grass/">repair and replacement article</a> discusses the conditional residential estimate from UF/IFAS. Compare the exact product’s written terms with the condition and use of your own lawn.
   - q: What wears artificial turf out fastest?
-    a: Sunlight, use and weather. <a href="https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf" target="_blank" rel="nofollow noopener">New Jersey's report</a> names UV radiation, mechanical stress from running and sliding, and rain, snow and temperature swings. It adds that brushing and grooming wear the fibers too, so care should be regular but not heavy-handed.
+    a: Sunlight, use and weather. New Jersey's report names UV radiation, mechanical stress from running and sliding, and rain, snow and temperature swings. It adds that brushing and grooming wear the fibers too, so care should be regular but not heavy-handed.
   - q: What are the signs turf needs replacing?
     a: Seams that keep coming loose, color fading toward gray-green, loose fibers and infill piling up at the edges, and split blades, by <a href="https://sportsvenuecalculator.com/knowledge/artificial-turf-field/turf-field-replacement-and-recycling/" target="_blank" rel="nofollow noopener">one industry guide</a>. Persistent odor or new puddles warrant an assessment of care, infill and drainage. Neither symptom establishes which layer needs work or whether replacement is necessary.
   - q: What happens to old turf?
-    a: Usually the landfill. <a href="https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf" target="_blank" rel="nofollow noopener">New Jersey's report</a> found it is standard practice to landfill or burn old synthetic turf, and that options to reuse or recycle it are still few.
+    a: Usually the landfill. New Jersey's report found it is standard practice to landfill or burn old synthetic turf, and that options to reuse or recycle it are still few.
 sources:
   - label: 'Raspanti et al., New Jersey DEP Division of Science & Research: synthetic turf science report, October 2025'
     url: https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf
@@ -38,14 +38,12 @@ related:
     - pet-turf
   markets: []
   guides: []
-publicReferences:
-  - https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf
-  - https://cdn.ymaws.com/staging-stc.site-ym.com/resource/resmgr/guidelines/STC_Suggested_Guidelines_for.pdf
+publicReferences: []
 ---
 
 ## Use lifespan estimates in context
 
-Most of the published numbers come from sports fields. New Jersey's environment department summed up the research in a [2025 report](https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf): with proper maintenance, synthetic turf fields are expected to last about 10 to 12 years, and then the surface has to come out and be replaced.
+Most of the published numbers come from sports fields. New Jersey's environment department summed up the research in a 2025 report: with proper maintenance, synthetic turf fields are expected to last about 10 to 12 years, and then the surface has to come out and be replaced.
 
 [One industry estimate](https://sportsvenuecalculator.com/knowledge/artificial-turf-field/turf-field-replacement-and-recycling/) lands in the same range: usually 8 to 10 years for a field, and 10 to 12 with good care.
 
@@ -76,7 +74,7 @@ A back yard has its own version of all this. The dog's favorite path, the spot b
 
 ## Seams and edges often go before the fibers
 
-Much of the time, turf isn't worn out when it starts to look bad. A seam has opened, or an edge has lifted. The [Synthetic Turf Council](https://cdn.ymaws.com/staging-stc.site-ym.com/resource/resmgr/guidelines/STC_Suggested_Guidelines_for.pdf), the industry's trade association, suggests inspecting seams and other installation features at least once a year. It says a seam that opens or comes loose may need quick, temporary gluing until it can be properly fixed.
+Much of the time, turf isn't worn out when it starts to look bad. A seam has opened, or an edge has lifted. The Synthetic Turf Council, the industry's trade association, suggests inspecting seams and other installation features at least once a year. It says a seam that opens or comes loose may need quick, temporary gluing until it can be properly fixed.
 
 The same guidelines suggest keeping a written log of the care the surface gets, which makes a slow change easier to spot. Catch a lifting seam early and it is a small repair. Leave it, and water, infill and wear get under the edge and it keeps opening.
 

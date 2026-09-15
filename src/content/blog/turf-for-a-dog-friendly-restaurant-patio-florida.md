@@ -86,7 +86,7 @@ Iowa State's [guide to disinfection in animal settings](https://www.cfsph.iastat
 
 The [EPA's disinfectant checklist](https://www.epa.gov/sites/default/files/2020-04/documents/disinfectants-onepager.pdf) adds a step that settles a lot: read the label's "use sites" and "surface types." If the product your permit office accepts isn't labeled for the surface you chose, you can't sanitize that surface by the label.
 
-The turf industry's own advice points the same way. The [Synthetic Turf Council's maintenance guidelines](https://cdn.ymaws.com/staging-stc.site-ym.com/resource/resmgr/guidelines/STC_Guidelines_for_Maintenan.pdf) were written for sports fields and are voluntary. They say to:
+The turf industry's own advice points the same way. The Synthetic Turf Council's maintenance guidelines were written for sports fields and are voluntary. They say to:
 
 - Remove organic material, including animal waste, as soon as possible.
 - Keep food, drinks and chewing gum off the turf.

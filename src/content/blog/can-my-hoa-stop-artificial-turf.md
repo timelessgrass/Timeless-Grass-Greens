@@ -65,7 +65,6 @@ related:
     - colorado-hoa-turf-rules
     - florida-friendly-landscaping-and-hoas
 publicReferences:
-  - https://codes.findlaw.com/co/title-37-water-and-irrigation/co-rev-st-sect-37-60-126/
   - https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0700-0799/0720/Sections/0720.3045.html
 ---
 
@@ -79,9 +78,9 @@ This is a summary, not legal advice. The details below tell you what to ask for,
 
 ## Colorado: the back yard is protected
 
-Colorado put the protection in its water statute. A covenant or HOA rule that "prohibits the use of nonvegetative turf grass in the backyard of a residential property" is declared "contrary to public policy and, on that basis, is unenforceable" ([C.R.S. 37-60-126](https://codes.findlaw.com/co/title-37-water-and-irrigation/co-rev-st-sect-37-60-126/)).
+Colorado put the protection in its water statute. A covenant or HOA rule that "prohibits the use of nonvegetative turf grass in the backyard of a residential property" is declared "contrary to public policy and, on that basis, is unenforceable" (C.R.S. 37-60-126).
 
-Detached homes get more. Under [SB23-178](https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf), design guidelines for a detached single-family home must not prohibit nonvegetative turf grass in the back yard. If the board denies a plan that complies anyway, you give written notice and 45 days to fix it. After that you can go to court for an order plus $500 or your actual damages, whichever is greater. Attached homes stay under the older section.
+Detached homes get more. Under SB23-178, design guidelines for a detached single-family home must not prohibit nonvegetative turf grass in the back yard. If the board denies a plan that complies anyway, you give written notice and 45 days to fix it. After that you can go to court for an order plus $500 or your actual damages, whichever is greater. Attached homes stay under the older section.
 
 Know the limits before you rely on it:
 
@@ -107,7 +106,7 @@ If your board says no, [Fla. Stat. 720.3035](https://www.flsenate.gov/Laws/Statu
 
 ## Colorado HOA common areas run the other way
 
-Your lot and your HOA's land fall under different laws. From 1 January 2026, Colorado bars local governments from installing, or allowing anyone to install, nonfunctional artificial turf in new or redeveloped landscapes on HOA common property, such as entryways and parks ([SB24-005](https://content.leg.colorado.gov/sites/default/files/2024a_005_signed.pdf), as amended by [HB25-1113](https://content.leg.colorado.gov/sites/default/files/2025a_1113_signed.pdf)). Playgrounds, sports fields and putting greens count as functional turf. Turf installed before 2026 is grandfathered, and a redevelopment only counts once it disturbs more than half the landscape area.
+Your lot and your HOA's land fall under different laws. From 1 January 2026, Colorado bars local governments from installing, or allowing anyone to install, nonfunctional artificial turf in new or redeveloped landscapes on HOA common property, such as entryways and parks (SB24-005, as amended by HB25-1113). Playgrounds, sports fields and putting greens count as functional turf. Turf installed before 2026 is grandfathered, and a redevelopment only counts once it disturbs more than half the landscape area.
 
 So a board that turns down decorative turf at the entrance may be following state law, while a covenant banning turf behind your house still can't be enforced.
 
@@ -121,7 +120,7 @@ South Carolina's HOA Act doesn't mention landscaping, turf or architectural appr
 
 So the first question for a South Carolina board isn't "may I?" It's "which recorded document says I can't?"
 
-Association permission and public review are separate. For a Carolina Forest property in unincorporated Horry County, ask the county about the full excavation, grading and drainage scope before work starts. A small back yard does not establish an exemption from the applicable requirements ([county permitting guidance](https://www.horrycountysc.gov/departments/stormwater/engineers/construction/storm-water-permitting/)).
+Association permission and public review are separate. For a Carolina Forest property in unincorporated Horry County, ask the county about the full excavation, grading and drainage scope before work starts. A small back yard does not establish an exemption from the applicable requirements (county permitting guidance).
 
 ## How to ask so you get a clear answer
 

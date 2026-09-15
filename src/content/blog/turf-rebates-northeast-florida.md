@@ -13,7 +13,7 @@ faq:
   - q: Does JEA offer a rebate for artificial turf?
     a: Eligibility is unconfirmed here. Ask JEA for the current program name, eligible address and project requirements, and written confirmation that the selected synthetic surface qualifies. Do not include a rebate in the budget until you have that answer and know whether approval must come before work.
   - q: Can I apply for the water district's rebate for my house?
-    a: Not directly. The <a href="https://www.sjrwmd.com/water-conservation/water-conservation-rebate-program/" target="_blank" rel="nofollow noopener">St. Johns River Water Management District</a> lists local governments, small utilities, HOAs and POAs, and multi-family properties as the applicants. If your HOA applies, what it can claim is irrigation work, fixtures and similar items, not turf.
+    a: Not directly. The St. Johns River Water Management District lists local governments, small utilities, HOAs and POAs, and multi-family properties as the applicants. If your HOA applies, what it can claim is irrigation work, fixtures and similar items, not turf.
   - q: Does Clay County Utility Authority pay anything toward turf?
     a: The <a href="https://clayutility.org/bill-credits/" target="_blank" rel="nofollow noopener">sod credit</a> discussed here is for establishing living sod. It does not establish eligibility for artificial turf. Ask CCUA to confirm any other current offer and its requirements before including it in a project budget.
   - q: Is artificial turf Florida-Friendly Landscaping?
@@ -57,7 +57,6 @@ related:
     - florida-turf-infill-rules
     - no-turf-rebates-grand-strand
 publicReferences:
-  - https://www.sjrwmd.com/water-conservation/water-conservation-rebate-program/
   - https://clayutility.org/bill-credits/
 ---
 
@@ -74,7 +73,7 @@ Start with the provider on your bill and the exact work being proposed. These ar
 
 ## The water district pays for irrigation, not lawns
 
-The [St. Johns River Water Management District](https://www.sjrwmd.com/water-conservation/water-conservation-rebate-program/) runs the region's main conservation rebate. The City of Green Cove Springs says it [rolled out in October 2024](https://www.greencovesprings.com/448/Water-Conservation). It covers up to 50% of actual costs, up to a cap per item, and no applicant can receive more than $10,000 a fiscal year. Money goes out first come, first served until it runs out.
+The St. Johns River Water Management District runs the region's main conservation rebate. The City of Green Cove Springs says it rolled out in October 2024. It covers up to 50% of actual costs, up to a cap per item, and no applicant can receive more than $10,000 a fiscal year. Money goes out first come, first served until it runs out.
 
 The items it covers:
 
@@ -117,7 +116,7 @@ What Florida does have is a state standard for turf on single-family lots. It is
 
 ## What actually changes your water use
 
-The real pressure on a lawn here is the watering rules, not a rebate. The district's [Water Shortage Order 2026-017](https://www.sjrwmd.com/wateringrestrictions/) covers portions of Nassau, Duval, Clay and St. Johns counties, among others. [St. Johns County](https://www.sjcfl.us/protect-our-water/) dates its Phase III rules from 11 May 2026:
+The real pressure on a lawn here is the watering rules, not a rebate. The district's Water Shortage Order 2026-017 covers portions of Nassau, Duval, Clay and St. Johns counties, among others. [St. Johns County](https://www.sjcfl.us/protect-our-water/) dates its Phase III rules from 11 May 2026:
 
 - one watering day a week: Saturday for odd or no addresses, Sunday for even, Tuesday for businesses,
 - no watering between 8 a.m. and 6 p.m., and

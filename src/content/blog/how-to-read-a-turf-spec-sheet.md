@@ -11,13 +11,13 @@ answer:
   answer: Read each number as a test result. Face weight is the yarn above the backing, not the whole roll. Tuft bind is the force needed to pull a tuft out, measured under ASTM D1335. Drainage is the inches of water an hour that pass through. Compare two products only on the same measure, check that each number names its test method, and ask for the lab report behind any figure that matters for your use.
 faq:
   - q: What face weight should artificial turf have?
-    a: No single figure fits, because face weight climbs with pile height and tuft density. The Synthetic Turf Council's <a href="https://cdn.ymaws.com/www.syntheticturfcouncil.org/resource/resmgr/guidelines/STC_Considerations_When_Buyi.pdf" target="_blank" rel="nofollow noopener">landscape buying guide</a> puts most landscape turf between 40 and 100 ounces of yarn per square yard. Compare face weight only between products of similar height, and make sure both sheets list face weight rather than total weight.
+    a: No single figure fits, because face weight climbs with pile height and tuft density. The Synthetic Turf Council's landscape buying guide puts most landscape turf between 40 and 100 ounces of yarn per square yard. Compare face weight only between products of similar height, and make sure both sheets list face weight rather than total weight.
   - q: What does tuft bind mean on a turf spec sheet?
     a: It's the force needed to pull a single tuft out of the backing. It's measured under <a href="https://store.astm.org/d1335-17.html" target="_blank" rel="nofollow noopener">ASTM D1335</a>, a test written for pile floor coverings. The Synthetic Turf Council recommends at least 6.8 pounds and says higher is better. If a sheet doesn't list it, ask for it.
   - q: What drainage rate does my town require?
-    a: It varies. <a href="https://www.thorntonwater.com/wp-content/uploads/2026/02/2026-residential_artificial_turf_info__rules-1.pdf" target="_blank" rel="nofollow noopener">Thornton's 2026 rebate rules</a> require backing designed to drain at least 2 inches an hour. <a href="https://coab.us/DocumentCenter/View/15920/Turf-Installation-Guidelines" target="_blank" rel="nofollow noopener">Atlantic Beach, Florida</a> requires at least 100 inches an hour, tested and certified to applicable ASTM permeability standards. Ask your city, county or water provider which figure applies before you choose a product.
+    a: It varies. <a href="https://www.thorntonwater.com/wp-content/uploads/2026/02/2026-residential_artificial_turf_info__rules-1.pdf" target="_blank" rel="nofollow noopener">Thornton's 2026 rebate rules</a> require backing designed to drain at least 2 inches an hour. Atlantic Beach, Florida requires at least 100 inches an hour, tested and certified to applicable ASTM permeability standards. Ask your city, county or water provider which figure applies before you choose a product.
   - q: Are the Synthetic Turf Council's numbers a legal standard?
-    a: No. They're a trade association's suggested guidelines. Its <a href="https://cdn.ymaws.com/www.syntheticturfcouncil.org/resource/resmgr/guidelines/STC_Considerations_When_Buyi.pdf" target="_blank" rel="nofollow noopener">landscape guide</a> says they aren't manufacturing minimum standards or safety standards, and may not apply to putting greens, dog runs or playgrounds. Where a city rule or rebate program sets its own figures, check with that office.
+    a: No. They're a trade association's suggested guidelines. Its landscape guide says they aren't manufacturing minimum standards or safety standards, and may not apply to putting greens, dog runs or playgrounds. Where a city rule or rebate program sets its own figures, check with that office.
 sources:
   - label: 'Synthetic Turf Council: Considerations When Buying Synthetic Grass for Landscape Use (September 2013)'
     url: https://cdn.ymaws.com/www.syntheticturfcouncil.org/resource/resmgr/guidelines/STC_Considerations_When_Buyi.pdf
@@ -41,7 +41,6 @@ sources:
     url: https://coab.us/DocumentCenter/View/15920/Turf-Installation-Guidelines
     checked: '2026-09-12'
 publicReferences:
-  - https://cdn.ymaws.com/www.syntheticturfcouncil.org/resource/resmgr/guidelines/STC_Considerations_When_Buyi.pdf
   - https://store.astm.org/d1335-17.html
   - https://www.thorntonwater.com/wp-content/uploads/2026/02/2026-residential_artificial_turf_info__rules-1.pdf
 related:
@@ -63,8 +62,8 @@ Many of those tests were written for carpet. [ASTM D1335](https://store.astm.org
 
 The target numbers most sheets get measured against come from the Synthetic Turf Council, the industry's trade association. It publishes two documents:
 
-- a [buying guide for landscape turf](https://cdn.ymaws.com/www.syntheticturfcouncil.org/resource/resmgr/guidelines/STC_Considerations_When_Buyi.pdf) (September 2013), for residential, commercial and municipal lawns
-- [suggested guidelines for turf systems](https://cdn.ymaws.com/staging-stc.site-ym.com/resource/resmgr/guidelines/STC_Suggested_Guidelines_for.pdf) (revised November 2011), written mostly with sports fields in mind
+- a buying guide for landscape turf (September 2013), for residential, commercial and municipal lawns
+- suggested guidelines for turf systems (revised November 2011), written mostly with sports fields in mind
 
 The landscape guide says its figures are not manufacturing minimum standards or safety standards, and a product can miss them and still suit its use. It also says they may not apply to putting greens, dog runs, playgrounds or rooftops.
 
@@ -119,7 +118,7 @@ The figures you'll meet don't agree, because they answer different questions:
 - **2 inches an hour:** Thornton's backing minimum
 - **10 inches an hour:** the council's minimum for the turf and cushion layer on an infilled field
 - **25 inches an hour:** what the landscape guide says permeable landscape systems are typically designed to drain
-- **100 inches an hour:** the minimum in [Atlantic Beach's turf guidelines](https://coab.us/DocumentCenter/View/15920/Turf-Installation-Guidelines), for products tested and certified to applicable ASTM permeability standards
+- **100 inches an hour:** the minimum in Atlantic Beach's turf guidelines, for products tested and certified to applicable ASTM permeability standards
 
 Atlantic Beach also requires the manufacturer's product specifications and permeability testing documentation before approval. Find out which figure applies at your address before you pick a product. A rating describes the turf, not the soil under it, as our article on [how rain drains through turf](/blog/does-rain-drain-through-artificial-turf/) explains.
 

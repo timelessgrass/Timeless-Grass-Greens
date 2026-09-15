@@ -11,13 +11,13 @@ answer:
   answer: None wins on the label alone. The Synthetic Turf Council, the industry’s trade association, says all three can provide strength, softness, color retention and UV resistance, and warns against unsupported claims about one polymer. Pick a product made for your use, whether that is a lawn, a dog yard or a putting green. Then ask for independent lab results on UV weathering and a statement on heavy metals such as lead.
 faq:
   - q: Is nylon turf the right choice for a putting green?
-    a: Not on the fiber name alone. The Synthetic Turf Council’s <a href="https://cdn.ymaws.com/www.syntheticturfcouncil.org/resource/resmgr/guidelines/STC_Considerations_When_Buyi.pdf" target="_blank" rel="nofollow noopener">landscape buying guide</a> says its guidelines may not apply to putting greens. Its <a href="https://cdn.ymaws.com/staging-stc.site-ym.com/resource/resmgr/guidelines/STC_Suggested_Guidelines_for.pdf" target="_blank" rel="nofollow noopener">specification guidelines</a> list polyethylene, polypropylene or nylon for short-pile turf. Ask what the product was made and tested for, and roll a ball on a sample.
+    a: Not on the fiber name alone. The Synthetic Turf Council’s landscape buying guide says its guidelines may not apply to putting greens. Its specification guidelines list polyethylene, polypropylene or nylon for short-pile turf. Ask what the product was made and tested for, and roll a ball on a sample.
   - q: Does polyethylene turf melt?
-    a: It can under concentrated heat. The <a href="https://cdn.ymaws.com/www.syntheticturfcouncil.org/resource/resmgr/guidelines/STC_Considerations_When_Buyi.pdf" target="_blank" rel="nofollow noopener">Synthetic Turf Council</a> reports random instances of polyethylene fibers shrinking and melting from reflected heat, particularly off Low-E glass. It suggests visiting the site in the middle of a hot, sunny day to see where the reflections land.
+    a: It can under concentrated heat. The Synthetic Turf Council reports random instances of polyethylene fibers shrinking and melting from reflected heat, particularly off Low-E glass. It suggests visiting the site in the middle of a hot, sunny day to see where the reflections land.
   - q: Is there lead in artificial turf fibers?
-    a: Some products have had it. In July 2008 the <a href="https://www.cpsc.gov/Newsroom/News-Releases/2008/CPSC-Staff-Finds-Synthetic-Turf-Fields-OK-to-Install-OK-to-Play-On" target="_blank" rel="nofollow noopener">Consumer Product Safety Commission</a> said lead is present in the pigments of some synthetic turf, and that newer fields had no lead or generally the lowest levels. <a href="https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf" target="_blank" rel="nofollow noopener">New Jersey’s environment department</a> still reported lead-based pigments in October 2025. Ask for the product’s heavy-metal test results.
+    a: Some products have had it. In July 2008 the Consumer Product Safety Commission said lead is present in the pigments of some synthetic turf, and that newer fields had no lead or generally the lowest levels. New Jersey’s environment department still reported lead-based pigments in October 2025. Ask for the product’s heavy-metal test results.
   - q: Which fiber should you pick for a dog yard?
-    a: The polymer alone will not settle it. The <a href="https://cdn.ymaws.com/www.syntheticturfcouncil.org/resource/resmgr/guidelines/STC_Considerations_When_Buyi.pdf" target="_blank" rel="nofollow noopener">Synthetic Turf Council</a> says all three can resist moisture and resist holding odors, and that its landscape guidelines may not apply to dog runs. Ask whether the product is made for pet use and how water drains through it.
+    a: The polymer alone will not settle it. The Synthetic Turf Council says all three can resist moisture and resist holding odors, and that its landscape guidelines may not apply to dog runs. Ask whether the product is made for pet use and how water drains through it.
 sources:
   - label: 'Synthetic Turf Council: Considerations When Buying Synthetic Grass for Landscape Use (September 2013)'
     url: https://cdn.ymaws.com/www.syntheticturfcouncil.org/resource/resmgr/guidelines/STC_Considerations_When_Buyi.pdf
@@ -34,10 +34,7 @@ sources:
   - label: 'Andrady et al. (2023), UN Environment Programme Environmental Effects Assessment Panel: Effects of UV radiation on natural and synthetic materials'
     url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10088630/
     checked: '2026-09-12'
-publicReferences:
-  - https://cdn.ymaws.com/www.syntheticturfcouncil.org/resource/resmgr/guidelines/STC_Considerations_When_Buyi.pdf
-  - https://www.cpsc.gov/Newsroom/News-Releases/2008/CPSC-Staff-Finds-Synthetic-Turf-Fields-OK-to-Install-OK-to-Play-On
-  - https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf
+publicReferences: []
 related:
   services:
     - residential-turf
@@ -49,9 +46,9 @@ related:
 
 ## All three can work
 
-Turf blades are plastic. [New Jersey's Department of Environmental Protection](https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf) lists the fiber materials as polyethylene, nylon or polypropylene. First-generation synthetic turf, it notes, was a short nylon pile carpet laid over compacted soil.
+Turf blades are plastic. New Jersey's Department of Environmental Protection lists the fiber materials as polyethylene, nylon or polypropylene. First-generation synthetic turf, it notes, was a short nylon pile carpet laid over compacted soil.
 
-Sales pages often rank the three, sometimes down to exact percentages. The [Synthetic Turf Council](https://cdn.ymaws.com/www.syntheticturfcouncil.org/resource/resmgr/guidelines/STC_Considerations_When_Buyi.pdf), the industry's trade association, takes a different line. Its buying guide for landscape turf tells you to "beware of unsupported claims against a certain yarn polymer type." It says all three polymers can provide:
+Sales pages often rank the three, sometimes down to exact percentages. The Synthetic Turf Council, the industry's trade association, takes a different line. Its buying guide for landscape turf tells you to "beware of unsupported claims against a certain yarn polymer type." It says all three polymers can provide:
 
 - strength and durability
 - elastic recovery, the way a blade springs back
@@ -69,7 +66,7 @@ Two products made from the same polymer can behave very differently. The differe
 
 **Shape.** The New Jersey report describes two kinds of fiber. Monofilaments are individual blades. Slit film is a sheet sliced into blades that stay attached in bundles.
 
-**Size, in different units.** The trade association's [specification guidelines](https://cdn.ymaws.com/staging-stc.site-ym.com/resource/resmgr/guidelines/STC_Suggested_Guidelines_for.pdf), last revised in November 2011, give typical minimum fiber sizes:
+**Size, in different units.** The trade association's specification guidelines, last revised in November 2011, give typical minimum fiber sizes:
 
 - polypropylene: 50 microns
 - slit-film polyethylene: 100 microns
@@ -97,7 +94,7 @@ It also suggests you keep the sample you choose and compare it with the product 
 
 ## Lead: what the record shows
 
-Lead in turf has been traced to color. In July 2008 the [Consumer Product Safety Commission](https://www.cpsc.gov/Newsroom/News-Releases/2008/CPSC-Staff-Finds-Synthetic-Turf-Fields-OK-to-Install-OK-to-Play-On) said lead is present in the pigments of some synthetic turf products. Its staff found:
+Lead in turf has been traced to color. In July 2008 the Consumer Product Safety Commission said lead is present in the pigments of some synthetic turf products. Its staff found:
 
 - newer fields had no lead or generally the lowest lead levels
 - some older fields had small amounts on the surface, but none released amounts harmful to children

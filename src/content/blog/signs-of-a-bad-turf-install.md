@@ -30,7 +30,6 @@ related:
     - is-artificial-turf-impervious
 publicReferences:
   - http://reports.oah.state.nc.us/ncac/title%2021%20-%20occupational%20licensing%20boards%20and%20commissions/chapter%2028%20-%20landscape%20contractors/chapter%2028%20rules.pdf
-  - https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf
 ---
 
 ## What to look at
@@ -45,7 +44,7 @@ If an edge or seam has become a trip hazard, keep people away from that spot unt
 
 Show where water collects and where it travels. Note when the rain stopped and when you took each photo. Include nearby downspouts, drains and hard surfaces so the installer can see the setting.
 
-[New Jersey DEP’s science review](https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf) explains that a turf product’s drainage rating does not establish how quickly the ground beneath it absorbs water. A product sheet alone cannot diagnose a puddle. Ask for an assessment of the installed layers and the intended route for water before agreeing to replace the surface.
+New Jersey DEP’s science review explains that a turf product’s drainage rating does not establish how quickly the ground beneath it absorbs water. A product sheet alone cannot diagnose a puddle. Ask for an assessment of the installed layers and the intended route for water before agreeing to replace the surface.
 
 If infill keeps washing onto the patio, document where it leaves the turf and after which conditions. Persistent pet odor is also worth raising, with a note of pet use and the cleaning products and routine you have tried. Those observations help narrow the discussion; they do not establish the cause on their own. Our [pet turf cleaning guide](/blog/how-to-clean-pet-turf/) covers routine care.
 

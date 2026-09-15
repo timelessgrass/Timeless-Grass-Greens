@@ -11,11 +11,11 @@ answer:
   answer: Rain can pass through turf made with drainable backing, but the installed base, underlying ground and drainage route determine what happens next. A product’s drainage rating is not a guarantee against puddles or flooding. Assess the site and describe the water route before choosing the installation details.
 faq:
   - q: Will artificial turf puddle after heavy rain?
-    a: Not if the base and the ground can take the water. Puddles come from low spots, a base packed with fines, or soil that's already full. <a href="https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf" target="_blank" rel="nofollow noopener">New Jersey's environment department</a> notes that poor installation and inadequate drainage can make flooding worse, which is why the ground gets checked before the base is designed.
+    a: Not if the base and the ground can take the water. Puddles come from low spots, a base packed with fines, or soil that's already full. New Jersey's environment department notes that poor installation and inadequate drainage can make flooding worse, which is why the ground gets checked before the base is designed.
   - q: Does turf count as impervious surface?
     a: It depends on your town. North Myrtle Beach counts a surface as pervious only if it drains at least 2 inches an hour, is installed to spec, passes inspection and is maintained. Atlantic Beach, Florida, counts turf as permeable for lot coverage when water can pass through both the turf and the base. Horry County's code doesn't name turf at all.
   - q: Can heavy rain wash the infill away?
-    a: Light infill can. <a href="https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf" target="_blank" rel="nofollow noopener">New Jersey's environment department</a> warns that rubber pellets are buoyant and may wash away, and advises heavier infills such as coated sand or zeolite where heavy rain is common.
+    a: Light infill can. New Jersey's environment department warns that rubber pellets are buoyant and may wash away, and advises heavier infills such as coated sand or zeolite where heavy rain is common.
   - q: Does turf drain better than a lawn?
     a: Not automatically. <a href="https://ask.ifas.ufl.edu/publication/EP612" target="_blank" rel="nofollow noopener">UF/IFAS Extension</a> cites research in which synthetic turf lawns had more runoff and held less water than living lawns, largely because the soil underneath gets compacted. A base built for the ground, without over-compacting it, is what makes the difference.
 sources:
@@ -69,8 +69,7 @@ related:
     - northeast-florida
   guides:
     - is-artificial-turf-impervious
-publicReferences:
-  - https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf
+publicReferences: []
 ---
 
 ## Rain goes down through four layers
@@ -78,7 +77,7 @@ publicReferences:
 Rain doesn't run off the top of well-built turf. It goes down, through four layers:
 
 1. **The turf and its backing.** The backing is perforated or fully permeable, so water passes straight through the carpet.
-2. **The infill.** The sand or granules between the blades hold the fibers up, and they drain too, as [New Jersey's environment department](https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf) describes it.
+2. **The infill.** The sand or granules between the blades hold the fibers up, and they drain too, as New Jersey's environment department describes it.
 3. **The stone base.** Open, clean stone holds water for a while and passes it down or sideways.
 4. **The soil.** Everything above ends up here.
 
@@ -112,7 +111,7 @@ Then the rain comes in a block: roughly 28.8 inches at Jacksonville from June th
 
 A few local rules put numbers on it:
 
-- **Atlantic Beach, Florida:** turf certified to drain at least 100 inches an hour, over at least 4 inches of #57 stone under #89 stone, with no paver sand, crushed fines or screenings, and light compaction only ([city guidelines](https://coab.us/DocumentCenter/View/15920/Turf-Installation-Guidelines)).
+- **Atlantic Beach, Florida:** turf certified to drain at least 100 inches an hour, over at least 4 inches of #57 stone under #89 stone, with no paver sand, crushed fines or screenings, and light compaction only (city guidelines).
 - **North Myrtle Beach:** a surface counts as pervious only if it shows at least 2 inches an hour of infiltration, is installed to spec, passes inspection and is maintained ([Sec. 23-129.4](https://library.municode.com/sc/north_myrtle_beach/codes/code_of_ordinances?nodeId=COOR_CH23ZO_ARTVIIGESURE_S23-129.4STPESUIMSUSIMIDURENOSUSIECDEPLRE)).
 - **Thornton, Colorado:** for its rebate, backing that drains at least 2 inches an hour over at least 3 inches of compacted aggregate ([Thornton Water](https://www.thorntonwater.com/wp-content/uploads/2026/02/2026-residential_artificial_turf_info__rules-1.pdf)).
 

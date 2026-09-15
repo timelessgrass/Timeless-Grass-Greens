@@ -17,7 +17,7 @@ answer:
 faq:
   - q: What triggers Green Buildings Ordinance compliance in the first place?
     a: >-
-      Size and scope. The <a href="https://www.denvergov.org/files/assets/public/v/4/community-planning-and-development/documents/ds/gbo/gbo_rules_regs.pdf" target="_blank" rel="nofollow noopener">GBO Rules and Regulations</a>
+      Size and scope. The GBO Rules and Regulations
       apply to new buildings or additions of 25,000 square feet or more of gross floor area, and to
       existing buildings of that size when a roof replacement or roof recover covers more than 5
       percent of the total roof area or an individual roof section (Sections 3.01 and 4.01). The
@@ -43,7 +43,7 @@ faq:
     a: >-
       A short list of fixed numbers. The Rules and Regulations require a minimum 5-inch depth of
       growing media, 80 percent plant coverage within 3 years of the certificate of occupancy, an
-      automatic irrigation system, and a maintenance plan (Section 4.02(d)(vi)). The <a href="https://denvergov.org/files/assets/public/v/3/community-planning-and-development/documents/ds/gbo/guides/gbo-green-space-requirements-existing-building-option-a.pdf" target="_blank" rel="nofollow noopener">Existing Buildings Option A guide</a>, revised May 18, 2026, repeats both figures for existing-building roof
+      automatic irrigation system, and a maintenance plan (Section 4.02(d)(vi)). The Existing Buildings Option A guide, revised May 18, 2026, repeats both figures for existing-building roof
       permits.
   - q: Where does the turf area sit if it isn't counted as green space?
     a: >-
@@ -59,9 +59,7 @@ sources:
   - label: 'City and County of Denver, Green Buildings Ordinance Project and Submittal Requirements — Existing Buildings, Option A guide (revised May 18, 2026)'
     url: https://denvergov.org/files/assets/public/v/3/community-planning-and-development/documents/ds/gbo/guides/gbo-green-space-requirements-existing-building-option-a.pdf
     checked: '2026-09-14'
-publicReferences:
-  - https://www.denvergov.org/files/assets/public/v/4/community-planning-and-development/documents/ds/gbo/gbo_rules_regs.pdf
-  - https://denvergov.org/files/assets/public/v/3/community-planning-and-development/documents/ds/gbo/guides/gbo-green-space-requirements-existing-building-option-a.pdf
+publicReferences: []
 related:
   services:
     - commercial-turf
@@ -73,7 +71,7 @@ related:
 
 ## The decision: turf is a separate line item, not a compliance path
 
-If a new building or a roof job in Denver is large enough to trigger the [Green Buildings Ordinance](https://www.denvergov.org/files/assets/public/v/4/community-planning-and-development/documents/ds/gbo/gbo_rules_regs.pdf), the green-space option is one of several ways to comply — and artificial turf doesn't satisfy it. The ordinance's own definition of green space is "any area that is proposed to contain trees, groundcover, shrubs, urban agriculture, natural grass/turf, or vegetated roofs" (Section 1.03). Every item on that list is a living plant or a planted system. Synthetic turf isn't named, and the natural-grass category that is named comes with its own cap.
+If a new building or a roof job in Denver is large enough to trigger the Green Buildings Ordinance, the green-space option is one of several ways to comply — and artificial turf doesn't satisfy it. The ordinance's own definition of green space is "any area that is proposed to contain trees, groundcover, shrubs, urban agriculture, natural grass/turf, or vegetated roofs" (Section 1.03). Every item on that list is a living plant or a planted system. Synthetic turf isn't named, and the natural-grass category that is named comes with its own cap.
 
 That doesn't take turf off the table for a rooftop deck or a podium amenity space. It means the project has two separate questions to answer: how the building satisfies the ordinance (green space, solar, an energy path, or one of the other compliance options), and where a turf amenity area sits relative to that compliance footprint. Settling that split before the layout is drawn keeps a later design change from creating a shortfall the building has to fix.
 
@@ -96,7 +94,7 @@ Artificial turf sits entirely outside that structure. It isn't the natural grass
 
 ## If the building uses a vegetated roof, what that path requires
 
-Where a project does put a vegetated roof toward the green-space requirement, the ordinance sets specific technical standards for it, separate from anything a turf installer plans around. Vegetated roofs on commercial buildings need a dedicated Green Roof Construction Permit issued to a licensed Green Roof contractor, on top of the roof permit for the waterproof membrane underneath (Section 4.02(d)(i)(1)(a)) — and the Denver license that contractor has to hold is a separate requirement (Section 2.03(e)). The vegetative system itself has to include a minimum 5-inch depth of growing media, unless a different depth is demonstrated and approved, and the vegetation has to cover 80 percent of the roof within 3 years of the certificate of occupancy (Section 4.02(d)(vi)). The [Existing Buildings Option A guide](https://denvergov.org/files/assets/public/v/3/community-planning-and-development/documents/ds/gbo/guides/gbo-green-space-requirements-existing-building-option-a.pdf), revised May 18, 2026, lists both figures again in its submittal checklist for roof-permit projects.
+Where a project does put a vegetated roof toward the green-space requirement, the ordinance sets specific technical standards for it, separate from anything a turf installer plans around. Vegetated roofs on commercial buildings need a dedicated Green Roof Construction Permit issued to a licensed Green Roof contractor, on top of the roof permit for the waterproof membrane underneath (Section 4.02(d)(i)(1)(a)) — and the Denver license that contractor has to hold is a separate requirement (Section 2.03(e)). The vegetative system itself has to include a minimum 5-inch depth of growing media, unless a different depth is demonstrated and approved, and the vegetation has to cover 80 percent of the roof within 3 years of the certificate of occupancy (Section 4.02(d)(vi)). The Existing Buildings Option A guide, revised May 18, 2026, lists both figures again in its submittal checklist for roof-permit projects.
 
 None of that applies to a synthetic turf deck that isn't part of the compliance area — a turf deck doesn't need growing media, a plant-coverage timeline, or a green roof contractor's permit. It does still need its own structural and drainage answers, which our [balcony and roof turf article](/blog/artificial-turf-on-a-balcony-or-roof/) covers: confirming the deck's design load with a structural engineer, and keeping drains and scuppers clear of infill and backing.
 

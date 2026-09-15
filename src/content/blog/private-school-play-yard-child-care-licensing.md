@@ -11,9 +11,9 @@ answer:
   answer: It depends on the child's age, the program's hours and who staffs it, and the answer differs by state. Florida and South Carolina exempt most school-run programs for children 3 and up, but not every condition is automatic. Colorado's preschool carve-out runs the other way from Florida's. Confirm the classification with the program's licensing authority before the play yard design is final.
 faq:
   - q: Is a private school's kindergarten classroom considered child care?
-    a: Usually not, if it's attached to an elementary school. Florida excludes 5-year-old kindergarten and grade one and up outright under <a href="https://www.flsenate.gov/Laws/Statutes/2025/402.3025" target="_blank" rel="nofollow noopener">Fla. Stat. 402.3025(1)(a)1 and (2)(b)</a>. Colorado's child care center definition carries the same exclusion for "any kindergarten maintained in connection with a public, private, or parochial elementary school system of at least six grades," under <a href="https://codes.findlaw.com/co/title-26-5-early-childhood-programs-and-services/co-rev-st-sect-26-5-5-303/" target="_blank" rel="nofollow noopener">C.R.S. 26.5-5-303(3)(a)</a>.
+    a: Usually not, if it's attached to an elementary school. Florida excludes 5-year-old kindergarten and grade one and up outright under <a href="https://www.flsenate.gov/Laws/Statutes/2025/402.3025" target="_blank" rel="nofollow noopener">Fla. Stat. 402.3025(1)(a)1 and (2)(b)</a>. Colorado's child care center definition carries the same exclusion for "any kindergarten maintained in connection with a public, private, or parochial elementary school system of at least six grades," under C.R.S. 26.5-5-303(3)(a).
   - q: What about a 3-year-old preschool classroom at the same school?
-    a: That's the harder question, and the states split. Florida requires the school to run and staff the program directly, keep a majority of enrolled children at 5 or older, and meet personnel screening, or the program counts as child care. Colorado's definition goes the other direction — it specifically includes "facilities for children under six years of age with stated educational purposes operated in conjunction with a public, private, or parochial college or a private or parochial school," per <a href="https://codes.findlaw.com/co/title-26-5-early-childhood-programs-and-services/co-rev-st-sect-26-5-5-303/" target="_blank" rel="nofollow noopener">C.R.S. 26.5-5-303(3)(a)</a>, without the same operate-and-staff or majority-age carve-out Florida writes in.
+    a: That's the harder question, and the states split. Florida requires the school to run and staff the program directly, keep a majority of enrolled children at 5 or older, and meet personnel screening, or the program counts as child care. Colorado's definition goes the other direction — it specifically includes "facilities for children under six years of age with stated educational purposes operated in conjunction with a public, private, or parochial college or a private or parochial school," per C.R.S. 26.5-5-303(3)(a), without the same operate-and-staff or majority-age carve-out Florida writes in.
   - q: Does adding an after-care program change the classification?
     a: It can. North Carolina's exclusion for an accredited nonpublic school's early childhood program depends partly on hours and funding — under <a href="https://web.archive.org/web/20260304012300/https://ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_110/GS_110-86.html" target="_blank" rel="nofollow noopener">G.S. 110-86(2)f</a>, a program running more than six and a half hours a day loses the exclusion if it receives NC Pre-K or child care subsidy funding. In South Carolina, a program for under-school-age children that runs more than four hours a day falls outside the four-hour exclusion in <a href="https://www.scstatehouse.gov/code/t63c013.php" target="_blank" rel="nofollow noopener">S.C. Code 63-13-20(4)</a>. Before-care and after-care hours can push a program past either line.
   - q: If the play yard program isn't licensed as child care, does that mean there's no surfacing standard at all?
@@ -42,7 +42,6 @@ related:
 publicReferences:
   - https://www.flsenate.gov/Laws/Statutes/2025/402.3025
   - https://www.scstatehouse.gov/code/t63c013.php
-  - https://codes.findlaw.com/co/title-26-5-early-childhood-programs-and-services/co-rev-st-sect-26-5-5-303/
 ---
 
 ## The design question comes second to the classification question
@@ -74,7 +73,7 @@ That last exclusion is the one to read carefully. It covers preschool-age progra
 
 ## Colorado: the preschool answer runs opposite Florida's
 
-Colorado's early childhood statutes were recodified into Title 26.5 in recent years; a lookup that lands on the old citation, C.R.S. 26-6-103, is reading a repealed section. The current definition is [C.R.S. 26.5-5-303(3)(a)](https://codes.findlaw.com/co/title-26-5-early-childhood-programs-and-services/co-rev-st-sect-26-5-5-303/), and it's worth reading in full because it cuts the opposite way from Florida and South Carolina on preschool.
+Colorado's early childhood statutes were recodified into Title 26.5 in recent years; a lookup that lands on the old citation, C.R.S. 26-6-103, is reading a repealed section. The current definition is C.R.S. 26.5-5-303(3)(a), and it's worth reading in full because it cuts the opposite way from Florida and South Carolina on preschool.
 
 The "child care center" definition:
 

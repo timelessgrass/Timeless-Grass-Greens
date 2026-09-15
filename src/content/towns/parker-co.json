@@ -48,7 +48,7 @@
       "takeaway": "If your site went through Site Plan review, its planting can't change without approval from the Town and the water district. Pull the approved sheets, mark the turf areas and ask Planning what it needs.",
       "paras": [
         "If your property went through Site Plan review, its planting is part of the approval. Section 13.08.130 says the trees, shrubs and other materials on approved plans \"shall be maintained in perpetuity, unless amended or modified by the Town,\" and dead plants must be replaced within 45 days, or by 1 June when the season prevents it (<a href=\"https://library.municode.com/co/parker/codes/municipal_code?nodeId=TIT13LADEOR_CH13.08DEST_13.08.130MAOPST\" target=\"_blank\" rel=\"nofollow noopener\">Parker Municipal Code</a>).",
-        "The Town's LDO Administrative Manual, dated May 2024, has every landscape and streetscape plan carry a note: no change without prior approval from the Town and the Water and Sanitation District (<a href=\"https://www.parkerco.gov/DocumentCenter/View/28966/Land-Development-Ordinance-Administrative-Manual\" target=\"_blank\" rel=\"nofollow noopener\">Town of Parker</a>). For an office park, a multifamily building or an HOA tract, a turf conversion starts with that plan. Pull the approved sheets, mark the areas you want to change, and ask Planning what amendment it needs.",
+        "The Town's LDO Administrative Manual, dated May 2024, has every landscape and streetscape plan carry a note: no change without prior approval from the Town and the Water and Sanitation District (Town of Parker). For an office park, a multifamily building or an HOA tract, a turf conversion starts with that plan. Pull the approved sheets, mark the areas you want to change, and ask Planning what amendment it needs.",
         "State law adds its own limits at commercial and common-interest property; our <a href=\"/guides/colorado-turf-law/\">guide to Colorado's turf law</a> sets them out. And because Parker's code has subdivisions and condominiums create or join a homeowners' association when platted, the covenants are a third check."
       ]
     },
@@ -69,8 +69,8 @@
       "h2": "Three watering days, no midday sprinklers, and a discount to ask about.",
       "takeaway": "Parker Water homes water three days set by house number, and new sod needs a permit to skip that schedule. Ask the district whether its $750 turf removal discount covers synthetic lawns.",
       "paras": [
-        "If Parker Water and Sanitation District serves your address, your house number sets the days. Even numbers water Sunday, Tuesday and Thursday. Odd numbers water Monday, Wednesday and Saturday, and so does every multifamily, HOA and commercial property. Watering is prohibited between 10 a.m. and 6 p.m., and runoff, overspray and leaks count as waste (<a href=\"https://www.pwsd.org/3366/Watering-Restrictions\" target=\"_blank\" rel=\"nofollow noopener\">Parker Water</a>). New sod needs a district permit to skip that schedule; turf needs no watering day at all.",
-        "The district has partnered with the South Metro Water Supply Authority on $750 turf removal discounts through Resource Central, first come, first served, and closing when the year's funds run out (<a href=\"https://www.pwsd.org/3367/Rebates\" target=\"_blank\" rel=\"nofollow noopener\">Parker Water</a>). The page doesn't say whether a synthetic lawn qualifies, so ask the district on 303-841-4627 before you budget for it. Our <a href=\"/guides/colorado-water-rebates-and-turf/\">guide to metro water rebates</a> covers how the Resource Central program is set up."
+        "If Parker Water and Sanitation District serves your address, your house number sets the days. Even numbers water Sunday, Tuesday and Thursday. Odd numbers water Monday, Wednesday and Saturday, and so does every multifamily, HOA and commercial property. Watering is prohibited between 10 a.m. and 6 p.m., and runoff, overspray and leaks count as waste (Parker Water). New sod needs a district permit to skip that schedule; turf needs no watering day at all.",
+        "The district has partnered with the South Metro Water Supply Authority on $750 turf removal discounts through Resource Central, first come, first served, and closing when the year's funds run out (Parker Water). The page doesn't say whether a synthetic lawn qualifies, so ask the district on 303-841-4627 before you budget for it. Our <a href=\"/guides/colorado-water-rebates-and-turf/\">guide to metro water rebates</a> covers how the Resource Central program is set up."
       ]
     }
   ],
@@ -92,11 +92,11 @@
     },
     {
       "q": "Does Parker Water's $750 discount cover artificial turf?",
-      "a": "Its rebates page doesn't say either way. It describes a turf removal discount delivered through Resource Central, while funds last. Ask Parker Water on 303-841-4627 whether a synthetic lawn qualifies before you count on the money (<a href=\"https://www.pwsd.org/3367/Rebates\" target=\"_blank\" rel=\"nofollow noopener\">Parker Water</a>)."
+      "a": "Its rebates page doesn't say either way. It describes a turf removal discount delivered through Resource Central, while funds last. Ask Parker Water on 303-841-4627 whether a synthetic lawn qualifies before you count on the money (Parker Water)."
     },
     {
       "q": "Where do I ask the Town about a turf plan?",
-      "a": "The Planning Division handles site plans and requests for variances from the Land Development Ordinance. It's at 20120 E. Mainstreet, open Monday to Friday, 8 a.m. to 5 p.m. (<a href=\"https://www.parkerco.gov/285/Planning-Division\" target=\"_blank\" rel=\"nofollow noopener\">Town of Parker</a>). The Town also says it promotes xeric landscaping (<a href=\"https://www.parkerco.gov/m/faq?cat=53#question-302\" target=\"_blank\" rel=\"nofollow noopener\">Town of Parker</a>), so show which areas stay planted."
+      "a": "The Planning Division handles site plans and requests for variances from the Land Development Ordinance. It's at 20120 E. Mainstreet, open Monday to Friday, 8 a.m. to 5 p.m. (Town of Parker). The Town also says it promotes xeric landscaping (Town of Parker), so show which areas stay planted."
     }
   ],
   "nearby": [
@@ -145,8 +145,7 @@
     }
   ],
   "publicReferences": [
-    "https://library.municode.com/co/parker/codes/municipal_code?nodeId=TIT13LADEOR_CH13.08DEST_13.08.090LABUSC",
-    "https://www.pwsd.org/3366/Watering-Restrictions"
+    "https://library.municode.com/co/parker/codes/municipal_code?nodeId=TIT13LADEOR_CH13.08DEST_13.08.090LABUSC"
   ],
   "checked": "2026-09-12"
 }

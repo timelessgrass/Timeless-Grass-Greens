@@ -11,7 +11,7 @@ answer:
   answer: They can. Turf covers the surface, not the soil below it. Colorado State University Extension puts a pocket gopher's main tunnel 4 to 18 inches down, and gophers gnaw plastic irrigation lines. Voles need cover, such as mulch and fabric-covered beds beside the turf. Control the animals before you install. Then decide on a wire mesh layer under the base, and gravel or conduit around the lines that stay.
 faq:
   - q: What mesh size keeps out both gophers and voles?
-    a: 'Quarter-inch is the size that shows up in both sets of guidance. <a href="https://www.extension.colostate.edu/docs/pubs/natres/06515.pdf" target="_blank" rel="nofollow noopener">CSU Extension</a> gives ¼- to ½-inch hardware cloth for gophers. <a href="https://ipm.ucanr.edu/home-and-landscape/voles/" target="_blank" rel="nofollow noopener">UC IPM</a> gives ¼ inch or smaller for voles. Galvanized or stainless steel lasts longer, but <a href="https://extension.usu.edu/crops/research/pocket-gophers" target="_blank" rel="nofollow noopener">Utah State University Extension</a> says galvanized mesh will eventually rust away.'
+    a: 'Quarter-inch is the size that shows up in both sets of guidance. <a href="https://www.extension.colostate.edu/docs/pubs/natres/06515.pdf" target="_blank" rel="nofollow noopener">CSU Extension</a> gives ¼- to ½-inch hardware cloth for gophers. <a href="https://ipm.ucanr.edu/home-and-landscape/voles/" target="_blank" rel="nofollow noopener">UC IPM</a> gives ¼ inch or smaller for voles. Galvanized or stainless steel lasts longer, but Utah State University Extension says galvanized mesh will eventually rust away.'
   - q: Will ultrasonic spikes or repellents keep gophers out from under turf?
     a: 'Not on the evidence. <a href="https://ipm.ucanr.edu/home-and-landscape/pocket-gophers/" target="_blank" rel="nofollow noopener">UC IPM</a> says vibrating stakes, ultrasonic devices and wind-powered pinwheels were not effective in research trials, and no repellent currently sold successfully protects plants from gophers. For voles, it lists ultrasonic devices and flooding as ineffective in landscapes.'
   - q: How do I protect a drip line that still runs beside the turf?
@@ -110,7 +110,7 @@ Mesh sizes in the sources:
 Quarter-inch is the size that covers both. Three cautions come from the same sources:
 
 - **Edges.** CSU's buried gopher fence goes at least 18 inches down, with a 6-inch apron bent outward toward the gopher. UC's goes at least 2 feet. UC notes a determined gopher can still tunnel under the wire.
-- **Rust.** UC recommends galvanized or stainless steel for a longer life. [Utah State University Extension](https://extension.usu.edu/crops/research/pocket-gophers) says galvanized mesh is not a permanent solution, because it will eventually rust away.
+- **Rust.** UC recommends galvanized or stainless steel for a longer life. Utah State University Extension says galvanized mesh is not a permanent solution, because it will eventually rust away.
 - **Tree roots.** UC warns that wire can restrict and damage tree roots. Keep mesh out of root zones, and read [artificial turf around trees](/blog/artificial-turf-around-trees/) before you plan near one.
 
 Mesh goes down before the base. Adding it later means lifting the turf. Our article on [what goes under artificial turf](/blog/what-goes-under-artificial-turf/) covers the other layers.

@@ -17,7 +17,7 @@ faq:
   - q: Can the base be reused when the turf is replaced?
     a: Often, if it's still level, compacted and draining. Reusing a sound base saves a lot of work and time. If it has settled, holds water or was never built to drain, it gets repaired or rebuilt before new turf goes down.
   - q: What happens to the old turf?
-    a: Mostly landfill. <a href="https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf" target="_blank" rel="nofollow noopener">New Jersey's environment department</a> found that landfill or incineration is still standard practice. It reports that recycling synthetic turf is held back by high costs, too few facilities and weak policy.
+    a: Mostly landfill. New Jersey's environment department found that landfill or incineration is still standard practice. It reports that recycling synthetic turf is held back by high costs, too few facilities and weak policy.
 sources:
   - label: 'Raspanti et al., New Jersey Department of Environmental Protection (2025): synthetic turf and the current science'
     url: https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf
@@ -54,13 +54,12 @@ related:
   markets: []
   guides:
     - colorado-turf-law
-publicReferences:
-  - https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf
+publicReferences: []
 ---
 
 ## The number: about 10 to 12 years
 
-The clearest recent figure comes from [New Jersey's environment department](https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf): "With proper maintenance, synthetic turf fields are expected to last approximately 10-12 years, at which point the surface components must be removed and replaced."
+The clearest recent figure comes from New Jersey's environment department: "With proper maintenance, synthetic turf fields are expected to last approximately 10-12 years, at which point the surface components must be removed and replaced."
 
 One industry estimate runs a little shorter: usually 8 to 10 years, and up to 10 to 12 with good care ([Sports Venue Calculator](https://sportsvenuecalculator.com/knowledge/artificial-turf-field/turf-field-replacement-and-recycling/)). Both point the same way. A decade is a fair planning number, and maintenance decides which end of the range you get.
 
@@ -78,7 +77,7 @@ Four things do most of the damage.
 
 ## Infill is the part you replace most
 
-Infill does a lot of the work on a field. It holds the fibers upright, adds shock absorption and helps drainage, according to the [New Jersey study](https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf). It's usually a mix of rubber or plastic granules, though sand, walnut shells, coconut fiber, cork or silica can take their place.
+Infill does a lot of the work on a field. It holds the fibers upright, adds shock absorption and helps drainage, according to the New Jersey study. It's usually a mix of rubber or plastic granules, though sand, walnut shells, coconut fiber, cork or silica can take their place.
 
 It also migrates. Pellets that wash or kick out of a field "break into smaller pieces which, if they are less than 5 mm, are considered microplastics." Heavier infills, such as coated sand, are less likely to wash away in heavy rain. Keeping infill at its specified depth is the simplest way to keep hardness in check and slow the wear.
 
@@ -117,8 +116,8 @@ The old turf mostly goes to a landfill. New Jersey found landfill or incineratio
 
 ## Rules to check at replacement time
 
-- **Colorado:** artificial turf on athletic fields of play was exempted from the state's 2024 turf law ([SB24-005](https://leg.colorado.gov/bills/sb24-005)), and the 2025 amendment defines sports fields as functional turf ([HB25-1113](https://content.leg.colorado.gov/sites/default/files/2025a_1113_signed.pdf)). Our [Colorado turf law guide](/guides/colorado-turf-law/) has the detail.
-- **Horry County:** confirm the stormwater review path for the full replacement or reconstruction scope, including excavation, drains and outfalls ([county permitting guidance](https://www.horrycountysc.gov/departments/stormwater/engineers/construction/storm-water-permitting/)).
+- **Colorado:** artificial turf on athletic fields of play was exempted from the state's 2024 turf law ([SB24-005](https://leg.colorado.gov/bills/sb24-005)), and the 2025 amendment defines sports fields as functional turf (HB25-1113). Our [Colorado turf law guide](/guides/colorado-turf-law/) has the detail.
+- **Horry County:** confirm the stormwater review path for the full replacement or reconstruction scope, including excavation, drains and outfalls (county permitting guidance).
 - **Florida:** the state's 2026 turf standard doesn't apply to athletic fields ([Florida DEP](https://floridadep.gov/sites/default/files/SyntheticTurfFAQ%20final.pdf)). Your county's stormwater rules still do.
 
 ## Planning checklist for field managers

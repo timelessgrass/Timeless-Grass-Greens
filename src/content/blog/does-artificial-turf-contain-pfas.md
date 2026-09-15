@@ -17,7 +17,7 @@ faq:
   - q: Can a lab test prove turf is PFAS-free?
     a: Not a narrow one. Massachusetts' <a href="https://www.turi.org/publications/per-and-poly-fluoroalkyl-substances-pfas-in-artificial-turf-carpet/" target="_blank" rel="nofollow noopener">Toxics Use Reduction Institute</a> points out that not finding a few specific PFAS does not mean a material is free of them. A total fluorine test or a TOP assay tells you more.
   - q: Is PFAS in turf a health risk?
-    a: Nobody can say yet. New Jersey's environment department concluded in <a href="https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf" target="_blank" rel="nofollow noopener">its 2025 report</a> that there is not enough evidence on how much PFAS the body absorbs from turf, or how toxic it is, to decide either way.
+    a: Nobody can say yet. New Jersey's environment department concluded in its 2025 report that there is not enough evidence on how much PFAS the body absorbs from turf, or how toxic it is, to decide either way.
 sources:
   - label: 'U.S. EPA: PFAS explained'
     url: https://www.epa.gov/pfas/pfas-explained
@@ -54,7 +54,6 @@ related:
     - florida-turf-infill-rules
     - colorado-water-rebates-and-turf
 publicReferences:
-  - https://dep.nj.gov/wp-content/uploads/dsr/pfas-artificial-turf-memo-2023.pdf
   - https://www.turi.org/publications/per-and-poly-fluoroalkyl-substances-pfas-in-artificial-turf-carpet/
 ---
 
@@ -62,7 +61,7 @@ publicReferences:
 
 PFAS are a large family of man-made chemicals. The [EPA](https://www.epa.gov/pfas/pfas-explained) counts thousands of them, notes that they break down very slowly, and says exposure to some of them may be linked to harmful health effects in people and animals.
 
-Some have turned up in artificial turf. New Jersey's environment department pulled the research together in a [2025 report](https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf). PFAS have been detected in turf fibers, infill and backing. But experiments show limited evidence that they get out into the ground or water around a field.
+Some have turned up in artificial turf. New Jersey's environment department pulled the research together in a 2025 report. PFAS have been detected in turf fibers, infill and backing. But experiments show limited evidence that they get out into the ground or water around a field.
 
 The report leans on a Swedish study that tested infill, blades and backing from 18 fields for 23 known PFAS:
 
@@ -74,7 +73,7 @@ Those totals stayed under New Jersey's interim soil standards for PFOA, PFOS, PF
 
 ## Most of it seems to stay inside the plastic
 
-A narrow test only finds the chemicals it looks for. So researchers also measure total fluorine, a broader sign that PFAS may be present. New Jersey's [2023 memo](https://dep.nj.gov/wp-content/uploads/dsr/pfas-artificial-turf-memo-2023.pdf) walks through what the same Stockholm team found that way in 51 samples:
+A narrow test only finds the chemicals it looks for. So researchers also measure total fluorine, a broader sign that PFAS may be present. New Jersey's 2023 memo walks through what the same Stockholm team found that way in 51 samples:
 
 - **Total fluorine turned up in every sample:** 16 to 313 ppm in backing, 12 to 310 in infill and 24 to 661 in blades.
 - **Extractable PFAS turned up in 42% of samples**, at levels more than ten times lower.

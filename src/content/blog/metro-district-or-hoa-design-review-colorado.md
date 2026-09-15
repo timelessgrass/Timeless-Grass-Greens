@@ -15,7 +15,7 @@ faq:
   - q: Where does the money for a district's design review office come from?
     a: From the area it serves. <a href="https://colorado.public.law/statutes/crs_32-1-1004" target="_blank" rel="nofollow noopener">C.R.S. 32-1-1004(8)(b)</a> lets a district provide covenant enforcement and design review only if the revenue funding those services comes from the area within the district that receives them.
   - q: Is Sterling Ranch's design review office a metropolitan district?
-    a: No. Design review at Sterling Ranch runs through the <a href="https://www.sterlingranchcab.com/201/Design-Review-Documents" target="_blank" rel="nofollow noopener">Sterling Ranch Community Authority Board</a>, a public body distinct from the community's own metropolitan districts. Confirm the exact body and document for your own community rather than assuming the pattern carries over.
+    a: No. Design review at Sterling Ranch runs through the Sterling Ranch Community Authority Board, a public body distinct from the community's own metropolitan districts. Confirm the exact body and document for your own community rather than assuming the pattern carries over.
   - q: If a district enforces my covenant, does Colorado's backyard turf protection still apply?
     a: The protection sits in the declaration itself, not in who enforces it. <a href="https://colorado.public.law/statutes/crs_38-33.3-106.5" target="_blank" rel="nofollow noopener">C.R.S. 38-33.3-106.5(1)(i.5)</a> restricts what association design guidelines may say about nonvegetative turf grass in a backyard. A district enforcing that same declaration under 32-1-1004(8)(a) is enforcing a document still bound by that limit.
   - q: Can I find both documents myself before the free visit?
@@ -41,7 +41,6 @@ related:
 publicReferences:
   - https://colorado.public.law/statutes/crs_32-1-1004
   - https://colorado.public.law/statutes/crs_38-33.3-106.5
-  - https://www.sterlingranchcab.com/201/Design-Review-Documents
 ---
 
 ## The decision: find the document before you draw the layout
@@ -63,7 +62,7 @@ Practically, that means the answer to "who reviews my plan" isn't a guess based 
 
 ## What a public design review office actually looks like
 
-Where a district or a community's own public body does hold that role, the process usually looks like an architectural review committee's — a submittal packet, a plan you turn in before work starts, and standard forms for common project types. The [Sterling Ranch Community Authority Board's Design Review Documents](https://www.sterlingranchcab.com/201/Design-Review-Documents) page is a working example: it posts landscape submittal packets, a professional-landscaper application form, and simple one-sheet guides for common backyard projects.
+Where a district or a community's own public body does hold that role, the process usually looks like an architectural review committee's — a submittal packet, a plan you turn in before work starts, and standard forms for common project types. The Sterling Ranch Community Authority Board's Design Review Documents page is a working example: it posts landscape submittal packets, a professional-landscaper application form, and simple one-sheet guides for common backyard projects.
 
 Two things are worth noting about that example. First, the body running design review at Sterling Ranch is the Community Authority Board, a public body the community lists separately from its own metropolitan districts — not a single metropolitan district acting on its own. The label on the door matters, because the statute that grants review power is written for "the metropolitan district," and a differently structured public body has to find its own authority elsewhere. Second, even a public design review office built for efficiency still asks for the same basics an HOA's architectural review committee would: a plan for what you're proposing, submitted before the work begins.
 

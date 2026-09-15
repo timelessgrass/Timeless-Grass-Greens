@@ -11,7 +11,7 @@ answer:
   answer: Plan for turf beyond the required deck, not on it. South Carolina bans carpet within a public pool's minimum deck widths and requires a non-slip, impervious deck. Florida requires wet decks of concrete or other nonabsorbent material with a slip-resistant finish. North Carolina requires every deck and walkway to be slip-resistant and impervious. None of these rules names artificial turf, so ask the health department before changing anything.
 faq:
   - q: How wide is the deck turf has to stay off in South Carolina?
-    a: For a Type B pool, the class that covers hotels, condominiums and subdivisions, <a href="https://des.sc.gov/sites/des/files/Library/Regulations/R.61-51.pdf" target="_blank" rel="nofollow noopener">Regulation 61-51</a> requires at least 4 feet of continuous deck, or 6 feet for a pool over 1,600 square feet. Type A pools open to the general public need 6 feet. Add at least 3 feet on the sides and rear of ladders, handrails, lifeguard chairs, and diving or slide equipment.
+    a: For a Type B pool, the class that covers hotels, condominiums and subdivisions, Regulation 61-51 requires at least 4 feet of continuous deck, or 6 feet for a pool over 1,600 square feet. Type A pools open to the general public need 6 feet. Add at least 3 feet on the sides and rear of ladders, handrails, lifeguard chairs, and diving or slide equipment.
   - q: Is a small HOA pool in Florida covered by the state pool rules?
     a: Partly. <a href="https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0514/Sections/0514.0115.html" target="_blank" rel="nofollow noopener">Fla. Stat. 514.0115</a> exempts pools serving homeowners' associations of no more than 32 units or parcels, not operated as public lodging, from supervision under the chapter, except for water quality and a few listed sections. Condominium pools serving 32 units or fewer have a similar exemption. Confirm your pool's status with the county health department before planning around it.
   - q: Can turf line the walkway from the pool to the restrooms in Florida?
@@ -47,7 +47,6 @@ sources:
     url: http://reports.oah.state.nc.us/ncac/title%2015a%20-%20environmental%20quality/chapter%2018%20-%20environmental%20health/subchapter%20a/15a%20ncac%2018a%20.2509.pdf
     checked: '2026-09-12'
 publicReferences:
-  - https://des.sc.gov/sites/des/files/Library/Regulations/R.61-51.pdf
   - https://www.floridahealth.gov/wp-content/uploads/2025/08/poolchecklistfbc8thed9-1-24.docx
   - http://reports.oah.state.nc.us/ncac/title%2015a%20-%20environmental%20quality/chapter%2018%20-%20environmental%20health/subchapter%20a/15a%20ncac%2018a%20.2522.pdf
 related:
@@ -71,7 +70,7 @@ None of these rules names artificial turf. Whether a synthetic surface could eve
 
 A hotel, condo or community pool usually is, even when only residents and their guests swim there.
 
-South Carolina's [Regulation 61-51](https://des.sc.gov/sites/des/files/Library/Regulations/R.61-51.pdf) sorts public pools into types. Type B covers pools at hotels, motels, apartments, condominium developments, subdivisions and similar uses. A pool built with a single-family home or duplex, used by that household and its guests, falls outside the definition.
+South Carolina's Regulation 61-51 sorts public pools into types. Type B covers pools at hotels, motels, apartments, condominium developments, subdivisions and similar uses. A pool built with a single-family home or duplex, used by that household and its guests, falls outside the definition.
 
 Florida's definition in [Fla. Stat. 514.011](https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0514/Sections/0514.011.html) lists pools serving subdivisions and cooperative living projects of five or more units, such as apartments, hotels and townhouses. Smaller associations get a carve-out: [Fla. Stat. 514.0115](https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0514/Sections/0514.0115.html) exempts pools serving HOAs of no more than 32 units or parcels, not run as public lodging, from most state supervision. Water quality still applies. Ask your county health department which side your pool sits on before you rely on it.
 

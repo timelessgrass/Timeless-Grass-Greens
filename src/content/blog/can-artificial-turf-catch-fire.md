@@ -11,13 +11,13 @@ answer:
   answer: Yes. Artificial turf can melt or burn, and a product’s small-flame test result does not make it fireproof. Keep open flames, embers and hot equipment away from the surface. Where wildfire exposure is a concern, use the applicable fire guidance to decide where turf should stop.
 faq:
   - q: Is artificial turf fire-resistant?
-    a: Not in the way that matters in a wildfire. A pass on the pill test shows a surface resists <a href="https://www.cpsc.gov/Business--Manufacturing/Business-Education/Business-Guidance/Carpets-and-Rugs" target="_blank" rel="nofollow noopener">a small ignition source</a>, and <a href="https://store.astm.org/d2859-16r21.html" target="_blank" rel="nofollow noopener">ASTM's scope note</a> says the test doesn't, by itself, assess fire hazard or fire risk under real fire conditions. Wildfire guidance from <a href="https://wildfireprepared.org/wp-content/uploads/WPH-How-To-Prepare-My-Home-Checklist.pdf" target="_blank" rel="nofollow noopener">IBHS</a> treats artificial turf as combustible groundcover.
+    a: Not in the way that matters in a wildfire. A pass on the pill test shows a surface resists a small ignition source, and <a href="https://store.astm.org/d2859-16r21.html" target="_blank" rel="nofollow noopener">ASTM's scope note</a> says the test doesn't, by itself, assess fire hazard or fire risk under real fire conditions. Wildfire guidance from IBHS treats artificial turf as combustible groundcover.
   - q: Can I put a fire pit or grill on artificial turf?
     a: Not directly on it. The fibers are plastic, and the UK's sports surface builders tell field managers that even <a href="https://sapca.org.uk/wp-content/uploads/2018/07/SAPCA_Code_of_Practice_Construction_Maintenance_Synthetic_Turf_01.pdf" target="_blank" rel="nofollow noopener">a dropped cigarette can melt them</a>. Give a fire pit or grill its own pad of pavers, gravel or concrete, with the turf edge well back from it.
   - q: What does a pill test pass actually mean?
     a: Under the <a href="https://www.law.cornell.edu/cfr/text/16/1630.4" target="_blank" rel="nofollow noopener">federal carpet and rug standard</a>, a methenamine tablet is set in the center of an 8-inch hole in a flattening frame laid on the sample, then lit with a match. The product passes if the char stops more than 1 inch from the edge of the hole on at least seven of eight samples. It measures how a surface handles a tiny flame in a lab.
   - q: Can my HOA require a fire buffer instead of turf in Colorado?
-    a: It can. Colorado law stops an association banning turf in the back yard of a detached home, but <a href="https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf" target="_blank" rel="nofollow noopener">SB23-178</a> keeps carve-outs for bona fide safety requirements and for fire buffers and defensible space. Ask your board for its rule in writing before you plan turf against the house.
+    a: It can. Colorado law stops an association banning turf in the back yard of a detached home, but SB23-178 keeps carve-outs for bona fide safety requirements and for fire buffers and defensible space. Ask your board for its rule in writing before you plan turf against the house.
 sources:
   - label: '16 CFR 1630.4, Standard for the Surface Flammability of Carpets and Rugs (FF 1-70): test procedure and acceptance criterion'
     url: https://www.law.cornell.edu/cfr/text/16/1630.4
@@ -66,12 +66,11 @@ related:
     - colorado-hoa-turf-rules
 publicReferences:
   - https://store.astm.org/d2859-16r21.html
-  - https://wildfireprepared.org/wp-content/uploads/WPH-How-To-Prepare-My-Home-Checklist.pdf
 ---
 
 ## Yes. Turf is plastic
 
-Artificial turf fibers are made of polyethylene, nylon or polypropylene, according to [New Jersey's Department of Environmental Protection](https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf). Plastic softens and melts with enough heat, and it burns.
+Artificial turf fibers are made of polyethylene, nylon or polypropylene, according to New Jersey's Department of Environmental Protection. Plastic softens and melts with enough heat, and it burns.
 
 The small stuff shows it first. The UK's Sports and Play Construction Association tells field managers to treat synthetic pitches as no-smoking areas, because [a dropped cigarette can melt the fibers](https://sapca.org.uk/wp-content/uploads/2018/07/SAPCA_Code_of_Practice_Construction_Maintenance_Synthetic_Turf_01.pdf) and leave a mark. Treat grill coals, fire-pit sparks and fireworks the same way.
 
@@ -88,13 +87,13 @@ Here is how it works under [16 CFR 1630](https://www.law.cornell.edu/cfr/text/16
 - The lab measures how far the char spread.
 - The product passes if the char stays more than 1 inch from the edge of the hole on at least seven of eight samples.
 
-The [Consumer Product Safety Commission](https://www.cpsc.gov/Business--Manufacturing/Business-Education/Business-Guidance/Carpets-and-Rugs) describes these standards as a test of surface flammability when exposed to a small ignition source. That is all it is. [ASTM's scope note for D2859](https://store.astm.org/d2859-16r21.html) says the test describes how a material responds to heat and flame under controlled conditions, and doesn't, by itself, assess fire hazard or fire risk in a real fire.
+The Consumer Product Safety Commission describes these standards as a test of surface flammability when exposed to a small ignition source. That is all it is. [ASTM's scope note for D2859](https://store.astm.org/d2859-16r21.html) says the test describes how a material responds to heat and flame under controlled conditions, and doesn't, by itself, assess fire hazard or fire risk in a real fire.
 
 So a pass tells you a small flame won't spread far across the surface in a lab. It doesn't make turf fire-resistant, and it says nothing about embers in a wildfire.
 
 ## Wildfire: keep turf out of the first 5 feet
 
-Wind-driven embers are the leading cause of home ignitions, according to the [Insurance Institute for Business & Home Safety](https://wildfireprepared.org/wp-content/uploads/WPH-How-To-Prepare-My-Home-Checklist.pdf) (IBHS). Its guidance calls for a [0–5 foot noncombustible zone](https://ibhs.org/wildfire/near-building-noncombustible-zone/) around a building, because embers collect at the base of exterior walls, and anything burning there puts flame and radiant heat against the house.
+Wind-driven embers are the leading cause of home ignitions, according to the Insurance Institute for Business & Home Safety (IBHS). Its guidance calls for a [0–5 foot noncombustible zone](https://ibhs.org/wildfire/near-building-noncombustible-zone/) around a building, because embers collect at the base of exterior walls, and anything burning there puts flame and radiant heat against the house.
 
 The IBHS Wildfire Prepared Home checklist is specific about the ground in that zone:
 

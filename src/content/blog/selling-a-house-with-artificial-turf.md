@@ -11,11 +11,11 @@ answer:
   answer: Colorado's SPD19 (mandatory from 1 January 2026) asks about drainage and grading (Section J), HOA or covenant violations, improvements made without association approval, and permitted or unpermitted alterations (L6-L9), and curb, paving or landscaping requirements (M7). North Carolina's REC 4.22 covers drainage, grading and soil stability (E1), zoning or covenant violations (E2), permits (E3), easements (E4) and alleged HOA violations (H3). South Carolina's statute covers zoning, covenants, land-use restrictions and HOA governance. Keep your association approval letter, any permit and your drainage notes.
 faq:
   - q: Does Colorado's SPD19 ask about my turf directly?
-    a: 'No line names artificial turf. Section J asks about flooding, drainage and grading problems "ever existing," and Section L asks about covenant or association violations, improvements built in the past year without association approval, and alterations made with or without a building permit (<a href="https://dre.colorado.gov/sites/dre/files/documents/Seller%27s%20Property%20Disclosure%20%28Residential%29%20CLEAN.pdf" target="_blank" rel="nofollow noopener">Colorado Real Estate Commission, SPD19</a>). If your turf project touches any of those, answer about the project, not about turf as a category.'
+    a: 'No line names artificial turf. Section J asks about flooding, drainage and grading problems "ever existing," and Section L asks about covenant or association violations, improvements built in the past year without association approval, and alterations made with or without a building permit (Colorado Real Estate Commission, SPD19). If your turf project touches any of those, answer about the project, not about turf as a category.'
   - q: When does SPD19 become mandatory in Colorado?
-    a: The Colorado Real Estate Commission adopted SPD19 on 5 August 2025, and use of the form becomes mandatory on 1 January 2026 (<a href="https://dre.colorado.gov/sites/dre/files/documents/Seller%27s%20Property%20Disclosure%20%28Residential%29%20CLEAN.pdf" target="_blank" rel="nofollow noopener">Colorado Real Estate Commission, SPD19</a>). A sale that closes before that date may still use the prior form; check with your listing broker.
+    a: The Colorado Real Estate Commission adopted SPD19 on 5 August 2025, and use of the form becomes mandatory on 1 January 2026 (Colorado Real Estate Commission, SPD19). A sale that closes before that date may still use the prior form; check with your listing broker.
   - q: What does North Carolina's REC 4.22 ask about a turf project?
-    a: 'Section E asks about drainage, grading or soil-stability problems (E1), zoning or restrictive-covenant violations (E2), building-code violations including missing permits (E3), and easements (E4). If you answer yes to having an owners'' association, H3 then asks about any existing or alleged violation of the association''s governing documents involving the property (<a href="https://www.ncrec.gov/Forms/Consumer/rec422.pdf" target="_blank" rel="nofollow noopener">North Carolina Real Estate Commission, REC 4.22</a>).'
+    a: 'Section E asks about drainage, grading or soil-stability problems (E1), zoning or restrictive-covenant violations (E2), building-code violations including missing permits (E3), and easements (E4). If you answer yes to having an owners'' association, H3 then asks about any existing or alleged violation of the association''s governing documents involving the property (North Carolina Real Estate Commission, REC 4.22).'
   - q: What does South Carolina require me to disclose?
     a: 'The disclosure statute requires you to address "the zoning laws, restrictive covenants, building codes, and other land-use restrictions affecting the real property" and any encroachment or government notice, plus whether the property is subject to an owners'' association under the state''s HOA Act (<a href="https://www.scstatehouse.gov/code/t27c050.php" target="_blank" rel="nofollow noopener">S.C. Code 27-50-40</a>). You also have the option to make no representations on any item and say so in writing.'
   - q: What should I have on hand before I fill out the form?
@@ -40,8 +40,6 @@ related:
   guides:
     - colorado-hoa-turf-rules
 publicReferences:
-  - https://dre.colorado.gov/sites/dre/files/documents/Seller%27s%20Property%20Disclosure%20%28Residential%29%20CLEAN.pdf
-  - https://www.ncrec.gov/Forms/Consumer/rec422.pdf
   - https://www.scstatehouse.gov/code/t27c050.php
 ---
 
@@ -53,7 +51,7 @@ This article does not tell you how to answer any specific question on your form 
 
 ## Colorado: SPD19, mandatory from 1 January 2026
 
-The Colorado Real Estate Commission adopted a new Seller's Property Disclosure (Residential), form SPD19, on 5 August 2025. Its use becomes mandatory for Colorado sales on 1 January 2026 ([Colorado Real Estate Commission, SPD19](https://dre.colorado.gov/sites/dre/files/documents/Seller%27s%20Property%20Disclosure%20%28Residential%29%20CLEAN.pdf)). If you're listing a Denver-metro property after that date, this is the form your listing broker will use.
+The Colorado Real Estate Commission adopted a new Seller's Property Disclosure (Residential), form SPD19, on 5 August 2025. Its use becomes mandatory for Colorado sales on 1 January 2026 (Colorado Real Estate Commission, SPD19). If you're listing a Denver-metro property after that date, this is the form your listing broker will use.
 
 Three sections are the ones a turf project is most likely to reach:
 
@@ -74,7 +72,7 @@ For what an HOA can and can't require of Colorado turf in the first place, see o
 
 ## North Carolina: REC 4.22
 
-North Carolina's Residential Property and Owners' Association Disclosure Statement, REC 4.22, is required under N.C.G.S. 47E for most residential sales, delivered to the buyer before any offer ([North Carolina Real Estate Commission, REC 4.22](https://www.ncrec.gov/Forms/Consumer/rec422.pdf)). It covers your Grand Strand-area property in Brunswick County the same way it covers the rest of the state.
+North Carolina's Residential Property and Owners' Association Disclosure Statement, REC 4.22, is required under N.C.G.S. 47E for most residential sales, delivered to the buyer before any offer (North Carolina Real Estate Commission, REC 4.22). It covers your Grand Strand-area property in Brunswick County the same way it covers the rest of the state.
 
 Section E, Land/Zoning, has four lines that read almost like a checklist for a turf project:
 

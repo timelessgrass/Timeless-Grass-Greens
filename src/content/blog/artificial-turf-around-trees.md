@@ -14,7 +14,7 @@ answer:
 faq:
   - q: How far from a tree trunk should artificial turf stop?
     a: >-
-      No single distance fits every tree, but written rules give you a floor. <a href="https://www.thorntonwater.com/wp-content/uploads/2026/02/2026-residential_artificial_turf_info__rules-1.pdf" target="_blank" rel="nofollow noopener">Thornton's 2026 turf rules</a> require three feet from the trunk of a deciduous tree and keep turf outside the drip line of an evergreen. <a href="https://coab.us/DocumentCenter/View/15920/Turf-Installation-Guidelines" target="_blank" rel="nofollow noopener">Atlantic Beach, Florida</a> asks for at least 18 to 24 inches from the base where turf has to go under a canopy. The farther back the edge sits, the fewer roots the base touches.
+      No single distance fits every tree, but written rules give you a floor. <a href="https://www.thorntonwater.com/wp-content/uploads/2026/02/2026-residential_artificial_turf_info__rules-1.pdf" target="_blank" rel="nofollow noopener">Thornton's 2026 turf rules</a> require three feet from the trunk of a deciduous tree and keep turf outside the drip line of an evergreen. Atlantic Beach, Florida asks for at least 18 to 24 inches from the base where turf has to go under a canopy. The farther back the edge sits, the fewer roots the base touches.
   - q: Does Florida's turf rule cover my neighbor's tree?
     a: >-
       Yes. <a href="https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc" target="_blank" rel="nofollow noopener">Rule 62-308.100</a> bars synthetic turf inside tree drip lines on your property or adjacent properties. The exceptions are a tree listed as a noxious weed, or a certified arborist certifying from the specific site that the install would not harm the tree. The rule covers single-family lots of an acre or less. Your county or city can tell you how it applies to your lot.
@@ -91,7 +91,7 @@ Three sets of rules in the areas we serve spell out tree limits. What follows is
 
 **Florida, statewide.** [Rule 62-308.100](https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc), in force since 19 May 2026, sets minimum standards for synthetic turf on single-family lots of an acre or less. An install "cannot compromise the health of nearby trees," root damage included. Turf may not go inside a tree's drip line, on your lot or a neighbor's, unless the tree is a listed noxious weed or a certified arborist certifies from the specific site that it would not harm the tree.
 
-**Atlantic Beach, Florida.** The city's [turf installation guidelines](https://coab.us/DocumentCenter/View/15920/Turf-Installation-Guidelines) say turf should stay out from under drip lines where possible. Where it has to go under a canopy:
+**Atlantic Beach, Florida.** The city's turf installation guidelines say turf should stay out from under drip lines where possible. Where it has to go under a canopy:
 
 - keep it at least 18 to 24 inches from the base of the tree
 - keep the subbase no deeper than 3 inches

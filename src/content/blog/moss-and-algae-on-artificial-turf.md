@@ -11,7 +11,7 @@ answer:
   answer: Moss or algae can occur on artificial turf, particularly in damp, shaded areas where debris collects. Start by clearing the surface and checking the care instructions. Use only compatible treatment products as labeled, and have recurring growth or persistent standing water assessed before deciding on a repair.
 faq:
   - q: What kills moss and algae on artificial turf?
-    a: A treatment the turf maker approves, after the debris is gone. The <a href="https://cdn.ymaws.com/staging-stc.site-ym.com/resource/resmgr/guidelines/STC_Guidelines_for_Maintenan.pdf" target="_blank" rel="nofollow noopener">Synthetic Turf Council</a> says specialty products exist and to check with whoever built the field, and warns against cleaners with alcohol or acetone solvents. The UK sports surface builders' <a href="https://sapca.org.uk/wp-content/uploads/2018/07/SAPCA_Code_of_Practice_Construction_Maintenance_Synthetic_Turf_01.pdf" target="_blank" rel="nofollow noopener">code of practice</a> calls for a proprietary moss killer and algaecide that isn't oil-based, used as the label directs.
+    a: A treatment the turf maker approves, after the debris is gone. The Synthetic Turf Council says specialty products exist and to check with whoever built the field, and warns against cleaners with alcohol or acetone solvents. The UK sports surface builders' <a href="https://sapca.org.uk/wp-content/uploads/2018/07/SAPCA_Code_of_Practice_Construction_Maintenance_Synthetic_Turf_01.pdf" target="_blank" rel="nofollow noopener">code of practice</a> calls for a proprietary moss killer and algaecide that isn't oil-based, used as the label directs.
   - q: Can I pressure-wash artificial turf to get the moss off?
     a: It's not a job to improvise. The <a href="https://sapca.org.uk/wp-content/uploads/2018/07/SAPCA_Code_of_Practice_Construction_Maintenance_Synthetic_Turf_01.pdf" target="_blank" rel="nofollow noopener">SAPCA code</a> notes that high-pressure cleaning equipment exists for severe cases but calls using it a skilled process, and <a href="https://plantscience.psu.edu/research/centers/ssrc/documents/ftfsynmaint1.pdf/@@download/file/FTFsynmaint1.pdf" target="_blank" rel="nofollow noopener">Penn State researchers</a> warn that overly aggressive cleaning machines can damage turf. Brushing and an approved treatment come first.
   - q: Why does moss grow at the edges and not in the middle?
@@ -61,12 +61,11 @@ related:
     - is-artificial-turf-impervious
 publicReferences:
   - https://sapca.org.uk/wp-content/uploads/2018/07/SAPCA_Code_of_Practice_Construction_Maintenance_Synthetic_Turf_01.pdf
-  - https://cdn.ymaws.com/staging-stc.site-ym.com/resource/resmgr/guidelines/STC_Guidelines_for_Maintenan.pdf
 ---
 
 ## What's growing, and why there
 
-The turf isn't what moss and algae grow in. It's what collects in the turf. The [Synthetic Turf Council](https://cdn.ymaws.com/staging-stc.site-ym.com/resource/resmgr/guidelines/STC_Guidelines_for_Maintenan.pdf) says moss, mold or algae may appear in underused areas of synthetic turf, particularly where it's shaded and damp.
+The turf isn't what moss and algae grow in. It's what collects in the turf. The Synthetic Turf Council says moss, mold or algae may appear in underused areas of synthetic turf, particularly where it's shaded and damp.
 
 The UK sports surface builders' [SAPCA code](https://sapca.org.uk/wp-content/uploads/2018/07/SAPCA_Code_of_Practice_Construction_Maintenance_Synthetic_Turf_01.pdf) explains how. Leaves, tree flowers, pine needles and other debris left on the surface rot down quickly into a skin within it. That skin holds back drainage and gives algae and moss a place to grow. The infill adds to it over time: it works as a filter, holding whatever dust and grit the wind and rain bring in.
 
@@ -81,7 +80,7 @@ Wet ground is the common thread on the coast.
 - **The Grand Strand.** Under Leon fine sand, found in Horry County, the water table sits 6 to 18 inches down for one to four months in most years, according to the [USDA soil series description](https://soilseries.sc.egov.usda.gov/OSD_Docs/L/LEON.html). Our [Grand Strand page](/grand-strand/) covers the local ground and rules.
 - **Northeast Florida.** USDA [soil survey data](https://sdmdataaccess.nrcs.usda.gov/) puts 71.4% of mapped acres in Duval, 78.5% in St. Johns and 82.2% in Nassau in the poorly or very poorly drained classes. In St. Johns, 75.7% of mapped acres have the water table within 6 inches of the surface at some point in a normal year. And Jacksonville gets roughly 28.8 inches of rain from June through September, by [NOAA's climate normals](https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00013889&dataTypes=MLY-TMAX-NORMAL,MLY-TMIN-NORMAL,MLY-PRCP-NORMAL&format=json). More on that on our [northeast Florida page](/northeast-florida/).
 
-Turf drains only as fast as the ground under it. As [New Jersey's environment department](https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf) puts it, a product that drains 10 inches an hour doesn't make the soil below drain that fast. A base that sits near a high water table, in the shade of a house or a tree, is slow to dry.
+Turf drains only as fast as the ground under it. As New Jersey's environment department puts it, a product that drains 10 inches an hour doesn't make the soil below drain that fast. A base that sits near a high water table, in the shade of a house or a tree, is slow to dry.
 
 ## How to clear it
 

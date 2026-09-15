@@ -11,13 +11,13 @@ answer:
   answer: Some artificial turf has contained lead, from the pigment used to color the blades. In 2008 the CDC flagged worn nylon and nylon-blend fields, while CPSC staff found lead in some products but estimated exposures under the limit they use for young children. New Jersey still reported lead-based pigments in 2025. Ask for an independent lab result on heavy metals for the exact product you are buying.
 faq:
   - q: Does new turf have lead in it?
-    a: You can't tell by looking. In the <a href="https://www.cpsc.gov/s3fs-public/pdfs/turfassessment.pdf" target="_blank" rel="nofollow noopener">CPSC staff tests</a> from 2008, some green turf sold new that year still held up to 0.47 percent lead by weight, though very little came off in a wipe test. <a href="https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf" target="_blank" rel="nofollow noopener">New Jersey's environment department</a> still described lead-based pigments in turf manufacturing in October 2025. A lab result for the exact product is what answers it.
+    a: You can't tell by looking. In the <a href="https://www.cpsc.gov/s3fs-public/pdfs/turfassessment.pdf" target="_blank" rel="nofollow noopener">CPSC staff tests</a> from 2008, some green turf sold new that year still held up to 0.47 percent lead by weight, though very little came off in a wipe test. New Jersey's environment department still described lead-based pigments in turf manufacturing in October 2025. A lab result for the exact product is what answers it.
   - q: Is nylon turf more likely to contain lead than polyethylene?
-    a: That is what the 2008 testing showed. The <a href="https://stacks.cdc.gov/view/cdc/25186/cdc_25186_DS1.pdf" target="_blank" rel="nofollow noopener">CDC advisory</a> said New Jersey's limited sampling found lead of potential concern in nylon and nylon/polyethylene blend fibers, and very low levels in polyethylene-only fields. It also said not all nylon turf had elevated lead. Treat that as history, not a rule for products sold today, and ask for the test.
+    a: That is what the 2008 testing showed. The CDC advisory said New Jersey's limited sampling found lead of potential concern in nylon and nylon/polyethylene blend fibers, and very low levels in polyethylene-only fields. It also said not all nylon turf had elevated lead. Treat that as history, not a rule for products sold today, and ask for the test.
   - q: Does Florida ban heavy metals in artificial turf?
-    a: On single-family lots of an acre or less, yes. <a href="https://flrules.org/gateway/readFile.asp?sid=0&amp;tid=30839130&amp;type=1&amp;file=62-308.100.doc" target="_blank" rel="nofollow noopener">Rule 62-308.100</a>, in effect since 19 May 2026, says turf, including backing and infill, must not contain heavy metals. <a href="https://coab.us/DocumentCenter/View/15920/Turf-Installation-Guidelines" target="_blank" rel="nofollow noopener">Atlantic Beach</a> separately requires turf free of hazardous materials and heavy metals. Ask your city's building or planning office what paperwork it accepts.
+    a: On single-family lots of an acre or less, yes. <a href="https://flrules.org/gateway/readFile.asp?sid=0&amp;tid=30839130&amp;type=1&amp;file=62-308.100.doc" target="_blank" rel="nofollow noopener">Rule 62-308.100</a>, in effect since 19 May 2026, says turf, including backing and infill, must not contain heavy metals. Atlantic Beach separately requires turf free of hazardous materials and heavy metals. Ask your city's building or planning office what paperwork it accepts.
   - q: Should old turf be tested for lead?
-    a: If it's worn, faded or dusty, ask about it. In 2008 the <a href="https://stacks.cdc.gov/view/cdc/25186/cdc_25186_DS1.pdf" target="_blank" rel="nofollow noopener">CDC</a> recommended testing nylon or nylon-blend turf with abraded, faded or broken fibers or visible dust, and replacing worn, dusty fields as soon as practicable. It sent facility managers to their state or local health or environment department for sampling methods.
+    a: If it's worn, faded or dusty, ask about it. In 2008 the CDC recommended testing nylon or nylon-blend turf with abraded, faded or broken fibers or visible dust, and replacing worn, dusty fields as soon as practicable. It sent facility managers to their state or local health or environment department for sampling methods.
 sources:
   - label: 'U.S. Consumer Product Safety Commission, release 08-348 (30 July 2008): CPSC Staff Finds Synthetic Turf Fields OK to Install, OK to Play On'
     url: https://www.cpsc.gov/Newsroom/News-Releases/2008/CPSC-Staff-Finds-Synthetic-Turf-Fields-OK-to-Install-OK-to-Play-On
@@ -44,7 +44,6 @@ sources:
     url: https://coab.us/DocumentCenter/View/15920/Turf-Installation-Guidelines
     checked: '2026-09-12'
 publicReferences:
-  - https://stacks.cdc.gov/view/cdc/25186/cdc_25186_DS1.pdf
   - https://www.cpsc.gov/s3fs-public/pdfs/turfassessment.pdf
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC2957910/
 related:
@@ -60,13 +59,13 @@ related:
 
 ## Some has, and it came from the color
 
-Lead in turf traces back to pigment. In July 2008 the [Consumer Product Safety Commission](https://www.cpsc.gov/Newsroom/News-Releases/2008/CPSC-Staff-Finds-Synthetic-Turf-Fields-OK-to-Install-OK-to-Play-On) said lead is present in the pigments of some synthetic turf products "to give the turf its various colors." A 2010 paper led by scientists at the federal Agency for Toxic Substances and Disease Registry, published in [Environmental Health Perspectives](https://pmc.ncbi.nlm.nih.gov/articles/PMC2957910/), names the compound: lead chromate, a pigment used in turf fibers.
+Lead in turf traces back to pigment. In July 2008 the Consumer Product Safety Commission said lead is present in the pigments of some synthetic turf products "to give the turf its various colors." A 2010 paper led by scientists at the federal Agency for Toxic Substances and Disease Registry, published in [Environmental Health Perspectives](https://pmc.ncbi.nlm.nih.gov/articles/PMC2957910/), names the compound: lead chromate, a pigment used in turf fibers.
 
 That makes it a question about one product, not turf in general. CPSC staff found that lead content varied between installations, and even within one field depending on color.
 
 ## How it came to light
 
-It started at a ball field in Newark. The [CDC's June 2008 health advisory](https://stacks.cdc.gov/view/cdc/25186/cdc_25186_DS1.pdf) explains that New Jersey health officials, looking into a nearby metal facility, found high lead in the field's dust. The lead did not come from the facility. It came from the turf.
+It started at a ball field in Newark. The CDC's June 2008 health advisory explains that New Jersey health officials, looking into a nearby metal facility, found high lead in the field's dust. The lead did not come from the facility. It came from the turf.
 
 New Jersey then tested more fields. According to the advisory, that limited sampling showed:
 
@@ -108,7 +107,7 @@ The [EHP paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC2957910/) reports two s
 
 The same paper said that, as of 2010, no standardized methods existed to test synthetic turf for lead or to assess the hazard.
 
-Lead has not dropped out of the record. [New Jersey's environment department](https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf) wrote in October 2025 that detectable lead has been found in synthetic turf because lead-based pigments are used in making it, and that lead can harm children's growth and development. It also found limited information on chemicals in turf fibers. For how fiber type fits in, see [polyethylene, nylon or polypropylene turf](/blog/polyethylene-vs-nylon-vs-polypropylene-turf/).
+Lead has not dropped out of the record. New Jersey's environment department wrote in October 2025 that detectable lead has been found in synthetic turf because lead-based pigments are used in making it, and that lead can harm children's growth and development. It also found limited information on chemicals in turf fibers. For how fiber type fits in, see [polyethylene, nylon or polypropylene turf](/blog/polyethylene-vs-nylon-vs-polypropylene-turf/).
 
 ## Not all lead on a field comes from the turf
 
@@ -121,7 +120,7 @@ In a small pilot study the report summarized, 13 blood samples from people aged 
 In northeast Florida, two written rules apply:
 
 - **Statewide.** [Rule 62-308.100](https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc) sets minimum standards for turf on single-family lots of an acre or less. It says turf, "including backing material and infill, must not contain heavy metals." It took effect on 19 May 2026. Our [Florida infill guide](/guides/florida-turf-infill-rules/) covers the rest of it.
-- **Atlantic Beach.** The city's [installation guidelines](https://coab.us/DocumentCenter/View/15920/Turf-Installation-Guidelines) require turf "free of hazardous materials and heavy metals," and list manufacturer product specifications among the documents the city needs to see.
+- **Atlantic Beach.** The city's installation guidelines require turf "free of hazardous materials and heavy metals," and list manufacturer product specifications among the documents the city needs to see.
 
 Neither text names a test method or a numeric limit. Ask your city's building or planning office what it will accept before material is ordered. This is a summary, not legal advice.
 
@@ -129,7 +128,7 @@ Neither text names a test method or a numeric limit. Ask your city's building or
 
 A word like "lead-safe" on a product page is not a document. These carry more weight:
 
-1. **An independent lab report on heavy metals in the yarn.** The Synthetic Turf Council's [landscape buying guide](https://cdn.ymaws.com/www.syntheticturfcouncil.org/resource/resmgr/guidelines/STC_Considerations_When_Buyi.pdf) lists lead, cadmium, chromium, mercury, zinc and tin, compliant with state and ASTM International standards and validated by an independent test lab.
+1. **An independent lab report on heavy metals in the yarn.** The Synthetic Turf Council's landscape buying guide lists lead, cadmium, chromium, mercury, zinc and tin, compliant with state and ASTM International standards and validated by an independent test lab.
 2. **A result for each metal, not only the word "compliant."** A number lets you compare products and answer a city that asks.
 3. **Coverage of backing and infill.** Florida's rule reaches both, not only the blades.
 4. **The same product and color on the report and the quote.** Lead content changed with color in the CPSC tests.

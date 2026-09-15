@@ -45,7 +45,7 @@
       "h2": "Three days a week, and turf needs none of them.",
       "takeaway": "Broomfield caps watering at three days a week, drought or not, on days set by your address. A converted backyard has no schedule to track, because it never needs watering.",
       "paras": [
-        "Broomfield's <a href=\"https://www.broomfield.org/4490/Water-Use-Ordinance\" target=\"_blank\" rel=\"nofollow noopener\">Water Use Ordinance</a> took effect on 1 January 2025 and runs whether or not a drought is declared. Watering is limited to no more than three days a week, only between 6 p.m. and 10 a.m., on a schedule set by your address: even-numbered addresses water Monday, Wednesday and Friday, and odd-numbered addresses water Tuesday, Thursday and Sunday. A leaking sprinkler head has to be fixed within ten days, and hosing down a driveway or patio with water isn't allowed except for a public health or safety reason.",
+        "Broomfield's Water Use Ordinance took effect on 1 January 2025 and runs whether or not a drought is declared. Watering is limited to no more than three days a week, only between 6 p.m. and 10 a.m., on a schedule set by your address: even-numbered addresses water Monday, Wednesday and Friday, and odd-numbered addresses water Tuesday, Thursday and Sunday. A leaking sprinkler head has to be fixed within ten days, and hosing down a driveway or patio with water isn't allowed except for a public health or safety reason.",
         "None of that schedule touches a converted backyard once the turf is down. There's no address parity to track, no ten-day repair clock on a system that isn't there, and nothing to check before deciding whether today is a watering day — because it never is one."
       ]
     },
@@ -55,7 +55,7 @@
       "h2": "A voluntary ask on top of the ordinance, and it can change fast.",
       "takeaway": "Since February 2026, a voluntary Drought Watch asks for two watering days a week, and it can change without much notice. Check the current stage before planning anything else that still needs water.",
       "paras": [
-        "Broomfield declared a <a href=\"https://www.broomfield.org/4249/Water-Use-and-Drought-Levels\" target=\"_blank\" rel=\"nofollow noopener\">Drought Watch</a> on 9 February 2026. It's voluntary: the city asks residents to limit watering to no more than two days a week, tighter than the Water Use Ordinance's three-day cap but not enforced the way that ordinance is. As of today, mandatory restrictions aren't in place.",
+        "Broomfield declared a Drought Watch on 9 February 2026. It's voluntary: the city asks residents to limit watering to no more than two days a week, tighter than the Water Use Ordinance's three-day cap but not enforced the way that ordinance is. As of today, mandatory restrictions aren't in place.",
         "A Drought Watch is also the kind of thing that can change without much notice, as snowpack and deliveries shift through the season. Ask us on the free visit, or check the city's page, for the current stage before you finish planning anything else in the yard that still needs water. A backyard already converted to turf doesn't need to track any of it."
       ]
     }
@@ -81,7 +81,7 @@
     },
     {
       "q": "How many days a week can I water in Broomfield right now?",
-      "a": "Up to three, under the Water Use Ordinance in effect since 1 January 2025 — even-numbered addresses on Monday, Wednesday and Friday, odd-numbered on Tuesday, Thursday and Sunday, only between 6 p.m. and 10 a.m. (<a href=\"https://www.broomfield.org/4490/Water-Use-Ordinance\" target=\"_blank\" rel=\"nofollow noopener\">City of Broomfield</a>). A voluntary Drought Watch declared 9 February 2026 asks residents to cut that to two days (<a href=\"https://www.broomfield.org/4249/Water-Use-and-Drought-Levels\" target=\"_blank\" rel=\"nofollow noopener\">City of Broomfield</a>). Turf doesn't need any of those days."
+      "a": "Up to three, under the Water Use Ordinance in effect since 1 January 2025 — even-numbered addresses on Monday, Wednesday and Friday, odd-numbered on Tuesday, Thursday and Sunday, only between 6 p.m. and 10 a.m. (City of Broomfield). A voluntary Drought Watch declared 9 February 2026 asks residents to cut that to two days (City of Broomfield). Turf doesn't need any of those days."
     },
     {
       "q": "Is artificial turf illegal in Colorado?",
@@ -110,7 +110,5 @@
   ],
   "checked": "2026-09-13",
   "publicReferences": [
-    "https://www.broomfield.org/4490/Water-Use-Ordinance",
-    "https://www.broomfield.org/4249/Water-Use-and-Drought-Levels"
   ]
 }

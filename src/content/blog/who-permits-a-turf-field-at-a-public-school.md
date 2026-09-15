@@ -38,8 +38,6 @@ related:
     - northeast-florida
   guides: []
 publicReferences:
-  - https://codes.findlaw.com/co/title-22-education/co-rev-st-sect-22-32-124/
-  - https://codes.findlaw.com/co/title-24-government-state/co-rev-st-sect-24-33-5-1203/
   - https://www.flsenate.gov/Laws/Statutes/2025/1013.371
 ---
 
@@ -51,9 +49,9 @@ That surprises a lot of facilities directors and booster clubs the first time th
 
 ## Colorado: the Division of Fire Prevention and Control, unless it's delegated
 
-The agency with authority here is the state's Division of Fire Prevention and Control (DFPC), not a city or county building department. [C.R.S. 24-33.5-1203](https://codes.findlaw.com/co/title-24-government-state/co-rev-st-sect-24-33-5-1203/) authorizes the Division to "conduct construction plan reviews and inspect public school and local district college buildings and structures and enforce the codes adopted."
+The agency with authority here is the state's Division of Fire Prevention and Control (DFPC), not a city or county building department. C.R.S. 24-33.5-1203 authorizes the Division to "conduct construction plan reviews and inspect public school and local district college buildings and structures and enforce the codes adopted."
 
-That authority isn't fixed to the state office, though. [C.R.S. 22-32-124(2)(a)(II)](https://codes.findlaw.com/co/title-22-education/co-rev-st-sect-22-32-124/) lets the Division "prequalify an appropriate building department to conduct the necessary plan reviews, issue building permits, conduct inspections, issue certificates of occupancy" for a school project. In practice, a lot of districts along the Front Range work through a local building department that has gone through that prequalification, rather than through the Division's own reviewers. Which one is handling a given field depends on whether that arrangement exists for that district, so it's worth asking directly rather than assuming either way.
+That authority isn't fixed to the state office, though. C.R.S. 22-32-124(2)(a)(II) lets the Division "prequalify an appropriate building department to conduct the necessary plan reviews, issue building permits, conduct inspections, issue certificates of occupancy" for a school project. In practice, a lot of districts along the Front Range work through a local building department that has gone through that prequalification, rather than through the Division's own reviewers. Which one is handling a given field depends on whether that arrangement exists for that district, so it's worth asking directly rather than assuming either way.
 
 Two things follow from that split:
 
@@ -62,7 +60,7 @@ Two things follow from that split:
 
 ## Colorado also requires a site development plan to the local planning commission
 
-Fire and building code review is one track. Land use is another, and it still runs through the local government. [C.R.S. 22-32-124(1)(a)](https://codes.findlaw.com/co/title-22-education/co-rev-st-sect-22-32-124/) requires the board of education to "submit a site development plan for review and comment to the planning commission or governing body" before construction begins, and to "consult with and advise in writing" that body.
+Fire and building code review is one track. Land use is another, and it still runs through the local government. C.R.S. 22-32-124(1)(a) requires the board of education to "submit a site development plan for review and comment to the planning commission or governing body" before construction begins, and to "consult with and advise in writing" that body.
 
 Notice the language: review and comment, not approval. A planning commission weighing in on a school site plan doesn't have the same veto a homeowner's zoning application might face. But it's a real, required step, and it's where questions about setbacks, parking, lighting for a field, or neighboring land use tend to surface. If a booster club or facilities director is trying to map out a timeline for a new or renovated field, this is the meeting to find on the district's calendar, separate from any fire-code plan review.
 

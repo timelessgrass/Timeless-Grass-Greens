@@ -18,7 +18,7 @@ answer:
 faq:
   - q: Does Denver's zoning code even mention artificial turf?
     a: >-
-      Not by name. <a href="https://denvergov.org/files/assets/public/v/12/community-planning-and-development/documents/zoning/denver-zoning-code/denver_zoning_code_article10_design_standards.pdf" target="_blank" rel="nofollow noopener">Denver Zoning Code 10.5.4.6</a>
+      Not by name. Denver Zoning Code 10.5.4.6
       names what counts as live plant material (including turf or sod) and what counts as
       non-live material (organic mulch, or permeable gravel or stone). Artificial turf isn't on
       either list, so the code is silent on it rather than permitting it.
@@ -55,7 +55,6 @@ sources:
     url: https://up.codes/viewer/denver/igcc-2021/chapter/5/site-sustainability
     checked: '2026-09-14'
 publicReferences:
-  - https://denvergov.org/files/assets/public/v/12/community-planning-and-development/documents/zoning/denver-zoning-code/denver_zoning_code_article10_design_standards.pdf
   - https://up.codes/viewer/denver/igcc-2021/chapter/5/site-sustainability
 related:
   services:
@@ -69,7 +68,7 @@ related:
 
 ## The decision: plan turf as an amenity, not as required landscaping
 
-If you're developing or renovating a commercial site in Denver, the question isn't whether artificial turf looks good in the layout. It's whether it can count toward the landscaping the zoning code already requires. Under the [Denver Zoning Code](https://denvergov.org/files/assets/public/v/12/community-planning-and-development/documents/zoning/denver-zoning-code/denver_zoning_code_article10_design_standards.pdf), the answer is no. The code's landscaping material standards list living turf and sod as an acceptable live plant material, and list only organic mulch and permeable gravel or stone as acceptable non-live material. Artificial turf sits on neither list.
+If you're developing or renovating a commercial site in Denver, the question isn't whether artificial turf looks good in the layout. It's whether it can count toward the landscaping the zoning code already requires. Under the Denver Zoning Code, the answer is no. The code's landscaping material standards list living turf and sod as an acceptable live plant material, and list only organic mulch and permeable gravel or stone as acceptable non-live material. Artificial turf sits on neither list.
 
 That doesn't rule turf out of a Denver commercial project. It means turf has to be planned for the parts of the site that aren't doing the work of meeting the required landscaped area — a courtyard amenity, a putting green tied to the primary use, or ground outside any build-to range or setback. Settling that distinction before the layout is drawn saves a redesign later.
 
@@ -77,11 +76,11 @@ Colorado's statewide functional-turf law is a separate, earlier question that a 
 
 ## What the zoning code requires, section by section
 
-**Required open area is landscaped, and half of it must be live.** [Section 10.5.4.2](https://denvergov.org/files/assets/public/v/12/community-planning-and-development/documents/zoning/denver-zoning-code/denver_zoning_code_article10_design_standards.pdf) requires all "open areas" within a required build-to range along the applicable street frontage, and all open areas within a required minimum setback, to be landscaped. At least 50 percent of that applicable area must be live plant material; the remaining half may be live or non-live material meeting Section 10.5.4.6. "Open area" is defined by exclusion: it doesn't include buildings, allowed encroachments, required pedestrian connections and walkways, surface parking, or areas other city laws require kept free of live planting.
+**Required open area is landscaped, and half of it must be live.** Section 10.5.4.2 requires all "open areas" within a required build-to range along the applicable street frontage, and all open areas within a required minimum setback, to be landscaped. At least 50 percent of that applicable area must be live plant material; the remaining half may be live or non-live material meeting Section 10.5.4.6. "Open area" is defined by exclusion: it doesn't include buildings, allowed encroachments, required pedestrian connections and walkways, surface parking, or areas other city laws require kept free of live planting.
 
-**Live plant material includes turf or sod — the living kind.** [Section 10.5.4.6](https://denvergov.org/files/assets/public/v/12/community-planning-and-development/documents/zoning/denver-zoning-code/denver_zoning_code_article10_design_standards.pdf) lists what qualifies: deciduous, ornamental and evergreen trees at minimum sizes, shrubs, vines and ornamental grasses, ground cover, "turf or sod," and other similar-quality live material. All of it must be continuously maintained in a live and growing condition, and coverage is calculated at plant maturity. The section then lists non-live material separately: organic mulch, or gravel or stone designed or placed to allow permeability. Two lists, and artificial turf isn't named on either.
+**Live plant material includes turf or sod — the living kind.** Section 10.5.4.6 lists what qualifies: deciduous, ornamental and evergreen trees at minimum sizes, shrubs, vines and ornamental grasses, ground cover, "turf or sod," and other similar-quality live material. All of it must be continuously maintained in a live and growing condition, and coverage is calculated at plant maturity. The section then lists non-live material separately: organic mulch, or gravel or stone designed or placed to allow permeability. Two lists, and artificial turf isn't named on either.
 
-**A reserved frontage area for phased development carries its own 50 percent rule.** [Section 10.3.3.4](https://denvergov.org/files/assets/public/v/12/community-planning-and-development/documents/zoning/denver-zoning-code/denver_zoning_code_article10_design_standards.pdf) applies when a multi-building site develops in phases and an early phase won't yet meet the build-to or street-activation standards. The applicant must reserve the entire street frontage, at least 60 feet deep, free of parking and utilities, and improve that reserved area with at least 50 percent live landscape material under 10.5.4.6 — the same live-material standard, applied to a temporary condition rather than a finished building line.
+**A reserved frontage area for phased development carries its own 50 percent rule.** Section 10.3.3.4 applies when a multi-building site develops in phases and an early phase won't yet meet the build-to or street-activation standards. The applicant must reserve the entire street frontage, at least 60 feet deep, free of parking and utilities, and improve that reserved area with at least 50 percent live landscape material under 10.5.4.6 — the same live-material standard, applied to a temporary condition rather than a finished building line.
 
 **A permanent outdoor amenity may fall outside the open area calculation.** 10.5.4.2's definition of open area excludes "area dedicated to permanent outdoor amenities related to the primary use, such as an outdoor eating and serving area." That's the door a commercial turf amenity — a putting green tied to a hospitality use, for example — might walk through, but the code gives one example (outdoor dining) and doesn't name turf. Confirm with the Zoning Administrator whether your specific amenity qualifies before you count on the exclusion.
 

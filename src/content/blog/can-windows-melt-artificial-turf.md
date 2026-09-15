@@ -11,7 +11,7 @@ answer:
   answer: Yes. Concentrated reflected sunlight can shrink or melt turf fibers. A damaged patch alone does not identify the source, so record when and where a bright reflection appears. Discuss the glass and possible screening with the window professional before repairing turf or changing the window.
 faq:
   - q: Is it my window or my neighbor's?
-    a: It can be either. On a hot, sunny day, look for a small, very bright spot on the turf and trace it back to the glass; the <a href="https://cdn.ymaws.com/www.syntheticturfcouncil.org/resource/resmgr/guidelines/STC_Considerations_When_Buyi.pdf" target="_blank" rel="nofollow noopener">Synthetic Turf Council</a> notes the beam can come from a second story. When the window is next door, <a href="https://www.nahb.org/-/media/NAHB/advocacy/docs/legal-issues/construction-liability/builder-resources/sunlight-double-paned-low-e-windows-2014.pdf?rev=fb03e4331f8141efbda3508a579d00d2&hash=F7B7A97FA265DB9CF04D00587A3135A5" target="_blank" rel="nofollow noopener">NAHB</a> notes that a screen or awning needs your neighbor's cooperation, and that plants or a barrier on your side that block the beam work too.
+    a: It can be either. On a hot, sunny day, look for a small, very bright spot on the turf and trace it back to the glass; the Synthetic Turf Council notes the beam can come from a second story. When the window is next door, <a href="https://www.nahb.org/-/media/NAHB/advocacy/docs/legal-issues/construction-liability/builder-resources/sunlight-double-paned-low-e-windows-2014.pdf?rev=fb03e4331f8141efbda3508a579d00d2&hash=F7B7A97FA265DB9CF04D00587A3135A5" target="_blank" rel="nofollow noopener">NAHB</a> notes that a screen or awning needs your neighbor's cooperation, and that plants or a barrier on your side that block the beam work too.
   - q: Will a window screen stop it?
     a: It usually helps a lot. <a href="https://www.nahb.org/-/media/NAHB/advocacy/docs/legal-issues/construction-liability/builder-resources/sunlight-double-paned-low-e-windows-2014.pdf?rev=fb03e4331f8141efbda3508a579d00d2&hash=F7B7A97FA265DB9CF04D00587A3135A5" target="_blank" rel="nofollow noopener">NAHB</a> reports that an exterior screen has been shown to reduce the damage by diffusing the reflection, and <a href="https://www.cardinalcorp.com/wp-content/uploads/2023/01/IG14_08-2022.pdf" target="_blank" rel="nofollow noopener">one glass manufacturer states</a> that a screen can block more than 40% of the reflected energy. Fixed windows and casements often can't take an exterior screen, so an awning or a barrier is the fallback.
   - q: Can a window reflection start a fire?
@@ -44,7 +44,6 @@ related:
   guides: []
 publicReferences:
   - https://www.nahb.org/-/media/NAHB/advocacy/docs/legal-issues/construction-liability/builder-resources/sunlight-double-paned-low-e-windows-2014.pdf?rev=fb03e4331f8141efbda3508a579d00d2&hash=F7B7A97FA265DB9CF04D00587A3135A5
-  - https://cdn.ymaws.com/www.syntheticturfcouncil.org/resource/resmgr/guidelines/STC_Considerations_When_Buyi.pdf
 ---
 
 ## Yes, and the window's shape is the reason
@@ -61,7 +60,7 @@ NAHB reports the focused reflection has been measured above 200°F at its point 
 
 Siding gets the attention because a wall is a big target. NAHB also lists damage reports for other plastic products, including car parts, lawn furniture, decking and window trim, and LBNL adds house wraps and garbage cans.
 
-Turf fibers are plastic too: polyethylene, nylon or polypropylene, according to [New Jersey's environment department](https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf). The [Synthetic Turf Council](https://cdn.ymaws.com/www.syntheticturfcouncil.org/resource/resmgr/guidelines/STC_Considerations_When_Buyi.pdf), the industry's trade association, has reported random instances of polyethylene turf fibers shrinking and melting from reflected heat, particularly off low-e glass. The published temperature measurements are of siding, not turf, so treat any exact "melting point" you see quoted with care.
+Turf fibers are plastic too: polyethylene, nylon or polypropylene, according to New Jersey's environment department. The Synthetic Turf Council, the industry's trade association, has reported random instances of polyethylene turf fibers shrinking and melting from reflected heat, particularly off low-e glass. The published temperature measurements are of siding, not turf, so treat any exact "melting point" you see quoted with care.
 
 A spot on the lawn is in direct sun as well, so the beam adds to heat that's already there. Our article on [how hot artificial turf gets](/blog/how-hot-does-artificial-turf-get/) covers the direct-sun side. Flames are a separate question: NAHB found no reported fires from window reflections, and [can artificial turf catch fire?](/blog/can-artificial-turf-catch-fire/) covers what can set turf alight.
 

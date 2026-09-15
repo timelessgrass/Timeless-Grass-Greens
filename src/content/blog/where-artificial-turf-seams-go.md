@@ -11,7 +11,7 @@ answer:
   answer: Seams go wherever one piece of turf meets the next. Turf is typically made in rolls a nominal 15 feet wide, so any area wider than that in both directions has at least one seam, and corners, curves and cut-outs add more. Seams are commonly glued to seaming tape underneath and fastened down. Where they fall is decided on the layout drawing, so ask to see every seam marked before you approve it.
 faq:
   - q: Can artificial turf go in without any seams?
-    a: Only if the area fits inside one width of the roll. The <a href="https://cdn.ymaws.com/staging-stc.site-ym.com/resource/resmgr/guidelines/STC_Suggested_Guidelines_for.pdf" target="_blank" rel="nofollow noopener">Synthetic Turf Council</a>, the industry's trade association, says turf rolls are typically a nominal 15 feet wide, and its specification charts run from 12 to 15 feet. Check the width on your product sheet. Anything wider than that in both directions needs at least one seam.
+    a: Only if the area fits inside one width of the roll. The Synthetic Turf Council, the industry's trade association, says turf rolls are typically a nominal 15 feet wide, and its specification charts run from 12 to 15 feet. Check the width on your product sheet. Anything wider than that in both directions needs at least one seam.
   - q: Are turf seams glued or sewn?
     a: Either, according to the trade association's guidelines, which describe seams glued with a supplemental backing material or sewn with high-strength thread. Some local rules choose for you. <a href="https://www.thorntonwater.com/wp-content/uploads/2026/02/2026-residential_artificial_turf_info__rules-1.pdf" target="_blank" rel="nofollow noopener">Thornton's 2026 turf rules</a> require every seam to be glued, not sewn.
   - q: How tight should a turf seam be?
@@ -57,7 +57,7 @@ publicReferences:
 
 Artificial turf is made in long rolls. When your lawn is bigger than one piece, two pieces are joined, and that join is the seam.
 
-The width of the roll decides most of it. The [Synthetic Turf Council](https://cdn.ymaws.com/staging-stc.site-ym.com/resource/resmgr/guidelines/STC_Suggested_Guidelines_for.pdf), the industry's trade association, says turf is made in panels or rolls "typically a nominal 15 feet wide." Its specification charts list widths from 12 to 15 feet. So the number to plan with is the width printed on the product sheet for your turf.
+The width of the roll decides most of it. The Synthetic Turf Council, the industry's trade association, says turf is made in panels or rolls "typically a nominal 15 feet wide." Its specification charts list widths from 12 to 15 feet. So the number to plan with is the width printed on the product sheet for your turf.
 
 Two simple rules follow:
 
@@ -101,7 +101,7 @@ The trade association describes two ways to join turf: glued with a supplemental
 
 When glue is used, a fabric seaming tape sits under the backing on both sides of the join. An industrial adhesive bonds the turf to that tape. The council lists urethane, epoxy, hot-melt and water-based latex adhesives, and says they should resist water, fungus and mildew.
 
-For lawns, the council's [buying guidelines for landscape turf](https://cdn.ymaws.com/www.syntheticturfcouncil.org/resource/resmgr/guidelines/STC_Considerations_When_Buyi.pdf) tell you to get confirmation of the seam adhesive: one formulated for synthetic grass, with proven weather resistance, and usually not sold in home supply stores.
+For lawns, the council's buying guidelines for landscape turf tell you to get confirmation of the seam adhesive: one formulated for synthetic grass, with proven weather resistance, and usually not sold in home supply stores.
 
 Local rules can add more:
 

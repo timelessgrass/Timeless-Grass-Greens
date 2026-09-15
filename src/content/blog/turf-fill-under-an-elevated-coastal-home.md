@@ -11,7 +11,7 @@ answer:
   answer: Sometimes, in small amounts. In V zones, fill for structural support of the building is prohibited outright. Minor grading and minor nonstructural fill are allowed for landscaping, drainage and support of slabs, decks, patios and walkways, and floodwater still has to pass freely beneath the house. FEMA treats up to 2 feet as generally acceptable without an engineering analysis. Confirm your county's own threshold before the layout is final.
 faq:
   - q: Is any fill under a piling-elevated home automatically allowed?
-    a: 'No. NFIP regulations at <a href="https://www.law.cornell.edu/cfr/text/44/60.3" target="_blank" rel="nofollow noopener">44 CFR 60.3(e)(6)</a> require communities to prohibit fill used for structural support of buildings in V zones. What''s allowed is minor grading and minor nonstructural fill for landscaping, drainage, and support of parking slabs, pool decks, patios and walkways, under <a href="https://www.fema.gov/sites/default/files/2020-07/fema_tb5_free_obstruction_requirements.pdf" target="_blank" rel="nofollow noopener">FEMA NFIP Technical Bulletin 5</a>, Section 7.5.'
+    a: 'No. NFIP regulations at <a href="https://www.law.cornell.edu/cfr/text/44/60.3" target="_blank" rel="nofollow noopener">44 CFR 60.3(e)(6)</a> require communities to prohibit fill used for structural support of buildings in V zones. What''s allowed is minor grading and minor nonstructural fill for landscaping, drainage, and support of parking slabs, pool decks, patios and walkways, under FEMA NFIP Technical Bulletin 5, Section 7.5.'
   - q: How much fill can go under the house before it needs an engineer?
     a: FEMA's bulletin says up to 2 feet of fill under or around an elevated building "can generally be assumed to comply" with the free-of-obstruction rule without an engineering analysis, provided basic site drainage principles aren't violated and there's nothing site-specific that would make the fill damaging. That's FEMA's own starting assumption. Communities can set a stricter one, so the county floodplain administrator has the number that applies to your lot.
   - q: Does the fill have to be a certain type?
@@ -35,7 +35,6 @@ related:
     - oceanfront-turf-cccl-and-beachfront-setback
     - brunswick-and-horry-county-turf-permit-steps
 publicReferences:
-  - https://www.fema.gov/sites/default/files/2020-07/fema_tb5_free_obstruction_requirements.pdf
   - https://www.law.cornell.edu/cfr/text/44/60.3
 ---
 
@@ -49,7 +48,7 @@ The short version: no fill for structural support, ever. Minor grading and minor
 
 The starting point is federal, not municipal. National Flood Insurance Program regulations at [44 CFR 60.3(e)(6)](https://www.law.cornell.edu/cfr/text/44/60.3) require every participating community to "prohibit the use of fill for structural support of buildings" in Zones V1-30, VE and V. Every coastal community on the Grand Strand that participates in the NFIP has adopted a version of this prohibition, because participation requires it.
 
-[FEMA NFIP Technical Bulletin 5](https://www.fema.gov/sites/default/files/2020-07/fema_tb5_free_obstruction_requirements.pdf) (March 2020), Section 7.5, spells out what's left once structural fill is off the table:
+FEMA NFIP Technical Bulletin 5 (March 2020), Section 7.5, spells out what's left once structural fill is off the table:
 
 - **Minor grading** and **minor quantities of nonstructural fill** are allowed in Zone V, but only for landscaping, drainage under and around buildings, and support of parking slabs, pool decks, patios, walkways and similar site elements.
 - That fill "should not prevent the free passage of floodwater and waves beneath elevated buildings, divert floodwater or waves such that building damage is exacerbated, or lead to damaging flood and wave conditions on a site or adjacent sites."

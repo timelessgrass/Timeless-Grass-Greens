@@ -11,7 +11,7 @@ answer:
   answer: Scrub most stains with hot, not boiling, water and a household detergent your turf maker approves, using a stiff synthetic brush, then rinse and pat dry. Freeze gum with ice and chip it off. Soak up motor oil with towels, vacuum out the affected infill, wash the fibers with dish soap and add new infill. Keep alcohol, acetone and petroleum-based liquids off the turf.
 faq:
   - q: Can I use nail polish remover or rubbing alcohol on artificial turf?
-    a: No. The <a href="https://cdn.ymaws.com/staging-stc.site-ym.com/resource/resmgr/guidelines/STC_Guidelines_for_Maintenan.pdf" target="_blank" rel="nofollow noopener">Synthetic Turf Council’s maintenance guidelines</a> say not to use cleaning chemicals that contain alcohol or acetone solvents. Nail polish remover is one product that can contain acetone, according to the <a href="https://wwwn.cdc.gov/TSP/ToxFAQs/ToxFAQsDetails.aspx?faqid=4&toxid=1" target="_blank" rel="nofollow noopener">ATSDR</a>. Start with hot water and detergent, and ask your turf maker before using anything stronger.
+    a: No. The Synthetic Turf Council’s maintenance guidelines say not to use cleaning chemicals that contain alcohol or acetone solvents. Nail polish remover is one product that can contain acetone, according to the <a href="https://wwwn.cdc.gov/TSP/ToxFAQs/ToxFAQsDetails.aspx?faqid=4&toxid=1" target="_blank" rel="nofollow noopener">ATSDR</a>. Start with hot water and detergent, and ask your turf maker before using anything stronger.
   - q: Can I pressure wash artificial turf?
     a: Be careful. The Synthetic Turf Council lists high-pressure sprays over 500 psi among the things that may damage synthetic turf, along with wire brushes and dry cleaning fluids. Check the care sheet for your turf before you use a pressure washer on it.
   - q: How do I get chewing gum out of artificial turf?
@@ -43,14 +43,13 @@ related:
   markets: []
   guides: []
 publicReferences:
-  - https://cdn.ymaws.com/staging-stc.site-ym.com/resource/resmgr/guidelines/STC_Guidelines_for_Maintenan.pdf
   - https://plantscience.psu.edu/research/centers/ssrc/documents/ftfsynmaint1.pdf/@@download/file/FTFsynmaint1.pdf
   - https://www.epa.gov/hw/household-hazardous-waste-hhw
 ---
 
 ## Start with hot water and detergent
 
-Try the gentlest method first. It handles most stains. The Synthetic Turf Council’s 2013 [maintenance guidelines](https://cdn.ymaws.com/staging-stc.site-ym.com/resource/resmgr/guidelines/STC_Guidelines_for_Maintenan.pdf) say most stains come out with hot, but not boiling, water and a household detergent your turf’s builder approves.
+Try the gentlest method first. It handles most stains. The Synthetic Turf Council’s 2013 maintenance guidelines say most stains come out with hot, but not boiling, water and a household detergent your turf’s builder approves.
 
 1. **Clear the surface.** Scrape off food and blot up liquid before you add water.
 2. **Scrub with hot, soapy water.** Use a stiff brush with synthetic bristles. The same guidelines rule out metal or wire bristles.

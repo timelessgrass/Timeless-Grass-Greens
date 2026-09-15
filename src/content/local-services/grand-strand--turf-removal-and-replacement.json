@@ -55,7 +55,7 @@
       "takeaway": "Ask that the quote says where the old turf and infill go. Horry County's convenience centers take up to 4 cubic yards a day, and neither county names turf, so ask before hauling it.",
       "paras": [
         "Ask that the quote says where the old turf, backing and infill will go, and know the limits before you haul any yourself. In Horry County, only residents of unincorporated areas can use the SWA’s 25 <a href=\"https://www.solidwasteauthority.org/recyclingcenters.html\" target=\"_blank\" rel=\"nofollow noopener\">recycling convenience centers</a>, and each resident can drop off up to 4 cubic yards of material a day. The <a href=\"https://www.solidwasteauthority.org/howdoi.html\" target=\"_blank\" rel=\"nofollow noopener\">SWA landfill</a> at 1886 Highway 90 in Conway takes mixed construction debris and asks for materials to be separated by type, and its <a href=\"https://www.solidwasteauthority.org/construction.html\" target=\"_blank\" rel=\"nofollow noopener\">C&D Processing Facility</a> takes carpet and carpet padding for recycling.",
-        "In Brunswick County, the four <a href=\"https://www.brunswickcountync.gov/417/Convenience-Centers\" target=\"_blank\" rel=\"nofollow noopener\">convenience centers</a> take residential waste from Brunswick County only, and trucks larger than a standard pickup have to use the <a href=\"https://www.brunswickcountync.gov/422/Landfill\" target=\"_blank\" rel=\"nofollow noopener\">county landfill in Bolivia</a>, which also takes only Brunswick County waste. Turf and infill aren’t named on the SWA’s pages or on <a href=\"https://www.brunswickcountync.gov/415/Accepted-Items-Tipping-Fees\" target=\"_blank\" rel=\"nofollow noopener\">Brunswick County’s accepted-items list</a> as of September 2026, so ask the SWA or Brunswick County Solid Waste how to class them before you load a truck."
+        "In Brunswick County, the four convenience centers take residential waste from Brunswick County only, and trucks larger than a standard pickup have to use the county landfill in Bolivia, which also takes only Brunswick County waste. Turf and infill aren’t named on the SWA’s pages or on Brunswick County’s accepted-items list as of September 2026, so ask the SWA or Brunswick County Solid Waste how to class them before you load a truck."
       ]
     },
     {
@@ -76,7 +76,7 @@
     },
     {
       "q": "Will storm debris pickup take old turf?",
-      "a": "Ask before you pile it by the road. The Horry County SWA’s <a href=\"https://www.dropbox.com/scl/fi/gibmqestihc2rw1b19adt/2022-HC-Disaster-Debris-Management-Plan-Update.pdf?rlkey=iolm1y2iqc1dx6t7p2mt6uot1&amp;dl=0\" target=\"_blank\" rel=\"nofollow noopener\">Disaster Debris Management Plan</a> (January 2022 update) says media releases should tell residents to set debris along the right-of-way in separate piles, such as vegetative and construction debris, and notes that construction debris typically holds a lot of carpet. It never mentions turf, and it lists a debris lead for each city, so ask your city or the SWA which pile old turf belongs in. In Brunswick County, the county may activate its disaster debris contracts after a storm, but deciding can take several days to weeks; if it does, its <a href=\"https://www.brunswickcountync.gov/418/Disaster-Debris\" target=\"_blank\" rel=\"nofollow noopener\">disaster debris page</a> will post disposal instructions."
+      "a": "Ask before you pile it by the road. The Horry County SWA’s <a href=\"https://www.dropbox.com/scl/fi/gibmqestihc2rw1b19adt/2022-HC-Disaster-Debris-Management-Plan-Update.pdf?rlkey=iolm1y2iqc1dx6t7p2mt6uot1&amp;dl=0\" target=\"_blank\" rel=\"nofollow noopener\">Disaster Debris Management Plan</a> (January 2022 update) says media releases should tell residents to set debris along the right-of-way in separate piles, such as vegetative and construction debris, and notes that construction debris typically holds a lot of carpet. It never mentions turf, and it lists a debris lead for each city, so ask your city or the SWA which pile old turf belongs in. In Brunswick County, the county may activate its disaster debris contracts after a storm, but deciding can take several days to weeks; if it does, its disaster debris page will post disposal instructions."
     },
     {
       "q": "What if the turf is more than 30 feet from the water?",
@@ -173,8 +173,7 @@
     "http://reports.oah.state.nc.us/ncac/title%2015a%20-%20environmental%20quality/chapter%2007%20-%20coastal%20management/subchapter%20j/15a%20ncac%2007j%20.0210.pdf",
     "https://www.deq.nc.gov/coastal-management/september-2021-coastal-resources-commission-minutes/download?attachment",
     "https://www.deq.nc.gov/about/divisions/division-coastal-management/about-coastal-management/dcm-offices-program-areas",
-    "https://www.solidwasteauthority.org/recyclingcenters.html",
-    "https://www.brunswickcountync.gov/417/Convenience-Centers"
+    "https://www.solidwasteauthority.org/recyclingcenters.html"
   ],
   "checked": "2026-09-12"
 }

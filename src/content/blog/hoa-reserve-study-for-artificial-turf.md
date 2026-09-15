@@ -17,7 +17,7 @@ faq:
   - q: Once money sits in the turf reserve, can the board spend it on something else?
     a: Not without a vote. <a href="https://www.flsenate.gov/Laws/Statutes/2025/720.303" target="_blank" rel="nofollow noopener">Fla. Stat. 720.303(6)(h)</a> keeps reserve funds, and the interest they earn, restricted to the purpose they were reserved for unless the membership approves the other use in advance by majority vote at a quorum meeting.
   - q: Does Colorado require a reserve study on a set schedule?
-    a: 'Not on a set schedule. <a href="https://codes.findlaw.com/co/title-38-property-real-and-personal/co-rev-st-sect-38-33-3-209-5/" target="_blank" rel="nofollow noopener">C.R.S. 38-33.3-209.5(1)(b)(IX)</a> requires the association''s written policy to state when a study is done, whether a funding plan exists, and whether the study uses physical and financial analysis. The statute lets that study be conducted internally.'
+    a: 'Not on a set schedule. C.R.S. 38-33.3-209.5(1)(b)(IX) requires the association''s written policy to state when a study is done, whether a funding plan exists, and whether the study uses physical and financial analysis. The statute lets that study be conducted internally.'
   - q: Who decides whether our turf is its own reserve component or gets folded into "landscaping"?
     a: Your board and its reserve preparer, guided by your governing documents and, in Florida, the statutory formula. We can hand over the manufacturer's expected service life and the installed layout so whoever prepares the study has real numbers to work from, but the classification call belongs to your association.
 sources:
@@ -40,7 +40,6 @@ related:
     - florida-friendly-landscaping-and-hoas
 publicReferences:
   - https://www.flsenate.gov/Laws/Statutes/2025/720.303
-  - https://codes.findlaw.com/co/title-38-property-real-and-personal/co-rev-st-sect-38-33-3-209-5/
 ---
 
 ## The short version
@@ -71,7 +70,7 @@ Two more subsections matter once reserves exist.
 
 Colorado's Common Interest Ownership Act doesn't give associations a computation formula the way Florida does. What it requires is a policy.
 
-Under [C.R.S. 38-33.3-209.5(1)(b)(IX)](https://codes.findlaw.com/co/title-38-property-real-and-personal/co-rev-st-sect-38-33-3-209-5/), every common interest community association must adopt written policies, procedures or rules addressing reserves, and that policy has to state three things:
+Under C.R.S. 38-33.3-209.5(1)(b)(IX), every common interest community association must adopt written policies, procedures or rules addressing reserves, and that policy has to state three things:
 
 1. **When** the association has a reserve study prepared for the portions of the community it maintains, repairs, replaces or improves.
 2. **Whether there's a funding plan** for the work the study recommends, and if so, the projected sources of funding.

@@ -61,7 +61,7 @@ publicReferences:
 
 ## What infill does in a dog run
 
-Infill is the loose layer that sits between the blades. It holds the fibers upright, adds cushion and helps water drain, as [New Jersey's environment department](https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf) describes it. Some systems use little or none, mostly in low-traffic landscapes.
+Infill is the loose layer that sits between the blades. It holds the fibers upright, adds cushion and helps water drain, as New Jersey's environment department describes it. Some systems use little or none, mostly in low-traffic landscapes.
 
 A dog run asks infill to do four more jobs:
 
@@ -84,7 +84,7 @@ No single material wins all four. The right choice is the one that fixes the pro
 
 ## Smell: where zeolite earns its place
 
-Zeolites are natural minerals valued for their "adsorption, ion-exchange" properties, and pet litter is one of their main uses, according to the [U.S. Geological Survey](https://www.usgs.gov/centers/national-minerals-information-center/zeolites-statistics-and-information). A common natural zeolite, clinoptilolite, takes up ammonium, the dissolved form of the ammonia you smell, by swapping it for the sodium, potassium and calcium it already holds ([Wasielewski et al., 2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC7796350/)).
+Zeolites are natural minerals valued for their "adsorption, ion-exchange" properties, and pet litter is one of their main uses, according to the U.S. Geological Survey. A common natural zeolite, clinoptilolite, takes up ammonium, the dissolved form of the ammonia you smell, by swapping it for the sodium, potassium and calcium it already holds ([Wasielewski et al., 2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC7796350/)).
 
 It has a limit. In that 2020 lab study, the zeolite held at most about 15 to 16 milligrams of ammonium per gram. So it buys you margin, not a pass on rinsing. The chemistry behind the smell, and the care and drainage questions to check, are in [why turf smells like dog pee](/blog/why-does-artificial-turf-smell-like-dog-pee/).
 
@@ -109,13 +109,13 @@ MRSA could still be recovered from infill after up to 96 hours. None of this mak
 
 ## Heavy rain: heavy infill stays, rubber floats
 
-This matters on the coast. Rubber pellets "are buoyant and may wash away," the [New Jersey study](https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf) warns, and it advises high-density infills, such as coated sand and zeolite-based infill, where heavy rain is common. [UF/IFAS Extension](https://blogs.ifas.ufl.edu/global/2025/07/15/considering-synthetic-turf-what-homeowners-should-know-before-installation/) adds that runoff from turf can carry heavy metals and other pollutants, "especially when rubber infill is used."
+This matters on the coast. Rubber pellets "are buoyant and may wash away," the New Jersey study warns, and it advises high-density infills, such as coated sand and zeolite-based infill, where heavy rain is common. [UF/IFAS Extension](https://blogs.ifas.ufl.edu/global/2025/07/15/considering-synthetic-turf-what-homeowners-should-know-before-installation/) adds that runoff from turf can carry heavy metals and other pollutants, "especially when rubber infill is used."
 
 In Jacksonville, normal rainfall from June through September adds up to roughly 28.8 inches ([NOAA climate normals](https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00013889&dataTypes=MLY-TMAX-NORMAL,MLY-TMIN-NORMAL,MLY-PRCP-NORMAL&format=json)). On the coast, heavy infill that stays where it was laid is worth a lot.
 
 ## Infill wears down, whatever you choose
 
-No infill stays put forever. [UF/IFAS Extension](https://blogs.ifas.ufl.edu/global/2025/07/15/considering-synthetic-turf-what-homeowners-should-know-before-installation/) notes that synthetic turf "requires periodic brushing and replacement of infill, the granular material between the fibers." The [New Jersey study](https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf) warns that where turf "is poorly maintained, infill losses can be significant."
+No infill stays put forever. [UF/IFAS Extension](https://blogs.ifas.ufl.edu/global/2025/07/15/considering-synthetic-turf-what-homeowners-should-know-before-installation/) notes that synthetic turf "requires periodic brushing and replacement of infill, the granular material between the fibers." The New Jersey study warns that where turf "is poorly maintained, infill losses can be significant."
 
 A thin spot matters for more than looks. Infill holds the blades up and helps water drain, so a patch that has lost it stops doing both jobs well. Check the paths your dog runs and the potty spot each season, and top up with the same material that's already there.
 

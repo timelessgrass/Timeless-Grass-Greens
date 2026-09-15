@@ -15,8 +15,6 @@ export type { Guide } from './guides.types';
 export const GUIDES: Guide[] = [
   {
     "publicReferences": [
-      "https://content.leg.colorado.gov/sites/default/files/2025a_1113_signed.pdf",
-      "https://content.leg.colorado.gov/sites/default/files/2024a_005_signed.pdf"
     ],
     "answer": {
       "question": "Is artificial turf illegal in Colorado?",
@@ -166,8 +164,6 @@ export const GUIDES: Guide[] = [
   },
   {
     "publicReferences": [
-      "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_143/GS_143-214.7D.html",
-      "https://www.horrycountysc.gov/departments/stormwater/engineers/construction/storm-water-permitting/",
       "https://library.municode.com/sc/north_myrtle_beach/codes/code_of_ordinances?nodeId=COOR_CH23ZO_ARTVIIGESURE_S23-129.4STPESUIMSUSIMIDURENOSUSIECDEPLRE"
     ],
     "slug": "nc-vs-sc-built-upon-area",
@@ -851,9 +847,6 @@ export const GUIDES: Guide[] = [
   },
   {
     "publicReferences": [
-      "https://content.leg.colorado.gov/sites/default/files/2021a_1229_signed.pdf",
-      "https://content.leg.colorado.gov/sites/default/files/2023a_178_signed.pdf",
-      "https://codes.findlaw.com/co/title-37-water-and-irrigation/co-rev-st-sect-37-60-126/"
     ],
     "answer": {
       "question": "Can my HOA stop me putting artificial turf in my yard in Colorado?",
@@ -1021,9 +1014,7 @@ export const GUIDES: Guide[] = [
   },
   {
     "publicReferences": [
-      "https://verify.llronline.com/LicLookup/",
       "https://public-nclclb.arlsys.com/Public/Search",
-      "https://apps2.colorado.gov/dora/licensing/Lookup/LicenseLookup.aspx",
       "https://www.myfloridalicense.com/wl11.asp"
     ],
     "answer": {
@@ -1210,9 +1201,6 @@ export const GUIDES: Guide[] = [
   },
   {
     "publicReferences": [
-      "https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf",
-      "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_143/GS_143-214.7D.html",
-      "https://www.horrycountysc.gov/departments/stormwater/engineers/construction/storm-water-permitting/",
       "https://library.municode.com/sc/north_myrtle_beach/codes/code_of_ordinances?nodeId=COOR_CH23ZO_ARTVIIGESURE_S23-129.4STPESUIMSUSIMIDURENOSUSIECDEPLRE"
     ],
     "slug": "is-artificial-turf-impervious",
@@ -1229,7 +1217,7 @@ export const GUIDES: Guide[] = [
       {
         "h2": "Start with the whole installation",
         "body": [
-          "A drainage rate on a turf sample describes one part of the project. <a href=\"https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf\" target=\"_blank\" rel=\"nofollow noopener\">New Jersey DEP’s science review</a> explains that the ground underneath may not absorb water at the same rate as the turf product. The proposed base, existing ground and destination for runoff belong in the installation discussion.",
+          "A drainage rate on a turf sample describes one part of the project. New Jersey DEP’s science review explains that the ground underneath may not absorb water at the same rate as the turf product. The proposed base, existing ground and destination for runoff belong in the installation discussion.",
           "Ask the installer to show the turf product, its drainage documentation and the proposed layers beneath it. Point out existing puddles, downspouts and drains. If water already collects in the yard, make its assessment part of the scope before choosing a finished surface.",
           "Then ask the relevant planning or stormwater office how that assembly is treated for your project. Keep its response with the layout and estimate. The word “permeable” on a product sheet is not enough to answer the classification question."
         ]
@@ -1237,7 +1225,7 @@ export const GUIDES: Guide[] = [
       {
         "h2": "North Carolina has a specific turf provision",
         "body": [
-          "<a href=\"https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_143/GS_143-214.7D.html\" target=\"_blank\" rel=\"nofollow noopener\">G.S. 143-214.7D</a> excludes certain artificial turf from built-upon area for state and local stormwater programs. The turf must be made to drain through its backing and installed to the manufacturer’s specifications over a pervious surface.",
+          "G.S. 143-214.7D excludes certain artificial turf from built-upon area for state and local stormwater programs. The turf must be made to drain through its backing and installed to the manufacturer’s specifications over a pervious surface.",
           "The statute also addresses conflicting local definitions, subject to a federal-law exception. Take the product information and proposed base detail to the reviewing office so the project can be assessed against those conditions. Separately ask whether excavation, grading, work near drainage features or other parts of the proposal require review.",
           "A Shallotte mailing address alone does not identify the reviewing authority. Our <a href=\"/grand-strand/shallotte-nc/\">Shallotte installation page</a> explains how to check town jurisdiction and where to take building-inspection questions."
         ]
@@ -1245,8 +1233,8 @@ export const GUIDES: Guide[] = [
       {
         "h2": "Check the local requirements on the South Carolina side",
         "body": [
-          "For an unincorporated Horry County property, send <a href=\"https://www.horrycountysc.gov/departments/stormwater/engineers/construction/storm-water-permitting/\" target=\"_blank\" rel=\"nofollow noopener\">County Stormwater</a> the full proposal. Its permitting guidance describes staff review of exemption requests. Get a determination for the work instead of relying on the size of the finished lawn.",
-          "North Myrtle Beach has <a href=\"https://library.municode.com/sc/north_myrtle_beach/codes/code_of_ordinances?nodeId=COOR_CH23ZO_ARTVIIGESURE_S23-129.4STPESUIMSUSIMIDURENOSUSIECDEPLRE\" target=\"_blank\" rel=\"nofollow noopener\">written criteria for qualifying pervious surfaces</a>. The City’s <a href=\"https://www.nmb.us/AgendaCenter/ViewFile/Item/1308?fileID=4116\" target=\"_blank\" rel=\"nofollow noopener\">adoption minutes</a> explain that installation details, manufacturer documentation and possible inspections matter. Ask staff which requirements apply to the proposed turf and property type before finalizing the plan.",
+          "For an unincorporated Horry County property, send County Stormwater the full proposal. Its permitting guidance describes staff review of exemption requests. Get a determination for the work instead of relying on the size of the finished lawn.",
+          "North Myrtle Beach has <a href=\"https://library.municode.com/sc/north_myrtle_beach/codes/code_of_ordinances?nodeId=COOR_CH23ZO_ARTVIIGESURE_S23-129.4STPESUIMSUSIMIDURENOSUSIECDEPLRE\" target=\"_blank\" rel=\"nofollow noopener\">written criteria for qualifying pervious surfaces</a>. The City’s adoption minutes explain that installation details, manufacturer documentation and possible inspections matter. Ask staff which requirements apply to the proposed turf and property type before finalizing the plan.",
           "Use the office responsible for the actual parcel. A county response or a neighboring city’s rule does not establish what applies inside another municipality."
         ]
       },
@@ -1297,11 +1285,7 @@ export const GUIDES: Guide[] = [
   {
     "publicReferences": [
       "https://www.thorntonwater.com/wp-content/uploads/2026/02/2026-residential_artificial_turf_info__rules-1.pdf",
-      "https://www.denverwater.org/tap/ditching-useless-turf-coloradoscape-we-can-help",
-      "https://www.auroragov.org/UserFiles/Servers/Server_1881137/File/Residents/Water/Water%20Conservation/Landscape%20rebate/GRIP_Residential_Manual_2026_web_accessible.pdf",
-      "https://crconserve.com/153/Rebates",
       "https://www.highlandsranchwater.org/turf-replacement-program",
-      "https://www.erieco.gov/1962/2026-Turf-Replacement-Rebate-Program"
     ],
     "slug": "colorado-water-rebates-and-turf",
     "title": "Denver Turf Rebates & Water Rules | TIMELESS Grass & Greens",
@@ -1710,8 +1694,6 @@ export const GUIDES: Guide[] = [
       }
     ],
     "publicReferences": [
-      "https://coab.us/DocumentCenter/View/15920/Turf-Installation-Guidelines",
-      "https://www.westminsterco.gov/DocumentCenter/View/1138/City-of-Westminster-Landscape-Regulations-PDF",
       "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0100-0199%2F0125%2FSections%2F0125.572.html"
     ]
   },
@@ -1932,9 +1914,6 @@ export const GUIDES: Guide[] = [
       }
     ],
     "publicReferences": [
-      "https://www.brunswickcountync.gov/248/Stormwater-Ordinance",
-      "https://www.brunswickcountync.gov/874/Unified-Development-Ordinance",
-      "https://www.horrycountysc.gov/departments/stormwater/engineers/construction/storm-water-permitting/"
     ]
   },
   {
@@ -1995,7 +1974,7 @@ export const GUIDES: Guide[] = [
         "h2": "Castle Rock: a square-footage cap on new homes, no front yard turf",
         "body": [
           "Castle Rock's rule is tied to construction date rather than yard visibility. Under the town's ColoradoScape requirement, Ordinance No. 2022-025, homes permitted and built after January 1, 2023 get no artificial turf in the front yard, and no more than 500 sq ft of it in the back yard. Builders submit landscape plans, which the Town reviews and which set a corresponding water budget for the lot.",
-          "A homeowner designing their own landscape can get up to three reviews from the town at no charge, though the water budget itself doesn't change based on design choices. What we have not confirmed is whether artificial turf square footage counts toward that water budget the way irrigated turf does — <a href=\"https://www.crgov.com/3902/Landscape-Design-for-Homeowners\" target=\"_blank\" rel=\"nofollow noopener\">Castle Rock Water</a> is the office to ask before ordering material. See our <a href=\"/denver-metro/castle-rock-co/\">Castle Rock turf page</a>."
+          "A homeowner designing their own landscape can get up to three reviews from the town at no charge, though the water budget itself doesn't change based on design choices. What we have not confirmed is whether artificial turf square footage counts toward that water budget the way irrigated turf does — Castle Rock Water is the office to ask before ordering material. See our <a href=\"/denver-metro/castle-rock-co/\">Castle Rock turf page</a>."
         ]
       },
       {
@@ -2090,8 +2069,6 @@ export const GUIDES: Guide[] = [
     "publicReferences": [
       "https://library.municode.com/co/arvada/codes/code_of_ordinances?nodeId=LADECOARCO_CH4ENSIDE_ART4-6LABU_DIV4-6-7ADTERE_4-6-7-2GRPLBE",
       "https://municode.northglenn.org/ch11/content_11-4.html",
-      "https://www.westminsterco.gov/DocumentCenter/View/1138/City-of-Westminster-Landscape-Regulations-PDF",
-      "https://www.crgov.com/3902/Landscape-Design-for-Homeowners"
     ]
   },
   {
@@ -2186,7 +2163,6 @@ export const GUIDES: Guide[] = [
       }
     ],
     "publicReferences": [
-      "https://www.jeffco.us/DocumentCenter/View/2497/Section-16-Land-Disturbance-PDF",
       "https://files.arapahoeco.gov/Public%20Works_Development/zoning/Land%20Development%20Code/LandDevelopmentCodeRev12102024.pdf"
     ]
   },
@@ -2282,9 +2258,6 @@ export const GUIDES: Guide[] = [
       }
     ],
     "publicReferences": [
-      "https://dfpc.colorado.gov/colorado-wildfire-resiliency-code",
-      "https://dfpc.colorado.gov/sections/wildfire-resiliency-code-board",
-      "https://dfpc.colorado.gov/code-adoption-implementation-resources"
     ]
   },
   {
@@ -2401,7 +2374,6 @@ export const GUIDES: Guide[] = [
     "publicReferences": [
       "https://www.law.cornell.edu/cfr/text/44/60.3",
       "https://www.sjcfl.us/departments/floodplain-management/",
-      "https://www.brunswickcountync.gov/DocumentCenter/View/5460/UDO-Revised-and-Readopted---March-2015-Revision--19Aug24"
     ]
   },
   {
@@ -2419,7 +2391,7 @@ export const GUIDES: Guide[] = [
       {
         "h2": "Which North Carolina communities Chapter 47F covers",
         "body": [
-          "North Carolina homeowners associations are governed mainly by one state law, the Planned Community Act, Chapter 47F of the General Statutes. According to the <a href=\"https://ncdoj.gov/protecting-consumers/home-repair-and-products/homeowners-associations/\" target=\"_blank\" rel=\"nofollow noopener\">North Carolina Department of Justice</a>, subdivisions whose associations were established after January 1, 1999 are governed by Chapter 47F. The statute itself, <a href=\"https://codes.findlaw.com/nc/chapter-47f-north-carolina-planned-community-act/nc-gen-st-sect-47f-1-102/\" target=\"_blank\" rel=\"nofollow noopener\">G.S. 47F-1-102</a>, says the Chapter \"applies to all planned communities created within this State on or after January 1, 1999.\" If your community in Shallotte, Carolina Shores, Sunset Beach or elsewhere in Brunswick County was created after that date, 47F sets the baseline rules for how the board meets, collects assessments, and enforces its own rules — including the fine procedure below.",
+          "North Carolina homeowners associations are governed mainly by one state law, the Planned Community Act, Chapter 47F of the General Statutes. According to the <a href=\"https://ncdoj.gov/protecting-consumers/home-repair-and-products/homeowners-associations/\" target=\"_blank\" rel=\"nofollow noopener\">North Carolina Department of Justice</a>, subdivisions whose associations were established after January 1, 1999 are governed by Chapter 47F. The statute itself, G.S. 47F-1-102, says the Chapter \"applies to all planned communities created within this State on or after January 1, 1999.\" If your community in Shallotte, Carolina Shores, Sunset Beach or elsewhere in Brunswick County was created after that date, 47F sets the baseline rules for how the board meets, collects assessments, and enforces its own rules — including the fine procedure below.",
           "Older communities are not left out entirely, but they are not fully covered either. The General Assembly listed specific sections of 47F that reach back to communities created before 1999 regardless of what the original declaration says, but the statute limits those retroactive sections to events happening on or after January 1, 1999, and says they \"do not invalidate existing provisions\" already on record. Which of those sections apply to your specific community is worth confirming before you assume anything about how a dispute will run. The DOJ page is direct on this point: no state or federal agency oversees homeowners associations, so a disagreement with your board goes to private legal counsel, not a state complaint line."
         ]
       },
@@ -2427,7 +2399,7 @@ export const GUIDES: Guide[] = [
         "h2": "What the statute does, and doesn't, say about turf",
         "body": [
           "Search Chapter 47F for the word turf and you will not find it. Nothing in the statute names synthetic grass, artificial lawn, putting-green surface or any other landscaping material, favorably or otherwise. That is a real difference from other states. Colorado's water law declares a covenant against \"nonvegetative turf grass\" in a residential back yard contrary to public policy — we cover that in our <a href=\"/guides/colorado-hoa-turf-rules/\">guide to Colorado's HOA turf statute</a>. North Carolina has written no equivalent, for a front yard or a back one. If anyone tells you state law protects a right to install turf here, ask them to point to the section. There isn't one to point to.",
-          "The closest the statute comes is <a href=\"https://codes.findlaw.com/nc/chapter-47f-north-carolina-planned-community-act/nc-gen-st-sect-47f-3-102/\" target=\"_blank\" rel=\"nofollow noopener\">G.S. 47F-3-102</a>, which lists the association's general powers. Subsection (6) lets the board \"regulate the use, maintenance, repair, replacement, and modification of common elements\" — the shared property, not your individual lot. What can and cannot go on your own lot is a question the statute leaves to your community's declaration and whatever architectural guidelines it adopted, applied by the board or a committee it appoints. That is also where any drought-related landscaping rule would sit: <a href=\"https://codes.findlaw.com/nc/chapter-47f-north-carolina-planned-community-act/nc-gen-st-sect-47f-3-122/\" target=\"_blank\" rel=\"nofollow noopener\">G.S. 47F-3-122</a> stops a declaration from requiring you to irrigate landscaping while the U.S. Drought Monitor has your area at severe, extreme or exceptional drought and conservation measures are in effect. It is a narrow carve-out about irrigation duties, not a turf rule, and it is the only place the statute gets close to your yard at all."
+          "The closest the statute comes is G.S. 47F-3-102, which lists the association's general powers. Subsection (6) lets the board \"regulate the use, maintenance, repair, replacement, and modification of common elements\" — the shared property, not your individual lot. What can and cannot go on your own lot is a question the statute leaves to your community's declaration and whatever architectural guidelines it adopted, applied by the board or a committee it appoints. That is also where any drought-related landscaping rule would sit: G.S. 47F-3-122 stops a declaration from requiring you to irrigate landscaping while the U.S. Drought Monitor has your area at severe, extreme or exceptional drought and conservation measures are in effect. It is a narrow carve-out about irrigation duties, not a turf rule, and it is the only place the statute gets close to your yard at all."
         ]
       },
       {
@@ -2447,7 +2419,7 @@ export const GUIDES: Guide[] = [
       {
         "h2": "If your board tries to fine you: the notice-and-hearing rule",
         "body": [
-          "If a dispute over an unapproved installation turns into a fine, <a href=\"https://codes.findlaw.com/nc/chapter-47f-north-carolina-planned-community-act/nc-gen-st-sect-47f-3-107-1/\" target=\"_blank\" rel=\"nofollow noopener\">G.S. 47F-3-107.1</a> sets the process the association has to follow, unless the declaration already spells out its own procedure. \"Unless a specific procedure for the imposition of fines or suspension of planned community privileges or services is provided for in the declaration, a hearing shall be held before the executive board or an adjudicatory panel appointed by the executive board.\" Any panel the board appoints has to be made up of association members who are not officers or board members themselves.",
+          "If a dispute over an unapproved installation turns into a fine, G.S. 47F-3-107.1 sets the process the association has to follow, unless the declaration already spells out its own procedure. \"Unless a specific procedure for the imposition of fines or suspension of planned community privileges or services is provided for in the declaration, a hearing shall be held before the executive board or an adjudicatory panel appointed by the executive board.\" Any panel the board appoints has to be made up of association members who are not officers or board members themselves.",
           "Before any fine sticks, you are entitled to \"notice of the charge, opportunity to be heard and to present evidence, and notice of the decision.\" The fine itself is capped: not to exceed $100 per violation, and for a continuing violation, up to $100 per day starting more than five days after the decision, without a further hearing for each of those days. If a panel decided your case rather than the full board, you can appeal by delivering written notice to the executive board within 15 days of the decision, and the board can affirm, vacate or modify what the panel found.",
           "None of that changes whether turf is allowed. It only governs how the board has to treat you if it decides to punish an installation it says violates the declaration. If a fine notice arrives without a hearing, notice of the charge, or a chance to respond, that is a process failure worth raising with the board in writing, and with private counsel if it does not get resolved."
         ]
@@ -2528,8 +2500,6 @@ export const GUIDES: Guide[] = [
     ],
     "publicReferences": [
       "https://ncdoj.gov/protecting-consumers/home-repair-and-products/homeowners-associations/",
-      "https://codes.findlaw.com/nc/chapter-47f-north-carolina-planned-community-act/nc-gen-st-sect-47f-3-107-1/",
-      "https://codes.findlaw.com/nc/chapter-47f-north-carolina-planned-community-act/nc-gen-st-sect-47f-1-102/",
       "https://www.carolinashoresnc.com/communities"
     ]
   },
@@ -2562,7 +2532,7 @@ export const GUIDES: Guide[] = [
       {
         "h2": "St. Augustine: one board reviews every certificate",
         "body": [
-          "St. Augustine does not split review between staff and a board the way Jacksonville does. The city's <a href=\"https://www.citystaug.com/601/Historic-Architectural-Review-Board-HARB\" target=\"_blank\" rel=\"nofollow noopener\">Historic Architectural Review Board (HARB)</a> handles applications for Certificates and Opinions of Appropriateness and for Certificates of Demolition or Relocation, and it can designate landmarks. HARB also processes applications for the historic preservation property tax exemption, for both city and St. Johns County parcels.",
+          "St. Augustine does not split review between staff and a board the way Jacksonville does. The city's Historic Architectural Review Board (HARB) handles applications for Certificates and Opinions of Appropriateness and for Certificates of Demolition or Relocation, and it can designate landmarks. HARB also processes applications for the historic preservation property tax exemption, for both city and St. Johns County parcels.",
           "HARB meets monthly, and an application has to clear a posted deadline to make the next meeting's agenda — the city's own page points applicants to the Planning and Building Department's online portal for both the application and the deadline schedule. Build that meeting cycle into your timeline before you commit to an installation date: a turf project waiting on a certificate cannot start on the schedule a same-city job without historic review would keep."
         ]
       },
@@ -2642,7 +2612,6 @@ export const GUIDES: Guide[] = [
     ],
     "publicReferences": [
       "https://riversideavondale.org/coj-historic-preservation-guidelines/",
-      "https://www.citystaug.com/601/Historic-Architectural-Review-Board-HARB",
       "https://www.sjcfl.us/wp-content/uploads/2024/01/Article-III.pdf"
     ]
   },
@@ -2701,7 +2670,7 @@ export const GUIDES: Guide[] = [
       {
         "h2": "Unincorporated Amelia Island: a 5-inch threshold and a Tree Commission",
         "body": [
-          "Nassau County's Unincorporated Amelia Island Tree Protection and Replacement Ordinance, Ordinance No. 2021-012, was adopted on 9 August 2021 and took effect on 7 February 2022. It is Section 37.02 of the county's Land Development Code, and it applies within the unincorporated areas of Amelia Island. The county's <a href=\"https://www.nassaucountyfl.com/DocumentCenter/View/22775/Tree-Ordinance-Summary\" target=\"_blank\" rel=\"nofollow noopener\">summary</a> sets a lower threshold than St. Johns County. A Protected Tree is any healthy, non-invasive tree of 5 inches DBH or more, and removing one needs a county tree removal permit.",
+          "Nassau County's Unincorporated Amelia Island Tree Protection and Replacement Ordinance, Ordinance No. 2021-012, was adopted on 9 August 2021 and took effect on 7 February 2022. It is Section 37.02 of the county's Land Development Code, and it applies within the unincorporated areas of Amelia Island. The county's summary sets a lower threshold than St. Johns County. A Protected Tree is any healthy, non-invasive tree of 5 inches DBH or more, and removing one needs a county tree removal permit.",
           "A live oak of 40 inches DBH or more, or 60 inches with multiple trunks, is a Specimen Tree. The summary says there are no exemptions for specimen tree removal. It needs approval from the Nassau County-Amelia Island Tree Commission, with a justification such as a dead, fallen or compromised tree, or no feasible design alternative that keeps the tree. The summary adds that removal applications are approved only for just cause, such as new development or hazardous trees.",
           "Some work needs no permit. The summary lists the state-law risk exemption, dead or fallen trees, diseased trees as determined by an ISA-certified arborist, emergencies such as storm damage, and proper pruning. Pruning must still meet ISA and ANSI A300 standards, and tree abuse is subject to penalties. For a removal application, a survey of three or fewer trees need not be certified by an ISA-certified arborist. A survey of four or more must be.",
           "For construction, the summary sets a tree protection zone of six times the DBH, with a 6-foot minimum, and prohibits development activity inside it, including all digging. Its worked example for a 20-inch tree gives 15 feet, more than six times 20 inches. Ask the County Arborist (904-530-6300) which figure applies to your tree, and whether that standard reaches a yard project. Our <a href=\"/northeast-florida/amelia-city-fl/\">Amelia City page</a> covers the island setting."
@@ -2710,7 +2679,7 @@ export const GUIDES: Guide[] = [
       {
         "h2": "Atlantic Beach sets a trunk setback; Jacksonville needs a call",
         "body": [
-          "The City of Atlantic Beach's <a href=\"https://coab.us/DocumentCenter/View/15920/Turf-Installation-Guidelines\" target=\"_blank\" rel=\"nofollow noopener\">Artificial Turf Installation Guidelines</a> — the document carries no date, and we opened it on 12 September 2026 — say turf should not be installed under tree drip lines where possible. If it must go under a drip line, it must sit at least 18 to 24 inches from the base of any tree. Beneath trees, the subbase may be no more than 3 inches deep, lightly compacted only, and permeable to water and oxygen. Elsewhere the same guidelines call for a permeable aggregate base at least 4 inches deep.",
+          "The City of Atlantic Beach's Artificial Turf Installation Guidelines — the document carries no date, and we opened it on 12 September 2026 — say turf should not be installed under tree drip lines where possible. If it must go under a drip line, it must sit at least 18 to 24 inches from the base of any tree. Beneath trees, the subbase may be no more than 3 inches deep, lightly compacted only, and permeable to water and oxygen. Elsewhere the same guidelines call for a permeable aggregate base at least 4 inches deep.",
           "The guidelines bar artificial turf from any City right-of-way, and say an installation must not cause water to pool or concentrate near the base of trees. The city's review asks for a site plan showing locations relative to trees and property lines, and the aggregate subbase must be inspected and approved before the turf goes down. Where the state turf rule reaches your lot, it adds the certified arborist step for turf inside a drip line. Plan for both, and ask the city how it reviews them. More on the city is on our <a href=\"/northeast-florida/atlantic-beach-fl/\">Atlantic Beach page</a>.",
           "For Jacksonville, we could not open the landscape and tree protection provisions of the Ordinance Code, Chapter 656 Part 12, when we checked. Ask the City of Jacksonville Planning and Development Department how Part 12 applies to an existing single-family lot before you plan any removal, or any digging under a canopy."
         ]
@@ -2798,9 +2767,6 @@ export const GUIDES: Guide[] = [
       "https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc",
       "https://www.sjcfl.us/wp-content/uploads/2024/01/Article-IV.pdf",
       "https://stjohnsclerk.com/minrec/OrdinanceBooks/2020/ORD2020-38.pdf",
-      "https://www.nassaucountyfl.com/DocumentCenter/View/22775/Tree-Ordinance-Summary",
-      "https://www.nassaucountyfl.com/1273/Unincorporated-Amelia-Island-Tree-Ordina",
-      "https://coab.us/DocumentCenter/View/15920/Turf-Installation-Guidelines"
     ]
   },
   {

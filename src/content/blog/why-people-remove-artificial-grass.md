@@ -11,11 +11,11 @@ answer:
   answer: People may consider removal when turf is worn, uncomfortable for its intended use or affected by recurring problems. Start by identifying the concern and assessing the installation. Cleaning, a targeted repair, a different layout or replacement may involve very different scopes; a complaint alone does not tell you which is appropriate.
 faq:
   - q: How long should artificial grass last?
-    a: '<a href="https://ask.ifas.ufl.edu/publication/EP612" target="_blank" rel="nofollow noopener">UF/IFAS Extension</a> puts it at perhaps 10 to 20 years, depending on the quality of ongoing care. Sports fields take far more wear: <a href="https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf" target="_blank" rel="nofollow noopener">New Jersey''s environment department</a> expects about 10 to 12 years with proper maintenance.'
+    a: '<a href="https://ask.ifas.ufl.edu/publication/EP612" target="_blank" rel="nofollow noopener">UF/IFAS Extension</a> puts it at perhaps 10 to 20 years, depending on the quality of ongoing care. Sports fields take far more wear: New Jersey''s environment department expects about 10 to 12 years with proper maintenance.'
   - q: Can old turf be replaced without redoing the base?
     a: Sometimes. Have the base, drainage and proposed replacement system assessed together. The written scope should identify what can remain, what needs repair and why any material must be removed. Existing puddles or odor do not establish that the entire base needs rebuilding.
   - q: Can old artificial turf be recycled?
-    a: Rarely, so far. <a href="https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf" target="_blank" rel="nofollow noopener">New Jersey's environment department</a> found that the standard practice is still landfill or incineration, and that very few options exist to reuse or recycle it. Florida's rule for home lawns requires turf to be disposable at a permitted landfill.
+    a: Rarely, so far. New Jersey's environment department found that the standard practice is still landfill or incineration, and that very few options exist to reuse or recycle it. Florida's rule for home lawns requires turf to be disposable at a permitted landfill.
   - q: Will new turf fix a drainage or smell problem?
     a: Not necessarily. Investigate the cleaning routine, infill, drainage and existing installation before choosing a scope. New turf alone does not address an unresolved problem elsewhere in the system.
 sources:
@@ -60,7 +60,6 @@ related:
     - colorado-turf-law
 publicReferences:
   - https://ask.ifas.ufl.edu/publication/EP612
-  - https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf
 ---
 
 ## It got too hot to use
@@ -77,7 +76,7 @@ Many manufacturers recommend a weekly wash-down, according to the same UF/IFAS p
 
 ## Water pooled
 
-Turf drains. The question is where the water goes next. [New Jersey's environment department](https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf) notes that a turf rated to drain 10 inches an hour doesn't mean "the ground underneath will infiltrate at that same rate," and that clay "can quickly become saturated." It adds that "poor installation and inadequate drainage systems can exacerbate flooding."
+Turf drains. The question is where the water goes next. New Jersey's environment department notes that a turf rated to drain 10 inches an hour doesn't mean "the ground underneath will infiltrate at that same rate," and that clay "can quickly become saturated." It adds that "poor installation and inadequate drainage systems can exacerbate flooding."
 
 Over-compacting makes it worse. UF/IFAS points out that turf laid over compacted soil "reduces infiltration" and increases the volume and speed of runoff. A recurring puddle calls for an assessment of the surface, base, underlying ground and intended drainage route. Its location alone does not identify the failed part or establish that a rebuild is needed. What runs off can carry more than water, too: UF/IFAS notes that runoff from turf "can carry heavy metals and other pollutants, especially when rubber infill is used."
 
@@ -95,14 +94,14 @@ Care stretches it. UF/IFAS lists periodic brushing and infill replacement, and f
 
 ## What happens to turf that comes out
 
-Most of it goes to a landfill. [New Jersey's environment department](https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf) found that landfill or incineration is still standard practice, "despite claims that specific components may be recycled or reused." Florida's rule requires home turf systems to be disposable at a permitted landfill. It's one more reason to get the first install right.
+Most of it goes to a landfill. New Jersey's environment department found that landfill or incineration is still standard practice, "despite claims that specific components may be recycled or reused." Florida's rule requires home turf systems to be disposable at a permitted landfill. It's one more reason to get the first install right.
 
 ## New turf has to meet today's rules
 
 Turf that went in years ago may predate the rules its replacement has to meet.
 
 - **Florida:** on a single-family lot of an acre or less, new turf is measured against the 2026 state standard. That means washed base material, water passing through the turf, backing and base, anchoring at every edge and seam, and infill limited to sand, rock, shell or other natural material, with rubber kept to the footprint of playground equipment ([Rule 62-308.100](https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc)).
-- **Colorado:** turf at a single-family home sits outside the state's turf law. On commercial and HOA common property, turf installed before 2026 is grandfathered, but a redevelopment that disturbs more than half the landscape area counts as a new project ([SB24-005](https://content.leg.colorado.gov/sites/default/files/2024a_005_signed.pdf)).
+- **Colorado:** turf at a single-family home sits outside the state's turf law. On commercial and HOA common property, turf installed before 2026 is grandfathered, but a redevelopment that disturbs more than half the landscape area counts as a new project (SB24-005).
 
 ## Can the old base be reused?
 

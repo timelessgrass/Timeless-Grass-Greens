@@ -95,7 +95,7 @@ Turf lets water through its backing. Our article on [how rain drains through tur
 
 Who approves turf depends on your declaration and on your state's condominium law. Here is the short version for our three areas.
 
-**Colorado.** Under [C.R.S. 38-33.3-202](https://codes.findlaw.com/co/title-38-property-real-and-personal/co-rev-st-sect-38-33-3-202/), except as the declaration provides, balconies, patios and porches that serve a single unit but sit outside its boundaries "are limited common elements allocated exclusively to that unit." You get the use of the balcony. It is still part of the common elements.
+**Colorado.** Under C.R.S. 38-33.3-202, except as the declaration provides, balconies, patios and porches that serve a single unit but sit outside its boundaries "are limited common elements allocated exclusively to that unit." You get the use of the balcony. It is still part of the common elements.
 
 **Florida.** [Fla. Stat. 718.113](https://www.flsenate.gov/Laws/Statutes/2025/718.113), in the 2025 statutes, makes three points that matter here:
 

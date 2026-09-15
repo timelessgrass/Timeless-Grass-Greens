@@ -19,7 +19,7 @@ faq:
   - q: Do you need a drainage mat under turf on concrete?
     a: >-
       Ask how water will move under the turf before you decide. For playing fields on conventional asphalt, the
-      <a href="https://cdn.ymaws.com/staging-stc.site-ym.com/resource/resmgr/guidelines/STC_Suggested_Guidelines_for.pdf" target="_blank" rel="nofollow noopener">Synthetic Turf Council's guidelines</a>
+      Synthetic Turf Council's guidelines
       say to consider a drainage mat or a pad between the backing and the pavement, on a sloped surface.
       Without one, they warn, the infill can become saturated in heavy rain and move with the water.
   - q: Will artificial turf on a concrete patio grow mold?
@@ -76,11 +76,11 @@ If any of those fail, take the slab out and build a drainable base. The rest of 
 
 ## Rain goes through the turf, then across the concrete
 
-Outdoor turf is made to let water through its backing. New Jersey's environment department says the backing needs "sufficient openings to let water drain through to the soil or storage area below" ([NJ DEP, October 2025](https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf)).
+Outdoor turf is made to let water through its backing. New Jersey's environment department says the backing needs "sufficient openings to let water drain through to the soil or storage area below" (NJ DEP, October 2025).
 
 Over a stone base, that water soaks down. Over a patio, the layer below is concrete. The water can't go down, so it spreads along the top of the slab until it finds an edge.
 
-The industry has written about this for sports fields built on asphalt. The [Synthetic Turf Council's guidelines](https://cdn.ymaws.com/staging-stc.site-ym.com/resource/resmgr/guidelines/STC_Suggested_Guidelines_for.pdf), revised in November 2011, say a field on conventional asphalt needs a slope, either a crown or a cross slope. They say to consider a drainage mat or a cushioning pad between the turf backing and the pavement, with drains at intervals, so water can move sideways under the surface. Without those, the guidelines warn, the infill "will become saturated during periods of heavy rainfall," and it can travel with the water.
+The industry has written about this for sports fields built on asphalt. The Synthetic Turf Council's guidelines, revised in November 2011, say a field on conventional asphalt needs a slope, either a crown or a cross slope. They say to consider a drainage mat or a cushioning pad between the turf backing and the pavement, with drains at intervals, so water can move sideways under the surface. Without those, the guidelines warn, the infill "will become saturated during periods of heavy rainfall," and it can travel with the water.
 
 A patio isn't a playing field. Water still behaves the same way on it. So the question for any turf on a slab is simple: how does water get from under the turf to the edge?
 

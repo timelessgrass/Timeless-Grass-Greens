@@ -11,7 +11,7 @@ answer:
   answer: It depends on the injury. A 2019 NFL cohort study found 16% more lower-body injuries per play on synthetic turf, mostly noncontact injuries. A 2023 review of 53 studies found similar overall and knee injury rates on new-generation turf, but a higher foot-and-ankle rate, and more knee injuries for elite football players specifically.
 faq:
   - q: Does synthetic turf cause more injuries than grass?
-    a: The two largest bodies of evidence point in slightly different directions. The <a href="https://doi.org/10.1177/0363546518808499" target="_blank" rel="nofollow noopener">2019 NFL cohort study</a> found a 16% higher rate of lower-body injuries per play on synthetic turf across 2012-2016 games. The <a href="https://doi.org/10.1177/03635465211069562" target="_blank" rel="nofollow noopener">2023 systematic review</a> of 53 studies found most new-generation turf research shows similar overall injury rates. Neither finding cancels the other; they measure different things.
+    a: The two largest bodies of evidence point in slightly different directions. The 2019 NFL cohort study found a 16% higher rate of lower-body injuries per play on synthetic turf across 2012-2016 games. The 2023 systematic review of 53 studies found most new-generation turf research shows similar overall injury rates. Neither finding cancels the other; they measure different things.
   - q: Which injuries are more common on turf?
     a: Foot and ankle injuries showed up more often on turf in the 2023 systematic review, in both old-generation (3 of 4 articles) and new-generation turf studies (9 of 19 articles). The NFL cohort study found the turf effect was strongest for noncontact and surface-contact injuries specifically, not contact injuries.
   - q: Are knee injuries more common on turf?
@@ -41,24 +41,22 @@ related:
     - grand-strand
     - northeast-florida
   guides: []
-publicReferences:
-  - https://doi.org/10.1177/0363546518808499
-  - https://doi.org/10.1177/03635465211069562
+publicReferences: []
 ---
 
 ## The short answer
 
 Two studies carry the most weight here, and they don't tell exactly the same story.
 
-A [2019 cohort study in the American Journal of Sports Medicine](https://doi.org/10.1177/0363546518808499) looked at every lower-body injury reported across NFL games from the 2012 through 2016 regular seasons, under the league's mandated injury-reporting rules. It found synthetic turf carried a 16% higher rate of lower-body injuries per play than natural turf. The gap widened when the researchers isolated noncontact and surface-contact injuries — the kind caused by how a foot plants and releases, not by a hit from another player.
+A 2019 cohort study in the American Journal of Sports Medicine looked at every lower-body injury reported across NFL games from the 2012 through 2016 regular seasons, under the league's mandated injury-reporting rules. It found synthetic turf carried a 16% higher rate of lower-body injuries per play than natural turf. The gap widened when the researchers isolated noncontact and surface-contact injuries — the kind caused by how a foot plants and releases, not by a hit from another player.
 
-A [2023 systematic review](https://doi.org/10.1177/03635465211069562), also in the American Journal of Sports Medicine, pulled together 53 studies published between 1972 and 2020, across sports, competition levels and turf generations. Its read was more mixed: most studies of new-generation turf (13 of 18) found overall injury rates similar to grass. But when the reviewers broke injuries down by body part and sport, differences reappeared.
+A 2023 systematic review, also in the American Journal of Sports Medicine, pulled together 53 studies published between 1972 and 2020, across sports, competition levels and turf generations. Its read was more mixed: most studies of new-generation turf (13 of 18) found overall injury rates similar to grass. But when the reviewers broke injuries down by body part and sport, differences reappeared.
 
 For a school board, athletic director or parks committee, the honest summary is: overall injury risk looks roughly comparable on modern turf, but the type of injury shifts, and for football specifically, the shift is toward more knee and ankle injuries on turf, not fewer.
 
 ## What the NFL cohort study found
 
-The [Mack et al. 2019 study](https://doi.org/10.1177/0363546518808499) is the more tightly controlled of the two, because it tracks one sport, one governing body, and a single standardized injury-reporting system across five seasons.
+The Mack et al. 2019 study is the more tightly controlled of the two, because it tracks one sport, one governing body, and a single standardized injury-reporting system across five seasons.
 
 The core numbers:
 
@@ -70,7 +68,7 @@ The authors' explanation is biomechanical: synthetic turf doesn't release a clea
 
 ## What the 53-study review found
 
-The [Gould et al. 2023 systematic review](https://doi.org/10.1177/03635465211069562) covers far more ground than one league or one sport — which is also why its findings are less uniform.
+The Gould et al. 2023 systematic review covers far more ground than one league or one sport — which is also why its findings are less uniform.
 
 Its headline results:
 

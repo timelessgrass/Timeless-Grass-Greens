@@ -15,7 +15,7 @@ faq:
   - q: How close can turf go to a retention pond?
     a: Where no local buffer zone has been set, <a href="https://flrules.org/gateway/readFile.asp?sid=0&amp;tid=30839130&amp;type=1&amp;file=62-308.100.doc" target="_blank" rel="nofollow noopener">Rule 62-308.100</a> keeps turf at least 10 feet from a natural or man-made waterbody, measured from the ordinary or mean high water line. The exception is a physical barrier such as a seawall or bulkhead. Turf also can't go in a stormwater pond or its littoral zone.
   - q: What engineering documentation does Atlantic Beach want?
-    a: The <a href="https://coab.us/DocumentCenter/View/15920/Turf-Installation-Guidelines" target="_blank" rel="nofollow noopener">city's guidelines</a> say it may require engineering documentation showing that stormwater capacity and drainage performance are maintained in a retention or drainage area. They don't say what that document must contain. Ask the city what it needs for your lot before a layout is drawn.
+    a: The city's guidelines say it may require engineering documentation showing that stormwater capacity and drainage performance are maintained in a retention or drainage area. They don't say what that document must contain. Ask the city what it needs for your lot before a layout is drawn.
   - q: If the turf drains fast, why can't it go in a swale?
     a: Because a swale or basin works through its shape and the soil under it, not only its surface. Base stone and grading can take up room the water was meant to fill, and <a href="https://ask.ifas.ufl.edu/publication/EP612" target="_blank" rel="nofollow noopener">UF/IFAS Extension</a> notes that turf installs often compact the soil, which slows infiltration and raises the risk of runoff. Florida's statutes also define a swale as vegetated ground built to help treat stormwater.
 sources:
@@ -47,7 +47,6 @@ related:
     - florida-turf-infill-rules
 publicReferences:
   - https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc
-  - https://coab.us/DocumentCenter/View/15920/Turf-Installation-Guidelines
   - https://ask.ifas.ufl.edu/publication/EP612
 ---
 
@@ -66,7 +65,7 @@ DEP itself doesn't permit, inspect or enforce turf jobs. Its FAQ sends questions
 
 ## Atlantic Beach sets out retention-area conditions
 
-The [City of Atlantic Beach's turf guidelines](https://coab.us/DocumentCenter/View/15920/Turf-Installation-Guidelines), as posted when we checked them on 12 September 2026, speak to this directly. Turf may go in a privately owned stormwater retention or drainage area, but only if it doesn't cut the system's designed storage or function. The conditions, in short:
+The City of Atlantic Beach's turf guidelines, as posted when we checked them on 12 September 2026, speak to this directly. Turf may go in a privately owned stormwater retention or drainage area, but only if it doesn't cut the system's designed storage or function. The conditions, in short:
 
 - **Storage.** The basin keeps its required stormwater volume.
 - **Base and grading.** Stone, grading or fill must keep the basin's original design capacity.
@@ -79,7 +78,7 @@ The two documents use different words. The city's speaks of private retention an
 
 ## Is that low spot a designed drainage feature?
 
-Often you can't tell by looking. A [St. Johns River Water Management District guide](https://www.mountdora.gov/DocumentCenter/View/7626/Stormwater---Neighborhood_Guide) warns that what looks like a natural dip in a back yard may have been designed as a stormwater swale. It describes the common types:
+Often you can't tell by looking. A St. Johns River Water Management District guide warns that what looks like a natural dip in a back yard may have been designed as a stormwater swale. It describes the common types:
 
 - **Retention basin.** Built to hold runoff for about 72 hours while it seeps into the ground. Grass holds the slopes and filters sediment.
 - **Swale.** Shaped to soak water into the ground or carry it on to other waterways. Wet during and just after a storm, generally dry otherwise.

@@ -70,7 +70,7 @@ The three states in our service area each administer a version of this permit lo
 
 - **Florida** issues its own generic permit for construction activity, run through the Department of Environmental Protection ([Florida DEP](https://floridadep.gov/water/stormwater/content/construction-activity)).
 - **North Carolina** runs its NPDES Construction Stormwater Program through the Department of Environmental Quality's Division of Energy, Mineral, and Land Resources, tied to the site's erosion and sediment control plan ([NC DEQ](https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/stormwater/stormwater-program/npdes-construction-program)).
-- **Colorado** issues its general construction permit, numbered COR400000, through the Water Quality Control Division at CDPHE. That division's own permit page lists an "R-Factor waiver for construction sites between 1-5 acres and not part of a larger common plan of development," which confirms the same acre-based structure applies here too ([CDPHE](https://cdphe.colorado.gov/cor400000-stormwater-discharge)).
+- **Colorado** issues its general construction permit, numbered COR400000, through the Water Quality Control Division at CDPHE. That division's own permit page lists an "R-Factor waiver for construction sites between 1-5 acres and not part of a larger common plan of development," which confirms the same acre-based structure applies here too (CDPHE).
 
 South Carolina's stormwater office administers its own construction general permit as well. We could not open that agency's page from this network to quote its text directly, so confirm your project's specifics with SC DES before you plan around it.
 

@@ -12,13 +12,13 @@ answer:
 faq:
   - q: Should I use a leaf blower or a rake on artificial turf?
     a: >-
-      Either, used gently. For blowing small debris off a field, the <a href="https://cdn.ymaws.com/staging-stc.site-ym.com/resource/resmgr/guidelines/STC_Guidelines_for_Maintenan.pdf" target="_blank" rel="nofollow noopener">Synthetic Turf Council</a> says to use minimal throttle and not to point the nozzle directly into the turf. The UK sports surface builders' <a href="https://sapca.org.uk/wp-content/uploads/2018/07/SAPCA_Code_of_Practice_Construction_Maintenance_Synthetic_Turf_01.pdf" target="_blank" rel="nofollow noopener">code of practice</a> calls a wide soft broom or a rubber-tined rake ideal. A 2025 <a href="https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf" target="_blank" rel="nofollow noopener">New Jersey DEP report</a> names leaf blowing, as opposed to raking, among the habits that carry plastic particles off turf fields. Rake where you can.
+      Either, used gently. For blowing small debris off a field, the Synthetic Turf Council says to use minimal throttle and not to point the nozzle directly into the turf. The UK sports surface builders' <a href="https://sapca.org.uk/wp-content/uploads/2018/07/SAPCA_Code_of_Practice_Construction_Maintenance_Synthetic_Turf_01.pdf" target="_blank" rel="nofollow noopener">code of practice</a> calls a wide soft broom or a rubber-tined rake ideal. A 2025 New Jersey DEP report names leaf blowing, as opposed to raking, among the habits that carry plastic particles off turf fields. Rake where you can.
   - q: What happens if I leave leaves on artificial turf?
     a: >-
-      They sink in and break down. The <a href="https://cdn.ymaws.com/staging-stc.site-ym.com/resource/resmgr/guidelines/STC_Guidelines_for_Maintenan.pdf" target="_blank" rel="nofollow noopener">Synthetic Turf Council</a> says leaves left on the surface migrate into the system, slowing drainage and compacting the infill. <a href="https://ask.ifas.ufl.edu/publication/EP612" target="_blank" rel="nofollow noopener">UF/IFAS Extension</a> says fallen leaves still have to be removed from synthetic turf to prevent wear and tear.
+      They sink in and break down. The Synthetic Turf Council says leaves left on the surface migrate into the system, slowing drainage and compacting the infill. <a href="https://ask.ifas.ufl.edu/publication/EP612" target="_blank" rel="nofollow noopener">UF/IFAS Extension</a> says fallen leaves still have to be removed from synthetic turf to prevent wear and tear.
   - q: Do leaves on turf bring ticks into the yard?
     a: >-
-      Leaf litter is what the CDC points to. Its <a href="https://www.cdc.gov/ticks/prevention/index.html" target="_blank" rel="nofollow noopener">tick bite prevention page</a> says ticks live in grassy, brushy or wooded areas, and lists removing leaf litter among the landscaping steps that reduce blacklegged ticks. Clearing the turf is part of that. The pile you rake up, left against a fence or a bed, counts too.
+      Leaf litter is what the CDC points to. Its tick bite prevention page says ticks live in grassy, brushy or wooded areas, and lists removing leaf litter among the landscaping steps that reduce blacklegged ticks. Clearing the turf is part of that. The pile you rake up, left against a fence or a bed, counts too.
   - q: When do pines drop their needles?
     a: >-
       Mostly in fall. <a href="https://hgic.clemson.edu/factsheet/leaf-needle-drop/" target="_blank" rel="nofollow noopener">Clemson's Home &amp; Garden Information Center</a> says most pines drop needles in the fall, though some species shed at other times. It adds that holly and Southern magnolia drop many of their oldest leaves in spring as new growth begins, so a yard with both kinds of tree can have two clean-up seasons.
@@ -54,9 +54,7 @@ sources:
     url: https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf
     checked: '2026-09-12'
 publicReferences:
-  - https://cdn.ymaws.com/staging-stc.site-ym.com/resource/resmgr/guidelines/STC_Guidelines_for_Maintenan.pdf
   - https://plantscience.psu.edu/research/centers/ssrc/documents/ftfsynmaint1.pdf/@@download/file/FTFsynmaint1.pdf
-  - https://www.cdc.gov/ticks/prevention/index.html
 related:
   services:
     - residential-turf
@@ -73,7 +71,7 @@ Clear leaves and needles off artificial turf before they settle in. Under trees 
 
 A leaf left on turf doesn't stay on top. It works down between the blades and starts to break down.
 
-The [Synthetic Turf Council](https://cdn.ymaws.com/staging-stc.site-ym.com/resource/resmgr/guidelines/STC_Guidelines_for_Maintenan.pdf) says leaves and other debris left on the surface migrate into the turf system. Once there, they slow drainage and compact the infill.
+The Synthetic Turf Council says leaves and other debris left on the surface migrate into the turf system. Once there, they slow drainage and compact the infill.
 
 The UK sports surface builders' [code of practice](https://sapca.org.uk/wp-content/uploads/2018/07/SAPCA_Code_of_Practice_Construction_Maintenance_Synthetic_Turf_01.pdf), from SAPCA, names pine needles and tree flowers alongside leaves. Left in place, it says, they decay fast and form a layer in the surface that blocks drainage and feeds moss and algae.
 
@@ -121,7 +119,7 @@ Infill is the sand or other granules brushed down between the blades. [Penn Stat
 - Skip metal. The Synthetic Turf Council says not to use metal or wire bristles.
 - Brush the blades back up afterward. The council says brushing keeps fibers upright and infill levels even, and works better when the surface is dry.
 
-Two cautions. SAPCA says mechanical sweepers and vacuums can pull out too much infill in the first few months of a new surface, though that should stop being a problem after. And an October 2025 [report from New Jersey's Department of Environmental Protection](https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf) blames most of the plastic particles leaving turf fields on maintenance habits, naming leaf blowing, as opposed to raking, among them. Rake where you can, and don't blow the pile into the street, where any infill that went with it washes away.
+Two cautions. SAPCA says mechanical sweepers and vacuums can pull out too much infill in the first few months of a new surface, though that should stop being a problem after. And an October 2025 report from New Jersey's Department of Environmental Protection blames most of the plastic particles leaving turf fields on maintenance habits, naming leaf blowing, as opposed to raking, among them. Rake where you can, and don't blow the pile into the street, where any infill that went with it washes away.
 
 ## On a putting green
 
@@ -129,9 +127,9 @@ A single needle on a green sits in the line of a putt, so clear the surface befo
 
 ## Leaf litter and ticks
 
-The leaves matter past the edge of the turf. The CDC's [tick bite prevention page](https://www.cdc.gov/ticks/prevention/index.html), last updated in August 2024, says ticks live in grassy, brushy or wooded areas. It lists removing leaf litter among the landscaping steps that reduce blacklegged ticks, along with clearing tall grass and brush around homes and at the edge of lawns. It also advises keeping play equipment, decks and patios away from yard edges and trees.
+The leaves matter past the edge of the turf. The CDC's tick bite prevention page, last updated in August 2024, says ticks live in grassy, brushy or wooded areas. It lists removing leaf litter among the landscaping steps that reduce blacklegged ticks, along with clearing tall grass and brush around homes and at the edge of lawns. It also advises keeping play equipment, decks and patios away from yard edges and trees.
 
-The CDC's [Lyme disease prevention page](https://www.cdc.gov/lyme/prevention/index.html), updated in May 2026, adds two steps that fit a turf yard:
+The CDC's Lyme disease prevention page, updated in May 2026, adds two steps that fit a turf yard:
 
 - **Let in light.** Trim tree branches and shrubs. The CDC says ticks are less likely to be found in bright, sunny areas.
 - **Put a buffer at a wooded edge.** A 3-foot strip of wood chips or gravel between the lawn and wooded areas discourages contact with brushy borders.

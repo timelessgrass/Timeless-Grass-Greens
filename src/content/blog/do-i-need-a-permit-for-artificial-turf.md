@@ -13,11 +13,11 @@ faq:
   - q: Does Florida's new turf rule mean I need a state permit?
     a: No. <a href="https://floridadep.gov/sites/default/files/SyntheticTurfFAQ%20final.pdf" target="_blank" rel="nofollow noopener">Florida DEP</a> says it doesn't issue permits or require authorization for synthetic turf, and it isn't inspecting or enforcing the rule. The rule is a standard, not a permit. Turf that meets it is what state law protects from a local ban, and your city or county can still have a process of its own.
   - q: Do I need a permit for turf in Horry County?
-    a: Ask the county about the actual excavation, grading and drainage scope. Do not infer an exemption from the yard’s size alone. <a href="https://www.horrycountysc.gov/departments/stormwater/engineers/construction/storm-water-permitting/" target="_blank" rel="nofollow noopener">Horry County permitting guidance</a> can help frame the questions. Inside city limits, ask the city. North Myrtle Beach, for one, only counts a surface as pervious if it passes inspection.
+    a: Ask the county about the actual excavation, grading and drainage scope. Do not infer an exemption from the yard’s size alone. Horry County permitting guidance can help frame the questions. Inside city limits, ask the city. North Myrtle Beach, for one, only counts a surface as pervious if it passes inspection.
   - q: Do I need a permit in the Denver metro?
     a: Colorado's turf law doesn't cover single-family yards, so it comes down to your city. Thornton requires a Minor Development Permit before installation if you want its rebate. Aurora Water requires a permit for new sod, seed and sprinkler work, and its permit page doesn't mention artificial turf, so ask Aurora Water if your job changes a sprinkler system.
   - q: What does Atlantic Beach require?
-    a: 'A written standard and an inspection. The <a href="https://coab.us/DocumentCenter/View/15920/Turf-Installation-Guidelines" target="_blank" rel="nofollow noopener">city''s guidelines</a> ask for turf certified to drain at least 100 inches per hour, a 4-inch base of #57 stone under #89 stone, no paver sand or fines, and a base inspection before the turf goes down.'
+    a: 'A written standard and an inspection. The city''s guidelines ask for turf certified to drain at least 100 inches per hour, a 4-inch base of #57 stone under #89 stone, no paver sand or fines, and a base inspection before the turf goes down.'
 sources:
   - label: 'Florida DEP: Synthetic Turf frequently asked questions'
     url: https://floridadep.gov/sites/default/files/SyntheticTurfFAQ%20final.pdf
@@ -72,8 +72,6 @@ related:
     - colorado-turf-law
     - florida-turf-infill-rules
 publicReferences:
-  - https://coab.us/DocumentCenter/View/15920/Turf-Installation-Guidelines
-  - https://www.horrycountysc.gov/departments/stormwater/engineers/construction/storm-water-permitting/
   - https://www.thorntonwater.com/wp-content/uploads/2026/02/2026-residential_artificial_turf_info__rules-1.pdf
 ---
 
@@ -82,8 +80,8 @@ publicReferences:
 A turf-specific state standard does not settle the permits or reviews that may apply to the complete project.
 
 - **Florida.** The state wrote a turf standard in 2026, but [Florida DEP](https://floridadep.gov/sites/default/files/SyntheticTurfFAQ%20final.pdf) "does not issue permits or require authorization for the installation of synthetic turf," and it isn't inspecting or enforcing the rule.
-- **Colorado.** The state's turf law reaches commercial, institutional and industrial property, HOA common areas and apartment buildings of more than twelve units ([SB24-005](https://content.leg.colorado.gov/sites/default/files/2024a_005_signed.pdf), [HB25-1113](https://content.leg.colorado.gov/sites/default/files/2025a_1113_signed.pdf)). A single-family yard sits outside it.
-- **South Carolina.** For a property in unincorporated Horry County, ask the county which requirements apply to the full construction scope ([county permitting guidance](https://www.horrycountysc.gov/departments/stormwater/engineers/construction/storm-water-permitting/)). Turf area alone does not establish a permit exemption or settle drainage and related construction approvals.
+- **Colorado.** The state's turf law reaches commercial, institutional and industrial property, HOA common areas and apartment buildings of more than twelve units (SB24-005, HB25-1113). A single-family yard sits outside it.
+- **South Carolina.** For a property in unincorporated Horry County, ask the county which requirements apply to the full construction scope (county permitting guidance). Turf area alone does not establish a permit exemption or settle drainage and related construction approvals.
 
 So the real answer sits with your city or county. Most say nothing about turf. A few say a lot.
 
@@ -91,7 +89,7 @@ So the real answer sits with your city or county. Most say nothing about turf. A
 
 ### Atlantic Beach, Florida: a written spec and an inspection
 
-Atlantic Beach has the most detailed rules we've found in our three markets. Its [turf guidelines](https://coab.us/DocumentCenter/View/15920/Turf-Installation-Guidelines) require:
+Atlantic Beach has the most detailed rules we've found in our three markets. Its turf guidelines require:
 
 - turf certified to ASTM permeability standards, draining at least **100 inches per hour**;
 - a base at least **4 inches deep**: 2 inches of #57 stone under 2 inches of #89 stone, or clean crushed rock with little or no fines;
@@ -108,7 +106,7 @@ Thornton pays up to $2 per square foot, with a lifetime cap of $2,000 per home. 
 
 ### Aurora, Colorado: the sprinkler question
 
-Aurora Water requires a lawn and irrigation permit for new sod or seed and for sprinkler work ([City of Aurora](https://www.auroragov.org/cms/One.aspx?portalId=16242704&pageId=16533647)). The page says nothing about artificial turf. During the current water shortage, "No new cool-weather turf can be installed" ([Aurora Water](https://www.auroragov.org/residents/water/drought)). If your turf job removes or reworks a sprinkler system, ask Aurora Water whether that part needs a permit.
+Aurora Water requires a lawn and irrigation permit for new sod or seed and for sprinkler work (City of Aurora). The page says nothing about artificial turf. During the current water shortage, "No new cool-weather turf can be installed" (Aurora Water). If your turf job removes or reworks a sprinkler system, ask Aurora Water whether that part needs a permit.
 
 ## Lot coverage: the permit question in disguise
 
@@ -124,13 +122,13 @@ Our guide to [whether turf counts as impervious](/guides/is-artificial-turf-impe
 
 Everything above is about single-family yards. Other property runs under other rules:
 
-- **Colorado:** since 1 January 2026, local governments must not install or allow nonfunctional artificial turf in new or redeveloped landscapes on commercial, institutional and industrial property or HOA common areas. Playgrounds and sports fields count as functional, and turf installed before 2026 is grandfathered ([SB24-005](https://content.leg.colorado.gov/sites/default/files/2024a_005_signed.pdf)).
+- **Colorado:** since 1 January 2026, local governments must not install or allow nonfunctional artificial turf in new or redeveloped landscapes on commercial, institutional and industrial property or HOA common areas. Playgrounds and sports fields count as functional, and turf installed before 2026 is grandfathered (SB24-005).
 - **Florida:** the state's 2026 standard, and the protection from local bans that comes with it, covers only single-family lots of an acre or less. Condominiums, duplexes, parks, athletic fields and commercial property sit outside it ([Florida DEP](https://floridadep.gov/sites/default/files/SyntheticTurfFAQ%20final.pdf)).
 - **Horry County:** the stormwater charge on property other than single-family homes is scaled by how much of the parcel is impervious ([Sec. 17.7-17](https://library.municode.com/sc/horry_county/codes/code_of_ordinances?nodeId=COOR_CH17.7STMA_ARTIISTUTFE_S17.7-17STSECHRA)), so how turf is classified can show up on the bill.
 
 ## A building permit is a separate question
 
-If your Florida town treats turf as work that needs a building permit, a 2026 state law helps. Local governments that issue building permits must exempt work valued under $7,500 on a single-family home. The exemption doesn't apply on property in a flood hazard area ([ch. 2026-63](https://www.nassaucountyfl.com/DocumentCenter/View/31830/Chapter-2026-63-HB803)). Check your flood zone before you count on it.
+If your Florida town treats turf as work that needs a building permit, a 2026 state law helps. Local governments that issue building permits must exempt work valued under $7,500 on a single-family home. The exemption doesn't apply on property in a flood hazard area (ch. 2026-63). Check your flood zone before you count on it.
 
 ## Your HOA is a separate yes
 

@@ -13,7 +13,7 @@ faq:
   - q: How many hours of sun does grass need?
     a: 'More than most shady spots get. <a href="https://hgic.clemson.edu/factsheet/growing-grass-in-shade/" target="_blank" rel="nofollow noopener">Clemson Extension</a> says an area with less than 4 hours of sunlight a day is too shady for grass to grow well, and that tall fescue grows well with as little as 5. <a href="https://ask.ifas.ufl.edu/publication/LH010" target="_blank" rel="nofollow noopener">UF/IFAS Extension</a> says Floratam, the most widely used St. Augustinegrass in Florida, does not persist well with less than 6 hours a day.'
   - q: Will artificial turf get moss in the shade?
-    a: 'It can. The <a href="https://cdn.ymaws.com/staging-stc.site-ym.com/resource/resmgr/guidelines/STC_Guidelines_for_Maintenan.pdf" target="_blank" rel="nofollow noopener">Synthetic Turf Council</a> says moss, mold or algae may appear in underused areas of synthetic turf, particularly where it is shaded and damp. It advises removing organic material as soon as possible and brushing, which helps deter organic growth.'
+    a: 'It can. The Synthetic Turf Council says moss, mold or algae may appear in underused areas of synthetic turf, particularly where it is shaded and damp. It advises removing organic material as soon as possible and brushing, which helps deter organic growth.'
   - q: Can artificial turf go under a tree?
     a: 'It can, but the digging needs care. <a href="https://csfs.colostate.edu/wp-content/uploads/2024/01/Protecting-Trees-During-Construction-Fact-Sheet-7.420.pdf" target="_blank" rel="nofollow noopener">Colorado State University Extension</a> says large tree roots lie mostly in the top 6 to 24 inches of soil, and that surface grading and compaction both damage them. If the tree matters to you, have an arborist look before any work is planned.'
   - q: Is artificial turf cooler in the shade?
@@ -127,7 +127,7 @@ CSU advises involving an arborist early in the planning. If the tree matters to 
 
 Turf in shade skips the mowing and feeding. It doesn't look after itself. The damp, leafy corner that thinned your grass is the corner where debris collects on turf.
 
-The Synthetic Turf Council's [maintenance guidelines](https://cdn.ymaws.com/staging-stc.site-ym.com/resource/resmgr/guidelines/STC_Guidelines_for_Maintenan.pdf), written for sports fields, set out the routine:
+The Synthetic Turf Council's maintenance guidelines, written for sports fields, set out the routine:
 
 - **Get leaves off.** Left on the surface, they work down into the turf, slow drainage and compact the infill. [UF/IFAS](https://ask.ifas.ufl.edu/publication/EP612) adds that fallen leaves still have to be removed from synthetic turf to prevent wear and tear.
 - **Remove organic material quickly,** pet waste included, to slow algae, weeds and moss.

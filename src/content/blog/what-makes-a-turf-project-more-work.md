@@ -17,7 +17,7 @@ faq:
   - q: Can the old grass and soil go out with the household trash?
     a: 'Usually not. <a href="https://www.solidwasteauthority.org/landfill.html" target="_blank" rel="nofollow noopener">Horry County''s Solid Waste Authority</a> says state law bans yard waste from South Carolina municipal solid waste landfills. <a href="https://www.sjcfl.us/construction-and-demolition-debris-disposal/" target="_blank" rel="nofollow noopener">St. Johns County</a> requires construction and demolition debris to go to one of its listed disposal sites. Ask your county which stream each load belongs to before the dig starts.'
   - q: Does a city inspect the base before the turf goes down?
-    a: 'Some do. <a href="https://coab.us/DocumentCenter/View/15920/Turf-Installation-Guidelines" target="_blank" rel="nofollow noopener">Atlantic Beach, Florida</a> requires the aggregate base to be inspected and approved before turf is installed, and the base has to stay exposed until approval is granted. Rules like this are local, so ask your city or county building or planning office what applies at your address.'
+    a: 'Some do. Atlantic Beach, Florida requires the aggregate base to be inspected and approved before turf is installed, and the base has to stay exposed until approval is granted. Rules like this are local, so ask your city or county building or planning office what applies at your address.'
 sources:
   - label: 'SC811: frequently asked questions for homeowners (locate timing, who calls, private lines)'
     url: https://sc811.com/homeowners/faqs-homeowners/
@@ -60,7 +60,6 @@ related:
   guides: []
 publicReferences:
   - https://sc811.com/homeowners/faqs-homeowners/
-  - https://coab.us/DocumentCenter/View/15920/Turf-Installation-Guidelines
 ---
 
 ## Square footage is only the start
@@ -80,13 +79,13 @@ Everything that comes out leaves by the same route the base and turf come in. So
 
 ## What comes out, and where it can go
 
-A turf job starts by removing what's there: grass and roots, enough soil to make room for the base, and sometimes rock, edging, concrete or old turf. The depth of the dig sets how much of that there is. [Atlantic Beach, Florida](https://coab.us/DocumentCenter/View/15920/Turf-Installation-Guidelines), for one, requires at least a 4-inch base of permeable, free-draining aggregate. Every inch of base is soil that has to leave first.
+A turf job starts by removing what's there: grass and roots, enough soil to make room for the base, and sometimes rock, edging, concrete or old turf. The depth of the dig sets how much of that there is. Atlantic Beach, Florida, for one, requires at least a 4-inch base of permeable, free-draining aggregate. Every inch of base is soil that has to leave first.
 
 It doesn't all go to one place. Disposal sites sort material into streams:
 
 - **Grass and yard waste.** [Horry County's Solid Waste Authority](https://www.solidwasteauthority.org/landfill.html) says "all yard waste is banned" from South Carolina's municipal solid waste landfills under state law. It goes to a separate facility, which turns it into mulch and compost.
 - **Concrete, brick and building debris.** The authority's landfill takes shingles, clean wood, concrete and asphalt, brick, mixed construction debris and land clearing debris, and asks that they be kept separate ([Horry County SWA](https://www.solidwasteauthority.org/howdoi.html)).
-- **Soil.** [Brunswick County, NC](https://www.brunswickcountync.gov/415/Accepted-Items-Tipping-Fees) lists clean soil with concrete and brick as land clearing and inert debris. Tile, counter tops and painted concrete aren't accepted on the same terms.
+- **Soil.** Brunswick County, NC lists clean soil with concrete and brick as land clearing and inert debris. Tile, counter tops and painted concrete aren't accepted on the same terms.
 - **Construction debris in St. Johns County.** Residents and businesses are required to take it to one of the county's [listed disposal sites](https://www.sjcfl.us/construction-and-demolition-debris-disposal/).
 
 On a [turf replacement](/services/turf-removal-and-replacement/), the old turf is one more load, with whatever infill is still in it.
@@ -112,7 +111,7 @@ A yard with a sprinkler system to cap or reroute, or a wire running out to a she
 
 ## What's under the grass
 
-Nobody knows exactly until the sod is up, but the visit narrows it down. The [Synthetic Turf Council](https://cdn.ymaws.com/staging-stc.site-ym.com/resource/resmgr/guidelines/STC_Suggested_Guidelines_for.pdf), the industry's trade association, says in its field guidelines (revised November 2011) that low spots should be filled, and unsuitable material removed and replaced with clean fill or aggregate, before the base goes in. Buried rock, roots, old concrete or soft ground all add to that step.
+Nobody knows exactly until the sod is up, but the visit narrows it down. The Synthetic Turf Council, the industry's trade association, says in its field guidelines (revised November 2011) that low spots should be filled, and unsuitable material removed and replaced with clean fill or aggregate, before the base goes in. Buried rock, roots, old concrete or soft ground all add to that step.
 
 What's already there can matter too. Atlantic Beach's guidelines ban paver sand, crushed fines, stone screenings and decomposed granite containing fines from the base, because they "restrict infiltration." Where a rule like that applies, an old bed of paver sand comes out rather than staying under the new turf.
 
@@ -142,7 +141,7 @@ Two yards with the same square footage can need different amounts of turf ordere
 
 ## A base someone has to inspect
 
-Some places add a step between the base and the turf. [Atlantic Beach's guidelines](https://coab.us/DocumentCenter/View/15920/Turf-Installation-Guidelines) set out:
+Some places add a step between the base and the turf. Atlantic Beach's guidelines set out:
 
 - **Documents:** the manufacturer's product specifications, permeability testing, installation details or cross-section drawings, and a site plan showing the turf relative to trees and property lines.
 - **An inspection:** the aggregate base must be inspected and approved before the turf goes down, and must stay exposed and accessible until approval is granted.

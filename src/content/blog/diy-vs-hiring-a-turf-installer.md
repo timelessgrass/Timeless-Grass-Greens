@@ -104,7 +104,7 @@ Utilities mark only the lines they own. Sprinkler lines and landscape lighting a
 
 ## The parts that decide how it turns out
 
-**The dig and the base.** This is the heaviest part of the job, and the part you can't redo without starting over. The ground decides the base. Across much of the Denver metro that means clay: the [Colorado Geological Survey](https://coloradogeologicalsurvey.org/publications/potentially-swelling-soil-rock-front-range-urban-corridor-colorado/) says swelling formations underlie all the major Front Range cities, and wet clay can [expand up to 20% by volume](https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/). On the coast it's often a high water table: under Leon fine sand, found in Horry County, the [USDA](https://soilseries.sc.egov.usda.gov/OSD_Docs/L/LEON.html) puts the water table 6 to 18 inches down for one to four months in most years. And as [New Jersey's environment department](https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf) points out, a turf that drains 10 inches an hour doesn't make the ground under it drain that fast.
+**The dig and the base.** This is the heaviest part of the job, and the part you can't redo without starting over. The ground decides the base. Across much of the Denver metro that means clay: the [Colorado Geological Survey](https://coloradogeologicalsurvey.org/publications/potentially-swelling-soil-rock-front-range-urban-corridor-colorado/) says swelling formations underlie all the major Front Range cities, and wet clay can [expand up to 20% by volume](https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/). On the coast it's often a high water table: under Leon fine sand, found in Horry County, the [USDA](https://soilseries.sc.egov.usda.gov/OSD_Docs/L/LEON.html) puts the water table 6 to 18 inches down for one to four months in most years. And as New Jersey's environment department points out, a turf that drains 10 inches an hour doesn't make the ground under it drain that fast.
 
 Where a rule gives a number, it's specific. [Thornton's rebate rules](https://www.thorntonwater.com/wp-content/uploads/2026/02/2026-residential_artificial_turf_info__rules-1.pdf), for one, require at least 3 inches of compacted aggregate under the turf. Compaction has a limit, too: Florida's rule bars compacting the soil under the base to the point that water can't percolate through it.
 
@@ -114,7 +114,7 @@ Where a rule gives a number, it's specific. [Thornton's rebate rules](https://ww
 
 **Infill.** It goes in evenly, in the amount the turf maker specifies. In Florida it has to be natural material such as clean silica sand, and the rule requires the installation to keep infill from washing off the property.
 
-**The rest of the yard.** If the job touches a sprinkler line, a water line or lighting, those can be separate trades. Colorado has no state turf license, but it does license plumbing and electrical work at state level, according to its [Division of Professions and Occupations](https://dpo.colorado.gov/About).
+**The rest of the yard.** If the job touches a sprinkler line, a water line or lighting, those can be separate trades. Colorado has no state turf license, but it does license plumbing and electrical work at state level, according to its Division of Professions and Occupations.
 
 ## If you hire
 

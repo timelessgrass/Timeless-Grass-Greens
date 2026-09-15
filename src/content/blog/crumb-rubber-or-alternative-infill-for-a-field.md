@@ -60,7 +60,6 @@ related:
     - florida-turf-infill-rules
 publicReferences:
   - https://www.epa.gov/chemical-research/federal-research-recycled-tire-crumb-used-playing-fields-and-playgrounds
-  - https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf
   - https://portal.ct.gov/dph/environmental-health/environmental-and-occupational-health-assessment/artificial-turf-fields
 ---
 
@@ -68,7 +67,7 @@ publicReferences:
 
 In February 2016, CDC/ATSDR and the EPA, working with the Consumer Product Safety Commission, launched the Federal Research Action Plan on tire crumb used on playing fields. The [EPA](https://www.epa.gov/chemical-research/federal-research-recycled-tire-crumb-used-playing-fields-and-playgrounds) calls it the largest tire crumb rubber study conducted in the United States. It reported in two parts.
 
-**Part 1, July 2019,** asked what is in the rubber. As expected, it detected a range of metals, semivolatile and volatile organic compounds, and bacteria. The team sampled 40 fields, 25 outdoor and 15 indoor, plus material from nine tire recycling plants, according to [New Jersey's environment department](https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf), which summarized both parts in October 2025.
+**Part 1, July 2019,** asked what is in the rubber. As expected, it detected a range of metals, semivolatile and volatile organic compounds, and bacteria. The team sampled 40 fields, 25 outdoor and 15 indoor, plus material from nine tire recycling plants, according to New Jersey's environment department, which summarized both parts in October 2025.
 
 **Part 2, April 2024,** asked what reaches people during play. It used skin wipes, air, dust and field surface samples, plus a small blood and urine study. Taken together, EPA says the findings show chemicals are present and exposures can occur, but "they are likely limited." Its examples:
 

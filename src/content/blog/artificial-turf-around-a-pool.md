@@ -11,7 +11,7 @@ answer:
   answer: Yes, if the layout keeps the pool barrier working, gives splash water somewhere to go and allows for heat. In Florida, a residential pool barrier must be at least 4 feet high on the outside, with nothing placed so it can be used to climb it. Turf yarn can resist chlorinated pool water at safe concentrations. Watering cools the surface, but the effect fades.
 faq:
   - q: Does chlorinated pool water damage artificial turf?
-    a: Pool water is not the main worry. The <a href="https://cdn.ymaws.com/www.syntheticturfcouncil.org/resource/resmgr/guidelines/STC_Considerations_When_Buyi.pdf" target="_blank" rel="nofollow noopener">Synthetic Turf Council's buyer guide</a> lists resistance to chlorinated pool water "at safe concentrations" among the features polyethylene, nylon and polypropylene yarns can all provide. That covers splash, not chemicals straight from the container. Ask for the product's lab data, and mix and store pool chemicals away from the turf.
+    a: Pool water is not the main worry. The Synthetic Turf Council's buyer guide lists resistance to chlorinated pool water "at safe concentrations" among the features polyethylene, nylon and polypropylene yarns can all provide. That covers splash, not chemicals straight from the container. Ask for the product's lab data, and mix and store pool chemicals away from the turf.
   - q: Can turf run right up to my pool fence?
     a: It can, as long as the barrier still measures up afterwards. The <a href="https://www.cpsc.gov/s3fs-public/362%20Safety%20Barrier%20Guidelines%20for%20Pools.pdf" target="_blank" rel="nofollow noopener">CPSC</a> measures barrier height on the side facing away from the pool, so measure from the finished turf surface. Its guidelines also allow a smaller gap under the fence over grass or pebbles than over a solid surface. Your building department decides which figures apply.
   - q: Can I run sprinklers to cool turf by my pool in Florida?
@@ -110,7 +110,7 @@ Sand that washes or gets kicked onto the deck can end up in the pool. A firm, we
 
 ## Chlorine and pool chemicals
 
-Splashes of pool water are not the main concern. The Synthetic Turf Council's 2013 [buyer guide](https://cdn.ymaws.com/www.syntheticturfcouncil.org/resource/resmgr/guidelines/STC_Considerations_When_Buyi.pdf) says polyethylene, nylon and polypropylene yarns can all resist stains and chemicals, and names chlorinated pool water "at safe concentrations" in that list.
+Splashes of pool water are not the main concern. The Synthetic Turf Council's 2013 buyer guide says polyethylene, nylon and polypropylene yarns can all resist stains and chemicals, and names chlorinated pool water "at safe concentrations" in that list.
 
 Two things follow from that wording:
 

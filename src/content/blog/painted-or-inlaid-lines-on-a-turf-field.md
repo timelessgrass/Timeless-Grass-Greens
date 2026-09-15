@@ -11,7 +11,7 @@ answer:
   answer: Use tufted or inlaid lines where the markings will stay the same, and paint the lines you may want to change. Synthetic Turf Council industry guidance says tufted-in and inlaid lines are a permanent part of the surface, but they can age differently from the field and affect Gmax. Painted lines always need upkeep, and temporary paint should be stripped after four coats at most.
 faq:
   - q: How often do painted lines on synthetic turf need redoing?
-    a: 'There is no fixed interval, but they always need it. The <a href="https://cdn.ymaws.com/staging-stc.site-ym.com/resource/resmgr/guidelines/STC_Suggested_Guidelines_for.pdf" target="_blank" rel="nofollow noopener">Synthetic Turf Council</a>, the industry trade association, says even permanently painted lines need more paint from time to time. Its <a href="https://cdn.ymaws.com/staging-stc.site-ym.com/resource/resmgr/guidelines/STC_Guidelines_for_Maintenan.pdf" target="_blank" rel="nofollow noopener">maintenance guidelines</a> add that temporary paint should be removed and reapplied after a maximum of four applications, so it does not build up.'
+    a: 'There is no fixed interval, but they always need it. The Synthetic Turf Council, the industry trade association, says even permanently painted lines need more paint from time to time. Its maintenance guidelines add that temporary paint should be removed and reapplied after a maximum of four applications, so it does not build up.'
   - q: Can inlaid lines be moved later?
     a: Not easily. The trade association's guidelines call tufted-in and inlaid lines a permanent part of the surface. An inlay is a strip of contrasting turf joined into the field, so changing one later is turf work, not a paint job. If a sport's layout might change, paint those lines instead.
   - q: How wide can soccer lines be?
@@ -35,13 +35,12 @@ related:
   markets: []
   guides: []
 publicReferences:
-  - https://cdn.ymaws.com/staging-stc.site-ym.com/resource/resmgr/guidelines/STC_Guidelines_for_Maintenan.pdf
   - https://www.theifab.com/laws/latest/the-field-of-play/
 ---
 
 ## Three ways to mark a synthetic field
 
-Lines go on a synthetic field in one of three ways. The Synthetic Turf Council, the industry's trade association, lists them in its [field guidelines](https://cdn.ymaws.com/staging-stc.site-ym.com/resource/resmgr/guidelines/STC_Suggested_Guidelines_for.pdf):
+Lines go on a synthetic field in one of three ways. The Synthetic Turf Council, the industry's trade association, lists them in its field guidelines:
 
 - **Paint,** either temporary or permanent.
 - **Tufted or knitted lines,** where colored fiber is built into the turf panels themselves.
@@ -61,7 +60,7 @@ The council asks for a few things so they play like the rest of the field:
 - **Tight, even joints.** Inlay gaps should be uniform. On tufted systems, the gap between fibers should not exceed the gauge of the tufting.
 - **Taped seams.** Seaming tape is commonly used for inlaid lines, with the fabric laid below the backing on both sides of the inlay.
 
-That last point matters for upkeep. Every inlay adds joints. The council's [maintenance guidelines](https://cdn.ymaws.com/staging-stc.site-ym.com/resource/resmgr/guidelines/STC_Guidelines_for_Maintenan.pdf) tell you to check seams and joints where panels or field markings meet. An open joint can trip a player and should be repaired right away. An opening of 12 inches or less may not mean the seam has failed, so ask your field builder in advance whether self-repair is recommended. Report anything longer to them. More on how joints are built is in our article on [where turf seams go](/blog/where-artificial-turf-seams-go/).
+That last point matters for upkeep. Every inlay adds joints. The council's maintenance guidelines tell you to check seams and joints where panels or field markings meet. An open joint can trip a player and should be repaired right away. An opening of 12 inches or less may not mean the seam has failed, so ask your field builder in advance whether self-repair is recommended. Report anything longer to them. More on how joints are built is in our article on [where turf seams go](/blog/where-artificial-turf-seams-go/).
 
 There is one more trade-off, and it's easy to miss. The same guidelines warn that permanent lines and logos "can age differently than the playing field turf." They may harden or shrink at a different rate from the field around them, which will affect Gmax, the surface hardness score. Special grooming or other techniques may be needed.
 

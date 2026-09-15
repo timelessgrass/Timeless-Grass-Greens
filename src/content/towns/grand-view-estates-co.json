@@ -25,9 +25,9 @@
       "h2": "Your well permit decides what water leaves the house.",
       "takeaway": "Whether you can water a lawn at all is written on your well's permit, not set by any utility. Look it up before you plan — an artificial lawn needs no irrigation either way.",
       "paras": [
-        "Grand View Estates runs on private wells rather than a water utility, so there's no watering calendar to look up. The <a href=\"https://gerwcd.colorado.gov/about\" target=\"_blank\" rel=\"nofollow noopener\">Grandview Estates Rural Water Conservation District</a> exists to protect that individual exempt well supply. Whether you may water a lawn at all is written on the permit for your well.",
+        "Grand View Estates runs on private wells rather than a water utility, so there's no watering calendar to look up. The Grandview Estates Rural Water Conservation District exists to protect that individual exempt well supply. Whether you may water a lawn at all is written on the permit for your well.",
         "Colorado's <a href=\"https://dnrweblink.state.co.us/dwr/ElectronicFile.aspx?docid=4187690&dbid=0\" target=\"_blank\" rel=\"nofollow noopener\">Guideline 2023-1</a> explains why that matters here. An exempt permit issued under the state's standard presumption on a parcel of less than 35 acres is limited to household use inside one home, with no outdoor use, and most lots in Grand View Estates are two acres. Other permits, including registrations for wells put to use before May 8, 1972, can allow watering of up to one acre of home gardens and lawns.",
-        "So look before you plan. The Division of Water Resources' <a href=\"https://dwr.colorado.gov/services/well-permitting\" target=\"_blank\" rel=\"nofollow noopener\">Well Permit Search</a> opens the file for your well, and that file lists its allowable uses. An artificial lawn takes no irrigation either way."
+        "So look before you plan. The Division of Water Resources' Well Permit Search opens the file for your well, and that file lists its allowable uses. An artificial lawn takes no irrigation either way."
       ]
     },
     {
@@ -36,8 +36,8 @@
       "h2": "The groundwater here gets used up, not refilled.",
       "takeaway": "Groundwater under Grand View Estates isn't refilled once it's pumped, so the conservation district monitors levels and defends water rights. Call the district with questions about the wells around your lot.",
       "paras": [
-        "Wells in Grand View Estates are mostly finished in the Dawson and Denver aquifers, the upper layers of the Denver Basin (<a href=\"https://grandviewestatesparker.com/geha/\" target=\"_blank\" rel=\"nofollow noopener\">Grandview Estates HOA</a>). The state's <a href=\"https://dwr.colorado.gov/services/well-permitting/denver-basin\" target=\"_blank\" rel=\"nofollow noopener\">Division of Water Resources</a> says that water is not renewable: once it's pumped, it's gone without replacement. Withdrawals are tied to the water under the land, averaging one percent of it a year over an aquifer life of a hundred years.",
-        "That's why the conservation district exists. Voters formed it in November 2007 as a local government, and a 1.5 mill levy on each property has paid for USGS well-level and water-quality monitoring and the defense of water rights (<a href=\"https://gerwcd.colorado.gov/about\" target=\"_blank\" rel=\"nofollow noopener\">GERWCD</a>). Questions about the wells around your lot go to the district at 720-987-9701."
+        "Wells in Grand View Estates are mostly finished in the Dawson and Denver aquifers, the upper layers of the Denver Basin (<a href=\"https://grandviewestatesparker.com/geha/\" target=\"_blank\" rel=\"nofollow noopener\">Grandview Estates HOA</a>). The state's Division of Water Resources says that water is not renewable: once it's pumped, it's gone without replacement. Withdrawals are tied to the water under the land, averaging one percent of it a year over an aquifer life of a hundred years.",
+        "That's why the conservation district exists. Voters formed it in November 2007 as a local government, and a 1.5 mill levy on each property has paid for USGS well-level and water-quality monitoring and the defense of water rights (GERWCD). Questions about the wells around your lot go to the district at 720-987-9701."
       ]
     },
     {
@@ -46,7 +46,7 @@
       "h2": "Find the leach field before any base goes down.",
       "takeaway": "State rules keep the soil treatment area free of compaction from vehicles or recreation, and a turf base is compacted gravel. We keep the layout off the tank and field.",
       "paras": [
-        "Homes here use septic systems, which the Douglas County Health Department permits, repairs included (<a href=\"https://grandviewestatesparker.com/geha/\" target=\"_blank\" rel=\"nofollow noopener\">Grandview Estates HOA</a>). Colorado's septic rule, <a href=\"https://la-h-health.colorado.gov/sites/g/files/lrnvjt2201/files/documents/Consolidated%20Reg%2043_05_19_2026.pdf\" target=\"_blank\" rel=\"nofollow noopener\">Regulation 43</a>, restricts what happens on the ground over a system. The soil treatment area must not be damaged or compacted by livestock, vehicles, recreational use or other site development.",
+        "Homes here use septic systems, which the Douglas County Health Department permits, repairs included (<a href=\"https://grandviewestatesparker.com/geha/\" target=\"_blank\" rel=\"nofollow noopener\">Grandview Estates HOA</a>). Colorado's septic rule, Regulation 43, restricts what happens on the ground over a system. The soil treatment area must not be damaged or compacted by livestock, vehicles, recreational use or other site development.",
         "The same rule finishes that area with a cover of soil suitable for vegetation, at least 10 inches deep, graded so stormwater runs away from it. A compacted gravel base under turf is the opposite, so we keep the layout off the tank and the soil treatment area, and slope nearby turf so its runoff heads elsewhere.",
         "The association lists the Douglas County Health Department at 720-643-2400 for septic and well questions (<a href=\"https://grandviewestatesparker.com/faq/\" target=\"_blank\" rel=\"nofollow noopener\">GEHA FAQ</a>); ask whether it holds a permit record showing where your system sits. On the free visit we mark it, along with the wellhead, paddocks and gravel drives that shape the layout."
       ]
@@ -138,9 +138,7 @@
     }
   ],
   "publicReferences": [
-    "https://gerwcd.colorado.gov/about",
-    "https://dnrweblink.state.co.us/dwr/ElectronicFile.aspx?docid=4187690&dbid=0",
-    "https://dwr.colorado.gov/services/well-permitting/denver-basin"
+    "https://dnrweblink.state.co.us/dwr/ElectronicFile.aspx?docid=4187690&dbid=0"
   ],
   "checked": "2026-09-12"
 }

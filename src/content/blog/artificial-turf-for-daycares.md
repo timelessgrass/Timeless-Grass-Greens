@@ -98,7 +98,7 @@ Colorado's licensing rules for child care centers, [8 CCR 1402-1, section 2.230]
 
 The same list appears in the [rules for family child care homes](https://www.law.cornell.edu/regulations/colorado/8-CCR-1402-1-2.337), which also say shade must be available.
 
-Colorado's turf law doesn't stand in the way. The 2026 ban on nonfunctional turf on commercial property doesn't reach a playground, because [HB25-1113](https://content.leg.colorado.gov/sites/default/files/2025a_1113_signed.pdf) defines functional artificial turf to include playgrounds. Our [Colorado turf law guide](/guides/colorado-turf-law/) has the detail.
+Colorado's turf law doesn't stand in the way. The 2026 ban on nonfunctional turf on commercial property doesn't reach a playground, because HB25-1113 defines functional artificial turf to include playgrounds. Our [Colorado turf law guide](/guides/colorado-turf-law/) has the detail.
 
 ## South Carolina: cushioning "such as mats, wood chips or sand"
 
@@ -144,7 +144,7 @@ The rule doesn't name turf. As in the other states, a turf system over a pad wou
 
 **Hygiene.** Plan the cleaning routine before opening the play yard. Assign responsibility, keep the selected surface’s instructions available and confirm how cleaning fits the program’s operating requirements.
 
-- Remove waste and debris promptly, as the [Synthetic Turf Council](https://cdn.ymaws.com/staging-stc.site-ym.com/resource/resmgr/guidelines/STC_Guidelines_for_Maintenan.pdf) advises.
+- Remove waste and debris promptly, as the Synthetic Turf Council advises.
 - Inspect the areas where children sit and play, and adjust care to actual use and the manufacturer’s instructions.
 - Use products compatible with the turf system. Follow label directions for application, rinsing and when children may return.
 - Record recurring pooling, residue or damage so it can be assessed before deciding on additional treatment or repair.

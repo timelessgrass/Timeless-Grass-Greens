@@ -17,7 +17,7 @@ faq:
   - q: Will frost heave lift my turf?
     a: 'Frost heave needs three things, according to the <a href="https://www.fhwa.dot.gov/engineering/geotech/pubs/05037/07c.cfm" target="_blank" rel="nofollow noopener">Federal Highway Administration</a>: frost-susceptible soil, freezing temperatures in the soil, and a source of water. Silts are the most susceptible, while clean, free-draining sand, gravel and crushed rock show little to no frost action. That''s why the layer right under the turf should be clean, compacted crushed rock that drains.'
   - q: What should I do to my turf before winter?
-    a: Clear the leaves. The <a href="https://cdn.ymaws.com/staging-stc.site-ym.com/resource/resmgr/guidelines/STC_Guidelines_for_Maintenan.pdf" target="_blank" rel="nofollow noopener">Synthetic Turf Council</a> says leaves and debris left on the surface work down into the system, slowing drainage and compacting the infill, and STMA notes that water can freeze both in and on a synthetic surface. A quick brush and a check that nothing ponds after rain finish the job.
+    a: Clear the leaves. The Synthetic Turf Council says leaves and debris left on the surface work down into the system, slowing drainage and compacting the infill, and STMA notes that water can freeze both in and on a synthetic surface. A quick brush and a check that nothing ponds after rain finish the job.
 sources:
   - label: 'Colorado Geological Survey: Potentially Swelling Soil and Rock in the Front Range Urban Corridor'
     url: https://coloradogeologicalsurvey.org/publications/potentially-swelling-soil-rock-front-range-urban-corridor-colorado/
@@ -100,7 +100,7 @@ When you do clear it, borrow from the people who clear synthetic fields for a li
 - **Let the sun finish.** STMA notes that 20 to 30 minutes of sun after clearing can melt the last layer.
 - **Skip ice melt and deicer.** Ice melt can irritate skin, and deicer can turn sticky when it mixes with the turf.
 
-Two more habits help. For grass fields, STMA suggests clearing a channel along the edge so snowmelt can run off; on a lawn, keep the low edge free of piled snow so meltwater has somewhere to go. And don't dump snow from a treated driveway or sidewalk onto the turf. It carries the ice melt STMA says to keep off, and [New Jersey's environment department](https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf) lists poor snow clearing and piling among the ways turf particles leave a site.
+Two more habits help. For grass fields, STMA suggests clearing a channel along the edge so snowmelt can run off; on a lawn, keep the low edge free of piled snow so meltwater has somewhere to go. And don't dump snow from a treated driveway or sidewalk onto the turf. It carries the ice melt STMA says to keep off, and New Jersey's environment department lists poor snow clearing and piling among the ways turf particles leave a site.
 
 Ice is the other winter job. STMA points out that water can freeze both in and on a synthetic surface, and melted snow can refreeze. Don't chip at ice with a metal tool; let it melt. In a pet area, rinse on a day above freezing, so the water drains instead of freezing in place.
 
@@ -108,7 +108,7 @@ Ice is the other winter job. STMA points out that water can freeze both in and o
 
 A spring once-over catches what winter did:
 
-1. **Clear leaves and debris.** The [Synthetic Turf Council](https://cdn.ymaws.com/staging-stc.site-ym.com/resource/resmgr/guidelines/STC_Guidelines_for_Maintenan.pdf) says leaves and debris left on the surface work down into the system, slowing drainage and compacting the infill.
+1. **Clear leaves and debris.** The Synthetic Turf Council says leaves and debris left on the surface work down into the system, slowing drainage and compacting the infill.
 2. **Brush the fibers upright.** [Penn State's sports surface researchers](https://plantscience.psu.edu/research/centers/ssrc/documents/ftfsynmaint1.pdf/@@download/file/FTFsynmaint1.pdf) describe brushing as what keeps fibers standing and infill spread evenly.
 3. **Check the infill where you shoveled.** Low infill speeds up fiber wear and UV damage, Penn State notes. Top it up with the same material that's already there.
 4. **Walk it for low spots and ridges.** A dip or a hump that wasn't there in the fall is a base problem, not a turf problem, and the fix is underneath.

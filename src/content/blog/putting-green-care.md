@@ -11,11 +11,11 @@ answer:
   answer: Keep debris off the green, follow the product’s brushing instructions and inspect seams, edges and cups. If the ball starts rolling differently, clear the surface and note where it changes before adding infill or adjusting anything. Ask the installer for a care routine suited to the actual green and use.
 faq:
   - q: How often should I brush a putting green?
-    a: 'As often as its use calls for. The <a href="https://cdn.ymaws.com/staging-stc.site-ym.com/resource/resmgr/guidelines/STC_Suggested_Guidelines_for.pdf" target="_blank" rel="nofollow noopener">Synthetic Turf Council''s guidelines</a> say to brush periodically, depending on use, to even out low spots in the infill and stand the fibers back up. Keep it light: <a href="https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf" target="_blank" rel="nofollow noopener">New Jersey''s environment department</a> notes that brushing and grooming add wear too.'
+    a: 'As often as its use calls for. The Synthetic Turf Council''s guidelines say to brush periodically, depending on use, to even out low spots in the infill and stand the fibers back up. Keep it light: New Jersey''s environment department notes that brushing and grooming add wear too.'
   - q: Why does my green roll differently than it used to?
     a: Usually the infill. It is one of the two things, with brushing, that set a green's speed. Infill thins and packs down with use and weather, so a green that has gone months without brushing or a top-up will not roll the way it did. Even it out before you change anything else.
   - q: Can I use a leaf blower on a putting green?
-    a: Yes, gently. <a href="https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf" target="_blank" rel="nofollow noopener">New Jersey's report</a> lists leaf blowing, compared with raking, among the habits that carry infill and plastic particles off a turf field. Blow leaves off from a distance, and rake or brush where you can.
+    a: Yes, gently. New Jersey's report lists leaf blowing, compared with raking, among the habits that carry infill and plastic particles off a turf field. Blow leaves off from a distance, and rake or brush where you can.
   - q: What infill can a putting green use in Florida?
     a: On a single-family lot of an acre or less, natural infill only. <a href="https://flrules.org/gateway/readFile.asp?sid=0&amp;tid=30839130&amp;type=1&amp;file=62-308.100.doc" target="_blank" rel="nofollow noopener">Rule 62-308.100</a> allows clean silica sand, rock, shell or other natural material, with rubber allowed only under playground equipment. The install has to keep infill from washing off the property.
 sources:
@@ -40,8 +40,7 @@ related:
     - grand-strand
   guides:
     - florida-turf-infill-rules
-publicReferences:
-  - https://cdn.ymaws.com/staging-stc.site-ym.com/resource/resmgr/guidelines/STC_Suggested_Guidelines_for.pdf
+publicReferences: []
 ---
 
 ## A green needs care, just not the kind grass needs
@@ -59,9 +58,9 @@ Here is the routine in short:
 
 Leaves, twigs, seed pods and grit all knock a putt off line. Clear them often, especially in fall.
 
-A leaf blower is the quick way, but use it gently. [New Jersey's environment department](https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf) summed up the research on turf fields in 2025. It lists leaf blowing, compared with raking, among the habits that carry infill and plastic particles off the surface. On a putting green, infill you blow away changes how it rolls. Blow leaves off from a distance, and rake or brush where you can.
+A leaf blower is the quick way, but use it gently. New Jersey's environment department summed up the research on turf fields in 2025. It lists leaf blowing, compared with raking, among the habits that carry infill and plastic particles off the surface. On a putting green, infill you blow away changes how it rolls. Blow leaves off from a distance, and rake or brush where you can.
 
-Deal with sticky messes quickly. The [Synthetic Turf Council](https://cdn.ymaws.com/staging-stc.site-ym.com/resource/resmgr/guidelines/STC_Suggested_Guidelines_for.pdf), the industry's trade association, advises removing stains such as gum as soon as possible. For cleaning fields, it suggests a sweeper or vacuum with soft nylon brushes, which is a good rule for any tool that touches a green.
+Deal with sticky messes quickly. The Synthetic Turf Council, the industry's trade association, advises removing stains such as gum as soon as possible. For cleaning fields, it suggests a sweeper or vacuum with soft nylon brushes, which is a good rule for any tool that touches a green.
 
 ## Brush to keep the roll true
 

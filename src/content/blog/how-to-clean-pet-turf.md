@@ -49,13 +49,12 @@ related:
   guides:
     - florida-turf-infill-rules
 publicReferences:
-  - https://www.cdc.gov/toxocariasis/spreads/index.html
   - https://www.epa.gov/sites/default/files/2020-04/documents/disinfectants-onepager.pdf
 ---
 
 ## Start with daily waste removal
 
-Pick up solid waste every day, bag it and dispose of it appropriately. Wash your hands afterward. The [CDC’s pet-waste guidance](https://www.cdc.gov/toxocariasis/spreads/index.html) supports daily cleanup and handwashing. Keep bags and a scoop near the pet area so the routine is easy for everyone in the household to follow.
+Pick up solid waste every day, bag it and dispose of it appropriately. Wash your hands afterward. The CDC’s pet-waste guidance supports daily cleanup and handwashing. Keep bags and a scoop near the pet area so the routine is easy for everyone in the household to follow.
 
 Look around the places your dog actually uses: the gate, the border beside a planting bed and the corner outside the door. Include these spots in cleanup even when the middle of the lawn looks clear. Remove loose leaves and other debris with tools allowed by the turf’s care instructions.
 

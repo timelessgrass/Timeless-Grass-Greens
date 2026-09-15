@@ -15,7 +15,7 @@ faq:
   - q: Does artificial turf get too hot for kids?
     a: It can in full summer sun. In a <a href="https://www.westcoastturf.com/getdoc.cfm?id=38" target="_blank" rel="nofollow noopener">Brigham Young University study</a>, turf averaged 117°F across the day against 78°F for grass. Kids are closer to the surface and touch it more, so plan shade and a cooler alternative, and assess conditions before and during play. A quick touch does not establish a safe play period.
   - q: Is rubber infill safe for kids?
-    a: The research is still coming in. In a small pilot study summarized by <a href="https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf" target="_blank" rel="nofollow noopener">New Jersey's environment department</a>, metals in blood didn't rise after play on outdoor turf. Florida's home-lawn standard keeps rubber infill off the lawn but allows it within the footprint of playground equipment. If you'd rather avoid rubber, natural infill over a shock pad is an option.
+    a: The research is still coming in. In a small pilot study summarized by New Jersey's environment department, metals in blood didn't rise after play on outdoor turf. Florida's home-lawn standard keeps rubber infill off the lawn but allows it within the footprint of playground equipment. If you'd rather avoid rubber, natural infill over a shock pad is an option.
   - q: Should kids wear shoes on turf?
     a: On hot days, yes. The <a href="https://www.cpsc.gov/s3fs-public/325_PublicPlaygroundSafetyHandbook2025_7-30-25_1.pdf?VersionId=tpCoaKp.DSdJ0QmD4_29kwEHeQgFphM2" target="_blank" rel="nofollow noopener">CPSC handbook</a> tells supervising adults to make sure children wear footwear to prevent burns on hot surfacing. Do not assume that time of day or shade alone makes the surface comfortable for bare feet; check conditions before play.
 sources:
@@ -53,14 +53,13 @@ related:
     - florida-turf-infill-rules
 publicReferences:
   - https://www.cpsc.gov/s3fs-public/325_PublicPlaygroundSafetyHandbook2025_7-30-25_1.pdf?VersionId=tpCoaKp.DSdJ0QmD4_29kwEHeQgFphM2
-  - https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf
 ---
 
 ## Heat is the first thing to plan for
 
 Turf in full sun gets hot. In a [Brigham Young University study](https://www.westcoastturf.com/getdoc.cfm?id=38), synthetic turf averaged 117°F from 7 a.m. to 7 p.m., against 78°F for natural grass, and peaked at 200°F on a 98°F day.
 
-That matters more for kids than for adults. [New Jersey's environment department](https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf) notes that children "are at greater risk of experiencing a burn related injury as they are more likely to be in greater contact with the synthetic turf surface." Kids also handle heat worse. They have more skin for their size and sweat less efficiently, and they "may not readily perceive 'thermal discomfort,'" so they rely on adults to call them in.
+That matters more for kids than for adults. New Jersey's environment department notes that children "are at greater risk of experiencing a burn related injury as they are more likely to be in greater contact with the synthetic turf surface." Kids also handle heat worse. They have more skin for their size and sweat less efficiently, and they "may not readily perceive 'thermal discomfort,'" so they rely on adults to call them in.
 
 The federal playground guidelines say the same about every surface: direct sunlight "can heat playground equipment and playground surfacing enough to cause burns, even in mild weather" ([CPSC](https://www.cpsc.gov/s3fs-public/325_PublicPlaygroundSafetyHandbook2025_7-30-25_1.pdf?VersionId=tpCoaKp.DSdJ0QmD4_29kwEHeQgFphM2)).
 
@@ -100,7 +99,7 @@ Infill holds on, too. A [2020 lab study](https://pmc.ncbi.nlm.nih.gov/articles/P
 
 This is where products differ. New Jersey's study notes that "detectable levels of lead have been found in synthetic turf because lead-based pigments are used in its manufacturing." In a small pilot study it summarized, metals in the blood of young players didn't rise after activity on outdoor turf.
 
-Florida's standard for home lawns prohibits heavy metals and intentionally added PFAS, and keeps rubber infill to the footprint of playground equipment ([Rule 62-308.100](https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc)). Atlantic Beach, Florida, requires turf "free of hazardous materials and heavy metals" ([city guidelines](https://coab.us/DocumentCenter/View/15920/Turf-Installation-Guidelines)). Ask for the selected product documentation in writing. A material rule does not replace planning for heat, falls and ongoing care.
+Florida's standard for home lawns prohibits heavy metals and intentionally added PFAS, and keeps rubber infill to the footprint of playground equipment ([Rule 62-308.100](https://flrules.org/gateway/readFile.asp?sid=0&tid=30839130&type=1&file=62-308.100.doc)). Atlantic Beach, Florida, requires turf "free of hazardous materials and heavy metals" (city guidelines). Ask for the selected product documentation in writing. A material rule does not replace planning for heat, falls and ongoing care.
 
 ## A safer play area, step by step
 

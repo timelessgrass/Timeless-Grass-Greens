@@ -21,7 +21,7 @@ faq:
       Only if the product's label allows that site. <a href="https://ask.ifas.ufl.edu/publication/lh059" target="_blank" rel="nofollow noopener">UF/IFAS</a> says to use only pesticides labeled for the location you want to treat, and to always read and follow the label. Check your turf's care instructions too.
   - q: Will a turf yard keep ticks off my dog?
     a: >-
-      No. The <a href="https://www.cdc.gov/ticks/prevention/preventing-ticks-on-pets.html" target="_blank" rel="nofollow noopener">CDC</a> says to check pets who go outdoors daily, use a tick preventive product and talk to your veterinarian. It warns that pets can carry ticks inside, where the ticks may then bite people.
+      No. The CDC says to check pets who go outdoors daily, use a tick preventive product and talk to your veterinarian. It warns that pets can carry ticks inside, where the ticks may then bite people.
   - q: Does a gravel strip at the edge of the yard stop ticks?
     a: >-
       It can help, but results vary. The <a href="https://portal.ct.gov/-/media/caes/documents/publications/bulletins/b1010pdf.pdf" target="_blank" rel="nofollow noopener">Connecticut Agricultural Experiment Station</a> says a barrier three feet wide or more may help reduce ticks on a lawn, although results vary widely from home to home and year to year. Wood chips with leaves in them break down and soon become no different from leaf litter.
@@ -50,7 +50,6 @@ sources:
 publicReferences:
   - https://hgic.clemson.edu/factsheet/fire-ant-management-in-the-home-lawn/
   - https://ask.ifas.ufl.edu/publication/lh059
-  - https://www.cdc.gov/ticks/prevention/index.html
 related:
   services:
     - residential-turf
@@ -65,7 +64,7 @@ Not by itself. Turf takes away tall grass, and that helps with ticks. But fire a
 
 ## What turf changes, and what it doesn't
 
-A turf yard never grows tall. That removes one kind of cover. The [CDC](https://www.cdc.gov/ticks/prevention/index.html) says ticks live in grassy, brushy or wooded areas, or even on animals, and its yard advice includes clearing tall grass and brush and mowing often.
+A turf yard never grows tall. That removes one kind of cover. The CDC says ticks live in grassy, brushy or wooded areas, or even on animals, and its yard advice includes clearing tall grass and brush and mowing often.
 
 What turf doesn't change:
 
@@ -143,7 +142,7 @@ The handbook is measured about that barrier. It may help reduce ticks on the law
 
 ## Dogs and stings
 
-A turf yard won't keep ticks off a dog. The [CDC's advice for pets](https://www.cdc.gov/ticks/prevention/preventing-ticks-on-pets.html) is to check pets who go outdoors every day, use a tick preventive product, and talk to your veterinarian. It warns that pets can bring ticks inside, where they may bite people.
+A turf yard won't keep ticks off a dog. The CDC's advice for pets is to check pets who go outdoors every day, use a tick preventive product, and talk to your veterinarian. It warns that pets can bring ticks inside, where they may bite people.
 
 Fire ants matter for dogs too. NC State says their stings can cause serious pain and injury to people, pets and other animals. If you're planning [pet turf](/services/pet-turf/), treat the mounds first, and follow the bait label on keeping pets off treated ground.
 

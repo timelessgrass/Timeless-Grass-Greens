@@ -17,7 +17,7 @@ faq:
   - q: Can artificial turf go straight on dirt?
     a: Not to any written standard we know of. <a href="http://reports.oah.state.nc.us/ncac/title%2021%20-%20occupational%20licensing%20boards%20and%20commissions/chapter%2028%20-%20landscape%20contractors/chapter%2028%20rules.pdf" target="_blank" rel="nofollow noopener">North Carolina's rule</a> requires a compacted sub-grade pitched to drain. <a href="https://flrules.org/gateway/readFile.asp?sid=0&amp;tid=30839130&amp;type=1&amp;file=62-308.100.doc" target="_blank" rel="nofollow noopener">Florida's rule</a> requires a washed, water-permeable layer under the turf.
   - q: If the turf has drain holes, why does the base matter?
-    a: 'Because the water still has to go somewhere. <a href="https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf" target="_blank" rel="nofollow noopener">New Jersey''s environment department</a> puts it plainly: a turf product that drains 10 inches an hour does not mean the ground underneath will take water that fast. Clay fills up quickly, and then the water runs off or sits.'
+    a: 'Because the water still has to go somewhere. New Jersey''s environment department puts it plainly: a turf product that drains 10 inches an hour does not mean the ground underneath will take water that fast. Clay fills up quickly, and then the water runs off or sits.'
 sources:
   - label: '21 NCAC 28B .0503(b), North Carolina Landscape Contractors'' Licensing Board rules: the written artificial turf install standard'
     url: http://reports.oah.state.nc.us/ncac/title%2021%20-%20occupational%20licensing%20boards%20and%20commissions/chapter%2028%20-%20landscape%20contractors/chapter%2028%20rules.pdf
@@ -52,7 +52,6 @@ related:
     - florida-turf-infill-rules
     - turf-installer-licensing-by-state
 publicReferences:
-  - https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf
   - http://reports.oah.state.nc.us/ncac/title%2021%20-%20occupational%20licensing%20boards%20and%20commissions/chapter%2028%20-%20landscape%20contractors/chapter%2028%20rules.pdf
 ---
 
@@ -81,7 +80,7 @@ What your soil does with that water depends on where you live:
 - **Denver metro.** The [Colorado Geological Survey](https://coloradogeologicalsurvey.org/hazards/expansive-soil-rock/) says clay here can swell up to 20% by volume when it gets wet. A base that lets water pool on that clay invites it to move.
 - **The coast.** Under Leon sand, common in Horry County and northeast Florida, the [USDA](https://soilseries.sc.egov.usda.gov/OSD_Docs/L/LEON.html) puts the water table 6 to 18 inches down for one to four months in most years. Sand drains fast until the water has nowhere left to go.
 
-[New Jersey's environment department](https://dep.nj.gov/wp-content/uploads/dsr/synthetic-turf-report-2025.pdf) sums it up: a turf that drains 10 inches an hour does not mean the ground underneath will take water at that rate. Heavy clay fills up quickly, and then you get runoff.
+New Jersey's environment department sums it up: a turf that drains 10 inches an hour does not mean the ground underneath will take water at that rate. Heavy clay fills up quickly, and then you get runoff.
 
 ## The base
 

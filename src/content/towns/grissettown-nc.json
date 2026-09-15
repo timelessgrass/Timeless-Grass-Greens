@@ -25,7 +25,7 @@
       "h2": "In Grissettown, it's the County's 4-inch rule that decides how much paperwork your turf needs.",
       "takeaway": "Brunswick County's ordinance, not a town hall, sets the rules. A base that changes your lot's surface by 4 inches or more and shifts drainage can trigger a stormwater permit — ask the County first.",
       "paras": [
-        "Grissettown sits in unincorporated Brunswick County, between Shallotte and Sunset Beach, and carries no municipal government of its own. That means the <a href=\"https://www.brunswickcountync.gov/248/Stormwater-Ordinance\" target=\"_blank\" rel=\"nofollow noopener\">County's Stormwater Ordinance</a> applies here directly, the way a town code applies inside a town's limits. The County's <a href=\"https://brunswickcountync.gov/DocumentCenter/View/649/Brunswick-County-Stormwater-Ordinance-PDF?bidId=\" target=\"_blank\" rel=\"nofollow noopener\">Stormwater Quality Management and Discharge Control Ordinance</a> was in full force and effect as of September 15, 2002, and Section 1.4 applies it to all areas within the County's planning jurisdictional limits.",
+        "Grissettown sits in unincorporated Brunswick County, between Shallotte and Sunset Beach, and carries no municipal government of its own. That means the County's Stormwater Ordinance applies here directly, the way a town code applies inside a town's limits. The County's Stormwater Quality Management and Discharge Control Ordinance was in full force and effect as of September 15, 2002, and Section 1.4 applies it to all areas within the County's planning jurisdictional limits.",
         "Section 1.16(b) sets out when a Stormwater Management Plan, and the Stormwater Permit that comes with it, is required. Two of its four triggers are the ones a turf job is most likely to hit: any filling or excavation of a parcel that changes the land surface by 4 inches or more and alters the existing drainage pattern, and any activity that disturbs land within 30 feet of the banks of a stream or other natural waterway, unless the County's Storm Water Management Manual marks that disturbance as exempt or allowable. A base for artificial turf is commonly cut and built up close to that 4-inch mark, so it's worth measuring before you assume you're under it.",
         "Two more triggers apply to bigger jobs: all non-residential development and any major subdivision, and any activity that disturbs a total area of one acre or more (with exemptions for a bona fide farm, forestland timber work, and permitted mining). Where none of Section 1.16(b)'s triggers apply, Section 1.16(a) says a Stormwater Permit isn't required at all. Ask the County's Stormwater Administrator which side of that line your yard falls on before the layout is final."
       ]
@@ -119,8 +119,6 @@
     }
   ],
   "publicReferences": [
-    "https://www.brunswickcountync.gov/248/Stormwater-Ordinance",
-    "https://brunswickcountync.gov/DocumentCenter/View/649/Brunswick-County-Stormwater-Ordinance-PDF?bidId="
   ],
   "checked": "2026-09-12"
 }

@@ -11,13 +11,13 @@ answer:
   answer: No rule answers that by name. Neither Denver Water's Stage 1 drought rules nor the St. Johns River Water Management District's Phase III order mentions artificial turf or pet areas. Both ban wasteful water use, and both expect cleaning without water to come first. Pick up waste, rinse only the spots your dog uses with a shut-off nozzle, keep water off pavement, and ask your provider in writing.
 faq:
   - q: Does rinsing artificial turf count as watering?
-    a: 'Not clearly. Denver Water lets you use a hand-held hose on any day for trees, shrubs, perennials, annuals and vegetables (<a href="https://www.denverwater.org/sites/default/files/operating-rules.pdf" target="_blank" rel="nofollow noopener">Operating Rules 15.03.1</a>). Florida''s water shortage rule defines landscape irrigation as the outside watering of plants (<a href="https://aws.sjrwmd.com/SJRWMD/permitting/40C-21.pdf" target="_blank" rel="nofollow noopener">Chapter 40C-21</a>). Synthetic turf is not a plant, so neither allowance plainly covers it. Ask your provider how it classifies a rinse.'
+    a: 'Not clearly. Denver Water lets you use a hand-held hose on any day for trees, shrubs, perennials, annuals and vegetables (Operating Rules 15.03.1). Florida''s water shortage rule defines landscape irrigation as the outside watering of plants (Chapter 40C-21). Synthetic turf is not a plant, so neither allowance plainly covers it. Ask your provider how it classifies a rinse.'
   - q: Is a garden hose rinse pressure washing under the Florida order?
-    a: 'The rule describes heavier equipment. <a href="https://aws.sjrwmd.com/SJRWMD/permitting/40C-21.pdf" target="_blank" rel="nofollow noopener">Rule 40C-21.051</a> defines pressure washing as cleaning with pressurized water, using equipment with a self-canceling or automatic nozzle, at least 1,000 p.s.i. and no more than five gallons a minute. A hose rinse is not described there, but the order''s ban on wasteful use is written to apply regardless of the type of water use.'
+    a: 'The rule describes heavier equipment. Rule 40C-21.051 defines pressure washing as cleaning with pressurized water, using equipment with a self-canceling or automatic nozzle, at least 1,000 p.s.i. and no more than five gallons a minute. A hose rinse is not described there, but the order''s ban on wasteful use is written to apply regardless of the type of water use.'
   - q: Can I rinse pet turf on a day that is not my Denver watering day?
-    a: 'The rules do not say for turf. Residential power washing of hard surfaces is allowed only on your assigned watering day unless there is an immediate health or safety need, and cleaning without water should come first (<a href="https://www.denverwater.org/residential/rebates-and-conservation-tips/summer-watering-rules" target="_blank" rel="nofollow noopener">Denver Water</a>). Until Denver Water tells you otherwise, rinsing on your assigned day, before 10 a.m. or after 6 p.m., meets the strictest reading.'
+    a: 'The rules do not say for turf. Residential power washing of hard surfaces is allowed only on your assigned watering day unless there is an immediate health or safety need, and cleaning without water should come first (Denver Water). Until Denver Water tells you otherwise, rinsing on your assigned day, before 10 a.m. or after 6 p.m., meets the strictest reading.'
   - q: My Florida HOA wants the dog area kept clean. Does that override the order?
-    a: 'Not on the order''s own terms. The <a href="https://aws.sjrwmd.com/SJRWMD/government/2026-017-WSO-Phase-III.pdf" target="_blank" rel="nofollow noopener">Phase III order</a> says no person or entity, such as a homeowners association or property manager, shall enforce deed restrictions or community standards that would cause a violation of it. If a notice conflicts with the watering rules, send both to the district and ask for its answer in writing.'
+    a: 'Not on the order''s own terms. The Phase III order says no person or entity, such as a homeowners association or property manager, shall enforce deed restrictions or community standards that would cause a violation of it. If a notice conflicts with the watering rules, send both to the district and ask for its answer in writing.'
 sources:
   - label: 'Denver Water: summer watering rules, Stage 1 drought (assigned days, hours, power washing, shut-off nozzles)'
     url: https://www.denverwater.org/residential/rebates-and-conservation-tips/summer-watering-rules
@@ -52,9 +52,7 @@ related:
   guides:
     - colorado-water-rebates-and-turf
     - is-artificial-turf-impervious
-publicReferences:
-  - https://www.denverwater.org/sites/default/files/operating-rules.pdf
-  - https://aws.sjrwmd.com/SJRWMD/government/2026-017-WSO-Phase-III.pdf
+publicReferences: []
 ---
 
 ## The short answer, provider by provider
@@ -69,7 +67,7 @@ This is a summary of the published rules, not legal advice. Your water provider 
 
 Watering rules are written for plants. Artificial turf isn't a plant, so a rinse doesn't fit neatly into any one rule.
 
-- **It isn't clearly watering.** Denver Water lets you use a hand-held hose on any day, outside 10 a.m. to 6 p.m., but only for trees, shrubs, perennials, annuals and vegetables ([Operating Rules 15.03.1](https://www.denverwater.org/sites/default/files/operating-rules.pdf)). Florida's rule defines landscape irrigation as "the outside watering of plants" ([Chapter 40C-21, F.A.C.](https://aws.sjrwmd.com/SJRWMD/permitting/40C-21.pdf)).
+- **It isn't clearly watering.** Denver Water lets you use a hand-held hose on any day, outside 10 a.m. to 6 p.m., but only for trees, shrubs, perennials, annuals and vegetables (Operating Rules 15.03.1). Florida's rule defines landscape irrigation as "the outside watering of plants" (Chapter 40C-21, F.A.C.).
 - **It isn't clearly a hard surface.** Denver's examples of outdoor impervious surfaces are sidewalks, driveways and patios. Florida's are structures, driveways and sidewalks. Turf that drains through its backing is none of those, and no rule says where it does fit.
 - **It is covered by the waste rules.** Both providers ban wasteful use, whatever the water is for.
 
@@ -79,7 +77,7 @@ Until your provider answers, the cautious plan is to meet the strictest rule tha
 
 ## Denver Water's Stage 1 rules
 
-Denver Water's board declared a Stage 1 drought on 25 March 2026. The declaration runs through 30 April 2027, or until further notice ([board resolution](https://www.denverwater.org/drought/board-resolution-drought-declaration)). Under it, according to Denver Water's [summer watering rules](https://www.denverwater.org/residential/rebates-and-conservation-tips/summer-watering-rules):
+Denver Water's board declared a Stage 1 drought on 25 March 2026. The declaration runs through 30 April 2027, or until further notice (board resolution). Under it, according to Denver Water's summer watering rules:
 
 - **Watering days:** two a week. Even-numbered addresses water Sunday and Thursday. Odd-numbered addresses water Wednesday and Saturday.
 - **Watering hours:** before 10 a.m. or after 6 p.m.
@@ -87,7 +85,7 @@ Denver Water's board declared a Stage 1 drought on 25 March 2026. The declaratio
 - **Hoses:** use a nozzle with a shut-off valve when you hand-water.
 - **End of season:** Denver Water has declared an end to lawn watering season, prohibiting lawn watering and all spray irrigation after 30 September. The page doesn't say which day power washing moves to after that, so ask.
 
-The year-round waste rule matters just as much. Drought or not, Rule 14.01.1 of Denver Water's [Operating Rules](https://www.denverwater.org/sites/default/files/operating-rules.pdf) counts these as water waste:
+The year-round waste rule matters just as much. Drought or not, Rule 14.01.1 of Denver Water's Operating Rules counts these as water waste:
 
 - using water instead of a broom or mop to clean outdoor impervious surfaces, unless water is needed for public health or safety, or other cleaning methods are impractical;
 - letting water pool or flow across the ground, or into gutters, streets, alleys or storm drains.
@@ -98,7 +96,7 @@ Denver Water's rules also govern the areas it supplies through distributors, and
 
 ## Northeast Florida's Phase III order
 
-The St. Johns River Water Management District declared a Phase III Extreme Water Shortage in May 2026 ([Water Shortage Order 2026-017](https://aws.sjrwmd.com/SJRWMD/government/2026-017-WSO-Phase-III.pdf)). It covers all of Clay, Duval, Flagler, Nassau, Putnam and St. Johns counties, and every source of water, private wells included. [Clay County Utility Authority](https://clayutility.org/phase-iii-water-shortage-restrictions-now-in-effect/) posted it as in effect on 14 May 2026. The district's [watering restrictions page](https://www.sjrwmd.com/wateringrestrictions/) still listed it as in effect on 12 September 2026.
+The St. Johns River Water Management District declared a Phase III Extreme Water Shortage in May 2026 (Water Shortage Order 2026-017). It covers all of Clay, Duval, Flagler, Nassau, Putnam and St. Johns counties, and every source of water, private wells included. [Clay County Utility Authority](https://clayutility.org/phase-iii-water-shortage-restrictions-now-in-effect/) posted it as in effect on 14 May 2026. The district's watering restrictions page still listed it as in effect on 12 September 2026.
 
 What the order says that bears on a turf rinse:
 

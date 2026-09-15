@@ -58,7 +58,7 @@
         "In central Middleburg the USDA maps Ortega fine sand, 85% of the map unit: moderately well drained, no flooding, no ponding, and the water table stays at least 4.3 feet down (<a href=\"https://sdmdataaccess.sc.egov.usda.gov/\" target=\"_blank\" rel=\"nofollow noopener\">USDA Soil Data Access</a>). Its class, Quartzipsamments, means clean quartz sand with almost no clay or organic matter to hold water.",
         "That's why St. Augustine and Bahia go straw-colored between waterings here, and why one day a week is so hard on them. For turf the same sand is an easy start: water goes straight down through it, and a base built for that soil keeps the surface even.",
         "The Black Creek ravines are the exception. Around the Black Creek Ravines Conservation Area, and where the North Fork runs past the historic district on Main Street, lots have real slope, erosion and shade, and they take more care to build on. The creek itself is measured: on the National Weather Service gauge for the North Fork near Middleburg, minor flooding begins at 15 feet, moderate at 18 and major at 20, and the record crest is 27.89 feet, reached on 11 September 2017 (<a href=\"https://water.noaa.gov/gauges/mdlf1\" target=\"_blank\" rel=\"nofollow noopener\">NOAA river gauge</a>).",
-        "So on a creek lot the flood zone settles the footprint. Clay County requires an approved floodplain development permit for development in a special flood hazard area, and its definition of development takes in filling, grading, paving, excavation and any other land disturbing operation (<a href=\"https://www.claycountygov.com/government/planning-and-zoning/flood-fema-info/frequently-asked-questions\" target=\"_blank\" rel=\"nofollow noopener\">Clay County flood questions</a>). Inside the regulatory floodway, fill or regrading needs a no-rise study, signed and sealed by a professional engineer, before a permit is granted. We design the base to what the county says your parcel allows."
+        "So on a creek lot the flood zone settles the footprint. Clay County requires an approved floodplain development permit for development in a special flood hazard area, and its definition of development takes in filling, grading, paving, excavation and any other land disturbing operation (Clay County flood questions). Inside the regulatory floodway, fill or regrading needs a no-rise study, signed and sealed by a professional engineer, before a permit is granted. We design the base to what the county says your parcel allows."
       ]
     },
     {
@@ -86,7 +86,7 @@
     },
     {
       "q": "Can I get a water district rebate for turf in Middleburg?",
-      "a": "No. The St. Johns River Water Management District's cost-share program, launched in October 2024, covers items such as Florida Water Star certification, WaterSense smart controllers, irrigation conversions and evaluations, and it's open to local governments, small utilities, HOAs and multi-family properties rather than single-family homes (<a href=\"https://www.greencovesprings.com/448/Water-Conservation\" target=\"_blank\" rel=\"nofollow noopener\">Green Cove Springs</a>). Artificial turf isn't an eligible item."
+      "a": "No. The St. Johns River Water Management District's cost-share program, launched in October 2024, covers items such as Florida Water Star certification, WaterSense smart controllers, irrigation conversions and evaluations, and it's open to local governments, small utilities, HOAs and multi-family properties rather than single-family homes (Green Cove Springs). Artificial turf isn't an eligible item."
     },
     {
       "q": "What is Clay County's normal watering schedule?",
@@ -94,7 +94,7 @@
     },
     {
       "q": "How do I find out if my Middleburg lot is in a flood zone?",
-      "a": "Two lookups. Clay County's interactive map shows it: enter the address, then turn on the Flood Zone Data layer. You can also find your panel on the FEMA index map and open it from the county's flood maps page (<a href=\"https://www.claycountygov.com/government/planning-and-zoning/flood-fema-info/frequently-asked-questions\" target=\"_blank\" rel=\"nofollow noopener\">Clay County flood questions</a>). Then ask the county floodplain manager what it wants for a turf area with no building on it. We work to that answer."
+      "a": "Two lookups. Clay County's interactive map shows it: enter the address, then turn on the Flood Zone Data layer. You can also find your panel on the FEMA index map and open it from the county's flood maps page (Clay County flood questions). Then ask the county floodplain manager what it wants for a turf area with no building on it. We work to that answer."
     },
     {
       "q": "Can commercial turf count toward Clay County's required landscaping?",
@@ -143,7 +143,6 @@
   ],
   "checked": "2026-09-12",
   "publicReferences": [
-    "https://www.claycountygov.com/government/planning-and-zoning/flood-fema-info/frequently-asked-questions",
     "https://water.noaa.gov/gauges/mdlf1"
   ]
 }
