@@ -75,6 +75,7 @@ html.estimate-open { overflow: hidden; }
   border: 1.5px solid var(--rule); border-radius: 14px; font-weight: 600; font-size: 1rem; line-height: 1.25; color: var(--ink);
   transition: border-color var(--dur-ui) var(--ease), background-color var(--dur-ui) var(--ease), transform var(--dur-ui) var(--ease), box-shadow var(--dur-ui) var(--ease); }
 .opt--tile .opt__box { flex-direction: column; justify-content: center; gap: .6rem; min-height: 112px; padding: 1.05rem .6rem; text-align: center; }
+.opt--tile .opt__box > span { text-wrap: balance; } /* "Commercial, HOA or / sports" left one word alone */
 .opt__ico { width: 30px; height: 30px; stroke-width: 1.6; color: var(--accent); transition: transform var(--dur-ui-slow) var(--ease); }
 .opt__tick { flex: 0 0 auto; width: 22px; height: 22px; padding: 4px; border-radius: 50%; background: var(--accent); color: var(--ink-on-dark);
   stroke-width: 3.2; opacity: 0; transform: scale(.9); transition: opacity var(--dur-ui) var(--ease), transform var(--dur-ui-slow) var(--ease); }
@@ -133,7 +134,8 @@ html.estimate-open { overflow: hidden; }
 .offer__copy { display: grid; gap: 1rem; align-content: start; }
 .offer__copy h2 { max-width: 14ch; }
 .offer__copy p:not(.micro) { margin: 0; max-width: 42ch; font-size: clamp(1rem, 2vw, 1.1rem); color: var(--ink-dim); }
-.offer__copy .btn { justify-self: start; margin-top: .3rem; }
+.offer__copy .micro { margin-bottom: 0; } /* the grid gap sets the rhythm once; stacked margins made the gaps 32/16/21/30px */
+.offer__copy .btn { justify-self: start; margin-top: 0; }
 .offer__card { padding: clamp(1.4rem, 4vw, 2.2rem); background: var(--ground); border: 1px solid var(--rule); border-radius: var(--radius-card);
   box-shadow: 0 18px 40px rgba(14, 14, 12, .07); }
 .sec--band .offer__card { background: var(--ground); }
@@ -146,7 +148,7 @@ html.estimate-open { overflow: hidden; }
 .offer__note { margin: .9rem 0 0; font-size: .85rem; color: var(--ink-dim); text-align: center; }
 
 /* --- the offer's proof strip: three of the client's photographs, fanned ------------------- */
-.offer__pics { display: flex; gap: .7rem; margin-top: .9rem; }
+.offer__pics { display: flex; gap: .7rem; margin-top: 0; }
 .offer__pics img { width: clamp(84px, 22vw, 140px); aspect-ratio: 1; object-fit: cover; border-radius: 14px; border: 3px solid var(--ground); box-shadow: 0 12px 26px rgba(14, 14, 12, .14); }
 .offer__pics img:nth-child(1) { transform: rotate(-3deg); }
 .offer__pics img:nth-child(2) { transform: translateY(8px) rotate(1.5deg); }

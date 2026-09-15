@@ -28,6 +28,8 @@
 .hero__trust { list-style: none; margin: 1.4rem 0 0; padding: 0; display: flex; flex-wrap: wrap; justify-content: center; gap: .5rem 1.4rem; font-size: .88rem; line-height: 1.4; color: var(--ink-on-dark-dim); }
 .hero__trust li { display: inline-flex; align-items: center; gap: .45rem; }
 .hero__trust .ico { width: 1em; height: 1em; stroke-width: 2.8; color: var(--accent-on-dark); }
+/* where the three points wrap, centring each line left every tick at a different x; stack them on one left edge instead */
+@media (max-width: 760px) { .hero--home .hero__trust { display: grid; gap: .5rem; width: fit-content; margin-inline: auto; text-align: left; } }
 
 /* "no mud." gets a stroke drawn under it once the headline has landed. The line wrapper
    clips for the rise, so it is given a little room underneath without moving the layout. */
@@ -125,7 +127,8 @@ html:not(.js-motion) .svcrow__go { opacity: 1; transform: none; }
 .areas { list-style: none; margin: clamp(1.6rem, 4vw, 2.6rem) 0 0; padding: 0; border-top: 1px solid var(--rule); }
 .arearow { border-bottom: 1px solid var(--rule); }
 .arearow > a { display: grid; gap: .5rem 2rem; align-items: baseline; padding: clamp(1.1rem, 2.4vw, 1.5rem) 0; text-decoration: none; color: inherit; }
-@media (min-width: 800px) { .arearow > a { grid-template-columns: minmax(10rem, 14rem) minmax(0, 1fr) minmax(0, 15rem); } }
+/* the name column fits "The Grand Strand" on one line at the largest size; the link takes only its own width */
+@media (min-width: 800px) { .arearow > a { grid-template-columns: 17rem minmax(0, 1fr) max-content; } .arearow__g { justify-self: end; } }
 .arearow__n { font-family: var(--font-display); font-size: clamp(1.35rem, 2.8vw, 1.95rem); letter-spacing: -.02em; line-height: 1.1; }
 .arearow__t { color: var(--ink-dim); font-size: .95rem; line-height: 1.55; }
 .arearow__g { font-size: .82rem; letter-spacing: .12em; text-transform: uppercase; color: var(--accent); overflow-wrap: anywhere; transition: color var(--dur-ui) var(--ease); }

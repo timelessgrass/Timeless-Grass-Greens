@@ -155,6 +155,7 @@
 .qa__links { display: flex; flex-wrap: wrap; gap: 0 1.4rem; margin-top: .6rem; }
 .qa__links a { display: inline-flex; align-items: center; min-height: 44px; color: var(--accent); font-weight: 600; font-size: .9rem; }
 .proof__note { margin-top: 1.8rem; font-size: .88rem; color: var(--ink-dim); border-left: 2px solid var(--accent); padding-left: .9rem; max-width: 56ch; }
+.proof__note:last-child { margin-bottom: 0; }
 
 /* --- story ----------------------------------------------------------------------- */
 .story, .two { display: grid; gap: clamp(2rem, 5vw, 4rem); align-items: center; }
@@ -194,7 +195,8 @@
 .proc__step:last-child { border-bottom: 0; padding-bottom: 0; }
 .proc__step i { font-style: normal; font-family: var(--font-display); font-size: 1.5rem; line-height: 1.15; color: var(--accent-on-dark); letter-spacing: -.02em; grid-row: span 2; font-variant-numeric: tabular-nums; }
 .proc__step h3 { color: var(--ink-on-dark); font-size: clamp(1.15rem, 2.2vw, 1.45rem); }
-.proc__step p { grid-column: 2; color: var(--ink-on-dark-dim); max-width: 48ch; font-size: .98rem; }
+.proc__step p { grid-column: 2; margin: 0; color: var(--ink-on-dark-dim); max-width: 48ch; font-size: .98rem; }
+.proc__step p + p { margin-top: .45rem; }
 
 /* --- differentiators: a ruled list, deliberately NOT the card grid above it ------- */
 .split { display: grid; gap: clamp(2rem, 5vw, 4rem); align-items: start; }
@@ -208,6 +210,7 @@
 .diff { display: grid; gap: .45rem; padding: 1.5rem 0; border-bottom: 1px solid var(--rule); }
 .diff h3 { font-family: var(--font-display); font-size: clamp(1.12rem, 2.1vw, 1.38rem); letter-spacing: -.014em; line-height: 1.15; color: var(--ink); }
 .diff p { color: var(--ink-dim); font-size: .98rem; line-height: 1.6; max-width: 52ch; }
+.diff p:last-child { margin-bottom: 0; } /* the base paragraph margin doubled the space under each row */
 /* the same list on a dark ground */
 .on-dark .split__head p, .on-dark .diff p { color: var(--ink-on-dark-dim); }
 .on-dark .diffs, .on-dark .diff { border-color: var(--rule-on-dark); }
@@ -299,19 +302,21 @@
 
 /* --- faq ------------------------------------------------------------------------------ */
 .faq { margin-top: 2.2rem; }
+.doc__sec > h2 + .faq { margin-top: 0; } /* the heading's own margin is the gap, as for every other article heading */
 .qa { border-top: 1px solid var(--rule); }
 .qa:last-child { border-bottom: 1px solid var(--rule); }
 .qa summary { list-style: none; cursor: pointer; padding: 1.25rem 2.2rem 1.25rem 0; position: relative; min-height: 44px; }
 .qa summary::-webkit-details-marker { display: none; }
 .qa summary h3 { display: inline; font-size: clamp(1.08rem, 2.2vw, 1.32rem); }
-.qa summary::after { content: ""; position: absolute; right: .35rem; top: 1.75rem; width: 11px; height: 11px; border-right: 2px solid var(--accent); border-bottom: 2px solid var(--accent); transform: rotate(45deg); transition: transform var(--dur-ui-slow) var(--ease); }
+.qa summary::after { content: ""; position: absolute; right: .35rem; top: calc(50% - 5.5px); width: 11px; height: 11px; border-right: 2px solid var(--accent); border-bottom: 2px solid var(--accent); transform: rotate(45deg); transition: transform var(--dur-ui-slow) var(--ease); }
 .qa[open] summary::after { transform: rotate(-135deg); }
 .qa > p { color: var(--ink-dim); max-width: 62ch; font-size: .97rem; }
-.qa > p:last-child { padding-bottom: 1.4rem; }
+.qa > p:last-child { padding-bottom: 1.4rem; margin-bottom: 0; }
 
 /* --- answer box ------------------------------------------------------------------------ */
 .answer-box__q { font-size: clamp(1.25rem, 2.8vw, 1.75rem); letter-spacing: -.014em; max-width: 30ch; margin-bottom: 1.1rem; }
 .answer-box__a { font-size: clamp(1rem, 2vw, 1.1rem); line-height: 1.66; color: var(--ink-dim); max-width: 58ch; border-left: 2px solid var(--accent); padding-left: 1.15rem; }
+.answer-box__a:last-child { margin-bottom: 0; }
 
 /* --- the one form ----------------------------------------------------------------------- */
 .formband { display: grid; gap: clamp(2rem, 5vw, 4rem); align-items: start; }
@@ -340,7 +345,9 @@
 .doc__meta { font-size: .8rem; margin: 1.2rem 0 0; }
 .doc__body .wrap { max-width: 760px; }
 .doc__sec { margin-bottom: clamp(2.2rem, 5vw, 3.4rem); }
+.sec > .doc__sec:last-child { margin-bottom: 0; } /* a section that is one block: its own padding is the space */
 .doc__sec h2 { font-size: clamp(1.4rem, 3.2vw, 2rem); margin-bottom: 1rem; }
+.doc__sec--policy h2:not(:first-child) { margin-top: 2.4rem; } /* a new topic, not the next paragraph */
 .doc__sec p { font-size: 1.02rem; line-height: 1.68; }
 .doc__sources { border-top: 1px solid var(--rule); padding-top: 1.8rem; }
 .srcs { margin: 1.4rem 0 0; padding-left: 1.1rem; }
@@ -349,7 +356,7 @@
 .srcs__u { display: inline-block; min-height: 44px; padding-block: .5rem; box-sizing: border-box; overflow-wrap: anywhere; } /* long statute URLs: wrap anywhere, and stay a real thumb target */
 .srcs__u { display: block; color: var(--accent); word-break: break-all; font-size: .82rem; }
 .srcs__d { display: block; color: var(--ink-faint); font-size: .78rem; margin-top: .15rem; }
-.disclaim { border: 1px solid var(--rule); border-radius: var(--radius-card); padding: 1.1rem 1.2rem; margin: 0 0 2.2rem; background: var(--ground-band); }
+.disclaim { border: 1px solid var(--rule); border-radius: var(--radius-card); padding: 1.1rem 1.2rem; margin: 0 0 clamp(2.2rem, 5vw, 3.4rem); background: var(--ground-band); }
 .disclaim p { font-size: .87rem; line-height: 1.6; color: var(--ink-dim); margin: 0; max-width: none; }
 .towns { list-style: none; padding: 0; margin: 2rem 0 0; display: grid; gap: .1rem; }
 @media (min-width: 620px) { .towns { grid-template-columns: repeat(2, 1fr); } }

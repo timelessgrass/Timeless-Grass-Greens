@@ -124,6 +124,7 @@
 .towns .ico { width: .8em; height: .8em; margin-right: .45rem; vertical-align: -.02em; color: var(--accent); stroke-width: 2.2; }
 .towns__split .proof__note { margin-top: 1.2rem; }
 @media (max-width: 619px) { .towns__split .towns { grid-template-columns: repeat(2, 1fr); column-gap: 1rem; } .towns__split .towns li { font-size: 1rem; } } /* seventeen towns in one column ran a thousand pixels on a phone */
+@media (min-width: 980px) { .towns__split .towns { grid-template-columns: repeat(2, 1fr); } } /* three columns broke "North Myrtle Beach, SC" and stretched its row */
 
 /* six photographs: two rows of three, not four and an orphaned pair */
 /* Market galleries use the same generous two-column layout. */
@@ -182,6 +183,7 @@
 .doc__body { min-width: 0; }
 .doc__body .doc__sec p, .doc__prose li { font-size: clamp(1.0625rem, 1.3vw, 1.125rem); line-height: 1.75; }
 .doc__body .doc__sec p { max-width: none; margin-bottom: 1.2em; }
+.doc__body .doc__sec .qa > p:last-child { margin-bottom: 0; } /* the answer's own padding is the space under it */
 .doc__prose > h2, .doc__guide-section > h2 { padding-top: 1.4rem; border-top: 1px solid var(--rule); font-size: clamp(1.65rem, 3vw, 2.15rem); line-height: 1.15; margin-bottom: 1.1rem; }
 .doc__prose > h2 { margin-top: clamp(2.5rem, 5vw, 3.5rem); }
 .doc__prose > h2:first-child { margin-top: 0; }
