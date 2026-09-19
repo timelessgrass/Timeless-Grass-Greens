@@ -44,7 +44,7 @@ adjacent sections share a ground. The homepage sets the pattern; sub-pages follo
 - **Body:** Instrument Sans 400/500/600, 16px floor, line-height 1.6.
 - **Micro:** `.micro` — .68rem, `+.24em` tracking, uppercase. Quarantined ≤ .75rem.
 - **Bimodal tracking:** display negative, micro positive, **nothing between**.
-- One Google Fonts host, `display=swap`, real fallbacks.
+- Both families self-hosted as variable woff2 (`src/styles/fonts.css`), `display=swap`, latin preloaded, real fallbacks.
 
 ## Shape
 

@@ -1,4 +1,7 @@
 ---
+import '../styles/fonts.css';
+import newsreaderLatin from '../assets/fonts/newsreader-latin.woff2';
+import instrumentSansLatin from '../assets/fonts/instrument-sans-latin.woff2';
 import '../styles/tokens.css';
 import '../styles/base.css';
 import '../styles/components.css';
@@ -121,9 +124,8 @@ if (schema?.length) graph.push(...schema);
 <meta property="og:image" content={new URL('/brand/og.jpg', Astro.site).href} />
 <meta property="og:site_name" content={businessName} />
 <meta name="twitter:card" content="summary_large_image" />
-<link rel="preconnect" href="https://fonts.googleapis.com" />
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=Instrument+Sans:wght@400;500;600&display=swap" />
+<link rel="preload" href={newsreaderLatin} as="font" type="font/woff2" crossorigin />
+<link rel="preload" href={instrumentSansLatin} as="font" type="font/woff2" crossorigin />
 <script is:inline type="application/ld+json" set:html={JSON.stringify({ '@context': 'https://schema.org', '@graph': graph })} />
 </head>
 <body class:list={{ 'has-inline-estimate': noEstimate }}>
