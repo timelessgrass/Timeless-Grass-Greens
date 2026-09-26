@@ -5,6 +5,7 @@ BTN-1    every .btn is a pill               HERO-1   .hero is dark
 STRIPE-1 no light stripe on a dark hero     RHYTHM-1 no two adjacent sections share a ground (warn)
 CTA-1    every data-cta link is a styled control
 INLINE-1 no inline hex colours or radius    EASE-1   exactly one cubic-bezier in CSS
+TEL-1    our phone numbers in body text are tap-to-call (scripts/link-phones.mjs wraps them)
 """
 import re, sys, pathlib
 root = pathlib.Path(sys.argv[1] if len(sys.argv) > 1 else 'dist')
@@ -55,6 +56,12 @@ for html in sorted(root.rglob('index.html')):
     for st in re.findall(r'style="([^"]*)"', h):
         if re.search(r'#[0-9a-fA-F]{3,6}\b|border-radius', st) and 'var(' not in st and '--ratio' not in st:
             fails.append(f'INLINE-1 {rel}: inline "{st[:48]}"')
+    body = re.sub(r'<script.*?</script>|<style.*?</style>|<!--.*?-->', '', h.split('<body', 1)[-1], flags=re.S)
+    links = [m.span() for m in re.finditer(r'<a\b[^>]*>.*?</a>|<button\b.*?</button>', body, flags=re.S)]
+    for m in re.finditer(r'(?<!\d)\(?\d{3}\)?[\s.\u2011-]?\d{3}[\s.\u2011-]?\d{4}(?!\d)', body):
+        if re.sub(r'\D', '', m.group()) not in ('3033492368', '7206300108'): continue
+        if not any(s <= m.start() and m.end() <= e for s, e in links):
+            fails.append(f'TEL-1 {rel}: {m.group()} is plain text, not a tel: link')
 
 for w in warns: print('  ! WARN', w)
 for f in fails: print('  x FAIL', f)
