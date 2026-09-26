@@ -22,7 +22,13 @@ img { max-width: 100%; height: auto; display: block; }
 /* Every photograph is a <picture> (AVIF, then WebP). display:contents keeps the <img> the
    grid or flex item, so every layout rule written for a bare img still holds. */
 picture { display: contents; }
+/* A word with no break points (the River Hills manual's "Renovations/Alterations/…") would otherwise push
+   the page sideways on a 320px phone. This only breaks a word that cannot fit its line. */
+body { overflow-wrap: break-word; }
 a { color: inherit; }
+/* The numbers scripts/link-phones.mjs links inside copy carry no class. Keep each on one line: at phone
+   widths "303-" otherwise wraps away from "349-2368". Buttons keep their own wrapping. */
+a[href^="tel:"]:not([class]) { white-space: nowrap; }
 
 h1, h2, h3 {
   font-family: var(--font-display);
