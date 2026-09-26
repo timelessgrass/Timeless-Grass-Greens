@@ -115,6 +115,12 @@ test('the real publication passes all build checks and guide references reach HT
   const build = spawnSync('npm', ['run', 'build'], { cwd: root, encoding: 'utf8', maxBuffer: 8 * 1024 * 1024 });
   assert.equal(build.status, 0, `${build.stdout}\n${build.stderr}`);
   for (const guide of await loadGuides()) {
+    if (guide.publicReferencesWithheld) {
+      // Withheld on purpose, with a reason on record: no list, and no useful-links box on the page.
+      assert.equal(guide.publicReferences?.length ?? 0, 0, `${guide.slug}: withholds references but lists some`);
+      assert.doesNotMatch(read(`dist/guides/${guide.slug}/index.html`), /data-public-references/, `${guide.slug}: withholds references but shows a useful-links box`);
+      continue;
+    }
     assert.ok(guide.publicReferences?.length, `${guide.slug} lost its useful reference selection`);
     const html = read(`dist/guides/${guide.slug}/index.html`);
     const mirror = read(`dist/guides/${guide.slug}/index.html.md`);

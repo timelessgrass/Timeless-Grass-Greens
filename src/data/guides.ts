@@ -2262,8 +2262,8 @@ export const GUIDES: Guide[] = [
         "checked": "2026-09-13"
       }
     ],
-    "publicReferences": [
-    ]
+    "publicReferences": [],
+    "publicReferencesWithheld": "Every source is on dfpc.colorado.gov, which blocks site-audit crawlers; those links were removed for the Ahrefs audit on 2026-09-15. The text names each DFPC document instead.",
   },
   {
     "slug": "flood-zone-artificial-turf-permits",
