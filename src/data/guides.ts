@@ -15,6 +15,7 @@ export type { Guide } from './guides.types';
 export const GUIDES: Guide[] = [
   {
     "publicReferences": [
+      "https://westernresourceadvocates.org/wp-content/uploads/2025/08/2025_SB24-005_Simplified-Guide.pdf"
     ],
     "answer": {
       "question": "Is artificial turf illegal in Colorado?",
@@ -847,6 +848,8 @@ export const GUIDES: Guide[] = [
   },
   {
     "publicReferences": [
+      "https://westernresourceadvocates.org/wp-content/uploads/2025/08/2025_SB24-005_Simplified-Guide.pdf",
+      "https://www.thorntonwater.com/wp-content/uploads/2026/02/2026-residential_artificial_turf_info__rules-1.pdf"
     ],
     "answer": {
       "question": "Can my HOA stop me putting artificial turf in my yard in Colorado?",
@@ -1914,6 +1917,8 @@ export const GUIDES: Guide[] = [
       }
     ],
     "publicReferences": [
+      "https://www.carolinashoresnc.com/planningzoning",
+      "https://coastalreview.org/2021/09/coastal-resources-commission-digs-in-on-artificial-turf/"
     ]
   },
   {
