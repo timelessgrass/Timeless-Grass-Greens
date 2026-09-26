@@ -6,6 +6,7 @@ STRIPE-1 no light stripe on a dark hero     RHYTHM-1 no two adjacent sections sh
 CTA-1    every data-cta link is a styled control
 INLINE-1 no inline hex colours or radius    EASE-1   exactly one cubic-bezier in CSS
 TEL-1    our phone numbers in body text are tap-to-call (scripts/link-phones.mjs wraps them)
+LEDE-1   a hero lede is 30 words or fewer, so the first screen on a phone keeps its button
 """
 import re, sys, pathlib
 root = pathlib.Path(sys.argv[1] if len(sys.argv) > 1 else 'dist')
@@ -62,6 +63,9 @@ for html in sorted(root.rglob('index.html')):
         if re.sub(r'\D', '', m.group()) not in ('3033492368', '7206300108'): continue
         if not any(s <= m.start() and m.end() <= e for s, e in links):
             fails.append(f'TEL-1 {rel}: {m.group()} is plain text, not a tel: link')
+    for lede in re.findall(r'<p class="hero__lede"[^>]*>(.*?)</p>', h, flags=re.S):
+        words = len(re.sub(r'<[^>]+>|&[a-z]+;', ' ', lede).split())
+        if words > 30: fails.append(f'LEDE-1 {rel}: hero lede is {words} words (30 at most)')
 
 for w in warns: print('  ! WARN', w)
 for f in fails: print('  x FAIL', f)
