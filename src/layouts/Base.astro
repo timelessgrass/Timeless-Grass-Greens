@@ -107,6 +107,17 @@ if (schema?.length) graph.push(...schema);
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
+{noEstimate && <script is:inline>
+  /* Match the inline wizard's first step before paint. If its module cannot load,
+     return to the complete native form instead of leaving later questions hidden. */
+  document.documentElement.classList.add('estimate-pending');
+  window.setTimeout(() => {
+    const html = document.documentElement;
+    if (!html.classList.contains('estimate-pending')) return;
+    html.classList.remove('estimate-pending');
+    html.classList.add('estimate-native'); // keep a late module from interrupting this fallback
+  }, 4000);
+</script>}
 <title>{title}</title>
 <meta name="description" content={description} />
 <link rel="canonical" href={canonical} />
@@ -237,6 +248,6 @@ if (schema?.length) graph.push(...schema);
       </div>
     </dialog>
   )}
-  <script>import '../scripts/motion'; import '../scripts/estimate'; import '../scripts/lightbox';</script>
+  <script>import '../scripts/motion'; import '../scripts/lightbox';</script>
 </body>
 </html>

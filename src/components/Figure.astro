@@ -20,7 +20,8 @@ import { Image } from 'astro:assets';
 
 /* Every photograph in src/assets/photos is imported at build time so Astro can emit WebP
    at the widths a page actually uses, with width/height on the tag. 320 and 480 exist for the
-   two-up phone grid; 1280 is the ceiling (and the fallback src), which covers the widest slot
+   two-up phone grid; 720 and 800 avoid jumping from 640 to 960 on full-width phones.
+   1280 is the ceiling (and the fallback src), which covers the widest slot
    on the page at 2x. WebP, not AVIF: Astro's AVIF came out 25–35% larger on these photographs,
    measured width for width. A 2400px JPEG from a phone is never served to a visitor. */
 const PHOTOS = import.meta.glob<{ default: ImageMetadata }>('../assets/photos/*.jpg', { eager: true });
@@ -40,7 +41,7 @@ const KIND: Record<string, string> = {
   <figure class="fig" style={`--ratio:${shot.ratio}`} data-parallax={parallax ? '' : undefined} data-reveal={reveal ? 'photo' : undefined}>
     <div class="fig__media">
     <Image src={img} alt={shot.alt ?? shot.caption ?? ''} width={1280}
-           widths={[320, 480, 640, 960, 1280]} quality={66} sizes={sizes}
+           widths={[320, 480, 640, 720, 800, 960, 1280]} quality={66} sizes={sizes}
            loading="lazy" decoding="async" />
     </div>
     {shot.caption && <figcaption>{shot.caption}</figcaption>}

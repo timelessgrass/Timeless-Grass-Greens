@@ -130,3 +130,12 @@ const title = `wiz-${mode}-title`;
     {mode === 'modal' ? <button class="btn btn--primary" type="button" data-estimate-close>Done</button> : <a class="btn btn--primary" href="/">Back to the homepage</a>}
   </div>
 </form>
+{mode === 'inline' && <script is:inline>
+  /* The first-step layout is already visible, but navigation needs its handlers. */
+  {
+    const form = document.currentScript.previousElementSibling;
+    const next = form.querySelector('[data-wiz-next]');
+    if (document.documentElement.classList.contains('estimate-pending') && next) next.disabled = true;
+  }
+</script>}
+<script>import '../scripts/estimate';</script>

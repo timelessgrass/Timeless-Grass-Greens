@@ -121,6 +121,7 @@ function enhance(form: HTMLFormElement): Wizard {
   });
 
   show(0);
+  if (next) next.disabled = false;
   return {
     reset(preset) {
       if (busy) return;
@@ -155,7 +156,13 @@ function enhance(form: HTMLFormElement): Wizard {
 }
 
 const wizards = new Map<HTMLFormElement, Wizard>();
-document.querySelectorAll<HTMLFormElement>('form[data-wizard]').forEach((f) => wizards.set(f, enhance(f)));
+const forms = document.querySelectorAll<HTMLFormElement>('form[data-wizard]');
+forms.forEach((form) => {
+  // Once the full native form is usable, a late script must preserve its layout and focus.
+  if (form.classList.contains('wiz--inline') && html.classList.contains('estimate-native')) return;
+  wizards.set(form, enhance(form));
+});
+html.classList.remove('estimate-pending');
 
 /* Where the visit came from, for the lead email and the portal: the UTM tags and ad click IDs on the
    landing URL, and the first outside site that sent them. Kept for the tab's session, so someone who
@@ -173,7 +180,7 @@ const attribution = ((): Record<string, string> => {
   try { sessionStorage.setItem('tg-attribution', JSON.stringify(now)); } catch { /* blocked */ }
   return now;
 })();
-wizards.forEach((_, form) => form.querySelectorAll<HTMLInputElement>('input[data-attr]').forEach((input) => { input.value = attribution[input.name] ?? ''; }));
+forms.forEach((form) => form.querySelectorAll<HTMLInputElement>('input[data-attr]').forEach((input) => { input.value = attribution[input.name] ?? ''; }));
 
 /* /estimate/?use=Pet%20turf — an ad or a link can land the visitor on step two */
 const inline = document.querySelector<HTMLFormElement>('form.wiz--inline');

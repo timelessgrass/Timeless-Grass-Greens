@@ -43,6 +43,13 @@ html.estimate-open { overflow: hidden; }
 .wiz__step { min-width: 0; margin: 0; padding: 0; border: 0; }
 .wiz:not(.is-wizard) .wiz__step + .wiz__step { margin-top: 2.2rem; }
 .wiz.is-wizard .wiz__step:not(.is-on) { display: none; }
+/* The inline form reserves the same first-step layout while its independent
+   module loads. Without scripts, or after the loading fallback, all questions show. */
+html.estimate-pending .wiz--inline:not(.is-wizard) .wiz__count,
+html.estimate-pending .wiz--inline:not(.is-wizard) .wiz__bar { display: block; }
+html.estimate-pending .wiz--inline:not(.is-wizard) .wiz__step:not(.is-on),
+html.estimate-pending .wiz--inline:not(.is-wizard) .wiz__submit { display: none; }
+html.estimate-pending .wiz--inline:not(.is-wizard) .wiz__next[hidden] { display: inline-flex !important; }
 .wiz.is-wizard .wiz__step.is-on { transition: opacity var(--dur-ui-slow) var(--ease), translate var(--dur-ui-slow) var(--ease); }
 @starting-style { .wiz.is-wizard .wiz__step.is-on { opacity: 0; translate: var(--dir, 28px) 0; } }
 /* the answers arrive one after another, 35ms apart */

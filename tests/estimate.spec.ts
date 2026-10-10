@@ -559,3 +559,106 @@ test.describe('without JavaScript', () => {
     expectPayload(postGuard.posts[0], '/api/lead');
   });
 });
+
+test.describe('estimate initialization', () => {
+  test.use({ viewport: { width: 390, height: 844 } });
+
+  test('delayed wizard code keeps the first question in place', async ({ page, postGuard }) => {
+    let release!: () => void;
+    const moduleGate = new Promise<void>((resolve) => { release = resolve; });
+    let found!: () => void;
+    const moduleRequested = new Promise<void>((resolve) => { found = resolve; });
+    await page.route('**/_astro/*.js', async (route) => {
+      const response = await route.fetch();
+      const source = await response.text();
+      if (source.includes('data-wiz-next') && source.includes('form[data-wizard]')) {
+        found();
+        await moduleGate;
+      }
+      await route.fulfill({ response });
+    });
+    try {
+      await page.goto('/estimate/', { waitUntil: 'commit' });
+      await moduleRequested;
+      const form = wizard(page);
+      await expect(form.locator('[data-step]').first()).toBeVisible();
+      for (const step of (await form.locator('[data-step]').all()).slice(1)) await expect(step).toBeHidden();
+      await expect(form.locator('[data-wiz-next]')).toBeVisible();
+      await expect(form.locator('[data-wiz-next]')).toBeDisabled();
+      await expect(form.locator('[type="submit"]')).toBeHidden();
+      await page.evaluate(() => document.fonts.ready);
+      await twoFrames(page);
+      const before = await form.locator('.wiz__steps').boundingBox();
+      release();
+      await expect(form).toHaveClass(/is-wizard/);
+      await expect(form.locator('[data-wiz-next]')).toBeEnabled();
+      await twoFrames(page);
+      const after = await form.locator('.wiz__steps').boundingBox();
+      expect(before).not.toBeNull();
+      expect(after).not.toBeNull();
+      expect(Math.abs(after!.y - before!.y), 'Initializing must not move the first question').toBeLessThanOrEqual(1);
+      expect(Math.abs(after!.height - before!.height), 'Initializing must not collapse a painted full form').toBeLessThanOrEqual(1);
+      expect(postGuard.posts).toHaveLength(0);
+    } finally {
+      release();
+    }
+  });
+
+  test('failed wizard code restores the complete usable native form', async ({ page, postGuard }) => {
+    await page.route('**/_astro/*.js', async (route) => {
+      const response = await route.fetch();
+      const source = await response.text();
+      if (source.includes('data-wiz-next') && source.includes('form[data-wizard]')) await route.abort();
+      else await route.fulfill({ response });
+    });
+    await page.goto('/estimate/');
+    const form = wizard(page);
+    await expect(form).not.toHaveClass(/is-wizard/);
+    for (const step of await form.locator('[data-step]').all()) await expect(step).toBeVisible({ timeout: 6000 });
+    await expect(form.getByRole('button', { name: 'Request a free estimate', exact: true })).toBeVisible();
+    await expect(form.locator('[data-wiz-next]')).toBeHidden();
+    expect(await form.evaluate((node: HTMLFormElement) => node.noValidate)).toBe(false);
+    await expectFormReflow(page, form);
+    expect(postGuard.posts).toHaveLength(0);
+  });
+
+  test('a module arriving after fallback preserves the native form and current input', async ({ page, postGuard }) => {
+    let release!: () => void;
+    const moduleGate = new Promise<void>((resolve) => { release = resolve; });
+    let found!: () => void;
+    const moduleRequested = new Promise<void>((resolve) => { found = resolve; });
+    await page.route('**/_astro/*.js', async (route) => {
+      const response = await route.fetch();
+      const source = await response.text();
+      if (source.includes('data-wiz-next') && source.includes('form[data-wizard]')) {
+        found();
+        await moduleGate;
+      }
+      await route.fulfill({ response });
+    });
+    try {
+      await page.goto('/estimate/?utm_source=late-module-test', { waitUntil: 'commit' });
+      await moduleRequested;
+      const form = wizard(page);
+      for (const step of await form.locator('[data-step]').all()) await expect(step).toBeVisible({ timeout: 6000 });
+      const name = form.locator('input[name="name"]');
+      await name.fill(LEAD.name);
+      await name.focus();
+      const before = await form.locator('.wiz__steps').boundingBox();
+      release();
+      await page.waitForLoadState('domcontentloaded');
+      await expect(form.locator('input[name="utm_source"]')).toHaveValue('late-module-test');
+      await expect(form).not.toHaveClass(/is-wizard/);
+      for (const step of await form.locator('[data-step]').all()) await expect(step).toBeVisible();
+      await expect(name).toBeFocused();
+      await expect(name).toHaveValue(LEAD.name);
+      await expect(form.locator('[data-wiz-next]')).toBeHidden();
+      expect(await form.evaluate((node: HTMLFormElement) => node.noValidate)).toBe(false);
+      const after = await form.locator('.wiz__steps').boundingBox();
+      expect(Math.abs(after!.height - before!.height)).toBeLessThanOrEqual(1);
+      expect(postGuard.posts).toHaveLength(0);
+    } finally {
+      release();
+    }
+  });
+});
