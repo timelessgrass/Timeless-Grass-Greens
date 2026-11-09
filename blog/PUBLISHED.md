@@ -4,3 +4,4 @@ One line per publish, written by .github/workflows/weekly-publish.yml.
 
 2026-10-26 overseeding-ryegrass-or-artificial-turf
 2026-11-02 is-artificial-turf-impervious-surface
+2026-11-09 potty-training-a-puppy-on-artificial-turf
